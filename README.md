@@ -6,7 +6,7 @@
 ---
 
 ## 🌟 Key Features
-- **1,000 Complete Stories**: Spanning 57 categories including Science, History, Nature, Space Exploration, World Literature, Mythology, Computing & AI, and more.
+- **1,000 Complete Stories**: Spanning 57 categories including Science, History, Nature, Space Exploration, World Literature, Mythology, Computing & Technology, and more.
 - **7,732 Line-by-Line Bilingual Sentences**: Natural, idiomatic, human-grade Bengali translations alongside nuanced English prose.
 - **Interactive Audio & Speech**: Teenage boy voice narration with synchronized real-time word highlighting.
 - **Vocabulary Study Mode**: Interactive blur-to-reveal translation cards for active recall and vocabulary retention.
@@ -51,7 +51,13 @@ python3 build_stories.py
 bash build_apk.sh
 ```
 
+## 👤 Author
+
+**Ahmad Hibban**
+- GitHub: [@ahmadhibban](https://github.com/ahmadhibban)
+
 ---
 
 ## 📄 License
-MIT License. Created with ❤️ by Ahmad Hibban.
+
+MIT License. Copyright © Ahmad Hibban.
