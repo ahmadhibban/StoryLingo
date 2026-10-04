@@ -1,17 +1,22 @@
 # StoryLingo 📚✨
-### 1,000 Curated Bilingual English Stories with Sentence-by-Sentence Bengali Translations
+### 100 Grand Bilingual Islamic Stories with Word-by-Word Vocabulary & Sentence-by-Sentence Bengali Meaning
 
-> 🌐 **Live Web Application**: [https://ahmadhibban.github.io/StoryLingo/](https://ahmadhibban.github.io/StoryLingo/) — *Open and use directly in any web browser without installation.*
+> 🌐 **Live Web Application**: [https://ahmadhibban.github.io/StoryLingo/](https://ahmadhibban.github.io/StoryLingo/) — *Open and read directly in any web browser without installation.*
 
-**StoryLingo** is a full-featured bilingual reading, listening, and learning platform designed to help Bengali speakers master intermediate and advanced English through immersive, high-quality storytelling.
+**StoryLingo** is a full-featured bilingual Islamic reading, listening, and language-learning platform. It presents 100 comprehensive, historically authentic Islamic chronicles with sentence-by-sentence literary Bengali contextual meaning (ভাবার্থ) and detailed word-by-word vocabulary breakdowns (শব্দার্থ) for language mastery.
 
 ---
 
 ## 🌟 Key Features
-- **1,000 Complete Stories**: Spanning 57 categories including Science, History, Nature, Space Exploration, World Literature, Mythology, Computing & Technology, and more.
-- **7,732 Line-by-Line Bilingual Sentences**: Natural, idiomatic, human-grade Bengali translations alongside nuanced English prose.
-- **Interactive Audio & Speech**: Teenage boy voice narration with synchronized real-time word highlighting.
-- **Vocabulary Study Mode**: Interactive blur-to-reveal translation cards for active recall and vocabulary retention.
+- **100 Grand Islamic Stories**:
+  - **Stories of the Prophets (35 stories)**: From the Creation of Adam, Nuh, Ibrahim, Yusuf, Musa, Dawud, Sulaiman to Isa (peace be upon them all).
+  - **Noble Companions (30 stories)**: Unwavering loyalty of Abu Bakr, Umar, Uthman, Ali, Bilal, Salman, Khalid ibn al-Walid, Mus'ab ibn Umayr, Khadijah, Aisha, and more.
+  - **Quranic & Hadith Chronicles (20 stories)**: Ashab al-Kahf, Dhul-Qarnayn, The Man Who Killed 99 People, Jurayj the Monk, The Sinner and the Thirsty Dog, Ashab al-Fil, and more.
+  - **Islamic Golden Age (15 stories)**: Caliph Umar ibn Abdul Aziz, Salahuddin Ayyubi, Tariq ibn Ziyad, The Four Imams (Abu Hanifa, Malik, Shafi'i, Ahmad), Al-Khwarizmi, Ibn Sina, Sultan Mehmed II, Al-Zahrawi, Al-Biruni, Al-Jazari, and the Prophet's ﷺ Farewell Sermon.
+- **888 Sentence Pairs with Contextual Bengali Meaning (ভাবার্থ)**: Precise literary translation conveying spiritual depth and linguistic nuances.
+- **3,756 Word-by-Word Vocabulary Breakdowns (ওয়ার্ড বাই ওয়ার্ড অর্থ)**: High-visibility interactive word chips displaying English and corresponding Bengali definitions for every sentence.
+- **Instant Audio Narration & Pronunciation**: Fluent English speech synthesis with real-time word glow animation, plus one-tap pronunciation on every individual word chip.
+- **Instant Search & Category Filter Pills**: Rapidly filter stories by collection or search titles in English and Bengali.
 - **Progressive Web App & Native Android APK**:
   - Live Web & PWA: [https://ahmadhibban.github.io/StoryLingo/](https://ahmadhibban.github.io/StoryLingo/)
   - Standalone Offline Android App (`StoryLingo.apk`) with live cloud update synchronization.
@@ -23,15 +28,16 @@
 ```
 StoryLingo/
 ├── index.html              # Progressive Web App UI & Reader Engine
-├── stories.js              # Compiled Master Database (1,000 Stories, 7,732 Sentence Pairs)
+├── stories.js              # Compiled Master Database (100 Stories, 888 Sentences, 3,756 Word Chips)
 ├── tailwind.js             # Offline Tailwind Engine
 ├── sw.js                   # Service Worker (Instant offline cache & background updates)
 ├── manifest.json           # Web App Manifest
 ├── icon.png                # App Icon
 ├── fonts/                  # Custom Typography (Poppins & Hind Siliguri)
 ├── assets/                 # Packaged Assets for Android APK
-│   ├── data/               # 63 Modular JSON Story Batches (batch_00 to batch_62)
-│   └── stories.js          # Synchronized Local Offline Database
+│   ├── data/               # 10 Curated JSON Story Batches (batch_01 to batch_10)
+│   ├── stories.js          # Synchronized Local Offline Database
+│   └── legacy_short_fables/# Archived legacy short stories
 ├── src/                    # Native Android Java Sources (MainActivity.java)
 ├── res/                    # Android Layouts, Strings, and Mipmap Icons
 ├── AndroidManifest.xml     # Android App Manifest
