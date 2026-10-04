@@ -1,6 +1,8 @@
 # StoryLingo 📚✨
 ### 1,000 Curated Bilingual English Stories with Sentence-by-Sentence Bengali Translations
 
+> 🌐 **Live Web Application**: [https://ahmadhibban.github.io/StoryLingo/](https://ahmadhibban.github.io/StoryLingo/) — *Open and use directly in any web browser without installation.*
+
 **StoryLingo** is a full-featured bilingual reading, listening, and learning platform designed to help Bengali speakers master intermediate and advanced English through immersive, high-quality storytelling.
 
 ---
