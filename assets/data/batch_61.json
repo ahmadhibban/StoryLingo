@@ -1,0 +1,617 @@
+[
+  {
+    "id": "ijapa-tortoise-yoruba-tales",
+    "title": "Ijapa the Tortoise: The Feast in the Clouds",
+    "titleBn": "ইজাপা কচ্ছপ: মেঘের দেশে ভোজের উৎসব",
+    "author": "Yoruba Folktale Archives",
+    "level": "Intermediate",
+    "category": "Myths & Legends",
+    "coverEmoji": "🐢",
+    "summary": "In Yoruba folklore, the cunning tortoise tricks birds into lending him feathers for a heavenly banquet, learning a hard lesson in greed.",
+    "summaryBn": "ইওরুবা রূপকথায় ধূর্ত কচ্ছপ পাখিদের কাছ থেকে পালক ধার নিয়ে মেঘের ভোজসভায় যায় এবং লোভের চরম শাস্তি ভোগ করে।",
+    "sentences": [
+      {
+        "en": "In West African Yoruba mythology, Ijapa the tortoise is celebrated as a clever trickster whose boundless wit is rivaled only by his insatiable greed.",
+        "bn": "পশ্চিম আফ্রিকার ইওরুবা রূপকথায় ইজাপা কচ্ছপ এক চতুর রূপক চরিত্র হিসেবে খ্যাত, যার মেধার সাথে কেবল তার সীমাহীন লোভেরই পাল্লা চলত।"
+      },
+      {
+        "en": "During a severe famine on Earth, word arrived that the Sky King was hosting an opulent banquet for all feathered creatures high among the clouds.",
+        "bn": "মাটিতে তীব্র দুর্ভিক্ষের সময় আকাশে খবর এলো যে মেঘের ওপরে স্বর্গের রাজা সমস্ত ডানাওয়ালা পাখির জন্য এক রাজকীয় ভোজসভার আয়োজন করেছেন।"
+      },
+      {
+        "en": "Desperate for food, Ijapa begged the birds to donate one feather each, attaching them with wax to craft functional makeshift wings.",
+        "bn": "খাবারের লোভে ব্যাকুল হয়ে ইজাপা প্রতিটি পাখির কাছে একটি করে পালক ভিক্ষা চায় এবং মোম দিয়ে তা নিজের পিঠে সেঁটে ডানার রূপ দেয়।"
+      },
+      {
+        "en": "Arriving in the heavens, the glib tortoise introduced himself as 'All-of-You', assuring the birds that it was a traditional diplomatic title.",
+        "bn": "আকাশে পৌঁছে ধূর্ত কচ্ছপ নিজের নাম রাখে 'তোমরা সবাই', এবং পাখিদের বোঝায় যে এটি স্বর্গের এক বিশেষ রাজকীয় সম্মানসূচক নাম।"
+      },
+      {
+        "en": "When the hosts served lavish platters announcing 'This feast is for all of you', Ijapa arrogantly devoured every delicacy himself.",
+        "bn": "স্বর্গের আপ্যায়নকারীরা যখন 'এই খাবার তোমাদের সবার জন্য' বলে থালা পরিবেশন করল, তখন ইজাপা নামের ফাঁকি দিয়ে একাই সব সুস্বাদু খাবার গিলে ফেলল।"
+      },
+      {
+        "en": "Infuriated by his betrayal, the birds plucked back their feathers, leaving the stranded tortoise to plunge from the sky onto hard stones.",
+        "bn": "তার বিশ্বাসঘাতকতায় ক্ষুব্ধ হয়ে পাখিরা তাদের পালকগুলো টেনে খুলে নেয়, যার ফলে অসহায় কচ্ছপটি আকাশ থেকে নিচে শক্ত পাথরের ওপর আছড়ে পড়ে।"
+      },
+      {
+        "en": "A gifted medicine man glued his shattered carapace back together, explaining why tortoises carry cracked, patchwork shells to this day.",
+        "bn": "এক গুণী কবিরাজ তার চূর্ণবিচূর্ণ খোলস আঠা দিয়ে জোড়া লাগিয়ে দেন, যা ব্যাখ্যা করে কচ্ছপের পিঠে কেন আজও ফাটা দাগের মতো খাঁজ দেখা যায়।"
+      }
+    ]
+  },
+  {
+    "id": "coyote-places-stars-folklore",
+    "title": "Coyote and the Night Sky: How the Stars Were Scattered",
+    "titleBn": "কোয়োট ও রাতের আকাশ: তারাদের এলোমেলো রূপকথা",
+    "author": "Indigenous American Tales",
+    "level": "Intermediate",
+    "category": "Myths & Legends",
+    "coverEmoji": "🐺",
+    "summary": "In Native American mythology, the impatient trickster Coyote upends a blanket of arranged constellations, scattering stars across the firmament.",
+    "summaryBn": "আমেরিকান আদিবাসীদের রূপকথায় অধৈর্য কোয়োট সাজানো তারামণ্ডলীর চাদর উল্টে দিয়ে আকাশে লাখ লাখ এলোমেলো তারার সৃষ্টি করেছিল।",
+    "sentences": [
+      {
+        "en": "In the ancient era before the world had night lights, the Creator laid a vast blanket of glittering quartz crystal pebbles across the desert floor.",
+        "bn": "পৃথিবীতে রাতের আলো ফোটার আগের এক প্রাচীন যুগে সৃষ্টিকর্তা মরুভূমির মেঝের ওপর জ্বলজ্বলে স্ফটিক পাথরের এক সুবিশাল চাদর বিছিয়েছিলেন।"
+      },
+      {
+        "en": "He began placing each stone deliberately into the black sky, meticulously drafting constellations representing Great Bear, Eagle, and Mountain Lion.",
+        "bn": "তিনি পরম যত্নে একটি একটি করে পাথর আকাশের নিকষ কালো ক্যানভাসে বসাতে শুরু করেন এবং ভালুক, ঈগল ও পার্বত্য সিংহের আকৃতি গড়ে তোলেন।"
+      },
+      {
+        "en": "Coyote, the restless trickster wandering nearby, grew intensely irritated by the creator's agonizingly slow artistic patience.",
+        "bn": "কাছেই ঘুরে বেড়ানো অস্থির স্বভাবের চালাক প্রাণী কোয়োট সৃষ্টিকর্তার এমন ধীরেসুস্থে কাজ করার ধৈর্য দেখে ভীষণ বিরক্ত হয়ে ওঠে।"
+      },
+      {
+        "en": "'This takes far too long!' barked Coyote, snatching the four corners of the woven blanket before anyone could stop him.",
+        "bn": "'এতে অনেক বেশি সময় লাগছে!' চিৎকার করে উঠে কোয়োট কারো বাধার তোয়াক্কা না করে বোনা চাদরের চার কোণা ধরে এক ঝটকায় তুলে নিল।"
+      },
+      {
+        "en": "With an impulsive heave, he flung thousands of remaining quartz pebbles blindly upward into the celestial expanse.",
+        "bn": "হঠকারী আবেগে সে বাকি হাজার হাজার স্ফটিক পাথরকে এক ঝটকায় অন্ধের মতো আকাশের সুবিশাল শূন্যতার দিকে ছুড়ে মারল।"
+      },
+      {
+        "en": "The crystals burst across the darkness in total disarray, creating the Milky Way and the countless nameless twinkling stars visible tonight.",
+        "bn": "স্ফটিকগুলো নিকষ আঁধারে ছড়িয়ে পড়ে সম্পূর্ণ এলোমেলো রূপ নিল, যার ফলে ছায়াপথ এবং আকাশে অগণিত নামহীন মিটিমিটি তারার সৃষ্টি হলো।"
+      },
+      {
+        "en": "Ashamed of his clumsy impatience, Coyote howls mournfully at the night sky, forever lamenting the orderly art he disrupted.",
+        "bn": "নিজের এমন কাণ্ডজ্ঞানহীন অধৈর্য্যের লজ্জায় কোয়োট আজও রাতে আকাশের দিকে মুখ তুলে ব্যথাতুর সুরে ডাকে এবং নষ্ট করা শিল্পের জন্য শোক প্রকাশ করে।"
+      }
+    ]
+  },
+  {
+    "id": "rainbow-serpent-dreamtime-myth",
+    "title": "The Rainbow Serpent: Carving the Living Earth",
+    "titleBn": "রংধনু সর্প: স্বপ্নকালের বুকে জীবন্ত মাটির রূপকার",
+    "author": "Aboriginal Australian Dreamtime",
+    "level": "Intermediate",
+    "category": "Myths & Legends",
+    "coverEmoji": "🐍",
+    "summary": "In Australian Dreamtime cosmology, the colossal ancestral serpent slithers across the flat continent, sculpting red gorges, rivers, and waterholes.",
+    "summaryBn": "অস্ট্রেলীয় ড্রিমটাইম রূপকথায় বিশালাকার আদিম সর্প সমতল ভূমির ওপর দিয়ে হেঁটে লাল গিরিখাত, নদী ও জলাশয়ের সৃষ্টি করেছিল।",
+    "sentences": [
+      {
+        "en": "According to the ancient Dreamtime traditions of Indigenous Australians, the earth was originally a flat, dark, and featureless expanse.",
+        "bn": "অস্ট্রেলিয়ার আদিবাসীদের প্রাচীন 'ড্রিমটাইম' বিশ্বাস অনুসারে সৃষ্টির শুরুতে পৃথিবী ছিল সম্পূর্ণ সমতল, অন্ধকার ও বৈচিত্র্যহীন এক প্রান্তর।"
+      },
+      {
+        "en": "Deep beneath the crust slept the Rainbow Serpent, known by many ancestral names including Borlung, Ngalyod, and Eingana.",
+        "bn": "মাটির গভীর তলদেশে ঘুমিয়ে ছিল বিশালাকার রংধনু সর্প, যাকে বোরলুং, ন্গালিয়োদ বা এইঙ্গানাসহ নানা আদিম নামে ডাকা হতো।"
+      },
+      {
+        "en": "Awakening with thunderous tremors, the serpent pushed through the red soil, arching its colossal multicolored body beneath the sky.",
+        "bn": "বজ্রপাতের মতো কাঁপন তুলে জেগে উঠে সেই সর্প লাল মাটি ভেদ করে বেরিয়ে আসে এবং আকাশের নিচে নিজের বহুবর্ণিল শরীর ধনুকের মতো বাঁকিয়ে ধরে।"
+      },
+      {
+        "en": "As it undulated majestically across the desert, its muscular weight gouged out deep riverbeds, rocky gorges, and sacred permanent billabongs.",
+        "bn": "মরুভূমির ওপর দিয়ে রাজকীয় ভঙ্গিতে এঁকেবেঁকে চলার সময় তার শরীরের প্রবল ভারে তৈরি হয় নদীর খাত, পাথুরে গিরিখাত এবং পবিত্র প্রাকৃতিক জলাশয়।"
+      },
+      {
+        "en": "The serpent summoned rainfall from the heavens, filling the dry channels with crystal waters and awakening birds, marsupials, and flowering eucalyptus.",
+        "bn": "সেই সাপ আকাশ থেকে মুষলধারে বৃষ্টি নামায়, যা শুকনো খাতগুলোকে স্বচ্ছ পানিতে ভরিয়ে তোলে এবং পাখি, ক্যাঙ্গারু ও ফুলগাছকে জাগিয়ে তোলে।"
+      },
+      {
+        "en": "Revered as the ultimate giver of fertility and life, it nevertheless remains a fierce judge who swallows those who disrespect tribal law.",
+        "bn": "উর্বরতা ও প্রাণের প্রধান দাতা হিসেবে পূজিত হলেও সামাজিক ও প্রাকৃতিক আইন অমান্যকারীদের গিলে ফেলা এক কঠোর বিচারক হিসেবেও তাকে গণ্য করা হয়।"
+      },
+      {
+        "en": "Rock art galleries across Arnhem Land commemorate the Rainbow Serpent, an unbroken spiritual link between ancient ancestors and living country.",
+        "bn": "আর্নহেম ল্যান্ডের প্রাচীন পাথরের গুহাচিত্রে আঁকা সেই রংধনু সর্প আজও আদিম পূর্বপুরুষদের সাথে বর্তমান প্রকৃতির এক অবিচ্ছেদ্য আধ্যাত্মিক সেতুবন্ধন।"
+      }
+    ]
+  },
+  {
+    "id": "quetzalcoatl-feathered-serpent-maize",
+    "title": "Quetzalcoatl: The Feathered Serpent of Dawn",
+    "titleBn": "কেটজালকোটল: ভোরের ডানাওয়ালা পবিত্র সর্প",
+    "author": "Mesoamerican Mythological Review",
+    "level": "Intermediate",
+    "category": "Myths & Legends",
+    "coverEmoji": "🪶",
+    "summary": "The Aztec god of winds and wisdom descends to the underworld to recover ancestral bones, gifting humanity with maize, calendars, and fine arts.",
+    "summaryBn": "বাতাস ও জ্ঞানের অ্যাজটেক দেবতা পাতালে গিয়ে মানুষের প্রাচীন অস্থি উদ্ধার করেন এবং মানবজাতিকে ভুট্টা, বর্ষপঞ্জি ও চারুকলার উপহার দেন।",
+    "sentences": [
+      {
+        "en": "Across the ancient valley of Mexico, no deity was revered more profoundly than Quetzalcoatl, the magnificent Feathered Serpent.",
+        "bn": "প্রাচীন মেক্সিকো উপত্যকাজুড়ে ডানাওয়ালা উজ্জ্বল সর্প কেটজালকোটলের চেয়ে মহিমান্বিতভাবে আর কোনো দেবতাকে পূজা করা হতো না।"
+      },
+      {
+        "en": "Combining the skyward green plumage of the quetzal bird with the terrestrial serpent, he symbolized the union of heavenly spirit and earthly matter.",
+        "bn": "কেটজাল পাখির সবুজ ডানার সাথে মাটির সাপের রূপ মিলিয়ে তিনি স্বর্গীয় আত্মা এবং পার্থিব পৃথিবীর এক অপূর্ব মেলবন্ধনের প্রতীক ছিলেন।"
+      },
+      {
+        "en": "In the fourth mythological age, after earlier races of humans were destroyed, Quetzalcoatl bravely descended into Mictlan, the dark underworld.",
+        "bn": "পৌরাণিক চতুর্থ যুগে যখন আগের মানবজাতি ধ্বংস হয়ে যায়, কেটজালকোটল সাহসের সাথে পাতালপুরী 'মিকতলান'-এর অন্ধকার রাজ্যে নেমে যান।"
+      },
+      {
+        "en": "Tricking the death lord Mictlantecuhtli, he rescued the ancient bones of ancestors and sprinkled his own divine blood upon them to animate humanity.",
+        "bn": "মৃত্যুর দেবতা মিকতলান্তেচুতলিকে ধোঁকা দিয়ে তিনি পূর্বপুরুষদের প্রাচীন অস্থি উদ্ধার করেন এবং নিজের রক্ত ছিটিয়ে নতুন মানবজাতিকে প্রাণ দেন।"
+      },
+      {
+        "en": "Observing a small red ant hauling a grain across rocks, he followed it into Mountain Tonacatepetl to bestow golden maize upon the hungry mortals.",
+        "bn": "পাথরের ওপর দিয়ে একটি লাল পিঁপড়েকে দানাদার শস্য নিয়ে যেতে দেখে তিনি পিছু নিয়ে পাহাড় থেকে মানুষের জন্য সোনালী ভুট্টার সন্ধান আনেন।"
+      },
+      {
+        "en": "He taught mortals the science of weaving, metallurgical goldsmithing, and the sacred twenty-day tonalpohualli calendar cycles.",
+        "bn": "তিনি মানুষকে কাপড় বোনা, সোনার অলঙ্কার তৈরি এবং বিশ দিনের পবিত্র ধর্মীয় দিনপঞ্জির হিসাব-নিকাশ নিখুঁতভাবে শিক্ষা দিয়েছিলেন।"
+      },
+      {
+        "en": "Transforming finally into the morning star Venus, Quetzalcoatl's legend embodied creative intelligence, moral renewal, and scientific wonder.",
+        "bn": "অবশেষে ভোরের শুকতারা শুক্র গ্রহে রূপান্তরিত হয়ে কেটজালকোটলের রূপকথা সৃজনশীল মেধা, নৈতিক শুদ্ধি ও বিজ্ঞানের অপার বিস্ময় হয়ে বেঁচে থাকে।"
+      }
+    ]
+  },
+  {
+    "id": "hina-moon-goddess-polynesia",
+    "title": "Hina: The Maiden in the Moon",
+    "titleBn": "হিনা: চাঁদের দেশের রূপবতী দেবী",
+    "author": "Polynesian Folklore Society",
+    "level": "Intermediate",
+    "category": "Myths & Legends",
+    "coverEmoji": "🌙",
+    "summary": "Weary of earthly demands, the Polynesian goddess Hina journeys along a celestial rainbow to find tranquil sanctuary upon the face of the moon.",
+    "summaryBn": "পার্থিব কোলাহলে ক্লান্ত হয়ে পলিনেশিয়ার দেবী হিনা এক স্বর্গীয় রংধনু বেয়ে চাঁদের শান্ত আশ্রয়ে পাড়ি জমান এবং সেখানে চিরতরে বসবাস শুরু করেন।",
+    "sentences": [
+      {
+        "en": "Throughout the scattered archipelagos of Polynesia, Hina is celebrated as the beautiful goddess of tapa cloth makers, tides, and feminine resilience.",
+        "bn": "পলিনেশিয়ার ছড়িয়ে থাকা দ্বীপপুঞ্জজুড়ে হিনা গাছের ছালের কাপড় প্রস্তুতকারক, সমুদ্রের জোয়ার-ভাটা এবং নারী শক্তির প্রিয় দেবী হিসেবে বন্দিত।"
+      },
+      {
+        "en": "On earth, she was overwhelmed by constant patriarchal demands, tirelessly beating the mulberry bark into delicate cloth while tending community hearths.",
+        "bn": "মর্ত্যে তিনি পরিবারের অবিরাম দাবি ও খাটুনিতে ক্লান্ত হয়ে পড়েছিলেন, দিনরাত তুঁত গাছের ছাল পিটিয়ে কাপড় তৈরি ও রান্নার কাজে তার সময় কাটত।"
+      },
+      {
+        "en": "Seeking serene peace where her creative spirit could flourish, she looked skyward and resolved to dwell among the celestial realms.",
+        "bn": "নিজের সৃজনশীল মনের প্রশান্তি ও মুক্তির আশায় তিনি আকাশের দিকে তাকিয়ে স্বর্গীয় নক্ষত্রলোকে চলে যাওয়ার সংকল্প গ্রহণ করেন।"
+      },
+      {
+        "en": "She first climbed a dazzling sunbeam, but the scorching heat of the sun burned her tender skin, forcing her to retreat back to the reef.",
+        "bn": "প্রথমে তিনি সূর্যের এক উজ্জ্বল কিরণ বেয়ে উঠতে চেয়েছিলেন, কিন্তু সূর্যের প্রখর তাপে ত্বক ঝলসে যাওয়ায় প্রবাল প্রাচীরে নেমে আসতে বাধ্য হন।"
+      },
+      {
+        "en": "Waiting until twilight, Hina mounted a glowing nocturnal rainbow and ascended toward the cool, silver radiance of the full moon.",
+        "bn": "গোধূলি পর্যন্ত অপেক্ষা করে হিনা রাতের এক স্নিগ্ধ আলোকময় রংধনুতে পা রেখে পূর্ণিমার চাঁদের সুশীতল রূপালী আলোর দিকে উঠতে থাকেন।"
+      },
+      {
+        "en": "Welcomed by the tranquility of the lunar surface, she set up her wooden banyan mallet and resumed beating ethereal white tapa clouds.",
+        "bn": "চাঁদের শান্ত পরিবেশ তাকে সাদরে গ্রহণ করে, সেখানে তিনি নিজের কাঠের মুগুর নিয়ে বসেন এবং মেঘের মতো শুভ্র রূপালী কাপড় বোনা শুরু করেন।"
+      },
+      {
+        "en": "When islanders gaze up at the dark shadows across the glowing moon, they point smilingly to Hina sitting peacefully beneath her celestial banyan tree.",
+        "bn": "আজও দ্বীপবাসীরা চাঁদের বুকে ছায়ার দিকে তাকিয়ে হাসিমুখে দেখিয়ে দেন যে দেবী হিনা চাঁদের বটবৃক্ষের নিচে বসে পরম শান্তিতে কাপড় বুনছেন।"
+      }
+    ]
+  },
+  {
+    "id": "sedna-inuit-arctic-goddess",
+    "title": "Sedna: Mother of the Frozen Sea",
+    "titleBn": "সেদনা: হিমশীতল মহাসমুদ্রের মাতৃদেবী",
+    "author": "Inuit Arctic Mythos",
+    "level": "Intermediate",
+    "category": "Myths & Legends",
+    "coverEmoji": "🐋",
+    "summary": "Cast into the icy waters of the Arctic, an Inuit maiden's severed fingers transform into seals and whales, making her mistress of the marine abyss.",
+    "summaryBn": "আর্কটিকের হিমশীতল জলে নিক্ষিপ্ত হওয়া এক ইনুইট তরুণীর কাটা আঙুলগুলো সিল ও তিমিতে রূপান্তরিত হয় এবং সে সমুদ্রের অধিশ্বরী হয়ে ওঠে।",
+    "sentences": [
+      {
+        "en": "Along the wind-scoured, icy coasts of the Arctic, the Inuit recount the poignant myth of Sedna, the sovereign ruler of the marine underworld.",
+        "bn": "আর্কটিকের বরফে ঢাকা বায়ুরুদ্ধ উপকূলে ইনুইটরা সমুদ্রের অতল সাম্রাজ্যের একচ্ছত্র অধিপতি সেদনার মর্মস্পর্শী রূপকথা স্মরণ করে থাকে।"
+      },
+      {
+        "en": "A proud, beautiful young maiden, Sedna refused all customary suitors until a deceptive petrel disguised as a nobleman lured her away to an isolated storm-tossed island.",
+        "bn": "এক গর্বিত সুন্দরী তরুণী সেদনা সাধারণ বরদের ফিরিয়ে দিত, যতক্ষণ না এক ছদ্মবেশী সামুদ্রিক পাখি তাকে ভুলিয়ে দুর্গম ঝোড়ো দ্বীপে নিয়ে যায়।"
+      },
+      {
+        "en": "When her distraught father arrived in his kayak to rescue her, the bird husband whipped the frozen ocean into a ferocious tempest.",
+        "bn": "তার ব্যাকুল পিতা যখন কায়াক নৌকা নিয়ে মেয়েকে উদ্ধার করতে আসেন, পাখি স্বামী ক্রুদ্ধ হয়ে সাগরে প্রলয়ঙ্করী তুষারঝড় তৈরি করে।"
+      },
+      {
+        "en": "Terrified of capsizing, the panicked father threw Sedna overboard; when she clung desperately to the gunwale, he severed her frozen fingers with an ulu knife.",
+        "bn": "নৌকা ডুবে যাওয়ার ভয়ে আতঙ্কিত পিতা সেদনাকে জলে ছুড়ে ফেলেন; সে নৌকার কিনারা আঁকড়ে ধরলে তিনি ছুরি দিয়ে তার বরফে জমাট আঙুলগুলো কেটে দেন।"
+      },
+      {
+        "en": "Sinking into the black depths, her severed fingertips miraculously transformed into the world's first seals, walruses, and bowhead whales.",
+        "bn": "অতল কাল জলে তলিয়ে যাওয়ার সময় তার কাটা আঙুলগুলো অলৌকিকভাবে পৃথিবীর প্রথম সিল, ওয়ালরাস এবং বিশালাকার তিমিতে রূপান্তরিত হয়।"
+      },
+      {
+        "en": "Residing at the bottom of the ocean as Mother of the Deep, Sedna withholds or releases sea mammals depending upon human moral conduct.",
+        "bn": "মহাসমুদ্রের তলদেশে 'গভীরের জননী' হিসেবে বাস করে সেদনা মানুষের নৈতিক আচরণের ওপর নির্ভর করে সামুদ্রিক প্রাণীদের শিকারে ধরা পড়ার অনুমতি দেয় বা আটকে রাখে।"
+      },
+      {
+        "en": "When hunters face starvation, a shaman, or angakkuq, must spiritually descend to the seabed to comb tangles from Sedna's hair to restore harmony.",
+        "bn": "শিকার না পেয়ে যখন খাদ্যসংকট দেখা দেয়, তখন ওঝা বা সাধক আধ্যাত্মিক ধ্যানে সাগরের তলদেশে নেমে সেদনার চুল আঁচড়ে দিয়ে তার রাগ ভাঙিয়ে শান্তি ফেরায়।"
+      }
+    ]
+  },
+  {
+    "id": "popocatepetl-iztaccihuatl-volcanoes",
+    "title": "Popocatépetl and Iztaccíhuatl: The Volcano Lovers",
+    "titleBn": "পোপোকাতেপেতল ও ইজতাক্সিহুয়াতল: আগ্নেয়গিরির অমর প্রণয়",
+    "author": "Valley of Mexico Folklore",
+    "level": "Intermediate",
+    "category": "Myths & Legends",
+    "coverEmoji": "🌋",
+    "summary": "An ancient Aztec warrior and an emperor's daughter are immortalized as twin snowcapped volcanoes watching eternally over the Valley of Mexico.",
+    "summaryBn": "প্রাচীন এক অ্যাজটেক যোদ্ধা ও সম্রাটের কন্যার আত্মত্যাগ তাদের তুষারাবৃত দুই আগ্নেয়গিরিতে রূপান্তর করে যা মেক্সিকো উপত্যকাকে পাহারা দেয়।",
+    "sentences": [
+      {
+        "en": "Looming prominently over the high plateau of Central Mexico stand two majestic snow-crested volcanoes: Popocatépetl, 'The Smoking Mountain', and Iztaccíhuatl, 'The White Woman'.",
+        "bn": "মধ্য মেক্সিকোর মালভূমির ওপর মাথা তুলে দাঁড়িয়ে আছে দুটি বরফে ঢাকা আগ্নেয়গিরি: ধোঁয়া ওঠা 'পোপোকাতেপেতল' এবং সাদা নারীর মতো 'ইজতাক্সিহুয়াতল'।"
+      },
+      {
+        "en": "Aztec legend tells of Popocatépetl, a valiant military general deeply in love with the emperor's breathtakingly beautiful daughter, Princess Iztaccíhuatl.",
+        "bn": "অ্যাজটেক রূপকথায় পোপোকাতেপেতল ছিলেন এক অসমসাহসী সেনাপতি, যিনি সম্রাটের পরমাসুন্দরী কন্যা রাজকুমারী ইজতাক্সিহুয়াতলকে মনেপ্রাণে ভালোবাসতেন।"
+      },
+      {
+        "en": "Before marching off to a brutal campaign against rival clans, the general was promised the princess's hand in marriage upon glorious return.",
+        "bn": "শত্রুদের বিরুদ্ধে রক্তক্ষয়ী অভিযানে রওয়ানা হওয়ার আগে সেনাপতিকে কথা দেওয়া হয়েছিল যে বিজয়ী হয়ে ফিরলেই রাজকুমারীর সাথে তার শুভ বিবাহ সম্পন্ন হবে।"
+      },
+      {
+        "en": "However, a jealous rival suitor falsely sent word back to the imperial capital that Popocatépetl had perished valiantly in the combat.",
+        "bn": "কিন্তু এক ঈর্ষান্বিত প্রতিদ্বন্দ্বী রাজধানীতে ভুয়া খবর পাঠিয়ে দেয় যে সেনাপতি পোপোকাতেপেতল রণক্ষেত্রে বীরের মতো প্রাণ হারিয়েছেন।"
+      },
+      {
+        "en": "Overcome by inconsolable sorrow, the heartbroken princess collapsed and wept until her spirit departed from her body.",
+        "bn": "অসীম বেদনায় কাতর হয়ে ভগ্নহৃদয় রাজকুমারী মাটিতে লুটিয়ে পড়েন এবং কাঁদতে কাঁদতে তার প্রাণবায়ু দেহ ত্যাগ করে।"
+      },
+      {
+        "en": "Returning victorious only to find his beloved lifeless, Popocatépetl carried her body to the mountain summit, kneeling beside her with a smoking torch.",
+        "bn": "বিজয়ী হয়ে ফিরে নিজের প্রিয়তমাকে নিথর দেখে পোপোকাতেপেতল তার দেহ পাহাড়ের চূড়ায় নিয়ে যান এবং জ্বলন্ত মশাল হাতে তার পাশে হাঁটু গেড়ে বসেন।"
+      },
+      {
+        "en": "The gods transformed them into stone: Iztaccíhuatl lies sleeping quietly under a white shroud of snow, while Popocatépetl spews smoke in eternal grief.",
+        "bn": "দেবতারা তাদের পাথরে রূপান্তর করেন: ইজতাক্সিহুয়াতল বরফের সাদা চাদরের নিচে শুয়ে থাকে, আর পোপোকাতেপেতল চিরন্তন শোকে আজও ধোঁয়া ওড়ে।"
+      }
+    ]
+  },
+  {
+    "id": "mami-wata-african-water-spirit",
+    "title": "Mami Wata: The Sovereign of the Waters",
+    "titleBn": "মামি ওয়াতা: জলজগতের মায়াবী সম্রাজ্ঞী",
+    "author": "Atlantic Diaspora Review",
+    "level": "Intermediate",
+    "category": "Myths & Legends",
+    "coverEmoji": "🧜‍♀️",
+    "summary": "Revered from coastal West Africa to the Caribbean, the enigmatic water spirit Mami Wata balances beauty, healing wealth, and oceanic danger.",
+    "summaryBn": "পশ্চিম আফ্রিকা থেকে ক্যারিবীয় দ্বীপ পর্যন্ত পূজিত রহস্যময় জলদেবী মামি ওয়াতা রূপসৌন্দর্য, আরোগ্য এবং সমুদ্রের ভয়াল শক্তির প্রতীক।",
+    "sentences": [
+      {
+        "en": "Along the Atlantic coastlines, rivers, and lagoons of West Africa, coastal peoples revere an ancient and alluring water deity named Mami Wata.",
+        "bn": "পশ্চিম আফ্রিকার আটলান্টিক উপকূল, নদী ও জলাশয়জুড়ে স্থানীয় জনপদ 'মামি ওয়াতা' নামের এক মোহময়ী ও পরাক্রমশালী জলদেবীকে ভক্তিভরে পূজা করে।"
+      },
+      {
+        "en": "Often depicted as a mesmerizing mermaid with long dark coils of hair holding a sacred serpent draped across her shoulders, she embodies the mystery of water.",
+        "bn": "কাঁধের ওপর পবিত্র সাপ জড়ানো এবং লম্বা কালো চুলের অপূর্ব মৎস্যকন্যা রূপে কল্পিত এই দেবী জলের সমস্ত রহস্য ও অপার গভীরতার প্রতীক।"
+      },
+      {
+        "en": "She is venerated as a sovereign who bestows extraordinary material wealth, fertility, radiant health, and artistic inspiration upon faithful devotees.",
+        "bn": "তাকে এমন এক রাণী হিসেবে মানা হয় যিনি বিশ্বাসী ভক্তদের অঢেল ধনসম্পদ, সন্তানসুখ, সুস্বাস্থ্য এবং শৈল্পিক প্রতিভার আশীর্বাদ দান করেন।"
+      },
+      {
+        "en": "Yet Mami Wata possesses a dual nature: she demands absolute fidelity, and those who breach vows to her risk being dragged into ocean whirlpools.",
+        "bn": "তবে মামি ওয়াতার এক ভয়ংকর রূপও আছে: তিনি পূর্ণ আনুগত্য দাবি করেন, আর যে তার প্রতিজ্ঞা ভাঙে তাকে সমুদ্রের ঘূর্ণিজলে টেনে নেওয়ার ঝুঁকি থাকে।"
+      },
+      {
+        "en": "Her shrines are adorned with sparkling mirrors, imported perfumes, white powder, and sweet candies reflecting maritime cross-cultural commerce.",
+        "bn": "তার পূজার বেদী সাজানো হয় চকচকে আয়না, বিদেশি সুগন্ধি, সাদা পাউডার এবং মিষ্টি দিয়ে, যা প্রাচীন সামুদ্রিক বাণিজ্যের এক রঙিন প্রতিচ্ছবি।"
+      },
+      {
+        "en": "During the transatlantic slave trade, worship of Mami Wata crossed the ocean, surviving resiliently within Afro-Caribbean and Brazilian religious traditions.",
+        "bn": "আটলান্টিক দাস বাণিজ্যের অন্ধকার দিনগুলোতেও মামি ওয়াতার উপাসনা সমুদ্র পাড়ি দিয়ে ক্যারিবীয় ও ব্রাজিলীয় সংস্কৃতিতে অটুটভাবে বেঁচে থাকে।"
+      },
+      {
+        "en": "Mami Wata remains a vibrant symbol of resilience, female autonomy, and humanity's eternal spiritual dialogue with the unpredictable sea.",
+        "bn": "মামি ওয়াতা আজও টিকে থাকার শক্তি, নারীর স্বাধীনতা এবং উত্তাল সমুদ্রের সাথে মানুষের চিরন্তন আত্মিক সম্পর্কের এক জীবন্ত আলোকবর্তিকা।"
+      }
+    ]
+  },
+  {
+    "id": "white-buffalo-calf-woman-lakota",
+    "title": "White Buffalo Calf Woman: The Sacred Pipe of Peace",
+    "titleBn": "সাদা মহিষ-শাবক নারী: লাকোটা জাতির পবিত্র শান্তির পাইপ",
+    "author": "Plains Nations Sacred Lore",
+    "level": "Intermediate",
+    "category": "Myths & Legends",
+    "coverEmoji": "🦬",
+    "summary": "A holy spirit woman appears to the Lakota during a severe famine, bestowing the sacred Chanunpa pipe and seven core ceremonies of spiritual balance.",
+    "summaryBn": "তীব্র দুর্ভিক্ষের সময় লাকোটা জাতির কাছে এক স্বর্গীয় নারী আবির্ভূত হয়ে পবিত্র চানুনপা পাইপ এবং প্রার্থনার সাতটি প্রধান আচার উপহার দেন।",
+    "sentences": [
+      {
+        "en": "Centuries ago, during a time of bitter drought and famine on the Great Plains, two young Lakota hunters scouted for game across the dry hills.",
+        "bn": "শতাব্দীর পর শতাব্দী আগে গ্রেট প্লেইনসে তীব্র খরা ও অনাহারের দিনে দুজন তরুণ লাকোটা শিকারী খাবারের সন্ধানে শুকনো পাহাড়ে বেরিয়েছিল।"
+      },
+      {
+        "en": "In the shimmering summer haze, they saw a luminous figure floating toward them: a young maiden dressed in exquisite white fringed buckskin.",
+        "bn": "গ্রীষ্মের তপ্ত রোদের মাঝে তারা দেখতে পেল এক জ্যোতির্ময়ী নারী তাদের দিকে এগিয়ে আসছে: তার পরনে হরিণের সাদা চামড়ার অপূর্ব ঝালর দেওয়া পোশাক।"
+      },
+      {
+        "en": "When one hunter lunged forward driven by base lust, a dark cloud enveloped him, leaving only his skeleton on the grass as a warning against disrespect.",
+        "bn": "এক শিকারী অসৎ কামনায় তার দিকে এগিয়ে গেলে এক কালো মেঘ তাকে ঢেকে ফেলে এবং অপবিত্র আচরণের সতর্কতা হিসেবে কেবল তার কঙ্কাল মাটিতে পড়ে থাকে।"
+      },
+      {
+        "en": "The maiden instructed the reverent surviving hunter to assemble the entire nation, arriving at their encampment as a sacred emissary from the Creator.",
+        "bn": "সেই স্বর্গীয় নারী অন্য শিকারীকে পুরো গোত্রকে সমবেত করার নির্দেশ দেন এবং সৃষ্টিকর্তার পবিত্র দূত হিসেবে তাদের তাঁবুতে হাজির হন।"
+      },
+      {
+        "en": "She presented the elders with the 'Chanunpa', the Sacred Pipe, carved from red pipestone representing human blood and tobacco smoke carrying prayers heavenward.",
+        "bn": "তিনি বয়োজ্যেষ্ঠদের হাতে লাল পাথরে খোদাই করা পবিত্র 'চানুনপা' পাইপ তুলে দেন, যার ধোঁয়া মানুষের প্রার্থনাকে সরাসরি স্বর্গের কাছে পৌঁছে দেয়।"
+      },
+      {
+        "en": "She taught the Lakota people seven sacred ceremonies, instructing them to live in reciprocal kinship with the four-legged, winged, and plant nations.",
+        "bn": "তিনি লাকোটাদের সাতটি পবিত্র আচার শেখান এবং চতুস্পদ প্রাণী, ডানাওয়ালা পাখি ও গাছপালার সাথে ভ্রাতৃত্বের মেলবন্ধনে বাঁচার নির্দেশ দেন।"
+      },
+      {
+        "en": "As she departed over the grassy ridges, she rolled over four times, transforming into a pure white buffalo calf—a holy harbinger of cosmic renewal.",
+        "bn": "ঘাসের শৈলশিরা পেরিয়ে যাওয়ার সময় তিনি চারবার মাটিতে গড়াগড়ি দেন এবং একটি দুধসাদা মহিষ-শাবকে রূপ নেন—যা এক নতুন শুভ যুগের সূচনা করে।"
+      }
+    ]
+  },
+  {
+    "id": "tiddalik-giant-frog-water",
+    "title": "Tiddalik the Giant Frog: The Laughter That Saved the Land",
+    "titleBn": "দানব ব্যাঙ তিদ্দালিক: পৃথিবীর প্রাণ বাঁচানো সেই হাসি",
+    "author": "Indigenous Australian Legends",
+    "level": "Intermediate",
+    "category": "Myths & Legends",
+    "coverEmoji": "🐸",
+    "summary": "In Australian folklore, an insatiable giant frog drinks all lakes and rivers dry until the desperate animals make him burst into laughter.",
+    "summaryBn": "অস্ট্রেলীয় রূপকথায় এক পেটুক দানব ব্যাঙ পৃথিবীর সব হ্রদ ও নদীর পানি গিলে ফেলে, যতক্ষণ না পশুপাখিরা তাকে হাসিয়ে সব পানি বের করে আনে।",
+    "sentences": [
+      {
+        "en": "In the ancient lore of eastern Australia's First Nations, Tiddalik was a colossal frog dwelling quietly beside a billabong.",
+        "bn": "পূর্ব অস্ট্রেলিয়ার আদিবাসীদের প্রাচীন লোককাহিনীতে তিদ্দালিক ছিল এক সুবিশাল দানবাকৃতির ব্যাঙ, যে এক জলাশয়ের তীরে বাস করত।"
+      },
+      {
+        "en": "One fateful morning, plagued by an unquenchable thirst, Tiddalik began guzzling every puddle, creek, and river in the region.",
+        "bn": "একদিন সকালে চরম তৃষ্ণায় কাতর হয়ে তিদ্দালিক আশেপাশের সমস্ত পুকুর, ঝরনা ও নদীর পানি এক চুমুকে গিলতে শুরু করে।"
+      },
+      {
+        "en": "He did not stop until every lake was drained bone dry, swelling his green body into an enormous mountainous sphere.",
+        "bn": "সে থামল না যতক্ষণ না সমস্ত হ্রদের পানি শুকিয়ে মাটি চৌচির হয়ে গেল, এবং তার সবুজ পেট ফুলে এক আস্ত পাহাড়ের আকার ধারণ করল।"
+      },
+      {
+        "en": "Without fresh water, the bush wilted, trees shriveled, and animals began perishing across the parched, cracked landscape.",
+        "bn": "পানির অভাবে বনজঙ্গল শুকিয়ে গেল, গাছপালা নেতিয়ে পড়ল এবং ফেটে যাওয়া মাটির ওপর পশুপাখিরা মারা যেতে শুরু করল।"
+      },
+      {
+        "en": "Desperate, the animal elders convened a grand council, realizing that force was futile: they had to make Tiddalik laugh to release the water.",
+        "bn": "নিরুপায় হয়ে পশুপাখিদের বয়োজ্যেষ্ঠরা এক সভা ডাকল এবং বুঝল জোর করে লাভ নেই: তিদ্দালিককে হাসাতে পারলেই কেবল পেট থেকে পানি বের হবে।"
+      },
+      {
+        "en": "Wombat performed goofy somersaults and Kookaburra cackled loud jokes, but the swollen amphibian remained utterly indifferent.",
+        "bn": "ভোম্বাট ডিগবাজি খেল এবং কুকাবুরা হাসির কৌতুক শোনাল, কিন্তু সেই ফোলা ব্যাঙের মুখে কোনো ভাবান্তর দেখা গেল না।"
+      },
+      {
+        "en": "Finally, Noyyang the eel tied himself into ridiculous, contorted knots, dancing frantically until Tiddalik burst into roaring laughter, replenishing the rivers.",
+        "bn": "অবশেষে নয়াং নামের বানমাছ অদ্ভুতভাবে নিজেকে নানা প্যাঁচে জড়িয়ে পাগলের মতো নাচতে শুরু করলে তিদ্দালিক হো হো করে হেসে ওঠে এবং নদীগুলো ভেসে যায়।"
+      }
+    ]
+  },
+  {
+    "id": "quetzal-bird-tecun-uman-maya",
+    "title": "The Quetzal and the Prince: The Blood of Freedom",
+    "titleBn": "কেটজাল ও মায়া রাজপুত্র: স্বাধীনতার রক্তে রাঙা পালক",
+    "author": "Guatemalan Highland Chronicles",
+    "level": "Intermediate",
+    "category": "Myths & Legends",
+    "coverEmoji": "🦜",
+    "summary": "When K'iche' warrior Tecún Umán falls defending his Maya homeland, the mythical emerald quetzal bird dips its breast into his blood.",
+    "summaryBn": "মায়া মাতৃভূমি রক্ষায় কিচে যোদ্ধা তেকুন উমান শহীদ হলে রূপকথার সবুজ কেটজাল পাখি তার বুকে নেমে রক্তে নিজের বুক রাঙিয়ে নেয়।",
+    "sentences": [
+      {
+        "en": "In the misty cloud forests of the Guatemalan highlands, the resplendent quetzal bird has long been venerated as a sacred avatar of liberty.",
+        "bn": "গুয়াতেমালার উচ্চভূমির কুয়াশাচ্ছন্ন পাহাড়ি বনে উজ্জ্বল সবুজ কেটজাল পাখিকে বহু প্রাচীনকাল থেকে স্বাধীনতার পবিত্র প্রতীক হিসেবে মানা হতো।"
+      },
+      {
+        "en": "According to Maya lore, before the Spanish conquest, the male quetzal possessed completely emerald-green plumage without a speck of crimson.",
+        "bn": "মায়া রূপকথা বলে স্প্যানিশদের আগমনের আগে পুরুষ কেটজালের পুরো শরীরই ছিল পান্না-সবুজ পালকে ঢাকা, তাতে লাল রঙের কোনো চিহ্ন ছিল না।"
+      },
+      {
+        "en": "In 1524, Conquistador Pedro de Alvarado invaded the highlands, clashing in fierce combat against the K'iche' Maya leader, Prince Tecún Umán.",
+        "bn": "১৫২৪ সালে স্প্যানিশ দখলদার পেদ্রো দে আলভারাদো পাহাড়ি অঞ্চল আক্রমণ করে এবং কিচে মায়া নেতা রাজপুত্র তেকুন উমানের মুখোমুখি হয়।"
+      },
+      {
+        "en": "Tecún Umán was accompanied in flight by his spiritual animal guardian, or 'nahual'—a majestic quetzal soaring over the battlefield.",
+        "bn": "তেকুন উমানের সাথে সাথে আকাশে উড়ছিল তার আত্মিক রক্ষক বা 'নাহুয়াল'—এক রাজকীয় কেটজাল পাখি যা যুদ্ধের ময়দানের ওপর চক্কর কাটছিল।"
+      },
+      {
+        "en": "When Alvarado's steel lance pierced the brave Maya prince through the heart, the chieftain fell lifeless onto the trampled grass.",
+        "bn": "আলভারাদোর ধারালো লোহার বর্শা যখন সাহসী মায়া রাজপুত্রের বুক এফোঁড়-ওফোঁড় করে দেয়, তখন নেতা মাটিতে লুটিয়ে পড়েন।"
+      },
+      {
+        "en": "The quetzal swooped downward and landed gently upon the fallen warrior's chest, soaking its breast feathers in the warm blood of the hero.",
+        "bn": "কেটজাল পাখিটি ডানা গুটিয়ে নিচে নেমে আসে এবং শহীদ বীরের বুকের ওপর বসে তার গরম রক্তে নিজের বুকের পালক ভিজিয়ে নেয়।"
+      },
+      {
+        "en": "Ever since, male quetzals carry a fiery scarlet chest, singing mournfully and refusing to survive in captivity as an eternal testament to freedom.",
+        "bn": "সেই থেকে পুরুষ কেটজালের বুকে লাল রক্তিম আভা দেখা যায়, এবং খাঁচায় বন্দি হলে সে খাবার না খেয়ে মরে গিয়ে স্বাধীনতার সাক্ষ্য দেয়।"
+      }
+    ]
+  },
+  {
+    "id": "oya-yoruba-goddess-winds",
+    "title": "Oya: The Tempest Queen of the Niger",
+    "titleBn": "ওয়া: নাইজার নদীর প্রলয়ঙ্করী ঝড়ের দেবী",
+    "author": "Yoruba Sacred Traditions",
+    "level": "Intermediate",
+    "category": "Myths & Legends",
+    "coverEmoji": "⚡",
+    "summary": "The fierce Yoruba orisha Oya commands whirlwinds, lightning, and change, standing as the fearless guardian between living realms and ancestors.",
+    "summaryBn": "ইওরুবা ধর্মের মহাশক্তিধর দেবী ওয়া ঘূর্ণিঝড়, বিদ্যুৎ ও রূপান্তরের নেতৃত্ব দেন এবং জীবিত মানুষ ও পূর্বপুরুষদের জগতের মাঝে অতন্দ্র প্রহরী হয়ে থাকেন।",
+    "sentences": [
+      {
+        "en": "In the vibrant cosmology of the Yoruba people of Nigeria and Benin, Oya is revered as the fierce and unstoppable Orisha of winds, tornados, and lightning.",
+        "bn": "নাইজেরিয়া ও বেনিনের ইওরুবা সংস্কৃতির পৌরাণিক বিশ্বাসে ওয়া হলেন বাতাস, ঘূর্ণিঝড় ও বজ্রবিদ্যুতের এক অপরাজেয় ও তেজস্বী দেবী।"
+      },
+      {
+        "en": "Spouse of the mighty thunder god Shango, she rode fearlessly into battle beside him, wielding twin machetes that sparked flashes of fire in the sky.",
+        "bn": "বজ্রদেবতা শাংগোর সহধর্মিণী হিসেবে তিনি দুই হাতে দুটি ধারালো দা নিয়ে তার পাশে যুদ্ধে নামতেন, যা আকাশে বিদ্যুতের ঝলকানি তৈরি করত।"
+      },
+      {
+        "en": "She is deeply connected to the Niger River, known traditionally as Odo Oya, whose swirling waters reflect her dynamic and sweeping power.",
+        "bn": "নাইজার নদী বা 'ওদো ওয়া'-এর সাথে তার সম্পর্ক অত্যন্ত গভীর, যার উত্তাল স্রোতের ভেতর দেবীর ঘূর্ণায়মান মহাশক্তির রূপ প্রতিফলিত হয়।"
+      },
+      {
+        "en": "Far more than a stormbringer, Oya is the guardian of the cemetery gates, guiding departed spirits safely into the realm of ancestral ancestors.",
+        "bn": "নিছক ঝড়ের দেবীর চেয়েও বড় পরিচয় তিনি সমাধিক্ষেত্রের ফটকের অতন্দ্র প্রহরী, যিনি পরলোকগত আত্মাদের পূর্বপুরুষদের জগতে নিরাপদে পথ দেখান।"
+      },
+      {
+        "en": "She embodies radical transformation and truth, sweeping away stagnant structures and dead leaves so that vibrant new life can take root.",
+        "bn": "তিনি বৈপ্লবিক রূপান্তর ও পরম সত্যের প্রতীক, যা পুরোনো জীর্ণতা ও শুকনো পাতাকে ঝড়ে উড়িয়ে দিয়ে নতুন জীবনের অঙ্কুরোদগমের পথ সুগম করে।"
+      },
+      {
+        "en": "Her devotees dance with horsetail whisks dyed in deep maroon and purple, channeling the tempestuous energy of sudden wind gusts.",
+        "bn": "তার ভক্তেরা গাঢ় লাল ও বেগুনি রঙের ঘোড়ার লেজের চামর হাতে নিয়ে ঝড়ের ঘূর্ণিপাকের ছন্দে মেতে উঠে দেবীর আরাধনা করেন।"
+      },
+      {
+        "en": "Oya's legend celebrates the divine feminine as fierce, fearless, and essential for cleansing society and renewing the natural order.",
+        "bn": "ওয়ার রূপকথা দেখিয়ে দেয় নারী শক্তি কতটা অকুতোভয় হতে পারে, যা জঞ্জাল পরিষ্কার করে প্রকৃতির স্বাভাবিক ভারসাম্যকে পুনরুজ্জীবিত করতে অপরিহার্য।"
+      }
+    ]
+  },
+  {
+    "id": "tane-mahuta-earth-sky-maori",
+    "title": "Tāne Mahuta: Separating the Earth and Sky",
+    "titleBn": "তানে মাহুতা: ধরিত্রী ও আকাশের চিরন্তন বিচ্ছেদ",
+    "author": "Maori Creation Lore",
+    "level": "Intermediate",
+    "category": "Myths & Legends",
+    "coverEmoji": "🌲",
+    "summary": "In Maori mythology, the god of forests places his shoulders against Earth and feet against Sky, pushing them apart to bring light into the universe.",
+    "summaryBn": "মাওরি রূপকথায় বনের দেবতা নিজের কাঁধ মাটিতে এবং পা আকাশে ঠেকিয়ে মা ও বাবাকে আলাদা করে মহাবিশ্বে প্রথম আলোর মুখ দেখান।",
+    "sentences": [
+      {
+        "en": "In the beginning of Maori cosmogony, Ranginui the Sky Father and Papatūānuku the Earth Mother clung together in an eternal, loving embrace.",
+        "bn": "মাওরি সৃষ্টিতত্ত্বের প্রারম্ভে আকাশ পিতা রাঙ্গিনুই এবং ধরিত্রী মাতা পাপাতুয়ানুকু এক চিরন্তন নিবিড় আলিঙ্গনে একে অপরকে আঁকড়ে ধরেছিলেন।"
+      },
+      {
+        "en": "Trapped in cramped, suffocating darkness between their joined parents, their divine children lived for ages without ever glimpsing light or space.",
+        "bn": "মা-বাবার সেই নিবিড় আলিঙ্গনের মাঝে নিকষ অন্ধকারে বন্দি থেকে তাদের দেবশিশুরা যুগের পর যুগ আলোর মুখ না দেখে দমবন্ধ অবস্থায় দিন কাটাত।"
+      },
+      {
+        "en": "Frustrated by the endless confinement, several brothers proposed killing their parents, but Tāne Mahuta, the god of forests and birds, counseled mercy.",
+        "bn": "এই বন্দিদশায় ক্ষুব্ধ হয়ে কয়েক ভাই মা-বাবাকে হত্যা করার প্রস্তাব দিল, কিন্তু বন ও পাখির দেবতা তানে মাহুতা শান্তির পথ বেছে নেওয়ার পরামর্শ দিলেন।"
+      },
+      {
+        "en": "He suggested instead that they forcibly pry their parents apart, leaving the Sky Father high above while the Earth Mother sustained them below.",
+        "bn": "তিনি প্রস্তাব করলেন মা-বাবাকে আলাদা করে আকাশকে ওপরে তুলে দেওয়া হোক এবং মা ধরিত্রী নিচে থেকে তাদের সন্তানদের পালন করবেন।"
+      },
+      {
+        "en": "After his siblings failed to budge the parents with their hands, Tāne planted his broad shoulders firmly against the earth and placed his feet against the sky.",
+        "bn": "অন্য ভাইয়েরা হাত দিয়ে ধাক্কা দিয়ে ব্যর্থ হলে তানে নিজের চওড়া কাঁধ মাটির ওপর রাখলেন এবং পা দুটি তুলে দিলেন আকাশের গায়ে।"
+      },
+      {
+        "en": "With an almighty heave of his massive wooden legs, he snapped the bonds, sending Ranginui soaring upward and flooding the cosmos with brilliant daylight.",
+        "bn": "নিজের গাছের গুঁড়ির মতো শক্ত পা দিয়ে প্রবল এক ধাক্কা মারতেই বন্ধন ছিঁড়ে আকাশ পিতা উঁচুতে উঠে গেল এবং মহাবিশ্বে রূপালী আলোর বন্যা নামল।"
+      },
+      {
+        "en": "Today, giant kauri trees in New Zealand's forests represent Tāne's legs, still holding the sky aloft while rain represents Ranginui's tears for his lost love.",
+        "bn": "আজও নিউজিল্যান্ডের বনের বিশালাকার কাউরি গাছগুলো তানের সেই পায়ের প্রতীক যা আকাশ ধরে রেখেছে, আর বৃষ্টি হলো বিরহে কাঁদা আকাশ পিতার চোখের জল।"
+      }
+    ]
+  },
+  {
+    "id": "curupira-amazon-forest-guardian",
+    "title": "Curupira: The Backward-Footed Guardian of the Amazon",
+    "titleBn": "কুরুপিরা: আমাজন অরণ্যের উল্টো পায়ের প্রহরী",
+    "author": "Brazilian Folklore Review",
+    "level": "Intermediate",
+    "category": "Myths & Legends",
+    "coverEmoji": "👣",
+    "summary": "With fiery red hair and backward-pointing feet, the mischievous jungle entity Curupira protects Amazonian wildlife from greedy poachers.",
+    "summaryBn": "আগুনের মতো লাল চুল এবং উল্টো দিকে ঘোরানো পায়ের পাতা নিয়ে আমাজনের মায়াবী সত্তা কুরুপিরা লোভী শিকারীদের হাত থেকে বনের প্রাণীদের বাঁচায়।",
+    "sentences": [
+      {
+        "en": "Deep within the emerald labyrinth of the Amazon rainforest dwells Curupira, one of Brazil's oldest and most enigmatic indigenous legendary figures.",
+        "bn": "আমাজন রেইনফরেস্টের গহীনে বাস করে কুরুপিরা—ব্রাজিলের সবচেয়ে প্রাচীন ও রহস্যময় লোকগাথার অন্যতম রক্ষাকর্তা এক জীবন্ত চরিত্র।"
+      },
+      {
+        "en": "Resembling a small wild boy with bristling fiery red hair, Curupira is most famously distinguished by his backward-facing feet.",
+        "bn": "উজ্জ্বল লাল খাড়া চুলের এক ক্ষুদে বুনো বালকের মতো দেখতে কুরুপিরার সবচেয়ে বড় বৈশিষ্ট্য হলো তার দুই পায়ের পাতা উল্টো দিকে ঘোরানো।"
+      },
+      {
+        "en": "When hunters attempt to track his footsteps through the wet undergrowth, the inverted tracks lead them hopelessly deeper into trackless swampland.",
+        "bn": "শিকারীরা যখন নরম মাটিতে তার পদচিহ্ন ধরে এগোতে চায়, উল্টো ছাপের কারণে তারা পথ হারিয়ে গহীন জলাভূমির গোলকধাঁধায় আটকা পড়ে।"
+      },
+      {
+        "en": "Curupira acts as the fierce champion of the forest, punishing those who fell living trees or slaughter pregnant animals and young calves.",
+        "bn": "কুরুপিরা অরণ্যের অতন্দ্র অভিভাবক হিসেবে কাজ করে এবং যারা অপ্রয়োজনে গাছ কাটে বা গর্ভবতী পশু ও ছানাদের মারে তাদের চরম শাস্তি দেয়।"
+      },
+      {
+        "en": "He rides wild peccaries through the jungle, tapping tree trunks with his fists to warn animals to take shelter before catastrophic storms.",
+        "bn": "সে বুনো শুয়োরের পিঠে চড়ে বনে ঘুরে বেড়ায় এবং ঝড়ের আগে গাছের গুঁড়িতে হাত দিয়ে ঠুকে পশুদের নিরাপদ আশ্রয়ে যাওয়ার সংকেত পাঠায়।"
+      },
+      {
+        "en": "Traditional rubber tappers and indigenous hunters leave gifts of rolled tobacco and honey at the base of ceiba trees to earn his safe passage.",
+        "bn": "রাবার সংগ্রহকারী ও স্থানীয় শিকারীরা বনে ঢোকার আগে তামাক ও মধুর নৈবেদ্য গাছের গোড়ায় রেখে তার অনুমতি ও আশীর্বাদ প্রার্থনা করে।"
+      },
+      {
+        "en": "Curupira embodies an ancestral environmental ethic, teaching that humans may take from the jungle only what they need to survive.",
+        "bn": "কুরুপিরা এক প্রাচীন পরিবেশবান্ধব নীতিকে তুলে ধরে, যা শেখায় অরণ্য থেকে কেবল বেঁচে থাকার জন্য যতটুকু প্রয়োজন ঠিক ততটুকুই নেওয়া উচিত।"
+      }
+    ]
+  },
+  {
+    "id": "tangata-manu-birdman-rapa-nui",
+    "title": "Tangata Manu: The Birdman of Rapa Nui",
+    "titleBn": "তাঙ্গাতা মানু: রাপা নুই দ্বীপের পাখি-মানবের রোমাঞ্চকর পরীক্ষা",
+    "author": "Polynesian Island Annals",
+    "level": "Intermediate",
+    "category": "History & Culture",
+    "coverEmoji": "🗿",
+    "summary": "On Easter Island, young champions swim through shark-infested waters to scale volcanic sea stacks and claim the sacred sooty tern egg.",
+    "summaryBn": "ইস্টার দ্বীপে সাহসী যুবকেরা হাঙরভর্তি উত্তাল সাগর সাঁতরে পাথুরে দ্বীপে উঠে পবিত্র বুনো পাখির অক্ষত ডিম এনে নিজ গোত্রকে নেতৃত্বের সম্মান এনে দিত।",
+    "sentences": [
+      {
+        "en": "Following the ecological collapse and internal clan wars that brought down the monumental moai-carving era on Rapa Nui, a new spiritual ritual arose.",
+        "bn": "ইস্টার দ্বীপে বিশালাকার মোয়াই মূর্তি নির্মাণের সোনালী যুগ শেষ হওয়ার পর পরিবেশ বিপর্যয় ও গৃহযুদ্ধের মুখে এক নতুন ধর্মীয় প্রথা চালু হয়।"
+      },
+      {
+        "en": "Dedicated to the creator god Make-make, the annual Tangata Manu, or Birdman competition, determined which clan would govern the island for the year.",
+        "bn": "সৃষ্টিকর্তা মাকে-মাকের উদ্দেশ্যে আয়োজিত বার্ষিক 'তাঙ্গাতা মানু' বা পাখি-মানব প্রতিযোগিতা ঠিক করত আগামী এক বছর পুরো দ্বীপের শাসনভার কোন গোত্র পাবে।"
+      },
+      {
+        "en": "Every spring, rival chiefs appointed their most athletic young champions, known as 'hopu manu', to compete in an extreme survival trial.",
+        "bn": "প্রতি বসন্তে গোত্রপ্রধানেরা 'হপু মানু' নামের সবচেয়ে শক্তিশালী ও সাহসী তরুণ অ্যাথলেটদের এই চরম জীবন-মরণ প্রতিযোগিতায় মনোনীত করতেন।"
+      },
+      {
+        "en": "From the clifftops of the Orongo ceremonial village, the youths scrambled down a thousand-foot vertical precipice into crashing ocean breakers.",
+        "bn": "ওরঙ্গো গ্রামের খাড়া পাহাড়ের শীর্ষ থেকে তরুণরা এক হাজার ফুট উল্লম্ব পাথুরে খাদ বেয়ে নিচে উত্তাল সমুদ্রের ঢেউয়ের মাঝে ঝাঁপিয়ে পড়ত।"
+      },
+      {
+        "en": "Clasping small reed surfboards called pora, they swam a mile through shark-infested currents to the jagged islet of Motu Nui.",
+        "bn": "নলখাগড়ার তৈরি 'পোরা' নামের ছোট তক্তা আঁকড়ে ধরে তারা হাঙরে ভরা এক মাইল উত্তাল সাগর সাঁতরে দুর্গম মতু নুই পাথুরে দ্বীপে পৌঁছাত।"
+      },
+      {
+        "en": "The contestants camped in damp caves for weeks until the first migratory sooty tern bird laid its sacred speckled egg.",
+        "bn": "প্রতিযোগীরা অন্ধকার গুহায় দিনের পর দিন অপেক্ষা করত যতক্ষণ না পরিযায়ী সামুদ্রিক পাখি সেখানে এসে তার প্রথম পবিত্র ডিমটি পাড়ত।"
+      },
+      {
+        "en": "The first warrior to secure an unbroken egg lashed it to his forehead, swam back safely, and elevated his chief to sacred Birdman ruler.",
+        "bn": "প্রথম যে যোদ্ধা অক্ষত ডিমটি কপালে বেঁধে নিরাপদে সাঁতরে ফিরে আসতে পারত, সে নিজের গোত্রপ্রধানকে এক বছরের জন্য পবিত্র শাসক হিসেবে অভিষিক্ত করত।"
+      }
+    ]
+  }
+]

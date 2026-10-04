@@ -1,0 +1,452 @@
+[
+  {
+    "id": "folk-snow-white-mirror",
+    "title": "Snow White and the Magic Mirror",
+    "titleBn": "স্নো হোয়াইট ও সাত বামন",
+    "author": "Brothers Grimm",
+    "level": "Intermediate",
+    "category": "Fairy Tales",
+    "coverEmoji": "🍎",
+    "summary": "Purity of heart overcomes the jealousy of an evil queen with the aid of seven kind forest miners.",
+    "summaryBn": "সৎ ও নিষ্পাপ অন্তরের এক রাজকন্যা কীভাবে সাত দয়ালু বামনের সাহায্যে এক অহংকারী রানীর হাত থেকে রক্ষা পেয়েছিল।",
+    "sentences": [
+      {
+        "en": "Once upon a time in a faraway kingdom, a gentle princess named Snow White was born with skin as fair as snow, lips as red as blood, and hair as black as ebony.",
+        "bn": "এক দূরদেশে স্নো হোয়াইট নামের এক মিষ্টি রাজকন্যা জন্ম নিয়েছিল, যার গায়ের রঙ ছিল বরফের মতো উজ্জ্বল, ঠোঁট ছিল রক্তের মতো লাল আর চুল ছিল কুচকুচে কালো।"
+      },
+      {
+        "en": "Her vain stepmother possessed an enchanted looking-glass and asked it daily: 'Mirror, mirror on the wall, who in the realm is fairest of all?'",
+        "bn": "তার অহংকারী সৎমায়ের একটি জাদুকরী আয়না ছিল যাকে সে প্রতিদিন জিজ্ঞেস করত: 'বলো তো আয়না, এ রাজ্যের সবচেয়ে সুন্দরী কে?'"
+      },
+      {
+        "en": "For years the mirror truthfully named the queen, until Snow White blossomed into maidenhood and outshone her beauty.",
+        "bn": "বছরের পর বছর আয়না রানীর কথাই বলত, কিন্তু স্নো হোয়াইট বড় হতেই আয়না ঘোষণা করল যে সে-ই এখন রাজ্যের সেরা রূপসী।"
+      },
+      {
+        "en": "Consumed by jealous rage, the evil queen ordered a huntsman to take the innocent princess into the deep forest and kill her.",
+        "bn": "হিংসায় অন্ধ হয়ে রানী এক শিকারিকে হুকুম দিল নিষ্পাপ রাজকন্যাকে গভীর বনে নিয়ে গিয়ে মেরে ফেলতে।"
+      },
+      {
+        "en": "Pitying her youthful innocence, the kind huntsman spared Snow White and urged her to flee into the wild woods.",
+        "bn": "তার নিষ্পাপ মুখের দিকে তাকিয়ে শিকারির মায়া হলো; সে তাকে হত্যা না করে বনের গভীরে পালিয়ে যাওয়ার অনুরোধ করল।"
+      },
+      {
+        "en": "She discovered a tiny, tidy cottage belonging to seven hardworking dwarf miners who dug for gems deep inside the mountains.",
+        "bn": "বনে ঘুরতে ঘুরতে সে সাতজন পরিশ্রমী বামনের একটি ছোট্ট সুন্দর কুটির খুঁজে পেল, যারা পাহাড়ে রত্ন খোঁজার কাজ করত।"
+      },
+      {
+        "en": "The dwarfs welcomed her warmly as their sister, protecting her from the disguised queen's poisoned apple until a noble prince revived her.",
+        "bn": "বামনরা তাকে ভালোবেসে বোনের মতো আশ্রয় দিল এবং ছদ্মবেশী রানীর বিষাক্ত আপেলের আক্রমণ থেকে এক রাজপুত্রের সাহায্যে তাকে উদ্ধার করল।"
+      },
+      {
+        "en": "Envy and cruelty ultimately destroy themselves, while kindness and inner purity shine forever like stars.",
+        "bn": "হিংসা এবং নিষ্ঠুরতা শেষ পর্যন্ত নিজেই নিজেকে ধ্বংস করে, কিন্তু ভালোবাসা ও অন্তরের পবিত্রতা চিরকাল তারার মতো আলো ছড়ায়।"
+      }
+    ]
+  },
+  {
+    "id": "folk-hansel-and-gretel",
+    "title": "Hansel and Gretel: The Gingerbread Cottage",
+    "titleBn": "হ্যানসেল ও গ্রেটেল: বনের মিষ্টি বাড়ি",
+    "author": "Brothers Grimm",
+    "level": "Intermediate",
+    "category": "Fairy Tales",
+    "coverEmoji": "🍭",
+    "summary": "Two clever siblings use white pebbles and quick wits to outsmart a wicked witch in the dark forest.",
+    "summaryBn": "গভীর বনে পথ হারিয়ে ফেলা দুই ভাইবোন কীভাবে নিজেদের উপস্থিত বুদ্ধি দিয়ে এক দুষ্টু ডাইনিকে পরাস্ত করেছিল।",
+    "sentences": [
+      {
+        "en": "During a terrible famine, an impoverished woodcutter and his harsh wife could no longer afford to feed their two children, Hansel and Gretel.",
+        "bn": "ভয়াবহ এক দুর্ভিক্ষের সময় এক দরিদ্র কাঠুরে ও তার নিষ্ঠুর স্ত্রী খাবার জোগাড় করতে না পেরে দুই সন্তান হ্যানসেল ও গ্রেটেলকে বনে ফেলে আসার সিদ্ধান্ত নিল।"
+      },
+      {
+        "en": "Overhearing the plan, clever Hansel crept outside by moonlight and filled his coat pockets with shiny white pebbles.",
+        "bn": "তাদের এই গোপন কথা শুনে চতুর হ্যানসেল চাঁদের আলোয় বাইরে গিয়ে নিজের পকেট চকচকে সাদা পাথরে ভরে ফেলল।"
+      },
+      {
+        "en": "As they were led into the deep wilderness, Hansel dropped pebbles along the path, guiding his sister safely back home at nightfall.",
+        "bn": "বনের ভেতর যাওয়ার সময় হ্যানসেল পথে পথে পাথর ফেলতে ফেলতে গেল এবং রাতে চাঁদের আলোয় সেই পাথর দেখে বোনকে নিয়ে নিরাপদে বাড়ি ফিরল।"
+      },
+      {
+        "en": "The next time, locked inside, he dropped breadcrumbs instead, but hungry woodland birds devoured every single speck, leaving them lost.",
+        "bn": "দ্বিতীয়বার বাইরে যাওয়ার সুযোগ না পেয়ে সে রুটির টুকরো ফেলল, কিন্তু বনের ক্ষুধার্ত পাখিরা সব খেয়ে ফেলায় তারা গভীর বনে পথ হারিয়ে ফেলল।"
+      },
+      {
+        "en": "Wandering hungry, they discovered a miraculous cottage built entirely of sweet bread, with chocolate windows and sparkling sugar roofs.",
+        "bn": "ক্ষুধার্ত অবস্থায় ঘুরতে ঘুরতে তারা মিষ্টি পাউরুটি দিয়ে তৈরি এক অদ্ভুত বাড়ি দেখতে পেল, যার জানালা ছিল চকলেটের আর ছাদ ছিল চিনির তৈরি।"
+      },
+      {
+        "en": "A wicked old witch lived inside who lured wandering children to fatten and cook them in her roaring brick oven.",
+        "bn": "সেই বাড়ির ভেতরে বাস করত এক দুষ্টু ডাইনি, যে পথভোলা শিশুদের মিষ্টির লোভ দেখিয়ে ঘরে এনে বড় চুলোয় রান্না করে খেত।"
+      },
+      {
+        "en": "When the witch ordered Gretel to climb inside to test the heat, the brave little girl pretended ignorance and pushed the witch into the flames instead.",
+        "bn": "ডাইনি যখন চুলোর ভেতর মাথা ঢুকিয়ে তাপমাত্রা দেখতে গ্রেটেলকে হুকুম দিল, সাহসী মেয়েটি কিছু না বোঝার ভান করে উল্টো ডাইনিকেই চুলোর ভেতর ধাক্কা দিয়ে বন্ধ করে দিল।"
+      },
+      {
+        "en": "Finding pearls and jewels in the cottage, the reunited siblings returned joyfully to their father, living in wealth and happiness forever.",
+        "bn": "সেই ডাইনির বাড়ি থেকে রত্ন ও মুক্তার থলি নিয়ে ভাইবোন বাড়ি ফিরে এলো এবং বাবার সাথে বাকি জীবন পরম সুখে কাটাল।"
+      }
+    ]
+  },
+  {
+    "id": "folk-bremen-musicians",
+    "title": "The Town Musicians of Bremen",
+    "titleBn": "ব্রেমেনের চার বাদ্যযন্ত্রশিল্পী প্রাণী",
+    "author": "Brothers Grimm",
+    "level": "Intermediate",
+    "category": "Fairy Tales",
+    "coverEmoji": "🎺",
+    "summary": "Four aging, cast-off farm animals band together to scare away forest robbers and find a cozy new home.",
+    "summaryBn": "বয়স হয়ে যাওয়ায় মালিকের অবহেলা পাওয়া চার অবলা প্রাণী কীভাবে জোট বেঁধে একদল ডাকাতকে তাড়িয়ে নিজেদের ঘর পেয়েছিল।",
+    "sentences": [
+      {
+        "en": "An old donkey who had carried heavy grain sacks all his life realized his ungrateful master planned to starve him as he grew weak.",
+        "bn": "সারাজীবন শস্যের ভারী বস্তা টানা এক বুড়ো গাধা বুঝতে পারল যে সে দুর্বল হয়ে পড়ায় তার অকৃতজ্ঞ মালিক তাকে আর খাবার দেবে না।"
+      },
+      {
+        "en": "The donkey ran away, deciding to walk to the town of Bremen to become a merry street musician.",
+        "bn": "গাধাটি বাড়ি থেকে পালিয়ে ব্রেমেন শহরের দিকে রওনা দিল এক আনন্দিত বাদ্যযন্ত্রশিল্পী হওয়ার আশায়।"
+      },
+      {
+        "en": "Along the road, he met an exhausted hound, a toothless old cat, and a weary rooster whose owners intended to kill them for their age.",
+        "bn": "পথের মাঝে তার সাথে দেখা হলো এক ক্লান্ত শিকারি কুকুর, দাঁতহীন এক বুড়ো বেড়াল এবং এক মোরগের সাথে, যাদের মালিকরা বয়স হওয়ায় তাদের মেরে ফেলতে চেয়েছিল।"
+      },
+      {
+        "en": "The donkey invited them all to join his grand musical troupe, and the four unlikely friends marched together along the forest highway.",
+        "bn": "গাধা সবাইকে তার গানের দলে যোগ দেওয়ার ডাক দিল এবং চার বন্ধু মিলে মনের আনন্দে বনের রাস্তা ধরে গান গেয়ে চলতে লাগল।"
+      },
+      {
+        "en": "At nightfall, they spotted a warm, lighted cottage in the woods occupied by fierce bandits feasting on stolen roasts and wine.",
+        "bn": "সন্ধ্যার দিকে তারা বনের মধ্যে এক সুন্দর বাড়ি দেখতে পেল যেখানে একদল ডাকাত চুরি করা মাংস আর মদের ভোজ নিয়ে বসেছিল।"
+      },
+      {
+        "en": "The donkey stood on the windowsill, the dog climbed on his back, the cat scrambled onto the dog, and the rooster perched atop the cat's head.",
+        "bn": "গাধাটি জানালার ওপর দাঁড়াল, তার পিঠে উঠল কুকুর, কুকুরের পিঠে বেড়াল আর বেড়ালের মাথায় গিয়ে বসল মোরগ।"
+      },
+      {
+        "en": "On a signal, they created an unearthly racket—braying, barking, mewing, and crowing—crashing through the window and terrifying the robbers into the night.",
+        "bn": "ইশারা পেতেই তারা একসাথে বিকট চিৎকার শুরু করল—ডাক, ঘেউঘেউ, মিউমিউ আর মোরগের ডাক—এবং কাচ ভেঙে ঘরে ঢুকে ডাকাতদের আতঙ্কে দিগ্বিদিক ছুটিয়ে দিল।"
+      },
+      {
+        "en": "The four delighted friends feasted on the delicious banquet and lived comfortably in the cottage for the rest of their days.",
+        "bn": "চার বন্ধু মনের সুখে সেই টেবিলের খাবার খেল এবং সেই বাড়িতে বাকি জীবন পরম শান্তিতে একসাথে বাস করতে লাগল।"
+      }
+    ]
+  },
+  {
+    "id": "folk-emperor-new-clothes",
+    "title": "Hans Christian Andersen: The Emperor's New Clothes",
+    "titleBn": "রাজার নতুন অদৃশ্য পোশাক",
+    "author": "Hans Christian Andersen",
+    "level": "Intermediate",
+    "category": "World Classics",
+    "coverEmoji": "👑",
+    "summary": "Two cunning weavers dupe a vain court until an innocent child speaks the naked truth aloud.",
+    "summaryBn": "দুই ধূর্ত তাঁতি কীভাবে পুরো রাজদরবারকে বোকা বানিয়েছিল, যতক্ষণ না এক নিষ্পাপ শিশু সবার সামনে আসল সত্য বলে দিল।",
+    "sentences": [
+      {
+        "en": "Many years ago, there lived an emperor who cared about nothing except parading through his city in expensive, fashionable robes.",
+        "bn": "বহু বছর আগে এমন এক রাজা ছিলেন যিনি নতুন নতুন বাহারি পোশাক পরে নগরভ্রমণ করা ছাড়া আর কোনো কিছুতেই মন দিতেন না।"
+      },
+      {
+        "en": "Two crafty swindlers arrived at the palace, claiming they were master weavers capable of weaving an enchanted, magnificent cloth.",
+        "bn": "দুই ধূর্ত জোচ্চোর রাজপ্রাসাদে এসে দাবি করল যে তারা এমন এক জাদুকরী কাপড় বুনতে পারে যার রূপ দুনিয়ায় আর কোথাও নেই।"
+      },
+      {
+        "en": "They claimed their magical fabric was invisible to anyone who was hopelessly stupid or entirely unfit for their royal office.",
+        "bn": "তারা বলল তাদের তৈরি এই জাদুর কাপড় কেবল তারাই দেখতে পাবে না যারা চূড়ান্ত বোকা অথবা নিজ পদের সম্পূর্ণ অযোগ্য।"
+      },
+      {
+        "en": "The vain emperor gave them bags of gold and silk thread, and the weavers sat at empty looms pretending to work day and night.",
+        "bn": "অহংকারী রাজা তাদের থলিভর্তি সোনা আর রেশমি সুতো দিলেন, আর তাঁতিরা শূন্য তাঁতে বসে দিনরাত কাপড় বোনার ভান করতে লাগল।"
+      },
+      {
+        "en": "Ministers visited the empty workshop and, terrified of being called fools, falsely praised the non-existent colors and patterns.",
+        "bn": "মন্ত্রীদের পাঠানো হলে তারা ফাঁকা তাঁত দেখেও নিজেদের বোকা বা অযোগ্য প্রমাণ হওয়ার ভয়ে বানিয়ে বানিয়ে সেই কাপড়ের ভূয়সী প্রশংসা করল।"
+      },
+      {
+        "en": "On the day of the imperial parade, the weavers helped the emperor dress in empty air, pinning imaginary trains and cloaks.",
+        "bn": "নগরভ্রমণের দিন তাঁতিরা রাজাকে অনাবৃত গায়েই কল্পিত জামা আর চাদর পরিয়ে দেওয়ার নিখুঁত অভিনয় করে দিল।"
+      },
+      {
+        "en": "As the naked emperor marched proudly under his royal canopy, the cowardly crowd shouted praises, fearing to look foolish.",
+        "bn": "উলঙ্গ রাজা যখন রাজকীয় ছাতার নিচে হেঁটে চললেন, ভিড়ের সবাই বোকা ভাবার ভয়ে ভণ্ডামির সাথে জয়ধ্বনি দিতে লাগল।"
+      },
+      {
+        "en": "Suddenly, a little child pointed and piped innocently: 'Look, father! The Emperor has no clothes on at all!' revealing the absurd truth.",
+        "bn": "হঠাৎ এক ছোট্ট শিশু আঙুল তুলে সরল গলায় বলে উঠল: 'বাবা দেখো! রাজার গায়ে তো কোনো জামাই নেই!' আর মুহূর্তেই সবার ভণ্ডামি ভেঙে গেল।"
+      }
+    ]
+  },
+  {
+    "id": "folk-stone-soup-travelers",
+    "title": "The Three Travelers and the Stone Soup",
+    "titleBn": "পাথরের সুস্বাদু স্যুপ",
+    "author": "European Folklore",
+    "level": "Intermediate",
+    "category": "Folk Wisdom",
+    "coverEmoji": "🍲",
+    "summary": "Clever travelers use curiosity and a smooth river stone to teach a stingy village the joy of sharing.",
+    "summaryBn": "একটি সাধারণ পাথরের ভান করে তিন বুদ্ধিমান পরিব্রাজক এক কৃপণ গ্রামের মানুষকে দিয়ে সুস্বাদু খাবার বানিয়ে নিয়েছিলেন।",
+    "sentences": [
+      {
+        "en": "Three hungry soldiers returning from the wars arrived at a prosperous village whose residents secretly hoarded food and refused to share.",
+        "bn": "যুদ্ধফেরত তিন ক্ষুধার্ত সৈনিক এক সচ্ছল গ্রামে এসে পৌঁছাল, যেখানকার কৃপণ গ্রামবাসীরা সব খাবার লুকিয়ে রেখে সাহায্য করতে অস্বীকার করল।"
+      },
+      {
+        "en": "Knowing direct pleading would fail, the soldiers borrowed a large iron cauldron from the blacksmith and filled it with clear water in the square.",
+        "bn": "সরাসরি ভিক্ষা চাইলে খাবার মিলবে না জেনে সৈনিকরা কামারের কাছ থেকে এক বিশাল কড়াই চেয়ে এনে বাজারের মাঝখানে পানি দিয়ে ভর্তি করল।"
+      },
+      {
+        "en": "They lit a roaring fire beneath the pot, selected three smooth river stones from the path, and dropped them into the boiling water with great ceremony.",
+        "bn": "তারা নিচে আগুন জ্বালাল, রাস্তা থেকে তিনটি সুন্দর গোল পাথর তুলে এনে রাজকীয় কায়দায় ফুটন্ত পানির মধ্যে ফেলে দিল।"
+      },
+      {
+        "en": "Curious villagers gathered around, asking what delicious gourmet meal was simmering in the public pot.",
+        "bn": "কৌতূহলী গ্রামবাসীরা চারপাশ থেকে জড়ো হয়ে জিজ্ঞেস করল এই বড় পাত্রে কোন রাজকীয় সুস্বাদু খাবার রান্না হচ্ছে।"
+      },
+      {
+        "en": "The soldiers tasted the broth thoughtfully and announced: 'This stone soup is exquisite, though a handful of carrots would make it fit for an emperor.'",
+        "bn": "সৈনিকরা চামচে ঝোল তুলে স্বাদ নেওয়ার ভান করে বলল: 'এই পাথরের স্যুপ অপূর্ব, তবে কয়েকটি গাজর দিলে এটা রাজার খাওয়ার উপযোগী হতো।'"
+      },
+      {
+        "en": "A woman rushed home and returned with fresh carrots, followed by neighbors bringing potatoes, cabbage, salt beef, and fragrant spices.",
+        "bn": "এক নারী দৌড়ে বাড়ি গিয়ে কিছু গাজর এনে দিল, এরপর প্রতিবেশীরা একে একে আলু, বাঁধাকপি, গরুর মাংস আর সুগন্ধি মসলা এনে কড়াইতে ঢালল।"
+      },
+      {
+        "en": "Soon, the iron pot was brimming with the richest, most fragrant stew the village had ever smelled.",
+        "bn": "কিছুক্ষণের মধ্যেই সেই সাধারণ কড়াইটি এমন সুস্বাদু ও সুবাসিত খাবারে ভরে উঠল যার ঘ্রাণ গ্রামে আগে কেউ কখনো পায়নি।"
+      },
+      {
+        "en": "They all sat down together at a grand feast, proving that when each person contributes their small part, everyone prospers.",
+        "bn": "সবাই মিলে একসাথে বসে সেই আনন্দের ভোজ উপভোগ করল এবং বুঝল যে প্রত্যেকে সামান্য ভাগ দিলে পুরো সমাজই সুখে থাকতে পারে।"
+      }
+    ]
+  },
+  {
+    "id": "folk-momotaro-peach-boy",
+    "title": "Momotaro: The Brave Peach Boy of Japan",
+    "titleBn": "জাপানের বীর পিচ বয় মোমোতারো",
+    "author": "Japanese Folklore",
+    "level": "Intermediate",
+    "category": "World Folktales",
+    "coverEmoji": "🍑",
+    "summary": "Born from a giant floating peach, a courageous boy befriends a dog, monkey, and pheasant to conquer evil ogres.",
+    "summaryBn": "নদীর জলে ভেসে আসা এক বিশাল পিচ ফল থেকে জন্ম নেওয়া এক বীর বালক কীভাবে পশুদের সাথে নিয়ে দুষ্টু রাক্ষসদের পরাজিত করেছিল।",
+    "sentences": [
+      {
+        "en": "An elderly childless woman was washing clothes in a mountain river in Japan when an enormous peach came floating down the clear current.",
+        "bn": "জাপানের এক পাহাড়ি নদীতে এক নিঃসন্তান বৃদ্ধা কাপড় ধুচ্ছিলেন, এমন সময় স্রোতের সাথে এক বিশাল পাকা পিচ ফল ভেসে এলো।"
+      },
+      {
+        "en": "She hauled the heavy fruit home to share with her woodcutter husband, but when they sliced it open, a healthy, smiling baby boy stepped out.",
+        "bn": "সে ভারী ফলটি বাড়ি এনে কাঠুরে স্বামীর সাথে কাটতে যেতেই দেখা গেল ফলের ভেতর থেকে এক ফুটফুটে হাসিমুখ ছেলে বেরিয়ে এলো।"
+      },
+      {
+        "en": "They joyfully named him Momotaro, which means 'Peach Boy', and raised him with immense love and wholesome millet dumplings.",
+        "bn": "তারা আনন্দের সাথে তার নাম রাখল মোমোতারো, যার অর্থ 'পিচ বালক', এবং পরম স্নেহে তাকে বড় করতে লাগল।"
+      },
+      {
+        "en": "When wicked horned ogres from Onigashima island terrorized coastal villages, young Momotaro resolved to travel and defeat them.",
+        "bn": "ওনিগাশীমা দ্বীপের শিংওয়ালা দুষ্টু রাক্ষসরা যখন উপকূলের গ্রামে লুটপাট শুরু করল, তরুণ মোমোতারো তাদের দমন করার সংকল্প নিল।"
+      },
+      {
+        "en": "Along the mountain road, he shared his delicious homemade dumplings with a talking dog, a clever monkey, and a brave flying pheasant.",
+        "bn": "পাহাড়ি পথে যাওয়ার সময় সে নিজের খাবার ভাগ করে দিয়ে এক প্রভুভক্ত কুকুর, এক চতুর বানর এবং এক সাহসী তিতির পাখির সাথে বন্ধুত্ব করল।"
+      },
+      {
+        "en": "United by loyalty and shared courage, the four companions crossed the stormy ocean in a wooden boat and stormed the ogre fortress.",
+        "bn": "একতা ও সাহসের জোরে চার বন্ধু কাঠের নৌকায় চড়ে উত্তাল সাগর পাড়ি দিল এবং রাক্ষসদের দুর্গে আক্রমণ চালাল।"
+      },
+      {
+        "en": "The pheasant pecked their eyes, the monkey scratched their shields, the dog bit their heels, and Momotaro subdued the ogre king.",
+        "bn": "পাখিটি চোখে ঠোকর দিল, বানর ঢাল খামচে ধরল, কুকুর পায়ে কামড় বসাল আর মোমোতারো একাই রাক্ষসরাজাকে পরাজিত করল।"
+      },
+      {
+        "en": "Momotaro returned home bearing all the stolen village treasures, bringing enduring peace and honor to his aging parents.",
+        "bn": "লুট হওয়া সমস্ত সম্পদ উদ্ধার করে মোমোতারো বাড়ি ফিরে এলো এবং তার বৃদ্ধ মা-বাবার জন্য চিরন্তন সুখ ও সম্মান বয়ে নিয়ে এলো।"
+      }
+    ]
+  },
+  {
+    "id": "folk-shoemaker-elves",
+    "title": "The Kind Shoemaker and the Grateful Elves",
+    "titleBn": "দয়ালু মুচি ও ছোট পরীদের দল",
+    "author": "Brothers Grimm",
+    "level": "Intermediate",
+    "category": "Fairy Tales",
+    "coverEmoji": "👞",
+    "summary": "Tiny magical creatures reward an honest craftsman's integrity, and his family returns the kindness in full.",
+    "summaryBn": "এক সৎ মুচির নিঃস্বার্থ নিষ্ঠায় মুগ্ধ হয়ে ছোট পরীরা কীভাবে তার পরিবারকে সাহায্য করল আর মুচিও কৃতজ্ঞতা ফিরিয়ে দিল।",
+    "sentences": [
+      {
+        "en": "An honest, hardworking shoemaker had fallen into extreme poverty through no fault of his own, until only enough leather remained for one final pair of shoes.",
+        "bn": "এক সৎ ও পরিশ্রমী মুচি কোনো দোষ ছাড়াই চরম অভাবের মুখে পড়ল, শেষ পর্যন্ত তার কাছে মাত্র এক জোড়া জুতো বানানোর মতো চামড়া অবশিষ্ট রইল।"
+      },
+      {
+        "en": "He carefully cut out the leather pieces in the evening, said his prayers, and went to bed with a calm, trusting heart.",
+        "bn": "সন্ধ্যায় সে চামড়াগুলো সুন্দর করে কেটে টেবিলে রেখে ঈশ্বরের নাম নিয়ে শান্ত মনে ঘুমাতে গেল।"
+      },
+      {
+        "en": "The next morning, to his absolute astonishment, he found a pair of finished shoes standing on his workbench, sewn with breathtakingly tiny stitches.",
+        "bn": "পরদিন সকালে উঠে সে তাজ্জব বনে গেল—টেবিলের ওপর রাখা রয়েছে এক জোড়া নিখুঁত জুতো, যার সেলাই ছিল অবিশ্বাস্যরকমের সূক্ষ্ম ও নিখুঁত।"
+      },
+      {
+        "en": "A wealthy customer loved the shoes so much that he paid double the ordinary price, allowing the cobbler to buy leather for two more pairs.",
+        "bn": "এক ধনী ক্রেতা সেই জুতো দেখে এত খুশি হলো যে সাধারণ দামের চেয়ে দ্বিগুণ টাকা দিয়ে জুতোটি কিনে নিল।"
+      },
+      {
+        "en": "Every night, the same miracle occurred; whatever leather was prepared on the table was transformed into magnificent shoes by sunrise.",
+        "bn": "প্রতি রাতেই এই অলৌকিক ঘটনা ঘটতে লাগল; সন্ধ্যায় কেটে রাখা চামড়া সকালে উঠে দেখা যেত চমৎকার জুতো হয়ে গেছে।"
+      },
+      {
+        "en": "One night before Christmas, the cobbler and his wife hid behind a curtain to discover who their mysterious benefactors were.",
+        "bn": "ক্রিসমাসের আগের রাতে মুচি আর তার স্ত্রী পর্দার আড়ালে লুকিয়ে দেখল কারা তাদের এই গোপন সাহায্যকারী।"
+      },
+      {
+        "en": "At midnight, two naked, shivering little elves slipped in through the window, stitching away rapidly with magical nimble fingers.",
+        "bn": "মধ্যরাতে দেখা গেল ছোট ছোট পোশাকহীন দুটি পরী জানালার ফাঁক দিয়ে ঘরে ঢুকে জাদুকরী আঙুল দিয়ে দ্রুত জুতো সেলাই করছে।"
+      },
+      {
+        "en": "Grateful for their rescue from poverty, the cobbler and his wife sewed tiny warm coats, trousers, and leather boots for the elves, gifting them joy forever.",
+        "bn": "তাদের এই উপকারের ঋণ শোধ করতে মুচি দম্পতি ছোট ছোট সুন্দর কোট, প্যান্ট ও জুতো বানিয়ে রেখে দিল, যা পেয়ে পরীরা আনন্দে গান গেয়ে বিদায় নিল।"
+      }
+    ]
+  },
+  {
+    "id": "folk-jack-beanstalk-giant",
+    "title": "Jack and the Beanstalk: The Sky Giant",
+    "titleBn": "জ্যাক এবং আকাশের মেঘের দৈত্য",
+    "author": "English Folklore",
+    "level": "Intermediate",
+    "category": "Fairy Tales",
+    "coverEmoji": "🌱",
+    "summary": "Trading a cow for five magic beans leads an adventurous boy high into the clouds where golden treasures wait.",
+    "summaryBn": "এক গরুর বদলে পাঁচটি জাদুর শিমের দানা পেয়ে এক সাহসী কিশোর কীভাবে আকাশের মেঘের ওপরে দৈত্যের রাজ্যে উঠেছিল।",
+    "sentences": [
+      {
+        "en": "Young Jack and his widowed mother were so poor that their only remaining possession of value was an aging milk cow named Milky-White.",
+        "bn": "ছোট্ট জ্যাক এবং তার বিধবা মা এতটাই গরিব হয়ে পড়েছিল যে তাদের একমাত্র সম্বল ছিল দুধ দেওয়া এক বুড়ো সাদা গরু।"
+      },
+      {
+        "en": "Sent to market to sell the beast for food money, Jack met an old man who offered five colorful, speckled magic beans in exchange.",
+        "bn": "গরু বিক্রি করে খাবারের টাকা আনার জন্য বাজারে যাওয়ার পথে এক বৃদ্ধের সাথে দেখা হলো যে পাঁচটি রঙিন জাদুকরী শিমের বিচি দিয়ে গরু চাইল।"
+      },
+      {
+        "en": "Furious at her son's foolish trade, his mother threw the beans out the cottage window into the vegetable garden and sent Jack to bed with no dinner.",
+        "bn": "ছেলের এমন বোকামিতে রেগে গিয়ে মা বিচিগুলো জানালার বাইরে বাগানে ছুড়ে ফেলে দিলেন এবং না খাইয়ে জ্যাককে ঘুমাতে পাঠালেন।"
+      },
+      {
+        "en": "The next morning, an enormous beanstalk had sprouted toward the heavens, its thick leafy vines vanishing high above the clouds.",
+        "bn": "পরদিন সকালে দেখা গেল সেই শিমের লতা আকাশ ফুঁড়ে ওপরে উঠে গেছে এবং তার ডালপালা মেঘের ওপর গিয়ে হারিয়ে গেছে।"
+      },
+      {
+        "en": "Jack climbed the stalk higher and higher until he reached a cobblestone road in the sky leading to a towering stone castle.",
+        "bn": "জ্যাক লতা বেয়ে উঠতে উঠতে মেঘের দেশে গিয়ে এক চওড়া রাস্তা দেখতে পেল যা সোজা চলে গেছে বিশাল এক পাথুরে দুর্গের দিকে।"
+      },
+      {
+        "en": "Inside lived a cruel, man-eating giant who possessed a magical hen that laid solid gold eggs and a golden harp that played divine melodies.",
+        "bn": "সেই দুর্গে বাস করত এক রাক্ষুসে দৈত্য, যার কাছে ছিল সোনার ডিম পাড়া এক জাদুর মুরগি আর মিষ্টি সুরে বাজা এক সোনার বীণা।"
+      },
+      {
+        "en": "Jack waited until the giant fell asleep after his heavy meal, seized the golden hen and harp, and sprinted down the beanstalk.",
+        "bn": "দৈত্য খাবার খেয়ে ঘুমাতে যেতেই জ্যাক সোনার মুরগি ও বীণাটি নিয়ে ছুটে এসে লতা বেয়ে নিচের দিকে নামতে লাগল।"
+      },
+      {
+        "en": "As the roaring giant scrambled down in pursuit, Jack grabbed an axe, chopped the stalk through at the root, and saved his village from the monster forever.",
+        "bn": "দৈত্য তাকে তাড়া করে নিচে নামতেই জ্যাক কুড়াল দিয়ে লতার গোড়া কেটে দিল; গাছ ভেঙে পড়ে দৈত্য মারা গেল এবং গ্রাম চিরতরে মুক্ত হলো।"
+      }
+    ]
+  },
+  {
+    "id": "folk-fisherman-greedy-wife",
+    "title": "The Fisherman and His Greedy Wife",
+    "titleBn": "জেলে ও তার অতিলোভী স্ত্রী",
+    "author": "Brothers Grimm",
+    "level": "Intermediate",
+    "category": "Fairy Tales",
+    "coverEmoji": "🐟",
+    "summary": "An enchanted golden flounder grants grand wishes until insatiable greed demands the very throne of heaven.",
+    "summaryBn": "এক জাদুর মাছের দয়ায় রাজপ্রাসাদ পেয়েও যে নারীর লোভের কোনো সীমা ছিল না, শেষ পর্যন্ত সে ফিরে এলো তার পুরনো ভাঙা ঘরে।",
+    "sentences": [
+      {
+        "en": "A poor fisherman and his ambitious wife Dame Isabelle lived in a filthy, tattered wooden hovel beside a gray sea.",
+        "bn": "এক গরিব জেলে এবং তার উচ্চাভিলাষী স্ত্রী সাগরের পাড়ে এক ভাঙাচোরা নোংরা কুটিরে দিনাতিপাত করত।"
+      },
+      {
+        "en": "One afternoon, the fisherman hooked an enormous golden flounder that spoke with a human voice, begging to be returned to the deep.",
+        "bn": "একদিন জালে আটকা পড়ল এক বিশাল সোনালী মাছ, যে মানুষের গলায় কথা বলে সাগরের গভীরে ফিরে যাওয়ার আকুতি জানাল।"
+      },
+      {
+        "en": "The kind-hearted man released the fish without asking for anything, but when his wife heard the story, she scolded him fiercely.",
+        "bn": "দয়ালু জেলে কোনো কিছু না চেয়েই মাছটিকে ছেড়ে দিল, কিন্তু বাড়ি ফিরে স্ত্রীর কাছে গল্প বলতেই স্ত্রী তাকে বকাঝকা শুরু করল।"
+      },
+      {
+        "en": "'Go back to the shore,' she demanded, 'and tell the magic fish we want a neat brick cottage with a flower garden!'",
+        "bn": "'এখনই সাগরে যাও,' স্ত্রী হুকুম দিল, 'আর সেই জাদুর মাছকে গিয়ে বলো আমাদের যেন ফুলের বাগানসহ এক সুন্দর পাকা বাড়ি দেয়!'"
+      },
+      {
+        "en": "The fish granted the request, but within a week, the greedy wife demanded a stone palace, then to be made king, and then emperor of all nations.",
+        "bn": "মাছ সেই ইচ্ছা পূরণ করল, কিন্তু এক সপ্তাহের মধ্যেই লোভী স্ত্রী পাথরের দুর্গ, এরপর দেশের রানী এবং সবশেষে বিশ্বসম্রাজ্ঞী হওয়ার দাবি তুলল।"
+      },
+      {
+        "en": "Each time the poor fisherman went back, the ocean turned darker, stormier, and more turbulent with black rolling waves.",
+        "bn": "প্রতিবার জেলে যখন নতুন দাবি নিয়ে সাগরে গেল, সাগরের পানি আরও কালো, উত্তাল আর ঝড়ের মেঘে ঢেকে যেতে লাগল।"
+      },
+      {
+        "en": "Finally, the wife demanded total dominion over the sun and moon so that day and night would obey her command.",
+        "bn": "অবশেষে স্ত্রী দাবি করে বসল যে সে স্বয়ং চন্দ্র-সূর্যের অধিপতি হবে যাতে দিন আর রাত তার হুকুমে চলে।"
+      },
+      {
+        "en": "The fish sighed deeply and replied: 'Go home; she is already sitting back in her filthy hovel,' leaving them with nothing due to boundless greed.",
+        "bn": "মাছ গভীর দীর্ঘশ্বাস ফেলে বলল: 'বাড়ি ফিরে যাও; সে তার সেই পুরনো ভাঙা কুটিরেই বসে আছে,' আর সীমাহীন লোভের কারণে তাদের সব হারাল।"
+      }
+    ]
+  },
+  {
+    "id": "folk-three-little-pigs",
+    "title": "The Three Little Pigs and the Wolf",
+    "titleBn": "তিন ছোট শূকরছানা ও ইটের ঘর",
+    "author": "English Folklore",
+    "level": "Intermediate",
+    "category": "Fairy Tales",
+    "coverEmoji": "🧱",
+    "summary": "Flimsy shortcuts collapse in the face of danger, while foresight and disciplined hard work stand unshakeable.",
+    "summaryBn": "অলসতা আর ফাঁকিবাজি বিপদের মুখে ভেঙে পড়ে, কিন্তু দূরদর্শিতা আর সৎ পরিশ্রমের ভিত কোনো ঝড়েও নড়ে না।",
+    "sentences": [
+      {
+        "en": "Three young pigs set out into the world to build homes of their own to shelter from the upcoming winter.",
+        "bn": "তিনটি ছোট শূকরছানা শীতের দিনে থাকার জন্য নিজেদের মতো করে বাড়ি বানাতে ঘর ছেড়ে বের হলো।"
+      },
+      {
+        "en": "The first pig was lazy and wanted to play quickly, so he tossed together a fragile hut made of dry straw.",
+        "bn": "প্রথমটি ছিল খুব অলস এবং জলদি খেলতে যাওয়ার জন্য সে শুকনো খড় দিয়ে একটি ঠুনকো কুঁড়েঘর বানিয়ে ফেলল।"
+      },
+      {
+        "en": "The second pig was impatient and gathered bundles of twigs, nailing together a flimsy wooden shack before running off to dance.",
+        "bn": "দ্বিতীয়টি ছিল অস্থির স্বভাবের, সে কিছু গাছের ডালপালা জড়ো করে একটি নড়বড়ে কাঠের ঘর বানিয়ে খেলতে চলে গেল।"
+      },
+      {
+        "en": "The third pig was industrious and foresighted, mixing cement and laying durable brick by brick with patient, sweating labor.",
+        "bn": "তৃতীয়টি ছিল অত্যন্ত পরিশ্রমী ও দূরদর্শী; সে সিমেন্ট আর বালি মেখে পরম ধৈর্য নিয়ে শক্ত ইটের দেয়াল গেঁথে মজবুত বাড়ি তৈরি করল।"
+      },
+      {
+        "en": "A ferocious big bad wolf approached the straw hut, huffed and puffed with immense breath, and blew it away instantly.",
+        "bn": "এক দুষ্টু নেকড়ে খড়ের ঘরের সামনে এসে সজোরে এক ফুঁ দিল, আর নিমেষেই খড়ের ঘরটি বাতাসে উড়ে গেল।"
+      },
+      {
+        "en": "The wolf chased the terrified pigs to the wooden shack and blew that down with two thunderous breaths as well.",
+        "bn": "নেকড়ে তাদের তাড়া করে কাঠের ঘরের কাছে এলো এবং দুটি জোর ফুঁ দিয়ে সেটিও ভেঙে গুঁড়িয়ে দিল।"
+      },
+      {
+        "en": "Both pigs sprinted inside the third brother's sturdy brick house, where the wolf huffed until he turned purple without loosening a single brick.",
+        "bn": "দুজন পালিয়ে তৃতীয় ভাইয়ের শক্ত ইটের ঘরে আশ্রয় নিল; নেকড়ে ফুঁ দিতে দিতে নীল হয়ে গেলেও একটি ইটও নড়াতে পারল না।"
+      },
+      {
+        "en": "Hard work, patience, and sound preparation are the only true fortresses that protect against life's fiercest storms.",
+        "bn": "কঠোর পরিশ্রম, ধৈর্য এবং সঠিক প্রস্তুতিই হলো জীবনের যেকোনো বড় ঝড়ের বিরুদ্ধে আত্মরক্ষার একমাত্র দুর্ভেদ্য দুর্গ।"
+      }
+    ]
+  }
+]

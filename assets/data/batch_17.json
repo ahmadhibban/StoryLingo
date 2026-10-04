@@ -1,0 +1,637 @@
+[
+  {
+    "id": "lit-maupassant-two-friends",
+    "title": "Two Friends: Fishing during the Siege of Paris",
+    "titleBn": "দুই বন্ধু: অবরুদ্ধ প্যারিসে মাছ ধরা",
+    "author": "Guy de Maupassant",
+    "level": "Intermediate",
+    "category": "World Literature",
+    "coverEmoji": "🎣",
+    "summary": "During the Franco-Prussian war, two Parisian friends risk cannon fire to fish peacefully in the Seine, choosing honor and brotherhood over betrayal.",
+    "summaryBn": "যুদ্ধের কামান ও বোমাবর্ষণের মাঝেও নদীতে মাছ ধরতে যাওয়া দুই বন্ধু জীবন বাঁচাতে একে অপরের সাথে বিশ্বাসঘাতকতা করতে অস্বীকার করে।",
+    "sentences": [
+      {
+        "en": "During the bitter winter of 1871, Paris was besieged by Prussian armies, reducing its shivering citizens to eating sparrows and rats to survive starvation.",
+        "bn": "১৮৭১ সালের তীব্র শীতে প্যারিস শহর প্রুশিয়ান সৈন্যদের দ্বারা অবরুদ্ধ হয়ে পড়েছিল, ক্ষুধার জ্বালায় নগরবাসী চড়ুই পাখি আর ইঁদুর খেয়ে বেঁচে ছিল।"
+      },
+      {
+        "en": "Monsieur Morissot, a watchmaker, crossed paths on the icy boulevard with Monsieur Sauvage, a draper with whom he had shared peaceful fishing Sundays for decades.",
+        "bn": "বরফে ঢাকা রাস্তায় ঘড়ি মেরামতকারী মরিসোর সাথে তার পুরনো কাপড়ের ব্যবসায়ী বন্ধু সোভাজের দেখা হলো, যাদের প্রতি রবিবার নদীতে মাছ ধরার পুরনো অভ্যাস ছিল।"
+      },
+      {
+        "en": "Longing for normal life, they procured military passes from an acquaintance and walked past French outposts to their favorite fishing island on the Seine.",
+        "bn": "স্বাভাবিক জীবনের টানে তারা এক পরিচিত অফিসারের কাছ থেকে ছাড়পত্র নিয়ে ফরাসি সীমান্ত পেরিয়ে সেইন নদীর পরিচিত মাছ ধরার দ্বীপে গেল।"
+      },
+      {
+        "en": "As cannon fire boomed from Mont-Valérien, the two friends cast their lines into the clear water, catching glistening gudgeon in blissful tranquility.",
+        "bn": "দূরের পাহাড়ে যখন কামানের গোলা গর্জে উঠছিল, দুই বন্ধু শান্ত মনে পানিতে সুতো ফেলে পরম শান্তিতে রুপোলি মাছ ধরতে লাগল।"
+      },
+      {
+        "en": "Suddenly, four bearded Prussian soldiers in helmets surrounded them with cocked rifles, dragging them before their commander.",
+        "bn": "হঠাৎ হেলমেট পরা চারজন প্রুশিয়ান সেনা রাইফেল তাক করে তাদের ঘিরে ফেলল এবং কমান্ডারের সামনে টেনে নিয়ে গেল।"
+      },
+      {
+        "en": "The Prussian officer promised them instant freedom if either would reveal the secret password required to re-enter French lines.",
+        "bn": "প্রুশিয়ান অফিসার বলল ফরাসিদের ব্যারাকে ফেরার গোপন পাসওয়ার্ড দিলে তাদের দুজনকে তৎক্ষণাৎ মুক্তি দেওয়া হবে।"
+      },
+      {
+        "en": "Taking each friend aside separately, the commander threatened immediate execution, but neither man uttered a single syllable of betrayal.",
+        "bn": "দুই বন্ধুকে আলাদা ডেকে নিয়ে মৃত্যুর ভয় দেখালেও তাদের একজনও দেশের সাথে বা বন্ধুর সাথে বিশ্বাসঘাতকতা করে কোনো গোপন কথা ফাঁস করল না।"
+      },
+      {
+        "en": "Shaking hands in silent nobility, the two friends faced the firing squad side by side, their bodies sinking into the river they so deeply loved.",
+        "bn": "নীরবে একে অপরের হাত ধরে দুই বন্ধু পাশাপাশি দাঁড়িয়ে বুলেটের মুখে জীবন দিল এবং তাদের প্রিয় নদীর বুকেই শেষ আশ্রয় খুঁজে নিল।"
+      }
+    ]
+  },
+  {
+    "id": "lit-o-henry-cop-and-anthem",
+    "title": "The Cop and the Anthem: Soapy's Quest for Winter Shelter",
+    "titleBn": "পুলিশ ও গির্জার সুর: সোফির শীতকালীন আশ্রয়",
+    "author": "O. Henry",
+    "level": "Intermediate",
+    "category": "World Literature",
+    "coverEmoji": "🎷",
+    "summary": "A clever homeless man in New York tries everything to get arrested for warm winter shelter, only for fate to play an ironic trick.",
+    "summaryBn": "কনকনে শীত থেকে বাঁচতে তিন মাসের জন্য জেলে যাওয়ার উদ্দেশ্যে বারবার অপরাধ করার চেষ্টা করেও ভাগ্যের অদ্ভুত পরিহাসে পড়েন ভবঘুরে সোফি।",
+    "sentences": [
+      {
+        "en": "When wild geese began honking south and dead leaves fluttered onto Madison Square park benches, Soapy realized that winter was at hand.",
+        "bn": "ম্যাডিসন স্কয়ার পার্কের বেঞ্চে যখন শুকনো পাতা ঝরে পড়তে লাগল আর বুনো হাঁসের দল দক্ষিণে উড়ল, সোফি বুঝল হাড়কাঁপানো শীত এসে গেছে।"
+      },
+      {
+        "en": "For years, his comfortable winter haven had been Blackwell's Island prison, where three months of guaranteed food, shelter, and companionship awaited an inmate.",
+        "bn": "বহু বছর ধরে শীতের দিনে তার প্রিয় আশ্রয় ছিল ব্ল্যাকওয়েলস আইল্যান্ড জেলখানা, যেখানে তিন মাসের বিনামূল্যে খাবার, শোবার ঘর আর সঙ্গ পাওয়া যেত।"
+      },
+      {
+        "en": "To get arrested, Soapy smashed a plate-glass department store window with a paving stone, but the police officer chased an innocent bystander instead.",
+        "bn": "গ্রেপ্তার হওয়ার জন্য সোফি এক ডিপার্টমেন্টাল স্টোরের বড় কাচের জানালায় পাথর ছুড়ে ভাঙল, কিন্তু পুলিশ তাকে না ধরে এক পথচারীর পেছনে দৌড়াল।"
+      },
+      {
+        "en": "He walked into a grand restaurant and ate roasted mallard duck without money, but the waiters merely pitched him headfirst onto the sidewalk.",
+        "bn": "এক অভিজাত রেস্তোরাঁয় ঢুকে দামি রোস্ট খেয়ে সে বলল তার পকেটে টাকা নেই, কিন্তু ওয়েটাররা পুলিশ না ডেকে তাকে ফুটপাতে ছুড়ে ফেলে দিল।"
+      },
+      {
+        "en": "He harassed women, yelled drunken songs outside a theatre, and stole an umbrella, but every attempt to provoke arrest comically failed.",
+        "bn": "সে মেয়েদের উত্যক্ত করল, মাতালের মতো চিৎকার করল, এমনকি অন্যের ছাতা ছিনতাই করল, তবুও কোনো পুলিশই তাকে গ্রেপ্তার করল না।"
+      },
+      {
+        "en": "Wandering toward an ancient quiet church, he heard an organist playing a sweet anthem that his mother used to sing during his innocent childhood.",
+        "bn": "এক শান্ত প্রাচীন গির্জার সামনে আসতেই সে অর্গানে বাজানো এক মিষ্টি ধর্মীয় সুর শুনতে পেল যা ছোটবেলায় তার মা গাইতেন।"
+      },
+      {
+        "en": "Deeply moved, Soapy resolved to resurrect his fallen soul, find honest work, and become a respectable man once again.",
+        "bn": "চোখের জলে তার অন্তর বদলে গেল; সোফি মনে মনে প্রতিজ্ঞা করল সে সৎ পথে ফিরবে, চাকরি খুঁজবে আর একজন সম্মানিত মানুষ হয়ে বাঁচবে।"
+      },
+      {
+        "en": "Just as the tearful resolution formed in his heart, a heavy hand gripped his shoulder; a policeman asked what he was doing, and the court magistrate sentenced him to three months on the Island.",
+        "bn": "ঠিক তখনই এক পুলিশ এসে তার কাঁধে হাত রেখে জানতে চাইল সে কেন এখানে দাঁড়িয়ে আছে, আর সকালে বিচারক তাকে তিন মাসের জেল দিয়ে দিলেন।"
+      }
+    ]
+  },
+  {
+    "id": "lit-o-henry-after-twenty-years",
+    "title": "After Twenty Years: The Midnight Rendezvous at Big Joe Brady's",
+    "titleBn": "বিশ বছর পর: মধ্যরাতের দেখা ও কর্তব্যের ডাক",
+    "author": "O. Henry",
+    "level": "Intermediate",
+    "category": "World Literature",
+    "coverEmoji": "🕰️",
+    "summary": "Two boyhood chums swear to meet at the same doorway in New York twenty years later, where time reveals how their paths diverged.",
+    "summaryBn": "বিশ বছর পর নিউইয়র্কের এক দরজায় দেখা করার বাল্যপ্রতিজ্ঞা রক্ষা করতে এসে এক বন্ধু পায় চরম সাফল্য আর অপরজন পায় এক বুকভাঙা বেদনা।",
+    "sentences": [
+      {
+        "en": "Patrolman Jimmy Wells walked his New York beat with impressive discipline, trying door handles along the darkened avenues in the chilling wind.",
+        "bn": "কনকনে শীতের বাতাসে পাহারা দিতে দিতে পুলিশ কর্মকর্তা জিমি ওয়েলস গভীর নিষ্ঠার সাথে রাতের অন্ধকারে দোকানপাটের দরজার তালা পরীক্ষা করছিলেন।"
+      },
+      {
+        "en": "In the doorway of a darkened hardware store, a man with an unlit cigar stepped forward to explain why he was standing in the shadows.",
+        "bn": "এক বন্ধ হার্ডওয়্যারের দোকানের দরজায় মুখে চুরুট নিয়ে দাঁড়ানো এক ব্যক্তি এগিয়ে এসে জানাল কেন সে এই মধ্যরাতে দাঁড়িয়ে অপেক্ষা করছে।"
+      },
+      {
+        "en": "He explained that twenty years ago that night, he and his closest friend Jimmy Wells had dined at 'Big Joe' Brady's restaurant on that very spot.",
+        "bn": "সে জানাল ঠিক বিশ বছর আগের এই রাতে সে আর তার প্রিয় বন্ধু জিমি ওয়েলস এই জায়গাতেই অবস্থিত 'বিগ জো ব্র্যাডি' রেস্তোরাঁয় একসাথে রাতের খাবার খেয়েছিল।"
+      },
+      {
+        "en": "Before parting—one heading West to make his fortune and the other remaining in New York—they swore to meet at the exact spot twenty years later.",
+        "bn": "একজন ভাগ্যের সন্ধানে পশ্চিমে আর অন্যজন নিউইয়র্কে থেকে যাওয়ার আগে তারা প্রতিজ্ঞা করেছিল ঠিক বিশ বছর পর এই দরজায় আবার দেখা করবে।"
+      },
+      {
+        "en": "Striking a match to light his cigar, the stranger revealed a pale, square-jawed face with a small white scar near his right eyebrow and a diamond scarfpin.",
+        "bn": "চুরুট জ্বালাতে দেশলাই কাঠি জ্বালতেই আলোর ঝলকানিতে দেখা গেল এক চওড়া চোয়ালের মুখ, যার ডান ভ্রুর কাছে সাদা কাটা দাগ আর গলায় হিরের পিন লাগানো।"
+      },
+      {
+        "en": "The policeman wished him luck and moved on; twenty minutes later, a tall man in an overcoat arrived, calling Bob by name and embracing him.",
+        "bn": "পুলিশ কর্মকর্তা তাকে শুভকামনা জানিয়ে এগিয়ে গেলেন; বিশ মিনিট পর লম্বা কোট পরা এক ব্যক্তি এসে ববকে জড়িয়ে ধরে কুশল বিনিময় করল।"
+      },
+      {
+        "en": "Under the glare of a corner drugstore light, Bob realized the stranger had a pug nose instead of Jimmy's Roman nose, realizing he was an impostor.",
+        "bn": "দোকানের উজ্জ্বল আলোয় আসতেই বব বুঝল এই লোকটির নাক বাঁকা, এটা তার চেনা বন্ধু জিমির সোজা নাক নয়; সে বুঝে গেল লোকটি ভুয়ো।"
+      },
+      {
+        "en": "The undercover officer arrested him as 'Silky Bob,' a wanted Chicago fugitive, handing him a handwritten note from Patrolman Wells: 'When you struck the match, I saw it was the face of the man wanted in Chicago; some way I couldn't arrest you myself, so I went and got a plainclothes officer.'",
+        "bn": "সাদা পোশাকের পুলিশ তাকে শিকাগোর কুখ্যাত দাগী আসামি হিসেবে গ্রেপ্তার করে জিমির লেখা এক চিরকুট দিল: 'দেশলাইয়ের আলোয় আমি চিনেছিলাম তুমি শিকাগোর ওয়ান্টেড অপরাধী; বন্ধু হয়ে নিজে তোমাকে হাতকড়া পরাতে পারিনি, তাই অন্য অফিসারকে পাঠিয়েছি।'"
+      }
+    ]
+  },
+  {
+    "id": "lit-chekhov-chameleon",
+    "title": "The Chameleon and the General's Puppy",
+    "titleBn": "গিরগিটি এবং জেনারেলের কুকুরছানা",
+    "author": "Anton Chekhov",
+    "level": "Intermediate",
+    "category": "World Literature",
+    "coverEmoji": "🦎",
+    "summary": "A corrupt Russian police inspector dynamically changes his legal verdict six times depending on who owns a biting puppy.",
+    "summaryBn": "কামড়ানো কুকুরছানাটি কার তা জানার সাথে সাথে পলকের মধ্যে নিজের রায় ছয়বার বদলে ফেলে এক সুবিধাবাদী পুলিশ কর্মকর্তা।",
+    "sentences": [
+      {
+        "en": "Police Inspector Otchumyelov strode pompously across the dusty market square wearing a brand-new regulation overcoat, followed by a constable with confiscated gooseberries.",
+        "bn": "নতুন সরকারি কোট গায়ে জড়িয়ে পুলিশ পরিদর্শক ওচুমেলেভ বাজারে বুক ফুলিয়ে হাঁটছিলেন, পেছনে এক কনস্টেবল জব্দ করা ফলের ঝুড়ি নিয়ে আসছিল।"
+      },
+      {
+        "en": "Suddenly, a loud commotion erupted as a goldsmith named Hryukin chased a limping white borzoi puppy, showing a bleeding finger bitten by the animal.",
+        "bn": "হঠাৎ শোরগোল তুলে এক স্বর্ণকার এক সাদা কুকুরছানাকে তাড়া করে নিয়ে এলো এবং কুকুরের কামড়ে রক্তাক্ত হয়ে যাওয়া নিজের আঙুল দেখিয়ে বিচারের দাবি করল।"
+      },
+      {
+        "en": "Otchumyelov bristled with authoritarian fury, threatening to exterminate the stray beast and fine the negligent owner heavily.",
+        "bn": "ওচুমেলেভ রাগে ফুঁসে উঠে বললেন এই বেওয়ারিশ কুকুরকে মেরে ফেলা হবে এবং মালিকের কাছ থেকে কড়া জরিমানা আদায় করা হবে।"
+      },
+      {
+        "en": "A bystander in the crowd murmured that the puppy looked like one belonging to General Zhigalov.",
+        "bn": "ভিড়ের মধ্য থেকে এক পথচারী ফিসফিস করে বলল কুকুরছানাটিকে দেখতে তো জেনারেল ঝিগালভের পোষা কুকুরের মতো লাগছে।"
+      },
+      {
+        "en": "At that instant, Otchumyelov shuddered from sudden imaginary cold, ordering the constable to remove his coat while scolding the goldsmith for poking the innocent puppy.",
+        "bn": "মুহূর্তের মধ্যে ভয় পেয়ে ওচুমেলেভের শরীরে কাল্পনিক ঠান্ডা লাগল; সে কোট খুলতে বলে স্বর্ণকারকে উল্টো ধমক দিল যে সে ইচ্ছা করেই নিরীহ কুকুরকে উত্যক্ত করেছে।"
+      },
+      {
+        "en": "When another voice claimed the general kept only pointers, the inspector flipped his verdict again, demanding the mongrel be destroyed.",
+        "bn": "আরেকজন যখন বলল জেনারেল কেবল শিকারী কুকুর পোষেন, পরিদর্শক আবার সুর বদলে বললেন এমন অপদার্থ কুকুরকে বাঁচিয়ে রাখার কোনো মানে নেই।"
+      },
+      {
+        "en": "When the general's personal cook confirmed the puppy belonged to the general's visiting brother, Otchumyelov smiled warmly, wrapped the dog tenderly, and threatened the wounded goldsmith with prison.",
+        "bn": "অবশেষে জেনারেলের রাঁধুনি এসে নিশ্চিত করল এটি জেনারেলের ভাইয়ের আদরের কুকুর; ওচুমেলেভ গলে গিয়ে পরম স্নেহে কুকুর কোলে তুলে নিল এবং আহত স্বর্ণকারকে জেলে পাঠানোর হুমকি দিল।"
+      }
+    ]
+  },
+  {
+    "id": "lit-tolstoy-how-much-land",
+    "title": "How Much Land Does a Man Need?",
+    "titleBn": "মানুষের কতটুকু জমি দরকার?",
+    "author": "Leo Tolstoy",
+    "level": "Intermediate",
+    "category": "World Literature",
+    "coverEmoji": "🌾",
+    "summary": "Pahom's insatiable hunger for land drives him to run until his heart bursts, discovering in death the true measure of earthly soil.",
+    "summaryBn": "জমির অন্তহীন লোভে সূর্যাস্তের আগে জমি ঘিরে দৌড়াতে গিয়ে মৃত্যুর কোলে ঢলে পড়া চাষী বুঝল মানুষের আসলে মাত্র ছয় ফুট মাটিরই প্রয়োজন।",
+    "sentences": [
+      {
+        "en": "Pahom was a hardworking peasant farmer who lived comfortably with his family, but he was perpetually tormented by the belief that he owned too little land.",
+        "bn": "পাহোম ছিল এক পরিশ্রমী কৃষক যে পরিবারের সাথে সচ্ছলভাবেই বাস করত, কিন্তু নিজের জমি কম এই অতৃপ্তি তার মনকে সবসময় বিষিয়ে রাখত।"
+      },
+      {
+        "en": "Hearing of the nomadic Bashkirs who possessed fertile, virgin grasslands beyond the Volga River, Pahom traveled hundreds of miles with lavish gifts.",
+        "bn": "ভোলগা নদীর ওপারে বাশকীর জাতির বিস্তীর্ণ উর্বর কুমারী জমির কথা শুনে পাহোম দামি উপহার নিয়ে শত শত মাইল পাড়ি দিয়ে তাদের কাছে গেল।"
+      },
+      {
+        "en": "The smiling village elder made a strange bargain: for one thousand rubles, Pahom could claim all the land he could walk around on foot between sunrise and sunset.",
+        "bn": "গ্রামের প্রবীণ সর্দার এক অদ্ভুত প্রস্তাব দিলেন: এক হাজার রুবলের বিনিময়ে সূর্যোদয় থেকে সূর্যাস্তের মধ্যে হেঁটে পাহোম যতখানি জমি ঘুরে আসতে পারবে, সব তার।"
+      },
+      {
+        "en": "The only condition was that he must return to the starter fox-fur cap on top of the hill before the sun dipped beneath the horizon, or forfeit the money.",
+        "bn": "একমাত্র শর্ত ছিল সূর্য ডোবার ঠিক আগেই পাহাড়ের মাথায় রাখা শিয়ালের চামড়ার টুপির কাছে ফিরে আসতে হবে, নইলে সমস্ত টাকা বাজেয়াপ্ত হবে।"
+      },
+      {
+        "en": "At sunrise, Pahom bounded forward; seeing lush black soil, moist meadows, and fertile groves, his greed compelled him to widen his circuit further and further.",
+        "bn": "ভোরের আলো ফুটতেই পাহোম ছুটতে শুরু করল; নরম কালো মাটি আর সুন্দর উপত্যকা দেখে তার লোভের সীমানা বাড়তেই লাগল, সে চক্কর আরও বড় করতে লাগল।"
+      },
+      {
+        "en": "By late afternoon, exhausted, drenched in sweat, and barefoot, he looked at the sinking crimson sun and realized he was miles too far from the hill.",
+        "bn": "বিকেলে শরীর ক্লান্ত হয়ে এলো, ঘামে ভিজে পা ফেটে রক্ত পড়ল; ডুবন্ত লাল সূর্যের দিকে তাকিয়ে সে বুঝল সে পাহাড় থেকে বহু দূরে চলে এসেছে।"
+      },
+      {
+        "en": "Pahom sprinted in sheer agony, his bursting heart thudding like a hammer; he threw himself onto the starter cap just as the final sliver of sun vanished.",
+        "bn": "বুকের খাঁচা ফাটিয়ে হাতুড়ির মতো হৃৎপিণ্ডের ধড়ফড়ানি নিয়ে পাহোম দৌড়াল; সূর্যের শেষ কিরণ মিলিয়ে যাওয়ার মুহূর্তে সে টুপির ওপর আছড়ে পড়ল।"
+      },
+      {
+        "en": "Blood gushed from his mouth, and he lay dead on the turf; his servant picked up a spade and dug a grave six feet long from head to heels.",
+        "bn": "তার মুখ দিয়ে রক্ত উপচে পড়ল এবং সে মাটিতে নিথর হয়ে গেল; তার চাকর কোদাল হাতে নিয়ে মাথা থেকে পা পর্যন্ত মাত্র ছয় ফুটের একটি কবর খুঁড়ল।"
+      }
+    ]
+  },
+  {
+    "id": "lit-poe-tell-tale-heart",
+    "title": "The Tell-Tale Heart: The Beating Beneath the Floorboards",
+    "titleBn": "এডগার অ্যালান পো: হৃদপিণ্ডের শব্দ ও বিবেকের দংশন",
+    "author": "Edgar Allan Poe",
+    "level": "Intermediate",
+    "category": "World Literature",
+    "coverEmoji": "🫀",
+    "summary": "A nervous murderer insists he is entirely sane, yet the imaginary throbbing of an old man's heart beneath the floor drives him to confess.",
+    "summaryBn": "মেঝের তক্তার নিচে লুকিয়ে রাখা লাশের হৃদস্পন্দনের কাল্পনিক বিকট শব্দ সহ্য করতে না পেরে পুলিশের কাছে নিজের অপরাধ স্বীকার করে এক মানসিক রোগী।",
+    "sentences": [
+      {
+        "en": "The narrator insists frantically to the reader that he is not mad, claiming that a disease had merely sharpened his senses rather than destroying them.",
+        "bn": "বর্ণনাকারী শুরুতেই পাঠকদের বারবার বোঝাতে চেষ্টা করে যে সে পাগল নয়, বরং এক অদ্ভুত রোগ তার ইন্দ্রিয়গুলোকে অবিশ্বাস্য তীক্ষ্ণ করে দিয়েছিল।"
+      },
+      {
+        "en": "He loved the old man he lived with, yet he was driven into uncontrollable obsessive horror by the man's cloudy, pale blue 'vulture eye.'",
+        "bn": "সে তার সাথে থাকা বৃদ্ধ মানুষটিকে ভালোবাসত, কিন্তু বৃদ্ধের ফ্যাকাসে নীল শকুনির মতো চোখের দৃষ্টি তার মনের ভেতর এক চরম ভীতি তৈরি করেছিল।"
+      },
+      {
+        "en": "For seven successive midnight hours, the narrator opened the bedchamber door with infinite stealth, shining a single thin beam of lantern light upon the closed eye.",
+        "bn": "টানা সাত রাত সে চোরের মতো সন্তর্পণে দরজা সামান্য ফাঁক করে লণ্ঠনের সরু আলোর রশ্মি ঘুমন্ত বৃদ্ধের সেই বন্ধ চোখের ওপর ফেলে দেখত।"
+      },
+      {
+        "en": "On the eighth night, finding the vulture eye wide open, he suffocated the old man beneath a heavy mattress and concealed the dismembered corpse beneath the floorboards.",
+        "bn": "অষ্টম রাতে চোখটি খোলা দেখতেই সে তোশক চাপা দিয়ে বৃদ্ধকে মেরে ফেলল এবং কাঠের মেঝের তক্তা খুলে টুকরো করা লাশ নিচে লুকিয়ে দিল।"
+      },
+      {
+        "en": "Three police officers arrived at four in the morning to investigate a neighbor's report of a shriek; confident and smiling, the killer placed his chair directly over the burial spot.",
+        "bn": "চিৎকার শুনে ভোর চারটায় তিনজন পুলিশ এলে খুনি আত্মবিশ্বাসের সাথে হেসে ঠিক লাশের জায়গার ওপরে চেয়ার টেনে বসে আড্ডা দিতে লাগল।"
+      },
+      {
+        "en": "As the officers chatted pleasantly, a low, dull, quick sound began ringing in the narrator's ears, resembling a watch enveloped in cotton.",
+        "bn": "পুলিশরা যখন গল্প করছিল, খুনির কানে এক ঢিমেতালের কিন্তু দ্রুত ধুকপুক শব্দ বাজতে লাগল, যেন তুলোয় মোড়ানো কোনো ঘড়ির টিকটিক আওয়াজ।"
+      },
+      {
+        "en": "The sound grew louder and louder until, convinced the smiling officers heard it and were mocking his agony, he shrieked: 'Tear up the planks! Here, here! It is the beating of his hideous heart!'",
+        "bn": "শব্দটি বাড়তে বাড়তে অসহ্য রূপ নিল; পুলিশরা জেনেও তাকে উপহাস করছে ভেবে সে চিৎকার করে উঠল: 'তক্তাগুলো তুলে ফেলুন! এইখানে! ওর ওই কুৎসিত হৃদপিণ্ডের স্পন্দন বাজছে!'"
+      }
+    ]
+  },
+  {
+    "id": "lit-poe-cask-of-amontillado",
+    "title": "The Cask of Amontillado: The Catacombs of Carnival",
+    "titleBn": "এডগার অ্যালান পো: সুরা এবং পাতালের সমাধি",
+    "author": "Edgar Allan Poe",
+    "level": "Intermediate",
+    "category": "World Literature",
+    "coverEmoji": "🍷",
+    "summary": "During the frenzy of Italian carnival, Montresor lures his arrogant rival Fortunato deep into ancestral catacombs to enact cold revenge.",
+    "summaryBn": "উৎসবের ভিড়ের মাঝে দামি মদের প্রলোভন দেখিয়ে নিজের পারিবারিক মাটির নিচের সমাধিকক্ষে নিয়ে গিয়ে অহংকারী শত্রুকে জীবন্ত দেয়ালবন্দি করে মন্তেসর।",
+    "sentences": [
+      {
+        "en": "Montresor had endured a thousand injuries from the nobleman Fortunato, but when Fortunato ventured upon insult, Montresor vowed calculated vengeance.",
+        "bn": "অভিজাত ফরচুনাটো মন্তেসরকে হাজারটা আঘাত দিলেও যখন সে সরাসরি অপমান করে বসল, মন্তেসর ঠান্ডা মাথায় প্রতিশোধ নেওয়ার চূড়ান্ত ফন্দি আঁটল।"
+      },
+      {
+        "en": "During the supreme madness of the Italian carnival season, Montresor encountered Fortunato dressed in a multicolored motley costume and jester's bells.",
+        "bn": "কার্নিভালের পাগলামির ভিড়ে ভাঁড়ের পোশাক আর মাথায় ঘণ্টার টুপি পরা মাতাল ফরচুনাটোর সাথে মন্তেসরের দেখা হলো।"
+      },
+      {
+        "en": "Feigning uncertainty about a rare cask of Amontillado wine he had purchased, Montresor flattered Fortunato's connoisseurship to lure him to his palazzo.",
+        "bn": "দামি আমন্তিলাদো মদের খাঁটিত্ব পরীক্ষা করার বাহানা দিয়ে মন্তেসর ফরচুনাটোর অহংকারে সুড়সুড়ি দিয়ে তাকে নিজের দুর্গে নিয়ে এলো।"
+      },
+      {
+        "en": "Carrying flaring torches, they descended winding damp granite steps into the subterranean vaults encrusted with white nitre and lined with ancestral skeletons.",
+        "bn": "মশাল হাতে তারা ঘুরপাক খাওয়া সিঁড়ি দিয়ে মাটির নিচের অন্ধকার ভোল্টে নামল, যার দেয়ালে লবণের আস্তরণ আর পূর্বপুরুষদের কঙ্কালের স্তূপ সাজানো ছিল।"
+      },
+      {
+        "en": "In the deepest niche of the catacombs, Montresor tricked the coughing, drunken rival into a narrow alcove and padlocked him to iron wall staples.",
+        "bn": "সমাধিক্ষেত্রের শেষ মাথায় গিয়ে মন্তেসর কাশিরত মাতাল ফরচুনাটোকে এক সরু খাঁজে ঢুকিয়ে দিয়ে দেয়ালের লোহার শিকল দিয়ে শক্ত করে তালা এঁটে দিল।"
+      },
+      {
+        "en": "Producing a trowel and mortar from beneath his cloak, Montresor began steadily laying tier after tier of stone masonry across the entrance.",
+        "bn": "নিজের চাদরের নিচ থেকে চুন ও কর্নিক বের করে মন্তেসর একের পর এক পাথরের সারি গেঁথে সেই প্রবেশদ্বার বন্ধ করতে লাগল।"
+      },
+      {
+        "en": "Through the final opening, Fortunato shrieked a desperate plea: 'For the love of God, Montresor!' to which the cold revenger replied: 'Yes, for the love of God.'",
+        "bn": "শেষ ইটের ফাঁক দিয়ে ফরচুনাটো বুকফাটা চিৎকার করে উঠল: 'ঈশ্বরের দোহাই মন্তেসর!' যার জবাবে ঠান্ডা গলায় সে বলল: 'হ্যাঁ, ঈশ্বরের দোহাই।'"
+      },
+      {
+        "en": "For half a century, no mortal disturbed the wall of bones, leaving the secret to rest in cold silence.",
+        "bn": "অর্ধ শতাব্দী ধরে কোনো মানুষ সেই কঙ্কালের দেয়াল স্পর্শ করেনি, নিস্তব্ধ শীতের আঁধারে সেই প্রতিশোধের রহস্য চিরতরে ঢাকা পড়ে রইল।"
+      }
+    ]
+  },
+  {
+    "id": "lit-twain-jumping-frog",
+    "title": "The Celebrated Jumping Frog of Calaveras County",
+    "titleBn": "ক্যালাভেরাস কাউন্টির সেই বিখ্যাত লাফানো ব্যাঙ",
+    "author": "Mark Twain",
+    "level": "Intermediate",
+    "category": "World Literature",
+    "coverEmoji": "🐸",
+    "summary": "Jim Smiley wagers on his champion frog Dan'l Webster, unaware that a sly stranger has secretly loaded the amphibian's belly with quail shot.",
+    "summaryBn": "নিজের পোষা চ্যাম্পিয়ন ব্যাঙের লাফের ওপর বাজি ধরে এক ধূর্ত আগন্তুকের কাছে কীভাবে হেরে যায় আজীবন বাজিকর জিম স্মাইলি।",
+    "sentences": [
+      {
+        "en": "In a sleepy California gold-mining camp named Angel's Camp, Jim Smiley was notorious for betting on anything that could breathe, walk, or race.",
+        "bn": "ক্যালিফোর্নিয়ার এক পাহাড়ি সোনার খনির বস্তিতে জিম স্মাইলি এমন এক বাজিকর ছিল যে নিশ্বাস নেওয়া যেকোনো প্রাণীর দৌড়ের ওপর বাজি ধরতে পারত।"
+      },
+      {
+        "en": "Smiley spent three dedicated months educating a common bullfrog he named Dan'l Webster, teaching him to leap higher than any amphibian alive.",
+        "bn": "স্মাইলি তিন মাস সময় দিয়ে ড্যানিয়েল ওয়েবস্টার নামের এক বুনো কোলাব্যাঙকে প্রশিক্ষণ দিল, যাতে সে যেকোনো ব্যাঙের চেয়ে উঁচুতে লাফাতে পারে।"
+      },
+      {
+        "en": "Carrying Dan'l in a small lattice box, Smiley bet fifty dollars with an arrogant stranger that his frog could outjump any creature in Calaveras County.",
+        "bn": "একটি জালি বাক্সে ব্যাঙটিকে নিয়ে সে এক অহংকারী অপরিচিতের সাথে পঞ্চাশ ডলার বাজি ধরল যে তার ব্যাঙ সবাইকে লাফে হারিয়ে দেবে।"
+      },
+      {
+        "en": "While Smiley walked down to the swamp to catch a wild frog for the stranger to match against Dan'l, the sly outsider acted with treachery.",
+        "bn": "প্রতিপক্ষের জন্য বিল থেকে আরেকটি বুনো ব্যাঙ ধরে আনতে স্মাইলি যখন গেল, ধূর্ত আগন্তুক এক মোক্ষম শয়তানি করল।"
+      },
+      {
+        "en": "The stranger pried open Dan'l Webster's mouth and filled him up to his chin with heavy lead quail shot before setting him back down.",
+        "bn": "লোকটি ড্যানিয়েল ব্যাঙের মুখ হাঁ করিয়ে চামচে করে সীসার ভারী গুলির ছররা দিয়ে তার পেট গলা পর্যন্ত ঠুসে দিল।"
+      },
+      {
+        "en": "When the contest commenced, the wild frog bounded away effortlessly, but Dan'l Webster merely heaved his shoulders, anchored solid to the counter like an anvil.",
+        "bn": "প্রতিযোগিতা শুরু হতেই বুনো ব্যাঙ এক লাফে বহুদূর গেল, কিন্তু ড্যানিয়েল কেবল কাঁধ ঝাঁকাল—ভারী কামারের নেহাইয়ের মতো মেঝের সাথে সে সেঁটে রইল।"
+      },
+      {
+        "en": "The stranger pocketed the money and vanished; when Smiley lifted his sluggish pet and turned him upside down, out poured a double handful of lead shot.",
+        "bn": "টাকা পকেটে পুরে লোকটি হাওয়া হয়ে গেল; স্মাইলি যখন নিস্তেজ ব্যাঙটিকে উল্টো করে ঝাঁকাল, তখন তার পেট থেকে মুঠো মুঠো সীসার গুলি ঝরে পড়ল।"
+      }
+    ]
+  },
+  {
+    "id": "lit-twain-prince-and-pauper",
+    "title": "The Prince and the Pauper: Swapped Destinies in Tudor London",
+    "titleBn": "রাজকুমার ও দরিদ্র বালক: বদলে যাওয়া ভাগ্য",
+    "author": "Mark Twain",
+    "level": "Intermediate",
+    "category": "World Literature",
+    "coverEmoji": "👑",
+    "summary": "Prince Edward and street urchin Tom Canty exchange garments on a whim, discovering firsthand the harsh realities of their divided kingdom.",
+    "summaryBn": "খেলার ছলে পোশাক অদলবদল করে রাজকুমার বস্তির কঠিন জীবনে নামে আর ভিখারির ছেলে রাজসিংহাসনে বসে রাজার দায়িত্ব শেখে।",
+    "sentences": [
+      {
+        "en": "On the same autumn day in sixteenth-century London, two boys were born: Prince Edward Tudor in a royal palace, and Tom Canty in a filthy slum called Offal Court.",
+        "bn": "ষোড়শ শতাব্দীর লন্ডনে একই দিনে দুটি শিশুর জন্ম হয়েছিল: রাজপ্রাসাদে রাজকুমার এডওয়ার্ড টিউডর আর নোংরা বস্তির কুঁড়েঘরে টম ক্যান্টি।"
+      },
+      {
+        "en": "Years later, ragged Tom peered through the gilded palace gates and was invited inside by Prince Edward, who was fascinated by the pauper's street freedom.",
+        "bn": "কয়েক বছর পর ছেঁড়া কাপড় পরা টম প্রাসাদের সোনার ফটকে উঁকি দিলে রাজকুমার এডওয়ার্ড তাকে ভেতরে ডাকল, মুক্ত পথের জীবনের গল্প শুনতে।"
+      },
+      {
+        "en": "Laughing at their striking physical resemblance, the two boys swapped clothing just for fun, looking in the mirror like identical twins.",
+        "bn": "তাদের দুজনের মুখের অবিকল মিল দেখে দুই বালক খেলার ছলে জামাকাপড় বদলে নিল, আয়নায় যেন দেখতে হুবহু একই মানুষ।"
+      },
+      {
+        "en": "When Edward ran out to reprimand a guard for striking Tom, the sentry assumed Edward was the beggar boy and violently shoved him out into the rain.",
+        "bn": "টমকে মারা এক প্রহরীর ওপর রাগ দেখাতে রাজকুমার বাইরে যেতেই প্রহরী তাকে ভিখারির ছেলে ভেবে গলা ধাক্কা দিয়ে বৃষ্টির রাস্তায় ফেলে দিল।"
+      },
+      {
+        "en": "For months, Prince Edward wandered through prisons, workhouses, and muddy alleys, witnessing firsthand the cruel injustices suffered by his poorest subjects.",
+        "bn": "কয়েকমাস ধরে রাজকুমার জেলখানা, কারখানা আর কাদামাখা রাস্তায় ঘুরে নিজের চোখে দেখল দেশের গরিব প্রজারা কতটা অবিচার ও কষ্টের মধ্যে দিন কাটায়।"
+      },
+      {
+        "en": "Meanwhile, terrified Tom Canty was forced to act as King in Westminster Abbey, attempting to rule with unexpected mercy and empathy.",
+        "bn": "এদিকে ভয়ার্ত টমকে রাজদরবারে রাজার দায়িত্ব সামলাতে হলো, তবে সে নিজের অভিজ্ঞতা দিয়ে মানুষের প্রতি দয়া ও সহমর্মিতার সাথে বিচার করতে লাগল।"
+      },
+      {
+        "en": "Just as the royal crown was about to be placed on Tom's head, ragged Edward burst in, revealed the location of the Great Seal, and reclaimed his throne as a wiser, merciful king.",
+        "bn": "টমের মাথায় যখন আসল রাজমুকুট পরানো হচ্ছিল, ছেঁড়া জামা পরা এডওয়ার্ড এসে রাজকীয় সিলমোহরের ঠিকানা দিয়ে সিংহাসন ফিরে পেল এক প্রজ্ঞাবান ও দয়ালু রাজা হয়ে।"
+      }
+    ]
+  },
+  {
+    "id": "lit-jack-london-to-build-a-fire",
+    "title": "To Build a Fire in the Klondike Freeze",
+    "titleBn": "জ্যাক লন্ডন: হাড়কাঁপানো শীতে আগুন জ্বালানো",
+    "author": "Jack London",
+    "level": "Intermediate",
+    "category": "World Literature",
+    "coverEmoji": "🔥",
+    "summary": "An arrogant prospector hikes alone in seventy-five degrees below zero in the Yukon, learning the brutal penalty for defying Arctic nature.",
+    "summaryBn": "মাইনাস পঁচাত্তর ডিগ্রির তুষারে একাকী পথ চলতে গিয়ে বরফে পা ভিজে যাওয়ার পর কীভাবে শেষ দেয়াশলাই কাঠির ওপর ঝুলে থাকে এক মানুষের জীবন।",
+    "sentences": [
+      {
+        "en": "A lone traveler stepped off the main Yukon trail to cross the frozen wilderness, accompanied only by a native wolf-dog with a heavy grey coat.",
+        "bn": "ইউকন প্রান্তরের বরফঢাকা দুর্গম পথে এক একাকী পরিব্রাজক যাত্রা শুরু করল, সাথে ছিল কেবল এক লোমশ কুকুর।"
+      },
+      {
+        "en": "The temperature had plunged to seventy-five degrees below zero, so cold that spitting tobacco spit cracked in mid-air before hitting the snow.",
+        "bn": "তাপমাত্রা শূন্যের নিচে পঁচাত্তর ডিগ্রিতে নেমে গিয়েছিল, এতটাই ঠান্ডা যে বাতাসে থুতু ফেললে বরফে পড়ার আগেই তা জমে কাচের মতো শব্দ হতো।"
+      },
+      {
+        "en": "An old-timer at Sulphur Creek had warned him never to travel alone in the North below fifty below, but the man had arrogantly laughed off the advice.",
+        "bn": "সালফার খাঁড়ির এক অভিজ্ঞ বৃদ্ধ তাকে সাবধান করেছিল এত শীতে কখনো একা না বের হতে, কিন্তু অহংকারী লোকটি সেই উপদেশকে হেসে উড়িয়ে দিয়েছিল।"
+      },
+      {
+        "en": "While walking across a frozen creek, the ice broke beneath him, soaking his leather moccasins and wool socks up to his knees in freezing mountain water.",
+        "bn": "নদী পার হওয়ার সময় বরফ ভেঙে তার হাঁটু পর্যন্ত চামড়ার বুট ও উলের মোজা বরফশীতল পানিতে ভিজে একাকার হয়ে গেল।"
+      },
+      {
+        "en": "Knowing that wet feet meant certain death without a fire, he hastily gathered dry twigs and nurtured a promising little flame beneath a snow-laden spruce tree.",
+        "bn": "আগুন না জ্বালালে মৃত্যু নিশ্চিত জেনে সে ঝরা পাতা কুড়িয়ে এক পাইন গাছের নিচে আগুন জ্বালিয়ে শরীর গরম করতে শুরু করল।"
+      },
+      {
+        "en": "Tragically, heat from the fire melted the snow on the spruce boughs overhead, triggering a heavy white avalanche that smothered the flames completely.",
+        "bn": "কিন্তু দুর্ভাগ্যবশত আগুনের উত্তাপে ওপরের গাছের ডাল থেকে একরাশ ভারী বরফ খসে পড়ে সেই একমাত্র আগুনটি এক নিমেষে নিভিয়ে দিল।"
+      },
+      {
+        "en": "With frozen, numb fingers that could no longer grip a single match, the traveler surrendered to the creeping cold, drifting into the eternal sleep of the North.",
+        "bn": "অবশ হয়ে যাওয়া জমে যাওয়া হাত দিয়ে আর দেশলাই জ্বালাতে না পেরে লোকটি বরফের বুকেই ঢলে পড়ল প্রকৃতির নির্মম সত্যকে মেনে নিয়ে।"
+      }
+    ]
+  },
+  {
+    "id": "lit-stephen-crane-open-boat",
+    "title": "The Open Boat: Four Shipwrecked Men against the Grey Atlantic",
+    "titleBn": "খোলা নৌকা ও উত্তাল আটলান্টিকের চারজন নাবিক",
+    "author": "Stephen Crane",
+    "level": "Intermediate",
+    "category": "World Literature",
+    "coverEmoji": "🚣",
+    "summary": "Four survivors of a sinking steamer row a tiny ten-foot dinghy through towering ocean breakers off the coast of Florida.",
+    "summaryBn": "জাহাজডুবির পর মাত্র দশ ফুটের এক ছোট নৌকায় চড়ে উত্তাল সাগরের দানবীয় ঢেউয়ের সাথে রাতদিন লড়াই করে বেঁচে ফেরার এক রোমাঞ্চকর কাহিনী।",
+    "sentences": [
+      {
+        "en": "None of the four men in the ten-foot dinghy knew the color of the sky; their eyes were glued in terror to the jagged grey waves leaping toward them.",
+        "bn": "মাত্র দশ ফুটের ছোট নৌকায় থাকা চারজনের কেউই আকাশের রঙ কেমন ছিল তা জানত না; তাদের চোখ ভয়ার্ত হয়ে চেয়ে ছিল ধেয়ে আসা উত্তাল ঢেউয়ের দিকে।"
+      },
+      {
+        "en": "Following the sinking of the steamship Commodore, the injured captain, a cook, a newspaper correspondent, and an oiler named Billie shared the tiny craft.",
+        "bn": "বাষ্পীয় জাহাজ ডুবে যাওয়ার পর আহত ক্যাপ্টেন, রাঁধুনি, এক সাংবাদিক আর বিলি নামের এক শ্রমিক সেই কাঠের নৌকায় ভাসছিল।"
+      },
+      {
+        "en": "For two grueling days and nights, the correspondent and the oiler took turns rowing with splintered oars until their blistered hands tore and bled.",
+        "bn": "টানা দুই দিন দুই রাত সাংবাদিক আর বিলি পালা করে ভাঙা বৈঠা বেয়ে চলল, যতক্ষণ না তাদের ফোস্কা পড়া হাত ফেটে রক্ত ঝরতে শুরু করল।"
+      },
+      {
+        "en": "Every mountain of dark water threatened to swamp their shallow gunwale, while the cook bailed icy sea water relentlessly with an old tin coffee pot.",
+        "bn": "কালো পানির প্রতিটি দানবীয় ঢেউ তাদের নৌকাকে ডুবিয়ে দেওয়ার হুমকি দিল, আর রাঁধুনি এক কফির পাত্র দিয়ে অনবরত পানি সেচে চলল।"
+      },
+      {
+        "en": "Watching the distant Florida shoreline bordered by white crashing surf, they realized nature was neither kind nor cruel, but utterly indifferent to human survival.",
+        "bn": "দূরের তীরে আছড়ে পড়া সাদা ফেনা দেখে তারা বুঝল প্রকৃতি মানুষের প্রতি দয়ালুও নয়, নিষ্ঠুরও নয়—সে কেবল মানুষের অস্তিত্বের প্রতি চরম উদাসীন।"
+      },
+      {
+        "en": "When a towering breaker finally flipped the boat into the freezing foam, the four men swam desperately through the roaring undertow toward the beach.",
+        "bn": "এক দানবীয় ঢেউ যখন নৌকাটিকে উল্টে দিল, চারজন মানুষ তীরের দিকে প্রাণপণে সাঁতরাতে লাগল।"
+      },
+      {
+        "en": "Rescuers pulled the correspondent, cook, and captain onto the warm sand, but strong oiler Billie lay still upon the shallows, drowned by the careless waves.",
+        "bn": "উদ্ধারকারীরা তিনজনকে তীরে টেনে তুললেও সবচেয়ে পরিশ্রমী নাবিক বিলি পানির তোড়ে ডুবে শেষ নিঃশ্বাস ত্যাগ করল।"
+      }
+    ]
+  },
+  {
+    "id": "lit-ambrose-bierce-owl-creek",
+    "title": "An Occurrence at Owl Creek Bridge",
+    "titleBn": "আউল ক্রিক ব্রিজ ও শেষ মুহূর্তের স্বপ্ন",
+    "author": "Ambrose Bierce",
+    "level": "Intermediate",
+    "category": "World Literature",
+    "coverEmoji": "🌉",
+    "summary": "Standing on a wooden railroad bridge with a noose around his neck, a southern planter experiences an astonishing escape across time.",
+    "summaryBn": "গলায় ফাঁসির দড়ি পরা অবস্থায় এক আসামির মনে সেকেন্ডের ভগ্নাংশে খেলে যায় মুক্তির এক অবিস্মরণীয় স্বপ্ন, কিন্তু বাস্তব ছিল বড় নির্মম।",
+    "sentences": [
+      {
+        "en": "Peyton Farquhar, a wealthy Alabama plantation owner, stood upon a railroad bridge spanning Owl Creek with a heavy hemp noose fitted snugly around his neck.",
+        "bn": "আলাবামার ধনী বাগান মালিক পেটন ফারকুয়ার আউল ক্রিক সেতুর ওপর দাঁড়িয়ে ছিল, তার গলায় শক্ত ফাঁসির দড়ি পরানো অবস্থায়।"
+      },
+      {
+        "en": "Federal Union sentries stood rigid with loaded muskets at each end of the timber span, waiting for the sergeant to step off the plank.",
+        "bn": "সেতুর দুই প্রান্তে বন্দুকে গুলি ভরে প্রহরীরা দাঁড়িয়ে ছিল, সার্জেন্টের পায়ের তক্তা সরিয়ে দেওয়ার সংকেতের অপেক্ষায়।"
+      },
+      {
+        "en": "Farquhar closed his eyes and listened to a ticking sound that struck his ears with unbearable, hammer-like intensity: the slow ticking of his gold pocket watch.",
+        "bn": "ফারকুয়ার চোখ বুজে শুনল এক অসহ্য হাতুড়ির মতো আওয়াজ: তার পকেটের সোনার ঘড়ির এক একটা সেকেন্ডের টিকটিক শব্দ।"
+      },
+      {
+        "en": "The wooden plank tilted; Farquhar plummeted downward, but miraculously, the heavy rope snapped with a sudden jerk, plunging him into the swirling river.",
+        "bn": "পায়ের তক্তা সরে গেল; ফারকুয়ার নিচে পড়ল, কিন্তু অলৌকিকভাবে দড়ি ছিঁড়ে গিয়ে সে সোজা ঘূর্ণায়মান নদীর পানির গভীরে ডুব দিল।"
+      },
+      {
+        "en": "Surfacing through clouds of rifle smoke and dodging whizzing bullets, he swam downstream with superhuman vigor, feeling ecstatic relief.",
+        "bn": "বুলেটের বৃষ্টি আর ধোঁয়ার ফাঁক দিয়ে ভেসে উঠে সে অতিমানবীয় শক্তিতে সাঁতরে ভাটির দিকে এগিয়ে গেল, মুক্তির এক অদ্ভুত আনন্দে।"
+      },
+      {
+        "en": "He ran all night through an unfamiliar forest toward his home, until dawn revealed his white plantation gates and his smiling wife opening her arms.",
+        "bn": "অচেনা বনের ভেতর দিয়ে সে সারারাত দৌড়াল; ভোরে নিজের বাড়ির সাদা ফটকে পৌঁছাতেই তার স্ত্রী হাসিমুখে দুহাত বাড়িয়ে এগিয়ে এলো।"
+      },
+      {
+        "en": "As he stepped forward to embrace her, a blinding white light flashed, accompanied by a deafening cannon sound; Peyton Farquhar was dead, his broken neck dangling beneath the timbers of Owl Creek Bridge.",
+        "bn": "স্ত্রীকে জড়িয়ে ধরতে যেতেই এক তীব্র আলো আর বিকট আওয়াজে সবকিছু স্তব্ধ হয়ে গেল; ফারকুয়ারের ঘাড় মটকে সে সেতুর কাঠের নিচে ঝুলছিল, মৃত্যুর আগের এক পলকের মায়াজালে।"
+      }
+    ]
+  },
+  {
+    "id": "lit-saki-open-window",
+    "title": "The Open Window and the Tragedy of Framton Nuttel",
+    "titleBn": "সাকি: খোলা জানালা ও এক অদ্ভুত নাটক",
+    "author": "Saki (H. H. Munro)",
+    "level": "Intermediate",
+    "category": "World Literature",
+    "coverEmoji": "🪟",
+    "summary": "A nervous gentleman seeking a peaceful countryside rest meets a teenage girl whose gift for instant romance sends him bolting down the road.",
+    "summaryBn": "স্নায়ুরোগ সারানোর জন্য গ্রামে গিয়ে পনেরো বছর বয়সী এক কিশোরীর বানিয়ে বলা ভূতুড়ে গল্পের ফাঁদে পড়ে দৌড়ে পালান এক নিরীহ ভদ্রলোক।",
+    "sentences": [
+      {
+        "en": "Framton Nuttel, an intensely nervous gentleman suffering from chronic anxiety, retired to a quiet rural village on a doctor's prescribed rest cure.",
+        "bn": "চরম নার্ভাস রোগে ভোগা ফ্র্যামটন নাটেল চিকিৎসকের পরামর্শে পুরোপুরি মানসিক বিশ্রামের জন্য এক শান্ত গ্রামে এলেন।"
+      },
+      {
+        "en": "While waiting in the parlor to meet his hostess Mrs. Sappleton, he was entertained by her self-possessed fifteen-year-old niece, Vera.",
+        "bn": "বাড়ির গৃহকত্রী মিসেস স্যাপলটনের অপেক্ষায় ড্রয়িংরুমে বসে থাকার সময় তার পনেরো বছর বয়সী চতুর ভাগ্নি ভেরার সাথে নাটেলের পরিচয় হলো।"
+      },
+      {
+        "en": "Vera pointed mournfully toward an open French window looking out onto the lawn, whispering that a terrible family tragedy had occurred precisely three years ago.",
+        "bn": "ভেরা বাগানের দিকে মুখ করা এক খোলা জানালার দিকে করুণ চোখে তাকিয়ে ফিসফিস করে বলল ঠিক তিন বছর আগে এক নারকীয় পারিবারিক ট্র্যাজেডি ঘটেছিল।"
+      },
+      {
+        "en": "She claimed that her aunt's husband and two young brothers walked out through that very window with their spaniel dog to shoot snipe, only to sink forever into a treacherous bog.",
+        "bn": "সে বলল তার কাকিমার স্বামী আর দুই ভাই কুকুর নিয়ে পাখি শিকারে সেই জানালা দিয়ে বের হয়ে এক চোরাবালিতে তলিয়ে চিরতরে নিখোঁজ হয়ে যান।"
+      },
+      {
+        "en": "Vera confided that her poor deluded aunt kept the window wide open every evening till dusk, believing the lost hunters would walk back in as if nothing had happened.",
+        "bn": "ভেরা বলল তার পাগলপ্রায় কাকিমা আজও প্রতিদিন সন্ধ্যায় জানালা খোলা রাখেন এই বিশ্বাসে যে শিকারীরা কাদা মেখে ঠিকই একদিন ফিরে আসবে।"
+      },
+      {
+        "en": "Just as Mrs. Sappleton entered and cheerfully announced that her husband was returning, three muddy figures carrying shotguns walked silently across the lawn toward the window.",
+        "bn": "ঠিক তখনই গৃহকত্রী এসে হাসিমুখে বললেন তার স্বামী শিকারে গেছেন, আর ঠিক সেই মুহূর্তে কাদামাখা তিনজন বন্দুকধারী জানালার দিকে এগিয়ে এলো।"
+      },
+      {
+        "en": "Terrified out of his wits by what he believed were walking ghosts, Nuttel grabbed his stick and hat, bolting down the gravel drive in blind panic.",
+        "bn": "ভূত দেখার চরম আতঙ্কে জ্ঞান হারিয়ে নাটেল ছাতা আর টুপি ফেলে দিয়ে পাগলের মতো দৌড়ে পালিয়ে গেল।"
+      },
+      {
+        "en": "Vera calmly explained to the perplexed family that the poor man had an acute phobia of dogs; romance at short notice was her specialty.",
+        "bn": "ভেরা তখন বাড়ির সবাইকে শান্ত গলায় বোঝাল লোকটি কুকুর দেখে ভয় পেয়েছে; উপস্থিত গল্প বানিয়ে মানুষকে বোকা বানানোই ছিল তার বিশেষ গুণ।"
+      }
+    ]
+  },
+  {
+    "id": "lit-wilde-nightingale-and-rose",
+    "title": "The Nightingale and the Red Rose of Sacrifice",
+    "titleBn": "অস্কার ওয়াইল্ড: নাইটিঙ্গেল পাখি ও রক্তগোলাপ",
+    "author": "Oscar Wilde",
+    "level": "Intermediate",
+    "category": "World Literature",
+    "coverEmoji": "🥀",
+    "summary": "A devoted songbird presses her breast against a thorn by moonlight to dye a red rose for a student, who discards it into the street gutter.",
+    "summaryBn": "এক তরুণের ভালোবাসার জন্য নিজের বুকের রক্ত দিয়ে সাদা গোলাপকে লাল করে এক নাইটিঙ্গেল পাখি, অথচ স্বার্থপর মানুষ তাকে ড্রেনে ছুড়ে ফেলে দেয়।",
+    "sentences": [
+      {
+        "en": "A young university student wept bitterly in his garden because his beloved professor's daughter promised to dance with him only if he brought her a red rose.",
+        "bn": "এক কলেজ পড়ুয়া তরুণ বাগানে বসে কাঁদছিল কারণ তার প্রেমিকা কথা দিয়েছিল যদি সে একটি লাল গোলাপ এনে দিতে পারে তবেই সে তার সাথে নাচবে।"
+      },
+      {
+        "en": "Searching through every bush, the youth found only white and yellow blooms, lamenting that his heart would break for lack of a single scarlet flower.",
+        "bn": "পুরো বাগান খুঁজেও তরুণ কেবল সাদা আর হলুদ ফুল পেল, একটিমাত্র লাল গোলাপের অভাবে তার ভালোবাসা ধূলিসাৎ হতে দেখে সে ভেঙে পড়ল।"
+      },
+      {
+        "en": "High in an oak tree, a little nightingale heard his sorrow, believing that she had finally encountered a true and noble lover.",
+        "bn": "ওক গাছের ডালে বসে এক ছোট্ট নাইটিঙ্গেল পাখি তার কান্না শুনে ভাবল, অবশেষে সে এক খাঁটি ও নিঃস্বার্থ প্রেমিকের দেখা পেয়েছে।"
+      },
+      {
+        "en": "The rose tree told the bird that the bitter winter freeze had blighted its veins; the only way to produce a red rose was to sing all night by moonlight with a thorn pressed against her heart.",
+        "bn": "গোলাপ গাছ পাখিকে বলল তীব্র শীতে তার শাখা শুকিয়ে গেছে; একমাত্র উপায় হলো চাঁদের আলোয় সারা রাত গান গেয়ে নিজের বুকের ওপর গোলাপের কাঁটাটি বিঁধিয়ে রাখা।"
+      },
+      {
+        "en": "The selfless bird sang her sweetest melodies as the sharp thorn penetrated deeper into her breast, her life's blood staining the pale petals into magnificent crimson.",
+        "bn": "নিঃস্বার্থ পাখিটি সবচেয়ে মিষ্টি সুরে গান গাইতে লাগল আর ধারালো কাঁটা তার বুকে ফুটে রক্ত ঝরে বিবর্ণ পাপড়িগুলো এক অপূর্ব রক্তিম লাল রঙ ধারণ করল।"
+      },
+      {
+        "en": "At dawn, as the glorious rose blossomed in radiant perfection, the nightingale lay dead in the tall grass, her song silenced forever.",
+        "bn": "ভোর হতেই যখন সেই লাল গোলাপ অপরূপ রূপ নিয়ে ফুটে উঠল, ঘাসের মাঝে নিথর হয়ে পড়ে রইল সেই ছোট্ট পাখিটি, তার সুর চিরতরে স্তব্ধ হয়ে গেল।"
+      },
+      {
+        "en": "The student plucked the flower joyfully and carried it to his love, but the fickle girl rejected it for jewels from the Chamberlain's nephew; tossing the rose into a muddy gutter where a cart wheel crushed it, the boy returned cynically to his logic books.",
+        "bn": "তরুণ খুশি হয়ে ফুলটি নিয়ে প্রেমিকার কাছে গেল, কিন্তু লোভী মেয়েটি এক জমিদারের হিরের গয়নার জন্য গোলাপটি ফিরিয়ে দিল; হতাশ তরুণ ফুলটিকে নর্দমায় ফেলে দিল যেখানে গাড়ির চাকা তাকে পিষে ফেলল, আর সে আবার তার বইয়ের জগতে ফিরে গেল।"
+      }
+    ]
+  },
+  {
+    "id": "lit-dumas-count-monte-cristo",
+    "title": "The Count of Monte Cristo: Edmond Dantes and the Chateau d'If",
+    "titleBn": "দ্য কাউন্ট অফ মন্টে ক্রিস্টো: অন্ধকূপের বন্দি ও মুক্তি",
+    "author": "Alexandre Dumas",
+    "level": "Intermediate",
+    "category": "World Literature",
+    "coverEmoji": "🏰",
+    "summary": "Falsely accused of treason on his wedding day, young Edmond Dantes survives fourteen years in a sea dungeon, emerging as the wealthy Count.",
+    "summaryBn": "বিয়ের দিনেই মিথ্যা ষড়যন্ত্রে সমুদ্রের দ্বীপে চোদ্দ বছর বন্দি থেকে জ্ঞান ও অগাধ ধনভাণ্ডার নিয়ে এক অপ্রতিরোধ্য বিচারক হয়ে ফেরেন এডমন্ড ডান্তেস।",
+    "sentences": [
+      {
+        "en": "On the very day of his betrothal to the beautiful Mercedes, the promising young nineteenth-century mariner Edmond Dantes was falsely accused of treason by jealous rivals.",
+        "bn": "প্রেমিকা মার্সিডিজের সাথে বাগদানের দিনেই হিংসুটে শত্রুদের মিথ্যা ষড়যন্ত্রের শিকার হয়ে রাজদ্রোহের অভিযোগে গ্রেপ্তার হলো তরুণ নাবিক এডমন্ড ডান্তেস।"
+      },
+      {
+        "en": "Without trial, he was dragged to the Chateau d'If, an impregnable island fortress prison surrounded by the churning waves of the Mediterranean.",
+        "bn": "কোনো বিচার ছাড়াই তাকে নিয়ে যাওয়া হলো শ্যাতো দিফে, যা ছিল উত্তাল ভূমধ্যসাগরের ঢেউয়ে ঘেরা এক দুর্ভেদ্য ও ভয়ংকর দ্বীপ কারাগার।"
+      },
+      {
+        "en": "For years in pitch-black solitary confinement, Edmond scraped against madness until he met Abbé Faria, an Italian priest who had tunneled into his cell by mistake.",
+        "bn": "অন্ধকার কুঠুরিতে একা থাকতে থাকতে ডান্তেস যখন প্রায় পাগল হতে চলেছিল, তখন ভুল করে সুড়ঙ্গ খুঁড়ে তার ঘরে এসে পৌঁছাল এক বৃদ্ধ পণ্ডিত পাদ্রি আব্বে ফারিয়া।"
+      },
+      {
+        "en": "Faria spent years educating Edmond in philosophy, science, foreign languages, and swordsmanship, bequeathing him the secret location of an immense buried treasure on the island of Monte Cristo.",
+        "bn": "ফারিয়া ডান্তেসকে দর্শন, বিজ্ঞান, বহু ভাষা আর যুদ্ধবিদ্যা শেখালেন এবং মৃত্যুর আগে মন্টে ক্রিস্টো দ্বীপে লুকোনো এক অগাধ গুপ্তধনের ঠিকানা দিলেন।"
+      },
+      {
+        "en": "When Faria died, Edmond sewed himself inside the priest's coarse canvas shroud; prison guards tossed the heavy sack from the high cliff straight into the freezing sea.",
+        "bn": "ফারিয়া মারা গেলে ডান্তেস নিজেকে সেই কাফনের কাপড়ে সেলাই করে রাখল; প্রহরীরা তাকে মৃতদেহ ভেবে উঁচু পাহাড় থেকে সাগরের অতল গভীরে ছুড়ে ফেলে দিল।"
+      },
+      {
+        "en": "Slicing through the fabric with a concealed knife, Edmond swam to safety, claimed the glittering diamonds of Monte Cristo, and returned to society as an enigmatic, all-powerful count to balance the scales of justice.",
+        "bn": "লুকোনো ছুরি দিয়ে বস্তা কেটে সাঁতরে মুক্ত হয়ে সে মন্টে ক্রিস্টোর হিরে উদ্ধার করল এবং এক রহস্যময় ও প্রতাপশালী কাউন্ট হয়ে ফিরে এসে পাপীদের যোগ্য বিচার করল।"
+      }
+    ]
+  }
+]

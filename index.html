@@ -1,0 +1,786 @@
+<!DOCTYPE html>
+<html lang="en" class="dark">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+  <title>StoryLingo - 1000 Bilingual English Stories</title>
+  <link rel="manifest" href="manifest.json">
+  <meta name="theme-color" content="#4f46e5">
+  <link rel="icon" type="image/png" href="icon.png">
+  
+  <!-- Tailwind CSS Offline -->
+  <script src="tailwind.js"></script>
+  <script>
+    tailwind.config = {
+      darkMode: 'class',
+      theme: {
+        extend: {
+          fontFamily: {
+            sans: ['Poppins', 'system-ui', 'sans-serif'],
+            bangla: ['Hind', 'Hind Siliguri', 'system-ui', 'sans-serif'],
+          },
+          colors: {
+            brand: {
+              50: '#eef2ff',
+              100: '#e0e7ff',
+              400: '#818cf8',
+              500: '#6366f1',
+              600: '#4f46e5',
+              700: '#4338ca',
+              900: '#312e81',
+            }
+          }
+        }
+      }
+    }
+  </script>
+
+  <style>
+    @font-face {
+      font-family: 'Poppins';
+      src: url('fonts/poppins_reg.ttf') format('truetype');
+      font-weight: 400;
+      font-style: normal;
+    }
+    @font-face {
+      font-family: 'Poppins';
+      src: url('fonts/poppins_bold.ttf') format('truetype');
+      font-weight: 700;
+      font-style: normal;
+    }
+    @font-face {
+      font-family: 'Hind';
+      src: url('fonts/hind_reg.ttf') format('truetype');
+      font-weight: 400;
+      font-style: normal;
+    }
+    @font-face {
+      font-family: 'Hind';
+      src: url('fonts/hind_bold.ttf') format('truetype');
+      font-weight: 700;
+      font-style: normal;
+    }
+
+    body {
+      font-family: 'Poppins', sans-serif;
+      -webkit-tap-highlight-color: transparent;
+    }
+    .font-bn {
+      font-family: 'Hind', sans-serif;
+    }
+
+    /* Word token styling */
+    .word-token {
+      cursor: pointer;
+      display: inline-block;
+      padding: 1px 3px;
+      border-radius: 4px;
+      transition: all 0.15s ease;
+    }
+    .word-token:hover, .word-token:active {
+      background-color: rgba(99, 102, 241, 0.4);
+      color: #e0e7ff;
+    }
+
+    /* High-Visibility Real-Time Karaoke Word Animation */
+    @keyframes activeWordGlow {
+      0% {
+        transform: scale(1.0);
+        background-color: rgba(99, 102, 241, 0.4);
+      }
+      50% {
+        transform: scale(1.22);
+        background-color: #6366f1;
+        color: #ffffff;
+        box-shadow: 0 0 16px rgba(99, 102, 241, 1);
+      }
+      100% {
+        transform: scale(1.12);
+        background-color: #4f46e5;
+        color: #ffffff;
+        box-shadow: 0 0 10px rgba(99, 102, 241, 0.7);
+      }
+    }
+    .word-reading-active {
+      animation: activeWordGlow 0.3s cubic-bezier(0.175, 0.885, 0.32, 1.275) forwards !important;
+      display: inline-block !important;
+      border-radius: 6px !important;
+      font-weight: 800 !important;
+      color: #ffffff !important;
+      background-color: #4f46e5 !important;
+      padding: 1px 5px !important;
+      border-bottom: 2px solid #a5b4fc !important;
+      box-shadow: 0 0 12px rgba(99, 102, 241, 0.8) !important;
+    }
+
+    /* Active sentence card highlight */
+    .sentence-card.active-reading {
+      border-color: #6366f1 !important;
+      box-shadow: 0 0 24px -2px rgba(99, 102, 241, 0.45);
+      background-color: rgba(99, 102, 241, 0.12) !important;
+    }
+
+    /* Custom scrollbar */
+    ::-webkit-scrollbar {
+      width: 5px;
+      height: 5px;
+    }
+    ::-webkit-scrollbar-track {
+      background: transparent;
+    }
+    ::-webkit-scrollbar-thumb {
+      background: rgba(148, 163, 184, 0.25);
+      border-radius: 10px;
+    }
+  </style>
+</head>
+
+<body class="bg-slate-950 text-slate-100 min-h-screen flex flex-col selection:bg-indigo-500 selection:text-white">
+
+  <!-- Ultra-Clean Top Bar (No extra icons) -->
+  <header class="sticky top-0 z-30 backdrop-blur-md bg-slate-950/90 border-b border-slate-800/80 px-4 py-2.5">
+    <div class="max-w-3xl mx-auto flex items-center justify-between min-h-[36px]">
+      
+      <!-- Left: Back Button when reading, or simple title in library -->
+      <div>
+        <button id="headerBtnBack" onclick="app.showLibrary()" class="hidden px-3 py-1.5 rounded-xl bg-slate-900 hover:bg-slate-800 active:scale-95 text-xs font-semibold text-slate-200 border border-slate-800 flex items-center space-x-1.5 transition-all">
+          <svg class="w-4 h-4 text-indigo-400" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" d="M15 19l-7-7 7-7"></path>
+          </svg>
+          <span>All Stories</span>
+        </button>
+        <div id="headerCatalogLabel" class="flex items-center space-x-2">
+          <span class="text-sm font-bold tracking-wide text-white">English Stories</span>
+        </div>
+      </div>
+
+      <!-- Right: Story count in library -->
+      <div>
+        <span id="catalogCountBadge" class="text-xs font-semibold px-2.5 py-0.5 rounded-full bg-slate-900 text-indigo-400 border border-slate-800">
+          60 Stories
+        </span>
+      </div>
+
+    </div>
+  </header>
+
+  <!-- Main View Area -->
+  <main class="flex-1 max-w-3xl w-full mx-auto p-4 pb-28">
+
+    <!-- VIEW 1: STORY CATALOG -->
+    <section id="viewCatalog" class="space-y-3.5">
+      <div id="storiesList" class="grid grid-cols-1 md:grid-cols-2 gap-3.5">
+        <!-- Dynamically populated -->
+      </div>
+    </section>
+
+    <!-- VIEW 2: STORY READER -->
+    <section id="viewReader" class="hidden space-y-4">
+      
+      <!-- Story Header Card -->
+      <div class="p-4 md:p-5 rounded-2xl bg-slate-900/60 border border-slate-800/80 space-y-3">
+        <div class="flex items-start justify-between">
+          <div class="space-y-1">
+            <h2 id="storyReaderTitle" class="text-xl md:text-2xl font-bold text-white tracking-tight">The Selfish Giant</h2>
+            <p id="storyReaderTitleBn" class="text-lg md:text-xl font-bold text-indigo-300 font-bn">স্বার্থপর দৈত্য</p>
+            <div class="flex items-center space-x-2 pt-1 text-xs text-slate-400">
+              <span id="storyReaderAuthor">By Oscar Wilde</span>
+              <span class="text-slate-600">/</span>
+              <span id="storyReaderSentencesBadge" class="px-2 py-0.5 rounded bg-slate-800 text-slate-300 font-medium">28 sentences</span>
+            </div>
+          </div>
+          <span id="storyReaderEmoji" class="text-3xl">🏰</span>
+        </div>
+
+        <!-- Mode Selector (Pill Switcher) -->
+        <div class="pt-2 border-t border-slate-800/60">
+          <div class="flex items-center justify-center p-1 bg-slate-950/80 rounded-xl border border-slate-800 max-w-xs mx-auto shadow-inner">
+            <button id="modeBtnBilingual" onclick="app.setMode('bilingual')" class="flex-1 py-1.5 px-3 rounded-lg text-xs font-semibold flex items-center justify-center space-x-1.5 transition-all bg-indigo-600 text-white shadow-sm">
+              <span>📖</span>
+              <span>Bilingual</span>
+            </button>
+            <button id="modeBtnStudy" onclick="app.setMode('study')" class="flex-1 py-1.5 px-3 rounded-lg text-xs font-semibold flex items-center justify-center space-x-1.5 transition-all text-slate-400 hover:text-slate-200">
+              <span>👁️</span>
+              <span>Practice Mode</span>
+            </button>
+          </div>
+        </div>
+      </div>
+
+      <!-- Sentence Cards Container -->
+      <div id="sentencesContainer" class="space-y-3 pt-1">
+        <!-- Rendered dynamically -->
+      </div>
+    </section>
+
+  </main>
+
+  <!-- Sleek Bottom Player Bar (Only visible during active playback) -->
+  <div id="playerBar" class="hidden fixed bottom-3 left-4 right-4 z-40 max-w-md mx-auto bg-slate-900/95 backdrop-blur-xl border border-slate-800 rounded-2xl px-4 py-2.5 shadow-2xl transition-all duration-300">
+    <div class="flex items-center justify-between">
+      
+      <!-- Prev Sentence -->
+      <button onclick="app.prevSentence()" class="p-2 text-slate-400 hover:text-white rounded-xl hover:bg-slate-800 active:scale-95 transition-all" title="Previous Sentence">
+        <svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+          <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12.066 11.2a1 1 0 000 1.6l5.334 4A1 1 0 0019 16V8a1 1 0 00-1.6-.8l-5.333 4zM4.066 11.2a1 1 0 000 1.6l5.334 4A1 1 0 0011 16V8a1 1 0 00-1.6-.8l-5.334 4z"></path>
+        </svg>
+      </button>
+
+      <!-- Master Play / Pause Button -->
+      <button id="btnPlayMaster" onclick="app.togglePlay()" class="w-11 h-11 rounded-full bg-gradient-to-r from-indigo-500 to-purple-600 hover:scale-105 active:scale-95 text-white flex items-center justify-center shadow-lg shadow-indigo-500/30 transition-all" title="Play / Pause">
+        <svg id="iconPlay" class="w-5 h-5 ml-0.5" fill="currentColor" viewBox="0 0 24 24">
+          <path d="M8 5v14l11-7z"/>
+        </svg>
+        <svg id="iconPause" class="w-5 h-5 hidden" fill="currentColor" viewBox="0 0 24 24">
+          <path d="M6 19h4V5H6v14zm8-14v14h4V5h-4z"/>
+        </svg>
+      </button>
+
+      <!-- Next Sentence -->
+      <button onclick="app.nextSentence()" class="p-2 text-slate-400 hover:text-white rounded-xl hover:bg-slate-800 active:scale-95 transition-all" title="Next Sentence">
+        <svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+          <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M11.933 12.8a1 1 0 000-1.6L6.6 7.2A1 1 0 005 8v8a1 1 0 001.6.8l5.333-4zM19.933 12.8a1 1 0 000-1.6l-5.333-4A1 1 0 0013 8v8a1 1 0 001.6.8l5.333-4z"></path>
+        </svg>
+      </button>
+
+      <div class="h-5 w-px bg-slate-800"></div>
+
+      <!-- Auto-Play Toggle Button -->
+      <button id="btnAutoPlay" onclick="app.toggleAutoPlay()" class="px-3 py-1.5 rounded-xl text-xs font-semibold bg-slate-800/80 text-emerald-400 border border-emerald-500/40 transition-all flex items-center space-x-1.5" title="Auto-Play Next Sentence">
+        <span class="w-2 h-2 rounded-full bg-emerald-400" id="indicatorAutoPlay"></span>
+        <span>Auto</span>
+      </button>
+
+      <!-- Close Player Button -->
+      <button onclick="app.hidePlayerBar()" class="p-1.5 text-slate-500 hover:text-slate-300 rounded-lg hover:bg-slate-800 transition-all" title="Close Player">
+        <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M6 18L18 6M6 6l12 12"></path></svg>
+      </button>
+
+    </div>
+  <!-- Load Stories Database -->
+  <script src="stories.js"></script>
+
+  <!-- Core App Logic -->
+  <script>
+    class StoryLingoApp {
+      constructor() {
+        this.currentStory = null;
+        this.currentSentenceIdx = 0;
+        this.isPlaying = false;
+        this.autoPlay = true;
+        this.speed = 0.92; // Natural, fluent young boy storytelling speed
+        this.pitch = 0.85; // Youthful boy tone
+        this.mode = 'bilingual'; // 'bilingual' or 'study'
+        this.currentSpeechEndCallback = null;
+        this.ttsTimer = null;
+        this.audioObj = null;
+        this.clickedWordEl = null;
+        this.catalogPage = 1;
+        this.catalogPageSize = 24;
+
+        this.init();
+      }
+
+      init() {
+        this.renderCatalog();
+        this.updateAutoPlayUI();
+
+        // Voice pre-warming
+        if (window.speechSynthesis) {
+          window.speechSynthesis.onvoiceschanged = () => {};
+        }
+
+        // Automatic audio stop on background / exit
+        document.addEventListener('visibilitychange', () => {
+          if (document.hidden) {
+            this.stopAudio();
+          }
+        });
+        window.addEventListener('pagehide', () => {
+          this.stopAudio();
+        });
+        window.addEventListener('blur', () => {
+          this.stopAudio();
+        });
+
+        // Browser history popstate for Android hardware back button
+        window.addEventListener('popstate', (e) => {
+          const reader = document.getElementById('viewReader');
+          if (reader && !reader.classList.contains('hidden')) {
+            this.showLibrary();
+          }
+        });
+
+        // Progressive smooth scrolling for large libraries (1000+ stories)
+        window.addEventListener('scroll', () => {
+          const catalog = document.getElementById('viewCatalog');
+          if (catalog && !catalog.classList.contains('hidden')) {
+            if ((window.innerHeight + window.scrollY) >= document.body.offsetHeight - 600) {
+              if (typeof STORIES_DATA !== 'undefined' && (this.catalogPage * this.catalogPageSize) < STORIES_DATA.length) {
+                this.catalogPage++;
+                this.renderCatalog(false);
+              }
+            }
+          }
+        });
+      }
+
+      renderCatalog(reset = true) {
+        const list = document.getElementById('storiesList');
+        if (!list) return;
+
+        const countBadge = document.getElementById('catalogCountBadge');
+        if (countBadge && typeof STORIES_DATA !== 'undefined') {
+          countBadge.innerText = `${STORIES_DATA.length} Stories`;
+        }
+
+        if (reset) {
+          this.catalogPage = 1;
+          this.catalogPageSize = 24;
+          list.innerHTML = '';
+        }
+
+        if (typeof STORIES_DATA === 'undefined') return;
+
+        const startIndex = (this.catalogPage - 1) * this.catalogPageSize;
+        const pageItems = STORIES_DATA.slice(startIndex, startIndex + this.catalogPageSize);
+
+        const html = pageItems.map(story => `
+          <div onclick="app.openStory('${story.id}')" class="group cursor-pointer p-4 rounded-2xl bg-slate-900/60 hover:bg-slate-900 border border-slate-800/80 hover:border-indigo-500/40 transition-all duration-200 shadow-md hover:shadow-indigo-500/10 flex flex-col justify-between">
+            <div>
+              <div class="flex items-start justify-between mb-2">
+                <span class="text-3xl">${story.coverEmoji || '📖'}</span>
+                <span class="px-2 py-0.5 rounded-md text-[11px] font-medium bg-slate-800/80 text-slate-300">
+                  ${story.sentences.length} sentences
+                </span>
+              </div>
+              <h4 class="text-base font-bold text-white group-hover:text-indigo-300 transition-colors">${story.title}</h4>
+              <p class="text-base md:text-lg font-bold text-indigo-300 font-bn mb-1.5 tracking-wide">${story.titleBn || ''}</p>
+              <p class="text-xs md:text-sm text-slate-300 line-clamp-2 leading-relaxed">${story.summary || (story.sentences[0] ? story.sentences[0].en : '')}</p>
+            </div>
+            <div class="flex items-center justify-between mt-3 pt-2.5 border-t border-slate-800/60 text-[11px] text-slate-500">
+              <span>${story.author || 'StoryLingo'}</span>
+              <span class="text-indigo-400 font-semibold">Read Story</span>
+            </div>
+          </div>
+        `).join('');
+
+        list.insertAdjacentHTML('beforeend', html);
+      }
+
+      openStory(storyId) {
+        const story = STORIES_DATA.find(s => s.id === storyId);
+        if (!story) return;
+
+        this.stopAudio();
+        this.currentStory = story;
+        this.currentSentenceIdx = 0;
+
+        document.getElementById('storyReaderTitle').innerText = story.title;
+        document.getElementById('storyReaderTitleBn').innerText = story.titleBn;
+        document.getElementById('storyReaderEmoji').innerText = story.coverEmoji;
+        document.getElementById('storyReaderAuthor').innerText = `By ${story.author}`;
+        document.getElementById('storyReaderSentencesBadge').innerText = `${story.sentences.length} sentences`;
+
+        this.renderSentences();
+
+        // Switch views
+        document.getElementById('viewCatalog').classList.add('hidden');
+        document.getElementById('viewReader').classList.remove('hidden');
+        document.getElementById('headerBtnBack').classList.remove('hidden');
+        document.getElementById('headerCatalogLabel').classList.add('hidden');
+        document.getElementById('catalogCountBadge').classList.add('hidden');
+
+        // Push state for back navigation
+        try {
+          history.pushState({ page: 'reader', storyId: storyId }, '');
+        } catch (e) {}
+
+        this.hidePlayerBar();
+        window.scrollTo({ top: 0, behavior: 'smooth' });
+      }
+
+      showLibrary() {
+        this.stopAudio();
+        this.hidePlayerBar();
+        document.getElementById('viewReader').classList.add('hidden');
+        document.getElementById('viewCatalog').classList.remove('hidden');
+        document.getElementById('headerBtnBack').classList.add('hidden');
+        document.getElementById('headerCatalogLabel').classList.remove('hidden');
+        document.getElementById('catalogCountBadge').classList.remove('hidden');
+        window.scrollTo({ top: 0, behavior: 'smooth' });
+      }
+
+      handleBackButton() {
+        const reader = document.getElementById('viewReader');
+        if (reader && !reader.classList.contains('hidden')) {
+          this.showLibrary();
+          return true; // Handled internally!
+        } else {
+          if (window.Android && typeof window.Android.closeApp === 'function') {
+            window.Android.closeApp();
+          }
+          return false;
+        }
+      }
+
+      renderSentences() {
+        const container = document.getElementById('sentencesContainer');
+        if (!container || !this.currentStory) return;
+
+        const isStudyMode = this.mode === 'study';
+
+        container.innerHTML = this.currentStory.sentences.map((item, idx) => {
+          const wordsHtml = item.en.split(/(\s+)/).map(token => {
+            const isWord = /[a-zA-Z]/.test(token);
+            if (isWord) {
+              const clean = token.replace(/[^a-zA-Z]/g, '');
+              return `<span class="word-token" onclick="event.stopPropagation(); app.speakWord('${clean}', this)">${token}</span>`;
+            }
+            return token;
+          }).join('');
+
+          return `
+            <div id="sentence-${idx}" onclick="app.selectSentence(${idx})" class="sentence-card group relative p-4 md:p-5 rounded-2xl bg-slate-900/40 hover:bg-slate-900/80 border border-slate-800/80 transition-all duration-200 cursor-pointer">
+              <div class="flex items-start justify-between gap-3">
+                <div class="flex-1 space-y-2">
+                  <div class="flex items-center space-x-2 text-[10px] font-bold text-slate-500">
+                    <span class="w-5 h-5 rounded-full bg-slate-800 flex items-center justify-center text-slate-400 font-mono">${idx + 1}</span>
+                  </div>
+                  
+                  <!-- English Sentence (Clicking a word speaks it directly, playing sentence animates each word) -->
+                  <p class="text-base text-slate-100 font-medium leading-relaxed group-hover:text-white transition-colors">
+                    ${wordsHtml}
+                  </p>
+
+                  <!-- Bangla Translation (Prominent font size) -->
+                  ${item.bn ? `
+                  <p id="bn-trans-${idx}" class="text-base md:text-lg font-semibold font-bn text-emerald-300/90 leading-relaxed tracking-wide pt-1 transition-all duration-300 ${isStudyMode ? 'blur-sm select-none hover:blur-none' : ''}" onclick="${isStudyMode ? `event.stopPropagation(); app.revealTranslation(${idx})` : ''}">
+                    ${item.bn}
+                  </p>
+                  ` : ''}
+                </div>
+
+                <!-- Instant Audio Button -->
+                <button onclick="event.stopPropagation(); app.playSentence(${idx})" class="shrink-0 p-2.5 rounded-xl bg-slate-800/60 hover:bg-indigo-600 text-slate-400 hover:text-white active:scale-95 transition-all" title="Listen Sentence">
+                  <svg class="w-4 h-4" fill="currentColor" viewBox="0 0 24 24"><path d="M8 5v14l11-7z"/></svg>
+                </button>
+              </div>
+            </div>
+          `;
+        }).join('');
+      }
+
+      selectSentence(idx) {
+        this.currentSentenceIdx = idx;
+        this.playSentence(idx);
+      }
+
+      playSentence(idx) {
+        if (!this.currentStory || idx < 0 || idx >= this.currentStory.sentences.length) return;
+
+        this.showPlayerBar();
+        this.currentSentenceIdx = idx;
+        const sentence = this.currentStory.sentences[idx];
+
+        this.updateActiveHighlight(idx);
+        this.clearWordHighlights();
+
+        // 1. Play audio with natural young boy voice
+        this.speakText(sentence.en, () => {
+          this.clearWordHighlights();
+          if (this.autoPlay && this.isPlaying) {
+            setTimeout(() => {
+              if (this.currentSentenceIdx < this.currentStory.sentences.length - 1) {
+                this.nextSentence();
+              } else {
+                this.setPlayState(false);
+              }
+            }, 450);
+          }
+        });
+      }
+
+      onNativeSpeechStart(actualDurationMs) {
+        // Audio started playing natively - sentence card is highlighted cleanly
+      }
+
+      // Direct Word Pronunciation (No popup dialog)
+      speakWord(word, el) {
+        if (!word) return;
+        this.clearWordHighlights();
+        if (el) {
+          el.classList.add('bg-indigo-600', 'text-white');
+          this.clickedWordEl = el;
+          setTimeout(() => {
+            if (this.clickedWordEl) {
+              this.clickedWordEl.classList.remove('bg-indigo-600', 'text-white');
+              this.clickedWordEl = null;
+            }
+          }, 600);
+        }
+        this.speakText(word, null);
+      }
+
+      clearWordHighlights() {
+        if (this.clickedWordEl) {
+          this.clickedWordEl.classList.remove('bg-indigo-600', 'text-white');
+          this.clickedWordEl = null;
+        }
+      }
+
+      updateActiveHighlight(idx) {
+        document.querySelectorAll('.sentence-card').forEach((c, i) => {
+          if (i === idx) {
+            c.classList.add('active-reading');
+            c.scrollIntoView({ behavior: 'smooth', block: 'center' });
+          } else {
+            c.classList.remove('active-reading');
+          }
+        });
+      }
+
+      showPlayerBar() {
+        const bar = document.getElementById('playerBar');
+        if (bar) bar.classList.remove('hidden');
+      }
+
+      hidePlayerBar() {
+        const bar = document.getElementById('playerBar');
+        if (bar) bar.classList.add('hidden');
+      }
+
+      // Dual-Engine Speech Controller with Pure Young Boy Voice Tuning
+      speakText(text, onEnd) {
+        this.stopAudio();
+        this.setPlayState(true);
+        this.currentSpeechEndCallback = onEnd;
+
+        // 1. Android Native Environment
+        if (window.Android) {
+          if (typeof window.Android.playBoyVoice === 'function') {
+            window.Android.playBoyVoice(text);
+            return;
+          } else if (typeof window.Android.speak === 'function') {
+            window.Android.speak(text);
+            return;
+          } else if (typeof window.Android.playAudioUrl === 'function') {
+            const streamUrl = 'https://translate.google.com/translate_tts?ie=UTF-8&tl=en&client=tw-ob&q=' + encodeURIComponent(text);
+            window.Android.playAudioUrl(streamUrl);
+            return;
+          }
+        }
+
+        // 2. Browser Environment: Web Speech API (Young boy voice pitch)
+        if (window.speechSynthesis) {
+          const voices = window.speechSynthesis.getVoices();
+          if (voices && voices.length > 0) {
+            this.utterance = new SpeechSynthesisUtterance(text);
+            this.utterance.rate = 0.92;
+            this.utterance.pitch = 0.85; // teenage boy pitch
+            this.utterance.lang = 'en-US';
+
+            // Select young male / boy voice
+            const boyVoice = voices.find(v => {
+              const n = v.name.toLowerCase();
+              const l = v.lang.toLowerCase();
+              return l.startsWith('en') && (n.includes('male') || n.includes('david') || n.includes('george') || n.includes('boy') || (!n.includes('female') && !n.includes('zira') && !n.includes('susan') && !n.includes('samantha')));
+            });
+            if (boyVoice) {
+              this.utterance.voice = boyVoice;
+            }
+
+            this.utterance.onstart = () => {
+              this.onNativeSpeechStart(0);
+            };
+
+            this.utterance.onboundary = (e) => {
+              if (e.name === 'word') {
+                this.onNativeWordRange(e.charIndex, e.charIndex + (e.charLength || 1));
+              }
+            };
+
+            this.utterance.onend = () => {
+              this.clearWordHighlights();
+              if (onEnd) onEnd();
+            };
+            this.utterance.onerror = () => {
+              this.clearWordHighlights();
+              this.streamWebAudio(text, onEnd);
+            };
+            window.speechSynthesis.speak(this.utterance);
+            return;
+          }
+        }
+
+        // 3. Fallback: Direct HTML5 Web Audio Stream with Young Boy Voice
+        this.streamWebAudio(text, onEnd);
+      }
+
+      streamWebAudio(text, onEnd) {
+        // 100% Reliable Google TTS stream
+        const url = 'https://translate.google.com/translate_tts?ie=UTF-8&tl=en&client=tw-ob&q=' + encodeURIComponent(text);
+        if (this.audioObj) {
+          try { this.audioObj.pause(); } catch(e) {}
+        }
+        this.audioObj = new Audio(url);
+        this.audioObj.playbackRate = 0.92;
+        this.audioObj.onplay = () => {
+          if (this.audioObj && this.audioObj.duration) {
+            const actualDuration = (this.audioObj.duration * 1000) / 0.92;
+            this.onNativeSpeechStart(actualDuration);
+          } else {
+            this.onNativeSpeechStart(0);
+          }
+        };
+        this.audioObj.onended = () => {
+          this.clearWordHighlights();
+          if (this.isPlaying && onEnd) onEnd();
+        };
+        this.audioObj.onerror = () => {
+          this.clearWordHighlights();
+          if (this.isPlaying && onEnd) onEnd();
+        };
+        this.audioObj.play().catch(e => {
+          this.clearWordHighlights();
+          this.setPlayState(false);
+        });
+      }
+
+      onNativeSpeechEnd() {
+        this.clearWordHighlights();
+        if (this.ttsTimer) {
+          clearTimeout(this.ttsTimer);
+          this.ttsTimer = null;
+        }
+        if (this.isPlaying && this.currentSpeechEndCallback) {
+          const cb = this.currentSpeechEndCallback;
+          this.currentSpeechEndCallback = null;
+          cb();
+        }
+      }
+
+      stopAudio() {
+        this.clearWordHighlights();
+        if (this.ttsTimer) {
+          clearTimeout(this.ttsTimer);
+          this.ttsTimer = null;
+        }
+        this.currentSpeechEndCallback = null;
+        if (this.audioObj) {
+          try { this.audioObj.pause(); } catch(e) {}
+          this.audioObj = null;
+        }
+        if (window.Android && typeof window.Android.stopAudio === 'function') {
+          window.Android.stopAudio();
+        }
+        if (window.speechSynthesis) {
+          window.speechSynthesis.cancel();
+        }
+        this.setPlayState(false);
+      }
+
+      togglePlay() {
+        if (this.isPlaying) {
+          this.stopAudio();
+        } else {
+          this.playSentence(this.currentSentenceIdx);
+        }
+      }
+
+      setPlayState(playing) {
+        this.isPlaying = playing;
+        const iconPlay = document.getElementById('iconPlay');
+        const iconPause = document.getElementById('iconPause');
+        if (iconPlay && iconPause) {
+          if (playing) {
+            iconPlay.classList.add('hidden');
+            iconPause.classList.remove('hidden');
+          } else {
+            iconPlay.classList.remove('hidden');
+            iconPause.classList.add('hidden');
+          }
+        }
+      }
+
+      nextSentence() {
+        if (!this.currentStory) return;
+        if (this.currentSentenceIdx < this.currentStory.sentences.length - 1) {
+          this.currentSentenceIdx++;
+          this.playSentence(this.currentSentenceIdx);
+        }
+      }
+
+      prevSentence() {
+        if (!this.currentStory) return;
+        if (this.currentSentenceIdx > 0) {
+          this.currentSentenceIdx--;
+          this.playSentence(this.currentSentenceIdx);
+        }
+      }
+
+      toggleAutoPlay() {
+        this.autoPlay = !this.autoPlay;
+        this.updateAutoPlayUI();
+      }
+
+      updateAutoPlayUI() {
+        const ind = document.getElementById('indicatorAutoPlay');
+        const btn = document.getElementById('btnAutoPlay');
+        if (!ind || !btn) return;
+        if (this.autoPlay) {
+          ind.classList.remove('bg-slate-600');
+          ind.classList.add('bg-emerald-400');
+          btn.classList.add('text-emerald-400', 'border-emerald-500/40');
+        } else {
+          ind.classList.remove('bg-emerald-400');
+          ind.classList.add('bg-slate-600');
+          btn.classList.remove('text-emerald-400', 'border-emerald-500/40');
+        }
+      }
+
+      setMode(mode) {
+        this.mode = mode;
+        const btnBi = document.getElementById('modeBtnBilingual');
+        const btnSt = document.getElementById('modeBtnStudy');
+
+        if (mode === 'bilingual') {
+          btnBi.classList.add('bg-indigo-600', 'text-white', 'shadow-sm');
+          btnBi.classList.remove('text-slate-400');
+          btnSt.classList.remove('bg-indigo-600', 'text-white', 'shadow-sm');
+          btnSt.classList.add('text-slate-400');
+        } else {
+          btnSt.classList.add('bg-indigo-600', 'text-white', 'shadow-sm');
+          btnSt.classList.remove('text-slate-400');
+          btnBi.classList.remove('bg-indigo-600', 'text-white', 'shadow-sm');
+          btnBi.classList.add('text-slate-400');
+        }
+        this.renderSentences();
+        this.updateActiveHighlight(this.currentSentenceIdx);
+      }
+
+      revealTranslation(idx) {
+        const el = document.getElementById(`bn-trans-${idx}`);
+        if (el) el.classList.remove('blur-sm', 'select-none');
+      }
+    }
+
+    // Initialize application instance
+    const app = new StoryLingoApp();
+    window.app = app;
+  </script>
+
+  <!-- Service Worker Registration -->
+  <script>
+    if ('serviceWorker' in navigator && window.location.protocol.startsWith('http')) {
+      window.addEventListener('load', () => {
+        navigator.serviceWorker.register('sw.js').then(reg => {
+          console.log('StoryLingo SW registered with scope:', reg.scope);
+        }).catch(err => {
+          console.warn('StoryLingo SW registration failed:', err);
+        });
+      });
+    }
+  </script>
+</body>
+</html>

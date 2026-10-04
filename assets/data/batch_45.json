@@ -1,0 +1,617 @@
+[
+  {
+    "id": "edward-jenner-smallpox-cowpox-vaccine",
+    "title": "Edward Jenner: The Milkmaid and the Defeat of Smallpox",
+    "titleBn": "এডওয়ার্ড জেনার: গো-বসন্ত ও গুটিবসন্তের টিকার বিপ্লব",
+    "author": "Medical Pioneers & Healing",
+    "level": "Intermediate",
+    "category": "Medical Pioneers & Healing",
+    "coverEmoji": "💉",
+    "summary": "Observing that dairy milkmaids never contracted deadly smallpox after having mild cowpox, English physician Edward Jenner developed the world's very first vaccine in 1796.",
+    "summaryBn": "গোয়ালিনীরা গো-বসন্তে আক্রান্ত হওয়ার পর কখনোই মারাত্মক গুটিবসন্তে মরে না লক্ষ্য করে ইংরেজ চিকিৎসক এডওয়ার্ড জেনার ১৭৯৬ সালে পৃথিবীর প্রথম টিকা উদ্ভাবন করেন।",
+    "sentences": [
+      {
+        "en": "For centuries, smallpox was the deadliest scourge of human civilization, killing hundreds of millions of victims while leaving survivors blinded and horribly scarred by pustules.",
+        "bn": "শতাব্দীর পর শতাব্দী ধরে গুটিবসন্ত ছিল মানবজাতির সবচেয়ে ভয়াবহ মরণব্যাধি, যা কোটি কোটি মানুষকে হত্যা করত এবং বেঁচে থাকাদের শরীর ক্ষতবিক্ষত ও অন্ধ করে দিত।"
+      },
+      {
+        "en": "In the English countryside of Gloucestershire, country doctor Edward Jenner listened intently to traditional dairy folklore: milkmaids who contracted mild cowpox lesions never caught fatal smallpox.",
+        "bn": "ইংল্যান্ডের এক পল্লী চিকিৎসক এডওয়ার্ড জেনার স্থানীয় গোয়ালিনীদের মুখে শুনলেন এক মজার তথ্য—যাদের গরুর শরীরে হওয়া মৃদু গো-বসন্ত হয়েছে, তারা কখনোই মরণঘাতী গুটিবসন্তে আক্রান্ত হয় না।"
+      },
+      {
+        "en": "Investigating the phenomenon scientifically in May 1796, Jenner extracted pus fluid from a fresh cowpox pustule on the hand of milkmaid Sarah Nelmes.",
+        "bn": "১৭৯৬ সালের মে মাসে বৈজ্ঞানিক পরীক্ষার জন্য জেনার সারাহ নেলমস নামের এক গোয়ালিনীর হাতের গো-বসন্তের ফোড়া থেকে তরল রস সংগ্রহ করলেন।"
+      },
+      {
+        "en": "He inoculated eight-year-old gardener's son James Phipps with the material; after the boy suffered a mild fever, Jenner inoculated him weeks later with live, lethal smallpox matter.",
+        "bn": "তিনি মালীপুত্র জেমস ফিলিপসের শরীরে সেই রস দিলেন; ছেলেটির সামান্য জ্বর হলো, কিন্তু কয়েক সপ্তাহ পর তার শরীরে ভয়ানক গুটিবসন্তের পুঁজ দিলেও সে সম্পূর্ণ সুস্থ রইল।"
+      },
+      {
+        "en": "The child remained completely healthy and symptom-free, mathematically proving that exposure to a related benign virus produced complete immunological protection.",
+        "bn": "শিশুটির শরীরে কোনো রোগের লক্ষণ দেখা গেল না; এর মাধ্যমে বৈজ্ঞানিকভাবে প্রমাণিত হলো যে কম ক্ষতিকর গো-বসন্তের মাধ্যমে মারাত্মক রোগের স্থায়ী প্রতিরোধ গড়ে তোলা সম্ভব।"
+      },
+      {
+        "en": "Jenner coined the medical term 'vaccine' from the Latin word 'vacca,' meaning cow, publishing his findings despite furious mocking from London medical societies.",
+        "bn": "ল্যাটিন শব্দ 'ভাক্কা' যার অর্থ গরু, সেখান থেকেই জেনার 'ভ্যাকসিন' বা টিকা শব্দের উদ্ভাবন করেন এবং উপহাস উপেক্ষা করে নিজের গবেষণা প্রকাশ করেন।"
+      },
+      {
+        "en": "His pioneering discovery laid the cornerstone of immunology, ultimately leading to the complete global eradication of smallpox by the World Health Organization in 1980.",
+        "bn": "তাঁর এই বৈপ্লবিক উদ্ভাবন রোগ প্রতিরোধ বিজ্ঞানের ভিত্তি স্থাপন করে, যার ফলে ১৯৮০ সালে বিশ্ব স্বাস্থ্য সংস্থা পৃথিবী থেকে গুটিবসন্তকে চিরতরে নির্মূল ঘোষণা করতে সক্ষম হয়।"
+      }
+    ]
+  },
+  {
+    "id": "ignaz-semmelweis-handwashing-childbed-fever",
+    "title": "Ignaz Semmelweis: The Savior of Mothers and Washing Hands",
+    "titleBn": "ইগনাস সেমেলওয়েইস: জীবাণু ও হাত ধোয়ার বৈপ্লবিক আবিষ্কার",
+    "author": "Medical Pioneers & Healing",
+    "level": "Intermediate",
+    "category": "Medical Pioneers & Healing",
+    "coverEmoji": "🧼",
+    "summary": "Horrified by maternal deaths from childbed fever in Vienna, Hungarian obstetrician Ignaz Semmelweis discovered that doctors spread lethal cadavric particles, instituting chlorine handwashing.",
+    "summaryBn": "ভিয়েনার প্রসূতি হাসপাতালে মায়েদের মৃত্যুর কারণ খুঁজতে গিয়ে হাঙ্গেরীয় চিকিৎসক ইগনাস সেমেলওয়েইস আবিষ্কার করেন যে চিকিৎসকদের হাতের মাধ্যমেই মরণব্যাধি ছড়ায় এবং তিনি ক্লোরিন দিয়ে হাত ধোয়ার নিয়ম চালু করেন।",
+    "sentences": [
+      {
+        "en": "Working at the Vienna General Hospital in the 1840s, Hungarian physician Ignaz Semmelweis was anguished by the horrifying mortality rate of puerperal fever among young mothers in the First Obstetrical Clinic.",
+        "bn": "১৮৪০-এর দশকে ভিয়েনার সরকারি হাসপাতালে প্রসূতি বিভাগের তরুণ মায়েদের প্রসব পরবর্তী ভয়াবহ জ্বরে মৃত্যুর উচ্চ হার দেখে হাঙ্গেরীয় চিকিৎসক ইগনাস সেমেলওয়েইস মানসিকভাবে ভীষণ ভেঙে পড়েন।"
+      },
+      {
+        "en": "He noted that clinic mothers attended by medical students died at three times the rate of those attended by midwives in the adjacent Second Clinic.",
+        "bn": "তিনি লক্ষ্য করলেন মেডিকেল ছাত্রদের তত্ত্বাবধানে থাকা মায়েদের মৃত্যুর হার মিডওয়াইফ বা ধাত্রীদের অধীনে থাকা ওয়ার্ডের মায়েদের চেয়ে তিনগুণ বেশি।"
+      },
+      {
+        "en": "When his pathologist friend Jakob Kolletschka died of identical systemic poisoning after his finger was nicked during an autopsy, Semmelweis had a sudden, terrifying revelation.",
+        "bn": "লাশ কাটা পরীক্ষার সময় এক সহকর্মী আঙুলে চোট পেয়ে হুবহু সেই একই জ্বরে মারা গেলে সেমেলওয়েইস হঠাৎ এক ভয়ানক সত্য উপলব্ধি করলেন।"
+      },
+      {
+        "en": "He deduced that medical students coming directly from the dissection mortuary to examine pregnant mothers carried invisible, lethal 'cadaveric particles' upon their unwashed fingers.",
+        "bn": "তিনি বুঝলেন মর্গে লাশ ব্যবচ্ছেদ করে ছাত্ররা না ধুয়ে সেই অপরিচ্ছন্ন হাতে মায়েদের প্রসব করাতে গিয়েই মৃতদেহের অদৃশ্য বিষাক্ত কণা তাদের জরায়ুতে ঢুকিয়ে দিচ্ছে।"
+      },
+      {
+        "en": "In May 1847, Semmelweis mandated that all physicians and students rigorously scrub their hands and instruments in a chlorinated lime solution before touching patients.",
+        "bn": "১৮৪৭ সালের মে মাসে তিনি হাসপাতালে ঢোকার আগে সব ডাক্তার ও ছাত্রকে ক্লোরিন ভেজানো পানি দিয়ে হাত ও যন্ত্রপাতি ঘষে জীবাণুমুক্ত করার কড়া নির্দেশ দিলেন।"
+      },
+      {
+        "en": "Maternal mortality plummeted from eighteen percent to barely one percent within months, but arrogant senior physicians took offense at the implication that gentlemen carried disease.",
+        "bn": "কয়েক মাসের মধ্যে মায়েদের মৃত্যুর হার ১৮ শতাংশ থেকে এক শতাংশে নেমে এলো; কিন্তু দাম্ভিক প্রবীণ চিকিৎসকেরা তাঁদের হাত নোংরা বলায় সেমেলওয়েইসকে তীব্র অপবাদ দিতে লাগলেন।"
+      },
+      {
+        "en": "Ostracized by the medical establishment and committed to a mental asylum where he was beaten to death at age forty-seven, Semmelweis is honored today as the Savior of Mothers.",
+        "bn": "সবাই মিলে একঘরে করে তাঁকে পাগলাগারদে পাঠিয়ে দিলে সেখানেই মারধরে মাত্র ৪৭ বছর বয়সে মারা যান তিনি; অথচ আজ বিশ্ব তাঁকে 'মায়েদের ত্রাণকর্তা' হিসেবে স্মরণ করে।"
+      }
+    ]
+  },
+  {
+    "id": "alexander-fleming-mold-penicillin-discovery",
+    "title": "Alexander Fleming: The Serendipitous Mold that Conquered Infection",
+    "titleBn": "আলেকজান্ডার ফ্লেমিং: পেনিসিলিন আবিষ্কার ও অ্যান্টিবায়োটিকের যুগ",
+    "author": "Medical Pioneers & Healing",
+    "level": "Intermediate",
+    "category": "Medical Pioneers & Healing",
+    "coverEmoji": "🧫",
+    "summary": "Returning from vacation to a cluttered London laboratory, Alexander Fleming noticed a halo of dead staphylococcus bacteria surrounding Penicillium mold, ushering in modern antibiotics.",
+    "summaryBn": "ছুটি কাটিয়ে লন্ডনের ল্যাবরেটরিতে ফিরে আলেকজান্ডার ফ্লেমিং পেট্রিডিশে দেখতে পান এক নীল ছত্রাকের চারপাশে সব ক্ষতিকর ব্যাকটেরিয়া মরে গেছে; এভাবেই জন্ম নেয় প্রথম অ্যান্টিবায়োটিক পেনিসিলিন।",
+    "sentences": [
+      {
+        "en": "During World War I, Scottish bacteriologist Alexander Fleming treated wounded soldiers in battlefield hospitals, watching helplessly as deep bacterial wound infections killed thousands despite chemical carbolic washes.",
+        "bn": "প্রথম বিশ্বযুদ্ধের সময় যুদ্ধক্ষেত্রের হাসপাতালে স্কটিশ ব্যাকটেরিয়াবিদ আলেকজান্ডার ফ্লেমিং অসহায় হয়ে দেখেছিলেন রাসায়নিক ওষুধ ব্যবহার সত্ত্বেও ব্যাকটেরিয়ার সংক্রমণে হাজার হাজার সৈন্যের মৃত্যু।"
+      },
+      {
+        "en": "Returning to his notoriously messy laboratory at Saint Mary's Hospital in London in September 1928 after a family seaside vacation, he began cleaning neglected glass petri dishes.",
+        "bn": "১৯২৮ সালের সেপ্টেম্বরে লন্ডনের সেন্ট মেরি হাসপাতালের নিজের অগোছালো গবেষণাগারে ফিরে তিনি ফেলে রাখা কাঁচের পেট্রিডিশগুলো ধোয়ার জন্য গুছিয়ে নিচ্ছিলেন।"
+      },
+      {
+        "en": "He paused upon inspecting one plate contaminated by blue-green kitchen mold drifting in through an open window: surrounding the mold colony was a clear transparent halo where staphylococcus colonies had dissolved.",
+        "bn": "হঠাৎ তাঁর চোখ পড়ল খোলা জানালা দিয়ে উড়ে আসা এক ছত্রাক পড়া ডিশের ওপর—ছত্রাকের চারপাশের এক চিলতে জায়গায় সব ক্ষতিকর স্ট্যাফাইলোকক্কাস ব্যাকটেরিয়া গলে অদৃশ্য হয়ে গেছে!"
+      },
+      {
+        "en": "Instead of tossing the ruined plate into bleach, Fleming famously muttered, 'That's funny,' carefully culturing the miraculous mold identified as Penicillium notatum.",
+        "bn": "প্লেটটি সাবান পানিতে ফেলে না দিয়ে তিনি কৌতূহলী হয়ে বললেন—'ব্যাপারটা তো বেশ মজার!' এবং সেই পেনিসিলিয়াম ছত্রাকটিকে আলাদা পাত্রে পরম যত্নে চাষ করতে শুরু করলেন।"
+      },
+      {
+        "en": "He discovered that the broth secreted an invisible antimicrobial compound that destroyed deadly streptococcus, diphtheria, and meningitis bacilli without harming living human tissue.",
+        "bn": "তিনি পরীক্ষা করে দেখলেন যে সেই ছত্রাক থেকে বের হওয়া রস মানবদেহের কোনো ক্ষতি না করে ডিপথেরিয়া, মেনিনজাইটিস ও ক্ষতিকর ব্যাকটেরিয়ার বিস্তার মুহূর্তে ধ্বংস করে দেয়।"
+      },
+      {
+        "en": "Oxford biochemists Howard Florey and Ernst Chain later unlocked methods to mass-purify the unstable antibiotic, saving millions of wounded soldiers and civilians during World War II.",
+        "bn": "পরবর্তীতে অক্সফোর্ডের বিজ্ঞানীরা এই উপাদানকে বিশুদ্ধ ওষুধ হিসেবে তৈরির পদ্ধতি আবিষ্কার করেন, যা দ্বিতীয় বিশ্বযুদ্ধে লাখ লাখ আহতের জীবন বাঁচিয়ে ইতিহাস সৃষ্টি করে।"
+      },
+      {
+        "en": "Fleming's acute observational curiosity ignited the antibiotic revolution, doubling average human life expectancy across the twentieth century.",
+        "bn": "ফ্লেমিংয়ের সেই ক্ষণিকের কৌতূহলী দৃষ্টির কারণেই শুরু হয়েছিল অ্যান্টিবায়োটিকের বিপ্লব, যা বিংশ শতাব্দীতে মানুষের গড় আয়ু দ্বিগুণ বাড়িয়ে দিয়েছিল।"
+      }
+    ]
+  },
+  {
+    "id": "louis-pasteur-rabies-vaccine-joseph-meister",
+    "title": "Louis Pasteur: The Boy Joseph Meister and the Rabies Cure",
+    "titleBn": "লুই পাস্তুর: জলাতঙ্কের টিকা ও জোসেফ মেইস্টারের পুনর্জীবন",
+    "author": "Medical Pioneers & Healing",
+    "level": "Intermediate",
+    "category": "Medical Pioneers & Healing",
+    "coverEmoji": "🐕",
+    "summary": "French chemist Louis Pasteur took an agonizing ethical gamble, administering an untested attenuated spinal cord vaccine to save a nine-year-old boy savaged by a rabid dog.",
+    "summaryBn": "জলাতঙ্কগ্রস্ত কুকুরের কামড়ে মৃত্যু নিশ্চিত জেনে নয় বছর বয়সী শিশু জোসেফ মেইস্টারকে নিজের উদ্ভাবিত অপ্রমাণিত টিকা দিয়ে মৃত্যুর মুখ থেকে ফিরিয়ে এনেছিলেন বিজ্ঞানী লুই পাস্তুর।",
+    "sentences": [
+      {
+        "en": "Throughout the nineteenth century, rabies was regarded with absolute horror: a single bite from an infected dog or wolf resulted in agonizing spasms, hydrophobia, madness, and certain death.",
+        "bn": "উনবিংশ শতাব্দীতে জলাতঙ্ক ছিল এক পরম আতঙ্কের নাম—পাগলা কুকুর বা নেকড়ের একটি কামড়েই তীব্র গলা-খিঁচুনি, পানিভীতি ও অবধারিত মর্মান্তিক মৃত্যু ডেকে আনত।"
+      },
+      {
+        "en": "French chemist and microbiologist Louis Pasteur, who had already disproven spontaneous generation and developed milk pasteurization, turned his investigative genius toward the invisible rabies virus.",
+        "bn": "দুধের পাস্তুরায়ন ও জীবাণু তত্ত্বের আবিষ্কারক ফরাসি বিজ্ঞানী লুই পাস্তুর এই মরণঘাতী অদৃশ্য জলাতঙ্ক ভাইরাসের সমাধান খুঁজতে গভীর গবেষণায় নামলেন।"
+      },
+      {
+        "en": "By passing the virus through successive generations of rabbits and drying their spinal cords in dry air jars, he created an attenuated, weakened strain that protected healthy dogs.",
+        "bn": "খরগোশের শরীরের ভেতর দিয়ে ভাইরাসটি ছড়িয়ে এবং তাদের মেরুদণ্ডের মজ্জা শুকিয়ে তিনি ভাইরাসের শক্তি দুর্বল করে তুললেন, যা সুস্থ কুকুরদের রক্ষা করতে সফল হলো।"
+      },
+      {
+        "en": "On July 6, 1885, a weeping mother brought nine-year-old Alsatian boy Joseph Meister to Pasteur's Paris laboratory, desperately begging for help after the child was mauled by a rabid dog fourteen times.",
+        "bn": "১৮৮৫ সালের ৬ জুলাই এক অসহায় মা তাঁর নয় বছরের ছেলে জোসেফ মেইস্টারকে পাস্তুরের ল্যাবে নিয়ে এলেন, যাকে এক পাগলা কুকুর চৌদ্দ জায়গায় খুবলে কামড়ে ক্ষতবিক্ষত করেছিল।"
+      },
+      {
+        "en": "Though not a licensed medical doctor and knowing that a failed human trial would ruin his career, Pasteur knew the boy faced guaranteed horrific death within weeks.",
+        "bn": "নিজে ডাক্তারি ডিগ্রিধারী না হওয়ায় অসফল হলে জেল ও ক্যারিয়ার ধ্বংসের ঝুঁকি জেনেও তিনি বুঝলেন টিকা না দিলে শিশুটি নিশ্চিত মৃত্যুর কোলে ঢলে পড়বে।"
+      },
+      {
+        "en": "Over fourteen days, Pasteur administered thirteen increasingly virulent injections into the boy's abdomen, pacing his bedroom floor sleeplessly each night in agonizing prayers.",
+        "bn": "টানা চৌদ্দ দিনে তিনি শিশুটির পেটে তেরোটি ইনজেকশন দিলেন এবং প্রতি রাতে দুশ্চিন্তায় বিনিদ্র রজনী কাটিয়ে সৃষ্টিকর্তার কাছে প্রার্থনা করতে লাগলেন।"
+      },
+      {
+        "en": "The boy survived in radiant health without developing any symptoms, establishing the triumph of post-exposure immunization and inaugurating the prestigious Pasteur Institute.",
+        "bn": "শিশু জোসেফ পুরোপুরি সুস্থ হয়ে উঠল এবং কোনো রোগের লক্ষণ দেখা দিল না; এর মাধ্যমেই আধুনিক টিকাদানের এক অবিস্মরণীয় নতুন দিগন্ত উন্মোচিত হলো।"
+      }
+    ]
+  },
+  {
+    "id": "florence-nightingale-lady-with-lamp-crimea",
+    "title": "Florence Nightingale: The Lady with the Lamp in Crimea",
+    "titleBn": "ফ্লোরেন্স নাইটিঙ্গেল: প্রদীপ হাতে সেবার আলোকবর্তিকা",
+    "author": "Medical Pioneers & Healing",
+    "level": "Intermediate",
+    "category": "Medical Pioneers & Healing",
+    "coverEmoji": "🕯️",
+    "summary": "Defying aristocratic expectations, Florence Nightingale revolutionized wartime hospitals at Scutari during the Crimean War, using sanitation statistics to transform modern nursing.",
+    "summaryBn": "অভিজাত পরিবারের আয়েসী জীবন ত্যাগ করে ক্রিমিয়ার যুদ্ধে স্কুতারি সামরিক হাসপাতালে গিয়ে ফ্লোরেন্স নাইটিঙ্গেল নোংরা পরিবেশ দূর করে ও প্রদীপ হাতে রোগীর সেবা করে আধুনিক নার্সিংয়ের রূপ দেন।",
+    "sentences": [
+      {
+        "en": "Born into a wealthy British family, Florence Nightingale rejected expected societal marriages, believing she had received a divine calling to devote her life to nursing the sick and impoverished.",
+        "bn": "এক ধনাঢ্য অভিজাত পরিবারে জন্ম নিয়েও ফ্লোরেন্স নাইটিঙ্গেল পারিবারিক সুখ-বিলাসিতার প্রস্তাব ফিরিয়ে দিয়ে মানবসেবা ও রোগীদের চিকিৎসার ব্রত গ্রহণ করেন।"
+      },
+      {
+        "en": "In 1854, during the Crimean War, shocking newspaper dispatches reported that British soldiers were dying by thousands in squalid barrack hospitals from gangrene and cholera rather than battlefield bullets.",
+        "bn": "১৮৫৪ সালে ক্রিমিয়ার যুদ্ধের সময় খবরের কাগজে খবর এলো যে তুর্কি হাসপাতালে যুদ্ধক্ষেত্রের গুলির চেয়ে নোংরা পরিবেশের কারণে কলেরা ও পঁচনে হাজার হাজার সৈন্য মারা যাচ্ছে।"
+      },
+      {
+        "en": "Leading thirty-eight volunteer nurses to Scutari Hospital near Constantinople, Nightingale was horrified to discover soldiers lying in their own filth over defective open sewers, infested with lice and rats.",
+        "bn": "আটত্রিশজন সেবিকাকে সাথে নিয়ে ইস্তাম্বুলের হাসপাতালে পৌঁছে তিনি দেখতে পেলেন ভাঙা নর্দমার ওপর নোংরায় মলের মাঝে সৈন্যরা পোকা ও ইঁদুরের কামড় খেয়ে পড়ে রয়েছে।"
+      },
+      {
+        "en": "She organized massive clean-up squads, scrubbed the walls, flushed the sewers, established clean laundry facilities, and prepared nutritious specialized diets for the wounded.",
+        "bn": "তিনি পুরো হাসপাতাল ঝাড়ু দিয়ে পরিষ্কার করালেন, নর্দমা ঠিক করালেন এবং রোগীদের জন্য ধোয়া কাপড় ও পুষ্টিকর পথ্যের সুব্যবস্থা করলেন।"
+      },
+      {
+        "en": "Every night, when the surgeons retired, Nightingale walked solitary four-mile rounds down the endless dark corridors carrying a small brass lamp, comforting suffering soldiers.",
+        "bn": "প্রতি রাতে ডাক্তাররা চলে গেলে হাতে একটি ছোট প্রদীপ নিয়ে তিনি চার মাইল দীর্ঘ অন্ধকার করিডোরগুলোতে হেঁটে হেঁটে কাতরাতে থাকা আহত সৈন্যদের মাথায় হাত বুলিয়ে দিতেন।"
+      },
+      {
+        "en": "A gifted mathematician, she invented the polar area pie diagram (the coxcomb chart) to visually prove to the British Parliament that improved sanitation prevented ten times more deaths than medicine.",
+        "bn": "উচ্চ গণিতবিদ হিসেবে তিনি রঙিন চার্ট তৈরি করে পার্লামেন্টে দেখালেন যে পরিচ্ছন্নতা রক্ষা করলেই ওষুধের চেয়ে দশগুণ বেশি মানুষের জীবন বাঁচানো সম্ভব।"
+      },
+      {
+        "en": "Her visionary discipline elevated nursing into a respected, highly trained profession, forever enshrining the 'Lady with the Lamp' as the universal saint of compassionate healing.",
+        "bn": "তাঁর নিয়মশৃঙ্খলা নার্সিং পেশাকে এক মহিমান্বিত মর্যাদায় ভূষিত করে এবং 'প্রদীপ হাতে নারী' চিরকালের জন্য মানবসেবার অমলিন প্রতিমূর্তি হয়ে রইলেন।"
+      }
+    ]
+  },
+  {
+    "id": "jonas-salk-polio-vaccine-no-patent",
+    "title": "Jonas Salk: The Polio Vaccine Belonging to the Sun",
+    "titleBn": "জোনাস সল্ক: পোলিও মুক্ত পৃথিবী ও নিঃস্বার্থ উপহার",
+    "author": "Medical Pioneers & Healing",
+    "level": "Intermediate",
+    "category": "Medical Pioneers & Healing",
+    "coverEmoji": "☀️",
+    "summary": "Virologist Jonas Salk developed the first safe killed-virus polio vaccine in 1955, refusing to patent his multi-billion-dollar discovery so that all children could be protected.",
+    "summaryBn": "১৯৫৫ সালে পোলিও রোগের প্রথম নিরাপদ টিকা আবিষ্কার করে বিজ্ঞানী জোনাস সল্ক এর কোনো পেটেন্ট নেননি; বিলিয়ন ডলারের ব্যক্তিগত লোভ ত্যাগ করে তিনি এই আবিষ্কার পৃথিবীকে উপহার দেন।",
+    "sentences": [
+      {
+        "en": "During the mid-twentieth century, the terrifying epidemic of poliomyelitis struck terror across summer communities, paralyzing tens of thousands of children and condemning them to iron lung respirators.",
+        "bn": "বিংশ শতাব্দীর মাঝামাঝি সময়ে প্রতি গ্রীষ্মে পোলিও রোগের ভয়াল আক্রমণে হাজার হাজার শিশু পক্ষাঘাতগ্রস্ত হতো এবং তাদের শ্বাস নিতে বিশাল লোহার ফুসফুসের ভেতরে বন্দি থাকতে হতো।"
+      },
+      {
+        "en": "At the University of Pittsburgh, medical researcher Dr. Jonas Salk bucked prevailing scientific consensus by attempting to create an effective immunization using a chemically killed virus rather than live weakened strains.",
+        "bn": "পিটসবার্গ বিশ্ববিদ্যালয়ে ডা. জোনাস সল্ক প্রচলিত নিয়মের বাইরে গিয়ে ফর্মালিন দিয়ে মৃত ভাইরাসের সাহায্যে পোলিও প্রতিরোধের এক সম্পূর্ণ নিরাপদ টিকা তৈরির গবেষণা শুরু করেন।"
+      },
+      {
+        "en": "Using formaldehyde to render the poliovirus completely incapable of multiplying while preserving its protein structure to trigger an antibody immune response, he first tested the injection on himself and his own children.",
+        "bn": "ভাইরাস যাতে বংশবৃদ্ধি করতে না পারে অথচ মানবদেহের অ্যান্টিবডি তৈরি করতে পারে তা নিশ্চিত করে তিনি প্রথমে নিজের এবং নিজের সন্তানদের শরীরে সেই টিকা পরীক্ষা করলেন।"
+      },
+      {
+        "en": "In 1954, nearly two million American schoolchildren—known as the 'Polio Pioneers'—participated in the largest double-blind clinical field trial in medical history.",
+        "bn": "১৯৫৪ সালে প্রায় কুড়ি লাখ স্কুল শিক্ষার্থী ইতিহাসের সবচেয়ে বড় ক্লিনিক্যাল ট্রায়ালে অংশ নিয়ে এই টিকার কার্যকারিতা পরীক্ষায় শামিল হলো।"
+      },
+      {
+        "en": "On April 12, 1955, church bells rang and factory whistles blew across North America as trial results were broadcast: the vaccine was safe, potent, and ninety percent effective.",
+        "bn": "১৯৫৫ সালের ১২ এপ্রিল রেডিওতে যখন ঘোষণা করা হলো যে এই টিকা সম্পূর্ণ নিরাপদ ও কার্যকর, তখন গির্জার ঘণ্টা বাজিয়ে এবং কারখানার সাইরেন বাজিয়ে বিজয়োল্লাস করা হলো।"
+      },
+      {
+        "en": "When asked by television journalist Edward R. Murrow who owned the lucrative patent to the miraculous vaccine, Salk famously replied: 'Well, the people, I would say. There is no patent. Could you patent the sun?'",
+        "bn": "এক সাংবাদিক যখন জিজ্ঞেস করলেন এই বহুমূল্য টিকার পেটেন্ট কার, তখন সল্ক শান্ত মুখে উত্তর দিলেন: 'সমগ্র মানবজাতির; সূর্যের আলোর ওপর কি কেউ পেটেন্ট করতে পারে?'"
+      },
+      {
+        "en": "By surrendering an estimated seven billion dollars in personal royalties, Salk gifted future generations a world liberating childhood from the terror of paralysis.",
+        "bn": "ব্যক্তিগত সাত বিলিয়ন ডলারের বিপুল লোভ ত্যাগ করে সল্ক ভবিষ্যৎ শিশুদের পঙ্গুত্বের অভিশাপ থেকে মুক্তি দিয়ে এক সুস্থ পৃথিবী উপহার দিয়ে গেছেন।"
+      }
+    ]
+  },
+  {
+    "id": "tu-youyou-artemisinin-malaria-ancient-herbs",
+    "title": "Tu Youyou: Artemisinin and the Secrets of Ancient Botany",
+    "titleBn": "তু ইউইউ: ভেষজ লতা থেকে ম্যালেরিয়ার মহৌষধ",
+    "author": "Medical Pioneers & Healing",
+    "level": "Intermediate",
+    "category": "Medical Pioneers & Healing",
+    "coverEmoji": "🌿",
+    "summary": "Combating chloroquine-resistant malaria during the Vietnam War, Chinese pharmacologist Tu Youyou consulted fourth-century Taoist texts to extract artemisinin from sweet wormwood.",
+    "summaryBn": "ভিয়েতনামের যুদ্ধে ম্যালেরিয়ার ড্রাগ-প্রতিরোধী রূপ দেখে চতুর্থ শতাব্দীর প্রাচীন চৈনিক ভেষজ পুথি ঘেঁটে মিষ্টি কৃমিদমন লতা থেকে আর্টেমিসিনিন নিষ্কাশন করে নোবেল জয় করেন তু ইউইউ।",
+    "sentences": [
+      {
+        "en": "During the Vietnam War, chloroquine-resistant strains of Plasmodium falciparum malaria were killing more soldiers on both sides of the jungle conflict than battlefield artillery.",
+        "bn": "ভিয়েতনাম যুদ্ধের সময় প্রচলিত ওষুধের বিরুদ্ধে প্রতিরোধী হয়ে ওঠা ভয়াবহ ম্যালেরিয়া জীবাণু কামানের গোলার চেয়েও বেশি সৈন্যের প্রাণ কেড়ে নিচ্ছিল।"
+      },
+      {
+        "en": "In 1969, Chinese phytochemist Tu Youyou was appointed head of secret Project 523, charged by the government with discovering a novel antimalarial treatment from traditional remedies.",
+        "bn": "১৯৬৯ সালে চীনের ভেষজ রসায়নবিদ তু ইউইউকে সরকারের গোপন 'প্রকল্প ৫২৩'-এর প্রধান করা হয় প্রাচীন ভেষজ পুথি থেকে ম্যালেরিয়ার ওষুধ খুঁজে বের করার জন্য।"
+      },
+      {
+        "en": "Scouring over two thousand classical herbal recipes, she found a cryptic passage written in 340 AD by Taoist alchemist Ge Hong recommending soaking sweet wormwood (Qinghao) in cold water.",
+        "bn": "দুই হাজার প্রাচীন প্রেসক্রিপশন ঘেঁটে তিনি ৩৪০ খ্রিস্টাব্দের এক তাওবাদী সাধকের বইয়ে খুঁজে পেলেন যে মিষ্টি কৃমিদমন লতাকে গরম পানিতে না ফুটিয়ে ঠাণ্ডা পানিতে ভেজাতে হবে।"
+      },
+      {
+        "en": "Realizing that conventional high-temperature boiling destroyed the plant's delicate active ingredient, Tu redesigned the extraction process using low-boiling ether solvents at thirty-five degrees Celsius.",
+        "bn": "তিনি বুঝলেন তাপে ওষুধের মূল উপাদান নষ্ট হয়ে যায়; তাই তিনি কম তাপমাত্রায় বিশেষ দ্রাবক ব্যবহার করে সম্পূর্ণ অক্ষতভাবে সক্রিয় উপাদানটি আলাদা করলেন।"
+      },
+      {
+        "en": "The resulting compound, named artemisinin, achieved a miraculous one-hundred percent clearance of malaria parasites in infected laboratory mice and monkeys.",
+        "bn": "'আর্টেমিসিনিন' নামের সেই রাসায়নিক উপাদানটি গবেষণাগারে ইঁদুর ও বানরের রক্ত থেকে শতভাগ ম্যালেরিয়ার পরজীবী ধ্বংস করে বিস্ময় সৃষ্টি করল।"
+      },
+      {
+        "en": "To accelerate human safety trials, Tu boldly volunteered to be the very first human subject, taking high doses in a hospital isolation ward to ensure zero toxicity.",
+        "bn": "মানুষের শরীরে এর নিরাপদ ব্যবহার দ্রুত নিশ্চিত করতে তিনি নিজের শরীরেই প্রথমে সেই ওষুধের উচ্চ মাত্রা প্রয়োগ করে প্রমাণ করলেন এটি কোনো বিষ নয়।"
+      },
+      {
+        "en": "Artemisinin-based combination therapies have saved millions of lives across tropical Africa and Asia, earning Tu Youyou the Nobel Prize in Physiology or Medicine in 2015.",
+        "bn": "আজ এই আর্টেমিসিনিন ওষুধ আফ্রিকা ও এশিয়ার কোটি কোটি মানুষের জীবন বাঁচিয়েছে এবং তু ইউইউকে ২০১৫ সালে এনে দিয়েছে চিকিৎসাবিজ্ঞানের নোবেল পুরস্কার।"
+      }
+    ]
+  },
+  {
+    "id": "robert-koch-tuberculosis-cholera-staining",
+    "title": "Robert Koch: Staining the Invisible Assassins of Consumption",
+    "titleBn": "রবার্ট কখ: যক্ষ্মা ও কলেরার জীবাণু শনাক্তকরণ",
+    "author": "Medical Pioneers & Healing",
+    "level": "Intermediate",
+    "category": "Medical Pioneers & Healing",
+    "coverEmoji": "🔬",
+    "summary": "Using methylene blue dyes and solid agar Petri dishes in a modest country practice, Robert Koch isolated the rod-shaped tubercle bacillus, formulating Koch's Postulates.",
+    "summaryBn": "মিথাইলিন ব্লু রঞ্জক এবং জেলির মতো অ্যাগার প্লেট ব্যবহার করে জার্মান বিজ্ঞানী রবার্ট কখ যক্ষ্মা ও কলেরার জীবাণু মাইক্রোস্কোপে শনাক্ত করে আধুনিক জীবাণুতত্ত্বের নিয়ম তৈরি করেন।",
+    "sentences": [
+      {
+        "en": "In the late nineteenth century, tuberculosis—the dreaded 'White Plague'—claimed one out of every seven human deaths in Europe, regarded as an inherited hereditary weakness.",
+        "bn": "উনবিংশ শতাব্দীর শেষভাগে ইউরোপে প্রতি সাতজনের একজনের মৃত্যুর কারণ ছিল ক্ষয়রোগ বা যক্ষ্মা, যাকে সবাই জন্মগত পারিবারিক দুর্বলতা বলে মনে করত।"
+      },
+      {
+        "en": "Working in a small four-room clinic in Wollstein, Germany, country doctor Robert Koch received a microscope from his wife, transforming his curtained parlor into a bacteriological laboratory.",
+        "bn": "জার্মানির এক ছোট্ট মফস্বল শহরে স্ত্রীর কাছ থেকে একটি মাইক্রোস্কোপ উপহার পেয়ে ডা. রবার্ট কখ নিজের ঘরের বৈঠকখানাকেই গবেষণাগার বানিয়ে ফেললেন।"
+      },
+      {
+        "en": "He pioneered the revolutionary use of solid nutrient media, utilizing boiled potato slices and seaweed agar jelly inside glass dishes to grow pure, distinct bacterial colonies.",
+        "bn": "তিনি সিদ্ধ আলু এবং সামুদ্রিক অ্যাগার জেলি দিয়ে কাঁচের পাত্রে ব্যাকটেরিয়াকে আলাদা আলাদা খাঁটি পরিবার হিসেবে চাষ করার বৈপ্লবিক পদ্ধতি উদ্ভাবন করলেন।"
+      },
+      {
+        "en": "To make microscopic organisms visible, Koch developed delicate aniline and methylene blue staining techniques, capturing high-resolution photomicrographs through the lens.",
+        "bn": "অদৃশ্য জীবাণুদের চোখে দেখার মতো করতে তিনি বিশেষ নীল রঙের রঞ্জক পদ্ধতি বের করলেন এবং ক্যামেরার সাহায্যে তাদের প্রথম স্পষ্ট ছবি তুললেন।"
+      },
+      {
+        "en": "On March 24, 1882, before the Physiological Society in Berlin, Koch unveiled the culprit behind tuberculosis: a tiny, curved, rod-shaped bacterium called Mycobacterium tuberculosis.",
+        "bn": "১৮৮২ সালের ২৪ মার্চ বার্লিনের বিজ্ঞানীদের সামনে কখ যক্ষ্মার আসল ঘাতককে উন্মোচন করলেন—এক অতি ক্ষুদ্র বাঁকা রড আকৃতির ব্যাকটেরিয়া।"
+      },
+      {
+        "en": "He formulated Koch's Postulates, four strict scientific criteria requiring a pathogen to be found in all disease cases, isolated in pure culture, and proven to cause illness when reinoculated.",
+        "bn": "তিনি রোগের জীবাণু প্রমাণের জন্য চারটি সর্বজনীন বৈজ্ঞানিক শর্ত নির্ধারণ করলেন, যা আজ চিকিৎসাবিজ্ঞানে 'কখের স্বতঃসিদ্ধ' নামে পরিচিত।"
+      },
+      {
+        "en": "Koch later tracked cholera outbreaks along the Nile and in Calcutta, cementing the golden era of medical microbiology and earning the 1905 Nobel Prize.",
+        "bn": "পরবর্তীতে তিনি কলকাতা ও মিশরে গিয়ে কলেরার জীবাণুও আবিষ্কার করেন এবং আধুনিক জীবাণুবিজ্ঞানের জনক হিসেবে ১৯০৫ সালে নোবেল পুরস্কার লাভ করেন।"
+      }
+    ]
+  },
+  {
+    "id": "joseph-lister-carbolic-acid-antiseptic",
+    "title": "Joseph Lister: Carbolic Acid and the Clean Operating Theater",
+    "titleBn": "জোসেফ লিস্টার: কার্বলিক অ্যাসিড ও অ্যান্টিসেপ্টিক অস্ত্রোপচার",
+    "author": "Medical Pioneers & Healing",
+    "level": "Intermediate",
+    "category": "Medical Pioneers & Healing",
+    "coverEmoji": "🧴",
+    "summary": "Horrified that half of surgical patients died of hospital gangrene, Scottish surgeon Joseph Lister sprayed carbolic acid mist over incisions, inventing antiseptic surgery.",
+    "summaryBn": "অস্ত্রোপচারের পর অর্ধেক রোগী ইনফেকশনে মারা যেত দেখে স্কটিশ সার্জন জোসেফ লিস্টার ক্ষতস্থানে কার্বলিক অ্যাসিড স্প্রে করে অ্যান্টিসেপ্টিক অস্ত্রোপচারের সূচনা করেন।",
+    "sentences": [
+      {
+        "en": "In the mid-nineteenth century, hospitals were nicknamed 'gateways to death,' where surgeons wore blood-encrusted coats as badges of pride and operated with unsterilized tools.",
+        "bn": "উনবিংশ শতাব্দীর মাঝামাঝি সময়ে হাসপাতালগুলোকে বলা হতো 'মৃত্যুর প্রবেশদ্বার'; সেখানে ডাক্তাররা অহংকার দেখিয়ে রক্ত মাখা কোট পরে অপরিচ্ছন্ন ছুরি দিয়ে অপারেশন করতেন।"
+      },
+      {
+        "en": "Nearly half of all patients surviving complex amputations succumbed within days to violent hospital gangrene, sepsis, and purulent rotting of wounds.",
+        "bn": "অস্ত্রোপচার সফল হলেও প্রায় অর্ধেক রোগী কয়েকদিনের মধ্যে কাটা ঘা পঁচে গিয়ে রক্তদূষণ এবং ক্ষতজনিত বিষাক্ত গ্যাংগ্রিনে মারা যেত।"
+      },
+      {
+        "en": "Appointed Professor of Surgery at the Glasgow Royal Infirmary, Joseph Lister read Louis Pasteur's papers on fermentation, realizing that wound rot was caused not by bad air, but by living airborne microbes.",
+        "bn": "গ্লাসগো রয়্যাল হাসপাতালে অস্ত্রোপচারের প্রধান হয়ে জোসেফ লিস্টার লুই পাস্তুরের গবেষণা পড়ে বুঝলেন যে ঘা পঁচার কারণ কোনো খারাপ বাতাস নয়, বরং বাতাসে ভেসে বেড়ানো জীবিত জীবাণু।"
+      },
+      {
+        "en": "Learning that raw carbolic acid was used to deodorize and treat municipal cattle sewage in Carlisle, Lister wondered if the chemical could kill parasites in living flesh.",
+        "bn": "তিনি জানতেন যে কার্বলিক অ্যাসিড দিয়ে নর্দমার ময়লা দুর্গন্ধমুক্ত করা হয়; তিনি ভাবলেন এই রাসায়নিক মানুষের ক্ষতের জীবাণু মারতেও ব্যবহার করা যেতে পারে।"
+      },
+      {
+        "en": "In August 1865, treating eleven-year-old boy James Greenlees whose leg had been fractured and pierced by an iron wheel, Lister dressed the compound fracture with carbolic lint.",
+        "bn": "১৮৬৫ সালের আগস্টে চাকার নিচে পা গুঁড়িয়ে যাওয়া এগারো বছর বয়সী এক কিশোরের হাড়ভাঙা ক্ষতে তিনি কার্বলিক অ্যাসিডে ভেজানো পট্টি বেঁধে দিলেন।"
+      },
+      {
+        "en": "Instead of turning black and gangrenous, the wound healed cleanly without a drop of pus, keeping the young boy's leg completely intact.",
+        "bn": "ক্ষত পঁচে পুঁজ বের হওয়ার বদলে তা সম্পূর্ণ পরিচ্ছন্নভাবে জোড়া লেগে গেল এবং ছেলেটি নিজের পা ফিরে পেল।"
+      },
+      {
+        "en": "Lister engineered fine carbolic mist sprayers across operating theaters, cleaned all instruments, and mandated clean white surgeon gowns, banishing surgical sepsis forever.",
+        "bn": "লিস্টার অপারেশন থিয়েটারে কার্বলিক কুয়াশার স্প্রে মেশিন বসালেন এবং সব যন্ত্রপাতি ফুটানো বাধ্যতামূলক করে আধুনিক জীবাণুমুক্ত চিকিৎসার ভিত গড়লেন।"
+      }
+    ]
+  },
+  {
+    "id": "william-harvey-circulation-of-blood-pump",
+    "title": "William Harvey: The Heart as the Living Hydraulic Pump",
+    "titleBn": "উইলিয়াম হার্ভে: মানবদেহে রক্ত সঞ্চালনের বিস্ময়",
+    "author": "Medical Pioneers & Healing",
+    "level": "Intermediate",
+    "category": "Medical Pioneers & Healing",
+    "coverEmoji": "❤️",
+    "summary": "Challenging fourteen centuries of Galenic dogma, royal physician William Harvey measured blood volume, proving mathematically that the heart continuously pumps blood in a closed circulatory loop.",
+    "summaryBn": "প্রাচীন রোমান চিকিৎসক গ্যালেনের চৌদ্দশত বছরের ভুল ধারণা ভেঙে ইংরেজ চিকিৎসক উইলিয়াম হার্ভে প্রমাণ করেছিলেন যে হৃদপিণ্ড একটি পেশিবহুল পাম্প যা সারা শরীরে চক্রাকারে রক্ত ঘোরায়।",
+    "sentences": [
+      {
+        "en": "For over one thousand four hundred years, European medicine dogmatically adhered to the teachings of ancient Roman physician Galen, who asserted that liver constantly generated new blood consumed by body tissues.",
+        "bn": "চৌদ্দশত বছর ধরে চিকিৎসকেরা বিশ্বাস করতেন যে মানুষের যকৃতে অবিরাম নতুন রক্ত তৈরি হয় এবং শরীরের অঙ্গগুলো সেই রক্ত ভাতের মতো খেয়ে ফেলে শেষ করে দেয়।"
+      },
+      {
+        "en": "Serving as physician to King James I and King Charles I, English doctor William Harvey conducted painstaking vivisections of cold-blooded reptiles to observe living cardiac rhythm.",
+        "bn": "ইংল্যান্ডের রাজকীয় চিকিৎসক উইলিয়াম হার্ভে হৃদপিণ্ডের কাজ বোঝার জন্য বিভিন্ন শীতল রক্তের প্রাণীর সচল হৃদযন্ত্রের স্পন্দন ঘণ্টার পর ঘণ্টা পর্যবেক্ষণ করলেন।"
+      },
+      {
+        "en": "By calculating the volume of blood pumped per heartbeat, Harvey arrived at an undeniable mathematical paradox: the heart expelled more blood in half an hour than the entire weight of the human body.",
+        "bn": "প্রতি স্পন্দনে কী পরিমাণ রক্ত বের হয় তার হিসাব কষে তিনি এক অবিশ্বাস্য সত্যে পৌঁছালেন: মাত্র আধ ঘণ্টায় হৃদপিণ্ড মানুষের পুরো শরীরের ওজনের চেয়েও বেশি রক্ত পাম্প করে!"
+      },
+      {
+        "en": "Because it was physically impossible for the liver to synthesize hundreds of pounds of blood every single day, the fluid had to be circulating repeatedly through a closed circuit.",
+        "bn": "যেহেতু যকৃতের পক্ষে দিনে শত শত পাউন্ড নতুন রক্ত তৈরি করা অসম্ভব, তাই এই রক্তকেই শরীরের ভেতরে একটি বন্ধ চক্রাকার পথে বারবার ঘুরতে হবে।"
+      },
+      {
+        "en": "Using simple arm tourniquets, Harvey demonstrated that venous valves permitted blood flow solely toward the heart, while arteries pumped blood away.",
+        "bn": "হাতে দড়ি বেঁধে তিনি শিরাগুলোর ভালভ বা কপাটিকা পরীক্ষা করে দেখালেন যে শিরা দিয়ে রক্ত কেবল হৃদপিণ্ডের দিকে যায় এবং ধমনী দিয়ে তা বাইরের দিকে ছুটে আসে।"
+      },
+      {
+        "en": "In 1628, he published his masterwork 'De Motu Cordis,' predicting the existence of invisible microscopic capillaries connecting arteries and veins decades before microscopes confirmed them.",
+        "bn": "১৬২৮ সালে প্রকাশিত তাঁর কালজয়ী গ্রন্থে তিনি মাইক্রোস্কোপ আবিষ্কারের আগেই ধমনী ও শিরার সংযোগকারী অদৃশ্য সূক্ষ্ম রক্তনালীর অস্তিত্ব নির্ভুলভাবে ভবিষ্যদ্বাণী করলেন।"
+      },
+      {
+        "en": "Harvey transformed medicine from philosophical superstition into empirical physics, establishing physiology upon the bedrock of mathematical calculation.",
+        "bn": "কাল্পনিক কুসংস্কারের হাত থেকে মুক্ত করে উইলিয়াম হার্ভে চিকিৎসাবিজ্ঞানকে গণিত ও আধুনিক শারীরবিদ্যার সুদৃঢ় ভিত্তির ওপর প্রতিষ্ঠিত করলেন।"
+      }
+    ]
+  },
+  {
+    "id": "elizabeth-blackwell-first-female-physician",
+    "title": "Elizabeth Blackwell: America's First Woman Doctor",
+    "titleBn": "এলিজাবেথ ব্ল্যাকওয়েল: চিকিৎসা বিজ্ঞানের প্রথম নারী চিকিৎসক",
+    "author": "Medical Pioneers & Healing",
+    "level": "Intermediate",
+    "category": "Medical Pioneers & Healing",
+    "coverEmoji": "🩺",
+    "summary": "Rejected by twenty-nine medical schools, Elizabeth Blackwell was accepted as an unintentional practical joke at Geneva Medical College, graduating at the head of her class in 1849.",
+    "summaryBn": "উনত্রিশটি মেডিকেল কলেজ প্রত্যাখ্যান করার পর জেনেভা কলেজের ছাত্রদের এক রসিকতার সুযোগে ভর্তি হয়ে এলিজাবেথ ব্ল্যাকওয়েল ১৮৪৯ সালে প্রথম নারী ডাক্তার হিসেবে সর্বোচ্চ স্থান অর্জন করেন।",
+    "sentences": [
+      {
+        "en": "Deeply shaken by watching a dying female friend confess that her agony would have been spared had she been treated by a female physician, young teacher Elizabeth Blackwell resolved to enter medicine.",
+        "bn": "এক মৃত্যুপথযাত্রী বান্ধবী যখন আক্ষেপ করে বললেন যে কোনো নারী চিকিৎসক থাকলে লজ্জায় চিকিৎসা এড়িয়ে তাঁর এই করুণ পরিণতি হতো না, তখন এলিজাবেথ ডাক্তার হওয়ার শপথ নেন।"
+      },
+      {
+        "en": "Every prominent medical institution in Philadelphia and New York rejected her application, with professors advising her to disguise herself as a man or study in France.",
+        "bn": "নিউ ইয়র্ক ও ফিলাডেলফিয়ার প্রতিটি মেডিকেল স্কুল তাঁকে প্রত্যাখ্যান করল এবং শিক্ষকেরা ব্যঙ্গ করে পরামর্শ দিলেন তিনি যেন পুরুষের ছদ্মবেশে চেষ্টা করেন।"
+      },
+      {
+        "en": "The faculty at rural Geneva Medical College in upstate New York deferred the scandalous decision to a student vote, expecting the rough all-male student body to reject her outright.",
+        "bn": "জেনেভা মেডিকেল কলেজের অধ্যাপকেরা দায়িত্ব এড়াতে ছাত্রদের ভোটের ওপর সিদ্ধান্ত ছেড়ে দিলেন, কারণ তারা ভেবেছিল ছাত্ররা অবশ্যই এক বাক্যে প্রস্তাবটি বাতিল করবে।"
+      },
+      {
+        "en": "Treating the ballot as a hilarious practical joke, the 150 male students unanimously voted 'Yes,' suddenly finding an impeccably poised young woman walking into their anatomy hall.",
+        "bn": "এক দুষ্টু তামাশা মনে করে দেড়শত ছাত্র সর্বসম্মতিক্রমে 'হ্যাঁ' ভোট দিয়ে দিল; কিন্তু পরদিনই এক শান্ত ও মার্জিত তরুণী ক্লাসে এসে ঢুকতেই সবাই হতবাক হয়ে গেল।"
+      },
+      {
+        "en": "Through quiet intellectual brilliance and unyielding dignity, Blackwell won the respect of her cynical peers, graduating first in her entire class in 1849.",
+        "bn": "নিজের অসাধারণ মেধা, পরিশ্রম ও অবিচল আত্মমর্যাদা দিয়ে তিনি সকল সহপাঠীর মন জয় করলেন এবং ১৮৪৯ সালে পুরো ক্লাসের মধ্যে প্রথম স্থান অধিকার করে পাস করলেন।"
+      },
+      {
+        "en": "Barred from hospital appointments due to prejudice, she founded the New York Infirmary for Indigent Women and Children, staffed exclusively by female practitioners.",
+        "bn": "কোনো হাসপাতালে চাকরি না পেয়ে তিনি গরিব নারী ও শিশুদের চিকিৎসার জন্য নিউ ইয়র্কে নিজের দাতব্য হাসপাতাল গড়ে তুললেন যেখানে কেবল নারী ডাক্তারেরা সেবা দিতেন।"
+      },
+      {
+        "en": "Blackwell opened medical doors once barred to her gender, proving that compassionate intellect is boundless.",
+        "bn": "মেডিকেলের বন্ধ দরজায় প্রথম ধাক্কা দিয়ে এলিজাবেথ ব্ল্যাকওয়েল প্রমাণ করে গিয়েছিলেন যে মেধা ও সেবার ক্ষেত্রে নারী ও পুরুষের মাঝে কোনো প্রাচীর থাকতে পারে না।"
+      }
+    ]
+  },
+  {
+    "id": "carlos-finlay-mosquito-vector-yellow-fever",
+    "title": "Carlos Finlay: The Cuban Sleuth Who Blamed the Mosquito",
+    "titleBn": "কার্লোস ফিনলে: পীতজ্বরের বাহক মশার রহস্যভেদ",
+    "author": "Medical Pioneers & Healing",
+    "level": "Intermediate",
+    "category": "Medical Pioneers & Healing",
+    "coverEmoji": "🦟",
+    "summary": "Mocked for two decades as 'the mosquito man,' Cuban physician Carlos Finlay proved that the Aedes aegypti mosquito transmitted yellow fever, unlocking tropical disease eradication.",
+    "summaryBn": "টানা কুড়ি বছর 'মশা পাগল' বলে বিদ্রূপ সহ্য করেও কিউবান চিকিৎসক কার্লোস ফিনলে অকাট্যভাবে প্রমাণ করেছিলেন যে এডিস মশাই পীতজ্বরের মরণব্যাধি এক শরীর থেকে অন্য শরীরে ছড়ায়।",
+    "sentences": [
+      {
+        "en": "For centuries throughout the Caribbean and the Americas, yellow fever—the 'Black Vomit'—wiped out whole naval fleets and city populations, believed to emanate from miasmic swamp vapors.",
+        "bn": "শতাব্দী ধরে আমেরিকা ও ক্যারিবীয় অঞ্চলে পীতজ্বর পুরো শহর ও নৌবহর উজাড় করে দিত; সবাই ভাবত কোনো দুর্গন্ধযুক্ত বাতাস থেকেই এই রোগ ছড়াচ্ছে।"
+      },
+      {
+        "en": "Educated in Havana and Paris, Cuban physician Dr. Carlos Finlay rejected airborne and filth theories, focusing on why the epidemic struck selectively in certain households while sparing others.",
+        "bn": "হাভানা ও প্যারিসে শিক্ষিত কিউবান চিকিৎসক ডা. কার্লোস ফিনলে বাতাসের জীবাণুর তত্ত্ব বাতিল করে খুঁজতে লাগলেন কেন এই রোগ এক ঘরে হানা দিয়ে পাশের ঘরকে রেহাই দেয়।"
+      },
+      {
+        "en": "Observing that the disease required direct entry into the bloodstream, in 1881 he presented a daring paper identifying the common domestic striped mosquito, Aedes aegypti, as the biological vector.",
+        "bn": "১৮৮১ সালে তিনি একটি সাহসী গবেষণাপত্রে প্রমাণসহ তুলে ধরলেন যে ডোরাকাটা এডিস মশাই এই রোগের বিষ এক রোগীর রক্ত থেকে চুষে অন্য রোগীর রক্তে ঢুকিয়ে দিচ্ছে।"
+      },
+      {
+        "en": "International medical conferences dismissed Finlay with condescending laughter, mockingly branding the quiet Havana researcher 'the mosquito man' for two decades.",
+        "bn": "আন্তর্জাতিক চিকিৎসকেরা হাসাহাসি করে তাঁর তত্ত্বকে উড়িয়ে দিলেন এবং দীর্ঘ কুড়ি বছর ধরে তাঁকে 'মশা পাগল ডাক্তার' বলে উপহাস করতে লাগলেন।"
+      },
+      {
+        "en": "In 1900, the US Army Yellow Fever Commission led by Dr. Walter Reed arrived in Cuba, utilizing Finlay's meticulously bred mosquito colonies to conduct human transmission tests.",
+        "bn": "১৯০০ সালে মার্কিন কমিশনের প্রধান ওয়াল্টার রিড কিউবায় এসে ফিনলের নিজ হাতে পোষা মশার খাঁচা ব্যবহার করে মানুষের শরীরে পরীক্ষা চালাতে শুরু করলেন।"
+      },
+      {
+        "en": "The tests confirmed Finlay's hypothesis to the letter: eliminating mosquito water-breeding pools in Havana completely halted yellow fever transmissions within ninety days.",
+        "bn": "পরীক্ষায় ফিনলের অনুমান অক্ষরে অক্ষরে সত্য প্রমাণিত হলো: হাভানার মশার প্রজনন ক্ষেত্রগুলো ধ্বংস করতেই মাত্র নব্বই দিনে পীতজ্বর পুরোপুরি বন্ধ হয়ে গেল।"
+      },
+      {
+        "en": "Finlay's patient genius made the construction of the Panama Canal possible and established vector-borne epidemiology as a cornerstone of modern public health.",
+        "bn": "ফিনলের এই আবিষ্কারের ফলেই পানামা খাল নির্মাণ সম্ভব হয়েছিল এবং মশা ও পতঙ্গবাহিত রোগ দমনের নতুন দিগন্ত উন্মোচিত হয়েছিল।"
+      }
+    ]
+  },
+  {
+    "id": "harvey-cushing-father-of-modern-neurosurgery",
+    "title": "Harvey Cushing: Gentle Hands in the Human Brain",
+    "titleBn": "হার্ভে কুশিং: আধুনিক নিউরোসার্জারির রূপকার",
+    "author": "Medical Pioneers & Healing",
+    "level": "Intermediate",
+    "category": "Medical Pioneers & Healing",
+    "coverEmoji": "🧠",
+    "summary": "When brain surgery was considered a near-certain death sentence, Harvey Cushing invented blood pressure monitoring and electrocautery, reducing tumor mortality from ninety to five percent.",
+    "summaryBn": "মস্তিষ্কে অস্ত্রোপচার মানেই যখন অবধারিত মৃত্যু ছিল, তখন হার্ভে কুশিং রক্তচাপ মাপার কাফ ও রক্তপাত বন্ধের ইলেকট্রোকাটারি উদ্ভাবন করে টিউমারের মৃত্যুর হার নব্বই থেকে পাঁচ শতাংশে নামিয়ে আনেন।",
+    "sentences": [
+      {
+        "en": "At the dawn of the twentieth century, operations upon the human brain were regarded by surgeons as catastrophic butcheries, with patient mortality exceeding ninety percent due to shock and uncontrollable bleeding.",
+        "bn": "বিংশ শতাব্দীর শুরুতে মানুষের মস্তিষ্কে অস্ত্রোপচার করাকে এক ভয়াবহ দুঃস্বপ্ন মনে করা হতো, কারণ রক্তপাত ও শকে নব্বই শতাংশ রোগীই টেবিলের ওপর মারা যেত।"
+      },
+      {
+        "en": "Working at Johns Hopkins and later Harvard's Peter Bent Brigham Hospital, surgeon Harvey Cushing resolved to transform brain surgery into a meticulous, life-preserving discipline.",
+        "bn": "জনস হপকিন্স ও হার্ভার্ডের সার্জন হার্ভে কুশিং মস্তিষ্কের অস্ত্রোপচারকে অত্যন্ত সংবেদনশীল ও জীবনরক্ষাকারী এক আধুনিক বিজ্ঞানে রূপান্তরের পণ করলেন।"
+      },
+      {
+        "en": "Visiting Italy in 1901, he recognized the clinical value of Scipione Riva-Rocci's inflatable pneumatic arm cuff, introducing routine blood pressure monitoring into operating rooms worldwide.",
+        "bn": "১৯০১ সালে ইতালি ভ্রমণের সময় তিনি বাহুতে হাওয়া দিয়ে রক্তচাপ মাপার আধুনিক যন্ত্রের গুরুত্ব বুঝে সারা বিশ্বের অপারেশন থিয়েটারে নিয়মিত রক্তচাপ মাপার নিয়ম চালু করলেন।"
+      },
+      {
+        "en": "Cushing insisted upon gentle tissue handling, utilizing delicate silver clips to occlude tiny cerebral vessels and inventing the headlamp suction catheter to maintain a bloodless operative field.",
+        "bn": "তিনি পরম মমতায় মস্তিষ্কের সূক্ষ্ম টিস্যু স্পর্শ করতেন; রুপার ছোট্ট ক্লিপ দিয়ে রক্তনালী বন্ধ করতেন এবং আলো ও সাকশন পাইপ দিয়ে কাজের জায়গা পরিষ্কার রাখতেন।"
+      },
+      {
+        "en": "Collaborating with physicist William Bovie in 1926, he introduced the electrocautery scalpel, allowing surgeons to seal bleeding vessels with high-frequency electric current.",
+        "bn": "১৯২৬ সালে পদার্থবিদ বোভির সাথে মিলে তিনি বিদ্যুতের তারযুক্ত বিশেষ কাটারি উদ্ভাবন করলেন, যা বিদ্যুৎ প্রবাহের তাপে রক্তনালীর মুখ তৎক্ষণাৎ পুড়িয়ে বন্ধ করে দিত।"
+      },
+      {
+        "en": "Over his legendary career, Cushing removed more than two thousand verified brain tumors, lowering surgical mortality rates from ninety percent down to less than eight percent.",
+        "bn": "তাঁর দীর্ঘ কর্মজীবনে তিনি দুই হাজারেরও বেশি জটিল ব্রেন টিউমার সফলভাবে অপসারণ করলেন এবং মৃত্যুর হার নব্বই থেকে আট শতাংশের নিচে নামিয়ে আনলেন।"
+      },
+      {
+        "en": "Revered as the Father of Modern Neurosurgery, Cushing demonstrated that sublime patience and precise delicacy can navigate the sacred canyons of human consciousness.",
+        "bn": "আধুনিক নিউরোসার্জারির জনক হার্ভে কুশিং বিশ্বকে দেখিয়েছিলেন যে পরম ধৈর্য ও নিখুঁত দক্ষতার সাথে মানুষের চেতনার কেন্দ্রবিন্দু মস্তিষ্কেও সফল আরোগ্য সম্ভব।"
+      }
+    ]
+  },
+  {
+    "id": "virchow-cellular-pathology-omnis-cellula",
+    "title": "Rudolf Virchow: All Cells Arise from Cells",
+    "titleBn": "রুডলফ ফিরখো: কোষ থেকেই সব রোগের উৎপত্তি",
+    "author": "Medical Pioneers & Healing",
+    "level": "Intermediate",
+    "category": "Medical Pioneers & Healing",
+    "coverEmoji": "🔬",
+    "summary": "German pathologist Rudolf Virchow demolished ancient bodily humor theories with his famous maxim 'Omnis cellula e cellula,' proving that disease originates inside malfunctioning cells.",
+    "summaryBn": "প্রাচীন শরীরের রসের ভুল ধারণা চুরমার করে জার্মান প্যাথলজিস্ট রুডলফ ফিরখো ঘোষণা করেছিলেন—'কোষ থেকেই কোষের জন্ম'; তিনি প্রমাণ করেছিলেন যেকোনো রোগই আসলে শরীরের কোষের বিকৃতি।",
+    "sentences": [
+      {
+        "en": "For two thousand years since Hippocrates, medicine believed disease resulted from an imbalance of four bodily humors: blood, phlegm, black bile, and yellow bile.",
+        "bn": "হিপোক্রেটিসের সময় থেকে দুই হাজার বছর ধরে বিশ্বাস করা হতো যে কফ, পিত্ত ও রক্তের অসামঞ্জস্যের কারণেই মানুষের শরীরে সব ধরনের রোগের উৎপত্তি হয়।"
+      },
+      {
+        "en": "Young German pathologist Rudolf Virchow examined thousands of diseased human tissues under his microscope at Berlin's Charité Hospital, observing cellular architecture.",
+        "bn": "বার্লিনের চ্যারিটি হাসপাতালের তরুণ গবেষক রুডলফ ফিরখো অণুবীক্ষণ যন্ত্রের নিচে রোগীর শত শত আক্রান্ত মাংসপেশি ও অঙ্গপ্রত্যঙ্গের কোষের গঠন গভীর মনোযোগ দিয়ে পরীক্ষা করলেন।"
+      },
+      {
+        "en": "In 1855, he coined the immortal biological aphorism 'Omnis cellula e cellula'—every cell arises from a pre-existing cell through continuous division.",
+        "bn": "১৮৫৫ সালে তিনি তাঁর কালজয়ী তত্ত্ব প্রচার করলেন: 'প্রতিটি কোষের জন্ম হয় তার আগের পূর্ববর্তী কোষের বিভাজনের মধ্য দিয়ে।'"
+      },
+      {
+        "en": "Publishing his foundational textbook 'Cellular Pathology,' Virchow demonstrated that disease is not an amorphous curse affecting the whole body, but localized anatomical disruptions within individual cells.",
+        "bn": "তাঁর বিখ্যাত বই 'সেলুলার প্যাথলজি'-তে তিনি দেখালেন যে কোনো রোগ পুরো শরীরে আকস্মিক আক্রমণ নয়, বরং শরীরের সুনির্দিষ্ট কোষের কাঠামোগত বিশৃঙ্খলা।"
+      },
+      {
+        "en": "He correctly identified leukemia as an abnormal proliferation of white blood cells and described the pathological mechanisms of thrombosis, embolism, and inflammation.",
+        "bn": "তিনিই প্রথম লিউকেমিয়াকে শ্বেত রক্তকণিকার অস্বাভাবিক অনিয়ন্ত্রিত বৃদ্ধি হিসেবে শনাক্ত করলেন এবং রক্তনালীতে জমাট বাঁধার কারণ ব্যাখ্যা করলেন।"
+      },
+      {
+        "en": "Beyond laboratory benches, Virchow was an ardent social reformer, passionately arguing that medicine is a social science and politics nothing but medicine on a grand scale.",
+        "bn": "গবেষণার বাইরে তিনি একজন সাহসী সমাজসংস্কারক ছিলেন; তিনি বলতেন—চিকিৎসা হলো একটি সামাজিক বিজ্ঞান আর রাজনীতি হলো বৃহত্তর পরিসরে সমাজের চিকিৎসা।"
+      },
+      {
+        "en": "Virchow's cellular paradigm laid the everlasting intellectual cornerstone for modern pathology, oncology, and genetics.",
+        "bn": "ফিরখোর এই কোষীয় তত্ত্ব আজকের আধুনিক ক্যান্সার গবেষণা, জিনতত্ত্ব ও প্যাথলজির মূল ভিত্তি স্থাপন করেছে।"
+      }
+    ]
+  },
+  {
+    "id": "banting-best-insulin-pancreas-diabetes",
+    "title": "Frederick Banting and Charles Best: The Miracle of Insulin",
+    "titleBn": "ফ্রেডেরিক ব্যান্টিং ও চার্লস বেস্ট: ইনসুলিনের জীবনদান",
+    "author": "Medical Pioneers & Healing",
+    "level": "Intermediate",
+    "category": "Medical Pioneers & Healing",
+    "coverEmoji": "🧪",
+    "summary": "Working in a sweltering Toronto laboratory, Frederick Banting and Charles Best extracted insulin from pancreatic islets, reviving comatose diabetic children from certain death.",
+    "summaryBn": "টরন্টোর এক ছোট্ট তপ্ত গবেষণাগারে কুকুরের অগ্ন্যাশয় থেকে ইনসুলিন হরমোন নিষ্কাশন করে ডায়াবেটিসে কোমায় চলে যাওয়া মৃত্যুপথযাত্রী শিশুদের সুস্থ করে তুলেছিলেন ব্যান্টিং ও বেস্ট।",
+    "sentences": [
+      {
+        "en": "Prior to 1921, a diagnosis of Type 1 diabetes in children was an irreversible death sentence, with patients starving on starvation diets of barely four hundred calories until organ failure claimed them.",
+        "bn": "১৯২১ সালের আগে শিশুদের টাইপ-১ ডায়াবেটিস হওয়া মানেই ছিল নিশ্চিত মৃত্যু; তাদের দৈনিক মাত্র চারশো ক্যালোরি খাবার দিয়ে কঙ্কালসার অবস্থায় তিলে তিলে মারা যেতে হতো।"
+      },
+      {
+        "en": "Waking at two o'clock in the morning in London, Ontario, orthopedic surgeon Dr. Frederick Banting jotted down an inspired twenty-five-word hypothesis on tying pancreatic ducts to isolate internal secretions.",
+        "bn": "কানাডার এক রাতে ঘুম ভেঙে উঠে অর্থোপেডিক সার্জন ফ্রেডেরিক ব্যান্টিং মাত্র পঁচিশ শব্দের একটি ধারণা লিখে রাখলেন অগ্ন্যাশয়ের নালী বেঁধে রেখে অভ্যন্তরীণ হরমোন আলাদা করার।"
+      },
+      {
+        "en": "Granted a small, sweltering attic lab and the assistance of medical student Charles Best by Professor Macleod at the University of Toronto, they toiled through the summer heat.",
+        "bn": "টরন্টো বিশ্ববিদ্যালয়ে এক চিলেকোঠার গরম ল্যাব এবং মেডিকেল ছাত্র চার্লস বেস্টের সাহায্য পেয়ে তাঁরা দিনরাত এক করে কাজ শুরু করলেন।"
+      },
+      {
+        "en": "By tying off pancreatic ducts in dogs until digestive enzymes atrophied, they successfully extracted a murky protein liquid from the Islets of Langerhans, naming it 'isletin.'",
+        "bn": "অগ্ন্যাশয়ের পাচক রস শুকিয়ে ফেলে ল্যাঙ্গারহ্যান্সের দ্বীপপুঞ্জ থেকে তাঁরা এক স্বচ্ছ প্রোটিন নির্যাস বের করলেন, যার নাম দেওয়া হলো 'ইনসুলিন'।"
+      },
+      {
+        "en": "Collaborating with biochemist James Collip to purify the extract, they walked into a Toronto hospital ward filled with dozens of comatose children slowly dying of diabetic ketoacidosis.",
+        "bn": "রসায়নবিদ কলিপের সাহায্যে ওষুধটি বিশুদ্ধ করে তাঁরা হাসপাতালের এক ওয়ার্ডে গেলেন যেখানে বহু শিশু ডায়াবেটিসের কোমায় নিশ্চিত মৃত্যুর অপেক্ষায় ছিল।"
+      },
+      {
+        "en": "Injecting the purified insulin from bed to bed, the researchers witnessed a medical miracle: before reaching the final bed, the first comatose children were awakening and sitting up.",
+        "bn": "এক বিছানা থেকে অন্য বিছানায় ইনসুলিন পুশ করতে করতে তাঁরা এক অবিস্মরণীয় অলৌকিক দৃশ্য দেখলেন—শেষ বেডে যাওয়ার আগেই প্রথম বেডের কোমার শিশুরা জেগে উঠে হাসিমুখে বসে পড়ল!"
+      },
+      {
+        "en": "Awarded the 1923 Nobel Prize, Banting sold the patent to the University of Toronto for a symbolic one dollar, declaring: 'Insulin does not belong to me, it belongs to the world.'",
+        "bn": "১৯২৩ সালে নোবেল পাওয়া ব্যান্টিং মাত্র এক ডলারের প্রতীকী মূল্যে এই পেটেন্ট বিশ্ববিদ্যালয়কে লিখে দিয়ে বললেন: 'ইনসুলিন আমার সম্পত্তি নয়, এটি পুরো বিশ্বের অধিকার।'"
+      }
+    ]
+  }
+]

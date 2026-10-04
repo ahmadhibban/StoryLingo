@@ -1,0 +1,617 @@
+[
+  {
+    "id": "nelson-mandela-robben-island-long-walk",
+    "title": "Nelson Mandela: The Long Walk and Robben Island Quarry",
+    "titleBn": "নেলসন ম্যান্ডেলা: রবেন দ্বীপের কারাগার ও মুক্তির মহাকাব্য",
+    "author": "Heroes of Conscience",
+    "level": "Intermediate",
+    "category": "Heroes of Conscience",
+    "coverEmoji": "⛓️",
+    "summary": "Imprisoned for twenty-seven years by the apartheid regime, Nelson Mandela transformed harsh quarry labor into a university of reconciliation, emerging to unite South Africa.",
+    "summaryBn": "বর্ণবাদী সরকারের হাতে সাতাশ বছর রবেন দ্বীপের পাথুরে কারাগারে বন্দি থেকেও নেলসন ম্যান্ডেলা অন্তরে প্রতিহিংসা পুষে রাখেননি, বরং ক্ষমার আলোয় এক নতুন দক্ষিণ আফ্রিকা গড়ে তুলেছিলেন।",
+    "sentences": [
+      {
+        "en": "Sentenced to life imprisonment at the 1964 Rivonia Trial for resisting South Africa's brutal racial apartheid, Nelson Mandela was transported to the windswept isolation of Robben Island.",
+        "bn": "১৯৬৪ সালে রিভোনিয়া বিচারের পর দক্ষিণ আফ্রিকার নিষ্ঠুর বর্ণবাদের বিরুদ্ধে রুখে দাঁড়ানোর অপরাধে নেলসন ম্যান্ডেলাকে যাবজ্জীবন কারাদণ্ড দিয়ে নির্জন রবেন দ্বীপে পাঠানো হয়।"
+      },
+      {
+        "en": "Confined to a cramped concrete cell measuring just seven feet by eight feet, he slept on a thin straw mat beside a primitive iron sanitation bucket.",
+        "bn": "মাত্র সাত বাই আট ফুটের এক স্যাঁতসেঁতে সংকীর্ণ কুঠুরিতে একটি পাতলা খড়ের মাদুর আর লোহার বালতিই ছিল তাঁর দীর্ঘদিনের সঙ্গী।"
+      },
+      {
+        "en": "For decades, he was forced into the blinding lime quarry, swinging heavy pickaxes under blazing sun until white dust permanently scarred his tear ducts.",
+        "bn": "প্রচণ্ড রোদে চুনাপাথরের খনিতে ঘণ্টার পর ঘণ্টা ভারী হাতুড়ি দিয়ে পাথর ভাঙার কাজ করতে গিয়ে খনির সাদা ধুলোয় তাঁর চোখের অশ্রুনালী স্থায়ীভাবে ক্ষতিগ্রস্ত হয়।"
+      },
+      {
+        "en": "Mandela transformed the bleak quarry into a political academy, teaching fellow prisoners history and intentionally learning Afrikaans to understand the mindset of his wardens.",
+        "bn": "ম্যান্ডেলা সেই নিদারুণ কারাগারকেই মুক্তচিন্তার বিদ্যাপীঠে রূপ দিলেন; তিনি সহবন্দীদের ইতিহাস পড়াতেন এবং কারারক্ষীদের মনস্তত্ত্ব বুঝতে তাদের আফ্রিকান্স ভাষা শিখলেন।"
+      },
+      {
+        "en": "He recognized that bitter hatred was a cage far more confining than steel bars, resolving that liberation required freeing both the oppressed and their fearful oppressors.",
+        "bn": "তিনি উপলব্ধি করেছিলেন যে অন্ধ ঘৃণা লোহার শিকলের চেয়েও ভয়ঙ্কর এক কারাগার; তাই প্রকৃত মুক্তি পেতে হলে নির্যাতিতের সাথে সাথে নির্যাতনকারীর অন্তরকেও মুক্ত করতে হবে।"
+      },
+      {
+        "en": "Released in 1990 amid thunderous global jubilation, he rejected calls for bloody vengeance, leading negotiations that established non-racial universal democracy.",
+        "bn": "১৯৯০ সালে বিশ্ববাসীর অবিস্মরণীয় উল্লাসের মাঝে মুক্তি পেয়ে তিনি প্রতিশোধের ডাক না দিয়ে সব বর্ণের মানুষের সমান অধিকার নিশ্চিত করার ঐতিহাসিক আলোচনা শুরু করলেন।"
+      },
+      {
+        "en": "Inaugurated as South Africa's first Black president, Mandela wore the Springbok rugby jersey to unify a fractured nation through the sublime grace of forgiveness.",
+        "bn": "প্রথম কৃষ্ণাঙ্গ রাষ্ট্রপতি হিসেবে শপথ নিয়ে তিনি বিভক্ত জাতিকে ঐক্যবদ্ধ করতে জাতীয় রাগবি দলের জার্সি গায়ে চাপিয়ে ক্ষমার এক অনুপম দৃষ্টান্ত স্থাপন করলেন।"
+      }
+    ]
+  },
+  {
+    "id": "mahatma-gandhi-dandi-salt-march",
+    "title": "Mahatma Gandhi: The Pinch of Salt that Shook an Empire",
+    "titleBn": "মহাত্মা গান্ধী এবং ডান্ডি লবণ পদযাত্রা",
+    "author": "Heroes of Conscience",
+    "level": "Intermediate",
+    "category": "Heroes of Conscience",
+    "coverEmoji": "🧂",
+    "summary": "Marching two hundred and forty miles to the Arabian Sea coast, Mahatma Gandhi lifted a fistful of natural salt, crumbling the moral legitimacy of British colonial rule in India.",
+    "summaryBn": "গুজরাটের উপকূল ধরে ২৪০ মাইল হেঁটে গিয়ে সমুদ্রের কূল থেকে একমুঠো প্রাকৃতিক লবণ তুলে নিয়েছিলেন মহাত্মা গান্ধী; এই সামান্য লবণই ব্রিটিশ রাজের ভিত নাড়িয়ে দিয়েছিল।",
+    "sentences": [
+      {
+        "en": "Under British colonial ordinances in India, poor peasants were strictly forbidden from harvesting natural sea salt, forced instead to pay an exorbitant tax on a fundamental necessity of life.",
+        "bn": "ভারতে ব্রিটিশদের তৈরি কঠোর আইনে গরিব কৃষকদের সাগরের প্রাকৃতিক লবণ তোলার ওপর নিষেধাজ্ঞা ছিল এবং জীবনের এই মৌলিক উপাদানের ওপর চড়া কর চাপানো হয়েছিল।"
+      },
+      {
+        "en": "On March 12, 1930, sixty-year-old Mohandas Gandhi departed his Sabarmati Ashram with seventy-eight devoted followers, embarking on a daring pilgrimage of civil disobedience.",
+        "bn": "১৯৩০ সালের ১২ মার্চ ষাট বছর বয়সী মোহনদাস গান্ধী তাঁর ৭৮ জন অনুসারীকে সাথে নিয়ে সবরমতী আশ্রম থেকে অহিংস আইন অমান্য আন্দোলনের এক অবিস্মরণীয় পদযাত্রা শুরু করলেন।"
+      },
+      {
+        "en": "Clad in a simple handspun khadi dhoti and gripping a bamboo walking stick, he walked twenty-four days through dusty villages, drawing tens of thousands into his peaceful procession.",
+        "bn": "হাতে বাঁশের লাঠি আর পরনে খদ্দরের ধুতি পরে তিনি একটানা চব্বিশ দিন গ্রামের পর গ্রাম হেঁটে চললেন; পথের দুই ধারে লাখ লাখ মানুষ তাঁর মিছিলে শামিল হলো।"
+      },
+      {
+        "en": "Reaching the coastal village of Dandi on the Arabian Sea on April 5, Gandhi offered dawn prayers before wading into the foaming morning surf.",
+        "bn": "৫ এপ্রিল ভোরে ডান্ডি সমুদ্র সৈকতে পৌঁছে তিনি ভোরের প্রার্থনা সারলেন এবং আরব সাগরের ফেনিল জলে শান্ত পদক্ষেপে নেমে গেলেন।"
+      },
+      {
+        "en": "Bending down on the sandy beach, he lifted a clump of salt-crusted mud into the morning light, famously declaring: 'With this, I am shaking the foundations of the British Empire.'",
+        "bn": "সৈকতের কাদা থেকে একমুঠো নোনা মাটি ও লবণের দলা তুলে নিয়ে তিনি বললেন: 'এই একমুঠো লবণ দিয়ে আমি ব্রিটিশ সাম্রাজ্যের ভিত্তিমূল নাড়িয়ে দিচ্ছি।'"
+      },
+      {
+        "en": "His simple symbolic act ignited an uncontrollable nationwide uprising, with millions boiling seawater in household pots while enduring brutal police batons without raising a hand.",
+        "bn": "এই প্রতীকী ঘটনায় দেশজুড়ে প্রতিবাদের আগুন জ্বলে উঠল; পুলিশের লাঠিচার্জ সহ্য করেও লাখ লাখ মানুষ সমুদ্রের পানি ফুটিয়ে লবণ তৈরি করে আইন অমান্য করল।"
+      },
+      {
+        "en": "The Salt March proved that truthful moral conviction and disciplined nonviolence can disarm the mightiest imperial armies on Earth.",
+        "bn": "ডান্ডি পদযাত্রা বিশ্বকে দেখিয়ে দিল যে আত্মিক শক্তি ও সুশৃঙ্খল অহিংসার সামনে বিশ্বের সবচেয়ে পরাক্রমশালী সাম্রাজ্যও মাথা নত করতে বাধ্য হয়।"
+      }
+    ]
+  },
+  {
+    "id": "martin-luther-king-i-have-a-dream-lincoln",
+    "title": "Martin Luther King Jr.: The Dream on the Lincoln Steps",
+    "titleBn": "মার্টিন লুথার কিং জুনিয়র: স্বপ্নের বাতিঘর",
+    "author": "Heroes of Conscience",
+    "level": "Intermediate",
+    "category": "Heroes of Conscience",
+    "coverEmoji": "🕊️",
+    "summary": "Standing before two hundred and fifty thousand citizens at the Lincoln Memorial, Dr. Martin Luther King Jr. delivered his immortal prophecy of racial brotherhood and justice.",
+    "summaryBn": "ওয়াশিংটনের লিংকন মেমোরিয়ালের সিঁড়িতে আড়াই লাখ মানুষের সামনে দাঁড়িয়ে ড. মার্টিন লুথার কিং জুনিয়র বর্ণবাদের অবসান ও সাম্যের স্বপ্নবাণী উচ্চারণ করেছিলেন।",
+    "sentences": [
+      {
+        "en": "On August 28, 1963, a quarter of a million civil rights marchers gathered under a sweltering summer sun around the Reflecting Pool in Washington, D.C.",
+        "bn": "১৯৬৩ সালের ২৮ আগস্ট প্রখর রোদ উপেক্ষা করে ওয়াশিংটনের লিংকন মেমোরিয়ালের দীঘির চারপাশে আড়াই লাখ মুক্তিকামী নাগরিক সমবেত হয়েছিলেন।"
+      },
+      {
+        "en": "Stepping before the microphones beneath the giant marble statue of Abraham Lincoln, Dr. Martin Luther King Jr. surveyed a sea of hopeful Black and white faces.",
+        "bn": "আব্রাহাম লিংকনের বিশাল মার্বেল মূর্তির সামনে মাইকের কাছে দাঁড়িয়ে ড. মার্টিন লুথার কিং জুনিয়র কালো ও সাদা মানুষের এক আশাবাদী জনসমুদ্রের দিকে তাকালেন।"
+      },
+      {
+        "en": "Departing from his prepared written manuscript at the urging of gospel singer Mahalia Jackson, King launched into his soaring, prophetic extemporaneous vision.",
+        "bn": "গায়িকা মাহালিয়া জ্যাকসনের উৎসাহে হাতের তৈরি কাগজের বক্তব্য সরিয়ে রেখে কিং তাঁর অন্তরের গভীরে লুকিয়ে থাকা এক স্বপ্নময় ভবিষ্যৎ বর্ণনা করতে শুরু করলেন।"
+      },
+      {
+        "en": "He proclaimed: 'I have a dream that one day on the red hills of Georgia, the sons of former slaves and the sons of former slave owners will sit down together at the table of brotherhood.'",
+        "bn": "তিনি বজ্রকণ্ঠে বললেন: 'আমার একটি স্বপ্ন আছে—একদিন জর্জিয়ার লাল পাহাড়ের চূড়ায় দাস ও তাদের মালিকদের সন্তানেরা ভ্রাতৃত্বের টেবিলে একসাথে বসবে।'"
+      },
+      {
+        "en": "He longed for a future where his four young children would be judged not by the color of their skin, but solely by the content of their character.",
+        "bn": "তিনি এমন এক আগামীর আশা প্রকাশ করলেন যেখানে তাঁর চার সন্তানকে তাদের ত্বকের রঙ দেখে নয়, বরং তাদের নৈতিক চরিত্র ও গুণ দিয়ে মূল্যায়ন করা হবে।"
+      },
+      {
+        "en": "His majestic cadence echoed across television broadcasts worldwide, turning the tide of public sentiment toward the historic passage of the 1964 Civil Rights Act.",
+        "bn": "তাঁর কণ্ঠস্বরের জাদুকরী আবেদন বিশ্বজুড়ে আলোড়ন তুলল এবং আমেরিকার বুকে ১৯৬৪ সালের ঐতিহাসিক নাগরিক অধিকার আইন পাসের পথ প্রশস্ত করল।"
+      },
+      {
+        "en": "Though assassinated five years later in Memphis, King's immortal dream continues to guide every movement fighting for human dignity and equality.",
+        "bn": "পাঁচ বছর পর মেমফিসে আততায়ীর গুলিতে নিহত হলেও তাঁর সেই অমর স্বপ্ন আজও বিশ্বজুড়ে মানুষের সমানাধিকারের সংগ্রামে চিরন্তন প্রেরণা হয়ে জ্বলছে।"
+      }
+    ]
+  },
+  {
+    "id": "vaclav-havel-power-of-the-powerless",
+    "title": "Václav Havel and the Velvet Revolution of Truth",
+    "titleBn": "ভাৎস্লাভ হাভেল এবং সত্যের ভেলভেট বিপ্লব",
+    "author": "Heroes of Conscience",
+    "level": "Intermediate",
+    "category": "Heroes of Conscience",
+    "coverEmoji": "🎭",
+    "summary": "Dissident playwright Václav Havel endured communist prisons for demanding human rights, leading Czechoslovakia's bloodless Velvet Revolution to become president.",
+    "summaryBn": "কমিউনিস্ট স্বৈরশাসনের কারাগারে বহু বছর কাটিয়েও ভিন্নমতাবলম্বী নাট্যকার ভাৎস্লাভ হাভেল অহিংস 'ভেলভেট বিপ্লব'-এর নেতৃত্ব দিয়ে চেকোস্লোভাকিয়ার প্রেসিডেন্ট নির্বাচিত হন।",
+    "sentences": [
+      {
+        "en": "Under the suffocating totalitarian censorship of Soviet-dominated Czechoslovakia, playwright Václav Havel used theater and clandestine samizdat essays to satirize bureaucratic absurdity.",
+        "bn": "সোভিয়েত নিয়ন্ত্রিত চেকোস্লোভাকিয়ার কঠোর সেন্সরশিপের মুখে নাট্যকার ভাৎস্লাভ হাভেল গোপন ব্যঙ্গাত্মক নাটক ও প্রবন্ধের মাধ্যমে স্বৈরাচারী ব্যবস্থার অন্তঃসারশূন্যতা ফুটিয়ে তুলতেন।"
+      },
+      {
+        "en": "In his seminal 1978 essay 'The Power of the Powerless,' he illustrated how a simple greengrocer refusing to hang state propaganda in his shop window could shatter ideological illusions.",
+        "bn": "১৯৭৮ সালে তাঁর বিখ্যাত প্রবন্ধ 'ক্ষমতাহীনদের শক্তি'-তে তিনি দেখিয়েছিলেন কীভাবে একজন সাধারণ সবজি বিক্রেতা দোকানে মিথ্যা স্লোগান টাঙাতে অস্বীকৃতি জানালে পুরো ব্যবস্থার ভিত কেঁপে ওঠে।"
+      },
+      {
+        "en": "Co-founding the Charter 77 human rights petition, Havel was repeatedly arrested, spending nearly five grueling years in labor prisons with broken health.",
+        "bn": "'চার্টার ৭৭' মানবাধিকার সনদের সহ-প্রতিষ্ঠাতা হিসেবে হাভেলকে বারবার গ্রেফতার করা হয় এবং প্রায় পাঁচ বছর তাঁকে কঠোর শ্রমাগারে কাটাতে হয়।"
+      },
+      {
+        "en": "When student demonstrations erupted across Prague in November 1989, hundreds of thousands gathered in Wenceslas Square, jingling keyrings as a chorus of peaceful defiance.",
+        "bn": "১৯৮৯ সালের নভেম্বরে প্রাগ শহরে ছাত্র বিক্ষোভ ছড়িয়ে পড়লে লাখ লাখ মানুষ ওয়েন্সেসলাস স্কয়ারে জড়ো হয়ে চাবির গোছা নেড়ে স্বৈরাচারের অবসানের ঘণ্টা বাজিয়ে দিল।"
+      },
+      {
+        "en": "Stepping onto the balcony of the Magic Lantern theater, Havel urged the masses to conquer hatred through love, leading the remarkably bloodless 'Velvet Revolution.'",
+        "bn": "থিয়েটারের ব্যালকনিতে দাঁড়িয়ে হাভেল জনতাকে ক্ষোভের বদলে ভালোবাসার শক্তিতে অন্যায়কে পরাজিত করার আহ্বান জানালেন এবং রক্তপাতহীন 'ভেলভেট বিপ্লব' সম্পন্ন হলো।"
+      },
+      {
+        "en": "Within weeks, the communist regime collapsed, and the humble imprisoned dramatist was joyfully inaugurated as president of a free democratic republic.",
+        "bn": "কয়েক সপ্তাহের মধ্যে স্বৈরাচারী সরকারের পতন ঘটল এবং কিছুদিন আগেও বন্দি থাকা সেই বিনয়ী নাট্যকার মুক্ত গণতান্ত্রিক প্রজাতন্ত্রের রাষ্ট্রপতি হিসেবে অভিষিক্ত হলেন।"
+      },
+      {
+        "en": "Havel lived by the uncompromising motto: 'Truth and love must prevail over lies and hatred.'",
+        "bn": "হাভেল আজীবন তাঁর মূল বিশ্বাসে অটল ছিলেন: 'মিথ্যা ও ঘৃণার বিরুদ্ধে সত্য এবং ভালোবাসাকে জয়ী হতেই হবে।'"
+      }
+    ]
+  },
+  {
+    "id": "simon-bolivar-el-libertador-andes",
+    "title": "Simón Bolívar: El Libertador Across the Andes",
+    "titleBn": "সিমন বলিভার: আন্দিজ পর্বতের মুক্তিদূত",
+    "author": "Heroes of Conscience",
+    "level": "Intermediate",
+    "category": "Heroes of Conscience",
+    "coverEmoji": "⚔️",
+    "summary": "Wealthy Venezuelan aristocrat Simón Bolívar gave up his fortune, leading a ragged army over the icy Andes to liberate six South American nations from Spanish colonial rule.",
+    "summaryBn": "নিজের বিপুল পারিবারিক ধনসম্পদ ত্যাগ করে সিমন বলিভার এক সাধারণ গেরিলা বাহিনীকে সাথে নিয়ে বরফে ঢাকা আন্দিজ পর্বত অতিক্রম করে দক্ষিণ আমেরিকার ছয়টি দেশকে মুক্ত করেছিলেন।",
+    "sentences": [
+      {
+        "en": "Born into one of the wealthiest aristocratic dynasties in Caracas, Venezuela, Simón Bolívar was deeply transformed by the ideals of the European Enlightenment during his travels abroad.",
+        "bn": "ভেনেজুয়েলার কারাকাসের এক ধনাঢ্য অভিজাত পরিবারে জন্ম নেওয়া সিমন বলিভার ইউরোপ সফরের সময় ফরাসি বিপ্লব ও রেনেসাঁর মানবতাবাদী দর্শনে গভীরভাবে উদ্বুদ্ধ হন।"
+      },
+      {
+        "en": "Standing atop Rome's Monte Sacro in 1805, the twenty-two-year-old took a solemn oath never to rest until the Spanish colonial yoke had been broken from America's neck.",
+        "bn": "১৮০৫ সালে রোমের এক পাহাড়ের চূড়ায় দাঁড়িয়ে বাইশ বছর বয়সী বলিভার প্রতিজ্ঞা করেছিলেন যতদিন না স্পেনীয় ঔপনিবেশিক শাসন থেকে আমেরিকাকে মুক্ত করছেন, ততদিন তিনি বিশ্রাম নেবেন না।"
+      },
+      {
+        "en": "In 1819, facing insurmountable royalist armies, he executed an audacity that stunned military history: marching two thousand barefoot men across the flooded plains and freezing Andes peaks.",
+        "bn": "১৮১৯ সালে স্পেনীয় বাহিনীর চোখে ধুলো দিতে তিনি সামরিক ইতিহাসের সবচেয়ে দুঃসাহসিক চালটি চাললেন—পায়ে হেঁটে দুই হাজার সৈন্য নিয়ে বরফাচ্ছন্ন আন্দিজ পর্বত পার হলেন।"
+      },
+      {
+        "en": "Enduring paralyzing altitude sickness and freezing blizzards that killed hundreds of horses, his ragged soldiers descended unexpectedly into the Boyacá valley.",
+        "bn": "হাড়কাঁপানো বরফঝড় ও শ্বাসকষ্টের অবর্ণনীয় কষ্ট সহ্য করে তাঁর সৈন্যরা আকস্মিকভাবে বোয়াকা উপত্যকায় নেমে এসে হতভম্ব স্পেনীয় বাহিনীকে পরাজিত করল।"
+      },
+      {
+        "en": "Over two decades of relentless campaigns, Bolívar liberated Venezuela, Colombia, Ecuador, Peru, and Bolivia—a territory larger than all of Western Europe.",
+        "bn": "দুই দশকের অবিরাম রক্তক্ষয়ী যুদ্ধে বলিভার ভেনেজুয়েলা, কলম্বিয়া, ইকুয়েডর, পেরু ও বলিভিয়াকে স্বাধীনতা এনে দিলেন, যার আয়তন ছিল পুরো পশ্চিম ইউরোপের চেয়েও বড়।"
+      },
+      {
+        "en": "He envisioned a united, pan-American federation of free republics living in harmonious constitutional brotherhood, free from foreign tyranny.",
+        "bn": "তিনি লাতিন আমেরিকার স্বাধীন দেশগুলোর একটি ঐক্যবদ্ধ গণতান্ত্রিক কনফেডারেশনের স্বপ্ন দেখতেন যা বিদেশি আধিপত্যের বিরুদ্ধে ঐক্যবদ্ধ থাকবে।"
+      },
+      {
+        "en": "Revered forever as 'El Libertador,' Bolívar proved that immense wealth is meaningless compared to dedicating one's earthly breath to the cause of liberty.",
+        "bn": "'এল লিবের্তাদোর' বা মুক্তিদূত হিসেবে সম্মানিত বলিভার প্রমাণ করেছিলেন যে নিজের সুখ বিসর্জন দিয়ে মানুষের স্বাধীনতার জন্য লড়াই করাই জীবনের শ্রেষ্ঠ সার্থকতা।"
+      }
+    ]
+  },
+  {
+    "id": "joan-of-arc-maid-of-orleans-trial",
+    "title": "Joan of Arc: The Maid of Orléans and the Trial of Fire",
+    "titleBn": "জোয়ান অব আর্ক: অরলিন্সের বীরাঙ্গনা ও আত্মত্যাগ",
+    "author": "Heroes of Conscience",
+    "level": "Intermediate",
+    "category": "Heroes of Conscience",
+    "coverEmoji": "🔥",
+    "summary": "A teenage peasant girl from Domrémy obeyed celestial voices to lift the siege of Orléans and crown the French king, facing martyrdom at the stake with angelic grace.",
+    "summaryBn": "ফ্রান্সের এক নিরীহ গ্রাম্য কিশোরী ঐশ্বরিক আদেশ পেয়ে অরলিন্স শহরের অবরোধ মুক্ত করেন এবং রাজাকে সিংহাসনে বসান; শেষ পর্যন্ত অন্যায় বিচারে আগুনে পুড়ে শহীদ হন জোয়ান অব আর্ক।",
+    "sentences": [
+      {
+        "en": "In the midst of the devastating Hundred Years' War, rural France was fractured by English occupation and internal betrayal, reducing the rightful Dauphin Charles to despair.",
+        "bn": "শতবর্ষব্যাপী যুদ্ধের ভয়াবহ পরিস্থিতিতে ইংল্যান্ডের দখলদারিত্ব ও গৃহযুদ্ধে বিধ্বস্ত ফ্রান্স যখন ধ্বংসের দ্বারপ্রান্তে, তখন ফরাসি যুবরাজ হতাশায় ভেঙে পড়েছিলেন।"
+      },
+      {
+        "en": "Seventeen-year-old illiterate peasant girl Joan of Arc arrived at Chinon castle, insisting that celestial voices commanded her to lift the siege of Orléans.",
+        "bn": "সতেরো বছর বয়সী নিরক্ষর গ্রাম্য মেয়ে জোয়ান অব আর্ক রাজদরবারে হাজির হয়ে জানালেন যে ঐশ্বরিক কণ্ঠস্বর তাঁকে অবরুদ্ধ অরলিন্স শহর মুক্ত করার নির্দেশ দিয়েছে।"
+      },
+      {
+        "en": "Given suit of white plate armor and carrying a banner emblazoned with Christ and fleur-de-lis, she rode into battle, inspiring demoralized French troops to miraculous victory in nine days.",
+        "bn": "সাদা বর্ম পরে এবং পবিত্র পতাকা হাতে ঘোড়ায় চড়ে তিনি রণক্ষেত্রে প্রবেশ করলেন; তাঁর উপস্থিতিতে উৎসাহিত হয়ে ভগ্নোৎসাহ ফরাসি সেনারা মাত্র নয় দিনে ব্রিটিশ অবরোধ ভেঙে দিল।"
+      },
+      {
+        "en": "Guiding Charles through enemy territory to Reims Cathedral, she stood proudly beside him as he was consecrated King of France.",
+        "bn": "শত্রুদের বুক চিরে যুবরাজ চার্লসকে রিমস ক্যাথেড্রালে নিয়ে গিয়ে তাঁর মাথায় ফ্রান্সের রাজার মুকুট পরিয়ে দেওয়ার সময় গর্বভরে পাশে দাঁড়িয়েছিলেন এই তরুণী।"
+      },
+      {
+        "en": "Captured later by Burgundian troops and sold to the English, she was subjected to a biased theological show-trial in Rouen designed to discredit her miraculous mission.",
+        "bn": "পরে শত্রুদের হাতে বন্দি হয়ে ইংরেজদের কাছে বিক্রি হওয়ার পর রুয়েন শহরে তাঁর বিরুদ্ধে এক প্রহসনের ধর্মীয় বিচার শুরু করা হয়।"
+      },
+      {
+        "en": "Cross-examined by hostile inquisitors, the teenage maiden answered with astonishing wit, clarity, and unyielding faith in her moral mission.",
+        "bn": "ঘাঘ বিচারকদের প্যাঁচালো প্রশ্নের মুখেও সেই কিশোরী তাঁর প্রখর বুদ্ধি, সারল্য ও গভীর আত্মবিশ্বাসের সাথে অবিচল সত্যে অটল রইলেন।"
+      },
+      {
+        "en": "Burned at the stake in the public marketplace at age nineteen, she clutched a wooden crucifix, her fearless sacrifice forging the modern soul of French patriotism.",
+        "bn": "মাত্র উনিশ বছর বয়সে বাজারে সবার সামনে আগুনে পুড়িয়ে মারার সময়ও তিনি কাঠের ক্রুশ বুকে চেপে রেখেছিলেন; তাঁর সেই আত্মত্যাগ ফ্রান্সের দেশপ্রেমের অমর প্রতীক হয়ে আছে।"
+      }
+    ]
+  },
+  {
+    "id": "toussaint-louverture-haitian-revolution",
+    "title": "Toussaint Louverture: The Black Spartacus of Haiti",
+    "titleBn": "তুসাঁ লুভারতুর্: হাইতির দাস বিদ্রোহের মহানায়ক",
+    "author": "Heroes of Conscience",
+    "level": "Intermediate",
+    "category": "Heroes of Conscience",
+    "coverEmoji": "⚔️",
+    "summary": "Born into chattel slavery on Saint-Domingue, Toussaint Louverture organized enslaved sugar workers into a disciplined army that defeated British, Spanish, and Napoleonic forces.",
+    "summaryBn": "হাইতির আখের খামারে দাস হিসেবে জন্ম নেওয়া তুসাঁ লুভারতুর্ দাসদের নিয়ে এক অপরাজেয় সুশৃঙ্খল বাহিনী গড়ে তোলেন এবং ব্রিটিশ ও ফরাসি ঔপনিবেশিক শক্তিকে পরাজিত করে স্বাধীনতা ছিনিয়ে নেন।",
+    "sentences": [
+      {
+        "en": "On the Caribbean island colony of Saint-Domingue, half a million enslaved Africans toiled under brutal plantation terror, generating colossal wealth for French sugar and coffee magnates.",
+        "bn": "ক্যারিবীয় দ্বীপ সেন্ট-ডমিঙ্গোতে প্রায় পাঁচ লাখ আফ্রিকান মানুষকে পশুর মতো খাটিয়ে ফরাসি বণিকেরা চিনি ও কফির বিশাল মুনাফা লুট করত।"
+      },
+      {
+        "en": "Self-educated in herbal medicine and classical military strategy, enslaved coachman François-Dominique Toussaint stepped into leadership when a massive slave revolt erupted in 1791.",
+        "bn": "ভেষজ চিকিৎসা ও প্রাচীন সামরিক কৌশলে পারদর্শী দাস সারোয়ান তুসাঁ ১৭৯১ সালে দাস বিদ্রোহের দাবানল ছড়িয়ে পড়লে তার মূল নেতৃত্বে আবির্ভূত হন।"
+      },
+      {
+        "en": "Adopting the surname Louverture—meaning 'the opening'—he outmaneuvered seasoned European armies through lightning jungle guerilla maneuvers and disciplined European tactics.",
+        "bn": "'লুভারতুর্' বা 'মুক্তির পথ' নাম ধারণ করে তিনি গহিন বনের গেরিলা যুদ্ধ ও সুশৃঙ্খল সামরিক কৌশলে ঘাঘ ইউরোপীয় জেনারেলদের বারবার পরাস্ত করলেন।"
+      },
+      {
+        "en": "He defeated invasions by the British Empire and Spanish kingdom, abolishing slavery across the island and penning a progressive constitution guaranteeing equality for all races.",
+        "bn": "তিনি ব্রিটিশ ও স্পেনীয় আক্রমণ প্রতিহত করে দ্বীপে দাসপ্রথা চিরতরে বিলুপ্ত করলেন এবং সব বর্ণের মানুষের সমতা নিশ্চিত করে প্রগতিশীল সংবিধান রচনা করলেন।"
+      },
+      {
+        "en": "When Napoleon Bonaparte dispatched a massive armada of forty thousand seasoned soldiers to restore slavery, Louverture fought with heroic tenacity.",
+        "bn": "নেপোলিয়ন যখন দাসপ্রথা পুনরায় চালু করার জন্য চল্লিশ হাজার সৈন্যের বিশাল নৌবহর পাঠালেন, তখন লুভারতুর্ বীরের মতো শেষ নিঃশ্বাস পর্যন্ত প্রতিরোধ গড়ে তুললেন।"
+      },
+      {
+        "en": "Deceitfully lured to a peace negotiation, he was captured and deported to freeze to death in a grim Alpine fortress in France.",
+        "bn": "শান্তি আলোচনার ছলনায় বিশ্বাসঘাতকতা করে তাঁকে বন্দি করা হয় এবং ফ্রান্সের বরফশীতল আল্পাইন দুর্গে না খাইয়ে তিলে তিলে মেরে ফেলা হয়।"
+      },
+      {
+        "en": "His prophetic parting words came true: his lieutenants defeated Napoleon's army, founding Haiti in 1804 as the first independent Black republic in the world.",
+        "bn": "মৃত্যুর আগে তাঁর ভবিষ্যৎবাণী সত্যি করে তাঁর সহযোদ্ধারা ১৮০৪ সালে নেপোলিয়নের বাহিনীকে পুরোপুরি বিতাড়িত করে বিশ্বের প্রথম স্বাধীন কৃষ্ণাঙ্গ প্রজাতন্ত্র 'হাইতি' প্রতিষ্ঠা করে।"
+      }
+    ]
+  },
+  {
+    "id": "harriet-tubman-underground-railroad-conductor",
+    "title": "Harriet Tubman: Moses of the Underground Railroad",
+    "titleBn": "হ্যারিয়েট টাবম্যান: মুক্তির গোপন রেলপথের কাণ্ডারি",
+    "author": "Heroes of Conscience",
+    "level": "Intermediate",
+    "category": "Heroes of Conscience",
+    "coverEmoji": "🚂",
+    "summary": "Escaping Maryland slavery, Harriet Tubman made nineteen perilous covert journeys back into the American South, guiding hundreds of enslaved people to freedom without losing a single passenger.",
+    "summaryBn": "দাসত্বের শৃঙ্খল ভেঙে পালিয়ে গিয়েও হ্যারিয়েট টাবম্যান নিজের জীবনের ঝুঁকি নিয়ে উনিশ বার ফিরে এসেছিলেন এবং শত শত মানুষকে গোপন পথে মুক্ত আমেরিকায় পৌঁছে দিয়েছিলেন।",
+    "sentences": [
+      {
+        "en": "Born into plantation slavery in Maryland, young Araminta Ross suffered a fractured skull when a furious overseer hurled a heavy two-pound iron weight at another fugitive.",
+        "bn": "মেরিল্যান্ডের খামারে দাস হিসেবে জন্ম নেওয়া তরুণী আরামিন্টা এক পলাতক দাসকে বাঁচাতে গিয়ে এক অত্যাচারী মালিকের ছোঁড়া ভারী লোহার আঘাতে মাথায় মারাত্মক আঘাত পান।"
+      },
+      {
+        "en": "The injury left her with lifelong narcoleptic seizures and vivid spiritual visions that she believed were direct communications from God directing her steps.",
+        "bn": "সেই ক্ষতের কারণে তিনি প্রায়ই অচেতন হয়ে পড়তেন এবং স্বপ্নের মতো বিশেষ সংকেত পেতেন, যা তিনি মনে করতেন স্বয়ং সৃষ্টিকর্তার পক্ষ থেকে পথনির্দেশনা।"
+      },
+      {
+        "en": "In 1849, following the North Star through dark cypress swamps and freezing rivers, she successfully escaped on foot to free Philadelphia.",
+        "bn": "১৮৪৯ সালে রাতের আকাশে শুকতারা দেখে দুর্গম জঙ্গল আর বরফশীতল নদী সাঁতরে তিনি একা পায়ে হেঁটে মুক্ত ফিলাডেলফিয়ায় পালিয়ে যান।"
+      },
+      {
+        "en": "Rather than enjoying her newfound liberty in safety, Tubman declared: 'I was free, and they should be free,' becoming the most fearless conductor of the Underground Railroad.",
+        "bn": "নিরাপদে নিজের স্বাধীনতা উপভোগ না করে টাবম্যান বললেন: 'আমি যখন মুক্ত হয়েছি, আমার স্বজনদেরও মুক্ত হতে হবে'; তিনি আন্ডারগ্রাউন্ড রেলরোডের অকুতোভয় কাণ্ডারি হলেন।"
+      },
+      {
+        "en": "Over nineteen clandestine rescue missions, carrying a pistol for protection and singing coded spiritual hymns, she personally led seventy slaves to liberty in Canada.",
+        "bn": "উনিশ বার দক্ষিণের দাস রাজ্যে ফিরে গিয়ে হাতে পিস্তল নিয়ে এবং গানের সংকেতে তিনি সত্তর জন দাসকে নিরাপদে কানাডার মুক্ত সীমান্তে পৌঁছে দেন।"
+      },
+      {
+        "en": "Bounties on her head reached forty thousand dollars, yet she proudly boasted: 'I never ran my train off the track, and I never lost a passenger.'",
+        "bn": "তাঁর মাথার দাম চল্লিশ হাজার ডলার ঘোষণা করা হলেও তিনি গর্ব করে বলতেন: 'আমার ট্রেন কখনো লাইনচ্যুত হয়নি এবং আমি একজন যাত্রীকেও হারাতে দেইনি।'"
+      },
+      {
+        "en": "During the American Civil War, Tubman served as an armed Union scout and nurse, leading a river raid that liberated over seven hundred slaves in a single night.",
+        "bn": "আমেরিকান গৃহযুদ্ধের সময় তিনি ইউনিয়নের গুপ্তচর হিসেবে এক সফল নদী অভিযানে নেতৃত্ব দিয়ে এক রাতেই সাত শতাধিক দাসকে মুক্ত করেছিলেন।"
+      }
+    ]
+  },
+  {
+    "id": "emeline-pankhurst-suffragettes-deeds-not-words",
+    "title": "Emmeline Pankhurst: Deeds Not Words for Women's Votes",
+    "titleBn": "এমেলিন প্যাঙ্কহার্স্ট: নারীদের ভোটাধিকারের অগ্নিসংগ্রাম",
+    "author": "Heroes of Conscience",
+    "level": "Intermediate",
+    "category": "Heroes of Conscience",
+    "coverEmoji": "🗳️",
+    "summary": "Frustrated by decades of polite, ignored petitions, Emmeline Pankhurst founded the militant Suffragette movement in Britain, demanding 'deeds, not words' to win the vote for women.",
+    "summaryBn": "দশকের পর দশক ধরে অনুনয়-বিনয় করে কোনো ফল না পেয়ে এমেলিন প্যাঙ্কহার্স্ট 'কথায় নয়, কাজে দেখাও' স্লোগানে ব্রিটিশ নারীদের ভোটাধিকারের জন্য এক আপসহীন আন্দোলনের নেতৃত্ব দেন।",
+    "sentences": [
+      {
+        "en": "In Victorian Britain, women were denied the fundamental democratic right to vote, legally treated as the property of their fathers and husbands under discriminatory statutes.",
+        "bn": "ভিক্টোরীয় ইংল্যান্ডের আইনে নারীদের ভোটাধিকার ছিল না এবং তাদের কার্যত পিতা ও স্বামীর অধীনস্থ সম্পত্তি হিসেবে গণ্য করা হতো।"
+      },
+      {
+        "en": "Witnessing decades of peaceful legislative petitions politely shelved by dismissive male parliamentarians, Manchester activist Emmeline Pankhurst founded the Women's Social and Political Union in 1903.",
+        "bn": "সংসদ সদস্যদের কাছে একের পর এক আবেদন ব্যর্থ হতে দেখে ম্যানচেস্টারের সমাজকর্মী এমেলিন প্যাঙ্কহার্স্ট ১৯০৩ সালে নারীদের রাজনৈতিক অধিকার আদায়ে নতুন সংগঠন গড়লেন।"
+      },
+      {
+        "en": "Coining the electrifying battle cry 'Deeds, not words,' Pankhurst and her suffragettes adopted radical civil disobedience to force the British establishment to take notice.",
+        "bn": "'কথায় নয়, কাজে প্রমাণ করো'—এই অগ্নিগর্ভ স্লোগান দিয়ে প্যাঙ্কহার্স্ট ও তাঁর কর্মীরা রাজপথে নেমে ব্রিটিশ রাজশক্তিকে নাড়িয়ে দিতে লাগলেন।"
+      },
+      {
+        "en": "Suffragettes chained themselves to Buckingham Palace railings, disrupted parliamentary debates, and shattered commercial storefront windows with hammers wrapped in purple and green ribbons.",
+        "bn": "মহিলারা রাজপ্রাসাদের রেলিংয়ে নিজেদের শিকল দিয়ে বেঁধে রাখতেন, পার্লামেন্টের অধিবেশন স্তব্ধ করে দিতেন এবং রঙের ফিতায় মোড়া হাতুড়ি দিয়ে প্রতিবাদ জানাতেন।"
+      },
+      {
+        "en": "Imprisoned repeatedly under horrific conditions, Pankhurst and her followers launched grueling hunger strikes, enduring agonizing force-feeding via rubber nasal tubes.",
+        "bn": "বারবার গ্রেফতার হয়ে কারাগারে বন্দি থাকাকালে প্যাঙ্কহার্স্ট অনশন শুরু করেন এবং পুলিশ জোর করে নাকের ভেতর নল ঢুকিয়ে তাঁদের খাওয়াতে চেষ্টা করত।"
+      },
+      {
+        "en": "During World War I, Pankhurst channeled suffragette energy into wartime industrial work, proving women's indispensable capability in running the modern state.",
+        "bn": "প্রথম বিশ্বযুদ্ধের সময় নারীদের কারখানায় কাজে লাগিয়ে তিনি প্রমাণ করে দিলেন যে আধুনিক রাষ্ট্র পরিচালনায় নারীদের ভূমিকা অপরিসীম।"
+      },
+      {
+        "en": "In 1928, weeks before Pankhurst's death, British Parliament enacted full equal voting rights for all women, fulfilling her magnificent lifelong crusade.",
+        "bn": "১৯২৮ সালে তাঁর মৃত্যুর কয়েক সপ্তাহ আগে ব্রিটিশ পার্লামেন্ট নারীদের পূর্ণ ভোটাধিকার আইন পাস করে তাঁর আজীবন লালিত স্বপ্নের বাস্তবায়ন ঘটায়।"
+      }
+    ]
+  },
+  {
+    "id": "steve-biko-black-consciousness-courage",
+    "title": "Steve Biko: Black Consciousness and Unbroken Dignity",
+    "titleBn": "স্টিভ বিকো: আত্মমর্যাদা ও চেতনার নির্ভীক প্রতীক",
+    "author": "Heroes of Conscience",
+    "level": "Intermediate",
+    "category": "Heroes of Conscience",
+    "coverEmoji": "✊",
+    "summary": "Medical student Steve Biko founded the Black Consciousness Movement in South Africa, teaching that the greatest weapon of the oppressor is the mind of the oppressed.",
+    "summaryBn": "দক্ষিণ আফ্রিকার তরুণ নেতা স্টিভ বিকো 'ব্ল্যাক কনশাসনেস মুভমেন্ট' গড়ে তুলে শিখিয়েছিলেন যে অত্যাচারীর সবচেয়ে বড় হাতিয়ার হলো নির্যাতিতের নিজের মনের হীনমন্যতা।",
+    "sentences": [
+      {
+        "en": "Studying medicine at the University of Natal during the height of apartheid, Steve Biko observed that white supremacist rule had deeply colonized the psychological self-worth of Black South Africans.",
+        "bn": "বর্ণবাদের ভয়াল দিনে নাথাল বিশ্ববিদ্যালয়ে চিকিৎসা বিজ্ঞানের ছাত্র হিসেবে স্টিভ বিকো লক্ষ্য করলেন শ্বেতাঙ্গ শাসন কৃষ্ণাঙ্গ মানুষের মনের আত্মবিশ্বাস ও আত্মমর্যাদাকে গুঁড়িয়ে দিয়েছে।"
+      },
+      {
+        "en": "He founded the Black Consciousness Movement, arguing that physical political liberation was futile without first achieving psychological liberation from inferiority complexes.",
+        "bn": "তিনি 'ব্ল্যাক কনশাসনেস মুভমেন্ট' প্রতিষ্ঠা করে বললেন—মনের দাসত্ব ও হীনমন্যতা থেকে আগে মুক্ত না হলে রাজনৈতিক স্বাধীনতা কোনোদিনই অর্জিত হবে না।"
+      },
+      {
+        "en": "Biko popularized the proud rallying slogan 'Black is Beautiful,' urging young Africans to celebrate their indigenous culture, intellect, and spiritual heritage.",
+        "bn": "তিনি 'কালোই সুন্দর' স্লোগানকে ছড়িয়ে দিয়ে তরুণদের নিজস্ব সংস্কৃতি, মেধা ও ঐতিহ্যের প্রতি মাথা উঁচু করে দাঁড়ানোর অনুপ্রেরণা দিলেন।"
+      },
+      {
+        "en": "Banned by the apartheid state to his hometown of King William's Town and forbidden from speaking to more than one person at a time, he continued publishing underground resistance literature under a pseudonym.",
+        "bn": "সরকার তাঁকে নিজের শহরে অবরুদ্ধ করে একজনের বেশি মানুষের সাথে কথা বলা নিষিদ্ধ করলে তিনি ছদ্মনামে গোপনে বৈপ্লবিক প্রবন্ধ লিখে প্রকাশ করতে লাগলেন।"
+      },
+      {
+        "en": "In August 1977, intercepted at an unannounced police roadblock, Biko was interrogated and brutally tortured by security police in Port Elizabeth.",
+        "bn": "১৯৭৭ সালের আগস্টে এক পুলিশ তল্লাশিতে ধরা পড়ার পর নিরাপত্তা বাহিনীর সদস্যরা তাঁকে পোর্ট এলিজাবেথের কুঠুরিতে অমানুষিক নির্যাতন চালায়।"
+      },
+      {
+        "en": "Driven naked and in chains in the back of a police Land Rover seven hundred miles to Pretoria while suffering massive cerebral trauma, he died on a prison floor at age thirty.",
+        "bn": "মাথায় গুরুতর আঘাত পাওয়া অবস্থায় শিকল পরিয়ে নগ্ন শরীরে ৭০০ মাইল দূরে প্রিটোরিয়ার কারাগারে নেওয়ার পর মাত্র ত্রিশ বছর বয়সে তিনি মৃত্যুর কোলে ঢলে পড়েন।"
+      },
+      {
+        "en": "Biko's murder sparked worldwide sanctions and ignited the Soweto generation, proving that a martyr's ideas cannot be contained inside a grave.",
+        "bn": "বিকোর এই হত্যাকাণ্ড বিশ্বজুড়ে ক্ষোভের আগুন জ্বালিয়ে বর্ণবাদবিরোধী আন্দোলনকে চূড়ান্ত বিজয়ের দিকে এগিয়ে নিয়ে গিয়েছিল।"
+      }
+    ]
+  },
+  {
+    "id": "rigoberta-menchu-indigenous-rights-guatemala",
+    "title": "Rigoberta Menchú: Voice of the Mayan Homeland",
+    "titleBn": "রিগোবার্তা মেঞ্চু: মায়া আদিবাসীদের ন্যায়বিচারের কণ্ঠস্বর",
+    "author": "Heroes of Conscience",
+    "level": "Intermediate",
+    "category": "Heroes of Conscience",
+    "coverEmoji": "🌺",
+    "summary": "Surviving the genocidal horrors of Guatemala's civil war that claimed her parents and brothers, Mayan K'iche' activist Rigoberta Menchú won the Nobel Peace Prize for indigenous rights.",
+    "summaryBn": "গুয়াতেমালার গৃহযুদ্ধে মা-বাবা ও ভাইকে হারিয়েও মায়া আদিবাসী নেত্রী রিগোবার্তা মেঞ্চু অহিংস পথে আদিবাসীদের অধিকার ও গণহত্যার বিচারের দাবিতে বিশ্বজুড়ে লড়াই করে নোবেল শান্তি পুরস্কার লাভ করেন।",
+    "sentences": [
+      {
+        "en": "Growing up in the misty western highlands of Guatemala, Mayan K'iche' girl Rigoberta Menchú worked grueling twelve-hour shifts on coastal coffee plantations from age eight.",
+        "bn": "গুয়াতেমালার পাহাড়ি অঞ্চলে জন্ম নেওয়া মায়া কিচে সম্প্রদায়ের মেয়ে রিগোবার্তা মেঞ্চু মাত্র আট বছর বয়স থেকেই উপকূলের কফি খামারে হাড়ভাঙা খাটুনি খাটতেন।"
+      },
+      {
+        "en": "During the country's brutal thirty-six-year civil war, military death squads scorched indigenous villages, murdering her father in an embassy siege and torturing her mother and brother to death.",
+        "bn": "৩৬ বছরের ভয়াবহ গৃহযুদ্ধের সময় সামরিক জান্তা আদিবাসী গ্রাম পুড়িয়ে দেয়; তাঁর বাবাকে দূতাবাসে পুড়িয়ে মারা হয় এবং মা ও ভাইকে নির্মম নির্যাতন করে হত্যা করা হয়।"
+      },
+      {
+        "en": "Rather than surrendering to despair or taking up armed revenge, Menchú taught herself Spanish to communicate the plight of her oppressed Mayan people to international tribunals.",
+        "bn": "হতাশ না হয়ে বা প্রতিশোধের অস্ত্র না তুলে মেঞ্চু নিজে নিজে স্প্যানিশ ভাষা শিখলেন যাতে বিশ্ব আদালতের কাছে তাঁর নির্যাতিত মায়া জনগণের বেদনার কথা তুলে ধরা যায়।"
+      },
+      {
+        "en": "Fleeing into Mexican exile in 1981, she narrated her poignant oral autobiography, 'I, Rigoberta Menchú,' piercing international ignorance regarding Central American atrocities.",
+        "bn": "মেক্সিকোতে আশ্রিত অবস্থায় ১৯৮১ সালে তিনি তাঁর আত্মজীবনী বর্ণনা করেন, যা বিশ্ববাসীর বিবেককে নাড়া দিয়ে গণহত্যার সত্যকে উন্মোচিত করে।"
+      },
+      {
+        "en": "In 1992, on the five-hundredth anniversary of Columbus's arrival in the Americas, Menchú was awarded the Nobel Peace Prize, the youngest recipient at the time.",
+        "bn": "১৯৯২ সালে আমেরিকার মাটিতে কলম্বাসের পদার্পণের ৫০০ বছর পূর্তিতে রিগোবার্তা মেঞ্চুকে সর্বকনিষ্ঠ ব্যক্তি হিসেবে নোবেল শান্তি পুরস্কারে ভূষিত করা হয়।"
+      },
+      {
+        "en": "She utilized her international platform to prosecute former military dictators in Spanish courts for crimes against humanity and genocide.",
+        "bn": "তিনি এই আন্তর্জাতিক সম্মানকে কাজে লাগিয়ে স্পেনের আদালতে গুয়াতেমালার স্বৈরশাসকদের বিরুদ্ধে যুদ্ধাপরাধ ও গণহত্যার বিচার নিশ্চিত করেন।"
+      },
+      {
+        "en": "Her life embodies the eternal resilience of indigenous peoples who preserve their sacred traditions while defending Mother Earth.",
+        "bn": "তাঁর জীবন প্রমাণ করে যে শত অত্যাচার ও জুলুমের মুখেও আদিবাসী সংস্কৃতি ও মানবতার সত্য কখনো মুছে দেওয়া যায় না।"
+      }
+    ]
+  },
+  {
+    "id": "lech-walesa-solidarity-gdansk-shipyard",
+    "title": "Lech Wałęsa: The Spark at Gdańsk Shipyard",
+    "titleBn": "লেখ ওয়ালেসা: গদানস্ক জাহাজের ঘাট ও সংহতি আন্দোলন",
+    "author": "Heroes of Conscience",
+    "level": "Intermediate",
+    "category": "Heroes of Conscience",
+    "coverEmoji": "⚓",
+    "summary": "Electrician Lech Wałęsa climbed over the Lenin Shipyard gate in Poland to lead the Solidarity movement, cracking the Soviet bloc without firing a single shot.",
+    "summaryBn": "পোল্যান্ডের এক সামান্য ইলেকট্রিশিয়ান লেখ ওয়ালেসা জাহাজের কারখানার দেয়াল টপকে 'সলিডারিটি' বা সংহতি আন্দোলনের সূচনা করেন এবং বিনা রক্তপাতে সোভিয়েত সমাজতান্ত্রিক দুর্গে ফাটল ধরান।",
+    "sentences": [
+      {
+        "en": "Fired from the Lenin Shipyard in Gdańsk for defending worker rights, unemployed Polish electrician Lech Wałęsa heard that fellow workers had gone on strike in August 1980.",
+        "bn": "শ্রমিকদের অধিকার নিয়ে কথা বলে চাকরি হারানো পোলিশ ইলেকট্রিশিয়ান লেখ ওয়ালেসা ১৯৮০ সালের আগস্টে শুনলেন গদানস্কের কারখানায় শ্রমিকেরা ধর্মঘট ডেকেছে।"
+      },
+      {
+        "en": "Dodging secret police surveillance, he scaled the twelve-foot perimeter fence of the shipyard and grabbed the strike committee microphone to unite the strikers.",
+        "bn": "গুপ্ত পুলিশের নজর এড়িয়ে তিনি কারখানার বারো ফুট উঁচু দেয়াল টপকে ভেতরে ঢুকলেন এবং মাইক হাতে নিয়ে ধর্মঘটরত শ্রমিকদের ঐক্যবদ্ধ করলেন।"
+      },
+      {
+        "en": "Wałęsa helped author the historic Twenty-One Demands, insisting not merely on meat rations, but on the revolutionary right to form independent, non-communist trade unions.",
+        "bn": "ওয়ালেসা একুশ দফা দাবি প্রণয়ন করলেন, যেখানে কেবল খাবারের দাবি নয়, বরং কমিউনিস্ট সরকারের বাইরে স্বাধীন শ্রমিক ইউনিয়ন গঠনের অধিকার চাওয়া হলো।"
+      },
+      {
+        "en": "Signing the Gdańsk Agreement with an oversized souvenir Pope John Paul II pen, he founded 'Solidarność' (Solidarity), which swelled to ten million members in months.",
+        "bn": "পোপ দ্বিতীয় জন পলের ছবিযুক্ত এক কলম দিয়ে চুক্তিতে স্বাক্ষর করে তিনি 'সলিডারিটি' আন্দোলন প্রতিষ্ঠা করলেন, যাতে মাত্র কয়েক মাসে এক কোটি মানুষ যোগ দেয়।"
+      },
+      {
+        "en": "When the regime imposed martial law in 1981, arresting Wałęsa and detaining him in isolated country dachas, he steadfastly refused to surrender or cooperate.",
+        "bn": "১৯৮১ সালে সরকার সামরিক আইন জারি করে ওয়ালেসাকে বিচ্ছিন্ন এক বাড়িতে বন্দি করলেও তিনি সরকারের সাথে কোনো আপস করতে সাফ অস্বীকৃতি জানালেন।"
+      },
+      {
+        "en": "Awarded the 1983 Nobel Peace Prize, which his wife Danuta accepted on his behalf fearing he would be barred from returning, he preserved the underground resistance.",
+        "bn": "১৯৮৩ সালে তিনি নোবেল শান্তি পুরস্কার লাভ করেন; দেশত্যাগের ভয়ে তাঁর স্ত্রী গিয়ে পুরস্কার গ্রহণ করেন, আর তিনি দেশে থেকেই গোপনে আন্দোলন চালিয়ে যান।"
+      },
+      {
+        "en": "By 1989, Solidarity forced the government into free round-table elections, culminating in Wałęsa's historic election as the first post-war democratic President of Poland.",
+        "bn": "১৯৮৯ সালে এই আন্দোলনের চাপে সরকার সাধারণ নির্বাচন দিতে বাধ্য হয় এবং পোল্যান্ডের প্রথম গণতান্ত্রিক প্রেসিডেন্ট নির্বাচিত হয়ে ওয়ালেসা ইতিহাস সৃষ্টি করেন।"
+      }
+    ]
+  },
+  {
+    "id": "rosa-parks-montgomery-bus-boycott",
+    "title": "Rosa Parks: The Quiet Defiance on a Montgomery Bus",
+    "titleBn": "রোজা পার্কস: মন্টগোমারির বাসে এক সাহসী না",
+    "author": "Heroes of Conscience",
+    "level": "Intermediate",
+    "category": "Heroes of Conscience",
+    "coverEmoji": "🚌",
+    "summary": "Tired of enduring Jim Crow segregation, seamstress Rosa Parks refused to surrender her bus seat to a white passenger, igniting the 381-day Montgomery Bus Boycott.",
+    "summaryBn": "অত্যাচারী বর্ণবাদের কাছে আর নতি স্বীকার না করে বাসে শ্বেতাঙ্গ যাত্রীর জন্য আসন ছেড়ে দিতে অস্বীকৃতি জানিয়েছিলেন রোজা পার্কস; তাঁর সেই শান্ত প্রতিবাদই জন্ম দিয়েছিল মন্টগোমারি বাস বর্জনের।",
+    "sentences": [
+      {
+        "en": "On a chilly December evening in 1955 in Montgomery, Alabama, forty-two-year-old seamstress Rosa Parks boarded the Cleveland Avenue municipal bus after an exhausting day at work.",
+        "bn": "১৯৫৫ সালের এক শীতের সন্ধ্যায় কাজের পর ক্লান্ত শরীরে আলাবামার মন্টগোমারির এক লোকাল বাসে উঠে বসলেন বিয়াল্লিশ বছর বয়সী দর্জি রোজা পার্কস।"
+      },
+      {
+        "en": "Under racist municipal ordinances, Black passengers were forced to board in front, pay their fare, disembark to re-enter at the rear, and yield their seats whenever white rows filled.",
+        "bn": "তখনকার বৈষম্যমূলক আইনে কৃষ্ণাঙ্গদের ভাড়া সামনে দিয়ে পেছনের দরজা দিয়ে উঠতে হতো এবং শ্বেতাঙ্গ আসন ভরে গেলে কৃষ্ণাঙ্গদের নিজের আসন ছেড়ে দিতে হতো।"
+      },
+      {
+        "en": "When the bus driver James Blake ordered Parks and three other Black passengers to stand so a newly boarded white man could sit, the others complied, but Parks quietly refused.",
+        "bn": "চালক যখন পার্কসসহ চারজন কৃষ্ণাঙ্গকে উঠে দাঁড়িয়ে এক শ্বেতাঙ্গকে বসতে বলল, তখন বাকিরা ভয়ে উঠে দাঁড়ালেও রোজা পার্কস শান্তভাবে না বলে দিলেন।"
+      },
+      {
+        "en": "She later clarified: 'People always say that I didn't give up my seat because I was tired, but that isn't true—I was only tired of giving in.'",
+        "bn": "পরবর্তীতে তিনি বলেছিলেন: 'সবাই ভাবে ক্লান্ত ছিলাম বলে আমি উঠিনি, তা ঠিক নয়—আসলে আমি অন্যায়ের কাছে মাথা নত করতে করতে ক্লান্ত হয়ে পড়েছিলাম।'"
+      },
+      {
+        "en": "Arrested and fingerprinted by city police, her quiet act of moral defiance galvanized the Black community to organize under a twenty-six-year-old local minister named Dr. Martin Luther King Jr.",
+        "bn": "পুলিশ তাঁকে গ্রেফতার করার সাথে সাথে কৃষ্ণাঙ্গ সমাজ ফুঁসে উঠল এবং তরুণ যাজক ড. মার্টিন লুথার কিং জুনিয়রের নেতৃত্বে এক ঐতিহাসিক আন্দোলনের সূচনা হলো।"
+      },
+      {
+        "en": "For 381 days, forty thousand Black citizens refused to ride city buses, walking miles in rain and cold until the United States Supreme Court ruled bus segregation unconstitutional.",
+        "bn": "টানা ৩৮১ দিন ধরে চল্লিশ হাজার কৃষ্ণাঙ্গ নাগরিক তীব্র শীত ও বৃষ্টি উপেক্ষা করে পায়ে হেঁটে বাস বর্জন করলেন, যতক্ষণ না সুপ্রিম কোর্ট বাসে বর্ণবাদকে অবৈধ ঘোষণা করল।"
+      },
+      {
+        "en": "Known as the Mother of the Freedom Movement, Rosa Parks proved that quiet dignity in a solitary moment can redirect the course of an entire nation.",
+        "bn": "নাগরিক অধিকার আন্দোলনের মাতা হিসেবে খ্যাত রোজা পার্কস দেখিয়েছিলেন যে একটি সাহসী 'না' একটি সমগ্র জাতির ভাগ্য বদলে দিতে পারে।"
+      }
+    ]
+  },
+  {
+    "id": "desmond-tutu-rainbow-nation-reconciliation",
+    "title": "Desmond Tutu and the Spirit of Ubuntu",
+    "titleBn": "ডেসমন্ড টুটু এবং উবুন্টু দর্শন",
+    "author": "Heroes of Conscience",
+    "level": "Intermediate",
+    "category": "Heroes of Conscience",
+    "coverEmoji": "🌈",
+    "summary": "Archbishop Desmond Tutu mobilized nonviolent boycotts against apartheid, later chairing the Truth and Reconciliation Commission to heal South Africa through restorative justice.",
+    "summaryBn": "নোবেলজয়ী আর্চবিশপ ডেসমন্ড টুটু বর্ণবাদের বিরুদ্ধে আন্তর্জাতিক অবরোধ গড়ে তোলেন এবং সত্য ও সম্প্রীতি কমিশনের নেতৃত্ব দিয়ে 'উবুন্টু' দর্শনের মাধ্যমে ক্ষমার দৃষ্টান্ত স্থাপন করেন।",
+    "sentences": [
+      {
+        "en": "Born to a schoolmaster in Klerksdorp, South Africa, Desmond Tutu survived childhood tuberculosis, entering the Anglican priesthood to combat the blasphemy of racial oppression.",
+        "bn": "দক্ষিণ আফ্রিকার এক স্কুল শিক্ষকের ঘরে জন্ম নেওয়া ডেসমন্ড টুটু ছোটবেলায় যক্ষ্মা থেকে বেঁচে ফিরে বর্ণবৈষম্যের বিরুদ্ধে লড়তে যাজক হিসেবে দায়িত্ব গ্রহণ করেন।"
+      },
+      {
+        "en": "As the charismatic Archbishop of Cape Town, his infectious laughter, diminutive stature, and passionate oratory became the public conscience of the anti-apartheid movement.",
+        "bn": "কেপটাউনের আর্চবিশপ হিসেবে তাঁর মিষ্টি হাসি, ছোটখাটো চেহারা এবং তীব্র হৃদয়স্পর্শী বক্তব্য বর্ণবাদবিরোধী আন্দোলনের প্রধান নৈতিক কণ্ঠে পরিণত হলো।"
+      },
+      {
+        "en": "He fearlessly condemned both state violence and civilian atrocities, once physically plunging into an enraged mob to rescue an accused collaborator from being burned alive.",
+        "bn": "তিনি সরকারি নির্যাতন ও বেসামরিক সহিংসতা উভয়েরই বিরোধিতা করতেন; একবার এক ক্ষুব্ধ জনতার হাত থেকে এক ব্যক্তিকে জীবন্ত পুড়ে মারার হাত থেকে তিনি নিজের শরীর দিয়ে বাঁচিয়েছিলেন।"
+      },
+      {
+        "en": "Awarded the Nobel Peace Prize in 1984, Tutu championed global economic sanctions and divestment campaigns that crippled the apartheid government's financial viability.",
+        "bn": "১৯৮৪ সালে নোবেল শান্তি পুরস্কার পেয়ে টুটু আন্তর্জাতিক অর্থনৈতিক অবরোধের নেতৃত্ব দেন, যা বর্ণবাদী সরকারের অর্থনীতির কোমর ভেঙে দিয়েছিল।"
+      },
+      {
+        "en": "Following democratic transition, President Mandela appointed him chairman of the Truth and Reconciliation Commission to investigate human rights atrocities.",
+        "bn": "গণতন্ত্র প্রতিষ্ঠিত হওয়ার পর প্রেসিডেন্ট ম্যান্ডেলা অতীতের অন্যায় তদন্ত করতে তাঁকে ঐতিহাসিক 'সত্য ও সম্প্রীতি কমিশন'-এর প্রধান নিযুক্ত করেন।"
+      },
+      {
+        "en": "Rather than seeking retributive vengeance, Tutu anchored hearings in the African philosophy of 'Ubuntu'—the profound realization that 'a person is a person through other persons.'",
+        "bn": "শাস্তি বা অন্ধ প্রতিশোধের বদলে টুটু বিচার পরিচালনা করলেন আফ্রিকার ঐতিহ্যবাহী 'উবুন্টু' দর্শনে—যার অর্থ হলো 'অন্যের অস্তিত্বের মাধ্যমেই মানুষ নিজের সত্তা খুঁজে পায়'।"
+      },
+      {
+        "en": "Tutu coined the vision of the 'Rainbow Nation,' teaching that enduring peace is built not upon burying historical wounds, but upon courageous, compassionate confession.",
+        "bn": "তিনি দক্ষিণ আফ্রিকাকে 'রংধনু জাতি' বলে ডাকতেন এবং শিখিয়েছিলেন যে অতীতকে আড়াল না করে সত্য স্বীকার ও ক্ষমার মাধ্যমেই প্রকৃত শান্তি প্রতিষ্ঠা সম্ভব।"
+      }
+    ]
+  },
+  {
+    "id": "corazon-aquino-people-power-philippines",
+    "title": "Corazon Aquino and the Yellow Ribbon of Democracy",
+    "titleBn": "কোরাজন অ্যাকিনো: ফিলিপাইনের হলুদ বিপ্লব",
+    "author": "Heroes of Conscience",
+    "level": "Intermediate",
+    "category": "Heroes of Conscience",
+    "coverEmoji": "🎗️",
+    "summary": "Following the assassination of her senator husband, quiet widow Corazon Aquino donned yellow and led millions of unarmed Filipinos in the historic 1986 People Power Revolution.",
+    "summaryBn": "স্বামীর হত্যাকাণ্ডের পর সাধারণ গৃহবধূ কোরাজন অ্যাকিনো হলুদ পোশাক পরে রাজপথে নামেন এবং লাখ লাখ নিরস্ত্র ফিলিপিনোকে নিয়ে অহিংস 'পিপল পাওয়ার' বিপ্লবে স্বৈরাচারের পতন ঘটান।",
+    "sentences": [
+      {
+        "en": "For two decades, dictator Ferdinand Marcos ruled the Philippines under martial law, amassing billions in ill-gotten wealth while jailing and assassinating democratic dissidents.",
+        "bn": "দুই দশক ধরে স্বৈরশাসক ফার্দিনান্দ মার্কোস সামরিক আইনের জোরে ফিলিপাইন শাসন করেন এবং বিপুল সম্পদ লুট করে বিরোধী নেতাদের জেলখানায় বন্দি ও হত্যা করেন।"
+      },
+      {
+        "en": "When charismatic opposition leader Senator Benigno 'Ninoy' Aquino Jr. returned from American exile in 1983, he was brutally shot dead on the Manila airport tarmac.",
+        "bn": "১৯৮৩ সালে তাঁর প্রধান রাজনৈতিক প্রতিদ্বন্দ্বী সিনেটর নিনয় অ্যাকিনো নির্বাসন থেকে দেশে পা রাখামাত্র ম্যানিলা বিমানবন্দরের রানওয়েতেই তাঁকে গুলি করে হত্যা করা হয়।"
+      },
+      {
+        "en": "His grieving widow, Corazon Aquino—a devout mother who had previously avoided politics—emerged as the moral focal point of national outrage.",
+        "bn": "তাঁর শোকাহত স্ত্রী কোরাজন অ্যাকিনো—যিনি সবসময় রাজনীতির বাইরে এক ধর্মপ্রাণ মা হিসেবে ছিলেন—হঠাৎ করেই পুরো জাতির ক্ষোভের ঐক্যবদ্ধ বাতিঘর হয়ে উঠলেন।"
+      },
+      {
+        "en": "Wearing her signature bright yellow dress, she ran against Marcos in the fraudulent snap presidential election of 1986, galvanizing massive peaceful rallies.",
+        "bn": "হলুদ রঙের পোশাকে সজ্জিত হয়ে তিনি ১৯৮৬ সালের নির্বাচনে মার্কোসের মুখোমুখি হন এবং লাখ লাখ মানুষকে অহিংস গণতান্ত্রিক আন্দোলনে শামিল করেন।"
+      },
+      {
+        "en": "When election results were blatantly rigged by the regime, two million citizens answered Cardinal Sin's broadcast, flooding Manila's Epifanio de los Santos Avenue (EDSA).",
+        "bn": "নির্বাচনে চরম ভোট কারচুপি হলে প্রায় কুড়ি লাখ সাধারণ মানুষ ম্যানিলার এদসা রাজপথে নেমে আসেন এবং চারদিক হলুদ পতাকায় ঢেকে দেন।"
+      },
+      {
+        "en": "Nuns knelt before roaring military tanks with rosaries in hand, offering flowers and food to confused soldiers, who ultimately refused orders to fire upon their own people.",
+        "bn": "খ্রিস্টান নানরা গর্জনরত সরকারি সামরিক ট্যাংকের সামনে হাঁটু গেড়ে প্রার্থনা করতে লাগলেন এবং সৈন্যদের ফুল ও খাবার দিলেন; সৈন্যরা সাধারণ মানুষের ওপর গুলি চালাতে অস্বীকৃতি জানাল।"
+      },
+      {
+        "en": "Marcos fled the country into Hawaiian exile, and Corazon Aquino was sworn in as Asia's first female president, restoring democratic constitutional rule to the Philippines.",
+        "bn": "স্বৈরশাসক মার্কোস দেশ ছেড়ে হাওয়াই দ্বীপে পালিয়ে যান এবং কোরাজন অ্যাকিনো এশিয়ার প্রথম নারী প্রেসিডেন্ট হিসেবে শপথ নিয়ে গণতন্ত্র পুনরুদ্ধার করেন।"
+      }
+    ]
+  }
+]

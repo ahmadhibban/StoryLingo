@@ -1,0 +1,593 @@
+[
+  {
+    "id": "john-muir-yosemite-wilderness",
+    "title": "John Muir: Guardian of Yosemite and the Mountain Voice",
+    "titleBn": "জন মুইর এবং ইয়োসেমিটির অরণ্য সংরক্ষণ",
+    "author": "Environmental Pioneers",
+    "level": "Intermediate",
+    "category": "Wildlife & Nature",
+    "coverEmoji": "🌲",
+    "summary": "Scottish-born naturalist John Muir climbed the Sierra Nevada mountains, fought commercial logging, and convinced President Theodore Roosevelt to protect Yosemite forever.",
+    "summaryBn": "স্কটল্যান্ডে জন্ম নেওয়া প্রকৃতিবিদ জন মুইর সিয়েরা নেভাদা পর্বতে আরোহণ করে বাণিজ্যিক বন উজাড়ের বিরুদ্ধে লড়াই করেন এবং মার্কিন প্রেসিডেন্ট থিওডোর রুজভেল্টকে রাজি করিয়ে ইয়োসেমিটি জাতীয় উদ্যান প্রতিষ্ঠা করেন।",
+    "sentences": [
+      {
+        "en": "Born in Scotland before immigrating to Wisconsin, young John Muir suffered an industrial eye accident that temporarily blinded him, sparking a sacred vow to spend his remaining sight observing God's wilderness.",
+        "bn": "স্কটল্যান্ডে জন্ম নেওয়া জন মুইর অল্প বয়সে আমেরিকায় এসে কারখানায় কাজ করার সময় চোখের দৃষ্টি হারান; দৃষ্টি ফিরে পেয়ে তিনি প্রতিজ্ঞা করেন বাকি জীবন অরণ্যের সৌন্দর্য দেখে কাটাবেন।"
+      },
+      {
+        "en": "Carrying little more than a loaf of dry bread, a metal tea tin, and a pocket notebook, he roamed barefoot through California's majestic Sierra Nevada, which he lovingly dubbed the 'Range of Light.'",
+        "bn": "এক টুকরো শুকনো রুটি, একটি চায়ের টিন আর নোটবই সম্বল করে তিনি খালি পায়ে ক্যালিফোর্নিয়ার সিয়েরা নেভাদা পর্বতমালার গহিনে ঘুরতেন, যাকে তিনি ভালোবেসে বলতেন 'আলোর পর্বতমালা'।"
+      },
+      {
+        "en": "Muir carefully observed glacial polish on granite cliffs, realizing before contemporary geologists that ancient slow-moving ice, rather than catastrophic earthquakes, had carved Yosemite's dramatic canyons.",
+        "bn": "গ্রানাইট পাথরের খাঁজ পরীক্ষা করে সমসাময়িক ভূতাত্ত্বিকদের আগেই মুইর উপলব্ধি করেছিলেন যে কোনো ভূমিকম্প নয়, বরং প্রাচীন হিমবাহের ধীর প্রবাহই ইয়োসেমিটির এই বিশাল উপত্যকা সৃষ্টি করেছে।"
+      },
+      {
+        "en": "When reckless timber barons and sheep herds began clear-cutting ancient sequoias and trampling alpine meadows, Muir published lyrical essays demanding immediate federal conservation.",
+        "bn": "যখন লোভী কাঠুরে ও ভেড়ার পাল প্রাচীন সিকোয়ায়া গাছ কেটে বন ধ্বংস করতে শুরু করল, তখন মুইর একের পর এক আবেগঘন প্রবন্ধ লিখে সরকারি বন সংরক্ষণের জোরালো দাবি তুললেন।"
+      },
+      {
+        "en": "In 1903, President Theodore Roosevelt took an impromptu three-day camping trek into the wild high country with Muir, sleeping under giant pines beneath pristine falling snow.",
+        "bn": "১৯০৩ সালে মার্কিন প্রেসিডেন্ট থিওডোর রুজভেল্ট মুইরের সাথে তিন দিনের জন্য দুর্গম বনে তাঁবু টানিয়ে রাত কাটান এবং তুষারপাতের নিচে দৈত্যাকার পাইন গাছের ছায়ায় ঘুমিয়ে প্রকৃতির রূপ উপলব্ধি করেন।"
+      },
+      {
+        "en": "Deeply stirred by the naturalist's passionate eloquence, Roosevelt established dozens of national parks, federal monuments, and bird sanctuaries across North America.",
+        "bn": "এই প্রকৃতিপ্রেমীর বলিষ্ঠ বক্তব্য ও যুক্তিতে গভীরভাবে আলোড়িত হয়ে রুজভেল্ট উত্তর আমেরিকা জুড়ে বহু জাতীয় উদ্যান, ঐতিহাসিক স্মৃতিসৌধ ও পাখির অভয়ারণ্য প্রতিষ্ঠা করেন।"
+      },
+      {
+        "en": "Muir co-founded the Sierra Club, leaving behind an enduring legacy reminding humanity that wild places are essential sanctuaries for the human soul.",
+        "bn": "মুইর 'সিয়েরা ক্লাব' প্রতিষ্ঠা করেন, যা আজও মানবজাতিকে মনে করিয়ে দেয় যে বন্য প্রকৃতি মানুষের আত্মার প্রশান্তির জন্য এক অপরিহার্য আশ্রয়স্থল।"
+      }
+    ]
+  },
+  {
+    "id": "rachel-carson-silent-spring",
+    "title": "Rachel Carson: The Courageous Voice of Silent Spring",
+    "titleBn": "র‌্যাচেল কারসন এবং 'নীরব বসন্ত'-এর জাগরণ",
+    "author": "Environmental Pioneers",
+    "level": "Intermediate",
+    "category": "Wildlife & Nature",
+    "coverEmoji": "🦅",
+    "summary": "Marine biologist Rachel Carson exposed the catastrophic ecological dangers of chemical pesticides like DDT, sparking the global modern environmental movement.",
+    "summaryBn": "সামুদ্রিক জীববিজ্ঞানী র‌্যাচেল কারসন ডিডিটির মতো রাসায়নিক কীটনাশকের ভয়াবহ পরিবেশগত ধ্বংসযজ্ঞ জনসমক্ষে তুলে ধরে বিশ্বব্যাপী আধুনিক পরিবেশ আন্দোলনের সূচনা করেছিলেন।",
+    "sentences": [
+      {
+        "en": "During the mid-twentieth century, synthetic pesticides such as DDT were sprayed indiscriminately over American crops, suburban gardens, and coastal marshes to eliminate mosquitoes.",
+        "bn": "বিংশ শতাব্দীর মাঝামাঝি সময়ে মশা ও পোকা দমনের জন্য আমেরিকার ফসলের মাঠ, শহরতলি ও উপকূলীয় জলাভূমিতে নির্বিচারে বিষাক্ত ডিডিটি কীটনাশক ছিটানো হতো।"
+      },
+      {
+        "en": "Quiet marine biologist and gifted prose writer Rachel Carson began receiving alarming reports from bird sanctuaries where robin and bald eagle populations were mysteriously collapsing.",
+        "bn": "শান্ত স্বভাবের সামুদ্রিক জীববিজ্ঞানী ও দক্ষ লেখিকা র‌্যাচেল কারসন পাখিপ্রেমীদের কাছ থেকে খবর পান যে কীটনাশক ছিটানোর ফলে ঈগল ও রবিন পাখির সংখ্যা উদ্বেগজনকভাবে কমে যাচ্ছে।"
+      },
+      {
+        "en": "Meticulously compiling four years of biochemical research while fighting aggressive breast cancer, she traced how chemical poisons bioaccumulate up the aquatic food chain into avian eggshells.",
+        "bn": "ক্যান্সারের মরণব্যাধির সাথে লড়াই করে দীর্ঘ চার বছর গবেষণা করে তিনি প্রমাণ করেন কীভাবে এই রাসায়নিক বিষ খাদ্যশৃঙ্খলের মাধ্যমে জলজ প্রাণী থেকে পাখিদের শরীরে ঢুকে ডিমের খোলস দুর্বল করে দেয়।"
+      },
+      {
+        "en": "Her 1962 masterpiece, 'Silent Spring,' warned of a terrifying dystopian morning when no birds would sing because poison had permeated every brook, leaf, and grain.",
+        "bn": "১৯৬২ সালে প্রকাশিত তাঁর যুগান্তকারী গ্রন্থ 'সাইলেন্ট স্প্রিং'-এ তিনি সতর্ক করে দেন যে বিষাক্ত কীটনাশকের প্রভাবে একদিন কোনো পাখির গান শোনা যাবে না, চারদিক নিস্তব্ধ হয়ে পড়বে।"
+      },
+      {
+        "en": "Powerful petrochemical conglomerates launched vicious personal smear campaigns, dismissing her scientific conclusions as hysterical emotional nonsense from an unqualified woman.",
+        "bn": "বিশাল রাসায়নিক কোম্পানিগুলো ক্ষিপ্ত হয়ে তাঁর বিরুদ্ধে কুৎসা রটাতে শুরু করে এবং তাঁর নির্ভুল বিজ্ঞানভিত্তিক গবেষণাকে উড়িয়ে দেওয়ার অপচেষ্টা চালায়।"
+      },
+      {
+        "en": "Unflinching under intense congressional interrogation, Carson defended ecological principles with serene dignity, leading to a nationwide ban on DDT and the creation of the Environmental Protection Agency.",
+        "bn": "কংগ্রেসে জেরার মুখেও শান্ত সাহসিকতার সাথে কারসন নিজের বৈজ্ঞানিক সত্যে অটল রইলেন, যার ফলে শেষ পর্যন্ত ডিডিটি নিষিদ্ধ হয় এবং আমেরিকার পরিবেশ সুরক্ষা সংস্থা গঠিত হয়।"
+      },
+      {
+        "en": "Her moral bravery taught civilization that humanity cannot poison the delicate web of life without ultimately poisoning itself.",
+        "bn": "তাঁর এই বীরত্বপূর্ণ সংগ্রাম সভ্যতাকে শিখিয়েছিল যে প্রকৃতির সূক্ষ্ম ভারসাম্য ধ্বংস করলে মানুষ প্রকারান্তরে নিজের অস্তিত্বকেই হুমকির মুখে ফেলে দেয়।"
+      }
+    ]
+  },
+  {
+    "id": "wangari-maathai-green-belt",
+    "title": "Wangari Maathai: Planting Seeds of Peace and Forests",
+    "titleBn": "ওয়ানগরি মাথাই এবং সবুজ বেল্ট আন্দোলন",
+    "author": "Environmental Pioneers",
+    "level": "Intermediate",
+    "category": "Wildlife & Nature",
+    "coverEmoji": "🌱",
+    "summary": "Kenyan activist Wangari Maathai mobilized thousands of rural women to plant fifty million trees, confronting authoritarian regimes to win the Nobel Peace Prize.",
+    "summaryBn": "কেনিয়ার সাহসী সমাজকর্মী ওয়ানগরি মাথাই গ্রামীণ নারীদের সংগঠিত করে পাঁচ কোটি বৃক্ষরোপণ করেন এবং স্বৈরশাসনের বিরুদ্ধে লড়াই করে পরিবেশ রক্ষার জন্য নোবেল শান্তি পুরস্কার লাভ করেন।",
+    "sentences": [
+      {
+        "en": "Returning to Kenya after completing biological degrees in the United States and Germany, Wangari Maathai was heartbroken to find lush ancestral streams parched and fertile hills stripped bare.",
+        "bn": "আমেরিকা ও জার্মানিতে উচ্চশিক্ষা শেষ করে কেনিয়ায় ফিরে ওয়ানগরি মাথাই দেখতে পান শৈশবের পাহাড়ি ঝরনাগুলো শুকিয়ে গেছে এবং সবুজ বন কেটে ন্যাড়া করে ফেলা হয়েছে।"
+      },
+      {
+        "en": "Rural peasant women complained that they had to walk miles every single morning just to gather scarce firewood and fetch murky, contaminated drinking water.",
+        "bn": "গ্রামের নারীরা আক্ষেপ করে বলতেন রান্নার লাকড়ি সংগ্রহ করতে আর দূষিত পানি আনতে তাঁদের প্রতিদিন কয়েক মাইল পায়ে হেঁটে যেতে হয়।"
+      },
+      {
+        "en": "In 1977, Maathai founded the Green Belt Movement, paying small stipends to village women for every seedling they cultivated, nurtured, and planted across degraded watersheds.",
+        "bn": "১৯৭৭ সালে মাথাই 'গ্রিন বেল্ট মুভমেন্ট' গড়ে তোলেন এবং গ্রামের নারীদের চারাগাছ রোপণ ও পরিচর্যার জন্য সামান্য অর্থ সহায়তা দিয়ে উৎসাহিত করতে শুরু করেন।"
+      },
+      {
+        "en": "When corrupt government officials attempted to carve public parks into commercial skyscrapers, Maathai led unarmed sit-in protests, braving police batons and tear gas.",
+        "bn": "দুর্নীতিগ্রস্ত সরকারি কর্তারা যখন পার্কের জায়গা দখল করে বহুতল ভবন বানাতে চাইল, তখন মাথাই নিরস্ত্র নারীদের নিয়ে ধর্নায় বসেন এবং পুলিশের লাঠিচার্জ ও কাঁদানে গ্যাসের মুখে বুক পেতে দেন।"
+      },
+      {
+        "en": "Over three decades, her network of empowered women planted more than fifty million trees, restoring Kenya's aquifers, preventing soil erosion, and providing sustainable livelihoods.",
+        "bn": "তিন দশকে তাঁর এই নারী নেটওয়ার্ক পাঁচ কোটিরও বেশি বৃক্ষরোপণ করে মাটির ক্ষয় রোধ করে এবং ভূগর্ভস্থ পানির উৎসগুলো পুনরুজ্জীবিত করে।"
+      },
+      {
+        "en": "In 2004, Wangari Maathai became the first African woman awarded the Nobel Peace Prize, proving that environmental protection and democratic human rights are inseparable.",
+        "bn": "২০০৪ সালে প্রথম আফ্রিকান নারী হিসেবে ওয়ানগরি মাথাই নোবেল শান্তি পুরস্কার অর্জন করেন, যা প্রমাণ করে যে পরিবেশ রক্ষা ও মানবাধিকারের দাবি একে অপরের সাথে নিবিড়ভাবে যুক্ত।"
+      }
+    ]
+  },
+  {
+    "id": "chico-mendes-amazon-rubber-tappers",
+    "title": "Chico Mendes: Defender of the Amazon Rainforest",
+    "titleBn": "চিকো মেন্দেস: আমাজন অরণ্যের বীর রক্ষক",
+    "author": "Environmental Pioneers",
+    "level": "Intermediate",
+    "category": "Wildlife & Nature",
+    "coverEmoji": "🌳",
+    "summary": "Brazilian rubber tapper Chico Mendes united indigenous forest dwellers against predatory ranchers, sacrificing his life to create extractive forest reserves.",
+    "summaryBn": "ব্রাজিলের রাবার সংগ্রহকারী শ্রমিক ও আদিবাসীদের সংগঠিত করে বনখেকো খামারিদের রুখে দাঁড়িয়েছিলেন চিকো মেন্দেস; নিজের জীবন দিয়ে তিনি আমাজনের অরণ্য সংরক্ষণ নিশ্চিত করেছিলেন।",
+    "sentences": [
+      {
+        "en": "Deep in the remote western Brazilian state of Acre, Chico Mendes grew up harvesting natural latex from wild rubber trees without cutting down a single trunk.",
+        "bn": "ব্রাজিলের প্রত্যন্ত একরে রাজ্যের গহিন অরণ্যে বড় হয়ে ওঠা চিকো মেন্দেস গাছ না কেটে প্রাকৃতিক রাবার আহরণ করে জীবিকা নির্বাহ করতেন।"
+      },
+      {
+        "en": "During the 1970s and 1980s, wealthy cattle ranchers backed by military dictatorship burned millions of acres of pristine canopy to carve out temporary grazing pastures.",
+        "bn": "সত্তুর ও আশির দশকে সামরিক সরকারের ছত্রছায়ায় ধনী খামারিরা গবাদি পশুর চারণভূমি বানানোর জন্য আমাজনের লাখ লাখ একর সবুজ বন আগুনে পুড়িয়ে ছাই করে দিচ্ছিল।"
+      },
+      {
+        "en": "Mendes organized fellow tappers and indigenous tribes into nonviolent resistance human chains called 'empates,' physically blocking bulldozers and chainsaws.",
+        "bn": "মেন্দেস আদিবাসী ও স্থানীয় শ্রমিকদের নিয়ে 'এমপাতে' নামের মানবপ্রাচীর গড়ে তোলেন এবং নিজেদের শরীর দিয়ে বুলডোজার ও করাত চালানো থামিয়ে দেন।"
+      },
+      {
+        "en": "He argued passionately before international banks that living standing trees yielded far greater enduring economic wealth through nuts and medicinal herbs than scorched pasture.",
+        "bn": "আন্তর্জাতিক ফোরামে তিনি যুক্তি তুলে ধরেন যে জঙ্গল পুড়িয়ে ফেলার চেয়ে বন বাঁচিয়ে রেখে বাদাম ও ভেষজ উপাদান সংগ্রহ করা অনেক বেশি টেকসই অর্থনৈতিক লাভ এনে দেয়।"
+      },
+      {
+        "en": "Enraged cattle barons targeted him with death threats, yet Mendes continued traveling without armed bodyguards, declaring that environmental defense required fearless solidarity.",
+        "bn": "ক্রুদ্ধ বনখেকো খামারিরা তাঁকে হত্যার হুমকি দিতে থাকে, তবুও তিনি কোনো সশস্ত্র দেহরক্ষী না নিয়ে অকুতোভয়ে নিজের আন্দোলন চালিয়ে যান।"
+      },
+      {
+        "en": "On December 22, 1988, hired assassins ambushed and murdered Mendes outside his modest back door, sending shockwaves of outrage across the global community.",
+        "bn": "১৯৮৮ সালের ২২ ডিসেম্বর ভাড়াটে খুনিরা তাঁর বাড়ির উঠানে তাঁকে গুলি করে হত্যা করে, যার ফলে বিশ্বজুড়ে তীব্র প্রতিবাদের ঝড় ওঠে।"
+      },
+      {
+        "en": "His martyrdom compelled Brazil to establish millions of hectares of extractive reserves, where forest communities live sustainably while safeguarding the planet's green lungs.",
+        "bn": "তাঁর আত্মত্যাগের চাপে ব্রাজিল সরকার লাখ লাখ হেক্টর এলাকা সংরক্ষিত ঘোষণা করতে বাধ্য হয়, যেখানে স্থানীয় মানুষ বন অক্ষত রেখে নিজেদের জীবিকা নির্বাহ করতে পারে।"
+      }
+    ]
+  },
+  {
+    "id": "aldo-leopold-land-ethic",
+    "title": "Aldo Leopold and the Sacred Land Ethic",
+    "titleBn": "অ্যালডো লিওপোল্ড এবং ভূমি সংরক্ষণ নীতি",
+    "author": "Environmental Pioneers",
+    "level": "Intermediate",
+    "category": "Wildlife & Nature",
+    "coverEmoji": "🐺",
+    "summary": "Forestry pioneer Aldo Leopold watched a dying green fire in a wolf's eyes, realizing that conservation requires loving the entire living soil, waters, and wildlife community.",
+    "summaryBn": "মৃত্যুপথযাত্রী নেকড়ের চোখের সবুজ শিখা নিভে যাওয়া দেখে বনবিজ্ঞানী অ্যালডো লিওপোল্ড উপলব্ধি করেন যে প্রকৃতি সংরক্ষণ কেবল সম্পদ আহরণ নয়, পুরো বাস্তুতন্ত্রকে ভালোবাসার নাম।",
+    "sentences": [
+      {
+        "en": "As a young officer in the newly formed United States Forest Service, Aldo Leopold was trained to exterminate apex predators like wolves and mountain lions to increase deer herds.",
+        "bn": "যুক্তরাষ্ট্রের বন বিভাগের তরুণ কর্মকর্তা হিসেবে অ্যালডো লিওপোল্ডকে শেখানো হয়েছিল যে হরিণের সংখ্যা বাড়াতে নেকড়ে ও পাহাড়ী সিংহ নির্বিচারে মেরে ফেলতে হবে।"
+      },
+      {
+        "en": "One fateful morning on an Arizona rimrock, he shot an old mother wolf and arrived at her side just in time to watch a fierce 'green fire' slowly extinguish in her dying eyes.",
+        "bn": "অ্যারিজোনার এক পাহাড়ি গিরিখাতে তিনি একটি মা নেকড়েকে গুলি করেন এবং কাছে গিয়ে দেখেন তার умираন্ত চোখের জ্বলন্ত সবুজ শিখা ধীরে ধীরে নিভে যাচ্ছে।"
+      },
+      {
+        "en": "Leopold realized with profound remorse that without wolves to control deer, herds multiplied uncontrollably, denuding mountainsides and starving to death on stripped bushes.",
+        "bn": "গভীর অনুশোচনায় লিওপোল্ড বুঝতে পারলেন নেকড়ে না থাকলে হরিণের সংখ্যা মাত্রাতিরিক্ত বেড়ে যাবে এবং তারা বনের সব ঘাসপাতা খেয়ে শেষ করে নিজেরাই না খেয়ে মরবে।"
+      },
+      {
+        "en": "Purchasing a derelict, abandoned farm along the Wisconsin River, he and his family planted thousands of red pines to regenerate eroded sand country.",
+        "bn": "উইসকনসিন নদীর তীরে একটি পরিত্যক্ত অনুর্বর জমি কিনে তিনি ও তাঁর পরিবার ক্ষয়প্রাপ্ত মাটিকে বাঁচিয়ে তুলতে হাজার হাজার লাল পাইন গাছ রোপণ করেন।"
+      },
+      {
+        "en": "In his seminal book 'A Sand County Almanac,' he articulated the groundbreaking 'Land Ethic,' declaring that soil, waters, plants, and animals form one interconnected ethical community.",
+        "bn": "তাঁর বিখ্যাত বই 'আ স্যান্ড কাউন্টি অ্যালমানাক'-এ তিনি বৈপ্লবিক 'ল্যান্ড এথিক' তুলে ধরে বলেন যে মাটি, জল, উদ্ভিদ ও বন্যপ্রাণী সবাই একই নৈতিক পরিবারের অংশ।"
+      },
+      {
+        "en": "He taught that conservation succeeds only when humans view themselves not as conquerors of the land, but as humble plain members and citizens of the biosphere.",
+        "bn": "তিনি শিখিয়েছিলেন যে প্রকৃত সংরক্ষণ তখনই সম্ভব যখন মানুষ নিজেকে প্রকৃতির শাসক না ভেবে প্রকৃতির এক সাধারণ সদস্য হিসেবে গণ্য করতে শেখে।"
+      }
+    ]
+  },
+  {
+    "id": "jacques-cousteau-undersea-world",
+    "title": "Jacques Cousteau: Champion of the Blue Oceans",
+    "titleBn": "জ্যাক কস্তু এবং অতল সমুদ্রের অভিযান",
+    "author": "Environmental Pioneers",
+    "level": "Intermediate",
+    "category": "Maritime Mysteries & Shipwrecks",
+    "coverEmoji": "🤿",
+    "summary": "Co-inventor of the Aqua-Lung, Jacques Cousteau piloted the research vessel Calypso, exposing ocean pollution and inspiring millions to protect marine life.",
+    "summaryBn": "আকুয়া-লাং ডুবুরি যন্ত্রের সহ-উদ্ভাবক জ্যাক কস্তু তাঁর বিখ্যাত জাহাজ ক্যালিপসো নিয়ে মহাসাগরে অভিযান চালান এবং সমুদ্র দূষণ প্রতিরোধে বিশ্বকে সচেতন করেন।",
+    "sentences": [
+      {
+        "en": "Following a near-fatal automobile crash that crushed his arms, French naval officer Jacques Cousteau took up ocean swimming to rehabilitate his muscles, falling in love with underwater depths.",
+        "bn": "একটি ভয়াবহ গাড়ি দুর্ঘটনায় হাত ভেঙে যাওয়ার পর ফরাসি নৌবাহিনীর কর্মকর্তা জ্যাক কস্তু ব্যায়ামের জন্য সমুদ্রে সাঁতার কাটতে গিয়ে পানির নিচের জগতকে ভালোবেসে ফেলেন।"
+      },
+      {
+        "en": "Frustrated by clumsy surface hoses, he co-invented the revolutionary Aqua-Lung regulator in 1943, liberating divers to glide untethered like fish through coral reefs.",
+        "bn": "ভাসমান পাইপের ঝক্কি ঝামেলা দূর করতে ১৯৪৩ সালে তিনি 'আকুয়া-লাং' নিয়ন্ত্রক উদ্ভাবন করেন, যার ফলে ডুবুরিরা তার ছাড়া মুক্ত মাছের মতো সমুদ্রের তলদেশে সাঁতার কাটতে পারত।"
+      },
+      {
+        "en": "Transforming a decommissioned British minesweeper named the Calypso into a floating research laboratory, he sailed across the globe documenting underwater ecosystems.",
+        "bn": "ক্যালিপসো নামের একটি পুরনো মাইন পরিষ্কারকারী জাহাজকে ভাসমান গবেষণাগারে রূপান্তর করে তিনি বিশ্বজুড়ে সামুদ্রিক বাস্তুতন্ত্রের চিত্রগ্রহণ শুরু করেন।"
+      },
+      {
+        "en": "His pioneering documentaries brought the kaleidoscopic wonder of humpback whales, sea turtles, and glowing abyssal creatures into millions of living rooms worldwide.",
+        "bn": "তাঁর তৈরি প্রামাণ্যচিত্রগুলো তিমি মাছ, কচ্ছপ ও গভীর সমুদ্রের উজ্জ্বল প্রাণীদের রূপালি জগতের বিস্ময় লাখ লাখ মানুষের বসার ঘরে পৌঁছে দেয়।"
+      },
+      {
+        "en": "As the decades passed, Cousteau was horrified to witness vibrant reefs bleaching and discarded industrial plastics choking remote archipelagos.",
+        "bn": "কয়েক দশক পর কস্তু গভীর বেদনার সাথে লক্ষ্য করলেন রঙের সমারোহে ভরা প্রবালপ্রাচীর বিবর্ণ হয়ে মরছে এবং প্লাস্টিকের আবর্জনায় বিষাক্ত হচ্ছে দূরদূরান্তের দ্বীপগুলো।"
+      },
+      {
+        "en": "He mobilized global campaigns that stopped nuclear waste dumping in the Mediterranean Sea and successfully secured treaty protections keeping Antarctica pristine.",
+        "bn": "তিনি ব্যাপক আন্দোলন গড়ে তুলে ভূমধ্যসাগরে তেজস্ক্রিয় বর্জ্য ফেলা বন্ধ করেন এবং অ্যান্টার্কটিকাকে বাণিজ্যিক খননমুক্ত রাখতে আন্তর্জাতিক চুক্তি স্বাক্ষরে ভূমিকা রাখেন।"
+      },
+      {
+        "en": "Cousteau reminded humanity that water and air are two essential fluids upon which all life depends, urging every generation to fiercely defend the oceans.",
+        "bn": "কস্তু মানবজাতিকে মনে করিয়ে দিতেন যে পানি ও বাতাস এমন দুটি মৌলিক উপাদান যার ওপর সব জীবন টিকে আছে, তাই সমুদ্র রক্ষায় সবাইকে এগিয়ে আসতে হবে।"
+      }
+    ]
+  },
+  {
+    "id": "dian-fossey-mountain-gorillas",
+    "title": "Dian Fossey: Among the Fog and Gentle Giants",
+    "titleBn": "ডায়ান ফসি এবং কুয়াশাচ্ছন্ন পর্বতের গরিলা",
+    "author": "Environmental Pioneers",
+    "level": "Intermediate",
+    "category": "Wildlife & Nature",
+    "coverEmoji": "🦍",
+    "summary": "American zoologist Dian Fossey lived eighteen years among the mist-covered volcanic peaks of Rwanda, debunking myths about gorillas and defying violent poachers.",
+    "summaryBn": "আমেরিকান প্রাণীবিজ্ঞানী ডায়ান ফসি রুয়ান্ডার কুয়াশাচ্ছন্ন পাহাড়ি বনে দীর্ঘ আঠারো বছর গরিলাদের সাথে বসবাস করে তাদের হিংস্রতার ভুল ধারণা ভেঙে দেন এবং চোরাশিকারিদের প্রতিহত করেন।",
+    "sentences": [
+      {
+        "en": "Encouraged by paleoanthropologist Louis Leakey, occupational therapist Dian Fossey arrived in Central Africa in 1967 without formal scientific training but armed with boundless determination.",
+        "bn": "নৃতাত্ত্বিক লুইস লিকির অনুপ্রেরণায় ১৯৬৭ সালে ডায়ান ফসি কোনো প্রথাগত ডিগ্রি ছাড়াই প্রবল অদম্য সাহস নিয়ে মধ্য আফ্রিকার গহিন বনে পা রাখেন।"
+      },
+      {
+        "en": "High in the freezing rain and bamboo forests of the Virunga Volcanoes, she established the Karisoke Research Center to study critically endangered mountain gorillas.",
+        "bn": "ভিরুঙ্গা আগ্নেয়গিরির বরফশীতল বৃষ্টি ও বাঁশঝাড়ের উচ্চতায় তিনি মহাবিপন্ন পাহাড়ী গরিলাদের জীবনধারা পর্যবেক্ষণের জন্য কারিসোকে গবেষণা কেন্দ্র স্থাপন করেন।"
+      },
+      {
+        "en": "By imitating their deep chest-beating vocalizations, chewing wild celery stems, and crouching submissively, she earned the intimate trust of alpha silverback Digit.",
+        "bn": "বুকের ভেতর থেকে বিশেষ শব্দ বের করে, বুনো সেলারি পাতা চিবিয়ে ও শান্তভাবে নিচু হয়ে বসে তিনি আলফা সিলভারব্যাক গরিলা 'ডিজিট'-এর গভীর বিশ্বাস অর্জন করেন।"
+      },
+      {
+        "en": "Fossey proved to an astonished world that gorillas were not bloodthirsty Hollywood monsters, but exceptionally gentle, intelligent creatures with tender family bonds.",
+        "bn": "ফসি সারা বিশ্বকে অবাক করে দিয়ে প্রমাণ করলেন গরিলা কোনো রক্তপিপাসু দানব নয়, বরং পরিবারের প্রতি দারুণ অনুভূতিশীল অত্যন্ত শান্ত ও বুদ্ধিমান প্রাণী।"
+      },
+      {
+        "en": "When merciless poachers decapitated her beloved Digit for souvenir trophies, Fossey waged an uncompromising anti-poaching campaign, burning traps and confronting corrupt syndicates.",
+        "bn": "যখন লোভী চোরাশিকারিরা উপহার সামগ্রী বানানোর জন্য তাঁর প্রিয় ডিজিটকে হত্যা করে মাথা কেটে নিয়ে গেল, তখন ফসি ফাঁদ পুড়িয়ে দিয়ে চোরাশিকারিদের বিরুদ্ধে তীব্র যুদ্ধ ঘোষণা করলেন।"
+      },
+      {
+        "en": "Tragically murdered in her cabin in 1985, she was buried beside her beloved mountain companions, having single-handedly saved mountain gorillas from imminent extinction.",
+        "bn": "১৯৮৫ সালে নিজের কুটিরে রহস্যজনকভাবে খুন হওয়া ফসিকে তাঁর প্রিয় গরিলাদের কবরের পাশে সমাহিত করা হয়; তাঁর নিঃস্বার্থ লড়াই এই প্রজাতিকে অবলুপ্তির হাত থেকে রক্ষা করেছিল।"
+      }
+    ]
+  },
+  {
+    "id": "david-attenborough-voice-of-nature",
+    "title": "David Attenborough: The Great Chronicler of Living Earth",
+    "titleBn": "ডেভিড অ্যাটেনবরো: পৃথিবীর জীবন্ত রূপকার",
+    "author": "Environmental Pioneers",
+    "level": "Intermediate",
+    "category": "Wildlife & Nature",
+    "coverEmoji": "🌍",
+    "summary": "Broadcaster Sir David Attenborough spent seven decades traveling every continent, revealing the marvels of the natural world and pleading for climate action.",
+    "summaryBn": "সাত দশক ধরে বিশ্বের প্রতিটি কোণে ঘুরে ব্রিটিশ কথাকার স্যার ডেভিড অ্যাটেনবরো বন্য প্রকৃতির অপার বিস্ময় তুলে ধরেছেন এবং জলবায়ু সংকট মোকাবেলায় বিশ্বনেতাদের সজাগ করেছেন।",
+    "sentences": [
+      {
+        "en": "As a curious young boy roaming Leicestershire quarries in search of prehistoric ammonite fossils, David Attenborough developed an insatiable fascination with the history of life.",
+        "bn": "ছোটবেলায় পাথরের কোয়ারি থেকে প্রাগৈতিহাসিক ফসিল কুড়ানোর নেশা থেকেই ডেভিড অ্যাটেনবরোর মনে পৃথিবীর জীববৈচিত্র্যের প্রতি এক দুর্নিবার কৌতূহল জেগে উঠেছিল।"
+      },
+      {
+        "en": "Joining the fledgling British Broadcasting Corporation in the 1950s, he pioneered groundbreaking wildlife cinematography, filming elusive animals in their natural habitats.",
+        "bn": "১৯৫০-এর দশকে বিবিসির সাথে যুক্ত হয়ে তিনি বন্যপ্রাণী চিত্রায়ণে বৈপ্লবিক পরিবর্তন আনেন এবং দুর্গম অঞ্চলে গিয়ে গোপন বন্যপ্রাণীদের জীবন তুলে ধরেন।"
+      },
+      {
+        "en": "From whispering inches away from wild Rwandan gorillas to descending into ocean trenches in submersibles, his calm, awe-filled voice became the signature sound of nature exploration.",
+        "bn": "রুয়ান্ডার বুনো গরিলাদের পাশে ফিসফিস করে কথা বলা থেকে শুরু করে সাবমেরিনে সমুদ্রের অতল গভীরে যাওয়া পর্যন্ত তাঁর গম্ভীর ও মুগ্ধ কণ্ঠস্বর বন্যপ্রাণী অনুসন্ধানের প্রতীক হয়ে ওঠে।"
+      },
+      {
+        "en": "His monumental documentary series, including 'Life on Earth' and 'Blue Planet II,' brought international attention to the catastrophic crisis of ocean microplastics.",
+        "bn": "'লাইফ অন আর্থ' ও 'ব্লু প্ল্যানেট টু'-এর মতো মহাকাব্যিক প্রামাণ্যচিত্রগুলো সাগরে মাইক্রোপ্লাস্টিকের ভয়াবহ দূষণের দিকে বিশ্ববাসীর চোখ খুলে দেয়।"
+      },
+      {
+        "en": "In his tenth decade of life, Attenborough addressed international summits, delivering impassioned warnings that humanity faces the collapse of living civilization without immediate climate action.",
+        "bn": "জীবনের নব্বই পার হয়েও তিনি আন্তর্জাতিক সম্মেলনে দাঁড়িয়ে বলিষ্ঠ কণ্ঠে সতর্ক করে দেন যে জলবায়ু সংকট না রুখলে পুরো মানব সভ্যতাই ধ্বংসের মুখোমুখি হবে।"
+      },
+      {
+        "en": "He insists that if humanity restores degraded wilderness and embraces renewable harmony, our species can build a vibrant, sustainable future alongside nature.",
+        "bn": "তিনি বারবার আশ্বস্ত করেন যে আমরা যদি ধ্বংসপ্রাপ্ত বনভূমি পুনরুদ্ধার করি ও প্রকৃতির সাথে সমন্বয় রেখে চলি, তবে পৃথিবী আবারও সুন্দর ও বাসযোগ্য হয়ে উঠবে।"
+      }
+    ]
+  },
+  {
+    "id": "jane-goodall-chimpanzee-gombe",
+    "title": "Jane Goodall: Whispering with the Chimpanzees of Gombe",
+    "titleBn": "জেন গুডল এবং গোম্বের শিম্পাঞ্জি পরিবার",
+    "author": "Environmental Pioneers",
+    "level": "Intermediate",
+    "category": "Wildlife & Nature",
+    "coverEmoji": "🐵",
+    "summary": "Twenty-six-year-old Jane Goodall ventured into Tanzania's Gombe Stream, discovering that chimpanzees use tools, feel grief, and possess complex emotional lives.",
+    "summaryBn": "ছাব্বিশ বছর বয়সে তানজানিয়ার গোম্বে বনাঞ্চলে একা গিয়ে জেন গুডল আবিষ্কার করেন যে শিম্পাঞ্জিরা যন্ত্রপাতি তৈরি করতে পারে এবং তাদের মধ্যেও গভীর আনন্দ ও বেদনার অনুভূতি রয়েছে।",
+    "sentences": [
+      {
+        "en": "In 1960, armed with only a pair of secondhand binoculars and a notebook, young Jane Goodall arrived on the forested shores of Lake Tanganyika in Tanzania.",
+        "bn": "১৯৬০ সালে একজোড়া পুরনো দূরবীন আর নোটবই হাতে নিয়ে তরুণী জেন গুডল তানজানিয়ার তাঙ্গানিকা হ্রদের তীরে দুর্গম গোম্বের অরণ্যে উপস্থিত হন।"
+      },
+      {
+        "en": "Rather than numbering chimpanzees like conventional laboratory subjects, she gave them evocative names like David Greybeard, Flo, and Fifi, observing individual personalities.",
+        "bn": "অন্যান্য বিজ্ঞানীদের মতো শিম্পাঞ্জিদের নম্বর না দিয়ে তিনি তাদের ডেভিড গ্রেবিয়ার্ড, ফ্লো ও ফিফির মতো নাম দেন এবং তাদের নিজস্ব ব্যক্তিত্ব গভীরভাবে পর্যবেক্ষণ করতে থাকেন।"
+      },
+      {
+        "en": "One afternoon, she witnessed David Greybeard stripping leaves from a twig and deliberately inserting it into a termite mound to extract nutritious insects.",
+        "bn": "একদিন দুপুরে তিনি অবাক হয়ে দেখলেন ডেভিড গ্রেবিয়ার্ড নামের এক শিম্পাঞ্জি গাছের ডাল থেকে পাতা ছিঁড়ে উইপোকার ঢিবিতে ঢুকিয়ে পোকা বের করে খাচ্ছে।"
+      },
+      {
+        "en": "This historic observation shattered the prevailing scientific dogma that toolmaking was an exclusive hallmark separating humans from all other animals.",
+        "bn": "এই ঐতিহাসিক পর্যবেক্ষণ বিজ্ঞানীদের সেই প্রচলিত ধারণাকে চুরমার করে দিল যেখানে মনে করা হতো কেবল মানুষই যন্ত্রপাতি বানাতে ও ব্যবহার করতে পারে।"
+      },
+      {
+        "en": "Goodall revealed that chimpanzees experience profound sorrow, embrace in affection, wage tribal skirmishes, and express empathetic loyalty across generations.",
+        "bn": "গুডল দেখালেন শিম্পাঞ্জিরাও স্বজন হারানোর গভীর শোকে কাঁদে, ভালোবেসে আলিঙ্গন করে এবং দলবদ্ধভাবে সহানুভূতি ও আনুগত্য প্রকাশ করে।"
+      },
+      {
+        "en": "Transforming from field researcher into a tireless global humanitarian, she founded the Roots & Shoots initiative, empowering youth worldwide to protect local wildlife habitats.",
+        "bn": "গবেষণা থেকে বিশ্বজনীন সমাজকর্মে পদার্পণ করে তিনি 'রুটস অ্যান্ড শুটস' আন্দোলন গড়ে তোলেন, যা তরুণ প্রজন্মকে বন্যপ্রাণী সুরক্ষায় কাজ করার অনুপ্রেরণা জোগায়।"
+      },
+      {
+        "en": "Her life reminds the world that every individual matters, every creature possesses purpose, and every person can make an enduring difference.",
+        "bn": "তাঁর জীবন আমাদের শেখায় যে প্রতিটি প্রাণীর একটি উদ্দেশ্য রয়েছে এবং প্রতিটি সচেতন মানুষই চাইলে এই সুন্দর পৃথিবীকে বদলে দিতে পারে।"
+      }
+    ]
+  },
+  {
+    "id": "george-schaller-snow-leopard-tibetan-wilds",
+    "title": "George Schaller: The Elusive Ghost of the Himalayas",
+    "titleBn": "জর্জ শ্যালার এবং তুষার চিতার অনুসন্ধান",
+    "author": "Environmental Pioneers",
+    "level": "Intermediate",
+    "category": "Wildlife & Nature",
+    "coverEmoji": "🐆",
+    "summary": "Pioneering field biologist George Schaller endured blizzard-swept Himalayan altitudes, unlocking the mysteries of snow leopards and creating vast Asian reserves.",
+    "summaryBn": "হিমালয়ের বরফঝড়ের তীব্র ঠান্ডায় মাসের পর মাস কাটিয়ে প্রাণীবিজ্ঞানী জর্জ শ্যালার রহস্যময় তুষার চিতার জীবন উন্মোচন করেন এবং এশিয়ায় বিশাল বন্যপ্রাণী অভয়ারণ্য গড়ে তোলেন।",
+    "sentences": [
+      {
+        "en": "Recognized as the father of modern wildlife field research, George Schaller dedicated his life to studying secretive mammals in Earth's most inhospitable, remote corners.",
+        "bn": "আধুনিক বন্যপ্রাণী গবেষণার অন্যতম পথিকৃৎ জর্জ শ্যালার পৃথিবীর সবচেয়ে দুর্গম ও প্রতিকূল প্রান্তরে ঘুরে বিরল প্রাণীদের জীবন রহস্য উদ্ঘাটন করেছেন।"
+      },
+      {
+        "en": "In the early 1970s, he trekked deep into the frozen crags of the Pakistan Himalayas and Nepal, hoping to glimpse the fabled snow leopard in its wild sanctuary.",
+        "bn": "সত্তুরের দশকের শুরুতে তিনি পাকিস্তান ও নেপালের হিমালয়ের তুষারাবৃত চূড়ায় মাসের পর মাস হেঁটেছেন কাল্পনিক রূপকথার মতো রহস্যময় তুষার চিতার সন্ধানে।"
+      },
+      {
+        "en": "Enduring sub-zero blizzards and frostbite at sixteen thousand feet altitude, Schaller captured the very first scientific photographs of the ghostlike feline in wild territory.",
+        "bn": "১৬,০০০ ফুট উচ্চতায় হাড়কাঁপানো তুষারঝড়ের মধ্যে রাত কাটিয়ে শ্যালার বন্য পরিবেশে এই মায়াবী প্রাণীর প্রথম বৈজ্ঞানিক আলোকচিত্র ধারণ করতে সক্ষম হন।"
+      },
+      {
+        "en": "His meticulous field observations on predator-prey dynamics between snow leopards and wild blue sheep paved the way for transboundary conservation corridors.",
+        "bn": "তুষার চিতা ও নীল ভেড়ার মধ্যকার খাদ্যশৃঙ্খল নিয়ে তাঁর বিস্তারিত তথ্যবহুল পর্যবেক্ষণ আন্তর্জাতিক সীমানা পেরিয়ে বিশাল সংরক্ষণ করিডোর প্রতিষ্ঠায় ভূমিকা রাখে।"
+      },
+      {
+        "en": "Schaller later ventured into the high Tibetan Changtang plateau, uncovering how illegal poaching of chiru antelope for shahtoosh shawls was decimating migratory herds.",
+        "bn": "পরবর্তীতে তিনি তিব্বতের চাংতাং মালভূমিতে গিয়ে প্রকাশ করেন কীভাবে মূল্যবান শাহতুশ শাল তৈরির লোভে চোরাশিকারিরা চিরু হরিণ নির্বিচারে হত্যা করছে।"
+      },
+      {
+        "en": "His findings prompted the Chinese government to establish the Changtang Nature Reserve, protecting an expanse of pristine wilderness larger than the nation of Germany.",
+        "bn": "তাঁর তথ্যের ওপর ভিত্তি করে চীন সরকার জার্মানির চেয়েও বড় এলাকা জুড়ে বিশ্বের অন্যতম বৃহত্তম চাংতাং বন্যপ্রাণী অভয়ারণ্য গড়ে তোলে।"
+      },
+      {
+        "en": "Schaller proved that enduring quiet patience in wild places yields understanding far deeper than laboratory specimens can ever disclose.",
+        "bn": "শ্যালার প্রমাণ করে দেখিয়েছেন যে শান্ত ধৈর্য নিয়ে বনের ভেতর কাটানো সময় ল্যাবরেটরির কৃত্রিম পরীক্ষার চেয়ে প্রকৃতির অনেক গভীর রহস্য উন্মোচন করতে পারে।"
+      }
+    ]
+  },
+  {
+    "id": "sundarlal-bahuguna-chipko-himalayas",
+    "title": "Sundarlal Bahuguna and the Hug-the-Trees Chipko Movement",
+    "titleBn": "সুন্দরলাল বহুগুণা এবং বৃক্ষপ্রেমী চিপকো আন্দোলন",
+    "author": "Environmental Pioneers",
+    "level": "Intermediate",
+    "category": "Wildlife & Nature",
+    "coverEmoji": "🌳",
+    "summary": "Gandhian philosopher Sundarlal Bahuguna mobilized Garhwal villagers to wrap their arms around ancient trees, turning deforestation into a global moral reckoning.",
+    "summaryBn": "গান্ধীবাদী সাধক সুন্দরলাল বহুগুণা উত্তরাখণ্ডের গ্রামবাসীদের সাথে নিয়ে প্রাচীন গাছগুলোকে বুকে জড়িয়ে ধরে কাঠুরেদের হাত থেকে হিমালয়ের বনভূমি রক্ষা করেছিলেন।",
+    "sentences": [
+      {
+        "en": "In the steep Himalayan valleys of Uttarakhand, devastating flash floods and landslides began wiping away entire mountain farming villages due to commercial logging.",
+        "bn": "উত্তরাখণ্ডের খাড়া পাহাড়ি উপত্যকায় বাণিজ্যিক গাছ কাটার কারণে ভয়াবহ পাহাড়ি ঢল ও ভূমিধসে আস্ত গ্রামের পর গ্রাম মাটির নিচে চাপা পড়তে শুরু করেছিল।"
+      },
+      {
+        "en": "Inspired by Gandhian nonviolence, villagers led by courageous mountain women decided that rather than taking up weapons, they would cling tightly to their trees.",
+        "bn": "মহাত্মা গান্ধীর অহিংস নীতিতে উদ্বুদ্ধ হয়ে সাহসী পাহাড়ি নারীরা অস্ত্রের বদলে নিজ নিজ দুই হাত দিয়ে গাছকে বুক দিয়ে জড়িয়ে ধরার সিদ্ধান্ত নিলেন।"
+      },
+      {
+        "en": "Sundarlal Bahuguna coined the movement's rallying cry: 'Ecology is permanent economy,' emphasizing that trees provide oxygen, pure water, and fertile soil rather than just timber profits.",
+        "bn": "সুন্দরলাল বহুগুণা এই আন্দোলনের প্রধান স্লোগান দিলেন: 'বাস্তুতন্ত্রই হলো প্রকৃত অর্থনীতি'—কাঠ বেচে টাকা পাওয়ার চেয়ে গাছ অক্সিজেন, পানি ও মাটি রক্ষা করে বহু গুণ বেশি দান করে।"
+      },
+      {
+        "en": "Whenever commercial contractors arrived with roaring saws, village women and elders raced into the woods, embracing ash and pine trunks with unwavering defiance.",
+        "bn": "যখনই ঠিকাদারেরা গর্জনরত করাত নিয়ে বনে ঢুকত, তখনই গ্রামের মায়েরা ও বৃদ্ধরা দৌড়ে গিয়ে পাইন ও অ্যাশ গাছের কাণ্ড বুকে জড়িয়ে দাঁড়িয়ে পড়তেন।"
+      },
+      {
+        "en": "Bahuguna undertook a grueling five-thousand-kilometer barefoot trans-Himalayan march, sleeping in village huts and spreading the gospel of forest preservation across India.",
+        "bn": "বহুগুণা পাঁচ হাজার কিলোমিটার দুর্গম পথ খালি পায়ে হেঁটে পুরো হিমালয় অঞ্চলে পদযাত্রা করেন এবং বনাঞ্চল সুরক্ষার বার্তা দেশজুড়ে ছড়িয়ে দেন।"
+      },
+      {
+        "en": "His moral perseverance compelled Prime Minister Indira Gandhi to enact a historic fifteen-year moratorium on commercial felling in Himalayan catchment forests.",
+        "bn": "তাঁর আত্মত্যাগের চাপে প্রধানমন্ত্রী ইন্দিরা গান্ধী হিমালয়ের সংবেদনশীল অঞ্চলে বাণিজ্যিক গাছ কাটার ওপর ঐতিহাসিক ১৫ বছরের স্থগিতাদেশ জারি করেন।"
+      },
+      {
+        "en": "The Chipko Movement demonstrated that humble, unarmed citizens possess the divine power to protect Earth through the tender power of love.",
+        "bn": "চিপকো আন্দোলন দেখিয়ে দিয়েছিল যে কোনো অস্ত্র ছাড়াই কেবলমাত্র ভালোবাসার অদম্য শক্তি দিয়ে সাধারণ মানুষ মা মাটিকে রক্ষা করতে পারে।"
+      }
+    ]
+  },
+  {
+    "id": "marjory-stoneman-douglas-everglades",
+    "title": "Marjory Stoneman Douglas: River of Grass Protector",
+    "titleBn": "মার্জরি স্টোনম্যান ডগলাস এবং এভারগ্লেডস সংরক্ষণ",
+    "author": "Environmental Pioneers",
+    "level": "Intermediate",
+    "category": "Wildlife & Nature",
+    "coverEmoji": "🦩",
+    "summary": "Journalist Marjory Stoneman Douglas defended Florida's unique Everglades, redefining a misunderstood swamp as a vital freshwater river flowing to the sea.",
+    "summaryBn": "সাংবাদিক মার্জরি স্টোনম্যান ডগলাস ফ্লোরিডার অবহেলিত এভারগ্লেডস জলাভূমিকে ধ্বংসের হাত থেকে বাঁচাতে কলম ধরেন এবং প্রমাণ করেন এটি কোনো বর্জ্য নয়, বরং এক অমূল্য ঘাসের নদী।",
+    "sentences": [
+      {
+        "en": "For generations, early settlers and opportunistic real estate developers viewed the vast Florida Everglades as an ugly, mosquito-infested swamp ripe for draining.",
+        "bn": "কয়েক দশক ধরে ফ্লোরিডার বিশাল এভারগ্লেডস জলাভূমিকে মানুষ নোংরা ও মশা ভরা নরক মনে করে তা শুকিয়ে বাড়িঘর বানানোর পরিকল্পনা করছিল।"
+      },
+      {
+        "en": "Passionate Miami Herald journalist Marjory Stoneman Douglas saw beyond commercial avarice, recognizing a magnificent slow-moving shallow river fifty miles wide.",
+        "bn": "মিয়ামি হেরাল্ডের দূরদর্শী সাংবাদিক মার্জরি স্টোনম্যান ডগলাস লোভের ঊর্ধ্বে উঠে উপলব্ধি করলেন এটি কোনো সাধারণ জলাশয় নয়, বরং ৫০ মাইল চওড়া এক শান্ত নদী।"
+      },
+      {
+        "en": "In 1947, she published her groundbreaking environmental manifesto, 'The Everglades: River of Grass,' forever transforming public consciousness about wetland ecology.",
+        "bn": "১৯৪৭ সালে তিনি প্রকাশ করেন তাঁর বিখ্যাত বই 'দ্য এভারগ্লেডস: রিভার অব গ্রাস', যা জলাভূমি সম্পর্কে মানুষের দৃষ্টিভঙ্গি চিরদিনের জন্য বদলে দেয়।"
+      },
+      {
+        "en": "She revealed that billions of wading birds, alligators, orchids, and South Florida's entire municipal drinking water aquifer depended on this delicate freshwater sheet.",
+        "bn": "তিনি দেখিয়েছিলেন যে লাখ লাখ জলচর পাখি, কুমির, অর্কিড এবং পুরো ফ্লোরিডার সুপেয় পানির নিরাপত্তা এই অগভীর প্রাকৃতিক পানির চাদরের ওপর নির্ভরশীল।"
+      },
+      {
+        "en": "Even in her nineties, wearing her trademark white gloves and pearl necklace, Douglas marched fearlessly into legislative hearings to denounce corrupt drainage canal projects.",
+        "bn": "নব্বই বছর বয়সেও সাদা দস্তানা আর মুক্তার মালা পরে তিনি নির্ভীকভাবে আইনসভায় দাঁড়িয়ে পরিবেশবিধ্বংসী ড্রেনেজ প্রকল্পের বিরুদ্ধে যুক্তি দিতেন।"
+      },
+      {
+        "en": "Her tenacious century-long advocacy laid the groundwork for the multi-billion-dollar Comprehensive Everglades Restoration Plan, the largest aquatic restoration project in world history.",
+        "bn": "তাঁর এক শতাব্দীর আপসহীন লড়াইয়ের ফলেই পরবর্তীতে ইতিহাসের সবচেয়ে বড় এভারগ্লেডস জলাভূমি পুনরুদ্ধার প্রকল্প বাস্তবায়িত হয়।"
+      }
+    ]
+  },
+  {
+    "id": "ansel-adams-lens-national-parks",
+    "title": "Ansel Adams: Photographing the Soul of the American Wild",
+    "titleBn": "অ্যানসেল অ্যাডামস এবং প্রাকৃতিক সৌন্দর্যের চিত্রায়ণ",
+    "author": "Environmental Pioneers",
+    "level": "Intermediate",
+    "category": "Wildlife & Nature",
+    "coverEmoji": "📷",
+    "summary": "Photographer Ansel Adams lugged heavy cameras through high alpine summits, using majestic monochrome prints to preserve America's grandest wilderness sanctuaries.",
+    "summaryBn": "ভারী ক্যামেরা পিঠে বেঁধে দুর্গম পাহাড়ে উঠে ফটোগ্রাফার অ্যানসেল অ্যাডামস তাঁর বিখ্যাত সাদা-কালো ছবির মাধ্যমে মার্কিন যুক্তরাষ্ট্রের অপরূপ জাতীয় উদ্যানগুলো রক্ষা করেছিলেন।",
+    "sentences": [
+      {
+        "en": "Recovering from childhood illness in San Francisco, fourteen-year-old Ansel Adams received a simple Kodak Brownie box camera during a family trip to Yosemite Valley.",
+        "bn": "ছোটবেলায় অসুস্থতা থেকে সেরে ওঠার সময় সান ফ্রান্সিসকোর ১৪ বছর বয়সী অ্যানসেল অ্যাডামস ইয়োসেমিটি ভ্রমণের সময় একটি ছোট্ট ব্রাউনি ক্যামেরা উপহার পান।"
+      },
+      {
+        "en": "The towering granite face of Half Dome bathed in morning light struck him with spiritual epiphany, forging a lifelong quest to capture nature's timeless grandeur.",
+        "bn": "সকালের সোনালি আলোয় উদ্ভাসিত হাফ ডোমের বিশাল গ্রানাইট পাথর দেখে তাঁর মনে এক তীব্র বিস্ময় জাগে এবং তিনি আজীবন প্রকৃতির মহিমা ফ্রেমবন্দী করার শপথ নেন।"
+      },
+      {
+        "en": "Adams developed the meticulous 'Zone System' of photographic exposure, capturing velvety shadows and gleaming snowy summits with sublime tonal clarity.",
+        "bn": "অ্যাডামস ছবির আলো-ছায়ার সূক্ষ্ম পার্থক্যের জন্য 'জোন সিস্টেম' উদ্ভাবন করেন, যার ফলে বরফে ঢাকা পাহাড়ের চূড়া ও গভীর ছায়ার রূপ অত্যন্ত নিখুঁতভাবে ফুটে উঠত।"
+      },
+      {
+        "en": "He hauled bulky wooden view cameras, heavy glass plates, and sturdy tripods on muleback through dangerous icy passes in the Sierra Nevada.",
+        "bn": "তিনি খচ্চরের পিঠে ভারী কাঠের ক্যামেরা, কাঁচের প্লেট আর ট্রাইপড চাপিয়ে সিয়েরা নেভাদার ঝুঁকিপূর্ণ বরফাচ্ছন্ন গিরিপথে ঘুরে বেড়াতেন।"
+      },
+      {
+        "en": "Adams used his luminous portfolios not merely as fine art, but as political ammunition, personally presenting striking prints of Kings Canyon to President Roosevelt.",
+        "bn": "তিনি তাঁর ছবিগুলোকে নিছক শিল্পের মধ্যে সীমাবদ্ধ না রেখে সংরক্ষণের হাতিয়ার বানান এবং কিংস ক্যানিয়নের ছবি নিয়ে সরাসরি মার্কিন প্রেসিডেন্টের কাছে যান।"
+      },
+      {
+        "en": "Enchanted by the undeniable majesty captured on paper, Congress voted to designate Kings Canyon a permanently protected national park.",
+        "bn": "কাগজে ধরা পড়া সেই অবর্ণনীয় সৌন্দর্য দেখে মুগ্ধ হয়ে মার্কিন কংগ্রেস দ্রুত কিংস ক্যানিয়নকে জাতীয় উদ্যান হিসেবে সংরক্ষণের আইন পাস করে।"
+      },
+      {
+        "en": "His breathtaking black-and-white masterworks continue to remind humanity that unspoiled wilderness holds an irremediable sacred value beyond economic exploitation.",
+        "bn": "তাঁর তোলা সাদা-কালো মাস্টারপিসগুলো আজও মানুষকে মনে করিয়ে দেয় যে অবিকৃত প্রকৃতির সৌন্দর্য কোনো বাণিজ্যিক মূল্যের চেয়েও অনেক বেশি পবিত্র ও অমূল্য।"
+      }
+    ]
+  },
+  {
+    "id": "e-o-wilson-half-earth-biodiversity",
+    "title": "E. O. Wilson: The Father of Biodiversity and Ant Kingdoms",
+    "titleBn": "ই. ও. উইলসন: জীববৈচিত্র্যের মহাকাব্য",
+    "author": "Environmental Pioneers",
+    "level": "Intermediate",
+    "category": "Wildlife & Nature",
+    "coverEmoji": "🐜",
+    "summary": "Biologist E. O. Wilson studied microscopic chemical communication in ant colonies, coined the concept of biophilia, and proposed reserving half of Earth for wildlife.",
+    "summaryBn": "পিঁপড়ার রাসায়নিক ভাষা আবিষ্কার থেকে শুরু করে 'হাফ-আর্থ' ধারণার প্রবক্তা বিশ্বখ্যাত জীববিজ্ঞানী ই. ও. উইলসন পৃথিবীর অর্ধেক অংশ বন্যপ্রাণীদের জন্য সংরক্ষিত রাখার ডাক দিয়েছিলেন।",
+    "sentences": [
+      {
+        "en": "Blinded in one eye during a childhood fishing mishap, Edward O. Wilson turned his remaining eye toward tiny creatures beneath his feet, becoming the world authority on ants.",
+        "bn": "শৈশবে মাছ ধরতে গিয়ে এক চোখের দৃষ্টি হারানো এডওয়ার্ড ও. উইলসন নিচের দিকে তাকিয়ে মাটির ক্ষুদ্র প্রাণীদের দেখতে শুরু করেন এবং একসময় পিঁপড়ার প্রধান গবেষক হয়ে ওঠেন।"
+      },
+      {
+        "en": "He discovered that ants communicate across pitch darkness through intricate invisible trails of chemical pheromones secreted from specialized glands.",
+        "bn": "তিনি আবিষ্কার করেন যে অন্ধকারের মধ্যেও পিঁপড়ারা তাদের শরীর থেকে নির্গত বিশেষ গন্ধের রাসায়নিক সংকেতের সাহায্যে দলবদ্ধভাবে যোগাযোগ রক্ষা করে।"
+      },
+      {
+        "en": "Collaborating with mathematician Robert MacArthur, Wilson formulated the Theory of Island Biogeography, discovering mathematical laws governing species equilibrium and extinction.",
+        "bn": "গণিতবিদ রবার্ট ম্যাকআর্থারের সাথে মিলে উইলসন দ্বীপের জীববৈচিত্র্যের গাণিতিক সূত্র উদ্ভাবন করেন, যা জীব প্রজাতির বিলুপ্তি রোধে অত্যন্ত গুরুত্বপূর্ণ।"
+      },
+      {
+        "en": "He popularized the term 'biodiversity' and formulated the concept of 'biophilia,' arguing that human beings possess an innate, genetically wired love for the living natural world.",
+        "bn": "তিনি 'বায়োডাইভারসিটি' বা জীববৈচিত্র্য শব্দটিকে জনপ্রিয় করেন এবং বলেন মানুষের ভেতরেই প্রকৃতির প্রতি এক সহজাত জন্মগত ভালোবাসা বা 'বায়োফিলিয়া' কাজ করে।"
+      },
+      {
+        "en": "In his later years, Wilson launched the visionary 'Half-Earth Project,' proposing that humans dedicate fifty percent of Earth's surface exclusively to nature to prevent mass extinction.",
+        "bn": "পরবর্তী জীবনে উইলসন তাঁর দূরদর্শী 'হাফ-আর্থ' প্রস্তাবনায় বলেন যে পৃথিবীর অর্ধেকেরও বেশি প্রজাতিকে বাঁচাতে হলে ভূপৃষ্ঠের অর্ধেক অংশ পুরোপুরি প্রকৃতির জন্য ছেড়ে দিতে হবে।"
+      },
+      {
+        "en": "His gentle scientific wisdom reminded humanity that every vanished insect species erases an irreplaceable chapter from the billions of years of cosmic evolutionary history.",
+        "bn": "তাঁর গভীর বিজ্ঞানমনস্ক বার্তা মানুষকে মনে করিয়ে দেয় যে প্রতিটি বিলুপ্ত কীটপ্রজাতির সাথে বিলিয়ন বছরের বিবর্তনের এক অনন্য অধ্যায় চিরতরে হারিয়ে যায়।"
+      }
+    ]
+  },
+  {
+    "id": "salim-ali-birdman-silent-valley",
+    "title": "Salim Ali: The Birdman Who Saved Silent Valley",
+    "titleBn": "সেলিম আলী: সাইলেন্ট ভ্যালির রক্ষক ও পাখিপ্রেমিক",
+    "author": "Environmental Pioneers",
+    "level": "Intermediate",
+    "category": "Wildlife & Nature",
+    "coverEmoji": "🐦",
+    "summary": "Pioneering ornithologist Salim Ali mapped the birds of the Indian subcontinent and led the epic crusade that prevented the destruction of Kerala's ancient Silent Valley rainforest.",
+    "summaryBn": "উপমহাদেশের পাখিদের প্রামাণ্য রূপকার ও পাখিপ্রেমিক সেলিম আলী কেরালায় জলবিদ্যুৎ বাঁধ নির্মাণ রুখে দিয়ে ভারতের প্রাচীনতম চিরসবুজ বনাঞ্চল 'সাইলেন্ট ভ্যালি' রক্ষা করেছিলেন।",
+    "sentences": [
+      {
+        "en": "As a boy in Mumbai, Salim Ali shot an unfamiliar yellow-throated sparrow with his toy airgun, sparking a lifelong quest to catalog the diverse birds of the Indian subcontinent.",
+        "bn": "মুম্বাইয়ের এক কিশোর সেলিম আলী খেলনা বন্দুক দিয়ে একটি হলুদ গলার চড়ুই শিকার করে কৌতূহলী হয়ে ওঠেন এবং সেখান থেকেই শুরু হয় উপমহাদেশ জুড়ে পাখি চেনার আজীবন সাধনা।"
+      },
+      {
+        "en": "Conducting systematic ornithological surveys on foot, camel, and bullock cart across dense jungles and arid deserts, he published the definitive multi-volume 'Handbook of the Birds of India and Pakistan.'",
+        "bn": "ঘোড়ার পিঠে, উটে চড়ে আর পায়ে হেঁটে দুর্গম অরণ্য চষে বেড়িয়ে তিনি ভারতের পাখির ওপর ইতিহাসের সবচেয়ে নির্ভরযোগ্য বহু খণ্ডের কোষগ্রন্থ রচনা করেন।"
+      },
+      {
+        "en": "In the 1970s, the Kerala government planned a massive hydroelectric dam across the Kunthipuzha River, which would submerge the pristine tropical rainforest of Silent Valley.",
+        "bn": "১৯৭০-এর দশকে কেরল সরকার কুন্তিপুঝা নদীর ওপর বিশাল জলবিদ্যুৎ বাঁধ তৈরির উদ্যোগ নেয়, যার ফলে তলিয়ে যেত সাইলেন্ট ভ্যালির লাখ লাখ বছরের প্রাচীন বৃষ্টিবন।"
+      },
+      {
+        "en": "Ali rushed to the valley, documenting that this untouched evolutionary refuge housed endangered lion-tailed macaques and rare endemic hornbills found nowhere else on Earth.",
+        "bn": "সেলিম আলী দ্রুত সেই উপত্যকায় ছুটে যান এবং প্রমাণ করেন যে এই অস্পৃশ্য বনে বিরল সিংহ-লেজ ম্যাকাক বানর ও এমন কিছু ধনেশ পাখি রয়েছে যা বিশ্বের আর কোথাও নেই।"
+      },
+      {
+        "en": "He personally appealed to Prime Minister Indira Gandhi, emphasizing that the ecological ruin of an irreplaceable biosphere could never be compensated by temporary megawatts of electricity.",
+        "bn": "তিনি সরাসরি প্রধানমন্ত্রী ইন্দিরা গান্ধীর কাছে আবেদন করে বলেন যে সাময়িক কিছু মেগাওয়াট বিদ্যুতের বিনিময়ে কোটি বছরের এক অমূল্য অরণ্য ডুবিয়ে দেওয়া আত্মঘাতী বোকামি।"
+      },
+      {
+        "en": "Persuaded by Ali's passionate scientific plea, the Indian government canceled the dam, declaring Silent Valley a permanently protected national park in 1984.",
+        "bn": "সেলিম আলীর বিজ্ঞানসম্মত ও জোরালো আবেদনে সরকার বাঁধ প্রকল্প বাতিল করে এবং ১৯৮৪ সালে সাইলেন্ট ভ্যালিকে চিরস্থায়ী জাতীয় উদ্যান ঘোষণা করা হয়।"
+      },
+      {
+        "en": "Known affectionately as the Birdman of India, Salim Ali demonstrated how pure scientific curiosity and moral courage can shield nature's rarest jewels.",
+        "bn": "ভারতের 'পাখিমানব' নামে পরিচিত সেলিম আলী দেখিয়ে গেছেন কীভাবে অকৃত্রিম ভালোবাসা ও সততা দিয়ে প্রকৃতির বিরল রত্নভাণ্ডার রক্ষা করা যায়।"
+      }
+    ]
+  }
+]

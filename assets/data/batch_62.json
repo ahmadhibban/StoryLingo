@@ -1,0 +1,494 @@
+[
+  {
+    "id": "claude-shannon-information-theory",
+    "title": "Claude Shannon: The Architect of the Digital Age",
+    "titleBn": "ক্লদ শ্যানন: ডিজিটাল যুগের মহান রূপকার",
+    "author": "Computing Heritage Review",
+    "level": "Intermediate",
+    "category": "Science & Nature",
+    "coverEmoji": "💡",
+    "summary": "At Bell Labs in 1948, Claude Shannon invents the 'bit', establishes information theory, and lays the mathematical foundation for modern communication.",
+    "summaryBn": "১৯৪৮ সালে বেল ল্যাবসে ক্লদ শ্যানন 'বিট' ধারণার জন্ম দেন, তথ্য তত্ত্ব প্রতিষ্ঠা করেন এবং আধুনিক যোগাযোগের গাণিতিক ভিত্তি স্থাপন করেন।",
+    "sentences": [
+      {
+        "en": "In 1937, while studying at MIT, twenty-one-year-old Claude Shannon wrote what is widely acclaimed as the most important master's thesis of the twentieth century.",
+        "bn": "১৯৩৭ সালে এমআইটিতে পড়ার সময় একুশ বছর বয়সী ক্লদ শ্যানন এমন এক গবেষণাপত্র লেখেন যা বিংশ শতাব্দীর সবচেয়ে গুরুত্বপূর্ণ মাস্টার্স থিসিস হিসেবে বন্দিত।"
+      },
+      {
+        "en": "He proved that nineteenth-century Boolean algebra could be executed physically using electronic relays and switching circuits, inventing digital logic.",
+        "bn": "তিনি প্রমাণ করেন যে ইলেকট্রনিক রিলে ও সুইচের মাধ্যমে বুলিয়ান বীজগণিতের হিসাব করা সম্ভব, যা ডিজিটাল লজিক গেটের জন্ম দেয়।"
+      },
+      {
+        "en": "A decade later, working at Bell Telephone Laboratories, Shannon published his monumental 1948 treatise, 'A Mathematical Theory of Communication'.",
+        "bn": "এক দশক পর বেল ল্যাবরেটরিতে কাজ করার সময় শ্যানন তার ঐতিহাসিক গবেষণাপত্র 'আ ম্যাথমেটিক্যাল থিওরি অব কমিউনিকেশন' প্রকাশ করেন।"
+      },
+      {
+        "en": "He defined information objectively for the first time, stripping it of psychological meaning and measuring it in binary digits, coining the word 'bit'.",
+        "bn": "তিনি প্রথমবারের মতো তথ্যের গাণিতিক পরিমাপ করেন এবং মনস্তাত্ত্বিক ধারণার বাইরে গিয়ে বাইনারি ডিজিটের সংক্ষিপ্ত রূপ 'বিট' শব্দের প্রবর্তন করেন।"
+      },
+      {
+        "en": "Shannon formulated the mathematical limit—the Shannon capacity—defining the absolute maximum data rate achievable across noisy transmission channels without corruption.",
+        "bn": "শ্যানন দেখিয়ে দেন যেকোনো শব্দের গোলমালের মাঝেও সংকেতের বিকৃতি ছাড়া কোনো যোগাযোগ মাধ্যমে সর্বোচ্চ কতটুকু ডেটা আদান-প্রদান করা সম্ভব।"
+      },
+      {
+        "en": "Outside theoretical physics, he delighted in unicycling through laboratory corridors, juggling mechanical balls, and constructing a maze-solving robotic mouse named Theseus.",
+        "bn": "তত্ত্বের বাইরে তিনি ল্যাবের করিডোরে এক চাকার সাইকেল চালিয়ে, বল দিয়ে জাগলিং করে এবং গোলকধাঁধা সমাধানকারী 'থিসিউস' নামের রোবট ইঁদুর বানিয়ে আনন্দ পেতেন।"
+      },
+      {
+        "en": "Shannon's insights transformed telephony, silicon microchips, and the global internet, crowning him the undisputed father of the modern Information Age.",
+        "bn": "শ্যাননের এই আবিষ্কার টেলিফোন, সিলিকন চিপ এবং বৈশ্বিক ইন্টারনেটকে বদলে দেয়, যা তাকে আধুনিক তথ্যপ্রযুক্তি যুগের জনক হিসেবে অমর করে রেখেছে।"
+      }
+    ]
+  },
+  {
+    "id": "von-neumann-computer-architecture",
+    "title": "John von Neumann: The Stored-Program Revolution",
+    "titleBn": "জন ফন নিউম্যান: মেমোরি ও প্রসেসরের যুগান্তকারী স্থাপত্য",
+    "author": "Computer Science Classics",
+    "level": "Intermediate",
+    "category": "Science & Nature",
+    "coverEmoji": "🖥️",
+    "summary": "Polymath John von Neumann drafts the EDVAC report in 1945, unifying processor and memory to establish the universal architecture of modern computing.",
+    "summaryBn": "১৯৪৫ সালে বহুবিদ্যাবিশারদ জন ফন নিউম্যান মেমোরি ও প্রসেসরকে একসূত্রে বেঁধে আধুনিক কম্পিউটারের সার্বজনীন কাঠামোর রূপরেখা তৈরি করেছিলেন।",
+    "sentences": [
+      {
+        "en": "Hungarian-American polymath John von Neumann possessed an intellect so lightning-fast that contemporary Nobel laureates often joked he belonged to a superior extraterrestrial species.",
+        "bn": "হাঙ্গেরীয়-আমেরিকান বহুবিদ্যাবিশারদ জন ফন নিউম্যানের মেধার ক্ষিপ্রতা দেখে সমকালের নোবেলজয়ী বিজ্ঞানীরা রসিকতা করে বলতেন তিনি নিশ্চিত অন্য কোনো গ্রহের জীব।"
+      },
+      {
+        "en": "In 1944, while contributing calculations to the Manhattan Project, von Neumann encountered the room-sized ENIAC computer at the University of Pennsylvania.",
+        "bn": "১৯৪৪ সালে ম্যানহাটন প্রজেক্টে কাজ করার সময় ফন নিউম্যান পেনসিলভানিয়া বিশ্ববিদ্যালয়ে আস্ত এক ঘরের সমান সুবিশাল 'এনিয়াক' কম্পিউটারের মুখোমুখি হন।"
+      },
+      {
+        "en": "At the time, reprogramming the machine required technicians to manually rewire hundreds of heavy copper patch cables over several grueling days.",
+        "bn": "সে যুগে সেই যন্ত্রে নতুন কোনো নির্দেশ দিতে হলে ইঞ্জিনিয়ারদের কয়েক দিন ধরে হাত দিয়ে শত শত ভারী তামার তারের সংযোগ বদলাতে হতো।"
+      },
+      {
+        "en": "In his legendary 1945 report on the proposed EDVAC machine, von Neumann articulated a radical stored-program architecture.",
+        "bn": "১৯৪৫ সালে প্রস্তাবিত এডভ্যাক কম্পিউটারের ঐতিহাসিক প্রতিবেদনে ফন নিউম্যান 'স্টোর্ড প্রোগ্রাম' আর্কিটেকচারের এক বৈপ্লবিক ধারণা তুলে ধরেন।"
+      },
+      {
+        "en": "He proposed that both executable software instructions and operational numerical data should be stored together as binary words within the same physical memory.",
+        "bn": "তিনি প্রস্তাব করেন যে প্রোগ্রামের নির্দেশ এবং হিসাবের ডেটা উভয়কেই একই মেমোরির ভেতরে বাইনারি সংখ্যা হিসেবে পাশাপাশি সংরক্ষণ করা সম্ভব।"
+      },
+      {
+        "en": "This decoupled hardware from software, enabling a solitary electronic machine to switch effortlessly from balancing payrolls to simulating thermonuclear explosions.",
+        "bn": "এর ফলে হার্ডওয়্যার ও সফটওয়্যার আলাদা হয়ে যায়, যার মাধ্যমে একই কম্পিউটার দিয়ে ব্যাংকের হিসাব থেকে শুরু করে পারমাণবিক বিস্ফোরণের সিমুলেশন চালানো সম্ভব হয়।"
+      },
+      {
+        "en": "From humble smartphones to cloud supercomputers, virtually every modern computing device on Earth continues to operate on the von Neumann architecture.",
+        "bn": "হাতের স্মার্টফোন থেকে শুরু করে মহাকাশের সুপারকম্পিউটার পর্যন্ত পৃথিবীর প্রায় প্রতিটি ডিজিটাল যন্ত্র আজও ফন নিউম্যানের সেই নকশাতেই চলে।"
+      }
+    ]
+  },
+  {
+    "id": "grace-hopper-compiler-bug",
+    "title": "Grace Hopper: Teaching Computers Human Language",
+    "titleBn": "গ্রেস হপার: কম্পিউটারকে মানুষের ভাষা শেখানো",
+    "author": "Women in Tech Review",
+    "level": "Intermediate",
+    "category": "Science & Nature",
+    "coverEmoji": "💻",
+    "summary": "Naval officer and mathematician Grace Hopper overcomes institutional skepticism to invent the compiler, proving software can be written in English words.",
+    "summaryBn": "নৌবাহিনীর কর্মকর্তা ও গণিতবিদ গ্রেস হপার প্রাচীন অবিশ্বাস ভেঙে প্রথম কম্পাইলার তৈরি করেন এবং দেখান কম্পিউটারের কোড ইংরেজিতেও লেখা যায়।",
+    "sentences": [
+      {
+        "en": "During World War II, mathematician Grace Hopper joined the United States Navy Reserve, assigned to program the electro-mechanical Mark I computer at Harvard.",
+        "bn": "দ্বিতীয় বিশ্বযুদ্ধের সময় গণিতবিদ গ্রেস হপার মার্কিন নৌবাহিনীতে যোগ দেন এবং হার্ভার্ডের মার্ক-১ ইলেকট্রোমেকানিক্যাল কম্পিউটার চালানোর দায়িত্ব পান।"
+      },
+      {
+        "en": "In 1947, when an electromechanical relay malfunctioned on the Mark II, technicians extracted a live trapped moth, taping it into the logbook as the first actual computer bug.",
+        "bn": "১৯৪৭ সালে মার্ক-২ কম্পিউটারের রিলে বিকল হলে কর্মীরা ভেতর থেকে একটি মথ পোকা উদ্ধার করেন এবং ডায়েরিতে সেঁটে লিখে রাখেন এটিই প্রথম বাস্তব 'কম্পিউটার বাগ'।"
+      },
+      {
+        "en": "At the dawn of the 1950s, writing software required laboriously memorizing raw binary octal codes and hexadecimal memory addresses.",
+        "bn": "১৯৫০-এর দশকের শুরুতে সফটওয়্যার লেখার জন্য ইঞ্জিনিয়ারদের জটিল ও নীরস বাইনারি সংখ্যা এবং মেমোরি অ্যাড্রেস মুখস্থ করে কোড লিখতে হতো।"
+      },
+      {
+        "en": "Hopper conceived an audacious premise: humans should write programs in plain English commands, which an automated intermediary program would translate into machine code.",
+        "bn": "হপার এক বৈপ্লবিক প্রস্তাব দেন: মানুষ তার চেনা ইংরেজি ভাষায় কোড লিখবে, আর একটি বিশেষ মধ্যস্থতাকারী প্রোগ্রাম স্বয়ংক্রিয়ভাবে তাকে মেশিনের ভাষায় রূপান্তর করবে।"
+      },
+      {
+        "en": "Colleagues ridiculed the notion, insisting that silicon machines were incapable of understanding linguistic syntax or vocabulary.",
+        "bn": "সহকর্মীরা এই ধারণাকে উপহাস করে বলেন যে নির্জীব লোহা আর তারের মেশিনের পক্ষে মানুষের ভাষার ব্যাকরণ বা শব্দার্থ বোঝা অসম্ভব।"
+      },
+      {
+        "en": "Undeterred, Hopper developed the A-0 System in 1952, creating the world's first operational compiler and laying the conceptual foundation for COBOL.",
+        "bn": "কোনো উপহাসের পরোয়া না করে হপার ১৯৫২ সালে 'এ-জিরো' সিস্টেম তৈরি করেন, যা বিশ্বের প্রথম কম্পাইলার হয়ে ওঠে এবং বিখ্যাত কোবল ভাষার জন্ম দেয়।"
+      },
+      {
+        "en": "Rear Admiral Hopper democratized computing, transforming software development from an arcane military secret into an accessible global industry.",
+        "bn": "রিয়ার এডমিরাল গ্রেস হপার কোডিংকে কয়েকজন বিজ্ঞানীর গোপন কুঠুরি থেকে মুক্ত করে সমগ্র বিশ্বের তরুণদের জন্য এক উন্মুক্ত দিগন্তে রূপান্তর করেন।"
+      }
+    ]
+  },
+  {
+    "id": "douglas-engelbart-mother-of-demos",
+    "title": "Douglas Engelbart: The Mother of All Demos",
+    "titleBn": "ডগলাস এঙ্গেলবার্ট: প্রযুক্তির সব সেরা চমকের মহাপ্রদর্শন",
+    "author": "Silicon Valley Heritage",
+    "level": "Intermediate",
+    "category": "Science & Nature",
+    "coverEmoji": "🖱️",
+    "summary": "In a ninety-minute 1968 San Francisco presentation, Douglas Engelbart unveils the computer mouse, hypertext, windows, and collaborative video conferencing.",
+    "summaryBn": "১৯৬৮ সালে সান ফ্রান্সিসকোতে ডগলাস এঙ্গেলবার্ট এক অনুষ্ঠানে কম্পিউটার মাউস, হাইপারটেক্সট, উইন্ডো এবং ভিডিও কনফারেন্সিংয়ের উন্মোচন করেন।",
+    "sentences": [
+      {
+        "en": "On December 9, 1968, roughly one thousand computer scientists gathered at the Fall Joint Computer Conference in San Francisco for an extraordinary demonstration.",
+        "bn": "১৯৬৮ সালের ৯ ডিসেম্বর সান ফ্রান্সিসকোর কনফারেন্সে প্রায় এক হাজার কম্পিউটার বিজ্ঞানী এক নজিরবিহীন প্রযুক্তি প্রদর্শন প্রত্যক্ষ করতে সমবেত হন।"
+      },
+      {
+        "en": "At the podium sat Douglas Engelbart, director of the Augmentation Research Center at SRI, wearing a headset microphone before an interactive cathode-ray screen.",
+        "bn": "মঞ্চে বসেছিলেন ডগলাস এঙ্গেলবার্ট; মাথায় মাইক্রোফোন হেডসেট এবং সামনে ইন্টারঅ্যাকটিভ স্ক্রিন নিয়ে তিনি পুরো সভাকে এক নতুন জগতের সাথে পরিচয় করিয়ে দেন।"
+      },
+      {
+        "en": "Over ninety spellbinding minutes, Engelbart showcased an integrated software system called NLS that fundamentally reimagined human-computer interaction.",
+        "bn": "টানা নব্বই মিনিট ধরে এঙ্গেলবার্ট 'এনএলএস' নামের এমন এক সফটওয়্যার ব্যবস্থা প্রদর্শন করেন যা মানুষ ও কম্পিউটারের পারস্পরিক সম্পর্ককে চিরতরে বদলে দেয়।"
+      },
+      {
+        "en": "He rolled a palm-sized wooden block with two metal wheels across the desk, introducing the world's very first computer mouse to control an on-screen cursor.",
+        "bn": "তিনি টেবিলের ওপর দুটি ধাতব চাকা লাগানো একটি কাঠের ছোট বাক্স হাত দিয়ে ঘুরিয়ে দেখান, যা ছিল অন-স্ক্রিন কার্সার নিয়ন্ত্রণের বিশ্বের প্রথম কম্পিউটার মাউস।"
+      },
+      {
+        "en": "He demonstrated clickable hypertext linking documents together, dynamic multiple overlapping display windows, live digital text editing, and word processing.",
+        "bn": "তিনি ক্লিকেবল হাইপারটেক্সট, একাধিক উইন্ডো, রিয়েল-টাইম ডিজিটাল টেক্সট এডিটিং এবং এক ডকুমেন্টের সাথে অন্য ডকুমেন্টের সংযোগ সরাসরি দেখান।"
+      },
+      {
+        "en": "Most astonishingly, he conducted a live split-screen video conference with an engineer located thirty miles away, collaboratively editing a shared shopping list.",
+        "bn": "সবচেয়ে বড় চমক ছিল ত্রিশ মাইল দূরের এক সহকর্মীর সাথে লাইভ স্প্লিট-স্ক্রিন ভিডিও কনফারেন্সিং করে একই সাথে এক ফাইলে যৌথভাবে কাজ করা।"
+      },
+      {
+        "en": "Remembered as 'The Mother of All Demos', this legendary event presented the unified technological blueprint for personal computing decades ahead of its time.",
+        "bn": "'সকল ডেমোর মা' হিসেবে স্মরণীয় এই ঐতিহাসিক প্রদর্শনী ব্যক্তিগত কম্পিউটার এবং ইন্টারনেটের সামগ্রিক রূপরেখা কয়েক দশক আগেই তুলে ধরেছিল।"
+      }
+    ]
+  },
+  {
+    "id": "alan-kay-gui-dynabook",
+    "title": "Alan Kay: The Vision of the Personal Computer",
+    "titleBn": "অ্যালান কে: ব্যক্তিগত কম্পিউটারের রূপকার ও দূরদর্শী চিন্তা",
+    "author": "Palo Alto Research Gazette",
+    "level": "Intermediate",
+    "category": "Science & Nature",
+    "coverEmoji": "📱",
+    "summary": "At Xerox PARC, Alan Kay conceives the Dynabook, invents object-oriented programming with Smalltalk, and creates the modern graphical desktop interface.",
+    "summaryBn": "জেরক্স পার্কে অ্যালান কে ডায়নাবুকের স্বপ্ন দেখেন, অবজেক্ট-ওরিয়েন্টেড প্রোগ্রামিং স্মলটক তৈরি করেন এবং আধুনিক গ্রাফিক্যাল ডেস্কটপ ইন্টারফেস গড়ে তোলেন।",
+    "sentences": [
+      {
+        "en": "In 1968, visionary computer scientist Alan Kay sketched a cardboard model of a thin, portable flat-screen computer designed for children, christening it the 'Dynabook'.",
+        "bn": "১৯৬৮ সালে দূরদর্শী কম্পিউটার বিজ্ঞানী অ্যালান কে শিশুদের জন্য পাতলা ও ফ্ল্যাট-স্ক্রিনের এক বহনযোগ্য কম্পিউটারের পিচবোর্ডের নকশা আঁকেন এবং নাম দেন 'ডায়নাবুক'।"
+      },
+      {
+        "en": "Joining the legendary Xerox Palo Alto Research Center (PARC) in 1970, Kay spearheaded the Learning Research Group to realize this revolutionary ideal.",
+        "bn": "১৯৭০ সালে বিখ্যাত জেরক্স পার্ক গবেষণাগারে যোগ দিয়ে কে এই বৈপ্লবিক স্বপ্নকে বাস্তবে রূপ দেওয়ার জন্য এক বিজ্ঞানী দলের নেতৃত্ব গ্রহণ করেন।"
+      },
+      {
+        "en": "Kay and his team invented Smalltalk, the pioneering pure object-oriented programming language where software components communicate by exchanging messages.",
+        "bn": "কে এবং তার দল 'স্মলটক' নামের প্রথম বিশুদ্ধ অবজেক্ট-ওরিয়েন্টেড প্রোগ্রামিং ভাষা তৈরি করেন, যেখানে সফটওয়্যারের প্রতিটি অংশ বার্তার মাধ্যমে তথ্য আদান-প্রদান করত।"
+      },
+      {
+        "en": "Upon the Xerox Alto workstation, they engineered the Graphical User Interface (GUI), complete with overlapping windows, desktop folders, icons, and popup menus.",
+        "bn": "জেরক্স অল্টো কম্পিউটারে তারা তৈরি করেন আধুনিক গ্রাফিক্যাল ইন্টারফেস, যার মধ্যে ছিল ফোল্ডার, আইকন, মাউস মেনু এবং একটির ওপর আরেকটি উইন্ডো।"
+      },
+      {
+        "en": "When a young Steve Jobs toured Xerox PARC in 1979, he was so electrified by Kay's graphical desktop that he modeled the Apple Macintosh upon it.",
+        "bn": "১৯৭৯ সালে তরুণ স্টিভ জবস জেরক্স পার্ক পরিদর্শনকালে এই গ্রাফিক্যাল ইন্টারফেস দেখে এতটাই চমৎকৃত হন যে এর ভিত্তিতেই তিনি অ্যাপল ম্যাকিনটোশ তৈরি করেন।"
+      },
+      {
+        "en": "Kay famously maintained that 'the best way to predict the future is to invent it', focusing on augmenting human cognitive development.",
+        "bn": "কে তার অমর উক্তি করেছিলেন: 'ভবিষ্যত জানার সেরা উপায় হলো একে নিজেই উদ্ভাবন করা', যা মানুষের চিন্তাশক্তিকে প্রসারিত করতে প্রযুক্তির ভূমিকাকে গুরুত্ব দেয়।"
+      },
+      {
+        "en": "Decades later, modern tablets and laptops stand as the physical vindication of Alan Kay's luminous childhood Dynabook dream.",
+        "bn": "কয়েক দশক পর আজকের হাতের ট্যাবলেট ও ল্যাপটপ অ্যালান কের শৈশবের সেই ডায়নাবুকের স্বপ্নেরই এক বাস্তব ও উজ্জ্বল রূপায়ণ।"
+      }
+    ]
+  },
+  {
+    "id": "deep-blue-kasparov-chess",
+    "title": "Deep Blue vs. Kasparov: The Silicon Checkmate",
+    "titleBn": "ডিপ ব্লু বনাম কাসপারভ: সিলিকন চিপের রাজকীয় কিস্তিমাত",
+    "author": "Artificial Intelligence Review",
+    "level": "Intermediate",
+    "category": "Science & Nature",
+    "coverEmoji": "♟️",
+    "summary": "In May 1997, IBM's chess-playing supercomputer Deep Blue defeats World Champion Garry Kasparov in New York, crossing a historic milestone in AI.",
+    "summaryBn": "১৯৯৭ সালের মে মাসে নিউ ইয়র্কে আইবিএম-এর দাবাড়ু সুপারকম্পিউটার ডিপ ব্লু বিশ্বচ্যাম্পিয়ন গ্যারি কাসপারভকে পরাজিত করে কৃত্রিম বুদ্ধিমত্তার নতুন দিগন্ত খোলে।",
+    "sentences": [
+      {
+        "en": "For over a century, the game of chess was universally regarded as the ultimate pinnacle of human intellect, intuition, and strategic foresight.",
+        "bn": "এক শতাব্দীরও বেশি সময় ধরে দাবা খেলাকে মানুষের মেধা, অন্তর্জ্ঞান ও কৌশলগত দূরদর্শিতার সর্বোচ্চ চূড়া হিসেবে বিবেচনা করা হতো।"
+      },
+      {
+        "en": "Reigning World Chess Champion Garry Kasparov possessed an aggressive, psychological mastery that had intimidated all human challengers for over a decade.",
+        "bn": "তৎকালীন বিশ্বচ্যাম্পিয়ন গ্যারি কাসপারভ এমন এক আক্রমণাত্মক ও মনস্তাত্ত্বিক দক্ষতার অধিকারী ছিলেন যা এক দশকেরও বেশি সময় সমস্ত মানব প্রতিদ্বন্দ্বীকে পরাস্ত করেছিল।"
+      },
+      {
+        "en": "In May 1997, an upgraded IBM supercomputer named Deep Blue, equipped with thirty-two specialized parallel processors, challenged him to a six-game rematch in New York.",
+        "bn": "১৯৯৭ সালের মে মাসে নিউ ইয়র্কে বত্রিশটি প্যারালাল প্রসেসরে সজ্জিত আইবিএম-এর সুপারকম্পিউটার 'ডিপ ব্লু' কাসপারভকে ছয় ম্যাচের ঐতিহাসিক লড়াইয়ে আহ্বান জানায়।"
+      },
+      {
+        "en": "Deep Blue could compute and evaluate an astonishing two hundred million chess board positions every single second using deep minimax alpha-beta tree search.",
+        "bn": "ডিপ ব্লু প্রতি এক সেকেন্ডে দাবার বোর্ডের অবিশ্বাস্য বিশ কোটি সম্ভাব্য চালের অবস্থান হিসাব ও মূল্যায়ন করতে সক্ষম ছিল।"
+      },
+      {
+        "en": "In the dramatic decisive Game 6, Kasparov made an uncharacteristic knight sacrifice error in the opening, which the machine punished with ruthless tactical precision.",
+        "bn": "নাটকীয় ষষ্ঠ ও শেষ খেলায় কাসপারভ শুরুতে একটি ভুল চাল দিলে যন্ত্রটি কোনো ভুল না করে নির্মম নিখুঁত চালে তাকে চারদিক থেকে ঘিরে ফেলে।"
+      },
+      {
+        "en": "Resigning after just nineteen moves with bowed head, Kasparov walked away in disbelief as a machine achieved match victory over a reigning human world champion.",
+        "bn": "মাত্র উনিশ চালের মাথায় মাথা নিচু করে পরাজয় স্বীকার করে কাসপারভ স্তব্ধ হয়ে যান, যখন কোনো যন্ত্র প্রথমবার বিশ্বচ্যাম্পিয়নকে পরাজিত করল।"
+      },
+      {
+        "en": "Deep Blue's triumph signaled that brute-force computational power could outmaneuver human intuition in complex deterministic strategy games.",
+        "bn": "ডিপ ব্লুর এই জয় প্রমাণ করেছিল যে কম্পিউটারের বিপুল গণনাশক্তি মানুষের অন্তর্জ্ঞানকেও জটিল কৌশলগত খেলায় ছাড়িয়ে যেতে সক্ষম।"
+      }
+    ]
+  },
+  {
+    "id": "alphago-move-thirty-seven",
+    "title": "AlphaGo and Move 37: The Spark of Machine Intuition",
+    "titleBn": "আলফাগো ও সাঁইত্রিশতম চাল: যন্ত্রের ভেতর প্রতিভার স্ফুলিঙ্গ",
+    "author": "Cognitive AI Chronicles",
+    "level": "Intermediate",
+    "category": "Science & Nature",
+    "coverEmoji": "⚪",
+    "summary": "In 2016 Seoul, DeepMind's AlphaGo plays an unexpected, beautiful move against legendary master Lee Sedol, demonstrating authentic machine creativity.",
+    "summaryBn": "২০১৬ সালে সিউলে ডিপমাইন্ডের আলফাগো কিংবদন্তি খেলোয়াড় লি সেডোলের বিরুদ্ধে এমন এক অপ্রত্যাশিত ও সৃজনশীল চাল দেয় যা বিশ্বকে চমকে দিয়েছিল।",
+    "sentences": [
+      {
+        "en": "The ancient Asian board game of Go possesses more legal board configurations than the total number of atoms in the observable universe.",
+        "bn": "প্রাচীন এশীয় খেলা 'গো'-এর সম্ভাব্য চালের সংখ্যা দৃশ্যমান মহাবিশ্বের সমস্ত পরমাণুর সম্মিলিত সংখ্যার চেয়েও বহুগুণ বেশি।"
+      },
+      {
+        "en": "Because brute-force calculation is mathematically impossible in Go, computer scientists predicted that artificial intelligence would not conquer human masters for decades.",
+        "bn": "যেহেতু কেবল গণনা দিয়ে এই খেলা জয় করা অসম্ভব, তাই বিজ্ঞানীরা ধরে নিয়েছিলেন এআই অন্তত কয়েক দশক মানুষের শ্রেষ্ঠ খেলোয়াড়কে হারাতে পারবে না।"
+      },
+      {
+        "en": "In March 2016, DeepMind staged a historic five-game match in Seoul between eighteen-time world champion Lee Sedol and their autonomous neural network, AlphaGo.",
+        "bn": "২০১৬ সালের মার্চে সিউলে ডিপমাইন্ড তাদের নিউরাল নেটওয়ার্ক আলফাগো এবং আঠারো বারের বিশ্বচ্যাম্পিয়ন লি সেডোলের মধ্যে পাঁচ ম্যাচের দ্বৈরথের আয়োজন করে।"
+      },
+      {
+        "en": "During Game 2, at Move 37, AlphaGo placed a black stone on the fifth line—a bizarre placement that human players considered a catastrophic rookie mistake.",
+        "bn": "দ্বিতীয় খেলার সাঁইত্রিশতম চালে আলফাগো পঞ্চম লাইনে এক কালো ঘুঁটি বসায়—যা সাধারণ সব খেলোয়াড়দের কাছে এক চরম আনাড়ি ভুল বলে মনে হয়েছিল।"
+      },
+      {
+        "en": "Lee Sedol froze in utter disbelief, walked out of the auditorium to regain composure, and spent fifteen minutes staring at the board.",
+        "bn": "লি সেডোল হতবাক হয়ে চেয়ার ছেড়ে উঠে বাইরে চলে যান এবং ফিরে এসে টানা পনেরো মিনিট বোর্ডের সেই অদ্ভুত চালের দিকে তাকিয়ে থাকেন।"
+      },
+      {
+        "en": "As the match unfolded, the seemingly errant stone exerted subtle, brilliant control over the entire center of the board, steering AlphaGo to a majestic victory.",
+        "bn": "খেলা যত এগোতে থাকল, সেই চালটি পুরো বোর্ডের নিয়ন্ত্রণ নিজের হাতে নিয়ে নেয় এবং আলফাগোকে এক অভূতপূর্ব ও শৈল্পিক বিজয়ের দিকে এগিয়ে নিয়ে যায়।"
+      },
+      {
+        "en": "Move 37 proved that deep reinforcement learning could generate authentic aesthetic creativity, transcending millennia of human tactical dogma.",
+        "bn": "সাঁইত্রিশ নম্বর চালটি প্রমাণ করে যে ডিপ লার্নিং মানুষের হাজার বছরের প্রচলিত নিয়ম ভেঙে নিজস্ব অনন্য সৃজনশীলতার জন্ম দিতে সক্ষম।"
+      }
+    ]
+  },
+  {
+    "id": "geoffrey-hinton-neural-networks",
+    "title": "Geoffrey Hinton: The Faith in Artificial Neurons",
+    "titleBn": "জিওফ্রে হিন্টন: কৃত্রিম নিউরনে অটুট বিশ্বাসের গল্প",
+    "author": "Deep Learning Annals",
+    "level": "Intermediate",
+    "category": "Science & Nature",
+    "coverEmoji": "🧠",
+    "summary": "Through decades of academic isolation during the AI winter, Geoffrey Hinton champions artificial neural networks, birthing the deep learning explosion.",
+    "summaryBn": "কৃত্রিম বুদ্ধিমত্তার দীর্ঘ শৈত্যপ্রবাহের দিনেও জিওফ্রে হিন্টন নিউরাল নেটওয়ার্কের ওপর বিশ্বাস রেখে আধুনিক ডিপ লার্নিং বিপ্লবের সূচনা করেছিলেন।",
+    "sentences": [
+      {
+        "en": "During the long 'AI Winters' of the 1970s and 1980s, funding evaporated as the computer science establishment declared artificial neural networks a dead-end heresy.",
+        "bn": "১৯৭০ ও ১৯৮০-এর দশকের দীর্ঘ 'এআই উইন্টারে' গবেষণা অনুদান বন্ধ হয়ে যায় কারণ মূলধারার বিজ্ঞানীরা নিউরাল নেটওয়ার্ককে সম্পূর্ণ নিষ্ফল বলে উড়িয়ে দেন।"
+      },
+      {
+        "en": "British-Canadian cognitive psychologist Geoffrey Hinton persevered in lonely isolation, convinced that machines must mirror the organic biological brain.",
+        "bn": "ব্রিটিশ-কানাডীয় মনোবিজ্ঞানী জিওফ্রে হিন্টন একাকী গবেষণায় অটল থাকেন, তার বিশ্বাস ছিল মানুষের মস্তিষ্কের জীবন্ত জালের মতোই মেশিনকে গড়তে হবে।"
+      },
+      {
+        "en": "In 1986, Hinton, alongside David Rumelhart and Ronald Williams, popularized the backpropagation algorithm for training multi-layer neural networks.",
+        "bn": "১৯৮৬ সালে হিন্টন তার সহকর্মীদের সাথে মাল্টি-লেয়ার নিউরাল নেটওয়ার্ককে প্রশিক্ষণ দেওয়ার 'ব্যাকপ্রোপাগেশন' অ্যালগরিদম সফলভাবে তুলে ধরেন।"
+      },
+      {
+        "en": "For years, computer chips lacked the computational horsepower to process massive data, but Hinton patiently refined his mathematical formulations.",
+        "bn": "বহু বছর ধরে কম্পিউটার চিপে এত বিশাল ডেটা প্রক্রিয়াকরণের শক্তি ছিল না, তবুও হিন্টন পরম ধৈর্য ধরে তার গাণিতিক সূত্রগুলোকে নিখুঁত করতে থাকেন।"
+      },
+      {
+        "en": "In 2012, Hinton and his graduate students entered AlexNet into the ImageNet visual recognition contest, crushing conventional algorithmic models by half.",
+        "bn": "২০১২ সালে হিন্টন ও তার ছাত্ররা ইমেজনেট প্রতিযোগিতায় 'অ্যালেক্সনেট' নামিয়ে সনাতন সব অ্যালগরিদমকে অর্ধেকেরও বেশি ব্যবধানে পরাজিত করে ইতিহাস গড়েন।"
+      },
+      {
+        "en": "This seismic breakthrough unleashed the modern deep learning epoch, powering voice assistants, self-driving automobiles, and generative foundation models.",
+        "bn": "এই যুগান্তকারী সাফল্য আধুনিক ডিপ লার্নিং যুগের বিস্ফোরণ ঘটায়, যা আজ ভয়েস অ্যাসিস্ট্যান্ট, স্বয়ংক্রিয় গাড়ি এবং আধুনিক এআই মডেলগুলোকে শক্তি জোগাচ্ছে।"
+      },
+      {
+        "en": "Hinton's unwavering intellectual fidelity transformed a ridiculed hypothesis into the core computational architecture of twenty-first-century civilization.",
+        "bn": "হিন্টনের সেই অবিচল নিষ্ঠা একসময় উপহাসের শিকার হওয়া ধারণাকে একুশ শতকের মানব সভ্যতার প্রধানতম প্রযুক্তির মেরুদণ্ডে রূপান্তর করেছে।"
+      }
+    ]
+  },
+  {
+    "id": "tim-berners-lee-world-wide-web",
+    "title": "Tim Berners-Lee: The Gift of the World Wide Web",
+    "titleBn": "টিম বার্নার্স-লি: বিশ্বকে উন্মুক্ত ইন্টারনেটের নিঃস্বার্থ উপহার",
+    "author": "Internet History Gazette",
+    "level": "Intermediate",
+    "category": "Science & Nature",
+    "coverEmoji": "🌐",
+    "summary": "Working at CERN in 1989, Tim Berners-Lee invents the World Wide Web, choosing not to patent his creation and gifting it unconditionally to humanity.",
+    "summaryBn": "১৯৮৯ সালে সার্নে বসে টিম বার্নার্স-লি ওয়ার্ল্ড ওয়াইড ওয়েব আবিষ্কার করেন এবং কোনো স্বত্ব না নিয়ে তা নিঃস্বার্থভাবে পুরো মানবজাতিকে উপহার দেন।",
+    "sentences": [
+      {
+        "en": "In 1989, British software engineer Tim Berners-Lee worked at CERN, the European particle physics laboratory sprawling across the Swiss-French border.",
+        "bn": "১৯৮৯ সালে ব্রিটিশ সফটওয়্যার প্রকৌশলী টিম বার্নার্স-লি সুইজারল্যান্ড-ফ্রান্স সীমান্তে অবস্থিত সার্ন কণা পদার্থবিজ্ঞান গবেষণাগারে কর্মরত ছিলেন।"
+      },
+      {
+        "en": "Frustrated that thousands of multinational physicists were unable to easily share research documents across incompatible operating systems, he drafted a modest proposal.",
+        "bn": "নানা দেশের বিজ্ঞানীরা ভিন্ন ভিন্ন অপারেটিং সিস্টেমের কারণে নিজেদের গবেষণার ফাইল সহজে বিনিময় করতে না পারায় বিরক্ত হয়ে তিনি এক সাধারণ প্রস্তাব লেখেন।"
+      },
+      {
+        "en": "His supervisor famously annotated the document as: 'Vague but exciting...', giving him permission to experiment on a NeXT workstation.",
+        "bn": "তার বিভাগীয় প্রধান সেই কাগজের ওপর লিখেছিলেন: 'অস্পষ্ট তবে রোমাঞ্চকর...', এবং তাকে একটি নেক্সট কম্পিউটারে পরীক্ষা চালানোর অনুমতি দেন।"
+      },
+      {
+        "en": "Berners-Lee singlehandedly authored HTML for structuring pages, HTTP for transmitting data, and URLs for unique global document addressing.",
+        "bn": "বার্নার্স-লি একাই তৈরি করেন পেজ সাজানোর এইচটিএমএল, তথ্য পাঠানোর এইচটিটিপি এবং যেকোনো পেজের সুনির্দিষ্ট ঠিকানা খোঁজার ইউআরএল ব্যবস্থা।"
+      },
+      {
+        "en": "In December 1990, he launched the world's very first website and web browser, ushering in an era of boundless interlinked digital knowledge.",
+        "bn": "১৯৯০ সালের ডিসেম্বরে তিনি বিশ্বের প্রথম ওয়েবসাইট ও ওয়েব ব্রাউজার চালু করেন, যা বিশ্বজুড়ে সংযুক্ত তথ্যের এক নতুন যুগের সূচনা করে।"
+      },
+      {
+        "en": "Crucially, in 1993, he convinced CERN to release the entire Web codebase into the public domain completely royalty-free and open to all.",
+        "bn": "সবচেয়ে মহৎ কাজ ছিল ১৯৯৩ সালে তিনি সার্নকে রাজি করান যাতে ওয়েবের সমস্ত কোড কোনো রয়্যালটি বা পেটেন্ট ছাড়াই উন্মুক্ত পাবলিক ডোমেইনে দিয়ে দেওয়া হয়।"
+      },
+      {
+        "en": "Refusing to monetize his invention, Tim Berners-Lee ensured the Web became a universal democratic public commons connecting all humanity.",
+        "bn": "কোটি কোটি টাকার বাণিজ্যিক মুনাফার হাতছানি ফিরিয়ে দিয়ে টিম বার্নার্স-লি ওয়েবকে সমগ্র মানবজাতির জন্য এক উন্মুক্ত ও গণতান্ত্রিক অধিকার হিসেবে নিশ্চিত করেন।"
+      }
+    ]
+  },
+  {
+    "id": "linus-torvalds-linux-kernel",
+    "title": "Linus Torvalds: The Accidental OS Revolution",
+    "titleBn": "লিনাস টরভাল্ডস: শোবার ঘর থেকে বিশ্বজয়ের অপারেটিং সিস্টেম",
+    "author": "Open Source Chronicles",
+    "level": "Intermediate",
+    "category": "Science & Nature",
+    "coverEmoji": "🐧",
+    "summary": "A twenty-one-year-old Finnish student posts a hobby operating system on Usenet in 1991, igniting the global open-source revolution that powers our planet.",
+    "summaryBn": "১৯৯১ সালে এক তরুণ ফিনিশ ছাত্র শখের বশে এক অপারেটিং সিস্টেমের কোড ইন্টারনেটে পোস্ট করে বিশ্বজয়ী ওপেন-সোর্স আন্দোলনের জন্ম দেন।",
+    "sentences": [
+      {
+        "en": "In August 1991, twenty-one-year-old computer science student Linus Torvalds sat in his cluttered bedroom in Helsinki, Finland, typing a modest Usenet post.",
+        "bn": "১৯৯১ সালের আগস্টে ফিনল্যান্ডের হেলসিঙ্কির এক সাধারণ শোবার ঘরে বসে একুশ বছর বয়সী ছাত্র লিনাস টরভাল্ডস ইউজনেট গ্রুপে এক বিনয়ী বার্তা পোস্ট করেন।"
+      },
+      {
+        "en": "'I'm doing a (free) operating system (just a hobby, won't be big and professional like gnu)', he typed, seeking feedback on his Minix clone.",
+        "bn": "'আমি একটি বিনামূল্যে অপারেটিং সিস্টেম বানাচ্ছি (নিছকই শখের বশে, গ্নু-র মতো অত বড় বা পেশাদার কিছু নয়)', লিখে তিনি সবার মতামত জানতে চাইলেন।"
+      },
+      {
+        "en": "Frustrated by the prohibitive expense of proprietary UNIX licenses for personal computers, Linus wrote the kernel code completely from scratch.",
+        "bn": "ব্যক্তিগত কম্পিউটারে বাণিজ্যিক ইউনিক্স লাইসেন্সের অতিরিক্ত খরচে ক্ষুব্ধ হয়ে লিনাস একদম গোড়া থেকে নিজস্ব অপারেটিং সিস্টেমের কার্নেল কোড লিখেছিলেন।"
+      },
+      {
+        "en": "He adopted the GNU General Public License, allowing programmers across the globe to freely view, modify, and improve his original source code.",
+        "bn": "তিনি গ্নু জেনারেল পাবলিক লাইসেন্স বেছে নেন, যা বিশ্বজুড়ে যে কাউকে তার কোড দেখা, পরিবর্তন ও সমৃদ্ধ করার পূর্ণ স্বাধীনতা দেয়।"
+      },
+      {
+        "en": "Thousands of volunteer programmers worldwide rallied to fix bugs and build drivers, coalescing into history's largest decentralized intellectual collaboration.",
+        "bn": "বিশ্বের হাজার হাজার স্বেচ্ছাসেবী প্রোগ্রামার কোনো পারিশ্রমিক ছাড়াই কোডের ভুল সংশোধন ও নতুন ফিচার তৈরিতে ঝাঁপিয়ে পড়ে এক অনন্য আন্দোলন গড়ে তোলেন।"
+      },
+      {
+        "en": "Today, Linux and its mascot Tux the penguin run the world's top five hundred supercomputers, planetary internet servers, space probes, and billions of Android phones.",
+        "bn": "আজ লিনাক্স এবং তার পেঙ্গুইন মাসকট বিশ্বের সেরা পাঁচশত সুপারকম্পিউটার, ইন্টারনেট সার্ভার, মহাকাশযান এবং কোটি কোটি অ্যান্ড্রয়েড ফোন পরিচালনা করছে।"
+      },
+      {
+        "en": "Linus Torvalds proved that open, transparent collaboration and shared knowledge can build software infrastructure far surpassing corporate monopolies.",
+        "bn": "লিনাস টরভাল্ডস দেখিয়ে দিয়েছিলেন যে উন্মুক্ত সহযোগিতা ও নিঃস্বার্থ জ্ঞানবণ্টন যেকোনো বৃহৎ কর্পোরেট আধিপত্যের চেয়েও শক্তিশালী হতে পারে।"
+      }
+    ]
+  },
+  {
+    "id": "satoshi-nakamoto-bitcoin-ledger",
+    "title": "Satoshi Nakamoto: The Architecture of Trust",
+    "titleBn": "সাতোশি নাকামোতো: আস্থাহীন জগতে বিশ্বাসের নতুন স্থাপত্য",
+    "author": "Cryptographic Ledger Review",
+    "level": "Intermediate",
+    "category": "Science & Nature",
+    "coverEmoji": "⛓️",
+    "summary": "In the wake of the 2008 financial crash, an anonymous cryptographer invents Bitcoin, solving the double-spend problem through a decentralized blockchain.",
+    "summaryBn": "২০০৮ সালের বিশ্ব অর্থনৈতিক মন্দার পটভূমিতে এক অজ্ঞাত ক্রিপ্টোগ্রাফার ব্লকচেইন প্রযুক্তি উদ্ভাবন করে ব্যাংকমুক্ত ডিজিটাল মুদ্রার জন্ম দেন।",
+    "sentences": [
+      {
+        "en": "On October 31, 2008, as global financial institutions collapsed under subprime mortgage fraud, an anonymous figure posted a nine-page whitepaper to a cryptography mailing list.",
+        "bn": "২০০৮ সালের ৩১ অক্টোবর যখন বিশ্বের বড় বড় ব্যাংকগুলো চরম আর্থিক সংকটে ভেঙে পড়ছিল, এক অজ্ঞাত পরিচয় ব্যক্তি একটি ক্রিপ্টোগ্রাফি গ্রুপে নয় পৃষ্ঠার গবেষণাপত্র পোস্ট করেন।"
+      },
+      {
+        "en": "Signed under the pseudonym Satoshi Nakamoto, the document was titled: 'Bitcoin: A Peer-to-Peer Electronic Cash System'.",
+        "bn": "'সাতোশি নাকামোতো' ছদ্মনামে পাঠানো সেই দলিলের নাম ছিল: 'বিটকয়েন: এক পিয়ার-টু-পিয়ার ইলেকট্রনিক ক্যাশ ব্যবস্থা'।"
+      },
+      {
+        "en": "For decades, computer scientists had struggled with the 'double-spending problem'—how to prevent digital tokens from being effortlessly duplicated and spent twice without a central bank.",
+        "bn": "কয়েক দশক ধরে বিজ্ঞানীরা এক ডিজিটাল মুদ্রাকে কপি করে দুবার খরচ করা রোধ করার কোনো কেন্দ্রীয় ব্যাংকবিহীন সমাধান খুঁজে পাচ্ছিলেন না।"
+      },
+      {
+        "en": "Satoshi devised a breathtaking synthesis: combining proof-of-work cryptographic hashing with an immutable, chained ledger validated by a decentralized consensus network.",
+        "bn": "সাতোশি এক অভাবনীয় সমন্বয় ঘটালেন: ক্রিপ্টোগ্রাফিক প্রুফ-অব-ওয়ার্কের সাথে অপরিবর্তনীয় ব্লকচেইনের সমন্বয় ঘটিয়ে তিনি এক বিকেন্দ্রীভূত নেটওয়ার্ক গড়ে তোলেন।"
+      },
+      {
+        "en": "On January 3, 2009, Satoshi mined the genesis block, famously embedding a Times of London headline protesting bank bailouts into the raw ledger code.",
+        "bn": "২০০৯ সালের ৩ জানুয়ারি সাতোশি প্রথম ব্লক মাইন করেন এবং ঐতিহাসিক ব্যাংকের আর্থিক প্রণোদনার বিরুদ্ধে লন্ডনের টাইমস পত্রিকার শিরোনামটি কোডের ভেতর সেঁটে দেন।"
+      },
+      {
+        "en": "After overseeing development for two years, Satoshi quietly vanished from the internet in 2011, leaving a multi-billion-dollar fortune untouched.",
+        "bn": "দুই বছর এই প্রকল্প পরিচালনার পর ২০১১ সালে সাতোশি নিঃশব্দে ইন্টারনেট থেকে উধাও হয়ে যান এবং নিজের হাজার কোটি ডলারের সম্পদ অক্ষত ফেলে রেখে যান।"
+      },
+      {
+        "en": "By dissolving personal identity, Nakamoto ensured that decentralized cryptographic trust belonged entirely to mathematical consensus rather than any fallible human ruler.",
+        "bn": "নিজের আত্মপরিচয় গোপন রেখে সাতোশি নিশ্চিত করেছিলেন যে এই বিকেন্দ্রীভূত ব্যবস্থার বিশ্বাস কোনো মানুষের ক্ষমতার বদলে নিখুঁত গণিতের ওপর প্রতিষ্ঠিত থাকবে।"
+      }
+    ]
+  },
+  {
+    "id": "transformer-attention-modern-ai",
+    "title": "The Transformer: Attention Is All You Need",
+    "titleBn": "ট্রান্সফরমার আর্কিটেকচার: মনোযোগই যেখানে সব",
+    "author": "Generative Computing Review",
+    "level": "Intermediate",
+    "category": "Science & Nature",
+    "coverEmoji": "⚡",
+    "summary": "In 2017, a team of Google researchers invents the Transformer architecture, whose self-attention mechanism ignites the generative artificial intelligence era.",
+    "summaryBn": "২০১৭ সালে গুগলের গবেষক দল ট্রান্সফরমার আর্কিটেকচার উদ্ভাবন করে, যার সেলফ-অ্যাটেনশন মেকানিজম বর্তমান আধুনিক জেনারেটিভ এআই বিপ্লবের ভিত্তি গড়ে দেয়।",
+    "sentences": [
+      {
+        "en": "Until 2017, artificial intelligence struggled profoundly with processing human language because recurrent neural networks analyzed text word-by-word sequentially.",
+        "bn": "২০১৭ সাল পর্যন্ত মানুষের ভাষা বুঝতে এআইকে ভীষণ বেগ পেতে হতো কারণ আগের রিকারেন্ট নিউরাল নেটওয়ার্কগুলো একটি একটি করে শব্দ ক্রমানুসারে পড়ত।"
+      },
+      {
+        "en": "This sequential bottleneck made training on massive book libraries impossible and caused models to forget the beginning of long paragraphs before reaching the end.",
+        "bn": "এই ধীরগতির কারণে বিশাল বই বা দীর্ঘ নথি পড়ে শেখা অসম্ভব ছিল এবং লম্বা অনুচ্ছেদের শেষের দিকে পৌঁছানোর আগেই মডেল শুরুর কথা ভুলে যেত।"
+      },
+      {
+        "en": "In June 2017, eight researchers at Google published a revolutionary paper with an audacious title: 'Attention Is All You Need'.",
+        "bn": "২০১৭ সালের জুনে গুগলের আটজন তরুণ গবেষক এক বৈপ্লবিক গবেষণাপত্র প্রকাশ করেন যার সাহসী শিরোনাম ছিল: 'অ্যাটেনশন ইজ অল ইউ নিড'।"
+      },
+      {
+        "en": "They discarded sequential recurrence entirely in favor of a novel self-attention mechanism that allowed neural networks to process all words in a sentence simultaneously.",
+        "bn": "তারা পুরোনো ক্রমানুসারিক পদ্ধতি পুরোপুরি বাতিল করে 'সেলফ-অ্যাটেনশন' নামের এক নতুন ব্যবস্থা চালু করেন যা বাক্যের সব শব্দকে একসাথে প্রক্রিয়াকরণ করতে পারে।"
+      },
+      {
+        "en": "Self-attention enabled the model to dynamically compute the grammatical and semantic relationships between distant words across complex paragraphs.",
+        "bn": "এই সেলফ-অ্যাটেনশনের মাধ্যমে মডেলটি একটি অনুচ্ছেদের দূরবর্তী শব্দের সাথে অন্য শব্দের ব্যাকরণগত ও ভাবার্থের সম্পর্ক নিখুঁতভাবে ধরতে পারে।"
+      },
+      {
+        "en": "Highly parallelizable across clusters of modern graphic processors, the Transformer architecture catalyzed the explosive emergence of large language models.",
+        "bn": "আধুনিক জিপিইউ প্রসেসরে অবিশ্বাস্য গতিতে প্রশিক্ষণযোগ্য এই ট্রান্সফরমার আর্কিটেকচার আজকের বিশালাকার লার্জ ল্যাঙ্গুয়েজ মডেলগুলোর জন্ম দেয়।"
+      },
+      {
+        "en": "The paper forever altered computational history, enabling software to compose poetry, debug complex code, and converse with human-level nuance.",
+        "bn": "এই গবেষণাপত্র কম্পিউটিংয়ের ইতিহাসকে চিরতরে বদলে দিয়েছে, যার বদৌলতে আজ কম্পিউটার মানুষের মতোই কবিতা লিখতে, কোড মেরামত করতে এবং প্রাণবন্ত কথা বলতে পারে।"
+      }
+    ]
+  }
+]

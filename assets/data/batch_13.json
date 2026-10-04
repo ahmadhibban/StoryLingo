@@ -1,0 +1,617 @@
+[
+  {
+    "id": "sci-curie-pitchblende-glow",
+    "title": "Marie Curie and the Blue Glow of Radium",
+    "titleBn": "মারি কুরি ও রেডিয়ামের নীল আভা",
+    "author": "Scientific Pioneer",
+    "level": "Intermediate",
+    "category": "Science & Inventions",
+    "coverEmoji": "⚗️",
+    "summary": "Marie Curie labors for years stirring tons of pitchblende in a freezing wooden shed to isolate pure radium.",
+    "summaryBn": "কনকনে শীতের এক ভাঙা কাঠের ঘরে টন টন বর্জ্য আকরিক নেড়ে নেড়ে রাতের অন্ধকারে জ্বলে ওঠা রেডিয়াম আবিষ্কার করেন মারি কুরি।",
+    "sentences": [
+      {
+        "en": "In a drafty, abandoned wooden dissection shed in Paris, Marie Curie and her husband Pierre embarked on an almost impossible chemical quest.",
+        "bn": "প্যারিসের এক জরাজীর্ণ কাঠের ঘরে মারি কুরি ও তার স্বামী পিয়ের এক অসম্ভব রাসায়নিক অভিযানে হাত দিলেন।"
+      },
+      {
+        "en": "Convinced that an unknown element was hiding inside uranium pitchblende ore, they hauled heavy sacks of toxic industrial waste from mines in Bohemia.",
+        "bn": "ইউরেনিয়াম বর্জ্যের মধ্যে এক অচেনা তেজস্ক্রিয় মৌল লুকিয়ে আছে বিশ্বাস করে তারা বোহেমিয়ার খনি থেকে বস্তা বস্তা আকরিক বয়ে আনলেন।"
+      },
+      {
+        "en": "For four grueling years, Marie stirred boiling caldrons of acidic sludge with an iron rod almost as tall as herself, choking in caustic chemical fumes.",
+        "bn": "টানা চার বছর ধরে মারি নিজের সমান লম্বা এক লোহার রড দিয়ে ফুটন্ত অ্যাসিডের কড়াই নাড়তেন, শ্বাসরুদ্ধকর বিষাক্ত ধোঁয়ার মাঝে দিন কাটিয়ে।"
+      },
+      {
+        "en": "Her hands were cracked by corrosive acids and her body ached from hauling hundreds of gallons of liquid in freezing winter temperatures.",
+        "bn": "অ্যাসিডের পোড়া ক্ষতে তার হাত ফেটে রক্ত পড়ত এবং শীতে জমে যাওয়া শরীরে শত শত গ্যালন তরল টেনে টেনে তিনি ক্লান্ত হয়ে পড়তেন।"
+      },
+      {
+        "en": "From eight tons of black pitchblende residue, they finally crystallized a tiny fraction of a gram of pure radium chloride.",
+        "bn": "আট টন কালো আকরিকের বর্জ্য পুড়িয়ে ও ছেঁকে তারা শেষ পর্যন্ত মাত্র এক গ্রামের সামান্য ভগ্নাংশ খাঁটি রেডিয়াম ক্লোরাইড আলাদা করতে সক্ষম হলেন।"
+      },
+      {
+        "en": "Entering their pitch-black laboratory that evening, they gasped in wonder as glass vials on the dusty tables glowed with an ethereal pale-blue light.",
+        "bn": "সেদিন সন্ধ্যায় অন্ধকার ল্যাবরেটরিতে পা রাখতেই তারা বিস্ময়ে স্তব্ধ হয়ে দেখলেন টেবিলের কাচের নলে রাখা পদার্থটি থেকে এক অদ্ভুত স্বর্গীয় নীল আলো ছড়াচ্ছে।"
+      },
+      {
+        "en": "Marie Curie's selfless grit not only revolutionized atomic physics and oncology, but made her the first person ever to win two Nobel Prizes in different sciences.",
+        "bn": "মারি কুরির এই নিঃস্বার্থ সাধনা কেবল পরমাণু বিজ্ঞান ও ক্যান্সারের চিকিৎসায় বিপ্লব ঘটায়নি, তাকে দুটি ভিন্ন বিজ্ঞানে নোবেলজয়ী প্রথম ব্যক্তি হিসেবে অমর করে রেখেছে।"
+      }
+    ]
+  },
+  {
+    "id": "sci-jenner-smallpox-vaccine",
+    "title": "Edward Jenner and the Milkmaid's Secret",
+    "titleBn": "এডওয়ার্ড জেনার ও গুটিবসন্তের টিকা",
+    "author": "Medical Breakthrough",
+    "level": "Intermediate",
+    "category": "Science & Inventions",
+    "coverEmoji": "💉",
+    "summary": "Observing that milkmaids never caught deadly smallpox, Dr. Edward Jenner creates the world's very first life-saving vaccine.",
+    "summaryBn": "গোয়ালিনীরা কেন গুটিবসন্তে আক্রান্ত হয় না তা গভীরভাবে পর্যবেক্ষণ করে মানব ইতিহাসের সর্বপ্রথম জীবনরক্ষাকারী টিকা আবিষ্কার করেন ডা. জেনার।",
+    "sentences": [
+      {
+        "en": "In the eighteenth century, smallpox was the deadliest scourge on Earth, killing millions and leaving survivors disfigured with horrific scars.",
+        "bn": "অষ্টাদশ শতাব্দীতে গুটিবসন্ত ছিল পৃথিবীর সবচেয়ে প্রাণঘাতী মহামারী, যা লাখ লাখ মানুষকে হত্যা করত আর বেঁচে যাওয়াদের মুখে রেখে যেত কুৎসিত ক্ষতচিহ্ন।"
+      },
+      {
+        "en": "Dr. Edward Jenner, an observant country physician in Gloucestershire, paid close attention to rural folklore among dairy farmers.",
+        "bn": "গ্লুচেস্টারশায়ারের পল্লি চিকিৎসক ডা. এডওয়ার্ড জেনার খামারিদের মধ্যে প্রচলিত এক গ্রামীণ বিশ্বাসের দিকে গভীর মনোযোগ দিলেন।"
+      },
+      {
+        "en": "Local milkmaids claimed that contracting mild cowpox from dairy cattle rendered them permanently immune to the fatal smallpox plague.",
+        "bn": "গ্রামের গোয়ালিনীরা বিশ্বাস করত যে গাভীর দুধ দোয়ানোর সময় তাদের হওয়া মৃদু 'গো-বসন্ত' তাদের কোনোদিন মারাত্মক গুটিবসন্তে আক্রান্ত হতে দেয় না।"
+      },
+      {
+        "en": "In May 1796, Jenner extracted pus from a cowpox lesion on milkmaid Sarah Nelmes and inoculated eight-year-old James Phipps.",
+        "bn": "১৭৯৬ সালের মে মাসে জেনার গোয়ালিনী সারা নেলমসের গো-বসন্তের ফোস্কার পুঁজ নিয়ে জেমস ফিলিপস নামের আট বছরের এক বালকের শরীরে প্রবেশ করালেন।"
+      },
+      {
+        "en": "After the boy recovered from slight fever, Jenner boldly exposed him to deadly smallpox matter weeks later.",
+        "bn": "বালকটি হালকা জ্বরের পর সুস্থ হয়ে উঠলে কয়েক সপ্তাহ পর জেনার সাহসিকতার সাথে তার শরীরে মারাত্মক গুটিবসন্তের জীবাণু প্রয়োগ করলেন।"
+      },
+      {
+        "en": "To the doctor's profound relief, no disease developed; the harmless cowpox had trained the child's immune system to repel the deadly virus completely.",
+        "bn": "ডাক্তারের পরম স্বস্তিতে দেখা গেল শিশুটির কিছুই হলো না; নিরীহ গো-বসন্ত তার শরীরের রোগপ্রতিরোধ ক্ষমতাকে এমনভাবে গড়ে তুলেছিল যা আসল ভাইরাসকে রুখে দিয়েছিল।"
+      },
+      {
+        "en": "Jenner named his discovery 'vaccine' from the Latin word for cow, paving the path that eventually eradicated smallpox from the face of our planet.",
+        "bn": "ল্যাটিন ভাষায় গরুর নাম 'ভাক্কা' থেকে তিনি এই পদ্ধতির নাম রাখলেন 'ভ্যাকসিন', যা শেষ পর্যন্ত পৃথিবী থেকে গুটিবসন্তকে চিরতরে মুছে ফেলেছিল।"
+      }
+    ]
+  },
+  {
+    "id": "sci-fleming-moldy-petri-dish",
+    "title": "Alexander Fleming and the Forgotten Mold",
+    "titleBn": "আলেকজান্ডার ফ্লেমিং ও পেনিসিলিনের বিস্ময়",
+    "author": "Medical Discovery",
+    "level": "Intermediate",
+    "category": "Science & Inventions",
+    "coverEmoji": "🧫",
+    "summary": "An untidy laboratory dish left by an open window reveals a green fungus that destroys deadly bacteria, birthing modern antibiotics.",
+    "summaryBn": "খোলা জানালার পাশে ফেলে রাখা ময়লা কাচের থালায় জন্মানো নীল ছত্রাক কীভাবে ব্যাকটেরিয়া ধ্বংস করে চিকিৎসা বিজ্ঞানে নতুন দিগন্ত খুলে দেয়।",
+    "sentences": [
+      {
+        "en": "In September 1928, Scottish bacteriologist Alexander Fleming returned from a month-long summer holiday to his cluttered laboratory at Saint Mary's Hospital in London.",
+        "bn": "১৯২৮ সালের সেপ্টেম্বরে স্কটিশ ব্যাকটেরিয়াবিদ আলেকজান্ডার ফ্লেমিং লন্ডনের সেন্ট মেরি হাসপাতালের নিজের অগোছালো ল্যাবরেটরিতে এক মাসের ছুটি কাটিয়ে ফিরলেন।"
+      },
+      {
+        "en": "Before leaving, he had stacked dozens of glass Petri dishes inoculated with infectious Staphylococcus bacteria on a side workbench.",
+        "bn": "ছুটিতে যাওয়ার আগে তিনি মারাত্মক সংক্রামক স্ট্যাফিলোকক্কাস ব্যাকটেরিয়াযুক্ত ডজন ডজন কাচের পেত্রি ডিশ এক কোণে স্তূপ করে রেখে গিয়েছিলেন।"
+      },
+      {
+        "en": "While sorting through the discarded dishes to wash them in disinfectant, Fleming noticed something peculiar on one contaminated plate.",
+        "bn": "জীবাণুনাশকে ধোয়ার জন্য থালাগুলো আলাদা করার সময় একটি দূষিত প্লেটে তার চোখ আটকে গেল এক অদ্ভুত ঘটনার দিকে।"
+      },
+      {
+        "en": "A drift of spores from an open window had sprouted a fluffy blue-green mold, around which all bacterial colonies had completely dissolved.",
+        "bn": "খোলা জানালা দিয়ে আসা বাতাসে নীলচে-সবুজ ছত্রাক বা ছত্রাকের জন্ম হয়েছিল, যার চারপাশের সমস্ত ব্যাকটেরিয়ার কলোনি মোমের মতো গলে মিলিয়ে গিয়েছিল।"
+      },
+      {
+        "en": "Rather than tossing the ruined sample into the sink, Fleming peered through his microscope and muttered his famous words: 'That's funny.'",
+        "bn": "নষ্ট থালাটি ধুয়ে ফেলার বদলে ফ্লেমিং অণুবীক্ষণ যন্ত্রে চোখ রেখে মৃদুস্বরে বললেন: 'ব্যাপারটা তো বেশ অদ্ভুত!'"
+      },
+      {
+        "en": "He identified the fungal mold as Penicillium notatum, discovering that it produced a powerful secretion capable of slaying lethal microbes without harming human cells.",
+        "bn": "তিনি ছত্রাকটিকে 'পেনিসিলিয়াম নোটেটাম' হিসেবে শনাক্ত করলেন এবং দেখলেন এটি এমন রস ক্ষরণ করে যা মানুষের ক্ষতি না করেই ব্যাকটেরিয়াকে মেরে ফেলে।"
+      },
+      {
+        "en": "This serendipitous observation gave birth to penicillin, the miracle wonder drug that has saved hundreds of millions of lives across the globe.",
+        "bn": "আকস্মিক এই সূক্ষ্ম পর্যবেক্ষণ জন্ম দিয়েছিল পেনিসিলিন নামের এক জাদুকরী ওষুধের, যা পৃথিবীর বুকে শত কোটি মানুষের অমূল্য প্রাণ রক্ষা করেছে।"
+      }
+    ]
+  },
+  {
+    "id": "sci-galileo-telescope-jupiter",
+    "title": "Galileo and the Moons of Jupiter",
+    "titleBn": "গ্যালিলিও ও বৃহস্পতির চারটি চাঁদ",
+    "author": "Astronomy",
+    "level": "Intermediate",
+    "category": "Science & Inventions",
+    "coverEmoji": "🔭",
+    "summary": "Galileo turns his crude homemade spyglass toward the night sky, discovering four moons orbiting Jupiter and revolutionizing our cosmos.",
+    "summaryBn": "নিজের হাতে তৈরি দূরবীন রাতের আকাশের দিকে তাক করে বৃহস্পতির চাঁদ আবিষ্কারের মাধ্যমে বিশ্বব্রহ্মাণ্ডের পুরনো ধারণাকে চূর্ণ করেন গ্যালিলিও।",
+    "sentences": [
+      {
+        "en": "In the winter of 1609, Italian mathematician Galileo Galilei ground glass lenses by hand to construct an improved telescope with thirty-power magnification.",
+        "bn": "১৬০৯ সালের শীতে ইতালীয় গণিতবিদ গ্যালিলিও গ্যালিলি নিজের হাতে কাচ ঘষে ত্রিশ গুণ ক্ষমতাসম্পন্ন এক উন্নত দূরবীন তৈরি করলেন।"
+      },
+      {
+        "en": "While contemporary philosophers believed the heavens were unchanging and perfect crystalline spheres, Galileo turned his spyglass toward the stars.",
+        "bn": "তৎকালীন পণ্ডিতরা যখন বিশ্বাস করতেন মহাকাশ হলো ত্রুটিহীন ও অপরিবর্তনীয় কাচের গোলক, তখন গ্যালিলিও তার দূরবীন আকাশের দিকে তাক করলেন।"
+      },
+      {
+        "en": "On January 7, 1610, he pointed the long tube toward the bright amber light of Jupiter, the largest planet in the heavens.",
+        "bn": "১৬১০ সালের ৭ জানুয়ারি তিনি উজ্জ্বল সোনালী বৃহস্পতি গ্রহের দিকে নিজের তৈরি লম্বা দূরবীনটি নিশানায় রাখলেন।"
+      },
+      {
+        "en": "To his bewilderment, he noticed three tiny, brilliant star-like points aligned in a straight line directly flanking the giant planet.",
+        "bn": "তিনি হতবাক হয়ে লক্ষ্য করলেন সেই বিশালাকার গ্রহটির ঠিক পাশাপাশি একই সরলরেখায় তিনটি উজ্জ্বল বিন্দুর মতো ছোট তারা জ্বলজ্বল করছে।"
+      },
+      {
+        "en": "Observing them over successive nights, Galileo saw the celestial specks change positions and soon spotted a fourth, proving they were moons orbiting Jupiter.",
+        "bn": "পরবর্তী কয়েক রাত পর্যবেক্ষণ করে তিনি দেখলেন বিন্দুগুলো নিজেদের জায়গা বদলাচ্ছে এবং চতুর্থ একটি চাঁদও দেখা দিল—প্রমাণ হলো এরা বৃহস্পতিকে প্রদক্ষিণ করছে।"
+      },
+      {
+        "en": "This single discovery dealt a fatal blow to the ancient geocentric dogma that every body in the universe revolved around planet Earth.",
+        "bn": "এই একটিমাত্র আবিষ্কার সেই পুরনো ভূকেন্দ্রিক মতবাদকে পুরোপুরি ধুলোয় মিশিয়ে দিল যা দাবি করত মহাবিশ্বের সবকিছুই পৃথিবীকে কেন্দ্র করে ঘোরে।"
+      },
+      {
+        "en": "Galileo championed observational truth regardless of theological persecution, opening humanity's eyes to the boundless majesty of the modern cosmos.",
+        "bn": "ধর্মীয় গোঁড়ামির ভয় না করে গ্যালিলিও বিজ্ঞানের প্রত্যক্ষ সত্যকে তুলে ধরলেন এবং আধুনিক মহাজাগতিক সত্যের দিকে মানুষের চোখ খুলে দিলেন।"
+      }
+    ]
+  },
+  {
+    "id": "sci-faraday-candle-electric",
+    "title": "Michael Faraday and the Dynamo Spark",
+    "titleBn": "মাইকেল ফ্যারাডে ও বিদ্যুতের প্রথম স্ফুলিঙ্গ",
+    "author": "Physics & Electricity",
+    "level": "Intermediate",
+    "category": "Science & Inventions",
+    "coverEmoji": "⚡",
+    "summary": "The uneducated son of an impoverished blacksmith discovers electromagnetic induction, laying the foundation of modern electric power.",
+    "summaryBn": "দরিদ্র কামারের ছেলে হয়েও চুম্বক আর তামার তার নাড়িয়ে বিদ্যুৎ উৎপাদনের নীতি আবিষ্কার করে আধুনিক সভ্যতার আলো জ্বালেন মাইকেল ফ্যারাডে।",
+    "sentences": [
+      {
+        "en": "Born to a penniless blacksmith in London, Michael Faraday received almost no formal schooling and was apprenticed to a bookbinder at age fourteen.",
+        "bn": "লন্ডনের এক গরিব কামার পরিবারে জন্ম নিয়ে মাইকেল ফ্যারাডে কোনো প্রাতিষ্ঠানিক শিক্ষা পাননি এবং চৌদ্দ বছর বয়সেই বই বাঁধাইয়ের কাজে ঢুকতে হয়েছিল।"
+      },
+      {
+        "en": "While binding scientific treatises, young Faraday voraciously read every page, conducting makeshift electrical experiments in his garret bedroom.",
+        "bn": "বই বাঁধাই করার ফাঁকে তরুণ ফ্যারাডে বিজ্ঞানের প্রতিটি পাতা গোগ্রাসে পড়তেন এবং নিজের ছোট্ট চিলেকোঠায় ঘরে বসে বৈদ্যুতিক পরীক্ষা চালাতেন।"
+      },
+      {
+        "en": "His brilliance caught the attention of Sir Humphry Davy, who hired him as a laboratory assistant at the prestigious Royal Institution.",
+        "bn": "তার অদ্ভুত মেধা স্যার হামফ্রি ডেভির নজরে এলে তিনি ফ্যারাডেকে রয়্যাল ইনস্টিটিউশনে ল্যাব সহকারী হিসেবে চাকরি দিলেন।"
+      },
+      {
+        "en": "In 1831, Faraday wondered: if electricity could produce magnetism, could a magnetic field generate electric current?",
+        "bn": "১৮৩১ সালে ফ্যারাডে চিন্তা করলেন: বিদ্যুৎ যদি চুম্বকত্ব তৈরি করতে পারে, তবে একটি চৌম্বক ক্ষেত্র কি বিদ্যুৎ প্রবাহ তৈরি করতে পারে না?"
+      },
+      {
+        "en": "He wound an insulated copper coil around a paper cylinder, connected it to a galvanometer, and plunged a bar magnet through the core.",
+        "bn": "তিনি কাগজের নলের ওপর তামার তার পেঁচিয়ে গ্যালভানোমিটারের সাথে যুক্ত করলেন এবং তার ভেতর দিয়ে একটি দণ্ডচুম্বক দ্রুত প্রবেশ করালেন।"
+      },
+      {
+        "en": "At that exact instant, the sensitive needle jumped; the motion of the magnet through wire had generated an electrical pulse from pure movement.",
+        "bn": "ঠিক সেই মুহূর্তে সুইটি কেঁপে উঠল; তারের ভেতর চুম্বকের গতি খালি নড়াচড়া থেকেই খাঁটি বিদ্যুৎ প্রবাহ তৈরি করে ফেলেছিল।"
+      },
+      {
+        "en": "When a skeptical British politician asked what use electricity had, Faraday famously replied: 'Sir, one day you will tax it!'",
+        "bn": "এক ব্রিটিশ মন্ত্রী যখন ব্যঙ্গ করে জানতে চাইলেন বিদ্যুতের কী উপযোগিতা আছে, ফ্যারাডে হেসে বলেছিলেন: 'জনাব, একদিন আপনারা এর ওপরই ট্যাক্স বসাবেন!'"
+      }
+    ]
+  },
+  {
+    "id": "sci-darwin-finches-galapagos",
+    "title": "Charles Darwin and the Galapagos Finches",
+    "titleBn": "চার্লস ডারউইন ও গ্যালাপাগোসের চড়ুই পাখি",
+    "author": "Evolutionary Biology",
+    "level": "Intermediate",
+    "category": "Science & Inventions",
+    "coverEmoji": "🐦",
+    "summary": "A voyage on HMS Beagle reveals subtle variations in bird beaks across volcanic islands, unlocking the theory of evolution by natural selection.",
+    "summaryBn": "এইচএমএস বিগল জাহাজে চড়ে দ্বীপ থেকে দ্বীপে পাখির ঠোঁটের সামান্য রূপভেদ লক্ষ্য করে বিবর্তনের মহাতত্ত্ব আবিষ্কার করেন চার্লস ডারউইন।",
+    "sentences": [
+      {
+        "en": "In September 1835, HMS Beagle dropped anchor in the desolate volcanic archipelago of the Galapagos Islands, six hundred miles off South America.",
+        "bn": "১৮৩৫ সালের সেপ্টেম্বরে দক্ষিণ আমেরিকা থেকে ছয়শো মাইল দূরে গ্যালাপাগোস দ্বীপপুঞ্জের নির্জন আগ্নেয় দ্বীপে নোঙর ফেলল জরিপ জাহাজ 'এইচএমএস বিগল'।"
+      },
+      {
+        "en": "Aboard was twenty-six-year-old naturalist Charles Darwin, observing marine iguanas, giant tortoises, and flocks of small, dull-colored ground finches.",
+        "bn": "জাহাজে ছিলেন ছাব্বিশ বছর বয়সী প্রকৃতিবিদ চার্লস ডারউইন, যিনি সাগরের ইগুয়ানা, দানবীয় কচ্ছপ আর ছোট ছোট ধূসর রঙের চড়ুই পাখি পর্যবেক্ষণ করছিলেন।"
+      },
+      {
+        "en": "Darwin noticed that each isolated island was inhabited by finches whose beaks differed markedly in shape and size.",
+        "bn": "ডারউইন লক্ষ্য করলেন প্রতিটি বিচ্ছিন্ন দ্বীপে থাকা চড়ুই পাখির ঠোঁটের গড়ন ও আকারে এক সূক্ষ্ম অথচ লক্ষণীয় পার্থক্য রয়েছে।"
+      },
+      {
+        "en": "Birds on islands with hard seeds possessed massive, thick nutcracker beaks capable of crushing heavy shells with immense jaw power.",
+        "bn": "যেসব দ্বীপে শক্ত বীজ বেশি ছিল, সেখানকার পাখিদের ছিল জাঁতার মতো মোটা শক্ত ঠোঁট যা দিয়ে অনায়াসে শক্ত খোসা ভাঙা যায়।"
+      },
+      {
+        "en": "Conversely, finches on islands abundant in flowering cacti sported slender, sharp probes tailored perfectly for sipping nectar without getting pricked by thorns.",
+        "bn": "আবার যেখানে ক্যাকটাস বেশি ছিল, সেখানকার পাখিদের ঠোঁট ছিল সরু আর তীক্ষ্ণ, যাতে কাঁটার আঘাত না খেয়ে মিষ্টি মধু পান করা যায়।"
+      },
+      {
+        "en": "Darwin realized that an original ancestral flock had migrated to the islands and gradually adapted across millennia to different ecological niches.",
+        "bn": "ডারউইন উপলব্ধি করলেন এক আদিম পাখির ঝাঁক কোনো এককালে এখানে এসে হাজার হাজার বছর ধরে পরিবেশের সাথে লড়াই করে নিজেদের রূপ বদলে নিয়েছে।"
+      },
+      {
+        "en": "This profound insight formed the bedrock of his masterpiece The Origin of Species, illuminating how nature's quiet pressures shape the tree of life.",
+        "bn": "এই অন্তর্দৃষ্টিই জন্ম দিয়েছিল তার যুগান্তকারী গ্রন্থ 'দ্য অরিজিন অফ স্পিসিস', যা উন্মোচন করেছিল প্রাকৃতিক নির্বাচনের মাধ্যমে জীবনের অনন্ত রূপান্তর।"
+      }
+    ]
+  },
+  {
+    "id": "sci-mendel-pea-plants",
+    "title": "Gregor Mendel and the Abbey Garden Peas",
+    "titleBn": "গ্রেগর মেন্ডেল ও মঠের বাগানের মটরশুঁটি",
+    "author": "Genetics & Botany",
+    "level": "Intermediate",
+    "category": "Science & Inventions",
+    "coverEmoji": "🌱",
+    "summary": "An Augustinian friar cross-pollinates twenty-eight thousand pea plants to uncover the hidden laws of genetic inheritance.",
+    "summaryBn": "আশ্রমের ছোট্ট বাগানে আঠাশ হাজার মটরশুঁটি গাছ চাষ করে বংশগতির গোপন গাণিতিক সূত্র আবিষ্কার করেন ধর্মযাজক গ্রেগর মেন্ডেল।",
+    "sentences": [
+      {
+        "en": "Inside the quiet brick courtyard of Saint Thomas's Abbey in Brno, an Augustinian friar named Gregor Mendel tended a small two-acre vegetable patch.",
+        "bn": "ব্রুনো শহরের সেন্ট থমাস মঠের লাল ইটের শান্ত উঠোনে গ্রেগর মেন্ডেল নামের এক যাজক পরম যত্নে দুই একরের সবজির বাগান দেখাশোনা করতেন।"
+      },
+      {
+        "en": "While nineteenth-century thinkers assumed parental traits merely blended together like paints, Mendel suspected hereditary rules followed precise mathematics.",
+        "bn": "ঊনবিংশ শতাব্দীর বিজ্ঞানীরা যখন ভাবতেন পিতা-মাতার গুণাবলি রঙের মতো মিশে যায়, মেন্ডেলের ধারণা ছিল বংশগতি নিখুঁত গণিতের নিয়মে চলে।"
+      },
+      {
+        "en": "Over eight dedicated years, he hand-pollinated more than twenty-eight thousand common garden pea plants with small camel-hair brushes.",
+        "bn": "টানা আট বছর ধরে তিনি উটের পশমের তৈরি ছোট্ট তুলি দিয়ে আঠাশ হাজারেরও বেশি মটরশুঁটি গাছে নিজ হাতে পরাগায়ন ঘটালেন।"
+      },
+      {
+        "en": "He tracked seven distinct pairs of opposing physical traits, including purple versus white blossoms and smooth versus wrinkled green seeds.",
+        "bn": "তিনি সাত জোড়া বিপরীতমুখী বৈশিষ্ট্য পর্যবেক্ষণ করলেন, যেমন বেগুনি ও সাদা ফুল, এবং মসৃণ ও কুঁচকানো সবুজ মটরদানা।"
+      },
+      {
+        "en": "When crossing tall and short vines, the first generation produced only tall plants, but the second generation reliably yielded a three-to-one ratio of tall to dwarf.",
+        "bn": "লম্বা আর খাটো গাছের মিলনে প্রথম প্রজন্মে কেবল লম্বা গাছ পেলেও, দ্বিতীয় প্রজন্মে তিন অনুপাত এক হারে খাটো গাছের বৈশিষ্ট্য আবার ফিরে এলো।"
+      },
+      {
+        "en": "Mendel proved that hereditary factors—which we now call genes—do not blend, but remain discrete units passed down as dominant or recessive traits.",
+        "bn": "মেন্ডেল প্রমাণ করলেন বংশগতির উপাদান—যাকে আমরা আজ জিন বলি—কখনো মিশে যায় না, বরং প্রকট ও প্রচ্ছন্ন বৈশিষ্ট্য হিসেবে অবিকল বজায় থাকে।"
+      },
+      {
+        "en": "Though his revolutionary paper lay ignored for decades after his death, Mendel's patient pea garden gave birth to the entire science of modern genetics.",
+        "bn": "মৃত্যুর পর বহু বছর তার গবেষণাপত্র অবহেলিত থাকলেও মঠের সেই শান্ত বাগান থেকেই জন্ম নিয়েছিল আধুনিক জিনতত্ত্বের সমগ্র দিগন্ত।"
+      }
+    ]
+  },
+  {
+    "id": "sci-bohr-atom-solar-system",
+    "title": "Niels Bohr and the Dance of the Electron",
+    "titleBn": "নিলস বোর ও ইলেকট্রনের কোয়ান্টাম নৃত্য",
+    "author": "Quantum Physics",
+    "level": "Intermediate",
+    "category": "Science & Inventions",
+    "coverEmoji": "⚛️",
+    "summary": "Niels Bohr unites classical physics with quantum mystery, showing how electrons leap between fixed energy orbits like planets around the sun.",
+    "summaryBn": "পরমাণুর কেন্দ্রে থাকা নিউক্লিয়াসকে ঘিরে নির্দিষ্ট কক্ষপথে ইলেকট্রনের লাফানোর অদ্ভুত রহস্য সমাধান করেন ডেনিশ বিজ্ঞানী নিলস বোর।",
+    "sentences": [
+      {
+        "en": "In 1913, young Danish physicist Niels Bohr grappled with an agonizing paradox that threatened to dismantle the foundations of classical physics.",
+        "bn": "১৯১৩ সালে তরুণ ডেনিশ পদার্থবিদ নিলস বোর এক গভীর ধাঁধায় পড়লেন যা পদার্থবিজ্ঞানের পুরনো ভিত্তি কাঁপিয়ে দিচ্ছিল।"
+      },
+      {
+        "en": "According to traditional electromagnetic theory, orbiting electrons should continuously radiate energy and spiral into the atomic nucleus within a fraction of a second.",
+        "bn": "প্রচলিত নিয়ম অনুযায়ী কক্ষপথে ঘূর্ণায়মান ইলেকট্রনের শক্তি হারিয়ে পলকের মধ্যে পরমাণুর কেন্দ্রে আছড়ে পড়ে পুরো পরমাণু ধ্বংস হওয়ার কথা।"
+      },
+      {
+        "en": "Yet all matter around us was manifestly stable; granite mountains did not collapse, and gold rings did not implode into nothingness.",
+        "bn": "অথচ আমাদের চোখের সামনের জগৎ সম্পূর্ণ স্থিতিশীল; পাথরের পাহাড় ভেঙে পড়ে না আর সোনার আংটিও শূন্যে মিলিয়ে যায় না।"
+      },
+      {
+        "en": "Bohr made a daring conceptual leap by proposing that electrons can only occupy specific, quantized orbits without radiating any energy at all.",
+        "bn": "বোর এক দুঃসাহসিক প্রস্তাব দিলেন: ইলেকট্রন কোনো শক্তি না হারিয়ে কেবল নির্দিষ্ট কিছু 'কোয়ান্টাম' স্থায়ী কক্ষপথেই ঘুরতে পারে।"
+      },
+      {
+        "en": "An electron could only jump between these discrete tracks by instantaneously absorbing or emitting a precise packet of light called a photon.",
+        "bn": "এক কক্ষপথ থেকে অন্য কক্ষপথে লাফানোর জন্য ইলেকট্রনকে ফোটন নামের নির্দিষ্ট পরিমাণের আলোর শক্তি গ্রহণ বা বর্জন করতে হয়।"
+      },
+      {
+        "en": "This revolutionary quantum model perfectly explained the mysterious spectral light lines emitted by glowing hydrogen gas tubes.",
+        "bn": "এই কোয়ান্টাম মডেলটি হাইড্রোজেন গ্যাসের উজ্জ্বল টিউব থেকে বের হওয়া রঙিন আলোর রেখার রহস্যকে নিখুঁতভাবে ব্যাখ্যা করতে সক্ষম হলো।"
+      },
+      {
+        "en": "Bohr's visionary model opened the door to modern semiconductor electronics, lasers, and our deepest understanding of subatomic reality.",
+        "bn": "বোরের এই দূরদর্শী চিন্তা সেমিকন্ডাক্টর চিপ, লেজার প্রযুক্তি এবং পরমাণুর গভীর রহস্যকে জানার এক নতুন স্বর্ণযুগের সূচনা করল।"
+      }
+    ]
+  },
+  {
+    "id": "sci-goodall-gombe-chimps",
+    "title": "Jane Goodall and David Greybeard in Gombe",
+    "titleBn": "জেন গুডল ও বনের শিম্পাঞ্জি ডেভিড",
+    "author": "Primatology & Ethology",
+    "level": "Intermediate",
+    "category": "Science & Inventions",
+    "coverEmoji": "🌿",
+    "summary": "A patient young Englishwoman living in the Tanzanian jungle discovers wild chimpanzees crafting tools, redefining what it means to be human.",
+    "summaryBn": "তাঞ্জানিয়ার গহিন অরণ্যে একা বাস করে শিম্পাঞ্জিদের কাঠি দিয়ে পোকা শিকার করতে দেখে মানবজাতির সংজ্ঞাই বদলে দিয়েছিলেন জেন গুডল।",
+    "sentences": [
+      {
+        "en": "In July 1960, twenty-six-year-old Jane Goodall arrived on the shores of Lake Tanganyika in Tanzania, equipped with only a notebook and a pair of binoculars.",
+        "bn": "১৯৬০ সালের জুলাইয়ে ছাব্বিশ বছর বয়সী জেন গুডল একটি খাতা আর একজোড়া দূরবীন সম্বল করে তাঞ্জানিয়ার টাঙ্গানাইকা হ্রদের তীরে পৌঁছালেন।"
+      },
+      {
+        "en": "Without formal scientific credentials, she sat motionless on high forest peaks for months, waiting for elusive wild chimpanzees to overcome their fear.",
+        "bn": "কোনো প্রাতিষ্ঠানিক ডিগ্রি ছাড়াই তিনি মাসের পর মাস উঁচু পাহাড়ে একা বসে রইলেন, বুনো শিম্পাঞ্জিদের মানুষের ভয় কাটানোর আশায়।"
+      },
+      {
+        "en": "Gradually, a handsome male with silver-grey whiskers, whom Jane named David Greybeard, began to tolerate her gentle presence nearby.",
+        "bn": "ধীরে ধীরে রুপোলি দাঁড়িমুখো এক শান্ত শিম্পাঞ্জি, যার নাম জেন রেখেছিলেন 'ডেভিড গ্রেবার্ড', জেনের উপস্থিতিকে ভয় না পেয়ে মেনে নিতে শুরু করল।"
+      },
+      {
+        "en": "One fateful morning, Jane peered through the thick foliage and saw David Greybeard push a long, stripped grass stem into an underground termite mound.",
+        "bn": "একদিন সকালে পাতার আড়াল থেকে জেন দেখলেন ডেভিড একটি ঘাসের লম্বা ডাঁটা উইঢিবির গর্তে ঢুকিয়ে দিল।"
+      },
+      {
+        "en": "The ape pulled out the grass loaded with clinging termites and neatly licked them off like a child enjoying a lollipop.",
+        "bn": "উইপোকা লেগে থাকা সেই ডাঁটাটি বের করে শিম্পাঞ্জিটি ললিপপের মতো চেটে চেটে তৃপ্তি সহকারে খেল।"
+      },
+      {
+        "en": "When the twig bent, David selected a leafy twig, stripped off the side leaves with his fingers to modify it, and resumed fishing.",
+        "bn": "ডালটি বাঁকা হয়ে গেলে সে একটি পাতার ডাল নিয়ে আঙুল দিয়ে পাতাগুলো ছিঁড়ে নিখুঁত হাতিয়ার বানিয়ে আবার উইপোকা তুলতে লাগল।"
+      },
+      {
+        "en": "Her mentor Louis Leakey famously declared: 'Now we must redefine man, redefine tool, or accept chimpanzees as humans!'",
+        "bn": "এই খবর শুনে বিজ্ঞানী লুইস লিকি ঘোষণা করলেন: 'এখন আমাদের হাতিয়ারের সংজ্ঞা বদলাতে হবে, মানুষের সংজ্ঞা নতুন করে লিখতে হবে, অথবা শিম্পাঞ্জিকেও মানুষ মানতে হবে!'"
+      }
+    ]
+  },
+  {
+    "id": "sci-shackleton-endurance-escape",
+    "title": "Ernest Shackleton: Escape from the Ice-Bound Weddell Sea",
+    "titleBn": "আর্নেস্ট শ্যাকলটন ও বরফবন্দি জাহাজের উদ্ধার",
+    "author": "Polar Exploration",
+    "level": "Intermediate",
+    "category": "Science & Inventions",
+    "coverEmoji": "🧊",
+    "summary": "When their ship Endurance is crushed in Antarctic pack ice, Sir Ernest Shackleton leads all twenty-seven crewmen to safety across freezing seas.",
+    "summaryBn": "অ্যান্টার্কটিকার বরফে জাহাজ ভেঙে চুরমার হয়ে যাওয়ার পরও অদম্য নেতৃত্বে সাতাশজন সঙ্গীর সবাইকে অক্ষত বাঁচিয়ে ফেরান আর্নেস্ট শ্যাকলটন।",
+    "sentences": [
+      {
+        "en": "In January 1915, Sir Ernest Shackleton's wooden expedition ship, the Endurance, became hopelessly trapped in the grinding pack ice of the Weddell Sea.",
+        "bn": "১৯১৫ সালের জানুয়ারিতে স্যার আর্নেস্ট শ্যাকলটনের কাঠের জাহাজ 'এন্ডুরেন্স' ওয়েডেল সাগরের জমাট বরফের কবলে পড়ে আটকা পড়ল।"
+      },
+      {
+        "en": "For ten long months, the vessel drifted helplessly with the ice floes until monumental pressure crushed the oak timbers, sending the ship into the abyss.",
+        "bn": "টানা দশ মাস জাহাজটি বরফের সাথে ভেসে চলল, শেষ পর্যন্ত বরফের প্রচণ্ড চাপে ওক কাঠের জাহাজ ভেঙে সাগরের অতল গভীরে তলিয়ে গেল।"
+      },
+      {
+        "en": "Stranded on floating ice sheets with three wooden lifeboats and limited supplies, Shackleton realized his new mission was purely keeping his twenty-seven men alive.",
+        "bn": "মাত্র তিনটি ছোট খোলা নৌকা আর সামান্য রসদ নিয়ে বরফের বুকে দাঁড়িয়ে শ্যাকলটন বুঝলেন, এখন তার একমাত্র লক্ষ্য সাতাশজন সঙ্গীর সবাইকে বাঁচিয়ে রাখা।"
+      },
+      {
+        "en": "Camping upon the melting floes through howling blizzards, they subsisted on seal blubber and penguin meat without losing their spirits.",
+        "bn": "তুষারঝড়ের মাঝে বরফের চাঙড়ে তাঁবু ফেলে তারা সীলের চর্বি আর পেঙ্গুইনের মাংস খেয়ে বেঁচে রইল, একটুও মনোবল না হারিয়ে।"
+      },
+      {
+        "en": "When the ice disintegrated, they rowed through mountainous ocean swells to reach uninhabited Elephant Island, exhausted, frozen, and starved.",
+        "bn": "বরফ গলে গেলে উত্তাল সাগরে নৌকা বেয়ে অনাহারে ও শীতে কাঁপতে কাঁপতে তারা জনমানবহীন এলিফ্যান্ট দ্বীপে পা রাখল।"
+      },
+      {
+        "en": "Shackleton and five companions then sailed an open twenty-foot lifeboat eight hundred miles across the most hurricane-swept waters on Earth to South Georgia.",
+        "bn": "সেখান থেকে শ্যাকলটন আরও পাঁচজনকে নিয়ে মাত্র কুড়ি ফুটের এক খোলা নৌকায় পৃথিবীর সবচেয়ে ভয়ংকর ঝড়ো সাগরে আটশো মাইল পাড়ি দিলেন।"
+      },
+      {
+        "en": "Crossing uncharted glacial mountains on foot to reach a whaling station, Shackleton mounted rescue ships until every single man was brought home alive.",
+        "bn": "পায়ে হেঁটে বরফাবৃত পাহাড় ডিঙিয়ে তিমি শিকারীদের স্টেশনে পৌঁছে তিনি জাহাজ নিয়ে ফিরে এলেন এবং তার দলের একটি মানুষও মারা যায়নি।"
+      }
+    ]
+  },
+  {
+    "id": "sci-amundsen-south-pole",
+    "title": "Roald Amundsen and the Sled Dogs of the South Pole",
+    "titleBn": "রোয়াল্ড আমুন্ডসেন ও দক্ষিণ মেরুর বিজয়",
+    "author": "Polar Exploration",
+    "level": "Intermediate",
+    "category": "Science & Inventions",
+    "coverEmoji": "🧭",
+    "summary": "Relying on Greenland husky dog teams and Inuit survival knowledge, Norwegian Roald Amundsen becomes the first human to reach the South Pole.",
+    "summaryBn": "এস্কিমোদের বেঁচে থাকার জ্ঞান ও স্লেজ কুকুরের সাহায্যে হাড়কাঁপানো শীতে পৃথিবীর প্রথম মানুষ হিসেবে দক্ষিণ মেরু জয় করেন আমুন্ডসেন।",
+    "sentences": [
+      {
+        "en": "In October 1911, Norwegian polar explorer Roald Amundsen launched his bid to become the first human being to stand at the geographic South Pole.",
+        "bn": "১৯১১ সালের অক্টোবরে নরওয়েজীয় অভিযাত্রী রোয়াল্ড আমুন্ডসেন পৃথিবীর প্রথম মানুষ হিসেবে ভৌগোলিক দক্ষিণ মেরু ছোঁয়ার অভিযান শুরু করলেন।"
+      },
+      {
+        "en": "Having spent years living among the Inuit in the Arctic, Amundsen wore breathable sealskin and wolf-fur clothing instead of freezing woven wool.",
+        "bn": "উত্তর মেরুর এস্কিমোদের সাথে বছর কাটিয়ে তিনি শিখেছিলেন ভারী উলের বদলে কীভাবে পশুর চামড়া দিয়ে শরীর উষ্ণ রাখতে হয়।"
+      },
+      {
+        "en": "While rival British explorer Robert Falcon Scott relied on mechanical tractors and ponies, Amundsen placed his faith in fifty-two hardy Greenland huskies.",
+        "bn": "ব্রিটিশ অভিযাত্রী রবার্ট স্কট যেখানে মোটর গাড়ি আর টাট্টু ঘোড়ার ওপর নির্ভর করেছিলেন, আমুন্ডসেন ভরসা রাখলেন বায়ান্নটি বলিষ্ঠ হাস্কি কুকুরের ওপর।"
+      },
+      {
+        "en": "The dogs thrived in the extreme cold, pulling light hickory sleds across treacherous crevasses of the Great Ice Barrier with natural speed.",
+        "bn": "কুকুরগুলো চরম শীতেও দুর্দান্ত দৌড়ে বরফের বিপজ্জনক ফাঁদ পেরিয়ে হালকা স্লেজ গাড়ি অনায়াসে টেনে নিয়ে চলল।"
+      },
+      {
+        "en": "Amundsen established meticulously marked depot flags every mile, ensuring his men could find their food caches even during blinding whiteout blizzards.",
+        "bn": "আমুন্ডসেন প্রতি মাইলে রঙিন নিশানা দিয়ে খাবারের আস্তানা চিহ্নিত করে রেখেছিলেন, যাতে অন্ধ করা তুষারঝড়েও পথ হারিয়ে না যায়।"
+      },
+      {
+        "en": "On December 14, 1911, Amundsen and his four companions raised the red, white, and blue flag of Norway at the bottom of the world.",
+        "bn": "১৯১১ সালের ১৪ ডিসেম্বর আমুন্ডসেন ও তার চার সঙ্গী পৃথিবীর দক্ষিণতম প্রান্তে নরওয়ের জাতীয় পতাকা গর্বের সাথে উড়িয়ে দিলেন।"
+      },
+      {
+        "en": "His meticulous preparation and respect for native survival wisdom ensured that his entire expedition returned in robust health.",
+        "bn": "তার নিখুঁত পরিকল্পনা আর আদিবাসীদের জ্ঞানের প্রতি গভীর শ্রদ্ধার কারণে তার দলের প্রতিটি মানুষ সুস্থ ও অক্ষত শরীরে ঘরে ফিরেছিল।"
+      }
+    ]
+  },
+  {
+    "id": "sci-hillary-tenzing-everest",
+    "title": "Edmund Hillary and Tenzing Norgay on the Roof of the World",
+    "titleBn": "হিলারী ও তেনজিং: এভারেস্টের শীর্ষে প্রথম পা",
+    "author": "Mountaineering & Courage",
+    "level": "Intermediate",
+    "category": "Science & Inventions",
+    "coverEmoji": "🏔️",
+    "summary": "A New Zealand beekeeper and a Nepali Sherpa conquer the icy winds and knife-edge ridges of Mount Everest, standing atop the world.",
+    "summaryBn": "হিমালয়ের বরফঝড় ও খাড়া পাহাড়ি দেয়াল পেরিয়ে পৃথিবীর সর্বোচ্চ শৃঙ্গ মাউন্ট এভারেস্টে প্রথম পা রাখেন এডমুন্ড হিলারী ও তেনজিং নরগে।",
+    "sentences": [
+      {
+        "en": "Rising 29,032 feet into the jet stream, the summit of Mount Everest had repelled dozens of legendary mountaineering expeditions for decades.",
+        "bn": "আকাশের মেঘ ফুঁড়ে ২৯,০৩২ ফুট উঁচুতে দাঁড়িয়ে থাকা মাউন্ট এভারেস্টের চূড়া বহু বছর ধরে বাঘা বাঘা পর্বতারোহীদের স্বপ্ন ভেঙে দিয়েছিল।"
+      },
+      {
+        "en": "On May 28, 1953, New Zealand climber Edmund Hillary and Nepali Sherpa Tenzing Norgay pitched a tiny tent on a windswept icy ledge at 27,900 feet.",
+        "bn": "১৯৫৩ সালের ২৮ মে নিউজিল্যান্ডের এডমুন্ড হিলারী এবং শেরপা তেনজিং নরগে সাতাশ হাজার নয়শো ফুট উঁচুতে বরফের কিনারায় ছোট্ট তাঁবু খাটালেন।"
+      },
+      {
+        "en": "At 6:30 the following dawn, they strapped on primitive open-circuit oxygen apparatus and began climbing the razor-sharp South-East Ridge.",
+        "bn": "পরদিন ভোর সাড়ে ছটায় তারা অক্সিজেনের মুখোশ পরে খুরধার বরফে ঢাকা দুর্গম পাহাড়ি খাঁজ বেয়ে ওপরে উঠতে শুরু করলেন।"
+      },
+      {
+        "en": "Blocking their path was a formidable forty-foot vertical wall of solid rock and rotten ice, now forever known as the Hillary Step.",
+        "bn": "তাদের পথ আটকে দাঁড়াল এক চল্লিশ ফুট খাড়া নিরেট পাথুরে দেওয়াল, যা আজ ইতিহাসে 'হিলারী স্টেপ' নামে পরিচিত।"
+      },
+      {
+        "en": "Jamming his boots into a narrow crack between the rock and an overhang of corniced snow, Hillary wriggled upward inch by inch, hauling Tenzing behind.",
+        "bn": "পাথর আর বরফের সরু ফাটলে বুট জুতো আটকে হিলারী এক ইঞ্চি এক ইঞ্চি করে ওপরে উঠলেন এবং রশি টেনে তেনজিংকে ওপরে তুলে নিলেন।"
+      },
+      {
+        "en": "At 11:30 in the morning, their boots stepped onto a symmetrical, rounded snow dome where no mortal had ever stood before.",
+        "bn": "সকাল ঠিক সাড়ে এগারোটায় তাদের পা পড়ল বরফে মোড়া এক অপূর্ব গোল চূড়ায়, যেখানে এর আগে কোনো মানুষ কোনোদিন পা রাখেনি।"
+      },
+      {
+        "en": "They shook hands warmly, embraced as brothers on the roof of the Earth, and buried biscuits and small flags into the snow in humble thanksgiving.",
+        "bn": "পৃথিবীর সর্বোচ্চ শিখরে দাঁড়িয়ে দুই ভাই একে অপরকে জড়িয়ে ধরলেন এবং পরম কৃতজ্ঞতায় বরফের নিচে চকলেট আর পতাকা পুঁতে রাখলেন।"
+      }
+    ]
+  },
+  {
+    "id": "sci-yuri-gagarin-first-orbit",
+    "title": "Yuri Gagarin: 'Poyekhali!' and the First Earth Orbit",
+    "titleBn": "ইউরি গ্যাগারিন: মহাকাশের প্রথম মানব",
+    "author": "Space Exploration",
+    "level": "Intermediate",
+    "category": "Science & Inventions",
+    "coverEmoji": "🚀",
+    "summary": "A twenty-seven-year-old pilot shouts 'Off we go!' as the Vostok rocket blasts him into the silent blackness of Earth's first orbit.",
+    "summaryBn": "'চলো যাই!' বলে ভোস্তক রকেটে চড়ে পৃথিবীর বুকে মহাশূন্যের দরজায় প্রথম কড়া নাড়েন তরুণ মহাকাশচারী ইউরি গ্যাগারিন।",
+    "sentences": [
+      {
+        "en": "On the morning of April 12, 1961, twenty-seven-year-old Soviet cosmonaut Yuri Gagarin sat strapped inside the spherical Vostok 1 space capsule atop a massive rocket.",
+        "bn": "১৯৬১ সালের ১২ এপ্রিল সকালে সাতাশ বছর বয়সী ইউরি গ্যাগারিন এক বিশাল রকেটের মাথায় বসানো ভোস্তক-১ ক্যাপসুলের ভেতরে সিটে বাঁধা অবস্থায় বসলেন।"
+      },
+      {
+        "en": "No human being had ever left the atmosphere; physicians worried that the weightlessness of orbit might induce madness, blindness, or heart failure.",
+        "bn": "এর আগে কোনো মানুষ কখনো বায়ুমণ্ডলের বাইরে যায়নি; চিকিৎসকদের ভয় ছিল মহাশূন্যের ওজনহীনতা মানুষকে পাগল, অন্ধ কিংবা হৃদযন্ত্রের ক্রিয়া বন্ধ করে দিতে পারে।"
+      },
+      {
+        "en": "When the colossal rocket engines ignited in a volcanic roar of fire, Gagarin casually shouted through the radio headset: 'Poyekhali!'—meaning, 'Off we go!'",
+        "bn": "রকেটের ইঞ্জিন যখন আগুনের অগ্নিকুণ্ড জ্বালিয়ে গর্জে উঠল, গ্যাগারিন শান্ত গলায় হেডফোনে বলে উঠলেন: 'পোয়েখালি!'—যার অর্থ, 'চলো যাই!'"
+      },
+      {
+        "en": "Climbing past the stratosphere into orbital zero gravity, he looked through the small glass porthole and beheld the breathtaking curve of planet Earth.",
+        "bn": "মহাকর্ষের বাঁধন পেরিয়ে শূন্যের মাঝে ভেসে উঠে তিনি জানালার কাচে চোখ রাখলেন এবং আমাদের পৃথিবীর মায়াবী নীল বাঁক দেখে মুগ্ধ হলেন।"
+      },
+      {
+        "en": "Gagarin spoke into his microphone: 'The Earth is blue; how wonderful it is, how astonishing!'",
+        "bn": "মাইক্রোফোনে তিনি বলে উঠলেন: 'পৃথিবীটা যে কী সুন্দর নীল; কী অপরূপ এর রূপ, কী চমৎকার!'"
+      },
+      {
+        "en": "Traveling at seventeen thousand miles per hour, he completed a full orbit of the globe in one hundred and eight minutes before reentering the fiery atmosphere.",
+        "bn": "ঘণ্টায় সতেরো হাজার মাইল গতিতে মাত্র একশো আট মিনিটে পুরো পৃথিবী একবার ঘুরে তিনি আবার আগুনের গোলা হয়ে ফিরে এলেন।"
+      },
+      {
+        "en": "Parachuting safely into a potato field in rural Russia, Gagarin opened humanity's boundless pathway into the stars.",
+        "bn": "রাশিয়ার এক আলুর জমিতে প্যারাস্যুট দিয়ে অক্ষত নেমে এসে গ্যাগারিন তারার দেশে মানুষের অনন্ত যাত্রার পথ উন্মুক্ত করে দিলেন।"
+      }
+    ]
+  },
+  {
+    "id": "sci-neil-armstrong-moon-walk",
+    "title": "Neil Armstrong and the Eagle's Tranquility Base",
+    "titleBn": "নীল আর্মস্ট্রং ও চাঁদের বুকে প্রথম পদক্ষেপ",
+    "author": "Space Exploration",
+    "level": "Intermediate",
+    "category": "Science & Inventions",
+    "coverEmoji": "🌕",
+    "summary": "With seconds of fuel remaining, Neil Armstrong manually pilots the lunar module to a safe touchdown on the Sea of Tranquility.",
+    "summaryBn": "মাত্র কয়েক সেকেন্ডের জ্বালানি বাকি থাকতে নিজ হাতে রকেট ঘুরিয়ে চাঁদের শান্ত সাগরে মানব ইতিহাসের প্রথম পা রাখেন নীল আর্মস্ট্রং।",
+    "sentences": [
+      {
+        "en": "On July 20, 1969, the Apollo 11 lunar module Eagle descended toward the alien, boulder-strewn surface of the Moon.",
+        "bn": "১৯৬৯ সালের ২০ জুলাই অ্যাপোলো ১১-এর লুনার মডিউল 'ঈগল' চাঁদের নির্জন ও পাথরভরা মাটির দিকে ধীরেসুস্থে নেমে আসছিল।"
+      },
+      {
+        "en": "Computer alarms flashed dangerously in the cockpit, and pilot Neil Armstrong noticed that the automated autopilot was steering them into a crater full of car-sized boulders.",
+        "bn": "কেবিনে অ্যালার্মের আলো লাল হয়ে উঠল এবং পাইলট নীল আর্মস্ট্রং দেখলেন স্বয়ংক্রিয় কম্পিউটার তাদের এক বিশাল পাথরে ভরা গর্তে নামিয়ে দিতে যাচ্ছে।"
+      },
+      {
+        "en": "Keeping his pulse unshakeably cool, Armstrong switched off the automatic system and took manual control of the descent thrusters.",
+        "bn": "একটুখানিও বিচলিত না হয়ে আর্মস্ট্রং অটো-পাইলট বন্ধ করে দিলেন এবং রকেটের গতি নিজের হাতে নিয়ন্ত্রণ করতে শুরু করলেন।"
+      },
+      {
+        "en": "Flying horizontally across the grey regolith with fuel gauges blinking below thirty seconds, he spotted a smooth, flat patch of moon dust.",
+        "bn": "মাত্র ত্রিশ সেকেন্ডের জ্বালানি বাকি থাকতে ধূসর মাটির ওপর দিয়ে উড়ে গিয়ে তিনি একটি সমতল ও মসৃণ জায়গা দেখতে পেলেন।"
+      },
+      {
+        "en": "The pads touched down with a gentle shudder, and Armstrong radioed: 'Houston, Tranquility Base here; the Eagle has landed.'",
+        "bn": "মৃদু ঝাঁকুনি দিয়ে পায়ের প্যাড মাটিতে ঠেকল, আর রেডিওতে আর্মস্ট্রংয়ের কণ্ঠ ভেসে এলো: 'হিউস্টন, ট্র্যাংকুইলিটি বে বলছি; ঈগল নেমে পড়েছে।'"
+      },
+      {
+        "en": "Six hours later, climbing down the nine rungs of the spacecraft ladder, Armstrong pressed his left boot into the pristine lunar dust.",
+        "bn": "ছয় ঘণ্টা পর সিঁড়ির নয়টি ধাপ নেমে এসে আর্মস্ট্রং চাঁদের অক্ষত মাটির বুকে নিজের বাম পায়ের বুটটি রাখলেন।"
+      },
+      {
+        "en": "Six hundred million people watching on Earth heard his immortal words: 'That's one small step for man, one giant leap for mankind.'",
+        "bn": "পৃথিবীর ষাট কোটি মানুষ টিভিতে তার সেই অমর বাণী শুনল: 'মানুষের জন্য এটি একটি ছোট্ট পদক্ষেপ, কিন্তু মানবজাতির জন্য এক বিশাল মহালম্ফন।'"
+      }
+    ]
+  },
+  {
+    "id": "sci-rachel-carson-silent-spring",
+    "title": "Rachel Carson and the Awakening of Ecology",
+    "titleBn": "র‍্যাচেল কারসন ও নিঃশব্দ বসন্ত",
+    "author": "Environmental Science",
+    "level": "Intermediate",
+    "category": "Science & Inventions",
+    "coverEmoji": "🌱",
+    "summary": "A brave marine biologist challenges chemical corporations to expose how synthetic pesticides silence birdsong, founding modern environmentalism.",
+    "summaryBn": "কীটনাশকের বিষাক্ত প্রভাবে কীভাবে বনের পাখির গান স্তব্ধ হয়ে যাচ্ছে তা বুক চিতিয়ে তুলে ধরে বিশ্বব্যাপী পরিবেশ আন্দোলনের ডাক দেন র‍্যাচেল কারসন।",
+    "sentences": [
+      {
+        "en": "In the mid-twentieth century, postwar chemical companies sprayed millions of tons of synthetic pesticides like DDT across farmland, rivers, and residential suburbs.",
+        "bn": "বিংশ শতাব্দীর মাঝামাঝি রাসায়নিক কোম্পানিগুলো ডিডিটির মতো লাখ লাখ টন কীটনাশক কৃষিজমি, নদী ও জনবসতিতে ছিটিয়ে দিয়েছিল।"
+      },
+      {
+        "en": "Corporate advertisements promised a chemical paradise free of insects, but wildlife biologist Rachel Carson noticed alarming anomalies.",
+        "bn": "বিজ্ঞাপনে পোকা-মাকড়হীন এক কৃত্রিম স্বর্গের প্রতিশ্রুতি দেওয়া হলেও জীববিজ্ঞানী র‍্যাচেল কারসন এক ভয়ানক অমঙ্গলের সুর দেখতে পেলেন।"
+      },
+      {
+        "en": "Robins, bald eagles, and songbirds were perishing by the thousands, and unhatched eggs were collapsing under fragile, paper-thin shells.",
+        "bn": "হাজার হাজার গায়ক পাখি মারা যাচ্ছিল আর পাখির ডিমের খোসা এত পাতলা হয়ে যাচ্ছিল যে তা ফোটার আগেই ভেঙে গুঁড়ো হয়ে যেত।"
+      },
+      {
+        "en": "Battling aggressive terminal cancer, Carson spent four years collecting forensic field evidence and published her 1962 masterpiece, Silent Spring.",
+        "bn": "ক্যান্সারের মারণরোগের সাথে যুদ্ধ করেও কারসন চার বছর ধরে মাঠের প্রমাণ সংগ্রহ করে ১৯৬২ সালে প্রকাশ করলেন তার আলোড়ন সৃষ্টিকারী বই 'সাইলেন্ট স্প্রিং'।"
+      },
+      {
+        "en": "She painted a chilling portrait of an imaginary town where no birds sang in springtime because chemical toxins had poisoned the food chain.",
+        "bn": "তিনি এমন এক বসন্তের ছবি আঁকলেন যেখানে বিষাক্ত কীটনাশকের প্রভাবে খাদ্যশৃঙ্খল ধ্বংস হয়ে যাওয়ায় বনে কোনো পাখির কিচিরমিচির শোনা যায় না।"
+      },
+      {
+        "en": "Chemical giants spent millions in smear campaigns calling her hysterical and unscientific, but her rigorous data remained completely unshakable.",
+        "bn": "বড় বড় রাসায়নিক কোম্পানি কোটি কোটি টাকা খরচ করে তাকে অপমান করার চেষ্টা করল, কিন্তু তার উপস্থাপিত বৈজ্ঞানিক তথ্য ছিল অখণ্ডনীয়।"
+      },
+      {
+        "en": "Carson's moral courage led to the banning of agricultural DDT and catalyzed the modern global movement to protect the living planet.",
+        "bn": "কারসনের এই অদম্য নৈতিক সাহস ডিডিটি নিষিদ্ধ করতে বাধ্য করে এবং সুন্দর পৃথিবীকে বাঁচানোর আধুনিক বৈশ্বিক পরিবেশ আন্দোলনের জন্ম দেয়।"
+      }
+    ]
+  }
+]

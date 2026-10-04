@@ -1,0 +1,617 @@
+[
+  {
+    "id": "tech-ada-lovelace-first-program",
+    "title": "Ada Lovelace and the Poetry of the Analytical Engine",
+    "titleBn": "আডা লাভলেস ও পৃথিবীর প্রথম কম্পিউটার প্রোগ্রাম",
+    "author": "Computing History",
+    "level": "Intermediate",
+    "category": "Inventions & Technology",
+    "coverEmoji": "💻",
+    "summary": "Lord Byron's daughter envisions that mechanical cogwheels can manipulate music and symbols, writing the world's very first computer algorithm.",
+    "summaryBn": "যান্ত্রিক গিয়ার কেবল সংখ্যা নয়, বরং সুর ও ছবি নিয়েও কাজ করতে পারে—এই গভীর অন্তর্দৃষ্টি দিয়ে প্রথম অ্যালগরিদম লেখেন আডা লাভলেস।",
+    "sentences": [
+      {
+        "en": "Born in 1815 as the only legitimate daughter of the romantic poet Lord Byron, Ada Lovelace was steered away from poetry toward rigorous mathematics by her mother.",
+        "bn": "১৮১৫ সালে কবি লর্ড বায়রনের কন্যা হিসেবে জন্ম নিলেও বাবার উগ্র ভাবাবেগ থেকে দূরে রাখতে মা আডাকে গণিত ও বিজ্ঞানের কঠোর সাধনায় বড় করেন।"
+      },
+      {
+        "en": "At age seventeen, Ada met eccentric inventor Charles Babbage, who demonstrated a brass calculating prototype known as the Difference Engine.",
+        "bn": "সতেরো বছর বয়সে আডার সাথে অদ্ভুত বিজ্ঞানী চার্লস ব্যাবেজের দেখা হলো, যিনি পিতলের তৈরি 'ডিফারেন্স ইঞ্জিন' নামের এক গণনা যন্ত্র তৈরি করছিলেন।"
+      },
+      {
+        "en": "While Babbage viewed his machine purely as a lightning-fast arithmetic calculator, Ada perceived a far grander cosmic potential in its brass cogwheels.",
+        "bn": "ব্যাবেজ যেখানে এটিকে কেবল যোগ-বিয়োগের যন্ত্র ভাবতেন, আডা এর যান্ত্রিক চাকার ভেতর এক অপার সম্ভাবনার দিগন্ত দেখতে পেয়েছিলেন।"
+      },
+      {
+        "en": "She realized that if information, musical notes, or alphabetic letters could be represented numerically, the machine could compose harmonies and weave tapestries.",
+        "bn": "তিনি বুঝলেন যদি তথ্য, বাদ্যযন্ত্রের সুর বা বর্ণমালাকে সংখ্যায় রূপ দেওয়া যায়, তবে এই যন্ত্র নিজেই সুর রচনা করতে এবং নকশা আঁকতে পারবে।"
+      },
+      {
+        "en": "In 1843, while translating an Italian treatise on Babbage's proposed Analytical Engine, Ada added extensive personal notes three times longer than the original text.",
+        "bn": "১৮৪৩ সালে এক গবেষণাপত্র অনুবাদের সময় আডা তার নিজস্ব ব্যাখ্যা যোগ করলেন, যা ছিল মূল লেখার চেয়েও তিন গুণ বেশি দীর্ঘ ও গভীর।"
+      },
+      {
+        "en": "In Note G, she outlined a step-by-step mathematical algorithm using punched cards to calculate Bernoulli numbers, creating the world's first computer program.",
+        "bn": "তার 'নোট জি'-তে তিনি পাঞ্চ কার্ডের মাধ্যমে বার্নৌলি সংখ্যা গণনার এক ধারাবাহিক সূত্র লিখে তৈরি করলেন মানব ইতিহাসের সর্বপ্রথম কম্পিউটার প্রোগ্রাম।"
+      },
+      {
+        "en": "Ada Lovelace combined poetical imagination with mathematical rigor, forever earning her place as the founding prophetess of the computer age.",
+        "bn": "কবিতার কল্পনা আর গণিতের নিখুঁত সৌন্দর্যের মেলবন্ধন ঘটিয়ে আডা লাভলেস চিরকালের জন্য কম্পিউটার যুগের অগ্রদূত হিসেবে নিজের নাম খোদাই করে গেলেন।"
+      }
+    ]
+  },
+  {
+    "id": "tech-charles-babbage-difference-engine",
+    "title": "Charles Babbage and the Mechanical Calculator of Brass",
+    "titleBn": "চার্লস ব্যাবেজ ও পিতলের যান্ত্রিক মস্তিষ্ক",
+    "author": "Computing History",
+    "level": "Intermediate",
+    "category": "Inventions & Technology",
+    "coverEmoji": "⚙️",
+    "summary": "Frustrated by fatal mathematical errors in printed navigation tables, Charles Babbage conceives a steam-driven computer made of precision brass gears.",
+    "summaryBn": "হাতে তৈরি টেবিলের ভুলে জাহাজের সলিলসমাধি রুখতে বাষ্পীয় শক্তিতে চলা পিতলের গিয়ার দিয়ে যান্ত্রিক গণকযন্ত্রের স্বপ্ন দেখেন চার্লস ব্যাবেজ।",
+    "sentences": [
+      {
+        "en": "In the early nineteenth century, maritime navigators and royal astronomers relied upon thick printed mathematical tables calculated entirely by human clerks.",
+        "bn</b>": "ঊনবিংশ শতাব্দীর শুরুতে নাবিক ও জ্যোতির্বিদরা মানব কেরানিদের হাতে হিসাব করা মোটা বইয়ের টেবিলের ওপর পুরোপুরি নির্ভর করতেন।"
+      },
+      {
+        "en": "Riddled with hundreds of human copying errors, these flawed navigation tables led to catastrophic shipwrecks on uncharted ocean reefs.",
+        "bn": "মানুষের অসাবধানতায় ভুলে ভরা সেই টেবিল দেখে দিক ঠিক করতে গিয়ে সমুদ্রে বহু বাণিজ্য জাহাজ ডুবোপাহাড়ের সাথে ধাক্কা খেয়ে তলিয়ে যেত।"
+      },
+      {
+        "en": "Pounding his fist upon a table in Cambridge in 1821, mathematician Charles Babbage famously cried: 'I wish to God these calculations had been executed by steam!'",
+        "bn": "১৮২১ সালে কেমব্রিজে টেবিলের ওপর ক্ষোভে ঘুষি মেরে গণিতবিদ চার্লস ব্যাবেজ চিৎকার করে বলে উঠলেন: 'হায় ঈশ্বর, যদি বাষ্পের শক্তিতে এই হিসাবগুলো করা যেত!'"
+      },
+      {
+        "en": "Babbage spent decades designing the Difference Engine, a mechanical colossus composed of twenty-five thousand precision brass cogs, levers, and printing rollers.",
+        "bn": "ব্যাবেজ কয়েক দশক ধরে পঁচিশ হাজার সূক্ষ্ম পিতলের চাকা, লিভার আর ছাপার রোলার দিয়ে 'ডিফারেন্স ইঞ্জিন' নামের এক দানবীয় যন্ত্রের নকশা করলেন।"
+      },
+      {
+        "en": "He subsequently conceptualized the Analytical Engine, incorporating a central processor he called the 'mill' and an internal memory store.",
+        "bn": "এরপর তিনি 'অ্যানালিটিক্যাল ইঞ্জিন' তৈরি করার পরিকল্পনা করলেন, যাতে আধুনিক কম্পিউটারের মতো এক প্রসেসর ও মেমোরি স্টোরেজ রাখার নকশা ছিল।"
+      },
+      {
+        "en": "Victorian machining tolerances were inadequate to construct his grand vision during his lifetime, and the British government cut off funding.",
+        "bn": "তৎকালীন ভিক্টোরিয়ান যুগের কারিগরি মান তার স্বপ্নের তুলনায় অপ্রতুল ছিল এবং অতিরিক্ত খরচের কারণে ব্রিটিশ সরকার সব অনুদান বন্ধ করে দিল।"
+      },
+      {
+        "en": "When modern engineers built his Difference Engine to exact original blueprints in 1991, the machine operated flawlessly, vindicating his genius across a century.",
+        "bn": "১৯৯১ সালে আধুনিক প্রকৌশলীরা তার আঁকা নিখুঁত নকশা দেখে হুবহু যন্ত্রটি তৈরি করলে তা নির্ভুলভাবে কাজ করল এবং শতাব্দীর পর ব্যাবেজের মেধা বিজয়ী হলো।"
+      }
+    ]
+  },
+  {
+    "id": "tech-alan-turing-enigma-code",
+    "title": "Alan Turing and the Bombe Machine at Bletchley Park",
+    "titleBn": "অ্যালান টুরিং ও ব্লেচলে পার্কের এনিগমা কোড",
+    "author": "World War II & Computing",
+    "level": "Intermediate",
+    "category": "Inventions & Technology",
+    "coverEmoji": "🔐",
+    "summary": "A shy Cambridge mathematician invents the electromechanical Bombe machine to crack Nazi Enigma ciphers, shortening the war by two years.",
+    "summaryBn": "জার্মান নাৎসিদের এনিগমা সাংকেতিক কোড ভাঙতে যান্ত্রিক গণকযন্ত্র উদ্ভাবন করে দ্বিতীয় বিশ্বযুদ্ধকে দুই বছর এগিয়ে নিয়ে লাখো প্রাণ বাঁচান অ্যালান টুরিং।",
+    "sentences": [
+      {
+        "en": "During the darkest days of the Second World War, Nazi U-boats in the North Atlantic were sinking Allied supply convoys with devastating precision.",
+        "bn": "দ্বিতীয় বিশ্বযুদ্ধের চরম সংকটকালে উত্তর আটলান্টিকে নাৎসি সাবমেরিনের দল সাংকেতিক বার্তার সাহায্যে মিত্রবাহিনীর রসদবাহী জাহাজ নিমেষে ডুবিয়ে দিচ্ছিল।"
+      },
+      {
+        "en": "German military communications were encrypted using the Enigma machine, an electromechanical device capable of generating 150 quintillion possible combinations.",
+        "bn": "জার্মান সেনারা 'এনিগমা' মেশিনের সাহায্যে সংকেত পাঠাত, যা প্রায় দেড়শো কুইন্টিলিয়ন ভিন্ন ভিন্ন উপায়ে বার্তা লুকিয়ে ফেলতে পারত।"
+      },
+      {
+        "en": "Stationed inside Hut 8 at Bletchley Park, eccentric Cambridge mathematician Alan Turing recognized that human codebreakers could never outrace mechanical rotors.",
+        "bn": "ব্লেচলে পার্কের ৮ নম্বর ব্যারাকে বসে গণিতবিদ অ্যালান টুরিং বুঝলেন মানুষের হাত দিয়ে এত কোটি কোটি বিন্যাস যাচাই করা কোনোদিন সম্ভব নয়।"
+      },
+      {
+        "en": "Turing famously observed: 'To defeat a machine, you must create a machine.'",
+        "bn": "টুরিং তার বিখ্যাত উপলব্ধি করলেন: 'একটি যন্ত্রকে হারাতে হলে আরেকটি যন্ত্রই তৈরি করতে হবে।'"
+      },
+      {
+        "en": "He designed the Bombe, a towering electro-mechanical contraption consisting of dozens of spinning drum wheels that simulated multiple Enigma cipher wheels simultaneously.",
+        "bn": "তিনি 'বোম্বে' নামের এক দানবীয় যন্ত্র তৈরি করলেন, যার ঘূর্ণায়মান চাকতিগুলো একসাথে ডজন ডজন এনিগমা মেশিনের কাজ নকল করে সমাধান বের করত।"
+      },
+      {
+        "en": "By searching for predictable phrases like weather reports, Turing's machine decoded thousands of intercepted radio cables every day.",
+        "bn": "আবহাওয়ার পূর্বাভাসের মতো চেনা শব্দের সূত্র ধরে টুরিংয়ের যন্ত্রটি প্রতিদিন আকাশে ভেসে বেড়ানো হাজার হাজার গোপন নাৎসি সংকেত চোখের পলকে উন্মোচন করল।"
+      },
+      {
+        "en": "Historians estimate Turing's breakthrough shortened World War II by over two years and saved fourteen million lives, establishing him as the father of modern theoretical computing.",
+        "bn": "ইতিহাসবিদরা বলেন টুরিংয়ের এই আবিষ্কার বিশ্বযুদ্ধকে দুই বছরেরও বেশি সময় এগিয়ে এনে এক কোটি চল্লিশ লাখ মানুষের প্রাণ বাঁচিয়েছিল এবং আধুনিক কম্পিউটারের ভিত্তি গড়েছিল।"
+      }
+    ]
+  },
+  {
+    "id": "tech-grace-hopper-computer-bug",
+    "title": "Grace Hopper and the First Real Moth Bug in the Relay",
+    "titleBn": "গ্রেস হপার ও কম্পিউটারের প্রথম আসল পোকা",
+    "author": "Computer Science",
+    "level": "Intermediate",
+    "category": "Inventions & Technology",
+    "coverEmoji": "🐛",
+    "summary": "Navy programmer Grace Hopper removes a fried moth from a malfunctioning relay, taping it into her logbook and pioneering English-language coding.",
+    "summaryBn": "কম্পিউটারের রিলের ভেতর আটকে থাকা একটি পোকা বের করে লগবুকে সেঁটে দিয়ে 'ডিবাগিং' শব্দের জন্ম দেন এবং ইংরেজি ভাষায় কোডিং শেখান গ্রেস হপার।",
+    "sentences": [
+      {
+        "en": "During the hot summer of 1947, naval lieutenant Grace Hopper was working on the massive Mark II electromechanical computer at Harvard University.",
+        "bn": "১৯৪৭ সালের এক তপ্ত গ্রীষ্মে নৌবাহিনীর কর্মকর্তা গ্রেস হপার হার্ভার্ড বিশ্ববিদ্যালয়ের বিশালাকার মার্ক-২ কম্পিউটারের ওপর কাজ করছিলেন।"
+      },
+      {
+        "en": "The room-sized machine filled an entire laboratory, relying on thousands of clicking magnetic relays and vacuum tubes to execute mathematical operations.",
+        "bn": "ঘরের সমান বিশালাকার সেই কম্পিউটারটি হাজার হাজার চৌম্বকীয় রিলে আর ভ্যাকুয়াম টিউবের খটখট শব্দে গাণিতিক হিসাব সম্পন্ন করত।"
+      },
+      {
+        "en": "Suddenly, the machine halted unexpectedly, spitting out erroneous calculations across multiple punch tape lines.",
+        "bn": "হঠাৎ যন্ত্রটি বিকল হয়ে কাজ থামিয়ে দিল এবং কাগজের টেপে একের পর এক ভুল হিসাব বের করতে লাগল।"
+      },
+      {
+        "en": "Investigating Relay number 70 in Panel F with tweezers, technicians discovered a two-inch moth trapped and electrocuted between the electrical contact points.",
+        "bn": "চিমটা হাতে নিয়ে প্যানেল এফ-এর ৭০ নম্বর রিলেতে খুঁজতে গিয়ে কর্মীরা দেখলেন দুই ইঞ্চির একটি মথ পোকা সেখানে পুড়ে মরে শর্টসার্কিট ঘটিয়েছে।"
+      },
+      {
+        "en": "Grace Hopper removed the insect and taped it carefully into the official laboratory logbook, writing: 'First actual case of bug being found.'",
+        "bn": "গ্রেস হপার পোকাটি চিমটা দিয়ে তুলে সরকারি ডায়েরিতে স্কচটেপ দিয়ে আটকে দিয়ে লিখলেন: 'আসল পোকা বা বাগ খুঁজে পাওয়ার সর্বপ্রথম ঘটনা।'"
+      },
+      {
+        "en": "From that historic incident, the terms 'computer bug' and 'debugging' entered global technological vocabulary forever.",
+        "bn": "সেই ঐতিহাসিক ঘটনা থেকেই কম্পিউটারের ভুলকে 'বাগ' বলা এবং ভুল সংশোধনকে 'ডিবাগিং' ডাকার বৈশ্বিক নিয়মের সূচনা হলো।"
+      },
+      {
+        "en": "Hopper later invented the compiler and helped create COBOL, allowing programmers to write code using plain human English instead of raw machine binary numbers.",
+        "bn": "হপার পরবর্তীতে প্রথম কম্পাইলার তৈরি করেন এবং কোবোল ভাষা আবিষ্কারে নেতৃত্ব দেন, যার ফলে শূন্য আর একের বদলে সাধারণ ইংরেজিতে কোড লেখার যুগ শুরু হলো।"
+      }
+    ]
+  },
+  {
+    "id": "tech-shannon-bit-information",
+    "title": "Claude Shannon and the Juggling Mathematician of the Bit",
+    "titleBn": "ক্লদ শ্যানন: তথ্যের একক 'বিট' ও ডিজিটাল বিপ্লব",
+    "author": "Information Theory",
+    "level": "Intermediate",
+    "category": "Inventions & Technology",
+    "coverEmoji": "💾",
+    "summary": "Riding a unicycle through Bell Labs hallways while juggling, Claude Shannon publishes the mathematical blueprint for the entire digital universe.",
+    "summaryBn": "এক চাকার সাইকেলে চড়ে জাগলিং করতে করতে গবেষণাগারে ঘুরে মানুষের সমস্ত বার্তাকে শূন্য আর একে মেপে তথ্যপ্রযুক্তির জন্ম দেন বিজ্ঞানী ক্লদ শ্যানন।",
+    "sentences": [
+      {
+        "en": "At Bell Laboratories in the 1940s, a lanky young mathematician named Claude Shannon was famous for riding a unicycle down the carpeted corridors while juggling four balls.",
+        "bn": "১৯৪০-এর দশকে বেল ল্যাবরেটরিতে ক্লদ শ্যানন নামের এক তরুণ গণিতবিদ এক চাকার সাইকেলে চড়ে করিডোরে চারটি বল নিয়ে জাগলিং করার জন্য খ্যাত ছিলেন।"
+      },
+      {
+        "en": "Behind his playful eccentricity lay a mind that comprehended the fundamental mechanics of communication clearer than anyone in human history.",
+        "bn": "তার এই কৌতুকপূর্ণ স্বভাবের আড়ালে লুকিয়ে ছিল এমন এক প্রখর মস্তিষ্ক যা মানব ইতিহাসের যেকোনো মানুষের চেয়ে যোগাযোগের মূল রহস্যকে গভীর থেকে বুঝতে পারত।"
+      },
+      {
+        "en": "In 1948, Shannon published a groundbreaking paper titled A Mathematical Theory of Communication, which founded the science of Information Theory.",
+        "bn": "১৯৪৮ সালে শ্যানন 'অ্যা ম্যাথমেটিক্যাল থিওরি অফ কমিউনিকেশন' নামের এক যুগান্তকারী গবেষণাপত্র প্রকাশ করেন, যা ইনফরমেশন থিওরির জন্ম দিল।"
+      },
+      {
+        "en": "He proved that regardless of whether a message is an orchestral symphony, a telephone conversation, a love letter, or a high-definition photograph, it can be distilled into binary digits.",
+        "bn": "তিনি প্রমাণ করলেন কোনো বার্তা গানের সুর, টেলিফোনের কথা, প্রেমের চিঠি কিংবা ছবি—যা-ই হোক না কেন, তাকে অনায়াসেই বাইনারি সংখ্যায় রূপান্তর করা সম্ভব।"
+      },
+      {
+        "en": "Shannon coined the word 'bit'—short for binary digit—as the fundamental quantum particle of human knowledge.",
+        "bn": "শ্যানন মানুষের জ্ঞানের অবিভাজ্য একক হিসেবে বাইনারি ডিজিটের সংক্ষিপ্ত রূপ 'বিট' (bit) শব্দের প্রবর্তন করলেন।"
+      },
+      {
+        "en": "He demonstrated that by adding systematic redundancy, signals could be transmitted across noisy copper wires or vast cosmic space without corruption.",
+        "bn": "তিনি দেখালেন সংকেতের ভেতর বিশেষ হিসাব জুড়ে দিলে বিকৃত না হয়ে শত শত মাইল তারের ভেতর দিয়ে বা মহাকাশে বার্তা পাঠানো সম্ভব।"
+      },
+      {
+        "en": "Every smartphone, streaming video, optical fiber, and satellite in the modern world operates upon the mathematical laws established by Shannon.",
+        "bn": "আজকের প্রতিটি স্মার্টফোন, ইন্টারনেট ভিডিও, অপটিক্যাল ফাইবার আর মহাকাশ স্যাটেলাইট ক্লদ শ্যাননের আবিষ্কৃত গণিতের সেই নিয়মের ওপরই দাঁড়িয়ে আছে।"
+      }
+    ]
+  },
+  {
+    "id": "tech-shockley-bardeen-transistor",
+    "title": "The Bell Labs Trio and the Miracle of the Solid-State Transistor",
+    "titleBn": "ট্রানজিস্টরের জন্ম: সিলিকন চিপের সূচনা",
+    "author": "Solid-State Electronics",
+    "level": "Intermediate",
+    "category": "Inventions & Technology",
+    "coverEmoji": "🔬",
+    "summary": "Three physicists place tiny gold foil contacts onto a slice of germanium, replacing fragile glowing vacuum tubes with the solid-state transistor.",
+    "summaryBn": "গরম হয়ে পুড়ে যাওয়া কাচের ভ্যাকুয়াম টিউব সরিয়ে জার্মেনিয়াম ক্রিস্টালে সোনার পাত ঠেকিয়ে আধুনিক ইলেকট্রনিক্স জগতের ভিত্তি গড়েন তিন বিজ্ঞানী।",
+    "sentences": [
+      {
+        "en": "Before the winter of 1947, all electrical amplifiers and radios relied on incandescent glass vacuum tubes that generated immense heat, consumed massive power, and burned out constantly.",
+        "bn": "১৯৪৭ সালের শীতের আগে সব রেডিও ও যন্ত্রে কাচের ভ্যাকুয়াম টিউব ব্যবহার করা হতো যা প্রচণ্ড উত্তাপ ছড়াত, প্রচুর বিদ্যুৎ খেত এবং সহজেই পুড়ে নষ্ট হয়ে যেত।"
+      },
+      {
+        "en": "Inside Bell Laboratories in New Jersey, a brilliant team of physicists—John Bardeen, Walter Brattain, and William Shockley—sought a solid-state alternative.",
+        "bn": "নিউ জার্সির বেল ল্যাবরেটরিতে জন বারডিন, ওয়াল্টার ব্রাটেন এবং উইলিয়াম শকলি নামের তিন বিজ্ঞানী এর এক কঠিন পদার্থভিত্তিক বিকল্পের সন্ধানে নামলেন।"
+      },
+      {
+        "en": "They experimented with semiconductors like germanium, seeking to control the flow of electric current through crystalline atoms without needing a fragile vacuum.",
+        "bn": "তারা জার্মেনিয়ামের মতো সেমিকন্ডাক্টর নিয়ে পরীক্ষা চালাতে লাগলেন, যাতে কোনো কাচের ফাঁকা নল ছাড়াই ক্রিস্টালের পরমাণু দিয়ে বিদ্যুৎপ্রবাহ নিয়ন্ত্রণ করা যায়।"
+      },
+      {
+        "en": "On December 23, 1947, Brattain carefully fashioned a plastic wedge wrapped in gold foil, slitting the foil at the tip with a razor blade to separate two contacts by hair-thin margins.",
+        "bn": "১৯৪৭ সালের ২৩ ডিসেম্বর ব্রাটেন প্লাস্টিকের খাঁজে সোনার পাত মুড়ে ব্লেড দিয়ে কেটে চুলের সমান সরু দুটি সংযোগ বিন্দু তৈরি করলেন।"
+      },
+      {
+        "en": "Pressing the gold points onto a slice of grey germanium crystal connected to an audio oscillator, they whispered into a microphone.",
+        "bn": "সেই সোনার বিন্দুগুলো জার্মেনিয়াম ক্রিস্টালের ওপর আলতো করে চেপে অডিও তারের সাথে যুক্ত করে তারা মাইক্রোফোনে ফিসফিস করে কথা বললেন।"
+      },
+      {
+        "en": "The speaker suddenly burst with loud, amplified sound; a tiny input electrical current had modulated a massive current cleanly through a solid rock.",
+        "bn": "মুহূর্তের মধ্যে লাউডস্পিকার থেকে জোরালো শব্দ ভেসে এলো; এক ক্ষুদ্র বিদ্যুৎপ্রবাহ কোনো কাচের সাহায্য ছাড়াই নিরেট পাথরের ভেতর দিয়ে সংকেত দ্বিগুণ করে দিল।"
+      },
+      {
+        "en": "They called their invention the 'transistor,' a tiny switch that eventually shrank billions of times over, powering every modern computer chip and microcircuit.",
+        "bn": "তারা এর নাম দিলেন 'ট্রানজিস্টর', যা ক্রমান্বয়ে ক্ষুদ্রাতিক্ষুদ্র রূপ নিয়ে আজকের প্রতিটি কম্পিউটার চিপ আর মাইক্রোপ্রসেসরের প্রাণশক্তি হয়ে দাঁড়িয়েছে।"
+      }
+    ]
+  },
+  {
+    "id": "tech-tim-berners-lee-world-wide-web",
+    "title": "Tim Berners-Lee and the Uncopyrighted World Wide Web",
+    "titleBn": "টিম বার্নার্স-লি ও উন্মুক্ত ওয়ার্ল্ড ওয়াইড ওয়েব",
+    "author": "Internet History",
+    "level": "Intermediate",
+    "category": "Inventions & Technology",
+    "coverEmoji": "🌐",
+    "summary": "A software consultant at CERN connects hypertext with the internet, gifting the World Wide Web freely to humanity without royalty or patent.",
+    "summaryBn": "বিশ্বের সমস্ত তথ্যকে হাইপারটেক্সট দিয়ে এক সুতোয় বেঁধে ওয়ার্ল্ড ওয়াইড ওয়েব আবিষ্কার করে কোনো প্যাটেন্ট না নিয়ে মানবজাতিকে ফ্রিতে উপহার দেন টিম বার্নার্স-লি।",
+    "sentences": [
+      {
+        "en": "In 1989, British software engineer Tim Berners-Lee worked at CERN, the European particle physics laboratory near Geneva, surrounded by thousands of visiting international researchers.",
+        "bn": "১৯৮৯ সালে ব্রিটিশ সফটওয়্যার ইঞ্জিনিয়ার টিম বার্নার্স-লি জেনেভার সার্ন গবেষণাগারে কাজ করছিলেন, যেখানে বিশ্বের হাজার হাজার পদার্থবিদ গবেষণায় আসতেন।"
+      },
+      {
+        "en": "Because each university used incompatible computer operating systems, scientists wasted months reformatting files and unable to share laboratory papers across networks.",
+        "bn": "যেহেতু একেক দেশের কম্পিউটার আলাদা সিস্টেম ব্যবহার করত, বিজ্ঞানীরা নিজেদের মধ্যে ইন্টারনেটে গবেষণাপত্র শেয়ার করতে গিয়ে চরম ভোগান্তিতে পড়তেন।"
+      },
+      {
+        "en": "Berners-Lee proposed linking internet networks with hypertext—a system where clickable highlighted words could instantly retrieve documents hosted on distant servers.",
+        "bn": "বার্নার্স-লি প্রস্তাব করলেন ইন্টারনেটের সাথে হাইপারটেক্সট জোড়ার—যেখানে কোনো লিংকে ক্লিক করলেই মুহূর্তের মধ্যে দূর সার্ভারে থাকা ফাইল চোখের সামনে ভেসে উঠবে।"
+      },
+      {
+        "en": "Using a sleek black NeXT computer in his Swiss office, he invented the three foundational protocols of the modern internet: HTML, HTTP, and URLs.",
+        "bn": "সুইজারল্যান্ডের অফিসে বসে তিনি আধুনিক ইন্টারনেটের তিনটি প্রধান ভিত্তি আবিষ্কার করলেন: এইচটিএমএল (HTML), এইচটিটিপি (HTTP), এবং ইউআরএল (URL)।"
+      },
+      {
+        "en": "On August 6, 1991, he launched the world's very first website, explaining how anyone could join this new decentralized information web.",
+        "bn": "১৯৯১ সালের ৬ আগস্ট তিনি বিশ্বের প্রথম ওয়েবসাইট চালু করলেন, যেখানে ব্যাখ্যা দেওয়া ছিল কীভাবে যে কেউ এই উন্মুক্ত জালে যুক্ত হতে পারে।"
+      },
+      {
+        "en": "Had he patented the technology or demanded a penny for every web link, Berners-Lee would have become the wealthiest individual in world history.",
+        "bn": "তিনি যদি এই প্রযুক্তির প্যাটেন্ট নিতেন বা প্রতি ক্লিকের জন্য এক পয়সাও দাবি করতেন, তবে তিনি অনায়াসে পৃথিবীর শীর্ষ ধনকুবের হতে পারতেন।"
+      },
+      {
+        "en": "Instead, he persuaded CERN to release the World Wide Web code into the public domain entirely royalty-free forever, giving a priceless gift of knowledge to mankind.",
+        "bn": "কিন্তু তিনি সার্নকে রাজি করিয়ে এই কোডকে সম্পূর্ণ বিনামূল্যে উন্মুক্ত করে দিলেন—মানবজাতির কল্যাণে এক অমূল্য জ্ঞানভাণ্ডার নিঃস্বার্থ উপহার হিসেবে বিলিয়ে দিয়ে।"
+      }
+    ]
+  },
+  {
+    "id": "tech-sergey-larry-pagerank",
+    "title": "Larry and Sergey: The Dorm Room Search for the Whole Web",
+    "titleBn": "ল্যারি ও সের্গেই: হোস্টেলের রুমে গুগলের সূচনা",
+    "author": "Internet History",
+    "level": "Intermediate",
+    "category": "Inventions & Technology",
+    "coverEmoji": "🔍",
+    "summary": "Two Stanford graduate students realize that hyperlinks are democratic votes of credibility, building Google on servers assembled from Lego bricks.",
+    "summaryBn": "কোন ওয়েবসাইট কতটা বিশ্বাসযোগ্য তা লিংকের ভোট দিয়ে হিসাব করার 'পেজর‍্যাঙ্ক' সূত্র আবিষ্কার করে লেগো দিয়ে তৈরি কম্পিউটারে গুগলের জন্ম দেন দুই ছাত্র।",
+    "sentences": [
+      {
+        "en": "In 1996, Stanford computer science doctoral students Larry Page and Sergey Brin found the burgeoning World Wide Web hopelessly disorganized.",
+        "bn": "১৯৯৬ সালে স্ট্যানফোর্ড বিশ্ববিদ্যালয়ের দুই পিএইচডি ছাত্র ল্যারি পেজ ও সের্গেই ব্রিন দেখলেন ইন্টারনেটের কোটি কোটি তথ্য এক বিশৃঙ্খল গোলকধাঁধায় রূপ নিয়েছে।"
+      },
+      {
+        "en": "Existing search engines merely counted how many times a keyword appeared on a web page, allowing spam sites to flood top search results.",
+        "bn": "তৎকালীন সার্চ ইঞ্জিনগুলো খালি একটি শব্দ কতবার লেখা আছে তা গুনত, ফলে ভুয়া ও অর্থহীন বিজ্ঞাপন পেজগুলো সবার আগে চলে আসত।"
+      },
+      {
+        "en": "Larry Page conceived a revolutionary mathematical model: what if incoming hyperlinks pointing to a website were treated as democratic academic citations?",
+        "bn": "ল্যারি পেজ এক বৈপ্লবিক গাণিতিক সূত্র ভাবলেন: যদি একটি ওয়েবসাইটের দিকে অন্য সাইটের দেওয়া লিংকগুলোকে গবেষণাপত্রের নির্ভরযোগ্যতার ভোটের মতো গণ্য করা হয়?"
+      },
+      {
+        "en": "Collaborating with Sergey Brin, they formulated the PageRank algorithm, which weighted the importance of a link based on the authority of the page providing it.",
+        "bn": "সের্গেই ব্রিনের সাথে মিলে তারা 'পেজর‍্যাঙ্ক' অ্যালগরিদম তৈরি করলেন, যা লিংকের গুরুত্ব মেপে ইন্টারনেটের সঠিক তথ্য খুঁজে দেওয়ার এক জাদুকরি উপায় বের করল।"
+      },
+      {
+        "en": "Lacking funding, they cobbled together their first server racks in Larry's dormitory bedroom using cheap personal computer parts housed in cases constructed from colorful Lego bricks.",
+        "bn": "টাকার অভাবে তারা ল্যারির হোস্টেলের রুমে শিশুদের রঙিন লেগো খেলনা দিয়ে কেসিং বানিয়ে সস্তা পার্টস জুড়ে প্রথম সার্ভার তৈরি করলেন।"
+      },
+      {
+        "en": "They named their search project Google, a deliberate misspelling of 'googol,' the mathematical term for the number one followed by one hundred zeros.",
+        "bn": "তারা এই প্রকল্পের নাম দিলেন 'গুগল', যা গণিতের 'গুগল' (এক এর পিঠে একশত শূন্য) সংখ্যার ভুল বানান থেকে রাখা হয়েছিল।"
+      },
+      {
+        "en": "Delivering clean, lightning-fast, and astonishingly relevant search results, their student experiment rapidly organized humanity's vast ocean of collective knowledge.",
+        "bn": "চকচকে পরিষ্কার আর অবিশ্বাস্য দ্রুতগতির সঠিক তথ্য তুলে দিয়ে তাদের এই ছাত্রাবস্থার পরীক্ষা সমগ্র পৃথিবীর তথ্যের সাগরকে এক ক্লিকে মানুষের নাগালে এনে দিল।"
+      }
+    ]
+  },
+  {
+    "id": "tech-steve-wozniak-apple-one",
+    "title": "Steve Wozniak: Hand-Soldering the First Personal Computer in a Garage",
+    "titleBn": "স্টিভ ওজনিয়াক ও গ্যারেজে প্রথম পার্সোনাল কম্পিউটার",
+    "author": "Silicon Valley History",
+    "level": "Intermediate",
+    "category": "Inventions & Technology",
+    "coverEmoji": "🍏",
+    "summary": "Working nights with a soldering iron, Steve Wozniak designs the Apple-1 motherboard with a typewriter keyboard and TV screen.",
+    "summaryBn": "দিনের বেলা চাকরি শেষে রাতে শখের বশে টিভি আর কিবোর্ড জুড়ে দিয়ে সাধারণ মানুষের ব্যবহারযোগ্য প্রথম পার্সোনাল কম্পিউটার তৈরি করেন স্টিভ ওজনিয়াক।",
+    "sentences": [
+      {
+        "en": "In 1975, computers were massive, prohibitively expensive refrigerators locked inside air-conditioned corporate basements, operated solely by elite technicians.",
+        "bn": "১৯৭৫ সালে কম্পিউটার ছিল ফ্রিজের মতো প্রকাণ্ড আর অত্যন্ত দামি যন্ত্র, যা বড় বড় কোম্পানির শীতাতপ নিয়ন্ত্রিত ঘরে বিশেষজ্ঞদের পাহারায় থাকত।"
+      },
+      {
+        "en": "A modest engineer at Hewlett-Packard named Steve Wozniak spent his evenings attending meetings of the Homebrew Computer Club in Silicon Valley.",
+        "bn": "হিউলেট-প্যাকার্ডের এক লাজুক ইঞ্জিনিয়ার স্টিভ ওজনিয়াক ছুটির সন্ধ্যায় সিলিকন ভ্যালির হোমব্রিউ কম্পিউটার ক্লাবের আড্ডায় যেতেন।"
+      },
+      {
+        "en": "Wozniak dreamed of an egalitarian machine that an ordinary student or hobbyist could operate from their living room desk.",
+        "bn": "ওজনিয়াকের স্বপ্ন ছিল এমন এক সাধারণ কম্পিউটার যা কোনো সাধারণ ছাত্র বা শৌখিন মানুষ নিজের ঘরের টেবিলে বসে চালাতে পারবে।"
+      },
+      {
+        "en": "Working tirelessly with a manual soldering iron on his bedroom floor, he engineered a single printed circuit board containing microprocessor, memory, and video chips.",
+        "bn": "ঘরের মেঝেতে বসে তারের ঝালাই করার কাঠি হাতে তিনি এমন এক সিঙ্গেল সার্কিট বোর্ড তৈরি করলেন যাতে প্রসেসর, মেমোরি আর ভিডিও চিপ নিখুঁতভাবে বসানো ছিল।"
+      },
+      {
+        "en": "Unlike primitive kits that flickered confusing neon lights, Wozniak wired an ordinary typewriter keyboard for input and connected the output to a home television set.",
+        "bn": "মিটমিট করা বাতিওয়ালা কিম্ভূতকিমাকার মেশিনের বদলে ওজনিয়াক টাইপরাইটারের কিবোর্ড দিয়ে ইনপুট আর সাধারণ রঙিন টিভির পর্দায় লেখা দেখানোর ব্যবস্থা করলেন।"
+      },
+      {
+        "en": "When he typed letters on the keys and watched corresponding characters appear instantly on the cathode ray tube screen, personal computing was born.",
+        "bn": "কিবোর্ডে আঙুল ছোঁয়ামাত্রই যখন রঙিন টিভির কাচের পর্দায় একের পর এক হরফ ভেসে উঠল, পার্সোনাল কম্পিউটারের যুগের ঐতিহাসিক সূচনা হলো।"
+      },
+      {
+        "en": "Partnering with Steve Jobs to sell the Apple-1 boards from a suburban garage, Wozniak unleashed a democratic revolution that put microchips into every home.",
+        "bn": "স্টিভ জবসের সাথে মিলে বাড়ির গ্যারেজে 'অ্যাপল-১' কম্পিউটার বিক্রি শুরু করে ওজনিয়াক এক বৈপ্লবিক দিগন্ত খুলে দিলেন যা ঘরে ঘরে কম্পিউটার পৌঁছে দিল।"
+      }
+    ]
+  },
+  {
+    "id": "tech-linus-torvalds-linux-kernel",
+    "title": "Linus Torvalds: 'Just for Fun' and the Free Kernel",
+    "titleBn": "লিনাস টরভাল্ডস: 'শখের বশে' গড়া লিনাক্স",
+    "author": "Open Source Software",
+    "level": "Intermediate",
+    "category": "Inventions & Technology",
+    "coverEmoji": "🐧",
+    "summary": "A twenty-one-year-old Finnish student posts a modest hobby operating system on an online newsgroup, igniting the global open-source movement.",
+    "summaryBn": "'শখের বশে বানাচ্ছি, বড় কিছু নয়' বলে বিশ্ববিদ্যালয়ের এক ছাত্রের তৈরি লিনাক্স আজ বিশ্বের সব সুপারকম্পিউটার ও অ্যান্ড্রয়েড ফোনের মেরুদণ্ড।",
+    "sentences": [
+      {
+        "en": "In August 1991, twenty-one-year-old computer science student Linus Torvalds sat in his cluttered bedroom in Helsinki, Finland, studying Unix internals.",
+        "bn": "১৯৯১ সালের আগস্টে ফিনল্যান্ডের হেলসিঙ্কি বিশ্ববিদ্যালয়ের একুশ বছর বয়সী ছাত্র লিনাস টরভাল্ডস নিজের ঘরে বসে ইউনিক্স সিস্টেম নিয়ে গবেষণা করছিলেন।"
+      },
+      {
+        "en": "Frustrated that commercial operating systems were ridiculously expensive and their source code kept secret by corporations, Linus decided to code his own.",
+        "bn": "বাণিজ্যিক সফটওয়্যারের চড়া দাম আর কোম্পানিগুলোর কোড লুকিয়ে রাখার অহংকার দেখে বিরক্ত হয়ে লিনাস নিজেই নিজের সিস্টেম লেখার সংকল্প করলেন।"
+      },
+      {
+        "en": "On August 25, he posted a legendary message to an online Minix newsgroup: 'I'm doing a free operating system, just a hobby, won't be big and professional.'",
+        "bn": "২৫ আগস্ট তিনি ইন্টারনেটের এক নিউজগ্রুপে ঐতিহাসিক বার্তা লিখলেন: 'আমি একটি ফ্রি অপারেটিং সিস্টেম বানাচ্ছি, একেবারেই শখের বশে, পেশাদারদের মতো বড় কিছু নয়।'"
+      },
+      {
+        "en": "He published the raw source code openly online under the GNU General Public License, inviting programmers around the world to test, modify, and improve it.",
+        "bn": "তিনি পুরো সিস্টেমের মূল সোর্স কোড ইন্টারনেটে সবার জন্য উন্মুক্ত করে দিলেন এবং বিশ্বজুড়ে ডেভেলপারদের এতে ভুল শুধরে উন্নতি করার আমন্ত্রণ জানালেন।"
+      },
+      {
+        "en": "Thousands of volunteer software engineers from every continent collaborated without central pay, submitting patches that turned Linux into an unbreakable industrial operating system.",
+        "bn": "কোনো পারিশ্রমিক ছাড়াই পৃথিবীর শত শত সেরা প্রোগ্রামার একসাথে কাজ করে লিনাক্সকে এক অপরাজেয় ও শক্তিশালী অপারেটিং সিস্টেমে পরিণত করল।"
+      },
+      {
+        "en": "Adopted by the smiling penguin mascot Tux, Linux grew to power all top five hundred world supercomputers, cloud data centers, the Internet backbone, and over three billion Android smartphones.",
+        "bn": "হাসিখুশি পেঙ্গুইন 'টাক্স' প্রতীকের লিনাক্স আজ বিশ্বের সেরা পাঁচশত সুপারকম্পিউটার, ক্লাউড ইন্টারনেট সার্ভার আর তিনশো কোটির বেশি অ্যান্ড্রয়েড ফোন পরিচালনা করছে।"
+      },
+      {
+        "en": "Linus Torvalds proved that open collaboration and shared human intellect can surpass the wealth of the largest proprietary tech monopolies.",
+        "bn": "লিনাস টরভাল্ডস প্রমাণ করলেন উন্মুক্ত সহযোগিতা আর সম্মিলিত মেধা যেকোনো বড় বড় ধনকুবের কোম্পানির চেয়েও অনেক বেশি শক্তিশালী।"
+      }
+    ]
+  },
+  {
+    "id": "tech-hedy-lamarr-frequency-hopping",
+    "title": "Hedy Lamarr: Hollywood Screen Star and Torpedo Frequency Hopping",
+    "titleBn": "হেডি লামার: হলিউডের নায়িকা ও ব্লুটুথ প্রযুক্তির জননী",
+    "author": "Invention & Wireless Technology",
+    "level": "Intermediate",
+    "category": "Inventions & Technology",
+    "coverEmoji": "📻",
+    "summary": "Celebrated as the most beautiful woman in cinema, Hedy Lamarr invents frequency hopping spread spectrum to guide radio-controlled torpedoes.",
+    "summaryBn": "হলিউডের সবচেয়ে রূপবতী অভিনেত্রী হয়েও পিয়ানোর সুর থেকে বেতার তরঙ্গ লাফানোর গোপন কৌশল আবিষ্কার করে ওয়াইফাই ও ব্লুটুথের ভিত্তি গড়েন হেডি লামার।",
+    "sentences": [
+      {
+        "en": "In the 1940s, Austrian-born Hedy Lamarr was celebrated by Hollywood movie studios and global audiences as the most glamorous woman in cinema.",
+        "bn": "১৯৪০-এর দশকে অস্ট্রিয়ান বংশোদ্ভূত হেডি লামারকে হলিউড ও সারা বিশ্বের দর্শক রূপালী পর্দার সর্বকালের অন্যতম সেরা সুন্দরী অভিনেত্রী হিসেবে জানত।"
+      },
+      {
+        "en": "Few suspected that in her lavish Beverly Hills mansion, Lamarr maintained a fully equipped drafting laboratory where she invented between film shoots.",
+        "bn": "খুব কম মানুষই জানত যে নিজের বাড়িতে তিনি এক বৈজ্ঞানিক ল্যাবরেটরি তৈরি করেছিলেন যেখানে শুটিংয়ের অবসরে তিনি বিজ্ঞানের নানা জটিল যন্ত্র উদ্ভাবন করতেন।"
+      },
+      {
+        "en": "Distressed by reports of Allied passenger liners torpedoed by German submarines, she sought a way to make radio-guided torpedoes unjammable.",
+        "bn": "জার্মান সাবমেরিনের হামলায় মিত্রবাহিনীর যাত্রীবাহী জাহাজ ডুবে যাওয়ার খবর শুনে তিনি বেতার সংকেত দিয়ে পরিচালিত জলমগ্ন টর্পেডোকে শত্রু থেকে রক্ষার উপায় খুঁজলেন।"
+      },
+      {
+        "en": "Teaming with avant-garde composer George Antheil, she drew inspiration from synchronized player piano rolls to invent 'frequency hopping.'",
+        "bn": "সঙ্গীতশিল্পী জর্জ অ্যান্থেইলের সাথে মিলে স্বয়ংক্রিয় পিয়ানোর রোলের তাল থেকে অনুপ্রাণিত হয়ে তিনি 'ফ্রিকোয়েন্সি হপিং' বা তরঙ্গ পরিবর্তনের কৌশল আবিষ্কার করলেন।"
+      },
+      {
+        "en": "By constantly shifting the transmitter and receiver simultaneously across eighty-eight different radio frequencies, enemy eavesdroppers could never jam the signal.",
+        "bn": "প্রেরক ও গ্রাহক যন্ত্র একসাথে দ্রুত আটাশিটি ভিন্ন ভিন্ন বেতার তরঙ্গে বারবার অবস্থান বদলে ফেললে শত্রুর পক্ষে সংকেত জ্যাম করা সম্পূর্ণ অসম্ভব ছিল।"
+      },
+      {
+        "en": "Granted US Patent 2,292,387 in 1942, Lamarr generously gifted the secret invention directly to the United States Navy without demanding a royalty.",
+        "bn": "১৯৪২ সালে প্যাটেন্ট পাওয়ার পর হেডি লামার কোনো টাকা না চেয়ে সরাসরি মার্কিন নৌবাহিনীর হাতে এই গোপন প্রযুক্তি উপহার হিসেবে তুলে দিলেন।"
+      },
+      {
+        "en": "Though ignored for decades during the war, her frequency-hopping spread spectrum architecture eventually became the foundational bedrock for modern Wi-Fi, Bluetooth, and cellular GPS.",
+        "bn": "যুদ্ধের সময় অবহেলিত থাকলেও তার আবিষ্কৃত সেই তরঙ্গ পরিবর্তনের প্রযুক্তিই আজ আমাদের আধুনিক ওয়াইফাই, ব্লুটুথ আর জিপিএস নেটওয়ার্কের মূল মেরুদণ্ড।"
+      }
+    ]
+  },
+  {
+    "id": "tech-douglas-engelbart-mother-of-demos",
+    "title": "Douglas Engelbart and the Mother of All Demos",
+    "titleBn": "ডগলাস এঙ্গেলবার্ট ও কম্পিউটারের ঐতিহাসিক প্রদর্শনী",
+    "author": "Human-Computer Interaction",
+    "level": "Intermediate",
+    "category": "Inventions & Technology",
+    "coverEmoji": "🖱️",
+    "summary": "In ninety electrifying minutes in 1968, Douglas Engelbart unveils the computer mouse, hypertext links, graphic windows, and video conferencing.",
+    "summaryBn": "১৯৬৮ সালে কাঠের তৈরি প্রথম কম্পিউটার মাউস, স্ক্রিনের উইন্ডো, ভিডিও কল আর হাইপারলিংক সরাসরি চালিয়ে বিশ্বকে আধুনিক রূপ দেখান এঙ্গেলবার্ট।",
+    "sentences": [
+      {
+        "en": "In December 1968, inside an auditorium in San Francisco, an audience of a thousand computer scientists gathered for a presentation by engineer Douglas Engelbart.",
+        "bn": "১৯৬৮ সালের ডিসেম্বরে সান ফ্রান্সিসকোর এক হলঘরে এক হাজার কম্পিউটার বিজ্ঞানীর সামনে মঞ্চে উঠলেন দূরদর্শী গবেষক ডগলাস এঙ্গেলবার্ট।"
+      },
+      {
+        "en": "At the time, computing meant feeding stacks of punch cards into mainframe cabinets and waiting days for printed reams of numbers.",
+        "bn": "তখন কম্পিউটার চালানো মানে ছিল কাগজের পাঞ্চ কার্ড বাক্সে ঢোকানো আর ফলাফলের জন্য কয়েক দিন অপেক্ষা করা।"
+      },
+      {
+        "en": "Wearing a telephone operator headset, Engelbart sat before a cathode ray screen, holding a small carved pine wood box with two metallic wheels and a red button.",
+        "bn": "মাথায় হেডফোন পরে এঙ্গেলবার্ট কাচের পর্দার সামনে বসলেন, হাতে ছিল দুটি চাকা আর একটি লাল বাটনযুক্ত পাইন কাঠের তৈরি ছোট একটি বাক্স।"
+      },
+      {
+        "en": "Moving the wooden box across the desktop, a cursor on the screen moved synchronously, marking the public unveiling of the computer mouse.",
+        "bn": "টেবিলের ওপর কাঠের বাক্সটি সরাতেই সাথে সাথে পর্দার ওপর এক কার্সর নড়ে উঠল—বিশ্ব প্রথমবারের মতো প্রত্যক্ষ করল কম্পিউটার মাউসের জন্ম।"
+      },
+      {
+        "en": "Over the next ninety minutes, Engelbart demonstrated graphic windows, collaborative real-time text editing, clickable hypertext links, and live video conferencing with an engineer thirty miles away.",
+        "bn": "পরবর্তী নব্বই মিনিটে তিনি গ্রাফিক্যাল উইন্ডো, রিয়েল-টাইম লেখা সম্পাদন, ক্লিকেবল হাইপারলিংক এবং ত্রিশ মাইল দূর থেকে লাইভ ভিডিও কনফারেন্সিং করে দেখালেন।"
+      },
+      {
+        "en": "The spellbound audience leaped to their feet in a thunderous standing ovation, recognizing they had witnessed the birth of the personal digital workspace.",
+        "bn": "স্তম্ভিত দর্শক দাঁড়িয়ে করতালির ঝড় তুলল—তারা বুঝল যে তারা চোখের সামনে আধুনিক ব্যক্তিগত কম্পিউটার জগতের জন্মমুহূর্ত প্রত্যক্ষ করেছে।"
+      },
+      {
+        "en": "Remembered forever as 'The Mother of All Demos,' Engelbart's ninety minutes transformed human-computer interaction from abstract punch paper into an intuitive extension of human thought.",
+        "bn": "'দ্য মাদার অফ অল ডেমোস' নামে খ্যাত সেই নব্বই মিনিট কম্পিউটারকে মানুষের চিন্তার এক জাদুকরি ও সহজ ডিজিটাল সাথী বানিয়ে দিয়েছিল।"
+      }
+    ]
+  },
+  {
+    "id": "tech-von-neumann-stored-program",
+    "title": "John von Neumann and the Architecture of Modern Computers",
+    "titleBn": "জন ফন নিউম্যান ও আধুনিক কম্পিউটারের স্থাপত্য",
+    "author": "Computer Architecture",
+    "level": "Intermediate",
+    "category": "Inventions & Technology",
+    "coverEmoji": "🧠",
+    "summary": "The polymath genius conceives the stored-program computer, proving that program instructions and data can coexist within the exact same electronic memory.",
+    "summaryBn": "কম্পিউটারের প্রোগ্রাম আর ডাটা একই মেমোরিতে রেখে যে কোনো কাজ নিমেষে করানোর আধুনিক আর্কিটেকচার তৈরি করেন বিজ্ঞানী জন ফন নিউম্যান।",
+    "sentences": [
+      {
+        "en": "During the mid-1940s, early electronic giant computers like the ENIAC required rooms of technicians to spend three days rewiring thousands of patch cords whenever a new calculation was needed.",
+        "bn": "১৯৪০-এর দশকে অ্যানিয়াকের মতো দানবীয় কম্পিউটারগুলোকে সামান্য একটি নতুন হিসাব করানোর জন্য কর্মীদের তিন দিন ধরে হাজার হাজার তার নতুন করে লাগাতে হতো।"
+      },
+      {
+        "en": "The Hungarian-born mathematical polymath John von Neumann joined the project at the Institute for Advanced Study in Princeton.",
+        "bn": "হাঙ্গেরিয়ান গণিতবিদ ও বহুমুখী প্রতিভার অধিকারী জন ফন নিউম্যান প্রিন্সটনের উন্নত গবেষণা কেন্দ্রে এই সমস্যার সমাধানে যোগ দিলেন।"
+      },
+      {
+        "en": "Von Neumann made a conceptual breakthrough that unified computer hardware forever: the stored-program architecture.",
+        "bn": "ফন নিউম্যান এক যুগান্তকারী চিন্তার সূচনা করলেন যা কম্পিউটারের রূপকে চিরতরে বদলে দিল: 'স্টোরড-প্রোগ্রাম আর্কিটেকচার'।"
+      },
+      {
+        "en": "He reasoned that software instructions should not be fixed into physical copper wires, but encoded as numeric binary data stored in the exact same memory bank as data.",
+        "bn": "তিনি বললেন প্রোগ্রামের নির্দেশগুলো তারের ভেতর আটকে না রেখে তথ্যের মতোই সাধারণ মেমোরির ভেতরে ডিজিটাল বাইনারি কোড হিসেবে সংরক্ষণ করতে হবে।"
+      },
+      {
+        "en": "His elegant blueprint outlined a central processing unit containing an arithmetic logic unit and processor registers, connected to working memory via a bus.",
+        "bn": "তার নকশায় তৈরি হলো সেন্ট্রাল প্রসেসিং ইউনিট (CPU), যাতে ছিল গাণিতিক লজিক ইউনিট আর মেমোরির সাথে যুক্ত ডেটা বাস লাইন।"
+      },
+      {
+        "en": "This enabled a computer to execute one program in the morning, load a completely different program in the afternoon, and modify its own instructions on the fly.",
+        "bn": "এর ফলে একটি কম্পিউটার সকালে গবেষণার কাজ করে দুপুরে মুহূর্তের মধ্যে হিসাবের বা গেমের সম্পূর্ণ ভিন্ন প্রোগ্রাম লোড করে নেওয়ার ক্ষমতা পেল।"
+      },
+      {
+        "en": "Virtually every laptop, desktop, smartphone, and supercomputer manufactured on Earth today still runs upon the fundamental von Neumann architecture.",
+        "bn": "আজকের পৃথিবীর প্রতিটি ল্যাপটপ, ডেস্কটপ, স্মার্টফোন আর সুপারকম্পিউটার আজও ফন নিউম্যানের তৈরি সেই প্রাথমিক স্থাপত্য কাঠামোর ওপরই চলছে।"
+      }
+    ]
+  },
+  {
+    "id": "tech-margaret-hamilton-apollo-code",
+    "title": "Margaret Hamilton and the Tower of Handwritten Apollo Code",
+    "titleBn": "মার্গারেট হ্যামিল্টন ও চাঁদে যাওয়ার কোড",
+    "author": "Space & Software Engineering",
+    "level": "Intermediate",
+    "category": "Inventions & Technology",
+    "coverEmoji": "🚀",
+    "summary": "Leading the MIT software team for the Apollo project, Margaret Hamilton invents priority scheduling that saves Apollo 11's moon landing from computer crash.",
+    "summaryBn": "চাঁদে অবতরণের মাত্র তিন মিনিট আগে কম্পিউটার ক্র্যাশ ঠেকাতে বিশেষ প্রায়োরিটি সফটওয়্যার নকশা করে অ্যাপোলো ১১ মিশনকে রক্ষা করেন মার্গারেট হ্যামিল্টন।",
+    "sentences": [
+      {
+        "en": "In the 1960s, as NASA raced to fulfill President Kennedy's pledge of landing a man on the Moon, computer software did not even exist as an acknowledged academic discipline.",
+        "bn": "১৯৬০-এর দশকে চাঁদে মানুষ পাঠানোর মহাযজ্ঞে নাসা যখন ব্যস্ত, তখন সফটওয়্যার ইঞ্জিনিয়ারিং বলে কোনো স্বীকৃত বিদ্যা বা পেশাই ছিল না।"
+      },
+      {
+        "en": "At MIT, thirty-one-year-old computer scientist Margaret Hamilton led the team responsible for writing the on-board flight guidance software for the Apollo spacecraft.",
+        "bn": "এমআইটিতে মাত্র একত্রিশ বছর বয়সী বিজ্ঞানী মার্গারেট হ্যামিল্টন অ্যাপোলো নভোযানের পথনির্দেশক সফটওয়্যার তৈরির পুরো দলের নেতৃত্ব দিলেন।"
+      },
+      {
+        "en": "Her team hand-coded millions of lines of assembly instructions, which were painstakingly woven by seamstresses into magnetic core rope memory with copper needles.",
+        "bn": "তার দল হাতে লাখ লাখ লাইনের কোড লিখেছিল, যা সুচ আর তামা দিয়ে চুম্বকীয় রিংয়ের ভেতর সেলাই করে মেমোরিতে ঢুকানো হতো।"
+      },
+      {
+        "en": "A famous photograph captured Hamilton standing beside a stack of printed software code that rose as tall as her own height.",
+        "bn": "এক ঐতিহাসিক ছবিতে দেখা যায় মার্গারেটের নিজের উচ্চতার সমান উঁচু প্রিন্ট করা কাগজের কোডের স্তূপের পাশে তিনি হাসিমুখে দাঁড়িয়ে আছেন।"
+      },
+      {
+        "en": "Foreseeing that human astronauts or faulty radar might overload the primitive computer, Hamilton designed asynchronous 'priority scheduling.'",
+        "bn": "মহাকাশচারীদের ভুল বা রাডারের অতিরিক্ত চাপে কম্পিউটার যাতে বন্ধ না হয়ে যায়, সেজন্য মার্গারেট এক বিশেষ 'প্রায়োরিটি শিডিউলিং' সফটওয়্যার ডিজাইন করলেন।"
+      },
+      {
+        "en": "Three minutes before the Eagle lunar module touched down on the Moon, a radar switch mistakenly left on flooded the computer with 1202 alarms.",
+        "bn": "চাঁদের মাটিতে নামার মাত্র তিন মিনিট আগে রাডারের ভুলে কম্পিউটারে একের পর এক ১২০২ নম্বরের বিপদসংকেত জ্বলে উঠল।"
+      },
+      {
+        "en": "Hamilton's robust code smoothly dropped low-priority tasks to focus uninterrupted processor power on descent thrusters, preventing an abort and securing history's first lunar landing.",
+        "bn": "মার্গারেটের তৈরি সফটওয়্যার অপ্রয়োজনীয় কাজগুলো বাদ দিয়ে অবতরণের ইঞ্জিনের মূল কাজে পূর্ণ মনোযোগ দিয়ে ইতিহাস গড়া সফল অবতরণ নিশ্চিত করল।"
+      }
+    ]
+  },
+  {
+    "id": "tech-voyager-golden-record-sagan",
+    "title": "Carl Sagan and the Golden Record of the Voyager Spacecraft",
+    "titleBn": "কার্ল সাগান ও ভয়েজার নভোযানের সোনালী রেকর্ড",
+    "author": "Space & Cosmic Humanities",
+    "level": "Intermediate",
+    "category": "Inventions & Technology",
+    "coverEmoji": "🛸",
+    "summary": "Carl Sagan assembles a gold-plated copper phonograph record carrying Earth's sounds, greetings in fifty-five languages, and Bach to wander the stars forever.",
+    "summaryBn": "পঞ্চাশটিরও বেশি ভাষার শুভেচ্ছা, পাখির ডাক আর বাখের সুর নিয়ে মহাবিশ্বের বুকে মানুষের এক চিরন্তন অভিবাদন হয়ে ছুটছে ভয়েজারের সোনার রেকর্ড।",
+    "sentences": [
+      {
+        "en": "In 1977, NASA prepared to launch twin space probes, Voyager 1 and Voyager 2, to explore Jupiter, Saturn, Uranus, Neptune, and eventually leave the solar system.",
+        "bn": "১৯৭৭ সালে নাসা বৃহস্পতি ও শনি গ্রহ পেরিয়ে সৌরজগতের বাইরে অনন্ত নক্ষত্রলোকে পাঠানোর জন্য ভয়েজার ১ ও ২ নামের দুটি মহাকাশযান প্রস্তুত করল।"
+      },
+      {
+        "en": "Knowing that these probes would wander the interstellar void for billions of years long after Earth had withered, astronomer Carl Sagan spearheaded a celestial message in a bottle.",
+        "bn": "পৃথিবী ধ্বংস হয়ে যাওয়ার পরও শত কোটি বছর এই যান মহাবিশ্বে ভেসে বেড়াবে জেনে জ্যোতির্বিদ কার্ল সাগান মহাকাশের ঠিকানায় এক জাদুকরী বার্তা তৈরির দায়িত্ব নিলেন।"
+      },
+      {
+        "en": "His team crafted a twelve-inch gold-plated copper phonograph record, encased in an aluminum protective cover inscribed with atomic clocks and binary playback instructions.",
+        "bn": "তারা বারো ইঞ্চির সোনার প্রলেপ দেওয়া তামার রেকর্ড তৈরি করলেন, যার খাঁজে খাঁজে পরমাণুর গতি আর সুর বাজানোর নিয়ম আঁকা ছিল।"
+      },
+      {
+        "en": "The record contained greetings in fifty-five human languages, beginning with an ancient Akkadian greeting spoken six thousand years ago.",
+        "bn": "এই সোনালী রেকর্ডে মানুষের পঞ্চান্নটি ভাষার শুভেচ্ছা রেকর্ড করা হলো, যার শুরু হয়েছিল ছয় হাজার বছর আগের প্রাচীন আক্কাদীয় ভাষার অভিবাদন দিয়ে।"
+      },
+      {
+        "en": "It carried the music of Mozart, Beethoven, blind blues guitarist Blind Willie Johnson, Indonesian gamelan, and songs of migrating humpback whales.",
+        "bn": "এতে রাখা হলো মোজার্ট আর বাখের সুর, মার্কিন অন্ধ গিটারিস্টের গান, ইন্দোনেশিয়ার লোকসুর আর সাগরের হাম্পব্যাক তিমির রহস্যময় গান।"
+      },
+      {
+        "en": "One hundred and fifteen analog images of human life, anatomy, skyscrapers, and children were encoded into sound grooves alongside recordings of a mother's heartbeat.",
+        "bn": "মানুষের শরীরের গঠন, ঘরবাড়ি, শিশুর ছবি আর মায়ের হৃদস্পন্দনের আওয়াজসহ একশো পনেরোটি ছবি সুরের তরঙ্গে খোদাই করে দেওয়া হলো।"
+      },
+      {
+        "en": "Now traveling fifteen billion miles away in the dark interstellar ocean between the stars, the Golden Record carries humanity's hopeful whisper into eternity.",
+        "bn": "আজ নক্ষত্রের মাঝে পনেরোশো কোটি মাইল দূরের অতল অন্ধকারে ভেসে চলা সেই সোনালী রেকর্ড মহাবিশ্বের বুকে মানবজাতির ভালোবাসার এক চিরন্তন প্রতিধ্বনি।"
+      }
+    ]
+  }
+]

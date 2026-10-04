@@ -1,0 +1,440 @@
+[
+  {
+    "id": "sci-archimedes-lever",
+    "title": "Archimedes and the Power of the Lever",
+    "titleBn": "আর্কিমিডিস এবং লিভারের অলৌকিক শক্তি",
+    "author": "Science History",
+    "level": "Intermediate",
+    "category": "Science & Inventions",
+    "coverEmoji": "⚙️",
+    "summary": "How a simple mechanical principle can move ships and give humanity leverage over the universe.",
+    "summaryBn": "কীভাবে একটি সাধারণ লাঠির ভারসাম্য দিয়ে বিশাল ভারি জাহাজও সহজে টেনে তোলা যায়।",
+    "sentences": [
+      {
+        "en": "Archimedes of Syracuse was fascinated by simple machines that could multiply human physical strength.",
+        "bn": "সিরাকিউসের বিজ্ঞানী আর্কিমিডিস এমন সব সাধারণ যন্ত্র নিয়ে গবেষণা করতে ভালোবাসতেন যা মানুষের দৈহিক শক্তিকে বহুগুণ বাড়িয়ে দেয়।"
+      },
+      {
+        "en": "He famously boasted to King Hiero: 'Give me a place to stand and a firm fulcrum, and I will move the whole Earth!'",
+        "bn": "তিনি রাজা হিয়ারোকে গর্ব করে বলেছিলেন: 'আমাকে দাঁড়ানোর জন্য শক্ত একটি জায়গা আর একটি ভরকেন্দ্র দিন, আমি পুরো পৃথিবীকে নাড়িয়ে দেব!'"
+      },
+      {
+        "en": "Skeptical, the king challenged him to prove this outrageous claim by moving a three-masted royal warship fully laden with cargo and crew that was stuck on the dry beach.",
+        "bn": "অবিশ্বাস করে রাজা তাঁকে তীরে আটকে থাকা শত শত সৈন্য ও মালামালবোঝাই তিন মাস্তুলের এক বিশাল যুদ্ধজাহাজ একা টেনে দেখানোর চ্যালেঞ্জ ছুড়ে দিলেন।"
+      },
+      {
+        "en": "Dozens of strong oxen and hundreds of sweating men had failed to budge the heavy vessel even a single inch from the mud.",
+        "bn": "ডজন ডজন বলদ এবং শত শত পেশিবহুল মানুষ চেষ্টা করেও সেই বিশাল জাহাজটিকে কাদা থেকে এক ইঞ্চিও সরাতে পারেনি।"
+      },
+      {
+        "en": "Archimedes constructed an intricate system of compound pulleys and long wooden levers securely anchored into the rock.",
+        "bn": "আর্কিমিডিস তখন কপিকল ও শক্ত কাঠের দীর্ঘ লিভারের এক চতুর জটিল ব্যবস্থা তৈরি করলেন যা শক্ত পাথরের সাথে আটকানো ছিল।"
+      },
+      {
+        "en": "Sitting comfortably on a wooden stool at a distance, he gently pulled a single rope with his bare hands.",
+        "bn": "কিছুটা দূরে একটি কাঠের টুলে আরাম করে বসে তিনি নিজের এক হাত দিয়ে সামান্য একটি দড়িতে মৃদু টান দিলেন।"
+      },
+      {
+        "en": "To the king's utter amazement, the colossal ship slid smoothly and effortlessly across the sand straight into the open sea.",
+        "bn": "রাজা বিস্ময়ে বিমূঢ় হয়ে দেখলেন যে সেই দানবাকৃতির জাহাজটি বালুর ওপর দিয়ে মসৃণভাবে গড়িয়ে সোজা সাগরের পানিতে নেমে গেল!"
+      },
+      {
+        "en": "Understanding scientific principles gives human beings leverage to accomplish tasks that brute muscle alone can never achieve.",
+        "bn": "বিজ্ঞানের মূল সূত্র বুঝতে পারলে মানুষ এমন সব অসম্ভব কাজ অনায়াসে করতে পারে যা কেবল গায়ের জোর দিয়ে কখনো সম্ভব নয়।"
+      }
+    ]
+  },
+  {
+    "id": "sci-braille-alphabet",
+    "title": "Louis Braille and the Language of Raised Dots",
+    "titleBn": "লুই ব্রেইল ও দৃষ্টিহীনের বর্ণমালা",
+    "author": "Science History",
+    "level": "Intermediate",
+    "category": "Science & Inventions",
+    "coverEmoji": "⠃⠗",
+    "summary": "A blind French teenager invents a revolutionary tactile alphabet, opening literature and knowledge to the visually impaired.",
+    "summaryBn": "দৃষ্টিহীন এক ফরাসি কিশোর কীভাবে উঁচু বিন্দুর ছোঁয়া দিয়ে তৈরি করেছিলেন দৃষ্টিপ্রতিবন্ধী মানুষের পড়ার জাদুকরী ভাষা।",
+    "sentences": [
+      {
+        "en": "When Louis Braille was only three years old, an accidental slip of a sharp leather awl in his father's workshop blinded him in both eyes.",
+        "bn": "লুই ব্রেইলের বয়স যখন মাত্র তিন বছর, তখন বাবার কারখানায় চামড়া ফুটো করার সূচালো পেরেকের আঘাতে তিনি দুই চোখের দৃষ্টি হারান।"
+      },
+      {
+        "en": "Despite living in total darkness, Louis possessed an exceptionally sharp, curious mind and a passionate hunger to read books.",
+        "bn": "চিরতরে অন্ধ হয়ে গেলেও লুইয়ের ছিল এক অসাধারণ তীক্ষ্ণ মন এবং বই পড়ে জ্ঞান অর্জনের তীব্র আকাঙ্ক্ষা।"
+      },
+      {
+        "en": "At the Paris school for the blind, books were made of giant embossed print that were clumsy to read and took ten minutes per sentence.",
+        "bn": "প্যারিসের দৃষ্টিহীনদের স্কুলে বড় বড় উঁচু হরফের কিছু বই ছিল যা দিয়ে একটি বাক্য পড়তে দশ মিনিট সময় লাগত এবং খুব কষ্টকর ছিল।"
+      },
+      {
+        "en": "Louis learned about a secret military code of raised dots used by French soldiers to read messages silently in dark battle trenches.",
+        "bn": "লুই ফরাসি সেনাবাহিনীর এমন এক গোপন সাংকেতিক ভাষার কথা শুনলেন যা দিয়ে সৈনিকরা রাতে নিঃশব্দে হাত বুলিয়ে বার্তা পড়ত।"
+      },
+      {
+        "en": "Working relentlessly at night with his blunt awl, fifteen-year-old Louis simplified the system into a compact six-dot cellular grid.",
+        "bn": "রাতের পর রাত জেগে ভোঁতা পেরেকের ডগা দিয়ে কাজ করে পনেরো বছর বয়সী লুই সেই পদ্ধতিকে ছয়টি বিন্দুর এক সহজ কাঠামোর মধ্যে নিয়ে এলেন।"
+      },
+      {
+        "en": "By arranging combinations of these six embossed dots, fingers could read every letter, number, and musical note at rapid reading speed.",
+        "bn": "এই ছয়টি বিন্দুর বিন্যাস দিয়ে আঙুলের সামান্য ছোঁয়াতেই মানুষ খুব দ্রুত যেকোনো অক্ষর, সংখ্যা এমনকি গানের স্বরলিপিও পড়তে পারল।"
+      },
+      {
+        "en": "For the first time in human history, blind people were granted the gift of independent literacy, education, and intellectual freedom.",
+        "bn": "মানবজাতির ইতিহাসে প্রথমবারের মতো দৃষ্টিহীন মানুষেরা স্বনির্ভরভাবে পড়ালেখা এবং জ্ঞানের আলোয় আলোকিত হওয়ার অধিকার পেল।"
+      },
+      {
+        "en": "His selfless genius proved that losing one's outer sight does not diminish the inner vision to illuminate the world.",
+        "bn": "তাঁর এই মহান আবিষ্কার প্রমাণ করল যে চোখের দৃষ্টি হারালেও মনের দৃষ্টি দিয়ে পুরো পৃথিবীকে আলোয় ভরিয়ে দেওয়া যায়।"
+      }
+    ]
+  },
+  {
+    "id": "sci-gutenberg-printing",
+    "title": "Gutenberg and the Moving Metal Letters",
+    "titleBn": "গুটেনবার্গ ও প্রথম ছাপাখানা",
+    "author": "Science History",
+    "level": "Intermediate",
+    "category": "Science & Inventions",
+    "coverEmoji": "📰",
+    "summary": "A German goldsmith invents movable metal type and an olive press printer, igniting the global explosion of knowledge.",
+    "summaryBn": "জার্মানির এক কারিগর কীভাবে চলনশীল ধাতব হরফ দিয়ে ছাপাখানা আবিষ্কার করে পৃথিবীর প্রতিটি মানুষের হাতে জ্ঞানের আলো পৌঁছে দিলেন।",
+    "sentences": [
+      {
+        "en": "In the Middle Ages, books were so rare that only kings and rich monasteries could afford them, each volume painstakingly copied by hand by monks over entire years.",
+        "bn": "মধ্যযুগে বই ছিল এত দুর্লভ যে কেবল রাজা এবং ধনী মঠগুলোই তা কিনতে পারত, কারণ সন্ন্যাসীরা একেকটি বই হাতে লিখে নকল করতে বছরের পর বছর সময় নিত।"
+      },
+      {
+        "en": "Johannes Gutenberg, a skilled German goldsmith in Mainz, dreamt of a machine that could reproduce written knowledge swiftly and cheaply.",
+        "bn": "জার্মানির মাইনৎস শহরের দক্ষ কারিগর জোহানেস গুটেনবার্গ এমন এক যন্ত্রের স্বপ্ন দেখতেন যা দ্রুত এবং অল্প খরচে মানুষের হাতে বই পৌঁছে দেবে।"
+      },
+      {
+        "en": "He carved individual letters of the alphabet onto durable lead-tin alloy blocks that could be rearranged infinitely to form any text.",
+        "bn": "তিনি সীসা ও টিনের মিশ্রণে তৈরি মজবুত ধাতব ব্লকের ওপর প্রতিটি অক্ষরের ছাঁচ বানালেন যা দিয়ে যেকোনো শব্দ তৈরি করা যেত।"
+      },
+      {
+        "en": "He adapted the screw-mechanism of a wine grape press and formulated a thick, oil-based black ink that bonded cleanly to paper.",
+        "bn": "তিনি আঙুর থেকে রস বের করার কাঠের প্রেসের প্রযুক্তি ব্যবহার করলেন এবং তেলের তৈরি এমন এক বিশেষ কালো কালি বানালেন যা কাগজে সুন্দরভাবে বসত।"
+      },
+      {
+        "en": "In 1455, he printed one hundred and eighty copies of his magnificent Latin Bible, each identical in crisp, uniform beauty.",
+        "bn": "১৪৫৫ সালে তিনি তাঁর বিখ্যাত বাইবেলের একশো আশিটি কপি ছাপালেন, যার প্রতিটি পাতা ছিল একই রকম নিখুঁত ও দৃষ্টিনন্দন।"
+      },
+      {
+        "en": "A single printer could now produce more books in a week than a team of dedicated medieval scribes could write in a lifetime.",
+        "bn": "একটিমাত্র ছাপাখানা এখন এক সপ্তাহে এত বই ছাপতে লাগল যা আগের যুগের একদল লেখক সারাজীবন ধরেও লিখে শেষ করতে পারত না।"
+      },
+      {
+        "en": "The printing press democratized literacy, sparked the Scientific Revolution, and enabled ideas to cross continents like wildfire.",
+        "bn": "এই ছাপাখানা সবার জন্য শিক্ষার দ্বার উন্মুক্ত করল, বৈজ্ঞানিক বিপ্লবের সূচনা ঘটাল এবং মানুষের চিন্তাকে আগুনের মতো বিশ্বজুড়ে ছড়িয়ে দিল।"
+      }
+    ]
+  },
+  {
+    "id": "sci-bell-telephone",
+    "title": "Alexander Graham Bell: Mr. Watson, Come Here",
+    "titleBn": "টেলিফোনের প্রথম কথা: মিস্টার ওয়াটসন, এখানে আসুন",
+    "author": "Science History",
+    "level": "Intermediate",
+    "category": "Science & Inventions",
+    "coverEmoji": "📞",
+    "summary": "An inventor obsessed with teaching the deaf to speak transmits the human voice across copper wire for the first time.",
+    "summaryBn": "বধিরদের কথা শেখানোর সাধনায় মগ্ন এক আবিষ্কারক কীভাবে তামার তারের মধ্য দিয়ে মানুষের কণ্ঠস্বর পাঠিয়েছিলেন।",
+    "sentences": [
+      {
+        "en": "Alexander Graham Bell dedicated his youth to understanding human speech acoustics to teach deaf children how to communicate verbally.",
+        "bn": "আলেকজান্ডার গ্রাহাম বেল তাঁর তরুণ বয়সে মানুষের গলার আওয়াজ ও সুরের বিজ্ঞান নিয়ে গবেষণা করতেন যাতে বধির শিশুদের কথা শেখানো যায়।"
+      },
+      {
+        "en": "He theorized that if an electric current could be varied in exact proportion to sound wave vibrations, speech could travel along wires.",
+        "bn": "তিনি ধারণা করলেন যে বাতাসের শব্দের কম্পন অনুযায়ী যদি বিদ্যুতের প্রবাহকে কম-বেশি করা যায়, তবে তামার তারের ভেতর দিয়েও কণ্ঠস্বর পাঠানো সম্ভব।"
+      },
+      {
+        "en": "For months, Bell and his talented mechanic assistant Thomas Watson experimented inside a hot attic workshop in Boston.",
+        "bn": "মাসের পর মাস ধরে বেল এবং তাঁর সহকারী টমাস ওয়াটসন বোস্টনের এক গরম চিলেকোঠায় বসে অবিরাম পরীক্ষা-নিরীক্ষা চালিয়ে গেলেন।"
+      },
+      {
+        "en": "On March 10, 1876, Bell accidentally spilled battery acid onto his trousers while testing a liquid transmitter.",
+        "bn": "১৮৭৬ সালের ১০ মার্চ পরীক্ষা করার সময় অসাবধানতাবশত বেলের প্যান্টের ওপর ব্যাটারির তীব্র অ্যাসিডের কিছু ফোঁটা পড়ে গেল।"
+      },
+      {
+        "en": "He cried out into the metallic mouthpiece: 'Mr. Watson, come here! I want to see you!'",
+        "bn": "ব্যথায় তিনি ধাতব চোঙের মধ্যে চিৎকার করে বললেন: 'মিস্টার ওয়াটসন, এখানে আসুন! আমার আপনাকে প্রয়োজন!'"
+      },
+      {
+        "en": "Down the hall in the adjoining room, Watson heard Bell's voice emerging loud and crystal-clear through the receiving trumpet.",
+        "bn": "পাশের বন্ধ ঘরে বসে ওয়াটসন তাঁর রিসিভার দিয়ে বেলের সেই কণ্ঠস্বর স্পষ্টভাবে শুনতে পেয়ে আনন্দে ছুটে এলেন।"
+      },
+      {
+        "en": "Watson sprinted excitedly into Bell's room, shouting that the electric speech transmission had succeeded perfectly.",
+        "bn": "ওয়াটসন দৌড়ে এসে চেঁচিয়ে উঠলেন যে বিদ্যুতের তার দিয়ে মানুষের কথা পাঠানোর এই ঐতিহাসিক পরীক্ষা শতভাগ সফল হয়েছে।"
+      },
+      {
+        "en": "The telephone instantly shrunk geographical distances, allowing voices of loved ones to bridge oceans and continents.",
+        "bn": "টেলিফোন মুহূর্তের মধ্যে মানুষের মধ্যকার ভৌগোলিক দূরত্বকে মুছে দিল এবং প্রিয়জনদের কণ্ঠস্বরকে সাগরের ওপারেও পৌঁছে দিল।"
+      }
+    ]
+  },
+  {
+    "id": "sci-marconi-wireless",
+    "title": "Marconi and the Invisible Atlantic Signal",
+    "titleBn": "মার্কোনি এবং আটলান্টিকের অদৃশ্য বেতার সংকেত",
+    "author": "Science History",
+    "level": "Intermediate",
+    "category": "Science & Inventions",
+    "coverEmoji": "📻",
+    "summary": "Defying top scientists who said the Earth's curve made it impossible, a young Italian beams radio waves across an ocean.",
+    "summaryBn": "বিজ্ঞানীদের সব যুক্তি ভুল প্রমাণ করে এক তরুণ কীভাবে আটলান্টিক মহাসাগরের ওপর দিয়ে রেডিও তরঙ্গের সংকেত পাঠিয়েছিলেন।",
+    "sentences": [
+      {
+        "en": "In the late 1890s, prominent physicists firmly asserted that wireless electromagnetic signals could only travel in straight lines and would shoot out into outer space.",
+        "bn": "উনবিংশ শতাব্দীর শেষভাগে বড় বড় বিজ্ঞানীরা দাবি করেছিলেন যে বেতার তরঙ্গ কেবল সোজা পথে চলে এবং পৃথিবীর বাঁকের কারণে তা মহাকাশে হারিয়ে যাবে।"
+      },
+      {
+        "en": "They concluded that sending a radio message across the curved Atlantic Ocean without cables was scientifically impossible.",
+        "bn": "তাঁরা রায় দিয়েছিলেন যে কোনো তার ছাড়া আটলান্টিক মহাসাগরের ওপর দিয়ে বেতার বার্তা পাঠানো বৈজ্ঞানিকভাবে অসম্ভব।"
+      },
+      {
+        "en": "A determined young Italian inventor named Guglielmo Marconi refused to accept their theoretical skepticism.",
+        "bn": "কিন্তু গুগলিয়েলমো মার্কোনি নামের এক তরুণ ইতালীয় আবিষ্কারক সেই বিজ্ঞানীদের হতাশার কথা মানতে রাজি হলেন না।"
+      },
+      {
+        "en": "In December 1901, Marconi stood inside an abandoned hospital on Signal Hill in Newfoundland, Canada, shivering in freezing winds.",
+        "bn": "১৯০১ সালের ডিসেম্বরের হাড়কাঁপানো শীতে মার্কোনি কানাডার সিগন্যাল হিলের এক পরিত্যক্ত ঘরে দাঁড়িয়ে অপেক্ষা করতে লাগলেন।"
+      },
+      {
+        "en": "He held a simple telephone earpiece to his ear, connected to a wire antenna lifted four hundred feet in the air by a stormy kite.",
+        "bn": "তিনি কানে একটি সাধারণ ইয়ারপিস ধরে রইলেন, যা আকাশে ঝড়ের মধ্যে ওড়া ঘুড়ির সাথে বাঁধা চারশো ফুট লম্বা তারের সাথে যুক্ত ছিল।"
+      },
+      {
+        "en": "Across two thousand miles of open stormy ocean in Cornwall, England, his team was broadcasting the Morse code letter 'S'—three tiny clicks.",
+        "bn": "দুই হাজার মাইল দূরে ইংল্যান্ডের উপকূল থেকে তাঁর সহযোগীরা নিয়মিত বিরতিতে মোর্স কোডের 'এস' অক্ষর—অর্থাৎ তিনটি মৃদু টিক-টিক আওয়াজ পাঠাচ্ছিল।"
+      },
+      {
+        "en": "At half past twelve, through the crackle of static, Marconi heard three sharp, distinct clicks: 'dit-dit-dit!'",
+        "bn": "দুপুর সাড়ে বারোটায় রেডিওর খড়খড় আওয়াজের ফাঁক দিয়ে স্পষ্ট তিনটি মৃদু শব্দ শোনা গেল: 'টিক-টিক-টিক!'"
+      },
+      {
+        "en": "Radio waves had bounced off the upper ionosphere, proving the world could be bound together in instantaneous wireless communication.",
+        "bn": "রেডিও তরঙ্গ আকাশের আয়নমণ্ডলে ধাক্কা খেয়ে ফিরে এসেছিল, যা প্রমাণ করল পুরো বিশ্ব এখন তারহীন যোগাযোগের এক সোনালী যুগে প্রবেশ করেছে।"
+      }
+    ]
+  },
+  {
+    "id": "sci-jenner-smallpox",
+    "title": "Edward Jenner and the Milkmaid's Cowpox",
+    "titleBn": "এডওয়ার্ড জেনার ও গুটিবসন্তের প্রথম টিকা",
+    "author": "Science History",
+    "level": "Intermediate",
+    "category": "Science & Inventions",
+    "coverEmoji": "💉",
+    "summary": "An English country doctor listens to dairy workers and invents vaccination, conquering mankind's deadliest killer.",
+    "summaryBn": "গ্রামের গোয়ালিনীদের সাধারণ অভিজ্ঞতা শুনে এক চিকিৎসক কীভাবে গুটিবসন্তের মতো প্রাণঘাতী মহামারির প্রতিষেধক তৈরি করেছিলেন।",
+    "sentences": [
+      {
+        "en": "For thousands of years, smallpox was one of the most terrifying scourges of humanity, killing millions and scarring survivors forever.",
+        "bn": "হাজার হাজার বছর ধরে গুটিবসন্ত ছিল মানবজাতির এক চরম আতঙ্ক, যা কোটি কোটি মানুষকে মেরে ফেলত আর বেঁচে থাকাদের সারা জীবন ক্ষতবিক্ষত করে রাখত।"
+      },
+      {
+        "en": "Dr. Edward Jenner, a quiet physician practicing in rural England, noticed an intriguing piece of traditional country folklore.",
+        "bn": "ইংল্যান্ডের এক পল্লী চিকিৎসক ডা. এডওয়ার্ড জেনার লক্ষ্য করলেন গ্রামের গোয়ালিনীদের মাঝে এক অদ্ভুত লোকবিশ্বাস প্রচলিত আছে।"
+      },
+      {
+        "en": "Dairy milkmaids who caught the mild cowpox infection from cows' udders never contracted the lethal, disfiguring smallpox.",
+        "bn": "যেসব গোয়ালিনী গরুর দুধ দোয়ানোর সময় গরুর মৃদু বসন্তে আক্রান্ত হতো, তারা কখনোই মারাত্মক গুটিবসন্তে আক্রান্ত হতো না।"
+      },
+      {
+        "en": "In May 1796, Jenner took harmless fluid from a cowpox sore on a milkmaid named Sarah Nelmes and inoculated a brave young boy.",
+        "bn": "১৭৯৬ সালের মে মাসে জেনার সারাহ নামের এক গোয়ালিনীর হাতের ফোস্কা থেকে সামান্য পুঁজ নিয়ে এক বালকের হাতে টিকা হিসেবে দিলেন।"
+      },
+      {
+        "en": "The boy developed a slight fever for a day and recovered completely with zero complications.",
+        "bn": "ছেলেটির একদিন সামান্য জ্বর হলো এবং সে কোনো কষ্ট ছাড়াই পুরোপুরি সুস্থ হয়ে উঠল।"
+      },
+      {
+        "en": "Two months later, Jenner exposed the boy to actual smallpox matter, and the child's immune system successfully fought off the virus without falling ill.",
+        "bn": "দুই মাস পর জেনার ছেলেটিকে আসল গুটিবসন্তের জীবাণু দিলেন, কিন্তু দেখা গেল তার শরীরের রোগ প্রতিরোধ ক্ষমতা সহজেই ভাইরাসটিকে প্রতিহত করেছে।"
+      },
+      {
+        "en": "Jenner coined the term 'vaccine' from the Latin word 'vacca', meaning cow, in honor of the source of immunity.",
+        "bn": "গরুর লাতিন নাম 'ভ্যাক্কা' থেকে সম্মান জানিয়ে জেনার এই জীবনরক্ষাকারী পদ্ধতির নাম দিলেন 'ভ্যাকসিন' বা টিকা।"
+      },
+      {
+        "en": "His pioneering work eradicated smallpox completely from planet Earth, saving hundreds of millions of human lives.",
+        "bn": "তাঁর এই ঐতিহাসিক গবেষণার ফলেই আজ পৃথিবী থেকে গুটিবসন্ত সম্পূর্ণ নির্মূল হয়েছে এবং কোটি কোটি মানবসন্তান বেঁচে গেছে।"
+      }
+    ]
+  },
+  {
+    "id": "sci-subhash-chandra-bose-plants",
+    "title": "Sir Jagadish Chandra Bose: The Voice of Plants",
+    "titleBn": "জগদীশচন্দ্র বসু এবং উদ্ভিদের প্রাণের স্পন্দন",
+    "author": "Science History",
+    "level": "Intermediate",
+    "category": "Science & Inventions",
+    "coverEmoji": "🌱",
+    "summary": "An Indian polymath invents the crescograph and proves to a skeptical world that plants feel pain, fatigue, and affection.",
+    "summaryBn": "নিজের হাতে ক্রেসকোগ্রাফ যন্ত্র বানিয়ে এক মহান বাঙালি বিজ্ঞানী প্রমাণ করেছিলেন যে গাছেরও সুখ-দুঃখের অনুভূতি আছে।",
+    "sentences": [
+      {
+        "en": "Sir Jagadish Chandra Bose was a visionary physicist and biologist working at Presidency College in Calcutta with minimal laboratory resources.",
+        "bn": "স্যার জগদীশচন্দ্র বসু ছিলেন কলকাতার প্রেসিডেন্সি কলেজের এক প্রতিভাধর পদার্থ ও উদ্ভিদবিদ, যিনি সীমিত সুযোগের মধ্যেই বিশ্বমানের গবেষণা করতেন।"
+      },
+      {
+        "en": "Western scientists believed that plants were passive, unconscious organisms completely incapable of feeling physical stimuli.",
+        "bn": "পশ্চিমা বিজ্ঞানীরা বিশ্বাস করতেন যে উদ্ভিদ হলো এক অচেতন জড়বস্তু যার কোনো আঘাত বা স্পর্শের অনুভূতি পাওয়ার ক্ষমতা নেই।"
+      },
+      {
+        "en": "Bose invented an extraordinarily delicate instrument called the Crescograph, capable of magnifying plant movements and cell growth ten million times.",
+        "bn": "বসু নিজের হাতে 'ক্রেসকোগ্রাফ' নামের এক সূক্ষ্ম যন্ত্র আবিষ্কার করলেন, যা গাছের সামান্যতম বৃদ্ধি বা নড়াচড়াকে এক কোটি গুণ বড় করে দেখাতে পারত।"
+      },
+      {
+        "en": "In 1901, at the Royal Society in London, Bose connected a live plant to his machine and submerged its roots in poisonous bromide.",
+        "bn": "১৯০১ সালে লন্ডনের রয়্যাল সোসাইটির মঞ্চে বসু একটি জীবন্ত গাছের শেকড় বিষাক্ত ব্রোমাইড দ্রবণের মধ্যে ডুবিয়ে দিলেন।"
+      },
+      {
+        "en": "As the poison took effect, a bright spot of light on the screen quivered violently, mirroring the plant's agonizing death struggle.",
+        "bn": "বিষের প্রভাব শুরু হতেই স্ক্রিনের ওপর আলোর বিন্দুটি কাঁপতে লাগল, ঠিক যেমন কোনো প্রাণী মৃত্যুর সময় ছটফট করে যন্ত্রণায় কাতরায়।"
+      },
+      {
+        "en": "He demonstrated that plants respond to warmth, soothing music, fatigue, anesthetics, and electrical impulses just like animals.",
+        "bn": "তিনি প্রমাণ করলেন যে প্রাণীদের মতোই গাছপালাও উষ্ণতা, মিষ্টি গান, ক্লান্তি, চেতনা এবং বৈদ্যুতিক আঘাতে সাড়া দেয়।"
+      },
+      {
+        "en": "The amazed European scientists stood and applauded his revolutionary revelation of the hidden consciousness within green nature.",
+        "bn": "বিস্ময়ে হতবাক হয়ে ইউরোপের সেরা বিজ্ঞানীরা দাঁড়িয়ে করতালি দিয়ে প্রকৃতির মাঝে লুকিয়ে থাকা চেতনার এই আবিষ্কারকে বরণ করে নিলেন।"
+      }
+    ]
+  },
+  {
+    "id": "sci-srinivasa-ramanujan",
+    "title": "Srinivasa Ramanujan: The Man Who Knew Infinity",
+    "titleBn": "শ্রীনিবাস রামানুজন: গণিতের অনন্তের সাধক",
+    "author": "Science History",
+    "level": "Intermediate",
+    "category": "Science & Inventions",
+    "coverEmoji": "♾️",
+    "summary": "A self-taught clerk from South India sends mathematical formulas across the ocean, dazzling the greatest professors at Cambridge.",
+    "summaryBn": "কোনো প্রাতিষ্ঠানিক সুযোগ ছাড়াই এক সাধারণ কেরানি কীভাবে গণিতের এমন সব জটিল সূত্র আবিষ্কার করলেন যা আজও বিশ্বকে চমকে দেয়।",
+    "sentences": [
+      {
+        "en": "Srinivasa Ramanujan was born into a humble Tamil family in Kumbakonam, India, with almost no formal access to advanced mathematical literature.",
+        "bn": "ভারতের কুম্ভকোণমে এক সাধারণ পরিবারে জন্ম নেওয়া শ্রীনিবাস রামানুজন কোনো উন্নত লাইব্রেরি বা উচ্চশিক্ষার সুযোগ পাননি।"
+      },
+      {
+        "en": "Working as a twenty-rupee clerk at the Madras Port Trust, he filled cheap notebooks with thousands of original, mind-bending mathematical formulas.",
+        "bn": "মাদ্রাজ বন্দরে মাত্র বিশ টাকার কেরানির কাজ করার ফাঁকে তিনি সস্তা নোটখাতায় গণিতের হাজার হাজার মৌলিক ও জটিল সূত্র লিখে রাখতেন।"
+      },
+      {
+        "en": "In 1913, he posted a letter containing one hundred and twenty intricate mathematical theorems to the eminent Cambridge mathematician G. H. Hardy.",
+        "bn": "১৯১৩ সালে তিনি কেমব্রিজের সেরা গণিতবিদ জি. এইচ. হার্ডির কাছে এক চিঠি পাঠিয়ে তাতে একশো বিশটি জটিল গাণিতিক উপপাদ্য লিখে দিলেন।"
+      },
+      {
+        "en": "Hardy looked at the sheets and gasped, declaring that the formulas could only be written by a mathematician of the highest genius.",
+        "bn": "হার্ডি সেই পাতাগুলো দেখে বিস্ময়ে স্তব্ধ হয়ে বললেন, পৃথিবীর সর্বোচ্চ পর্যায়ের কোনো মহাপ্রতিভা ছাড়া এই ধরণের সূত্র লেখা অসম্ভব।"
+      },
+      {
+        "en": "Hardy arranged for Ramanujan to travel to England, where the young Indian scholar dazzled the Royal Society with discoveries in number theory and infinite series.",
+        "bn": "হার্ডি রামানুজনকে ইংল্যান্ডে নিয়ে এলেন, যেখানে এই তরুণ পণ্ডিত সংখ্যাতত্ত্ব ও অসীম ধারার গবেষণায় পুরো বিশ্বের গণিতবিদদের তাক লাগিয়ে দিলেন।"
+      },
+      {
+        "en": "When asked how he conceived such profound equations, Ramanujan humbly replied that his family goddess Namagiri wrote them upon his tongue in dreams.",
+        "bn": "এত অদ্ভুত সুন্দর সমীকরণ তিনি কীভাবে ভাবেন জিজ্ঞেস করা হলে রামানুজন বিনম্রভাবে বলতেন স্বপ্নের মাঝে তাঁর মনের ভেতর স্বয়ং ঈশ্বর এই জ্ঞান এঁকে দেন।"
+      },
+      {
+        "en": "Today, his notebooks still guide modern breakthroughs in string theory, black hole physics, and computer encryption algorithms.",
+        "bn": "আজও তাঁর রেখে যাওয়া ডায়েরির সূত্রগুলো ব্ল্যাকহোল বিজ্ঞান, আধুনিক পদার্থবিদ্যা এবং কম্পিউটারের জটিল কোডিং তৈরিতে পথ দেখায়।"
+      }
+    ]
+  },
+  {
+    "id": "sci-honeybee-dance",
+    "title": "The Secret Dance Language of the Honeybee",
+    "titleBn": "মৌমাছির নাচের গোপন ভাষা",
+    "author": "Nature Wonders",
+    "level": "Intermediate",
+    "category": "Nature Wonders",
+    "coverEmoji": "🐝",
+    "summary": "How a tiny scout bee performs a figure-eight waggle dance to communicate distance, direction, and sweetness to the hive.",
+    "summaryBn": "এক ফোঁটা মধুর সন্ধান পেলে একটি মৌমাছি কীভাবে আট-আকৃতির নাচের মাধ্যমে দলের সবাইকে দিক ও দূরত্বের সংকেত দেয়।",
+    "sentences": [
+      {
+        "en": "When a worker honeybee discovers a field of blossoming clover miles away from her hive, she cannot simply speak to her sisters.",
+        "bn": "একটি কর্মী মৌমাছি যখন মৌচাক থেকে কয়েক মাইল দূরে মিষ্টি ফুলে ভরা এক বাগানের সন্ধান পায়, সে তো মুখে বলে তা জানাতে পারে না।"
+      },
+      {
+        "en": "Austrian scientist Karl von Frisch spent years observing glass hives and cracked one of nature's most brilliant communication codes.",
+        "bn": "অস্ট্রিয়ার বিজ্ঞানী কার্ল ভন ফ্রিশ কাচের মৌচাক বানিয়ে বছরের পর বছর পর্যবেক্ষণ করে প্রকৃতির এক বিস্ময়কর ভাষা আবিষ্কার করলেন।"
+      },
+      {
+        "en": "When the scout bee returns, she performs a rhythmic 'waggle dance' on the dark honeycomb vertical wall in a figure-eight pattern.",
+        "bn": "মধু খুঁজে পাওয়া মৌমাছিটি ফিরে এসে চাকের অন্ধকার দেয়ালের ওপর শরীর দুলিয়ে ইংরেজি আট অক্ষরের মতো এক বিশেষ নাচ শুরু করে।"
+      },
+      {
+        "en": "The angle of her waggle relative to straight upward precisely indicates the angle toward the flowers relative to the sun.",
+        "bn": "নাচের সময় তার শরীরের কোণ ঠিক করে দেয় আকাশে সূর্যের অবস্থানের সাথে ফুলের বাগানের সঠিক দিক কোন দিকে।"
+      },
+      {
+        "en": "The duration of her abdominal vibration signals the exact flight distance: one second of buzzing corresponds to about a thousand meters.",
+        "bn": "তার পেট দুলিয়ে কম্পন তৈরির সময়কাল মেপে দেয় দূরত্বের মাপ: এক সেকেন্ড কাঁপা মানে ফুলগুলো ঠিক এক হাজার মিটার দূরে অবস্থিত।"
+      },
+      {
+        "en": "She shares tiny regurgitated droplets of nectar so her sisters can sample the floral aroma before flying out.",
+        "bn": "সে নিজের মুখ থেকে সামান্য ফুলের মিষ্টি রস বের করে বন্ধুদের চেখে দেখতে দেয় যাতে তারা সুবাস চিনে উড়তে পারে।"
+      },
+      {
+        "en": "Decoded by this dance, hundreds of sister bees take flight in straight lines, arriving directly at the exact patch of sweet blossoms.",
+        "bn": "এই নাচের সংকেত বুঝে নিয়ে শত শত মৌমাছি একসাথে ডানা মেলে সোজা সেই দূর বাগানে গিয়ে হাজির হয়।"
+      },
+      {
+        "en": "Even the smallest insect possesses marvelous social intelligence and sophisticated navigation tools that rival human engineering.",
+        "bn": "প্রকৃতির এই ক্ষুদ্রতম পতঙ্গটির ভেতরেও এমন এক অপূর্ব সামাজিক বুদ্ধি ও দিকনির্ণয়ের ক্ষমতা লুকিয়ে আছে যা মানুষকে মুগ্ধ করে।"
+      }
+    ]
+  },
+  {
+    "id": "sci-monarch-butterfly-migration",
+    "title": "The Monarch Butterfly's Three-Thousand-Mile Journey",
+    "titleBn": "মনার্ক প্রজাপতির তিন হাজার মাইলের মহাযাত্রা",
+    "author": "Nature Wonders",
+    "level": "Intermediate",
+    "category": "Nature Wonders",
+    "coverEmoji": "🦋",
+    "summary": "Weighing less than a paperclip, a fragile winged insect navigates across a continent to a forest it has never seen.",
+    "summaryBn": "একটি কাগজের ক্লিপের চেয়েও হালকা ডানার এক প্রজাপতি কীভাবে না-দেখা তিন হাজার মাইল দূরের বনে নির্ভুলভাবে উড়ে যায়।",
+    "sentences": [
+      {
+        "en": "Every autumn, millions of orange-and-black Monarch butterflies begin one of the most astonishing migratory journeys on Earth.",
+        "bn": "প্রতি শরতে কোটি কোটি কমলা ও কালো ডানার মনার্ক প্রজাপতি পৃথিবীর এক অন্যতম বিস্ময়কর অভিযাত্রায় ডানা মেলে।"
+      },
+      {
+        "en": "From the chilly fields of Canada and northern America, these delicate creatures fly over three thousand miles south toward the warm mountains of central Mexico.",
+        "bn": "কানাডা ও উত্তর আমেরিকার কনকনে ঠান্ডা থেকে বাঁচতে এই কোমল পতঙ্গগুলো তিন হাজার মাইল পথ উড়ে মেক্সিকোর উষ্ণ পাহাড়ি বনের দিকে যায়।"
+      },
+      {
+        "en": "A monarch butterfly weighs less than a single gram, yet it battles harsh headwinds, crossing vast lakes and towering mountain ridges.",
+        "bn": "একটি প্রজাপতির ওজন মাত্র এক গ্রামেরও কম, অথচ তারা তীব্র প্রতিকূল বাতাস, বড় বড় হ্রদ আর বিশাল পাহাড় পেরিয়ে উড়ে চলে।"
+      },
+      {
+        "en": "They use an internal magnetic compass and circadian sun sensors located inside their tiny antennae to maintain an exact heading.",
+        "bn": "তারা নিজেদের অ্যান্টেনার ভেতর লুকিয়ে থাকা এক জৈবিক কম্পাস এবং সূর্যের আলো দেখে সঠিক পথ চিনে এগিয়ে যায়।"
+      },
+      {
+        "en": "What makes this migration utterly miraculous is that none of the butterflies making the trip have ever been to Mexico before.",
+        "bn": "সবচেয়ে অলৌকিক বিষয় হলো, এই দীর্ঘ যাত্রায় উড়ে চলা কোনো প্রজাপতিই এর আগে কখনো মেক্সিকোতে যায়নি।"
+      },
+      {
+        "en": "They are the fourth generation descended from the ancestors who flew north the previous spring.",
+        "bn": "তারা হলো আগের বসন্তে উত্তরে উড়ে যাওয়া পূর্বপুরুষদের চতুর্থ প্রজন্মের বংশধর!"
+      },
+      {
+        "en": "Yet, guided purely by genetic memory, they land upon the very same pine and fir trees that their great-grandparents occupied.",
+        "bn": "তবুও রক্তে লুকিয়ে থাকা গোপন নির্দেশনায় তারা মেক্সিকোর ঠিক সেই একই পাইন গাছের ডালে গিয়ে বসে যেখানে তাদের পূর্বপুরুষরা বসেছিল।"
+      },
+      {
+        "en": "The resilience and inherited wisdom woven into the fabric of life shows that nature's genius surpasses all human comprehension.",
+        "bn": "প্রকৃতির এই অপার সহ্যশক্তি এবং রক্তের ভেতর বয়ে চলা প্রজ্ঞা আমাদের স্মরণ করিয়ে দেয় যে সৃষ্টির রহস্য মানব বুদ্ধিরও অগম্য।"
+      }
+    ]
+  }
+]

@@ -1,0 +1,617 @@
+[
+  {
+    "id": "scopes-monkey-trial-1925",
+    "title": "The Scopes Monkey Trial: Faith and Reason in Dayton",
+    "titleBn": "স্কোপস মাঙ্কি ট্রায়াল: ডেটনে বিশ্বাস ও যুক্তির সংঘাত",
+    "author": "Constitutional History Review",
+    "level": "Intermediate",
+    "category": "History & Culture",
+    "coverEmoji": "⚖️",
+    "summary": "In sweltering Tennessee, a high school biology teacher is prosecuted for teaching Darwin's theory of evolution, igniting a national debate.",
+    "summaryBn": "টেনেসি রাজ্যের তীব্র গরমে ডারউইনের বিবর্তনবাদ পড়ানোর অপরাধে এক উচ্চ বিদ্যালয়ের জীববিজ্ঞানের শিক্ষককে বিচারের কাঠগড়ায় তোলা হয়।",
+    "sentences": [
+      {
+        "en": "In July 1925, the quiet mountain town of Dayton, Tennessee, became the fiery epicenter of an ideological battle between modern science and religious fundamentalism.",
+        "bn": "১৯২৫ সালের জুলাই মাসে টেনেসি রাজ্যের শান্ত পার্বত্য শহর ডেটন আধুনিক বিজ্ঞান ও ধর্মীয় গোঁড়ামির মধ্যকার এক জ্বলন্ত মতাদর্শিক সংঘাতের কেন্দ্রে পরিণত হয়।"
+      },
+      {
+        "en": "John T. Scopes, a twenty-four-year-old public school teacher, accepted a test case by purposefully teaching human evolution in violation of state law.",
+        "bn": "জন টি. স্কোপস নামের চব্বিশ বছর বয়সী এক সরকারি স্কুলের শিক্ষক রাজ্য আইন লঙ্ঘন করে সচেতনভাবেই মানব বিবর্তনবাদ পড়িয়ে এই পরীক্ষামূলক মামলার সূচনা করেন।"
+      },
+      {
+        "en": "The courtroom confrontation pitted legendary agnostic defense attorney Clarence Darrow against three-time presidential candidate William Jennings Bryan.",
+        "bn": "আদালতের এই দ্বৈরথে কিংবদন্তি অজ্ঞেয়বাদী আইনজীবী ক্ল্যারেন্স ড্যারো তিনবারের প্রেসিডেন্ট পদপ্রার্থী উইলিয়াম জেনিংস ব্রায়ানের মুখোমুখি হন।"
+      },
+      {
+        "en": "Hundreds of journalists swarmed the courthouse, while live radio broadcasts transmitted the impassioned arguments to millions of rapt listeners nationwide.",
+        "bn": "শত শত সাংবাদিক আদালতে ভিড় জমান, আর সরাসরি রেডিও সম্প্রচারের মাধ্যমে দেশজুড়ে লাখ লাখ উৎসুক শ্রোতার কাছে সেই আবেগঘন বিতর্ক পৌঁছে যায়।"
+      },
+      {
+        "en": "In a climactic move, Darrow called Bryan himself to the witness stand as an expert on the Holy Bible, exposing glaring contradictions under relentless cross-examination.",
+        "bn": "এক নাটকীয় পদক্ষেপে ড্যারো ব্রায়ানকেই বাইবেল বিশেষজ্ঞ হিসেবে সাক্ষীর কাঠগড়ায় ডাকেন এবং তীব্র জেরা করে তার বিশ্বাসের ফাঁকফোকর ও স্ববিরোধিতা ফাঁস করেন।"
+      },
+      {
+        "en": "Although Scopes was convicted and fined a nominal one hundred dollars, the trial delivered a massive cultural victory for modern scientific education.",
+        "bn": "যদিও স্কোপস দোষী সাব্যস্ত হন এবং তাকে নামমাত্র একশত ডলার জরিমানা করা হয়, তবুও এই বিচার আধুনিক বিজ্ঞান শিক্ষার পক্ষে বিশাল সাংস্কৃতিক বিজয় এনে দেয়।"
+      },
+      {
+        "en": "The Dayton trial forever illustrated that intellectual freedom must be zealously defended against legislated orthodoxy.",
+        "bn": "ডেটনের এই বিচার চিরকালের জন্য দেখিয়ে দেয় যে চিন্তার স্বাধীনতাকে যেকোনো চাপিয়ে দেওয়া গোঁড়ামির বিরুদ্ধে অবিচলভাবে রক্ষা করতে হবে।"
+      }
+    ]
+  },
+  {
+    "id": "zenger-press-freedom-trial",
+    "title": "The Trial of John Peter Zenger: The Birth of Free Press",
+    "titleBn": "জন পিটার জেঙ্গারের বিচার: মুক্ত সাংবাদিকতার জন্মলগ্ন",
+    "author": "Colonial Jurisprudence Digest",
+    "level": "Intermediate",
+    "category": "History & Culture",
+    "coverEmoji": "📰",
+    "summary": "In colonial New York, printer John Peter Zenger is tried for seditious libel, establishing the foundational principle that truth is an absolute defense.",
+    "summaryBn": "ঔপনিবেশিক নিউ ইয়র্কে মুদ্রক জন পিটার জেঙ্গারকে রাষ্ট্রদ্রোহী অপপ্রচারের দায়ে অভিযুক্ত করা হয়, যা সত্যকে আত্মরক্ষার মূল ঢাল হিসেবে প্রতিষ্ঠা করেছিল।",
+    "sentences": [
+      {
+        "en": "In 1734, German immigrant John Peter Zenger published 'The New-York Weekly Journal', printing scathing criticisms of corrupt colonial governor William Cosby.",
+        "bn": "১৭৩৪ সালে জার্মান অভিবাসী জন পিটার জেঙ্গার 'দ্য নিউ-ইয়র্ক উইকলি জার্নাল' প্রকাশ করেন, যেখানে দুর্নীতিগ্রস্ত ঔপনিবেশিক গভর্নর উইলিয়াম কসবির তীব্র সমালোচনা ছাপা হতো।"
+      },
+      {
+        "en": "Infuriated by the public ridicule, Governor Cosby ordered Zenger arrested and thrown into a cold dungeon on charges of seditious libel.",
+        "bn": "জনসাধারণের উপহাসে ক্ষিপ্ত হয়ে গভর্নর কসবি জেঙ্গারকে গ্রেফতারের নির্দেশ দেন এবং রাষ্ট্রদ্রোহী অপপ্রচারের অভিযোগে তাকে ঠান্ডা অন্ধকূপে নিক্ষেপ করেন।"
+      },
+      {
+        "en": "Under British common law at the time, libel merely required proving that the printed words damaged an official's reputation, regardless of whether they were true.",
+        "bn": "তৎকালীন ব্রিটিশ আইনে অপপ্রচার প্রমাণের জন্য কেবল এটুকুই যথেষ্ট ছিল যে লেখার কারণে কোনো কর্মকর্তার সম্মানহানি ঘটেছে, তা সত্য কি মিথ্যা তা বিবেচ্য ছিল না।"
+      },
+      {
+        "en": "Eminent Philadelphia attorney Andrew Hamilton stepped forward to defend Zenger, presenting an audacious argument directly to the jury.",
+        "bn": "ফিলাডেলফিয়ার প্রখ্যাত আইনজীবী অ্যান্ড্রু হ্যামিল্টন জেঙ্গারের পক্ষে দাঁড়ান এবং সরাসরি জুরি বোর্ডের সামনে এক দুঃসাহসী যুক্তি উপস্থাপন করেন।"
+      },
+      {
+        "en": "Hamilton insisted that citizens possessed the natural right to expose tyranny, boldly asserting that truth could never constitute a criminal libel.",
+        "bn": "হ্যামিল্টন দাবি করেন যে স্বৈরাচারের মুখোশ উন্মোচনের স্বাভাবিক অধিকার নাগরিকদের রয়েছে এবং সত্য কখনোই ফৌজদারি অপরাধ বা অপপ্রচার হতে পারে না।"
+      },
+      {
+        "en": "Defying the royal judge's explicit instructions, the courageous colonial jurors returned a unanimous verdict of 'Not Guilty'.",
+        "bn": "রাজকীয় বিচারকের স্পষ্ট নির্দেশ অমান্য করে সাহসী ঔপনিবেশিক জুরিরা সর্বসম্মতভাবে জেঙ্গারকে 'নির্দোষ' ঘোষণা করেন।"
+      },
+      {
+        "en": "Zenger's acquittal laid the ideological cornerstone for the First Amendment of the United States Constitution, guaranteeing freedom of the press.",
+        "bn": "জেঙ্গারের এই খালাস মার্কিন সংবিধানের প্রথম সংশোধনীর ভাবাদর্শিক ভিত্তি স্থাপন করেছিল, যা সংবাদপত্রের স্বাধীনতা নিশ্চিত করে।"
+      }
+    ]
+  },
+  {
+    "id": "dreyfus-affair-jaccuse",
+    "title": "The Dreyfus Affair: Emile Zola's J'accuse",
+    "titleBn": "ড্রেইফুস কেলেঙ্কারি: এমিল জোলার 'জাক্যুজ'",
+    "author": "French Republic Archives",
+    "level": "Intermediate",
+    "category": "History & Culture",
+    "coverEmoji": "📜",
+    "summary": "How a forged dossier and rampant antisemitism framed a French officer, prompting author Emile Zola to risk everything for truth and justice.",
+    "summaryBn": "কীভাবে এক জাল নথি ও তীব্র ইহুদিবিদ্বেষ এক ফরাসি সামরিক কর্মকর্তাকে ফাঁসিয়েছিল, যার প্রতিবাদে লেখক এমিল জোলা সত্য ও ন্যায়ের জন্য সবকিছু বাজি রেখেছিলেন।",
+    "sentences": [
+      {
+        "en": "In 1894, Captain Alfred Dreyfus, an innocent Jewish artillery officer in the French Army, was falsely accused of selling military secrets to Imperial Germany.",
+        "bn": "১৮৯৪ সালে ফরাসি সেনাবাহিনীর একজন নিরপরাধ ইহুদি কামান কর্মকর্তা ক্যাপ্টেন আলফ্রেড ড্রেইফুসকে জার্মানির কাছে সামরিক গোপন তথ্য বিক্রির মিথ্যা অভিযোগে অভিযুক্ত করা হয়।"
+      },
+      {
+        "en": "Fuelled by virulent antisemitic hysteria, a secret military court convicted Dreyfus on fabricated evidence, publicly stripping his ranks before exiling him to Devil's Island.",
+        "bn": "তীব্র ইহুদিবিদ্বেষী উন্মাদনায় অন্ধ হয়ে এক গোপন সামরিক আদালত সাজানো প্রমাণের ভিত্তিতে ড্রেইফুসকে দোষী সাব্যস্ত করে, তার পদমর্যাদা কেড়ে নেয় এবং তাকে ডেভিলস দ্বীপে নির্বাসনে পাঠায়।"
+      },
+      {
+        "en": "Even after the army's new intelligence chief, Georges Picquart, discovered that an aristocratic major named Esterhazy was the real traitor, the general staff orchestrated a cover-up.",
+        "bn": "এমনকি নতুন গোয়েন্দা প্রধান জর্জেস পিকার্ট যখন আবিষ্কার করেন যে এস্তারহাজি নামের এক সম্ভ্রান্ত মেজরই ছিল আসল বিশ্বাসঘাতক, তবুও সেনা সদরদপ্তর পুরো ঘটনা ধামাচাপা দেয়।"
+      },
+      {
+        "en": "Outraged by the institutional conspiracy, celebrated novelist Emile Zola published a blistering front-page open letter titled 'J'accuse...!' in early 1898.",
+        "bn": "প্রতিষ্ঠানের এই গভীর ষড়যন্ত্রে ক্ষুব্ধ হয়ে প্রখ্যাত ঔপন্যাসিক এমিল জোলা ১৮৯৮ সালের শুরুতে সংবাদপত্রের প্রথম পাতায় 'জাক্যুজ...!' (আমি অভিযুক্ত করছি) শীর্ষক এক জ্বালাময়ী খোলা চিঠি প্রকাশ করেন।"
+      },
+      {
+        "en": "Zola named high-ranking generals one by one, intentionally provoking his own criminal trial for defamation to expose the army's deceit in civil court.",
+        "bn": "জোলা শীর্ষ সামরিক জেনারেলদের নাম ধরে ধরে উল্লেখ করেন এবং সামরিক চক্রান্ত জনসমক্ষে ফাঁস করতে সচেতনভাবেই নিজের বিরুদ্ধে মানহানির মামলা ডেকে আনেন।"
+      },
+      {
+        "en": "The affair deeply fractured French society for twelve turbulent years until Dreyfus was completely exonerated and reinstated with the Legion of Honor.",
+        "bn": "এই ঘটনা দীর্ঘ বারোটি উত্তাল বছর ফরাসি সমাজকে দুই ভাগে বিভক্ত করে রেখেছিল, যতক্ষণ না ড্রেইফুস পুরোপুরি নির্দোষ প্রমাণিত হয়ে 'লিজিয়ন অব অনার' সম্মান ফিরে পান।"
+      },
+      {
+        "en": "Zola's heroic stance demonstrated that an intellectual's pen can dismantle military tyranny and uphold inviolable civic truth.",
+        "bn": "জোলার এই বীরত্বপূর্ণ প্রতিবাদ দেখিয়ে দিয়েছিল যে একজন বুদ্ধিজীবীর কলম সামরিক স্বৈরতন্ত্রের শিকল ভেঙে অবিসংবাদিত নাগরিক সত্যকে সমুন্নত রাখতে পারে।"
+      }
+    ]
+  },
+  {
+    "id": "nuremberg-trials-humanity",
+    "title": "The Nuremberg Trials: Humanity on Trial",
+    "titleBn": "নুরেমবার্গ ট্রায়াল: মানবতার মুখোমুখি বিচার",
+    "author": "International Law Annals",
+    "level": "Intermediate",
+    "category": "History & Culture",
+    "coverEmoji": "🏛️",
+    "summary": "In the ruins of Germany, Allied prosecutors establish international criminal law, holding totalitarian leaders accountable for crimes against humanity.",
+    "summaryBn": "জার্মানির ধ্বংসস্তূপের ওপর মিত্রপক্ষের আইনজীবীরা আন্তর্জাতিক ফৌজদারি আইনের ভিত্তি গড়েন এবং মানবতার বিরুদ্ধে অপরাধের দায়ে স্বৈরশাসকদের জবাবদিহি করান।",
+    "sentences": [
+      {
+        "en": "Following the devastation of World War II, the Allied powers convened an unprecedented International Military Tribunal in the historic city of Nuremberg.",
+        "bn": "দ্বিতীয় বিশ্বযুদ্ধের চরম ধ্বংসযজ্ঞের পর মিত্রশক্তি ঐতিহাসিক নুরেমবার্গ শহরে এক নজিরবিহীন আন্তর্জাতিক সামরিক আদালত গঠন করে।"
+      },
+      {
+        "en": "Rather than resorting to summary executions of captured Nazi leaders, the civilized world resolved to subject catastrophic atrocity to the transparent rule of law.",
+        "bn": "ধৃত নাৎসি নেতাদের সংক্ষিপ্ত বিচারে মৃত্যুদণ্ড কার্যকর করার বদলে সভ্য বিশ্ব সিদ্ধান্ত নেয় ভয়াবহ গণহত্যার বিচার আইনের স্বচ্ছ প্রক্রিয়ার মধ্য দিয়েই হতে হবে।"
+      },
+      {
+        "en": "Chief American prosecutor Robert H. Jackson opened the proceedings with an unforgettable address declaring that law must triumph over sovereign impunity.",
+        "bn": "প্রধান মার্কিন কৌঁসুলি রবার্ট এইচ. জ্যাকসন এক অবিস্মরণীয় উদ্বোধনী বক্তৃতার মাধ্যমে বিচার শুরু করেন, যেখানে তিনি ঘোষণা করেন যে আইনের কাছে কোনো রাষ্ট্রনায়কের দায়মুক্তি চলতে পারে না।"
+      },
+      {
+        "en": "The tribunal confronted the defendants with mountains of captured documents, chilling film footage of concentration camps, and survivor testimonies.",
+        "bn": "আদালত আসামিদের মুখোমুখি করে জব্দকৃত বিপুল দস্তাবেজ, কনসেনট্রেশন ক্যাম্পের হাড়হিম করা ভিডিও ফুটেজ এবং বেঁচে যাওয়া বন্দীদের প্রত্যক্ষ সাক্ষ্যের।"
+      },
+      {
+        "en": "The judges decisively rejected the defense of 'superior orders', establishing that following commands does not absolve moral or legal culpability.",
+        "bn": "'উর্ধ্বতনের আদেশ পালন' সংক্রান্ত আত্মপক্ষ সমর্থন আদালত সরাসরি নাকচ করে দেয় এবং রায় দেয় যে আদেশ মানার অজুহাত নৈতিক বা আইনি অপরাধবোধ থেকে মুক্তি দেয় না।"
+      },
+      {
+        "en": "The Nuremberg Charter formally codified modern legal concepts of aggressive warfare, war crimes, and crimes against humanity.",
+        "bn": "নুরেমবার্গ সনদ আনুষ্ঠানিকভাবে আগ্রাসী যুদ্ধ, যুদ্ধাপরাধ এবং মানবতার বিরুদ্ধে অপরাধের মতো আধুনিক আন্তর্জাতিক আইনি ধারণাসমূহকে সংজ্ঞায়িত করে।"
+      },
+      {
+        "en": "This landmark courtroom served as the enduring bedrock for subsequent international justice, including the modern International Criminal Court.",
+        "bn": "এই ঐতিহাসিক বিচারিক আদালত পরবর্তী আন্তর্জাতিক বিচারব্যবস্থার অটল ভিত্তিপ্রস্তর হিসেবে কাজ করেছে, যা আজকের আন্তর্জাতিক অপরাধ আদালতেরও মূল অনুপ্রেরণা।"
+      }
+    ]
+  },
+  {
+    "id": "salem-witch-trials-1692",
+    "title": "The Salem Witch Trials: The Echoes of Spectral Evidence",
+    "titleBn": "সালেম জাদুকরী বিচার: অলীক সাক্ষ্যের করুণ পরিণতি",
+    "author": "Early American Heritage Review",
+    "level": "Intermediate",
+    "category": "History & Culture",
+    "coverEmoji": "🕯️",
+    "summary": "In colonial Massachusetts, supernatural hysteria and spectral testimony lead to the wrongful execution of twenty innocents, prompting judicial reform.",
+    "summaryBn": "ঔপনিবেশিক ম্যাসাচুসেটসে অতিপ্রাকৃতিক আতঙ্ক ও অলীক সাক্ষ্য বিশজন নিরপরাধ মানুষের অন্যায় মৃত্যুদণ্ড ডেকে আনে এবং পরবর্তীতে বিচার সংস্কারের সূচনা করে।",
+    "sentences": [
+      {
+        "en": "In the bitter winter of 1692, several young girls in Salem Village, Massachusetts, began exhibiting strange convulsions and bizarre outbursts.",
+        "bn": "১৬৯২ সালের তীব্র শীতে ম্যাসাচুসেটসের সালেম গ্রামের কয়েকজন তরুণী অদ্ভুত খিঁচুনি ও অস্বাভাবিক অঙ্গভঙ্গি প্রদর্শন করতে শুরু করে।"
+      },
+      {
+        "en": "Lacking medical explanation, local puritan ministers concluded that demonic witchcraft was afflicting the community, demanding the identification of witches.",
+        "bn": "কোনো চিকিৎসা ব্যাখ্যা না পেয়ে স্থানীয় পিউরিটান ধর্মযাজকেরা সিদ্ধান্তে পৌঁছান যে শয়তানি ডাইনিবিদ্যা জনপদে ভর করেছে এবং অপরাধীদের চিহ্নিত করার নির্দেশ দেন।"
+      },
+      {
+        "en": "A special Court of Oyer and Terminer was convened, permitting the fatal introduction of 'spectral evidence' into judicial proceedings.",
+        "bn": "একটি বিশেষ আদালত গঠন করা হয়, যা বিচার প্রক্রিয়ায় অলীক স্বপ্নের সাক্ষ্য বা 'স্পেকট্রাল এভিডেন্স' গ্রহণের মারাত্মক অনুমতি প্রদান করে।"
+      },
+      {
+        "en": "Under this reckless doctrine, accusers claimed that the invisible spiritual specters of the defendants were pinching and tormenting them in court.",
+        "bn": "এই দায়িত্বজ্ঞানহীন নিয়মের অধীনে অভিযোগকারীরা দাবি করত যে আসামিদের অদৃশ্য আত্মারা আদালতে এসে তাদের চিমটি কাটছে এবং যন্ত্রণা দিচ্ছে।"
+      },
+      {
+        "en": "Because such intangible supernatural accusations were impossible to disprove rationally, nineteen people were hanged and an elderly man, Giles Corey, was pressed to death.",
+        "bn": "যেহেতু এমন কাল্পনিক অতিপ্রাকৃতিক অভিযোগ যুক্তি দিয়ে খণ্ডন করা অসম্ভব ছিল, তাই উনিশজনকে ফাঁসি দেওয়া হয় এবং জাইলস কোরি নামের এক বৃদ্ধকে পাথরের নিচে পিষে হত্যা করা হয়।"
+      },
+      {
+        "en": "Realizing the tragic folly of accepting intangible claims as proof, Governor William Phips dissolved the court and banned spectral evidence forever.",
+        "bn": "অদৃশ্য অলীক দাবিকে প্রমাণ হিসেবে গ্রহণের ভয়াবহ ভুল বুঝতে পেরে গভর্নর উইলিয়াম ফিপস আদালতটি ভেঙে দেন এবং চিরতরে এমন সাক্ষ্য নিষিদ্ধ করেন।"
+      },
+      {
+        "en": "The Salem catastrophe served as an eternal cautionary tale, cementing the vital Anglo-American requirement for tangible, verifiable material evidence.",
+        "bn": "সালেমের এই ট্র্যাজেডি চিরকালের জন্য এক সতর্কবার্তা হয়ে দাঁড়ায়, যা আদালতে সুনির্দিষ্ট ও যাচাইযোগ্য বস্তুগত প্রমাণের অপরিহার্যতাকে পাকাপোক্ত করেছিল।"
+      }
+    ]
+  },
+  {
+    "id": "mandela-rivonia-ideal-speech",
+    "title": "Nelson Mandela and the Rivonia Trial",
+    "titleBn": "নেলসন ম্যান্ডেলা ও রিভোনিয়া ট্রায়ালের দৃপ্ত কণ্ঠ",
+    "author": "Anti-Apartheid Chronicles",
+    "level": "Intermediate",
+    "category": "History & Culture",
+    "coverEmoji": "✊",
+    "summary": "Facing the death penalty for resisting apartheid, Nelson Mandela delivers his immortal speech declaring his readiness to die for a democratic society.",
+    "summaryBn": "বর্ণবাদের বিরুদ্ধে লড়াইয়ে মৃত্যুদণ্ডের মুখোমুখি দাঁড়িয়ে নেলসন ম্যান্ডেলা এক গণতান্ত্রিক সমাজের জন্য জীবন দিতে প্রস্তুত বলে তার অমর ভাষণ দিয়েছিলেন।",
+    "sentences": [
+      {
+        "en": "In October 1963, Nelson Mandela and ten fellow leaders of the African National Congress were tried in Pretoria on charges of treason and sabotage against the apartheid regime.",
+        "bn": "১৯৬৩ সালের অক্টোবরে নেলসন ম্যান্ডেলা ও এএনসি-র দশজন শীর্ষ নেতাকে বর্ণবাদী সরকারের বিরুদ্ধে রাষ্ট্রদ্রোহ ও অন্তর্ঘাতের অভিযোগে প্রিটোরিয়ার আদালতে হাজির করা হয়।"
+      },
+      {
+        "en": "The white minority government sought the death penalty, expecting the defendants to plead for mercy and disavow their armed resistance.",
+        "bn": "শ্বেতাঙ্গ সংখ্যালঘু সরকার আসামিদের ফাঁসি কার্যকর করতে চেয়েছিল এবং ভেবেছিল তারা ক্ষমার ভিক্ষা চেয়ে তাদের সশস্ত্র সংগ্রাম অস্বীকার করবে।"
+      },
+      {
+        "en": "Instead, on April 20, 1964, Mandela stood before the court and chose not to testify from the witness stand, but to deliver a four-hour political statement from the dock.",
+        "bn": "কিন্তু তার পরিবর্তে ১৯৬৪ সালের ২০ এপ্রিল ম্যান্ডেলা সাক্ষীর কাঠগড়ায় না দাঁড়িয়ে ডক থেকে চার ঘণ্টাব্যাপী এক ঐতিহাসিক রাজনৈতিক বিবৃতি পাঠ করেন।"
+      },
+      {
+        "en": "He systematically detailed the systematic humiliation, economic enslavement, and violent disenfranchisement inflicted upon the African majority.",
+        "bn": "তিনি কৃষ্ণাঙ্গ সংখ্যাগরিষ্ঠ মানুষের ওপর চেপে বসা ধারাবাহিক অপমান, অর্থনৈতিক দাসত্ব এবং ভোটাধিকার হরণের নির্মম বাস্তবতার নিখুঁত বিবরণ তুলে ধরেন।"
+      },
+      {
+        "en": "Looking directly into the eyes of the judge, he closed with words that resonated across the continents: 'I have cherished the ideal of a democratic and free society.'",
+        "bn": "বিচারকের চোখের দিকে সরাসরি তাকিয়ে তিনি এমন কিছু শব্দে বক্তব্য শেষ করেন যা বিশ্বজুড়ে প্রতিধ্বনিত হয়: 'আমি এক গণতান্ত্রিক ও মুক্ত সমাজের স্বপ্নকে হৃদয়ে লালন করেছি।'"
+      },
+      {
+        "en": "'It is an ideal which I hope to live for and to achieve,' he proclaimed, 'but if needs be, it is an ideal for which I am prepared to die.'",
+        "bn": "'এটি এমন এক আদর্শ যার জন্য আমি বেঁচে থাকতে ও যাকে অর্জন করতে চাই,' তিনি ঘোষণা করেন, 'তবে প্রয়োজন হলে এর জন্য আমি জীবন দিতেও প্রস্তুত।'"
+      },
+      {
+        "en": "Spared execution yet condemned to twenty-seven years of imprisonment, Mandela transformed the dock into a global rostrum that ultimately shattered apartheid.",
+        "bn": "ফাঁসি এড়িয়ে সাতাশ বছরের কারাদণ্ডে দণ্ডিত হলেও ম্যান্ডেলা কাঠগড়াকে এমন এক বৈশ্বিক মঞ্চে রূপান্তর করেন যা শেষ পর্যন্ত বর্ণবাদের পতন নিশ্চিত করেছিল।"
+      }
+    ]
+  },
+  {
+    "id": "brown-v-board-education",
+    "title": "Brown v. Board: The Shattering of Segregation",
+    "titleBn": "ব্রাউন বনাম শিক্ষা বোর্ড: জাতিভেদের অচলায়তন ভাঙার গান",
+    "author": "Civil Rights Jurisprudence",
+    "level": "Intermediate",
+    "category": "History & Culture",
+    "coverEmoji": "🏫",
+    "summary": "Thurgood Marshall leads the legal crusade to overturn 'separate but equal', convincing the Supreme Court that segregation harms the human spirit.",
+    "summaryBn": "থারগুড মার্শাল 'পৃথক কিন্তু সমান' নীতি বাতিলের আইনি লড়াইয়ে নেতৃত্ব দেন এবং সুপ্রিম কোর্টকে বোঝান যে জাতিভেদ মানব আত্মাকে ক্ষতবিক্ষত করে।",
+    "sentences": [
+      {
+        "en": "For nearly six decades, the pernicious doctrine of 'separate but equal' established by Plessy v. Ferguson relegated Black Americans to segregated, inferior facilities.",
+        "bn": "প্রায় ছয় দশক ধরে 'প্লেসি বনাম ফার্গুসন' মামলার কুখ্যাত 'পৃথক কিন্তু সমান' নীতি কৃষ্ণাঙ্গ আমেরিকানদের পৃথক ও নিম্নমানের ব্যবস্থায় বন্দি রেখেছিল।"
+      },
+      {
+        "en": "In Topeka, Kansas, Oliver Brown challenged the school board after his seven-year-old daughter, Linda, was denied admission to a local neighborhood elementary school.",
+        "bn": "কানসাসের টোপেকায় অলিভার ব্রাউন স্কুল বোর্ডের বিরুদ্ধে মামলা করেন যখন তার সাত বছর বয়সী মেয়ে লিন্ডাকে বাড়ির কাছের স্কুলে ভর্তি হতে বাধা দেওয়া হয়।"
+      },
+      {
+        "en": "Represented by NAACP chief counsel Thurgood Marshall, the case consolidated school desegregation lawsuits from five different states before the Supreme Court.",
+        "bn": "এনএএসিপি-র প্রধান কৌঁসুলি থারগুড মার্শালের নেতৃত্বে এই মামলাটি পাঁচটি ভিন্ন অঙ্গরাজ্যের স্কুল পৃথকীকরণ সংক্রান্ত মামলাগুলোকে সুপ্রিম কোর্টে একসূত্রে বাঁধে।"
+      },
+      {
+        "en": "Marshall marshaled sociological evidence, including Kenneth and Mamie Clark's famous doll experiments showing how segregation inflicted deep psychological scars on young children.",
+        "bn": "মার্শাল সমাজতাত্ত্বিক প্রমাণ উপস্থাপন করেন, যার মধ্যে ছিল কেনেথ ও মেমি ক্লার্কের বিখ্যাত পুতুল পরীক্ষা, যা দেখিয়েছিল জাতিভেদ শিশুদের মনে হীনম্মন্যতার গভীর ক্ষত সৃষ্টি করে।"
+      },
+      {
+        "en": "On May 17, 1954, newly appointed Chief Justice Earl Warren delivered a momentous unanimous opinion declaring that separate educational facilities are inherently unequal.",
+        "bn": "১৯৫৪ সালের ১৭ মে নবনিযুক্ত প্রধান বিচারপতি আর্ল ওয়ারেন এক ঐতিহাসিক সর্বসম্মত রায় ঘোষণা করে বলেন যে পৃথক শিক্ষা প্রতিষ্ঠান সহজাতভাবেই অসমান।"
+      },
+      {
+        "en": "The decision struck down legal segregation in public schools across the nation, unleashing a watershed wave of civil rights activism.",
+        "bn": "এই রায় পুরো দেশজুড়ে সরকারি স্কুলগুলোতে আইনগত জাতিভেদ প্রথা বাতিল করে এবং নাগরিক অধিকার আন্দোলনের এক উত্তাল জোয়ার তৈরি করে।"
+      },
+      {
+        "en": "Brown v. Board affirmed that the constitutional guarantee of equal protection must protect the dignity and potential of every child.",
+        "bn": "এই মামলাটি নিশ্চিত করেছিল যে সংবিধানে বর্ণিত সম-সুরক্ষার অধিকারকে প্রতিটি শিশুর সম্মান ও সুপ্ত প্রতিভাকে সুরক্ষা দিতেই হবে।"
+      }
+    ]
+  },
+  {
+    "id": "trial-of-socrates-athens",
+    "title": "The Trial of Socrates: The Philosopher's Hemlock",
+    "titleBn": "সক্রেটিসের বিচার: দার্শনিকের হেমলক পেয়ালা",
+    "author": "Classical Philosophy Review",
+    "level": "Intermediate",
+    "category": "Philosophy & Thought",
+    "coverEmoji": "🏛️",
+    "summary": "In democratic Athens, Socrates is sentenced to death for questioning authority and corrupting the young, choosing philosophical integrity over life.",
+    "summaryBn": "গণতান্ত্রিক এথেন্সে প্রতিষ্ঠিত কর্তৃত্বকে প্রশ্নবিদ্ধ করা ও যুবসমাজকে বিপথগামী করার দায়ে সক্রেটিসকে মৃত্যুদণ্ড দেওয়া হয়, যেখানে তিনি প্রাণের চেয়ে সত্যকে বেছে নেন।",
+    "sentences": [
+      {
+        "en": "In 399 BCE, the city of Athens, reeling from military defeat in the Peloponnesian War, put seventy-year-old Socrates on trial before a jury of five hundred citizens.",
+        "bn": "খ্রিস্টপূর্ব ৩৯৯ অব্দে পেলোপনেশিয়ান যুদ্ধের পরাজয়ে বিপর্যস্ত এথেন্স নগরী পাঁচশত নাগরিকের এক জুরির সামনে সত্তর বছর বয়সী সক্রেটিসের বিচার শুরু করে।"
+      },
+      {
+        "en": "The formal indictment accused the philosopher of refusing to acknowledge the traditional gods of the polis and corrupting the minds of the Athenian youth.",
+        "bn": "আনুষ্ঠানিক অভিযোগে এই দার্শনিকের বিরুদ্ধে নগরীর চিরাচরিত দেব-দেবীকে অস্বীকার করা এবং এথেনীয় যুবসমাজের মনকে বিষাক্ত করার অভিযোগ আনা হয়।"
+      },
+      {
+        "en": "Rather than begging for mercy or offering tears like customary defendants, Socrates engaged the court in his signature relentless dialectic.",
+        "bn": "চিরাচরিত আসামিদের মতো ক্ষমার জন্য কান্নাকাটি বা কাকুতি-মিনতি না করে সক্রেটিস আদালতের সামনে তার পরিচিত অমোঘ যুক্তিচর্চা শুরু করেন।"
+      },
+      {
+        "en": "He characterized himself as a divinely appointed gadfly meant to sting the sluggish steed of Athens awake into moral self-examination.",
+        "bn": "তিনি নিজেকে ঈশ্বরের পাঠানো এক ডাঁশ মাছি হিসেবে বর্ণনা করেন, যার কাজ এথেন্স রূপ অলস ঘোড়াটিকে হুল ফুটিয়ে নৈতিক আত্মজিজ্ঞাসায় জাগিয়ে তোলা।"
+      },
+      {
+        "en": "When found guilty by a narrow margin, he cheekily proposed that his true punishment should be free banquets for life in the city's council hall.",
+        "bn": "সামান্য ব্যবধানে দোষী সাব্যস্ত হওয়ার পর তিনি ব্যঙ্গ করে প্রস্তাব করেন যে তার আসল শাস্তি হওয়া উচিত নগরীর কাউন্সিল ভবনে আজীবন নিখরচায় রাজকীয় ভোজ দেওয়া।"
+      },
+      {
+        "en": "Outraged by his defiance, the jurors voted for the penalty of death, prompting his famous parting observation that 'the unexamined life is not worth living.'",
+        "bn": "তার অবিচল স্পর্ধায় ক্ষুব্ধ হয়ে জুরিরা মৃত্যুদণ্ডের পক্ষে রায় দেন, যার জবাবে তিনি অমর উক্তি করেন যে 'প্রশ্নহীন ও অপরীক্ষিত জীবন বাঁচাই অর্থহীন।'"
+      },
+      {
+        "en": "Surrounded by weeping disciples in his prison cell, Socrates calmly drank the cup of hemlock, cementing his immortality as the patron saint of free thought.",
+        "bn": "কারাকক্ষে রোরুদ্যমান শিষ্যদের মাঝে অবিচলিত চিত্তে সক্রেটিস বিষাক্ত হেমলকের পেয়ালা পান করেন এবং মুক্তচিন্তার চিরন্তন পথপ্রদর্শক হিসেবে অমর হয়ে থাকেন।"
+      }
+    ]
+  },
+  {
+    "id": "galileo-inquisition-trial",
+    "title": "Galileo Before the Inquisition: And Yet It Moves",
+    "titleBn": "ইনকুইজিশনের সামনে গ্যালিলিও: তবুও পৃথিবী ঘোরে",
+    "author": "Scientific Revolution Annals",
+    "level": "Intermediate",
+    "category": "History & Culture",
+    "coverEmoji": "🔭",
+    "summary": "Galileo Galilei faces the Roman Inquisition for defending Copernican heliocentrism, muttering a defiant truth beneath his forced recantation.",
+    "summaryBn": "কোপার্নিকাসের সূর্যকেন্দ্রিক মতবাদ সমর্থনের দায়ে গ্যালিলিও রোমান ইনকুইজিশনের মুখোমুখি হন এবং জোরপূর্বক বয়ান প্রত্যাহারের মাঝেও এক অটল সত্য উচ্চারণ করেন।",
+    "sentences": [
+      {
+        "en": "In 1632, Galileo Galilei published his masterpiece, 'Dialogue Concerning the Two Chief World Systems', championing the sun-centered planetary model.",
+        "bn": "১৬৩২ সালে গ্যালিলিও গ্যালিলি তার বিখ্যাত গ্রন্থ 'ডায়ালগ কনসার্নিং দ্য টু চিফ ওয়ার্ল্ড সিস্টেমস' প্রকাশ করে সূর্যকেন্দ্রিক বিশ্বব্যবস্থার পক্ষে জোরালো সওয়াল করেন।"
+      },
+      {
+        "en": "Enraged by the perceived mockery of geocentric theology, the Roman Catholic Inquisition summoned the aging Florentine scientist to Rome for trial.",
+        "bn": "ভূকেন্দ্রিক ধর্মতত্ত্বকে ব্যঙ্গ করার অভিযোগে ক্ষুব্ধ হয়ে রোমান ক্যাথলিক ইনকুইজিশন বিচার করার জন্য বৃদ্ধ এই ফ্লোরেনটাইন বিজ্ঞানীকে রোমে তলব করে।"
+      },
+      {
+        "en": "Frail and suffering from arthritis, Galileo spent weeks undergoing grueling interrogations in the chambers of the Holy Office.",
+        "bn": "বার্ধক্যে জীর্ণ ও বাতের ব্যথায় কাতর গ্যালিলিওকে ক্যাথলিক আদালতের প্রকোষ্ঠে সপ্তাহের পর সপ্তাহ ধরে নির্মম ও অবমাননাকর জেরার শিকার হতে হয়।"
+      },
+      {
+        "en": "Threatened with torture and burning at the stake like Giordano Bruno before him, the sixty-nine-year-old astronomer was coerced into kneeling and reading a formal abjuration.",
+        "bn": "পূর্বে জিয়ার্দানো ব্রুনোর মতো জীবন্ত আগুনে পোড়ানো ও দৈহিক নির্যাতনের ভয়ে ঊনসত্তর বছর বয়সী এই জ্যোতির্বিদকে নতজানু হয়ে ভুল স্বীকারের বয়ান পড়তে বাধ্য করা হয়।"
+      },
+      {
+        "en": "Legend recounts that upon rising to his feet after renouncing that the Earth moved, he whispered under his breath: 'Eppur si muove'—and yet it moves.",
+        "bn": "কিংবদন্তি রয়েছে যে পৃথিবী ঘোরে না বলে শপথ নেওয়ার পর উঠে দাঁড়িয়েই তিনি চাপা স্বরে বিড়বিড় করেছিলেন: 'এপুর সি মুওভে'—তবুও তো পৃথিবী ঘুরছেই।"
+      },
+      {
+        "en": "Sentenced to lifelong house arrest near Florence, he spent his remaining blind years authoring the foundational laws of modern mechanics.",
+        "bn": "ফ্লোরেন্সের কাছে নিজ গৃহে আজীবন গৃহবন্দিত্বের দণ্ডে দণ্ডিত হয়ে তিনি দৃষ্টিহীন শেষ দিনগুলোতে আধুনিক বলবিদ্যার মূল সূত্রগুলো রচনা করে যান।"
+      },
+      {
+        "en": "Galileo's ordeal demonstrated that physical truths uncovered by telescope and mathematics will inevitably outlast dogmatic ecclesiastical decrees.",
+        "bn": "গ্যালিলিওর এই অগ্নিপরীক্ষা প্রমাণ করে যে দূরবীন ও গণিতের মাধ্যমে উদঘাটিত প্রাকৃতিক সত্য গির্জার যেকোনো অন্ধ আদেশকে জয় করে টিকে থাকবেই।"
+      }
+    ]
+  },
+  {
+    "id": "amistad-supreme-court-adams",
+    "title": "The Amistad Affair: The Battle for Natural Liberty",
+    "titleBn": "লা আমিস্তাদ মামলা: সহজাত মুক্তির অমর সংগ্রাম",
+    "author": "Maritime Liberty Chronicles",
+    "level": "Intermediate",
+    "category": "History & Culture",
+    "coverEmoji": "⛵",
+    "summary": "Kidnapped Mende captives take control of a slave ship, leading to a monumental Supreme Court battle championed by former president John Quincy Adams.",
+    "summaryBn": "অপহরণকৃত মেন্দি বন্দিরা এক দাসবাহী জাহাজের নিয়ন্ত্রণ কেড়ে নেয়, যার ফলশ্রুতিতে সাবেক প্রেসিডেন্ট জন কুইন্সি অ্যাডামস সুপ্রিম কোর্টে তাদের মুক্তির ঐতিহাসিক লড়াই লড়েন।",
+    "sentences": [
+      {
+        "en": "In 1839, fifty-three Mende individuals illegally kidnapped from Sierra Leone mutinied aboard the Spanish schooner La Amistad off the coast of Cuba.",
+        "bn": "১৮৩৯ সালে সিয়েরা লিওন থেকে বেআইনিভাবে অপহৃত তিপ্পান্ন জন মেন্দি মানুষ কিউবা উপকূলে স্প্যানিশ জাহাজ 'লা আমিস্তাদ'-এর ওপর বিদ্রোহ ঘোষণা করে।"
+      },
+      {
+        "en": "Led by Sengbe Pieh, popularly known as Cinque, they killed the captain and ordered the surviving Spanish crew to steer the vessel back to Africa.",
+        "bn": "সেংবে পিয়েহ—যিনি সিঙ্কু নামে পরিচিত—তার নেতৃত্বে তারা ক্যাপ্টেনের পতন ঘটায় এবং বেঁচে থাকা স্প্যানিশ নাবিকদের জাহাজ ঘুরিয়ে আফ্রিকায় নিয়ে যাওয়ার নির্দেশ দেয়।"
+      },
+      {
+        "en": "Deceptively navigating east by day and north by night, the Spaniards steered the ship to Long Island, where a United States revenue cutter seized it.",
+        "bn": "স্প্যানিশরা চালাকি করে দিনের বেলা পূর্বে আর রাতে উত্তরে জাহাজ চালিয়ে লং আইল্যান্ডের কাছে পৌঁছায়, যেখানে মার্কিন কোস্টগার্ড জাহাজটি আটক করে।"
+      },
+      {
+        "en": "The Spanish Crown and Southern slaveholders demanded that the Africans be returned to slavery as commercial property.",
+        "bn": "স্পেনের রাজপরিবার এবং দক্ষিণের দাসমালিকেরা দাবি জানায় যে আফ্রিকানদের বাণিজ্যিক সম্পত্তি হিসেবে দাসত্বের শৃঙ্খলে ফেরত দিতে হবে।"
+      },
+      {
+        "en": "Seventy-three-year-old former President John Quincy Adams agreed to represent the captives before the United States Supreme Court without fee.",
+        "bn": "তেহাত্তর বছর বয়সী সাবেক মার্কিন প্রেসিডেন্ট জন কুইন্সি অ্যাডামস কোনো পারিশ্রমিক ছাড়াই সুপ্রিম কোর্টে ওই বন্দিদের পক্ষে দাঁড়াতে সম্মত হন।"
+      },
+      {
+        "en": "Adams delivered an impassioned eight-hour argument invoking the Declaration of Independence, arguing that kidnapped men have an inherent right to fight for liberty.",
+        "bn": "অ্যাডামস স্বাধীনতার ঘোষণাপত্র উদ্ধৃত করে টানা আট ঘণ্টাব্যাপী এক জ্বালাময়ী যুক্তি দেন এবং বলেন অপহৃত প্রতিটি মানুষের মুক্তির জন্য লড়াই করার জন্মগত অধিকার রয়েছে।"
+      },
+      {
+        "en": "In March 1841, the Supreme Court ordered the Africans freed immediately, allowing the victorious survivors to return home across the Atlantic.",
+        "bn": "১৮৪১ সালের মার্চে সুপ্রিম কোর্ট আফ্রিকানদের অবিলম্বে মুক্তি দেওয়ার রায় দেয়, যা বিজয়ী বীরদের আটলান্টিক পাড়ি দিয়ে স্বদেশে ফেরার সুযোগ করে দেয়।"
+      }
+    ]
+  },
+  {
+    "id": "joan-of-arc-rouen-trial",
+    "title": "The Trial of Joan of Arc: Faith Under Fire",
+    "titleBn": "জোয়ান অব আর্কের বিচার: আগুনের মুখে অবিচল বিশ্বাস",
+    "author": "Medieval France Review",
+    "level": "Intermediate",
+    "category": "History & Culture",
+    "coverEmoji": "⚔️",
+    "summary": "A teenage peasant warrior stands before a hostile ecclesiastical tribunal in Rouen, confounding inquisitors before her martyrdom.",
+    "summaryBn": "এক কিশোরী কৃষক যোদ্ধা রুয়াঁয় শত্রুভাবাপন্ন ধর্মীয় আদালতের সামনে দাঁড়িয়ে আত্মপক্ষ সমর্থন করে এবং শহীদ হওয়ার আগে পণ্ডিত বিচারকদের নির্বাক করে দেয়।",
+    "sentences": [
+      {
+        "en": "In February 1431, nineteen-year-old Joan of Arc was brought in chains before an ecclesiastical court in the English-held city of Rouen.",
+        "bn": "১৪৩১ সালের ফেব্রুয়ারিতে উনিশ বছর বয়সী জোয়ান অব আর্ককে শৃঙ্খলিত অবস্থায় রুয়াঁ নগরীতে ইংরেজদের অনুগত এক ধর্মীয় আদালতের কাঠগড়ায় দাঁড় করানো হয়।"
+      },
+      {
+        "en": "Organized by Bishop Pierre Cauchon, the trial was explicitly designed to brand her visions as demonic witchcraft and discredit King Charles VII of France.",
+        "bn": "বিশপ পিয়ের কোশনের পরিচালনায় আয়োজিত এই বিচারের মূল উদ্দেশ্য ছিল তার স্বর্গীয় দর্শনকে শয়তানি জাদুবিদ্যা বলে দাগিয়ে দেওয়া এবং ফরাসি রাজাকে কালিমালিপ্ত করা।"
+      },
+      {
+        "en": "Though illiterate and denied legal counsel, the peasant girl defended herself with astonishing poise against dozens of Oxford-trained theologians.",
+        "bn": "নিরক্ষর এবং কোনো আইনজীবীর সাহায্য না পাওয়া সত্ত্বেও সেই সাধারণ কৃষক কন্যা অক্সফোর্ড-প্রশিক্ষিত বহু ধর্মতত্ত্ববিদের বিরুদ্ধে অসাধারণ আত্মবিশ্বাসে নিজের জবাব দেয়।"
+      },
+      {
+        "en": "When ensnared with the perilous trap question of whether she was in God's grace, she famously replied: 'If I am not, may God put me there; and if I am, may God so keep me.'",
+        "bn": "তিনি ঈশ্বরের করুণায় আছেন কিনা—এমন এক বিপজ্জনক ফাঁদ প্রশ্নের জবাবে তিনি অমর উত্তর দেন: 'যদি আমি না থাকি, ঈশ্বর যেন আমাকে দেন; আর যদি থাকি, ঈশ্বর যেন আমাকে তাতেই রাখেন।'"
+      },
+      {
+        "en": "Frustrated by her theological brilliance, the tribunal condemned her on pretexts of wearing male armor and refusing to submit her visions to the church.",
+        "bn": "তার দার্শনিক উপস্থিত বুদ্ধিতে পর্যুদস্ত হয়ে আদালত পুরুষালী বর্ম পরিধান এবং গির্জার কর্তৃত্বের কাছে নতি স্বীকার না করার অজুহাতে তাকে দোষী সাব্যস্ত করে।"
+      },
+      {
+        "en": "On May 30, 1431, she was tied to a stake in the Rouen marketplace and burned alive, clutching a makeshift wooden crucifix until her final breath.",
+        "bn": "১৪৩১ সালের ৩০ মে রুয়াঁর বাজারে এক কাঠের খুঁটিতে বেঁধে তাকে জীবন্ত পুড়িয়ে মারা হয়, শেষ নিঃশ্বাস পর্যন্ত তিনি একটি কাঠের ক্রুশ বুকে চেপে রেখেছিলেন।"
+      },
+      {
+        "en": "A posthumous rehabilitation trial in 1456 overturned every charge, transforming the martyred maid into an immortal symbol of courage and French sovereignty.",
+        "bn": "১৪৫৬ সালে মরণোত্তর পুনর্বিচারে তার বিরুদ্ধে আনা প্রতিটি অভিযোগ মিথ্যা প্রমাণিত হয় এবং শহীদ এই কুমারী সাহস ও ফরাসি স্বাধীনতার এক অমর প্রতীকে পরিণত হন।"
+      }
+    ]
+  },
+  {
+    "id": "gideon-v-wainwright-counsel",
+    "title": "Gideon v. Wainwright: The Right to a Defense",
+    "titleBn": "গিডিয়ন বনাম ওয়েনরাইট: সবার জন্য আইনি সুরক্ষার অধিকার",
+    "author": "Legal Rights Chronicle",
+    "level": "Intermediate",
+    "category": "History & Culture",
+    "coverEmoji": "⚖️",
+    "summary": "An indigent prisoner writes a handwritten petition to the Supreme Court from a Florida jail, securing legal counsel for all accused citizens.",
+    "summaryBn": "ফ্লোরিডার এক নিঃস্ব কয়েদি জেলখানা থেকে সুপ্রিম কোর্টে নিজের হাতে একটি চিঠি লিখে সকল নাগরিকের জন্য সরকারি আইনজীবী পাওয়ার সাংবিধানিক অধিকার প্রতিষ্ঠা করেছিলেন।",
+    "sentences": [
+      {
+        "en": "In 1961, Clarence Earl Gideon, a penniless drifter with an eighth-grade education, was accused of burglarizing a poolroom in Panama City, Florida.",
+        "bn": "১৯৬১ সালে ক্ল্যারেন্স আর্ল গিডিয়ন নামের অষ্টম শ্রেণি পাস এক নিঃস্ব ভবঘুরেকে ফ্লোরিডার পানামা সিটির একটি বিলিয়ার্ড ক্লাবে চুরির মিথ্যা অভিযোগে ধরা হয়।"
+      },
+      {
+        "en": "Unable to afford a private attorney, Gideon requested that the state appoint counsel to represent him, but the trial judge flatly refused.",
+        "bn": "ব্যক্তিগত আইনজীবী রাখার মতো অর্থ না থাকায় গিডিয়ন আদালতের কাছে সরকারি উকিল নিয়োগের আবেদন জানান, কিন্তু বিচারক তা সরাসরি নাকচ করে দেন।"
+      },
+      {
+        "en": "Forced to conduct his own defense against a seasoned prosecutor, Gideon was convicted and sentenced to five years in the state penitentiary.",
+        "bn": "অভিজ্ঞ সরকারি কৌঁসুলির বিরুদ্ধে নিজের মামলা নিজেই লড়তে বাধ্য হয়ে গিডিয়ন দোষী সাব্যস্ত হন এবং পাঁচ বছরের কারাদণ্ডে দণ্ডিত হন।"
+      },
+      {
+        "en": "From his cell, using prison library pencils and lined legal pad paper, he composed a meticulous handwritten petition to the United States Supreme Court.",
+        "bn": "কারাকক্ষে বসে জেলের লাইব্রেরির পেনসিল ও সাধারণ কাগজে তিনি মার্কিন সুপ্রিম কোর্টের উদ্দেশ্যে স্বহস্তে এক নিখুঁত আর্জি লিখে পাঠান।"
+      },
+      {
+        "en": "The Supreme Court agreed to hear his case and appointed prominent Washington attorney Abe Fortas to argue the constitutional principles at stake.",
+        "bn": "সুপ্রিম কোর্ট তার আবেদন গ্রহণ করে এবং এই সাংবিধানিক প্রশ্নের নিষ্পত্তিতে ওয়াশিংটনের বিশিষ্ট আইনজীবী অ্যাবে ফোরটাসকে তার পক্ষে নিয়োগ দেয়।"
+      },
+      {
+        "en": "In March 1963, the justices ruled unanimously that the Sixth Amendment requires states to provide free counsel to any defendant facing serious criminal charges.",
+        "bn": "১৯৬৩ সালের মার্চে আদালত সর্বসম্মত রায় দেয় যে কোনো ব্যক্তি গুরুতর অপরাধের দায়ে অভিযুক্ত হলে রাষ্ট্র তাকে বিনামূল্যে আইনজীবী দিতে বাধ্য।"
+      },
+      {
+        "en": "Granted a new trial with a competent public defender, Gideon was swiftly acquitted, proving that true justice cannot depend on personal wealth.",
+        "bn": "দক্ষ আইনজীবীর অধীনে পুনরায় বিচার অনুষ্ঠিত হলে গিডিয়ন দ্রুত নির্দোষ খালাস পান, যা প্রমাণ করে ন্যায়বিচার কখনোই ধনসম্পদের ওপর নির্ভরশীল হতে পারে না।"
+      }
+    ]
+  },
+  {
+    "id": "miranda-v-arizona-warning",
+    "title": "Miranda v. Arizona: The Voice of the Accused",
+    "titleBn": "মিরান্ডা বনাম অ্যারিজোনা: আসামির আত্মরক্ষার রক্ষাকবচ",
+    "author": "Constitutional Safeguards Review",
+    "level": "Intermediate",
+    "category": "History & Culture",
+    "coverEmoji": "🛑",
+    "summary": "How a landmark Supreme Court decision gave birth to the famous Miranda warning, safeguarding citizens against coerced police interrogations.",
+    "summaryBn": "কীভাবে সুপ্রিম কোর্টের এক যুগান্তকারী রায় বিখ্যাত 'মিরান্ডা সতর্কবার্তা'র জন্ম দেয় এবং পুলিশের জোরপূর্বক স্বীকারোক্তি থেকে নাগরিক অধিকারকে সুরক্ষা দেয়।",
+    "sentences": [
+      {
+        "en": "In March 1963, Phoenix police arrested twenty-three-year-old Ernesto Miranda and subjected him to two hours of intense interrogation without an attorney present.",
+        "bn": "১৯৬৩ সালের মার্চে ফিনিক্স পুলিশ তেইশ বছর বয়সী আর্নেস্তো মিরান্ডাকে গ্রেফতার করে এবং কোনো আইনজীবীর উপস্থিতি ছাড়াই দুই ঘণ্টা নিবিড় জেরা চালায়।"
+      },
+      {
+        "en": "Miranda signed a typed confession statement, unaware of his constitutional privilege against compulsory self-incrimination under the Fifth Amendment.",
+        "bn": "সংবিধানের পঞ্চম সংশোধনীর অধীনে নিজের বিরুদ্ধে সাক্ষ্য না দেওয়ার অধিকার সম্পর্কে অজ্ঞাত থেকে মিরান্ডা একটি টাইপ করা স্বীকারোক্তিতে সই করেন।"
+      },
+      {
+        "en": "During his trial, his appointed defense lawyer objected to admitting the confession as evidence, arguing that the statement was not truly voluntary.",
+        "bn": "বিচারের সময় তার আইনজীবী এই স্বীকারোক্তিকে প্রমাণ হিসেবে গ্রহণের বিরোধিতা করে যুক্তি দেখান যে এটি সম্পূর্ণ স্বেচ্ছায় দেওয়া বিবৃতি ছিল না।"
+      },
+      {
+        "en": "The case eventually climbed to the United States Supreme Court, forcing the judiciary to reckon with the coercive nature of behind-closed-doors police interrogations.",
+        "bn": "মামলাটি শেষ পর্যন্ত মার্কিন সুপ্রিম কোর্টে ওঠে এবং আদালতকে রুদ্ধদ্বার পুলিশি জেরার ভয়ভীতিমূলক বাস্তবতার মুখোমুখি হতে বাধ্য করে।"
+      },
+      {
+        "en": "Writing for the five-to-four majority in 1966, Chief Justice Earl Warren declared that custodial interrogations inherently undermine an individual's will.",
+        "bn": "১৯৬৬ সালে পাঁচ-চার সংখ্যাগরিষ্ঠের পক্ষে রায় লিখতে গিয়ে প্রধান বিচারপতি আর্ল ওয়ারেন ঘোষণা করেন যে হেফাজতে জেরা করা মানুষের স্বাভাবিক ইচ্ছাশক্তিকে দমিয়ে দেয়।"
+      },
+      {
+        "en": "The court established that suspects must be clearly warned prior to questioning that they have the right to remain silent and the right to an attorney.",
+        "bn": "আদালত স্পষ্ট নিয়ম জারি করে যে জিজ্ঞাসাবাদের আগেই আসামিকে সতর্ক করতে হবে যে তার নীরব থাকার অধিকার এবং আইনজীবী পাওয়ার পূর্ণ অধিকার রয়েছে।"
+      },
+      {
+        "en": "Recited countless times in real courtrooms and fiction alike, the Miranda warning remains an indispensable shield defending individual liberty against sovereign coercion.",
+        "bn": "বাস্তব আদালত এবং সিনেমায় অগণিতবার উচ্চারিত 'মিরান্ডা ওয়ার্নিং' আজও রাষ্ট্রীয় জবরদস্তির বিরুদ্ধে ব্যক্তিস্বাধীনতা রক্ষার এক অপরিহার্য ঢাল হয়ে রয়েছে।"
+      }
+    ]
+  },
+  {
+    "id": "thomas-more-conscience-trial",
+    "title": "Sir Thomas More: A Man for All Seasons",
+    "titleBn": "স্যার থমাস মোর: নিজের বিবেকের কাছে দায়বদ্ধ সাধক",
+    "author": "Tudor Court Annals",
+    "level": "Intermediate",
+    "category": "History & Culture",
+    "coverEmoji": "👑",
+    "summary": "King Henry VIII's former Lord Chancellor refuses to swear an oath compromising his conscience, facing the executioner's block with profound serenity.",
+    "summaryBn": "রাজা অষ্টম হেনরির সাবেক লর্ড চ্যান্সেলর বিবেকের সাথে আপস করে শপথ নিতে অস্বীকৃতি জানান এবং পরম প্রশান্তির সাথে ফাঁসির মঞ্চের দিকে এগিয়ে যান।",
+    "sentences": [
+      {
+        "en": "In 1534, King Henry VIII broke with the papacy in Rome, establishing himself through the Act of Supremacy as the supreme head of the Church of England.",
+        "bn": "১৫৩৪ সালে রাজা অষ্টম হেনরি রোমের পোপের সাথে সম্পর্ক ছিন্ন করেন এবং 'অ্যাক্ট অব সুপ্রিমেসি' আইনের মাধ্যমে নিজেকে চার্চ অব ইংল্যান্ডের সর্বোচ্চ প্রধান ঘোষণা করেন।"
+      },
+      {
+        "en": "While English nobles and clergy scrambled to pledge their compliance, Sir Thomas More, the former Lord Chancellor and humanist scholar, resigned his office.",
+        "bn": "ইংরেজ অভিজাত ও যাজকেরা যখন রাজাকে সন্তুষ্ট করতে আনুগত্যের শপথ নিচ্ছিলেন, তখন সাবেক লর্ড চ্যান্সেলর ও পণ্ডিত থমাস মোর পদত্যাগ করেন।"
+      },
+      {
+        "en": "More refused to swear the Oath of Succession acknowledging the King's marriage to Anne Boleyn, relying on quiet silence rather than open defiance.",
+        "bn": "অ্যান বোলিনের সাথে রাজার বিয়েকে বৈধতা দেওয়া শপথে মোর সই করতে অস্বীকার করেন এবং প্রকাশ্য বিরোধিতার বদলে নীতিগত নীরবতার আশ্রয় নেন।"
+      },
+      {
+        "en": "Imprisoned in the Tower of London for over a year, he was subjected to relentless pressure by royal interrogators to break his resolve.",
+        "bn": "লন্ডন টাওয়ারে এক বছরেরও বেশি সময় বন্দী রেখে রাজকীয় তদন্তকারীরা তার মনোবল ভাঙতে অবিরত মানসিক চাপ প্রয়োগ করতে থাকেন।"
+      },
+      {
+        "en": "At his trial in Westminster Hall in July 1535, fabricated testimony by Richard Rich was deployed to engineer a predetermined conviction for high treason.",
+        "bn": "১৫৩৫ সালের জুলাইয়ে ওয়েস্টমিনস্টার হলে বিচারে রিচার্ড রিচের সাজানো সাক্ষ্য ব্যবহার করে রাষ্ট্রদ্রোহের পূর্বপরিকল্পিত ফাঁসি নিশ্চিত করা হয়।"
+      },
+      {
+        "en": "Mounting the scaffold on Tower Hill, More famously proclaimed: 'I die the King's good servant, but God's first.'",
+        "bn": "টাওয়ার হিলে বধ্যমঞ্চে ওঠার সময় মোর তার অমর উক্তি করেন: 'আমি রাজার বিশ্বস্ত সেবক হিসেবেই মরছি, কিন্তু সবার আগে আমি ঈশ্বরের অনুগত।'"
+      },
+      {
+        "en": "Sir Thomas More's steadfast sacrifice cemented his stature across centuries as an enduring monument to moral conscience standing against autocratic force.",
+        "bn": "স্যার থমাস মোরের এই অটল আত্মত্যাগ স্বৈরাচারী ক্ষমতার বিরুদ্ধে নৈতিক বিবেকের জয়গান গেয়ে শতাব্দীর পর শতাব্দী ধরে এক অবিনাশী প্রতীক হয়ে রয়েছে।"
+      }
+    ]
+  },
+  {
+    "id": "tokyo-tribunal-radhabinod-pal",
+    "title": "Justice Radhabinod Pal: The Tokyo Dissent",
+    "titleBn": "বিচারপতি রাধাবিনোদ পাল: টোকিও ট্রায়ালের সাহসী ভিন্নমত",
+    "author": "Asian Jurisprudence Review",
+    "level": "Intermediate",
+    "category": "History & Culture",
+    "coverEmoji": "🏛️",
+    "summary": "An Indian jurist delivers an 800-page dissent at the Tokyo War Crimes Tribunal, challenging victor's justice and demanding impartial legal consistency.",
+    "summaryBn": "টোকিও যুদ্ধাপরাধ ট্রায়ালে এক ভারতীয় বিচারপতি আটশত পৃষ্ঠার সাহসী ভিন্নমত দিয়ে বিজয়ীর চাপিয়ে দেওয়া বিচারকে চ্যালেঞ্জ জানান এবং আইনের নিরপেক্ষতা দাবি করেন।",
+    "sentences": [
+      {
+        "en": "In 1946, the International Military Tribunal for the Far East commenced in Tokyo to prosecute twenty-eight Japanese military and political leaders.",
+        "bn": "১৯৪৬ সালে আটাশ জন জাপানি সামরিক ও রাজনৈতিক নেতার বিচার করার জন্য টোকিওতে দূরপ্রাচ্যের আন্তর্জাতিক সামরিক আদালতের বিচার শুরু হয়।"
+      },
+      {
+        "en": "Among the eleven international judges summoned from victorious Allied nations was Indian jurist Radhabinod Pal, a distinguished scholar from the University of Calcutta.",
+        "bn": "বিজয়ী মিত্রশক্তি থেকে আমন্ত্রিত এগারো জন বিচারকের মধ্যে ছিলেন কলকাতা বিশ্ববিদ্যালয়ের বিশিষ্ট আইন পণ্ডিত ভারতীয় জুরিস্ট রাধাবিনোদ পাল।"
+      },
+      {
+        "en": "While the majority of the tribunal voted to convict the defendants on counts of conspiring to wage aggressive war, Pal refused to conform.",
+        "bn": "আদালতের সংখ্যাগরিষ্ঠ বিচারপতি যখন আসামিদের আক্রমণাত্মক যুদ্ধ বাঁধানোর ষড়যন্ত্রের দায়ে দোষী সাব্যস্ত করার পক্ষে রায় দেন, তখন পাল তা মানতে অস্বীকৃতি জানান।"
+      },
+      {
+        "en": "In a monumental eight-hundred-page dissenting opinion, Justice Pal argued that ex post facto laws could not legitimately be applied retroactively by conquerors.",
+        "bn": "আটশত পৃষ্ঠার এক বিশাল ভিন্নমত রায়ে বিচারপতি পাল যুক্তি দেন যে বিজিতদের ওপর কোনো নতুন আইন পেছনের ঘটনার ক্ষেত্রে একতরফাভাবে চাপিয়ে দেওয়া যায় না।"
+      },
+      {
+        "en": "He fearlessly highlighted the hypocrisy of ignoring Western colonial atrocities and the nuclear bombing of Hiroshima and Nagasaki in the indictment.",
+        "bn": "তিনি কোনো ভয় না পেয়ে পশ্চিমা ঔপনিবেশিক অপরাধ এবং হিরোশিমা ও নাগাসাকিতে ফেলা পারমাণবিক বোমার দায়কে মামলার অভিযোগ থেকে বাদ রাখার দ্বিচারিতা আঙুল দিয়ে দেখান।"
+      },
+      {
+        "en": "Though his solitary dissent was initially suppressed by occupation authorities, it earned profound international respect for intellectual courage.",
+        "bn": "যদিও দখলদার কর্তৃপক্ষ শুরুতে তার এই ভিন্নমত প্রকাশ করতে বাধা দেয়, পরবর্তীতে তার এই চিন্তাগত সাহস বিশ্বজুড়ে গভীর শ্রদ্ধা অর্জন করে।"
+      },
+      {
+        "en": "Justice Pal's courageous judgment stands as an unyielding testament that international law must never degenerate into mere 'victor's justice'.",
+        "bn": "বিচারপতি পালের এই অকুতোভয় রায় অটল সাক্ষ্য হয়ে দাঁড়িয়েছে যে আন্তর্জাতিক আইন কখনোই নিছক 'বিজয়ীর প্রতিশোধে' পরিণত হতে পারে না।"
+      }
+    ]
+  }
+]

@@ -1,0 +1,857 @@
+[
+  {
+    "id": "moral-golden-plate",
+    "title": "The Golden Plate from Heaven",
+    "titleBn": "স্বর্গের সোনার থালা ও নিঃস্বার্থ ভালোবাসা",
+    "author": "Indian Legend",
+    "level": "Intermediate",
+    "category": "Moral Tales",
+    "coverEmoji": "✨",
+    "summary": "A miraculous plate inscribed for the truest lover of God turns to lead for the proud, but shines for the compassionate.",
+    "summaryBn": "ঈশ্বরের খাঁটি ভক্তের জন্য আকাশ থেকে পড়া এক সোনার থালা অহংকারীদের স্পর্শে সীসা হয়ে গেলেও নিঃস্বার্থের ছোঁয়ায় জ্বলে উঠল।",
+    "sentences": [
+      {
+        "en": "One morning, a magnificent golden plate fell from heaven into the courtyard of a grand temple in Benares.",
+        "bn": "এক সকালে বেনারসের এক বিশাল মন্দিরের চত্বরে আকাশ থেকে এক অপূর্ব সোনার থালা খসে পড়ল।"
+      },
+      {
+        "en": "On the gleaming surface were inscribed sacred words: 'To him who loves God best, this celestial gift belongs.'",
+        "bn": "সেই চকচকে থালার ওপর খোদাই করা ছিল পবিত্র বাণী: 'যিনি ঈশ্বরকে সবচেয়ে বেশি ভালোবাসেন, এই স্বর্গীয় উপহার তাঁর জন্যই প্রাপ্য।'"
+      },
+      {
+        "en": "The temple priests proclaimed that once a year, scholars, philanthropists, and nobles could step forward to claim it.",
+        "bn": "মন্দিরের পুরোহিতরা ঘোষণা করলেন যে বছরে একদিন পণ্ডিত, দানশীল ধনী ও সাধুরা এসে এটি দাবি করতে পারবেন।"
+      },
+      {
+        "en": "Wealthy merchants who gave thousands to charity touched the plate, but the moment their fingers met the gold, it turned into worthless, dull lead.",
+        "bn": "বড় বড় ধনীরা যারা হাজার হাজার টাকা দান করত তারা থালাটি স্পর্শ করতেই সোনার থালা মুহূর্তের মধ্যে কালচে ভারী সীসায় পরিণত হলো।"
+      },
+      {
+        "en": "When they released it in shame, the plate slowly resumed its golden luster, waiting for a worthy soul.",
+        "bn": "লজ্জিত হয়ে হাত সরিয়ে নিতেই থালাটি আবার আগের মতো সোনার ঔজ্জ্বল্য ফিরে পেল এবং প্রকৃত ভক্তের অপেক্ষায় রইল।"
+      },
+      {
+        "en": "A poor peasant walked by, noticed a crippled, starving beggar weeping at the gate, and tenderly shared his only piece of dry bread.",
+        "bn": "এক দরিদ্র কৃষক পাশ দিয়ে যাওয়ার সময় গেটে বসে থাকা এক পঙ্গু ক্ষুধার্ত ভিখারিকে দেখে পরম স্নেহে নিজের একমাত্র শুকনো রুটিটি তার সাথে ভাগ করে খেল।"
+      },
+      {
+        "en": "The priests invited the gentle peasant to touch the plate, and instantly it blazed with divine, blinding golden light.",
+        "bn": "পুরোহিতরা সেই নিরীহ কৃষককে ডেকে এনে থালাটি স্পর্শ করতে বললেন, আর ছোঁয়া লাগামাত্রই থালাটি স্বর্গীয় অপার্থিব আলোয় উজ্জ্বল হয়ে উঠল।"
+      },
+      {
+        "en": "He who loves his fellow human beings with pure, humble empathy is the one who truly loves God the most.",
+        "bn": "যে ব্যক্তি কোনো অহংকার ছাড়া নিঃস্বার্থভাবে অন্য মানুষকে ভালোবাসে, সে-ই আসলে পরম করুণাময়কে সবচেয়ে বেশি ভালোবাসে।"
+      }
+    ]
+  },
+  {
+    "id": "moral-bell-of-atri",
+    "title": "The Bell of Atri and the Starving Horse",
+    "titleBn": "আত্রির বিচার ঘণ্টা ও ক্ষুধার্ত বৃদ্ধ ঘোড়া",
+    "author": "Italian Legend",
+    "level": "Intermediate",
+    "category": "Moral Tales",
+    "coverEmoji": "🔔",
+    "summary": "An abandoned, faithful old warhorse rings the royal bell of justice and wins lifelong care from his ungrateful master.",
+    "summaryBn": "বহু যুদ্ধের বিশ্বস্ত সঙ্গী এক বৃদ্ধ ঘোড়াকে তাড়িয়ে দেওয়া হলে সে কীভাবে বিচার ঘণ্টা বাজিয়ে মালিককে বাধ্য করেছিল আশ্রয় দিতে।",
+    "sentences": [
+      {
+        "en": "In the small Italian mountain town of Atri, King John hung a great bronze bell in the public marketplace.",
+        "bn": "ইতালির আত্রি নামের এক পাহাড়ি শহরের বাজারে রাজা জন এক বিশাল ব্রোঞ্জের ঘণ্টা ঝুলিয়ে দিয়েছিলেন।"
+      },
+      {
+        "en": "The king decreed that whenever any citizen suffered injustice, they could ring the bell to summon the town magistrates for immediate justice.",
+        "bn": "রাজা নির্দেশ দিয়েছিলেন যে কারও ওপর কোনো অবিচার হলে সে এই ঘণ্টা বাজিয়ে বিচারকদের ডেকে সাথে সাথে বিচার চাইতে পারবে।"
+      },
+      {
+        "en": "Over the years, the bell rope wore away until townspeople tied a long, leafy grapevine to the end so anyone could reach it.",
+        "bn": "বছরের পর বছর ধরে ব্যবহারের ফলে ঘণ্টার দড়িটি ক্ষয়ে ছোট হয়ে গেলে পথচারীরা সেখানে আঙুরলতার এক লম্বা ডাল বেঁধে দিল যাতে সবাই নাগাল পায়।"
+      },
+      {
+        "en": "A greedy knight lived nearby who had grown selfish in his old age, refusing to feed his loyal warhorse that had saved his life in battle.",
+        "bn": "কাছেই এক লোভী যোদ্ধা বাস করত, যে বৃদ্ধ বয়সে চরম কৃপণ হয়ে গিয়ে যুদ্ধক্ষেত্রে প্রাণ বাঁচানো তার বিশ্বস্ত পুরনো ঘোড়াকে খাবার দিতে অস্বীকার করল।"
+      },
+      {
+        "en": "The cruel knight drove the starving, shivering beast out into the dusty roads to forage on dry briars or starve.",
+        "bn": "নিষ্ঠুর যোদ্ধা ক্ষুধার্ত ও দুর্বল হয়ে পড়া প্রাণীটিকে বাড়ি থেকে তাড়িয়ে দিল ধুলোবালি আর কাঁটাবন থেকে খেয়ে বেঁচে থাকার জন্য।"
+      },
+      {
+        "en": "Wandering hungry into the empty marketplace on a hot afternoon, the desperate horse saw the green grapevine and began nibbling hungrily.",
+        "bn": "দুপুরের রোদে ক্ষুধার জ্বালায় ঘুরতে ঘুরতে সেই ঘোড়াটি ফাঁকা বাজারে এসে ঘণ্টার সাথে ঝুলতে থাকা সবুজ আঙুরলতা দেখে চিবোতে লাগল।"
+      },
+      {
+        "en": "As the horse yanked the vine, the great bronze bell tolled loudly: 'Ding-dong! Ding-dong!' echoing through the quiet streets.",
+        "bn": "লতায় টান পড়তেই বিশাল ব্রোঞ্জের ঘণ্টাটি বিকট শব্দে বেজে উঠল: 'ঢং-ঢং! ঢং-ঢং!', যা পুরো শহরের অলিতে-গলিতে প্রতিধ্বনিত হলো।"
+      },
+      {
+        "en": "The magistrates arrived, heard the evidence of the horse's lifelong loyalty, and legally forced the ashamed knight to provide food and warm shelter for the rest of its natural days.",
+        "bn": "বিচারকরা এসে সব শুনলেন এবং সেই লজ্জিত যোদ্ধাকে হুকুম দিলেন যেন সে তার বাকি জীবন ঘোড়াটিকে ভালো খাবার ও উষ্ণ আস্তাবল নিশ্চিত করে।"
+      }
+    ]
+  },
+  {
+    "id": "moral-damon-pythias",
+    "title": "Damon and Pythias: Supreme Friendship",
+    "titleBn": "ডেমন ও পিথিয়াস: নিঃস্বার্থ বন্ধুত্বের চরম পরীক্ষা",
+    "author": "Greek Legend",
+    "level": "Intermediate",
+    "category": "Moral Tales",
+    "coverEmoji": "🤝",
+    "summary": "A friend pledges his very life as hostage so his companion can bid farewell to his family, melting a tyrant's heart.",
+    "summaryBn": "বন্ধুর শেষ ইচ্ছার জন্য নিজের জীবন বাজি রেখে ফাঁসির দড়ির সামনে দাঁড়িয়ে এক বন্ধু কীভাবে নিষ্ঠুর রাজার মন গলিয়ে দিয়েছিল।",
+    "sentences": [
+      {
+        "en": "In ancient Syracuse, the ruthless tyrant Dionysius sentenced a young philosopher named Pythias to death for opposing his cruelty.",
+        "bn": "প্রাচীন সিরাকিউসের অত্যাচারী রাজা ডায়োনিসিয়াস তরুণ দার্শনিক পিথিয়াসকে তাঁর অন্যায়ের প্রতিবাদ করার দায়ে মৃত্যুদণ্ড দিলেন।"
+      },
+      {
+        "en": "Pythias begged for a few days' leave to return home, settle his family's affairs, and embrace his elderly parents one last time.",
+        "bn": "পিথিয়াস অনুরোধ করলেন তাঁকে কয়েক দিনের ছুটি দেওয়া হোক যাতে তিনি বাড়ি গিয়ে পরিবারের দায়িত্ব বুঝিয়ে দিয়ে বৃদ্ধ বাবা-মাকে শেষ দেখা দেখে আসতে পারেন।"
+      },
+      {
+        "en": "The tyrant laughed cynically, saying: 'You will simply run away, and I will be left holding an empty dungeon cell.'",
+        "bn": "রাজা ব্যঙ্গ করে হেসে বললেন: 'তুমি তো পালিয়ে যাবে, আর আমি খালি কারাগার নিয়ে বসে থাকব।'"
+      },
+      {
+        "en": "Pythias's loyal friend Damon stepped forward without trembling and offered: 'Imprison me in his place; if he fails to return by sunset on the appointed day, execute me instead.'",
+        "bn": "পিথিয়াসের অকৃত্রিম বন্ধু ডেমন নির্ভীক চিত্তে সামনে এসে বলল: 'আমাকে তাঁর জায়গায় বন্দি রাখুন; নির্দিষ্ট দিনের সূর্যাস্তের আগে সে না ফিরলে আমার মাথা কেটে নেবেন।'"
+      },
+      {
+        "en": "Astonished by this bargain, Dionysius agreed, casting Damon into the dungeon while Pythias rode swiftly toward his distant village.",
+        "bn": "এই অদ্ভুত শর্তে অবাক হয়ে রাজা রাজি হলেন; ডেমনকে কারাগারে ঢোকানো হলো আর পিথিয়াস দ্রুত ঘোড়া ছুটিয়ে গ্রামের দিকে চলে গেল।"
+      },
+      {
+        "en": "On the day of execution, violent storms, broken bridges, and pirates delayed Pythias, and the sun began sinking toward the western horizon.",
+        "bn": "ফাঁসির দিনে প্রচণ্ড ঝড়, ভাঙা সেতু এবং ডাকাতদের বাধার কারণে পিথিয়াসের ফিরতে দেরি হলো এবং সূর্য পশ্চিম আকাশে ডুবতে লাগল।"
+      },
+      {
+        "en": "As Damon stood calmly upon the scaffold smiling with unshakeable faith in his friend, a dust cloud rose and Pythias staggered in, weeping with exhausted joy.",
+        "bn": "ডেমন যখন হাসিমুখে বন্ধুর ওপর অটুট বিশ্বাস রেখে ফাঁসির মঞ্চে দাঁড়াল, ঠিক তখনই ধুলো উড়িয়ে বিধ্বস্ত শরীরে ছুটে এলো পিথিয়াস।"
+      },
+      {
+        "en": "Moved to tears by such extraordinary devotion, Dionysius pardoned Pythias and begged to be accepted as a third friend in their noble fellowship.",
+        "bn": "এমন স্বর্গীয় বন্ধুত্ব দেখে নিষ্ঠুর রাজার চোখ দিয়েও জল গড়িয়ে পড়ল; তিনি পিথিয়াসকে ক্ষমা করলেন এবং তাঁদের বন্ধুত্বের সাথী হওয়ার ইচ্ছা প্রকাশ করলেন।"
+      }
+    ]
+  },
+  {
+    "id": "moral-androcles-lion",
+    "title": "Androcles and the Grateful Lion",
+    "titleBn": "অ্যান্ড্রোক্লিস এবং কৃতজ্ঞ সিংহ",
+    "author": "Roman Legend",
+    "level": "Intermediate",
+    "category": "Moral Tales",
+    "coverEmoji": "🦁",
+    "summary": "An escaped Roman slave removes a painful thorn from a wild beast and meets him again in the Colosseum arena.",
+    "summaryBn": "এক পালানো দাস বনের এক হিংস্র সিংহের পা থেকে বিষাক্ত কাঁটা তুলে দেওয়ার পর কলোসিয়ামের ময়দানে ঘটেছিল এক অবিশ্বাস্য পুনর্মিলন।",
+    "sentences": [
+      {
+        "en": "Androcles was a gentle Roman slave who fled into the arid North African desert to escape the brutal beatings of his cruel master.",
+        "bn": "অ্যান্ড্রোক্লিস ছিলেন এক নিরীহ রোমান দাস, যিনি মনিবের অমানুষিক নির্যাতন সহ্য করতে না পেরে উত্তর আফ্রিকার মরুভূমিতে পালিয়ে যান।"
+      },
+      {
+        "en": "Exhausted from heat and hunger, he sought shelter inside a dark mountain cave and collapsed upon the sandy ground.",
+        "bn": "রোদ আর ক্ষুধায় ক্লান্ত হয়ে তিনি একটি অন্ধকার পাহাড়ি গুহায় আশ্রয় নিয়ে বালুর ওপর শুয়ে পড়লেন।"
+      },
+      {
+        "en": "Suddenly, a massive male lion entered the cave, limping heavily and groaning in deep, agonizing distress.",
+        "bn": "হঠাৎ এক বিশাল সিংহ খুঁড়িয়ে খুঁড়িয়ে গুহার ভেতরে ঢুকল এবং যন্ত্রণায় কাতরাতে কাতরাতে মৃদু গর্জন করতে লাগল।"
+      },
+      {
+        "en": "Terrified, Androcles prepared for death, but noticed the beast held out a badly swollen, bloody front paw.",
+        "bn": "ভয়ে অ্যান্ড্রোক্লিস ভাবলেন তাঁর মৃত্যু ঘনিয়ে এসেছে, কিন্তু খেয়াল করলেন সিংহটি নিজের ফোলা ও রক্তাক্ত থাবাটি তাঁর দিকে বাড়িয়ে রেখেছে।"
+      },
+      {
+        "en": "Summoning all his courage, Androcles gently inspected the paw, gripped a thick wooden thorn, and pulled it cleanly free.",
+        "bn": "সমস্ত সাহস সঞ্চয় করে অ্যান্ড্রোক্লিস পরম যত্নে থাবাটি তুলে নিলেন এবং মাংসের ভেতর গভীরভাবে বিঁধে থাকা একটি শক্ত কাঁটা টেনে বের করলেন।"
+      },
+      {
+        "en": "The relieved lion purred like an enormous kitten, licked the young man's hands, and shared hunted meat with him for months.",
+        "bn": "ব্যথামুক্ত হয়ে সিংহটি বিড়ালছানার মতো গা ঘেঁষে যুবকের হাত চাটতে লাগল এবং বনের শিকার এনে মাসের পর মাস তাঁর সাথে ভাগ করে খেল।"
+      },
+      {
+        "en": "Months later, Roman soldiers captured both; Androcles was condemned to be torn apart by starved beasts in the Colosseum arena.",
+        "bn": "কয়েক মাস পর রোমান সেনারা দুজনকেই ধরে ফেলল এবং কলোসিয়ামের ময়দানে অভুক্ত বুনো পশুর সামনে অ্যান্ড্রোক্লিসকে ফেলে দেওয়ার রায় হলো।"
+      },
+      {
+        "en": "When the famished lion was released, it charged forward with a roar, then halted instantly, rubbed its head affectionately against Androcles, and the astonished Emperor freed them both.",
+        "bn": "খাঁচা খুলতেই ক্ষুধার্ত সিংহটি গর্জাতে গর্জাতে ছুটে এলো, কিন্তু অ্যান্ড্রোক্লিসকে দেখেই চিনে ফেলে ভালোবেসে তাঁর পায়ে মাথা ঘষল; এই দৃশ্য দেখে অবাক হয়ে সম্রাট দুজনকেই মুক্তি দিলেন।"
+      }
+    ]
+  },
+  {
+    "id": "moral-sword-damocles",
+    "title": "The Sword of Damocles",
+    "titleBn": "ড্যামোক্লিসের ঝুলন্ত তলোয়ার",
+    "author": "Greek Legend",
+    "level": "Intermediate",
+    "category": "Moral Tales",
+    "coverEmoji": "🗡️",
+    "summary": "A flatterer learns that the glitter of royal power is overshadowed by constant anxiety and looming danger.",
+    "summaryBn": "রাজকীয় ক্ষমতার চাকচিক্যের আড়ালে যে কত গভীর ভয় ও বিপদ লুকিয়ে থাকে, তা এক ঝুলন্ত তলোয়ারের মাধ্যমে প্রকাশ পেয়েছিল।",
+    "sentences": [
+      {
+        "en": "Damocles was an ambitious courtier who constantly showered King Dionysius with envious flattery about his opulent wealth and power.",
+        "bn": "ড্যামোক্লিস ছিল রাজার দরবারের এমন এক উচ্চাভিলাষী তোষামোদকারী যে সবসময় রাজার ধনসম্পদ আর রাজকীয় বিলাসের প্রতি হিংসায় ভরা প্রশংসা করত।"
+      },
+      {
+        "en": "Damocles sighed, 'Sire, you must surely be the happiest man alive, surrounded by golden goblets, silk robes, and total authority.'",
+        "bn": "ড্যামোক্লিস দীর্ঘশ্বাস ফেলে বলল, 'মহারাজ, সোনার পানপাত্র, রেশমি পোশাক আর বিপুল ক্ষমতার মাঝে বাস করে আপনি নিশ্চিত পৃথিবীর সবচেয়ে সুখী মানুষ!'"
+      },
+      {
+        "en": "The king smiled grimly and asked, 'Would you like to taste my supreme happiness for yourself by sitting on my throne for one banquet?'",
+        "bn": "রাজা রহস্যময় এক চিলতে হেসে বললেন, 'তুমি কি একদিনের জন্য আমার এই সুখের স্বাদ পেতে চাও? আজ রাতের ভোজে তুমি আমার সিংহাসনে বসো।'"
+      },
+      {
+        "en": "Delighted, Damocles donned royal purple robes and sat atop a cushioned golden chair surrounded by singing musicians and roasted delicacies.",
+        "bn": "আনন্দে আত্মহারা হয়ে ড্যামোক্লিস রাজপোশাক পরে সোনার সিংহাসনে বসল, চারপাশের বাদকরা গান গাইছিল আর তাকে নানা সুস্বাদু খাবার পরিবেশন করা হচ্ছিল।"
+      },
+      {
+        "en": "As he raised a crystal wine cup to his lips, his gaze wandered upward toward the ceiling, and all the color drained from his face.",
+        "bn": "যখন সে আনন্দের সাথে ওয়াইনের পেয়ালা মুখে তুলল, চোখ উপরের দিকে যেতেই তার মুখের সব রক্ত নিমেষে উবে গেল।"
+      },
+      {
+        "en": "Hanging directly over his bare head was a razor-sharp steel broadsword, suspended by nothing more than a single strand of horsehair.",
+        "bn": "তার ঠিক মাথার ওপরেই একটি ধারালো চকচকে তলোয়ার সোজা নিচের দিকে মুখ করে ঝুলছিল—যা আটকানো ছিল ঘোড়ার লেজের মাত্র একটিমাত্র সরু চুলে!"
+      },
+      {
+        "en": "Terrified that any sudden breath or vibration would snap the hair and impale his skull, Damocles froze in paralyzing dread, unable to eat.",
+        "bn": "সামান্য একটু নড়াচড়া বা বাতাসের ধাক্কায় চুলটি ছিঁড়ে তলোয়ার মাথায় ঢুকবে ভেবে ড্যামোক্লিস আতঙ্কে কাঁপতে কাঁপতে পাথর হয়ে রইল, এক লোকমা খাবারও মুখে তুলতে পারল না।"
+      },
+      {
+        "en": "The king observed: 'Now you understand royal life; great worldly power is ever shadowed by the precarious dread of hidden destruction.'",
+        "bn": "রাজা তখন বললেন: 'এখন তুমি ক্ষমতার আসল রূপ বুঝতে পেরেছ; বড় বড় পদের পেছনে সবসময় এমন এক অদৃশ্য বিপদের তলোয়ার ঝুলতে থাকে।'"
+      }
+    ]
+  },
+  {
+    "id": "moral-boy-mountain-echo",
+    "title": "The Little Boy and the Mountain Echo",
+    "titleBn": "পাহাড়ের প্রতিধ্বনি ও ছোট্ট ছেলে",
+    "author": "Folk Wisdom",
+    "level": "Intermediate",
+    "category": "Moral Tales",
+    "coverEmoji": "🏔️",
+    "summary": "A father uses the echoes in an alpine valley to show his son that life gives back exactly what you put out.",
+    "summaryBn": "পাহাড়ের প্রতিধ্বনির মাধ্যমে এক বাবা তাঁর সন্তানকে জীবনের বড় এক সত্য শিখিয়েছিলেন: আমরা যা দিই, জীবন আমাদের ঠিক তা-ই ফিরিয়ে দেয়।",
+    "sentences": [
+      {
+        "en": "A young boy was hiking through a picturesque mountain valley with his father on a sunny afternoon.",
+        "bn": "এক সুন্দর বিকেলে এক ছোট্ট ছেলে তার বাবার সাথে এক চমৎকার পাহাড়ি উপত্যকার মধ্য দিয়ে হেঁটে যাচ্ছিল।"
+      },
+      {
+        "en": "Suddenly, the boy tripped over a concealed tree root, scraped his knee on a sharp rock, and screamed in pain: 'Aaaaah!'",
+        "bn": "হঠাৎ গাছের শিকড়ে হোঁচট খেয়ে পাথরের সাথে লেগে ছেলেটির হাঁটু কেটে গেল এবং সে ব্যথায় চিৎকার করে উঠল: 'আহ্!'"
+      },
+      {
+        "en": "To his utter surprise, he heard a clear voice echoing back from deep within the mountains: 'Aaaaah!'",
+        "bn": "সে অবাক হয়ে শুনল পাহাড়ের গভীর থেকে ঠিক একই রকম স্পষ্ট এক আওয়াজ ফিরে এলো: 'আহ্!'"
+      },
+      {
+        "en": "Curious, the boy stood up, cupped his hands around his mouth, and yelled: 'Who are you?'",
+        "bn": "কৌতূহলী হয়ে ছেলেটি উঠে দাঁড়াল, দুই হাত মুখের সামনে রেখে চিৎকার করে জিজ্ঞেস করল: 'তুমি কে?'"
+      },
+      {
+        "en": "The mountain valley immediately answered in the exact same tone: 'Who are you?'",
+        "bn": "পাহাড়ের উপত্যকা তৎক্ষণাৎ একই সুরে জবাব দিল: 'তুমি কে?'"
+      },
+      {
+        "en": "Angered by the imitation, the boy shouted furiously: 'I hate you, you coward!' and the mountains echoed: 'I hate you, you coward!'",
+        "bn": "তাকে ভেঙচানো হচ্ছে ভেবে রেগে গিয়ে ছেলেটি চেঁচাল: 'আমি তোকে ঘৃণা করি, তুই একটা কাপুরুষ!' আর পাহাড়ও ফেরত দিল: 'আমি তোকে ঘৃণা করি, তুই একটা কাপুরুষ!'"
+      },
+      {
+        "en": "The father smiled gently, stepped forward, and called out warmly: 'I admire you! You are wonderful!' and the mountains returned love and praise.",
+        "bn": "বাবা মিষ্টি হেসে সামনে এসে ভালোবাসার সুরে চিৎকার করলেন: 'আমি তোমাকে ভালোবাসি! তুমি খুব সুন্দর!' আর পাহাড়ও সেই প্রশংসার কথা ফিরিয়ে দিল।"
+      },
+      {
+        "en": "The father explained, 'People call this an echo, but it is really Life; whatever you send out into the world returns to you tenfold.'",
+        "bn": "বাবা বুঝিয়ে বললেন, 'মানুষ একে প্রতিধ্বনি বলে, কিন্তু আসলে এটিই হলো জীবন; তুমি পৃথিবীতে যা দেবে, জীবন তোমাকে ঠিক তা-ই দ্বিগুণ করে ফিরিয়ে দেবে।'"
+      }
+    ]
+  },
+  {
+    "id": "moral-proud-rose-cactus",
+    "title": "The Proud Rose and the Desert Cactus",
+    "titleBn": "অহংকারী গোলাপ ও মরুভূমির ক্যাকটাস",
+    "author": "Aesop's Moral",
+    "level": "Intermediate",
+    "category": "Moral Tales",
+    "coverEmoji": "🌵",
+    "summary": "A vain flower mocks an ugly spiky plant, until summer drought turns the tables of survival.",
+    "summaryBn": "রূপের অহংকারে ক্যাকটাসকে অবহেলা করা এক সুন্দর গোলাপ কীভাবে খরার দিনে বুঝতে পেরেছিল আসল গুণের দাম।",
+    "sentences": [
+      {
+        "en": "In a lush desert oasis, a gorgeous crimson rose blossomed proudly beside an old, prickly green cactus.",
+        "bn": "মরুভূমির এক সুন্দর মরুদ্যানের মাঝে এক বুড়ো কাঁটাভরা ক্যাকটাসের পাশেই এক অপূর্ব রক্তগোলাপ ফুটে উঠল।"
+      },
+      {
+        "en": "Every day, the vain rose boasted about its velvety red petals, mocking the humble cactus for its thorny, distorted shape.",
+        "bn": "প্রতিদিন অহংকারী গোলাপ নিজের কোমল লাল পাপড়ির রূপের বড়াই করত এবং কদর্য কাঁটার জন্য নিরীহ ক্যাকটাসটিকে উপহাস করত।"
+      },
+      {
+        "en": "The quiet cactus never argued back, calmly absorbing the harsh sunlight and storing moisture deep inside its fleshy stem.",
+        "bn": "শান্ত স্বভাবের ক্যাকটাস কোনো তর্কে যেত না, সে কেবল চুপচাপ রোদ সয়ে নিজের মাংসল কাণ্ডের ভেতর পানি জমিয়ে রাখত।"
+      },
+      {
+        "en": "As blazing summer arrived, the streams dried up, no rain fell for months, and the entire oasis began to wither in the scorching heat.",
+        "bn": "তীব্র গ্রীষ্মের দাবদাহ শুরু হতেই ঝর্ণার পানি শুকিয়ে গেল, বৃষ্টির দেখা মিলল না এবং পুরো মরুদ্যান শুকিয়ে কাঠ হতে লাগল।"
+      },
+      {
+        "en": "The rose's glorious petals wilted, turned brown, and drooped lifelessly toward the cracked desert sand.",
+        "bn": "গোলাপের সেই অহংকারী পাপড়িগুলো শুকিয়ে খয়েরি হয়ে গেল এবং নিস্তেজ হয়ে ফেটে যাওয়া বালুর ওপর ঝুঁকে পড়ল।"
+      },
+      {
+        "en": "Looking over weakly, the rose saw sparrows dipping their beaks into the green cactus to drink fresh, cool sap.",
+        "bn": "দুর্বল চোখে তাকিয়ে গোলাপ দেখল চড়ুই পাখিরা ক্যাকটাসের গায়ে ঠোঁট ডুবিয়ে তৃষ্ণার মিষ্টি পানি খাচ্ছে।"
+      },
+      {
+        "en": "Ashamed of its past cruelty, the dying rose begged the cactus for a few drops of water, and the kind cactus generously shared.",
+        "bn": "নিজের অতীতের ব্যবহারের জন্য লজ্জিত হয়ে মুমূর্ষু গোলাপটি কয়েক ফোঁটা পানি ভিক্ষা চাইল, আর দয়ালু ক্যাকটাস হাসিমুখে তাকে পানি দিয়ে বাঁচাল।"
+      },
+      {
+        "en": "Never judge anything by its outer appearance; true worth is proven through utility, resilience, and quiet generosity.",
+        "bn": "বাইরের চেহারা দেখে কখনো কারও বিচার করতে নেই; প্রকৃত মূল্য প্রকাশ পায় উপযোগিতা, টিকে থাকার শক্তি এবং পরোপকারে।"
+      }
+    ]
+  },
+  {
+    "id": "moral-belling-the-cat",
+    "title": "Belling the Cat: The Council of Mice",
+    "titleBn": "বেড়ালের গলায় ঘণ্টা এবং ইঁদুরের সভা",
+    "author": "Aesop's Fables",
+    "level": "Intermediate",
+    "category": "Aesop's Fables",
+    "coverEmoji": "🐁",
+    "summary": "The mice devise a brilliant plan to stay safe from the prowling cat, but no one is brave enough to execute it.",
+    "summaryBn": "বেড়ালের আক্রমণ থেকে বাঁচতে ইঁদুরেরা চমৎকার এক পরিকল্পনা করল, কিন্তু কাজটি বাস্তবায়ন করার মতো সাহসী কাউকে পাওয়া গেল না।",
+    "sentences": [
+      {
+        "en": "A ferocious black cat terrorized the mice of an old farmhouse pantry, catching them silently before they could scurry to safety.",
+        "bn": "এক পুরনো খামারবাড়ির ভাঁড়ার ঘরে এক হিংস্র কালো বেড়াল ইঁদুরদের ওপর চরম আতঙ্ক তৈরি করেছিল, সে নিঃশব্দে এসে তাদের শিকার করত।"
+      },
+      {
+        "en": "Terrified of leaving their holes even for a morsel of grain, the mice convened an emergency council to debate their survival.",
+        "bn": "এক দানা খাবারের জন্যও গর্ত থেকে বের হতে ভয় পেয়ে ইঁদুরেরা আত্মরক্ষার উপায় ঠিক করতে এক জরুরি সভার আয়োজন করল।"
+      },
+      {
+        "en": "Several older rodents suggested building deeper tunnels or barricading the cracks with hard walnut shells.",
+        "bn": "বয়স্ক ইঁদুরেরা আরও গভীর গর্ত খোঁড়ার বা শক্ত আখরোটের খোসা দিয়ে দরজায় বেড়া দেওয়ার পরামর্শ দিল।"
+      },
+      {
+        "en": "A bright young mouse stood upon a cheese wheel and announced an ingenious idea that drew applause.",
+        "bn": "তখন এক ছটফটে তরুণ ইঁদুর পনিরের চাকার ওপর দাঁড়িয়ে এক চমকপ্রদ বুদ্ধির কথা বলল যা শুনে সবাই উল্লাস করে উঠল।"
+      },
+      {
+        "en": "'All we need to do,' he boasted, 'is tie a small brass bell around the cat's neck with a red ribbon!'",
+        "bn": "'আমাদের যা করতে হবে তা হলো,' সে বুক ফুলিয়ে বলল, 'একটি লাল ফিতা দিয়ে বেড়ালের গলায় একটি ছোট পিতলের ঘণ্টা বেঁধে দেওয়া!'"
+      },
+      {
+        "en": "'Whenever the beast approaches, the bell will jingle, giving us plenty of warning to scamper into our holes.'",
+        "bn": "'বেড়াল যখনই এগিয়ে আসবে, ঘণ্টার টুংটাং শব্দে আমরা আগেভাগেই টের পেয়ে নিরাপদে গর্তে ঢুকে পড়তে পারব।'"
+      },
+      {
+        "en": "As the crowd cheered, an old, grizzled mouse rose in the back and asked quietly: 'A splendid plan indeed, but who among us will volunteer to bell the cat?'",
+        "bn": "সবাই যখন হাততালি দিচ্ছিল, পেছনের কোণ থেকে এক অভিজ্ঞ বুড়ো ইঁদুর উঠে শান্ত গলায় জিজ্ঞেস করল: 'পরিকল্পনা দারুণ, কিন্তু আমাদের মধ্যে কে বেড়ালের গলায় ঘণ্টা বাঁধতে যাবে?'"
+      },
+      {
+        "en": "Silence fell upon the room; it is remarkably easy to propose grand schemes, but quite another matter to carry them out courageously.",
+        "bn": "পুরো ঘরে পিনপতন নীরবতা নেমে এলো; মুখে বড় বড় উপদেশ দেওয়া খুব সহজ, কিন্তু সাহসের সাথে তা বাস্তবে রূপ দেওয়া একেবারেই ভিন্ন কথা।"
+      }
+    ]
+  },
+  {
+    "id": "moral-miller-son-donkey",
+    "title": "The Miller, His Son, and Their Donkey",
+    "titleBn": "মানুষের কথায় চলা বৃদ্ধ ও তার গাধা",
+    "author": "Aesop's Fables",
+    "level": "Intermediate",
+    "category": "Aesop's Fables",
+    "coverEmoji": "🫏",
+    "summary": "Trying to please every critical passerby on the road to market ends in complete absurdity and disaster.",
+    "summaryBn": "বাজারে যাওয়ার পথে সবার মন জোগাতে গিয়ে এক বাবা ও ছেলে শেষ পর্যন্ত নিজেদের গাধাটিকেই হারিয়ে বসল।",
+    "sentences": [
+      {
+        "en": "An old miller and his young son set out on foot toward the country fair, leading their pet donkey by a halter.",
+        "bn": "এক বৃদ্ধ গমকলের মালিক এবং তার ছেলে নিজেদের পোষা গাধাটিকে দড়ি দিয়ে টেনে গ্রামের মেলার দিকে নিয়ে যাচ্ছিল।"
+      },
+      {
+        "en": "A passing traveler laughed mockingly: 'Look at those fools trudging in the dust when they have a perfectly healthy beast to ride!'",
+        "bn": "পথচলতি এক লোক ব্যঙ্গ করে হেসে বলল: 'ওই বোকাগুলোকে দেখ! এত ভালো একটা বলদ থাকতে তারা ধুলোবালির মধ্যে হেঁটে মরছে!'"
+      },
+      {
+        "en": "The miller put his young boy on the donkey's back and walked along beside them.",
+        "bn": "লোকটির কথা শুনে বাবা তার ছোট ছেলেকে গাধার পিঠে বসিয়ে দিয়ে নিজে হেঁটে পাশে পাশে চলতে লাগল।"
+      },
+      {
+        "en": "An elderly merchant saw them and scolded: 'Selfish child! You ride lazily in comfort while your poor aging father walks exhausted!'",
+        "bn": "এক বৃদ্ধ ব্যবসায়ী দেখে ধমক দিয়ে বলল: 'কী স্বার্থপর ছেলে! বুড়ো ক্লান্ত বাবাকে হাঁটিয়ে নিজে রাজার মতো আয়েশ করে চড়ে যাচ্ছে!'"
+      },
+      {
+        "en": "Ashamed, the boy dismounted, and the father climbed aboard instead, only for the next stranger to call him a heartless parent.",
+        "bn": "লজ্জিত হয়ে ছেলেটি নেমে গেল আর বাবা গাধার পিঠে বসল, কিন্তু পরের পথিক বাবাকে দেখে বলল সে নাকি এক নিষ্ঠুর বাবা।"
+      },
+      {
+        "en": "To silence all critics, both father and son climbed onto the donkey's back together, but animal lovers cursed them for overloading a small beast.",
+        "bn": "সবার মুখ বন্ধ করতে বাবা ও ছেলে দুজনই একসাথে গাধার পিঠে চড়ে বসল, কিন্তু এবার পশুপ্রেমীরা চিৎকার করে বলল তারা অবলা পশুকে অত্যাচার করছে।"
+      },
+      {
+        "en": "Finally, the desperate pair tied the donkey's legs to a pole and carried the heavy animal over a bridge, where it panicked, fell into the river, and drowned.",
+        "bn": "উপায় না পেয়ে তারা বাঁশের সাথে গাধার পা বেঁধে কাঁধে তুলে হাঁটতে লাগল; কিন্তু সেতুর ওপর ছটফট করে গাধাটি পানিতে পড়ে ডুবে মারা গেল।"
+      },
+      {
+        "en": "If you try to please everyone around you, you will ultimately please nobody and lose everything you possess.",
+        "bn": "যদি তুমি সবাইকে খুশি করতে চাও, তবে শেষ পর্যন্ত কাউকেই খুশি করতে পারবে না এবং নিজের সর্বস্ব হারাবে।"
+      }
+    ]
+  },
+  {
+    "id": "moral-frog-deep-well",
+    "title": "The Frog in the Well and the Ocean Turtle",
+    "titleBn": "কূপের ব্যাঙ এবং সমুদ্রের কচ্ছপ",
+    "author": "Eastern Parable",
+    "level": "Intermediate",
+    "category": "Moral Tales",
+    "coverEmoji": "🌊",
+    "summary": "A narrow-minded well frog boasts of his tiny puddle until a sea creature describes the boundless expanse of the ocean.",
+    "summaryBn": "একটি পাতকুয়োর মধ্যে বাস করা অহংকারী ব্যাঙ সাগরের বিশালতার কথা শুনে কীভাবে স্তব্ধ হয়ে গিয়েছিল।",
+    "sentences": [
+      {
+        "en": "A green frog spent his entire life living at the bottom of an abandoned, mossy stone well in a rural village.",
+        "bn": "একটি সবুজ ব্যাঙ গ্রামের এক পুরনো স্যাঁতসেঁতে পাথরের পাতকুয়োর তলায় নিজের পুরো জীবন কাটিয়ে দিয়েছিল।"
+      },
+      {
+        "en": "He splashed happily in the shallow puddle of water and boasted that he was the absolute monarch of the entire world.",
+        "bn": "সে সামান্য একটু কাদাপানিতে লাফালাফি করত আর বড়াই করত যে সে-ই হলো এই পুরো দুনিয়ার একমাত্র অধিপতি।"
+      },
+      {
+        "en": "'Look at how grand my palace is!' the frog croaked. 'I have mud to rest on and a circle of blue sky above my head.'",
+        "bn": "'দেখো আমার প্রাসাদ কত বিশাল!' ব্যাঙটি ঘ্যাঙর ঘ্যাঙ করে বলত। 'আমার শোয়ার জন্য কাদা আছে আর মাথার ওপর গোল নীল আকাশ আছে।'"
+      },
+      {
+        "en": "One afternoon, a giant sea turtle who had traveled inland paused to rest against the stone lip of the well.",
+        "bn": "একদিন এক বিশাল সামুদ্রিক কচ্ছপ দূর সাগর থেকে পথ পেরিয়ে এসে সেই কুয়োর পাথুরে পাড়ে বিশ্রাম নিতে বসল।"
+      },
+      {
+        "en": "The frog invited the visitor to dive in, asking proudly if the turtle's homeland could possibly compare to such luxury.",
+        "bn": "ব্যাঙটি কচ্ছপকে নিচে নেমে আসার আমন্ত্রণ জানাল এবং গর্ব করে জিজ্ঞেস করল তার দেশ কি এই কুয়োর মতো এত সুন্দর?"
+      },
+      {
+        "en": "The turtle replied, 'The boundless ocean stretches for thousands of leagues; even nine years of flood cannot raise its surface, nor ten years of drought dry its depth.'",
+        "bn": "কচ্ছপটি উত্তর দিল, 'বিশাল সমুদ্র হাজার হাজার মাইল বিস্তৃত; টানা নয় বছর বন্যা হলেও তার পানি বাড়ে না, আর দশ বছর খরা হলেও তার গভীরতা শুকায় না।'"
+      },
+      {
+        "en": "Hearing of a vast, limitless expanse beyond his circular patch of sky, the arrogant frog fell into dumbfounded, humbled silence.",
+        "bn": "নিজের মাথার ওপরের গোল আকাশটুকুর বাইরে এমন এক সীমাহীন জগতের কথা শুনে অহংকারী ব্যাঙটি বিস্ময়ে বোবা হয়ে গেল।"
+      },
+      {
+        "en": "Those who never leave their small boundaries foolishly assume that their limited perspective encompasses all of existence.",
+        "bn": "যারা নিজের চেনা গণ্ডির বাইরে কখনো পা বাড়ায় না, তারা নিজেদের সামান্য ধারণাকেই পুরো পৃথিবী বলে ভুল করে।"
+      }
+    ]
+  },
+  {
+    "id": "moral-salt-merchant-donkey",
+    "title": "The Salt Merchant and His Lazy Donkey",
+    "titleBn": "লবণের বস্তা ও চালাক গাধার পরিণতি",
+    "author": "Aesop's Fables",
+    "level": "Intermediate",
+    "category": "Aesop's Fables",
+    "coverEmoji": "🧂",
+    "summary": "A sly pack animal tricks his owner by dissolving salt in a stream, until cotton bales teach him an unforgettable lesson.",
+    "summaryBn": "পানিতে বসে লবণ গলিয়ে বস্তা হালকা করার চালাকি করতে গিয়ে এক অলস গাধা তুলার ওজনে উপযুক্ত শিক্ষা পেয়েছিল।",
+    "sentences": [
+      {
+        "en": "A salt merchant bought heavy sacks of rock salt from coastal mines and loaded them onto his donkey to sell in the inland towns.",
+        "bn": "এক লবণ ব্যবসায়ী উপকূলের খনি থেকে লবণের ভারী বস্তা কিনে তা গাধার পিঠে চাপিয়ে দূরের শহরের বাজারে বিক্রির জন্য নিয়ে যেত।"
+      },
+      {
+        "en": "On their journey, they had to wade across a shallow, fast-flowing mountain river.",
+        "bn": "যাওয়ার পথে তাদের পাহাড়ি এক অগভীর খরস্রোতা নদী পার হতে হতো।"
+      },
+      {
+        "en": "One morning, the tired donkey slipped accidentally and fell into the deep water.",
+        "bn": "এক সকালে ক্লান্ত গাধাটির পা পিছলে গেল এবং সে গভীর পানির মধ্যে ধপাস করে পড়ে গেল।"
+      },
+      {
+        "en": "Before it scrambled back to its feet, much of the salt dissolved into the river, making the load miraculously light and easy to carry.",
+        "bn": "উঠে দাঁড়ানোর আগেই বস্তার অনেকখানি লবণ পানিতে গলে গেল, যার ফলে পিঠের বোঝাটি অলৌকিকভাবে হালকা হয়ে গেল।"
+      },
+      {
+        "en": "The delighted donkey realized this trick, and the next day, it deliberately plunged into the middle of the river to dump the weight.",
+        "bn": "গাধাটি এই সহজ বুদ্ধিটি মাথায় ঢুকিয়ে নিল এবং পরদিন নদীতে আসতেই ইচ্ছাকৃতভাবে পানির মাঝে ডুব দিয়ে বসল।"
+      },
+      {
+        "en": "The merchant saw through the dishonest trick and decided to teach his lazy animal a lesson it would never forget.",
+        "bn": "বণিক তার চালাকি ধরে ফেললেন এবং সিদ্ধান্ত নিলেন এই ফাঁকিবাজ পশুকে এমন এক শিক্ষা দেবেন যা সে কখনো ভুলবে না।"
+      },
+      {
+        "en": "On the third day, the merchant loaded the donkey's pack saddles with enormous bales of dry, fluffy cotton instead of salt.",
+        "bn": "তৃতীয় দিন ব্যবসায়ী লবণের বদলে শুকনো নরম তুলার বড় বড় বস্তা গাধার পিঠের ওপর বেঁধে দিলেন।"
+      },
+      {
+        "en": "The cunning donkey gleefully tumbled into the stream, but the cotton soaked up water like a sponge, doubling the weight and nearly breaking its spine.",
+        "bn": "চালাক গাধাটি খুশিমনে নদীতে ঝাঁপ দিল, কিন্তু তুলা স্পঞ্জের মতো পানি শুষে নিয়ে ওজনে দ্বিগুণ ভারী হয়ে গেল আর তার পিঠ ভেঙে যাওয়ার উপক্রম হলো!"
+      }
+    ]
+  },
+  {
+    "id": "moral-blind-man-lamp",
+    "title": "The Blind Man with the Lantern at Night",
+    "titleBn": "রাতের আঁধারে অন্ধ মানুষের লণ্ঠন",
+    "author": "Zen Wisdom",
+    "level": "Intermediate",
+    "category": "Moral Tales",
+    "coverEmoji": "🏮",
+    "summary": "A visually impaired man carries a bright lantern in the dark, not for his own guidance, but to safeguard careless sighted travelers.",
+    "summaryBn": "এক দৃষ্টিহীন মানুষ রাতের বেলা নিজের জন্য নয়, বরং চোখ থাকা পথচারীদের সুরক্ষার জন্য হাতে জ্বলন্ত প্রদীপ নিয়ে হাঁটতেন।",
+    "sentences": [
+      {
+        "en": "On a pitch-black moonless night, an old blind man walked steadily along a dark village lane carrying a burning oil lantern in his hand.",
+        "bn": "ঘুটঘুটে এক অমাবস্যার রাতে এক বৃদ্ধ দৃষ্টিহীন মানুষ হাতে জ্বলন্ত এক তেলের লণ্ঠন নিয়ে গ্রামের অন্ধকার মেঠোপথ দিয়ে হেঁটে যাচ্ছিলেন।"
+      },
+      {
+        "en": "A young villager returning from the bazaar saw him, stopped, and chuckled in condescending amusement.",
+        "bn": "বাজার থেকে ফেরা এক যুবক তাঁকে দেখে দাঁড়িয়ে পড়ল এবং কিছুটা তাচ্ছিল্যের হাসি দিয়ে উপহাস করল।"
+      },
+      {
+        "en": "'Old grandfather,' the young man mocked, 'day and night are completely identical to your blind eyes; what possible use is a lantern to you?'",
+        "bn": "'ওহে দাদু,' যুবকটি ব্যঙ্গ করে বলল, 'আপনার অন্ধ চোখের কাছে তো দিন আর রাত দুটোই সমান; এই জ্বলন্ত লণ্ঠন নিয়ে আপনার কী লাভ?'"
+      },
+      {
+        "en": "The blind man halted, smiled gently, and replied with serene patience: 'This light is not for my own path, young friend.'",
+        "bn": "বৃদ্ধ দাঁড়িয়ে শান্ত এক চিলতে হেসে বললেন: 'এই আলো তো আমার নিজের পথ দেখার জন্য নয়, তরুণ ভাই।'"
+      },
+      {
+        "en": "'I know every turn of this road by touch and memory; darkness has no power to make me stumble.'",
+        "bn": "'এই পথের প্রতিটি বাঁক আমার স্পর্শ আর স্মৃতির চেনা; অন্ধকারের সাধ্য নেই আমাকে হোঁচট খাওয়ানোর।'"
+      },
+      {
+        "en": "'I carry this bright flame so that careless sighted fools like you will not crash blindly into me in the dark.'",
+        "bn": "'আমি এই জ্বলন্ত প্রদীপটি হাতে নিয়ে চলি যাতে তোমার মতো চোখ থাকা অসাবধান মানুষরা অন্ধকারে এসে আমার ওপর আছড়ে না পড়ে।'"
+      },
+      {
+        "en": "The young man hung his head in deep embarrassment, recognizing the profound foresight of the wise elder.",
+        "bn": "লজ্জায় যুবকের মাথা নিচু হয়ে গেল; সে বুঝতে পারল বৃদ্ধের এই দূরদর্শিতার পেছনে কত গভীর চিন্তা লুকিয়ে ছিল।"
+      },
+      {
+        "en": "True consideration for others involves acting with foresight to protect our community from harm they may not even anticipate.",
+        "bn": "অন্যের প্রতি প্রকৃত যত্ন হলো এমন দূরদর্শী পদক্ষেপ নেওয়া যা মানুষকে নিজের অজান্তেই বড় বিপদ থেকে রক্ষা করে।"
+      }
+    ]
+  },
+  {
+    "id": "moral-two-pots-river",
+    "title": "The Brass Pot and the Earthen Pot",
+    "titleBn": "পিতলের কলসি ও মাটির কলসির বন্ধুত্ব",
+    "author": "Aesop's Fables",
+    "level": "Intermediate",
+    "category": "Aesop's Fables",
+    "coverEmoji": "🏺",
+    "summary": "An alliance between the fragile and the powerful always endangers the vulnerable partner during rough waters.",
+    "summaryBn": "দুর্বল আর অতিরিক্ত শক্তিশালীদের ঘনিষ্ঠতায় উত্তাল স্রোতের মুখে সবসময় দুর্বল পক্ষকেই ধ্বংস হতে হয়।",
+    "sentences": [
+      {
+        "en": "A sudden river flood washed away kitchen wares from a riverside village, sweeping two pots into the rushing current.",
+        "bn": "নদীর আকস্মিক বন্যায় গ্রামের এক রান্নাঘরের জিনিসপত্র ভেসে গেল এবং দুটি কলসি তীব্র স্রোতের মুখে ভেসে চলল।"
+      },
+      {
+        "en": "One pot was forged of gleaming, heavy brass, while the other was molded of fragile, baked earthenware clay.",
+        "bn": "একটি কলসি তৈরি ছিল শক্ত ও চকচকে পিতল দিয়ে, আর অন্যটি ছিল ভঙ্গুর ও পোড়ামাটির তৈরি।"
+      },
+      {
+        "en": "The brass pot called out warmly across the waves: 'Float close to me, dear neighbor! I will protect your delicate clay body from rocks.'",
+        "bn": "পিতলের কলসিটি ঢেউয়ের মধ্য থেকে ডেকে বলল: 'আমার কাছে ঘেঁষে সাঁতরাও বন্ধু! আমি পাথরের ধাক্কা থেকে তোমার মাটির শরীরকে রক্ষা করব।'"
+      },
+      {
+        "en": "The wise earthen pot paddled hard to maintain a wide, safe distance from the heavy metallic vessel.",
+        "bn": "জ্ঞানী মাটির কলসিটি তখন প্রাণপণে চেষ্টা করে সেই ভারী ধাতব কলসি থেকে নিরাপদ দূরত্ব বজায় রেখে সাঁতরাতে লাগল।"
+      },
+      {
+        "en": "'Thank you for your kind offer,' replied the earthen pot, 'but I am far safer floating alone than beside your sturdy bulk.'",
+        "bn": "'তোমার দয়ার জন্য ধন্যবাদ,' মাটির কলসি উত্তর দিল, 'কিন্তু তোমার মতো শক্তিশালীর পাশে থাকার চেয়ে একা একা ভেসে থাকাই আমার জন্য অনেক নিরাপদ।'"
+      },
+      {
+        "en": "'Whether a stone strikes me, or your hard brass side collides with me in the swirling rapids, it is always my fragile clay that shatters.'",
+        "bn": "'কারণ নদীর পাথরই আমাকে আঘাত করুক কিংবা ঢেউয়ের তোড়ে তোমার পিতলের শরীর আমার সাথে ধাক্কা খাক, ভেঙে গুঁড়ো তো হতে হবে এই মাটির শরীরকেই!'"
+      },
+      {
+        "en": "Unequal companionships in dangerous situations frequently bring ruin to the weaker partner, no matter how good the intentions.",
+        "bn": "বিপদের মুখে অসম শক্তির বন্ধুত্বে ভালো উদ্দেশ্য থাকলেও সবসময় দুর্বল পক্ষেরই ধ্বংস নেমে আসে।"
+      },
+      {
+        "en": "True safety lies in knowing one's vulnerabilities and choosing associations with those who respect our delicate nature.",
+        "bn": "নিজের সীমাবদ্ধতা বুঝে চলা এবং নিজের যোগ্যতার সাথে সামঞ্জস্যপূর্ণ পরিবেশ বেছে নেওয়াই হলো প্রকৃত বুদ্ধিমত্তা।"
+      }
+    ]
+  },
+  {
+    "id": "moral-two-frogs-milk-churn",
+    "title": "The Two Frogs in the Churn of Milk",
+    "titleBn": "দুধের পাত্রে দুই ব্যাঙের সাঁতার",
+    "author": "Aesop's Moral",
+    "level": "Intermediate",
+    "category": "Moral Tales",
+    "coverEmoji": "🧈",
+    "summary": "One frog despairs and drowns, while the other kicks tirelessly until the milk churns into solid butter.",
+    "summaryBn": "হতাশ হয়ে এক ব্যাঙ ডুবে মরল, কিন্তু অন্যটি হাল না ছেড়ে পা নেড়ে নেড়ে দুধকে মাখনে পরিণত করে লাফিয়ে পালাল।",
+    "sentences": [
+      {
+        "en": "Two adventurous frogs slipped into a dairy pantry and accidentally fell into a deep metal churn half-filled with rich cream.",
+        "bn": "দুটি দুরন্ত ব্যাঙ এক মিষ্টির দোকানে ঢুকে অসাবধানতাবশত ঘন দুধ ও ছানায় আধভরা এক গভীর পাত্রের মধ্যে পড়ে গেল।"
+      },
+      {
+        "en": "The metal sides were slippery and steep, giving their sticky toes no foothold to leap back out to freedom.",
+        "bn": "পাত্রের ভেতরের দেয়াল ছিল মসৃণ ও পিচ্ছিল, ফলে তাদের পায়ের পাতা দিয়ে বাইরে লাফ দেওয়ার কোনো অবলম্বন মিলল না।"
+      },
+      {
+        "en": "Both frogs paddled frantically with their webbed feet, trying to keep their noses above the creamy liquid.",
+        "bn": "দুটি ব্যাঙই তখন প্রাণপণে পা নেড়ে সাঁতরাতে লাগল যাতে দুধের ওপরে তাদের নাক ভাসিয়ে রাখতে পারে।"
+      },
+      {
+        "en": "After an hour, the first frog grew tired and cried, 'It is completely useless! We cannot climb out, and nobody will hear us.'",
+        "bn": "এক ঘণ্টা পর প্রথম ব্যাঙটি ক্লান্ত হয়ে বলল, 'চেষ্টা করে কোনো লাভ নেই! আমরা উঠতে পারব না আর কেউ আমাদের বাঁচাবেও না।'"
+      },
+      {
+        "en": "Losing all hope, the first frog gave up struggling, sank to the dark bottom, and drowned in despair.",
+        "bn": "সব আশা হারিয়ে প্রথম ব্যাঙটি সাঁতার কাটা বন্ধ করে দিল এবং হতাশার মাঝে পাত্রের তলায় ডুবে প্রাণ হারাল।"
+      },
+      {
+        "en": "The second frog refused to surrender: 'I may not see a way out right now, but as long as I have breath, I will keep kicking!'",
+        "bn": "কিন্তু দ্বিতীয় ব্যাঙটি হাল ছাড়তে রাজি হলো না: 'আমি হয়তো এখনই মুক্তির পথ দেখতে পাচ্ছি না, কিন্তু যতক্ষণ শ্বাস আছে আমি পা চালিয়ে যাব!'"
+      },
+      {
+        "en": "It paddled tirelessly through the night, churning the thick milk until its constant kicking whipped the cream into solid butter.",
+        "bn": "সে সারারাত ধরে একটানা পা চালিয়ে গেল, আর তার অবিরাম নড়াচড়ায় দুধের সর জমে এক শক্ত মাখনের পিণ্ডে পরিণত হলো!"
+      },
+      {
+        "en": "Standing firmly upon the solid butter island, the brave frog leaped clean out of the churn into the morning sunshine.",
+        "bn": "মাখনের সেই শক্ত ভিত্তির ওপর ভর দিয়ে সাহসী ব্যাঙটি এক লাফে পাত্র থেকে বের হয়ে সকালের রোদমাখা স্বাধীনতায় ফিরে গেল।"
+      }
+    ]
+  },
+  {
+    "id": "moral-king-and-ring",
+    "title": "The King's Ring: Even This Shall Pass Away",
+    "titleBn": "এই দিনও একদিন কেটে যাবে",
+    "author": "Eastern Wisdom",
+    "level": "Intermediate",
+    "category": "Moral Tales",
+    "coverEmoji": "💍",
+    "summary": "A timeless five-word inscription keeps a mighty ruler humble in triumph and calm in tragedy.",
+    "summaryBn": "একটি আংটিতে খোদাই করা ছোট একটি বাক্য রাজাকে বিপদে যেমন সাহস দিয়েছিল, তেমনি বিজয়ের দিনেও বিনয়ী রেখেছিল।",
+    "sentences": [
+      {
+        "en": "A powerful eastern monarch summoned all the wisest philosophers and astrologers of his empire to the royal palace.",
+        "bn": "প্রাচ্যের এক শক্তিশালী রাজা তাঁর সাম্রাজ্যের সেরা জ্ঞানী দার্শনিক ও পণ্ডিতদের রাজপ্রাসাদে ডেকে পাঠালেন।"
+      },
+      {
+        "en": "He commanded them: 'Craft me an enchanted ring bearing an inscription that will comfort me in deepest sorrow and humble me in greatest joy.'",
+        "bn": "তিনি হুকুম দিলেন: 'আমাকে এমন একটি আংটি বানিয়ে দাও যাতে এমন কিছু লেখা থাকবে যা চরম দুঃখে আমাকে সান্ত্বনা দেবে আর চরম আনন্দে আমাকে বিনয়ী রাখবে।'"
+      },
+      {
+        "en": "For months, the sages deliberated, debating profound philosophies from ancient scrolls without finding the perfect words.",
+        "bn": "কয়েক মাস ধরে পণ্ডিতরা প্রাচীন পুঁথিপত্র ঘেঁটে আলোচনা করলেন, কিন্তু মনের মতো উপযুক্ত কথা কিছুতেই খুঁজে পাচ্ছিলেন না।"
+      },
+      {
+        "en": "Finally, a venerable old dervish approached the throne and presented a simple gold band engraved with five quiet words.",
+        "bn": "অবশেষে এক বৃদ্ধ দরবেশ রাজার সামনে এসে একটি সাধারণ সোনার আংটি উপহার দিলেন যার গায়ে খোদাই করা ছিল মাত্র পাঁচটি শব্দ।"
+      },
+      {
+        "en": "The words read: 'Even this shall pass away.'",
+        "bn": "সেই কথাগুলো ছিল: 'এই দিনও একদিন কেটে যাবে।'"
+      },
+      {
+        "en": "When enemies laid siege to his kingdom and tragedy struck his family, the king looked at the ring and found courage to endure.",
+        "bn": "যখন শত্রুরা রাজ্য আক্রমণ করল আর পরিবারে শোক নেমে এলো, রাজা আংটির দিকে তাকিয়ে ধৈর্য ধরার অসীম শক্তি পেলেন।"
+      },
+      {
+        "en": "When he celebrated triumphant military parades amidst shower of gold coins, the ring reminded him that worldly pride is transient.",
+        "bn": "আর যখন জয়ধ্বনি আর সোনার মুদ্রার বৃষ্টিতে বিজয় উদযাপিত হচ্ছিল, তখন সেই আংটিই তাঁকে মনে করিয়ে দিল পার্থিব অহংকার চিরস্থায়ী নয়।"
+      },
+      {
+        "en": "Everything in life—both joyful peaks and painful valleys—is temporary; true peace lies in equanimity.",
+        "bn": "জীবনের প্রতিটি মুহূর্ত—সুখের জোয়ার হোক কিংবা দুঃখের ভাটা—সবই ক্ষণস্থায়ী; মনের আসল শান্তি নিহিত থাকে অবিচল শান্তিতে।"
+      }
+    ]
+  },
+  {
+    "id": "moral-camel-and-tent",
+    "title": "The Camel and the Arab's Tent",
+    "titleBn": "শীতের রাতে উট ও বেদুইনের তাঁবু",
+    "author": "Arabian Fable",
+    "level": "Intermediate",
+    "category": "Moral Tales",
+    "coverEmoji": "⛺",
+    "summary": "Small, unchecked compromises gradually displace reasonable boundaries until total ruin follows.",
+    "summaryBn": "সামান্য একটু ছাড় দিতে গিয়ে কীভাবে এক দয়ালু বেদুইন শেষ পর্যন্ত নিজের তাঁবু থেকেই বিতাড়িত হয়ে কনকনে শীতে বরফ হয়েছিল।",
+    "sentences": [
+      {
+        "en": "On a freezing winter night in the desert, an Arab pitched his warm canvas tent and lit a cozy campfire inside.",
+        "bn": "মরুভূমির এক কনকনে শীতের রাতে এক আরব বেদুইন তার গরম কাপড়ের তাঁবু খাটাল এবং ভেতরে আরামদায়ক আগুন জ্বালাল।"
+      },
+      {
+        "en": "His camel, tied outside in the biting gale, poked its nose through the tent flap and pleaded shivering: 'Master, allow me to put just my cold nose inside.'",
+        "bn": "বাইরে শীতে কাঁপতে থাকা উটটি তাঁবুর পর্দা ফাঁক করে নাক ঢুকিয়ে মিনতি করল: 'মালিক, তীব্র শীতে জমে যাচ্ছি, দয়া করে শুধু আমার ঠান্ডা নাকটুকু ভেতরে রাখতে দিন।'"
+      },
+      {
+        "en": "Thinking a nose occupied no meaningful space, the compassionate owner kindly permitted the request.",
+        "bn": "সামান্য একটু নাকে তো আর জায়গা লাগবে না ভেবে দয়ালু মালিক হাসিমুখে অনুমতি দিলেন।"
+      },
+      {
+        "en": "An hour later, the camel nudged further: 'Sire, my long neck is freezing; may I warm my head and neck inside as well?'",
+        "bn": "এক ঘণ্টা পর উটটি আবার বলল: 'মালিক, আমার লম্বা গলাটা শীতে অসাড় হয়ে যাচ্ছে; আমি কি মাথা আর গলাটা ভেতরে নিতে পারি?'"
+      },
+      {
+        "en": "Again the gentle owner yielded, shifting his bedding closer to the back corner to make room for the animal's neck.",
+        "bn": "মালিক আবারও দয়া দেখিয়ে নিজের বিছানা একটু পেছনের দিকে টেনে নিয়ে উটের গলার জন্য জায়গা করে দিলেন।"
+      },
+      {
+        "en": "By midnight, the camel stepped its front legs inside, and soon after pushed its massive hump and hindquarters entirely into the shelter.",
+        "bn": "মধ্যরাত হতে না হতেই উটটি তার সামনের পা দুটো ভেতরে ঢোকাল, আর কিছুক্ষণের মধ্যেই তার বিশাল কুঁজ ও পেছনের অংশ নিয়ে পুরোটা তাঁবুর ভেতর ঢুকে পড়ল।"
+      },
+      {
+        "en": "The tent was far too small for both; turning around, the rude beast kicked the owner out into the freezing wind, saying: 'There is only room for one here!'",
+        "bn": "তাঁবুতে দুজনের জায়গা ছিল না; বেয়াদব উটটি ঘুরে দাঁড়িয়ে মালিককে লাথি মেরে কনকনে ঠান্ডায় বাইরে ফেলে দিয়ে বলল: 'এখানে কেবল একজনেরই জায়গা হবে!'"
+      },
+      {
+        "en": "Never permit destructive influences to gain a small foothold in your life, for small concessions soon lead to total invasion.",
+        "bn": "নিজের জীবনে খারাপ বা অনাকাঙ্ক্ষিত বিষয়কে কখনোই সামান্য ছাড় দিতে নেই, কারণ ছোট ছাড়ই একসময় সর্বনাশের কারণ হয়ে দাঁড়ায়।"
+      }
+    ]
+  },
+  {
+    "id": "moral-heron-and-crab",
+    "title": "The Cunning Heron and the Clever Crab",
+    "titleBn": "বকের ভণ্ডামি ও বুদ্ধিমান কাঁকড়া",
+    "author": "Panchatantra",
+    "level": "Intermediate",
+    "category": "Panchatantra",
+    "coverEmoji": "🦀",
+    "summary": "A deceptive bird feigns compassion to feast on pond fish, until he carries a passenger with sharp pincers.",
+    "summaryBn": "সব মাছকে উদ্ধারের ভান করে একে একে খেয়ে ফেলা এক ভণ্ড বক কীভাবে একটি কাঁকড়ার সাঁড়াশি কামড়ে প্রাণ হারাল।",
+    "sentences": [
+      {
+        "en": "An old heron living beside a shallow lotus pond grew too weak to catch swift-swimming fish with his beak.",
+        "bn": "এক পদ্মপুকুরের পাড়ে বাস করা এক বুড়ো বক বয়সের ভারে দুর্বল হয়ে দ্রুত সাঁতরে চলা মাছ শিকারের ক্ষমতা হারিয়ে ফেলল।"
+      },
+      {
+        "en": "He stood by the bank looking heartbroken, shedding hypocritical tears until the worried fish asked what troubled him.",
+        "bn": "সে পাড়ে দাঁড়িয়ে মনমরা হয়ে চোখের জল ফেলতে লাগল, যতক্ষণ না চিন্তিত মাছেরা এসে জিজ্ঞেস করল তার কী হয়েছে।"
+      },
+      {
+        "en": "The sly heron sighed: 'Fishermen are arriving tomorrow with massive drag-nets to drain this pool and kill every living creature!'",
+        "bn": "ধূর্ত বক দীর্ঘশ্বাস ফেলে বলল: 'কাল সকালে জেলেরা বিশাল জাল নিয়ে এসে এই পুকুরের সব পানি সেচে তোমাদের সবাইকে মেরে ফেলবে!'"
+      },
+      {
+        "en": "The panicked fishes begged for help, and the heron offered to fly them one by one to a deep, safe mountain lake.",
+        "bn": "ভয়ে কাতর হয়ে মাছেরা উদ্ধারের আকুল মিনতি জানাল, আর বক পরম দয়ালু সেজে বলল সে একে একে সবাইকে দূরের এক গভীর পাহাড়ি হ্রদে নিয়ে যাবে।"
+      },
+      {
+        "en": "Each day, the deceitful bird carried a mouthful of fishes to a distant rocky cliff, devouring them greedily and leaving a pile of white bones.",
+        "bn": "প্রতিদিন ভণ্ড পাখিটি মুখে করে কিছু মাছ পাহাড়ি পাথরের ওপর নিয়ে মনের আনন্দে খেয়ে ফেলত এবং সেখানে মাছের কাঁটার স্তূপ জমে উঠল।"
+      },
+      {
+        "en": "Finally, a wise crab asked for a ride, and the heron gladly agreed, dreaming of a crunchy gourmet snack.",
+        "bn": "সবশেষে এক বুদ্ধিমান কাঁকড়া পাহাড়ি হ্রদে যাওয়ার অনুরোধ করল, আর বক ভাবল আজ এক মচমচে খাবারের স্বাদ নেওয়া যাবে।"
+      },
+      {
+        "en": "As they flew near the cliff, the crab spotted the mountains of gleaming fish bones and instantly realized the bird's monstrous treachery.",
+        "bn": "পাথরের ওপর দিয়ে ওড়ার সময় কাঁকড়াটি নিচে মাছের শত শত কঙ্কাল দেখতে পেল এবং মুহূর্তেই বকের ভয়ংকর প্রতারণা বুঝতে পারল।"
+      },
+      {
+        "en": "Before the heron could land, the crab locked its powerful sharp pincers around the bird's slender neck and snapped it in two, saving the remaining pond.",
+        "bn": "বক নিচে নামার আগেই কাঁকড়াটি তার ধারালো সাঁড়াশি দিয়ে বকের সরু গলা এমন শক্ত করে চেপে ধরল যে বকটি মরে ঢলে পড়ল, আর বাকি মাছেরা বেঁচে গেল।"
+      }
+    ]
+  },
+  {
+    "id": "moral-sparrows-nest-storm",
+    "title": "The Birds' Nest and the Cold Monkey",
+    "titleBn": "শীতে কাঁপতে থাকা বানর ও চড়ুইয়ের বাসা",
+    "author": "Hitopadesha",
+    "level": "Intermediate",
+    "category": "Panchatantra",
+    "coverEmoji": "🐒",
+    "summary": "Giving well-meaning advice to a foolish, arrogant person only invites destruction and spiteful anger.",
+    "summaryBn": "অহংকারী ও নির্বোধকে ভালো উপদেশ দিতে গেলে কীভাবে উপকারের বদলে চরম ক্ষতি ও ক্ষোভের শিকার হতে হয়।",
+    "sentences": [
+      {
+        "en": "During a torrential monsoon downpour, a flock of industrious sparrows sat comfortably inside their warm, woven grass nests high in a mango tree.",
+        "bn": "বর্ষার এক মুষলধারে বৃষ্টির দিনে একদল পরিশ্রমী চড়ুই পাখি আমগাছের ডালে বোনা নিজেদের শুকনো ও উষ্ণ বাসার ভেতর আরামে বসে ছিল।"
+      },
+      {
+        "en": "A drenched monkey sat shivering beneath the leaves on an adjacent branch, teeth chattering uncontrollably from the freezing wind.",
+        "bn": "পাশের ডালে বসে এক কাকভেজা বানর শীতে থরথর করে কাঁপছিল এবং ঠান্ডার চোটে তার দাঁতে দাঁত লেগে ঠকঠক আওয়াজ হচ্ছিল।"
+      },
+      {
+        "en": "Looking at the miserable beast, a mother sparrow felt pity and chirped gently from her cozy doorway.",
+        "bn": "সেই করুণ দশা দেখে এক মা চড়ুইয়ের মায়া হলো এবং সে নিজের আরামদায়ক বাসার মুখ থেকে মিষ্টি সুরে ডেকে বলল।"
+      },
+      {
+        "en": "'Brother monkey,' she advised, 'you possess two strong hands and nimble feet just like human beings; why did you not build a dry shelter for your family?'",
+        "bn": "'বানর ভাই,' সে বলল, 'মানুষের মতো তোমারও তো দুটো শক্ত হাত আর পা রয়েছে; শুকনো মৌসুমে নিজের জন্য একটা শুকনো ঘর কেন বানিয়ে রাখোনি?'"
+      },
+      {
+        "en": "'Instead of idling your days away leaping from bough to bough, you could have prepared for the winter rains.'",
+        "bn": "'দিনভর ডালে ডালে অযথা লাফিয়ে সময় নষ্ট না করে তুমি বর্ষার দিনের জন্য একটু প্রস্তুতি নিতে পারতে।'"
+      },
+      {
+        "en": "The arrogant monkey took this sensible advice as an intolerable insult from a creature smaller than his fist.",
+        "bn": "অহংকারী বানর নিজের চেয়ে হাতের মুঠির সমান ছোট এক পাখির এই খাঁটি উপদেশকে এক চরম অপমান বলে ধরে নিল।"
+      },
+      {
+        "en": "Snarling with rage, the vicious animal scrambled up the tree, grabbed the delicate woven nest, and tore it to shreds in malicious spite.",
+        "bn": "রাগে দাঁত কিড়মিড় করে হিংস্র প্রাণীটি উপরে উঠে এলো এবং সেই সুন্দর বাসাটি এক টানে ছিঁড়ে কুটিকুটি করে মাটিতে ফেলে দিল।"
+      },
+      {
+        "en": "Never offer uninvited counsel to the foolish and proud, for truth only kindles anger in an arrogant heart.",
+        "bn": "অহংকারী ও মূর্খকে কখনো অযাচিত উপদেশ দিতে যেও না, কারণ সত্য কথা তাদের বিবেক জাগানোর বদলে শুধুই ক্রোধ বাড়িয়ে তোলে।"
+      }
+    ]
+  },
+  {
+    "id": "moral-three-axes-river",
+    "title": "The Woodcutter and the River Fairy",
+    "titleBn": "নদীর জলপরী ও তিন কুড়াল",
+    "author": "Aesop's Fables",
+    "level": "Intermediate",
+    "category": "Aesop's Fables",
+    "coverEmoji": "🪓",
+    "summary": "Honesty brings divine blessings, while greedy imitation receives nothing but empty-handed shame.",
+    "summaryBn": "সততার পুরস্কার হিসেবে এক কাঠুরে খাঁটি সোনা ও রূপার কুড়াল পেলেও লোভীর কপালে জুটেছিল শুধু লজ্জা ও শূন্য হাত।",
+    "sentences": [
+      {
+        "en": "An honest, poor woodcutter was felling an oak tree beside a deep, swirling river when his iron axe head slipped from the handle and splashed into the water.",
+        "bn": "এক সৎ ও গরিব কাঠুরে গভীর নদীর তীরে একটি ওক গাছ কাটছিল, হঠাৎ কুড়ালের লোহার মাথাটি হাতল থেকে খসে সোজা নদীর পানিতে পড়ে গেল।"
+      },
+      {
+        "en": "Having no money to purchase a replacement tool to feed his children, the poor man sat upon the bank and wept bitter tears.",
+        "bn": "বাচ্চাদের মুখে অন্ন জোগানোর একমাত্র সম্বল হারিয়ে নতুন কুড়াল কেনার টাকা না থাকায় সেই গরিব মানুষটি নদীর পাড়ে বসে কাঁদতে লাগল।"
+      },
+      {
+        "en": "Pitying his sorrow, the shimmering River Fairy emerged from the foaming water and asked the cause of his lamentation.",
+        "bn": "তার কান্না দেখে মায়া হওয়ায় নদীর জলপরী ঢেউয়ের বুক চিরে ভেসে উঠল এবং তার দুঃখের কারণ জিজ্ঞেস করল।"
+      },
+      {
+        "en": "Diving into the river bed, she brought up a dazzling axe made of solid gold, but the woodcutter said: 'That is not mine.'",
+        "bn": "নদীর গভীরে ডুব দিয়ে সে এক খাঁটি সোনার চোখধাঁধানো কুড়াল তুলে আনল, কিন্তু কাঠুরে বলল: 'না, এটি তো আমার নয়।'"
+      },
+      {
+        "en": "She dove a second time and presented a gleaming silver axe, which the honest man also truthfully declined.",
+        "bn": "দ্বিতীয়বার ডুব দিয়ে জলপরী এক চকচকে রূপার কুড়াল নিয়ে এলো, কিন্তু সৎ কাঠুরে সেটিকেও নিজের নয় বলে ফিরিয়ে দিল।"
+      },
+      {
+        "en": "On her third dive, she brought up his old, battered iron axe; overjoyed, the woodcutter thanked her with genuine gratitude.",
+        "bn": "তৃতীয়বার সে তার সেই পুরনো মরচে ধরা লোহার কুড়ালটি তুলে আনল; আনন্দে আত্মহারা হয়ে কাঠুরে কৃতজ্ঞতাভরে সেটি গ্রহণ করল।"
+      },
+      {
+        "en": "Delighted by his pure honesty, the fairy gifted him both the gold and silver axes alongside his own.",
+        "bn": "তার এমন নির্লোভ সততায় মুগ্ধ হয়ে জলপরী উপহার হিসেবে সোনার এবং রূপার দুটি কুড়ালই তাকে দিয়ে দিল।"
+      },
+      {
+        "en": "When an envious neighbor deliberately tossed his axe into the river and falsely claimed the golden axe, the fairy vanished forever, leaving him with nothing.",
+        "bn": "এ খবর শুনে এক লোভী প্রতিবেশী ইচ্ছাকৃতভাবে নিজের কুড়াল নদীতে ফেলে সোনার কুড়ালটি দাবি করতেই জলপরী চিরতরে উধাও হয়ে গেল, আর লোভী মানুষটি শূন্যহাতে ফিরে এলো।"
+      }
+    ]
+  }
+]

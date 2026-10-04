@@ -1,0 +1,617 @@
+[
+  {
+    "id": "mallory-irvine-everest-1924",
+    "title": "Mallory and Irvine: The Ghosts of the Second Step",
+    "titleBn": "ম্যালরি ও আরভিন: সেকেন্ড স্টেপের অমর ছায়া",
+    "author": "Alpine Heritage Society",
+    "level": "Intermediate",
+    "category": "Adventure & Survival",
+    "coverEmoji": "🏔️",
+    "summary": "George Mallory and Andrew Irvine vanish into the high mists of Mount Everest in 1924, creating mountaineering's greatest enduring riddle.",
+    "summaryBn": "১৯২৪ সালে জর্জ ম্যালরি ও অ্যান্ড্রু আরভিন মাউন্ট এভারেস্টের উচ্চ মেঘমালার মাঝে বিলীন হয়ে পর্বতারোহণের বৃহত্তম অমীমাংসিত রহস্য সৃষ্টি করেন।",
+    "sentences": [
+      {
+        "en": "In June 1924, British mountaineers George Mallory and Andrew Irvine launched their final assault on the unconquered summit of Mount Everest.",
+        "bn": "১৯২৪ সালের জুনে ব্রিটিশ পর্বতারোহী জর্জ ম্যালরি এবং অ্যান্ড্রু আরভিন মাউন্ট এভারেস্টের অপরাজিত চূড়া জয়ের উদ্দেশ্যে শেষ অভিযান শুরু করেন।"
+      },
+      {
+        "en": "Equipped with rudimentary tweed jackets, hobnailed leather boots, and cumbersome experimental oxygen apparatus, they ascended the Northeast Ridge.",
+        "bn": "সাধারণ টুইডের পোশাক, পেরেক লাগানো চামড়ার বুট এবং ভারী আদিম অক্সিজেন সিলিন্ডারে সজ্জিত হয়ে তারা উত্তর-পূর্ব শৈলশিরা বেয়ে ওপরে ওঠেন।"
+      },
+      {
+        "en": "From below, expedition teammate Noel Odell caught a fleeting glimpse through parting storm clouds: two tiny silhouettes moving vigorously near the Second Step.",
+        "bn": "নিচ থেকে তাদের সহযাত্রী নোয়েল ওডেল মেঘের ফাঁক দিয়ে এক ঝলক দেখতে পান: সেকেন্ড স্টেপের কাছে দুটি ক্ষুদে অবয়ব দ্রুতগতিতে চূড়ার দিকে এগিয়ে চলেছে।"
+      },
+      {
+        "en": "Moments later, the swirling blizzard engulfed the ridge once more, and neither mountaineer was ever seen alive again.",
+        "bn": "মুহূর্তের মধ্যে ধেয়ে আসা তুষারঝড় আবার পুরো শৈলশিরা গ্রাস করে ফেলে, এবং এরপর আর কোনো দিন ওই দুই পর্বতারোহীকে জীবিত দেখা যায়নি।"
+      },
+      {
+        "en": "For seventy-five years, historians debated whether the pair had reached the summit twenty-nine years before Edmund Hillary and Tenzing Norgay.",
+        "bn": "পঁচাত্তর বছর ধরে ঐতিহাসিকদের মধ্যে বিতর্ক চলেছে যে এই জুটি হিলারি ও তেনজিংয়ের ২৯ বছর আগেই চূড়ায় পৌঁছাতে পেরেছিলেন কিনা।"
+      },
+      {
+        "en": "In 1999, an expedition discovered Mallory's sun-bleached body at 26,700 feet, his climbing rope snapped around his waist.",
+        "bn": "১৯৯৯ সালে এক অনুসন্ধানকারী দল ২৬,৭০০ ফুট উচ্চতায় ম্যালরির রোদ-ঝলসানো অক্ষত মরদেহ পায়, যার কোমরে পর্বতারোহণের দড়িটি ছেঁড়া অবস্থায় ছিল।"
+      },
+      {
+        "en": "Crucially, the photograph of his beloved wife Ruth, which he had promised to leave on the summit, was missing from his pocket.",
+        "bn": "সবচেয়ে বড় রহস্য হলো তার প্রিয়তমা স্ত্রী রুথের যে ছবিটি চূড়ায় রেখে আসবেন বলে কথা দিয়েছিলেন, তা তার পকেটে পাওয়া যায়নি।"
+      }
+    ]
+  },
+  {
+    "id": "herzog-lachenal-annapurna-1950",
+    "title": "Annapurna 1950: The Agony of the First Eight-Thousander",
+    "titleBn": "অন্নপূর্ণা ১৯৫০: প্রথম আট হাজারী শৃঙ্গজয়ের মহাকাব্যিক যন্ত্রণা",
+    "author": "Himalayan Exploration Guild",
+    "level": "Intermediate",
+    "category": "Adventure & Survival",
+    "coverEmoji": "🧗",
+    "summary": "Maurice Herzog and Louis Lachenal achieve the first human ascent of an 8,000-meter peak, enduring horrific frostbite on their descent.",
+    "summaryBn": "মরিস হেরজগ ও লুই লাশেনাল প্রথম মানব হিসেবে ৮,০০০ মিটার উচ্চতার শৃঙ্গ জয় করেন এবং নামার সময় ভয়াবহ তুষারক্ষতের যন্ত্রণা সহ্য করেন।",
+    "sentences": [
+      {
+        "en": "In the spring of 1950, a French expedition led by Maurice Herzog ventured into the unmapped wilderness of the Nepalese Himalayas.",
+        "bn": "১৯৫০ সালের বসন্তে মরিস হেরজগের নেতৃত্বে একটি ফরাসি অভিযাত্রী দল নেপাল হিমালয়ের মানচিত্রহীন দুর্গম অঞ্চলে পাড়ি জমায়।"
+      },
+      {
+        "en": "Without modern satellite imagery or verified topographical charts, they spent weeks searching for a feasible route up Annapurna I.",
+        "bn": "আধুনিক উপগ্রহের ছবি বা সঠিক ভৌগোলিক মানচিত্র ছাড়া তারা অন্নপূর্ণা-১ শৃঙ্গে ওঠার এক উপযুক্ত পথ খুঁজে পেতে কয়েক সপ্তাহ ব্যয় করেন।"
+      },
+      {
+        "en": "On June 3, 1950, Herzog and guide Louis Lachenal pushed through extreme hypoxia to plant the French tricolor upon the summit.",
+        "bn": "১৯৫০ সালের ৩ জুন হেরজগ ও গাইড লুই লাশেনাল চরম অক্সিজেনের ঘাটতি উপেক্ষা করে শৃঙ্গের শীর্ষে ফরাসি তেরঙ্গা পতাকা উত্তোলন করেন।"
+      },
+      {
+        "en": "It was the first time in human history that a mountain exceeding eight thousand meters in altitude had been successfully summited.",
+        "bn": "মানব ইতিহাসে এটিই ছিল প্রথমবার যখন আট হাজার মিটারেরও বেশি উচ্চতার কোনো পর্বতশৃঙ্গ সফলভাবে জয় করা সম্ভব হয়েছিল।"
+      },
+      {
+        "en": "However, the triumph instantly transformed into a desperate battle for survival when a violent storm struck during their descent.",
+        "bn": "তবে শৃঙ্গ থেকে নামার সময় এক বিধ্বংসী তুষারঝড় আঘাত হানলে এই বিজয় নিমেষেই এক চরম জীবন-মরণ সংগ্রামে রূপ নেয়।"
+      },
+      {
+        "en": "Having lost his gloves on the summit ridge, Herzog suffered catastrophic frostbite in his hands, while Lachenal's feet turned black and gangrenous.",
+        "bn": "চূড়ায় গ্লাভস হারিয়ে ফেলায় হেরজগের উভয় হাত মারাত্মক ফ্রস্টবাইটে আক্রান্ত হয় এবং লাশেনালের দুটি পা পচে কালো হয়ে গ্যাংগ্রিন দেখা দেয়।"
+      },
+      {
+        "en": "Carried down the mountain by devoted Sherpas while undergoing amputations in field tents, Herzog authored his immortal memoir concluding: 'There are other Annapurnas in the lives of men.'",
+        "bn": "নিবেদিতপ্রাণ শেরপাদের কাঁধে ভর করে নামার সময় তাঁবুতেই অস্ত্রোপচার সহ্য করে হেরজগ তার অমর স্মৃতিকথায় লিখেছিলেন: 'মানুষের জীবনে আরও অনেক অন্নপূর্ণা আসে।'"
+      }
+    ]
+  },
+  {
+    "id": "schoening-belay-k2-survival",
+    "title": "Pete Schoening's Belay: The Miracle on K2",
+    "titleBn": "পিট শোনিংয়ের বিলে: কে-টু পর্বতের অলৌকিক রক্ষা",
+    "author": "Mountaineering Annals",
+    "level": "Intermediate",
+    "category": "Adventure & Survival",
+    "coverEmoji": "⛏️",
+    "summary": "On the sheer ice walls of K2 in 1953, Pete Schoening arrests the fatal fall of five roped mountaineers with a single ice axe.",
+    "summaryBn": "১৯৫৩ সালে কে-টু পর্বতের খাড়া বরফের দেয়ালে পিট শোনিং একটিমাত্র আইস এক্সের সাহায্যে দড়িতে বাঁধা পাঁচ সহযাত্রীর নিশ্চিত পতন রোধ করেছিলেন।",
+    "sentences": [
+      {
+        "en": "In August 1953, an American team led by Dr. Charles Houston was trapped near 25,000 feet on K2 by a relentless ten-day blizzard.",
+        "bn": "১৯৫৩ সালের আগস্টে ডক্টর চার্লস হিউস্টনের নেতৃত্বাধীন এক মার্কিন দল টানা দশ দিনের ভয়াল তুষারঝড়ে কে-টু পর্বতের ২৫,০০০ ফুট উচ্চতায় আটকা পড়ে।"
+      },
+      {
+        "en": "When teammate Art Gilkey collapsed with life-threatening thrombophlebitis, the expedition abandoned their summit hopes to evacuate him down the mountain.",
+        "bn": "সহযাত্রী আর্ট গিলকি যখন প্রাণঘাতী থ্রম্বোফ্লেবাইটিসে আক্রান্ত হয়ে অচল হয়ে পড়েন, তখন দলটি চূড়ার আশা ছেড়ে তাকে নিচে নামানোর সিদ্ধান্ত নেয়।"
+      },
+      {
+        "en": "Wrapped in a sleeping bag and lashed to a stretcher, Gilkey was lowered inch by inch down a sheer sixty-degree ice gully.",
+        "bn": "স্লিপিং ব্যাগে মুড়িয়ে একটি স্ট্রেচারে বেঁধে গিলকিকে ষাট ডিগ্রি খাড়া বরফ ঢাকা খাঁদ বেয়ে ইঞ্চি ইঞ্চি করে নিচে নামানো হচ্ছিল।"
+      },
+      {
+        "en": "Suddenly, a climber slipped on black ice, dragging four other roped teammates into an uncontrolled, accelerating plunge toward the glacier below.",
+        "bn": "হঠাৎ এক আরোহী পিচ্ছিল বরফে পা পিছলে পড়ে যান এবং একই দড়িতে বাঁধা চারজন সহযাত্রীকে নিচের অতল হিমবাহের দিকে টেনে নিয়ে যেতে থাকেন।"
+      },
+      {
+        "en": "Climber Pete Schoening swiftly wrapped his hemp rope around a wooden ice axe wedged behind a solitary boulder and braced his entire body.",
+        "bn": "পর্বতারোহী পিট শোনিং দ্রুত তার শণের দড়িটি এক পাথরের আড়ালে গাঁথা কাঠের আইস এক্সে পেঁচিয়ে নিজের সর্বশক্তি দিয়ে মাটিতে আটকে বসেন।"
+      },
+      {
+        "en": "The nylon rope stretched taut to its absolute breaking point, biting violently into Schoening's shoulders as he held the combined weight of five men.",
+        "bn": "নাইলনের দড়িটি টানটান হয়ে ছিঁড়ে যাওয়ার উপক্রম হয় এবং শোনিংয়ের কাঁধ কেটে বসে যায়, যখন তিনি একাই পাঁচজনের সম্মিলিত ওজন ধরে রাখেন।"
+      },
+      {
+        "en": "Known in climbing lore simply as 'The Belay', this superhuman act of strength and composure prevented the worst mass fatality in Himalayan history.",
+        "bn": "পর্বতারোহণের ইতিহাসে 'দ্য বিলে' নামে খ্যাত এই অতিমানবীয় শক্তি ও অটল ধৈর্য হিমালয় অভিযানের সর্ববৃহৎ দলগত ট্র্যাজেডি ঠেকিয়ে দিয়েছিল।"
+      }
+    ]
+  },
+  {
+    "id": "reinhold-messner-solo-oxygen",
+    "title": "Reinhold Messner: The Pure Mountain Spirit",
+    "titleBn": "রাইনহোল্ড মেসনার: হিমালয়ের বিশুদ্ধ পদচিহ্ন",
+    "author": "Alpine Philosophy Quarterly",
+    "level": "Intermediate",
+    "category": "Adventure & Survival",
+    "coverEmoji": "🫁",
+    "summary": "The visionary South Tyrolean mountaineer shatters medical dogma by climbing Mount Everest completely alone and without bottled oxygen.",
+    "summaryBn": "দক্ষিণ টাইরলের দূরদর্শী পর্বতারোহী চিকিৎসা বিজ্ঞানের অন্ধ বিশ্বাস ভেঙে সম্পূর্ণ একাকী ও কোনো কৃত্রিম অক্সিজেন ছাড়া এভারেস্ট জয় করেছিলেন।",
+    "sentences": [
+      {
+        "en": "For decades, respiratory physiologists insisted that the human brain would suffer irreversible necrosis if exposed to Everest's summit without supplemental oxygen.",
+        "bn": "কয়েক দশক ধরে শরীরতত্ত্ববিদরা জোর দিয়ে বলতেন যে কৃত্রিম অক্সিজেন ছাড়া এভারেস্টের উচ্চতায় গেলে মানুষের মস্তিষ্ক স্থায়ীভাবে অকেজো হয়ে মারা যাবে।"
+      },
+      {
+        "en": "In May 1978, Reinhold Messner and Peter Habeler proved the medical establishment wrong by reaching the top of Everest breathing natural ambient air.",
+        "bn": "১৯৭৮ সালের মে মাসে রাইনহোল্ড মেসনার এবং পিটার হ্যাবিলার প্রাকৃতিক বাতাসে শ্বাস নিয়ে এভারেস্টের চূড়ায় উঠে চিকিৎসকদের ভুল প্রমাণ করেন।"
+      },
+      {
+        "en": "Two years later, in August 1980, Messner took the concept of fair-means climbing to its absolute philosophical extreme.",
+        "bn": "দুই বছর পর ১৯৮০ সালের আগস্টে মেসনার সৎ উপায়ে পর্বতারোহণের ধারণাকে তার চরমতম দার্শনিক উচ্চতায় নিয়ে যান।"
+      },
+      {
+        "en": "He ascended the North Face of Everest during monsoon season entirely alone, carrying his own tent and stove with zero porters or ropes.",
+        "bn": "বর্ষার মৌসুমে কোনো শেরপা বা ফিক্সড রোপের সাহায্য ছাড়াই তিনি নিজের তাঁবু ও স্টোভ কাঁধে নিয়ে একাকী এভারেস্টের উত্তর দিক দিয়ে আরোহণ শুরু করেন।"
+      },
+      {
+        "en": "Suffering from debilitating exhaustion and falling into a deep crevasse in pitch darkness, he climbed out solely through raw determination.",
+        "bn": "মারাত্মক ক্লান্তি এবং নিকষ অন্ধকারে এক গভীর বরফের ফাটলে পড়ে যাওয়া সত্ত্বেও তিনি কেবল অদম্য ইচ্ছাশক্তির জোরে সেখান থেকে উঠে আসেন।"
+      },
+      {
+        "en": "On August 20, 1980, hallucinating and crawling on all fours, he attained the highest point on Earth, completing the supreme alpine masterpiece.",
+        "bn": "১৯৮০ সালের ২০ আগস্ট চরম ঘোর ও ক্লান্তিতে চার হাত-পায়ে হামাগুড়ি দিয়ে তিনি পৃথিবীর সর্বোচ্চ বিন্দুতে পৌঁছান এবং শ্রেষ্ঠতম আরোহণ সম্পন্ন করেন।"
+      },
+      {
+        "en": "Messner ultimately became the first human to climb all fourteen eight-thousanders, forever proving that human spirit outshines mechanical apparatus.",
+        "bn": "মেসনার শেষ পর্যন্ত বিশ্বের চৌদ্দটি আট হাজারী শৃঙ্গ জয়ী প্রথম মানব হন এবং প্রমাণ করেন যে যন্ত্রপাতির চেয়ে মানুষের সংকল্পই শ্রেষ্ঠ।"
+      }
+    ]
+  },
+  {
+    "id": "touching-the-void-siula-grande",
+    "title": "Touching the Void: The Crawl from the Abyss",
+    "titleBn": "শূন্যতাকে স্পর্শ: অতল গহ্বর থেকে হামাগুড়ি দিয়ে ফেরা",
+    "author": "Andean Survival Chronicles",
+    "level": "Intermediate",
+    "category": "Adventure & Survival",
+    "coverEmoji": "🧗‍♂️",
+    "summary": "Left for dead inside a Peruvian crevasse with a shattered leg, Joe Simpson crawls for three agonizing days across moraines to safety.",
+    "summaryBn": "ভাঙা পা নিয়ে পেরুর হিমবাহের এক অন্ধকার ফাটলে মৃত ভেবে ফেলে আসা জো সিম্পসন তিন দিন ধরে পাথুরে পথ বেয়ে হামাগুড়ি দিয়ে প্রাণে বাঁচেন।",
+    "sentences": [
+      {
+        "en": "In 1985, British climbers Joe Simpson and Simon Yates completed the first successful ascent of the remote West Face of Siula Grande in the Peruvian Andes.",
+        "bn": "১৯৮৫ সালে ব্রিটিশ পর্বতারোহী জো সিম্পসন এবং সাইমন ইয়েটস পেরুর আন্দিজ পর্বতমালার দুর্গম শিউলা গ্রান্দের পশ্চিম দিক দিয়ে প্রথম সফল আরোহণ করেন।"
+      },
+      {
+        "en": "During their storm-lashed descent, Simpson slipped off an ice cliff and shattered his right leg, jamming the tibia into his knee joint.",
+        "bn": "ঝড়ের মধ্যে নিচে নামার সময় সিম্পসন এক বরফের খাঁদ থেকে পড়ে গিয়ে তার ডান পা মারাত্মকভাবে ভেঙে ফেলেন, তার হাড় হাঁটুর সংযোগে ঢুকে যায়।"
+      },
+      {
+        "en": "Yates spent hours lowering his injured partner down the north ridge by tying two ropes together, until Simpson plummeted inadvertently over an unseen overhang.",
+        "bn": "দুটি দড়ি একসাথে বেঁধে ইয়েটস ঘণ্টার পর ঘণ্টা ধরে আহত বন্ধুকে নামাচ্ছিলেন, কিন্তু হঠাৎ সিম্পসন না দেখে এক ঝুলন্ত খাড়া খাদের নিচে শূন্যে ঝুলে পড়েন।"
+      },
+      {
+        "en": "Suspended helplessly in midair in darkness, with his anchor slipping away, Yates faced an agonizing choice and cut the rope with a pocket knife.",
+        "bn": "অন্ধকারে শূন্যে ঝুলন্ত বন্ধুর টানে নিজের আসনও খসে পড়ার মুখে দাঁড়িয়ে ইয়েটস চরম দ্বিধায় পড়ে পকেট ছুরি দিয়ে দড়িটি কেটে দিতে বাধ্য হন।"
+      },
+      {
+        "en": "Plunging fifty feet into an icy crevasse, Simpson miraculously landed on a hidden snow bridge rather than the bottomless void.",
+        "bn": "পঞ্চাশ ফুট নিচে বরফের ফাটলে ছিটকে পড়েও সিম্পসন অলৌকিকভাবে অতলে তলিয়ে না গিয়ে এক বরফের আড়াআড়ি স্তূপের ওপর আছড়ে পড়েন।"
+      },
+      {
+        "en": "Refusing to perish, he abseiled deeper into the black chasm to discover an exit slope, then hopped and crawled across miles of glacial moraine for three days.",
+        "bn": "মরতে অস্বীকৃতি জানিয়ে তিনি অন্ধকার সুড়ঙ্গের গভীরে নেমে অন্য এক বেরোনোর পথ খুঁজে পান, এবং ভাঙা পায়ে তিন দিন ধরে পাথরের ওপর হামাগুড়ি দেন।"
+      },
+      {
+        "en": "Delirious and severely dehydrated, he reached base camp just hours before Yates was scheduled to pack up and depart, an epic miracle of survival.",
+        "bn": "চরম বিভ্রান্ত ও তৃষ্ণার্ত অবস্থায় তিনি ইয়েটসের ক্যাম্প গুটিয়ে চলে যাওয়ার মাত্র কয়েক ঘণ্টা আগে সেখানে পৌঁছান, যা টিকে থাকার এক অবিস্মরণীয় রূপকথা।"
+      }
+    ]
+  },
+  {
+    "id": "nimsdai-purja-fourteen-peaks",
+    "title": "Nimsdai Purja: The Impossible Fourteen Peaks",
+    "titleBn": "নিমসদাই পুর্জা: অসম্ভবকে জয় করা চৌদ্দ শৃঙ্গ",
+    "author": "High Altitude Herald",
+    "level": "Intermediate",
+    "category": "Adventure & Survival",
+    "coverEmoji": "⚡",
+    "summary": "Former Gurkha soldier Nirmal Purja climbs all fourteen of the world's 8,000-meter peaks in just six months and six days, shattering all records.",
+    "summaryBn": "সাবেক গোর্খা সেনা নির্মল পুর্জা মাত্র ছয় মাস ছয় দিনে বিশ্বের চৌদ্দটি আট হাজারী শৃঙ্গ জয় করে অতীতের সব রেকর্ড গুঁড়িয়ে দেন।",
+    "sentences": [
+      {
+        "en": "Climbing all fourteen of Earth's mountains exceeding 8,000 meters in elevation historically took the world's elite mountaineers between seven and sixteen years.",
+        "bn": "পৃথিবীর আট হাজার মিটারের বেশি উঁচু চৌদ্দটি পর্বতশৃঙ্গ জয় করতে ঐতিহাসিকভাবে বিশ্বের সেরা পর্বতারোহীদের সাত থেকে ষোলো বছর সময় লেগে যেত।"
+      },
+      {
+        "en": "In early 2019, Nirmal 'Nimsdai' Purja, a former British Special Forces soldier from Nepal, announced 'Project Possible': to conquer all fourteen in seven months.",
+        "bn": "২০১৯ সালের শুরুর দিকে ব্রিটিশ স্পেশাল ফোর্সের সাবেক নেপালি সেনা নির্মল 'নিমসদাই' পুর্জা 'প্রজেক্ট পসিবল' ঘোষণা করেন: মাত্র সাত মাসে সব শৃঙ্গ জয়ের লক্ষ্য।"
+      },
+      {
+        "en": "The global mountaineering community dismissed his audacious proposal as suicidal folly, believing human physiology could not withstand such prolonged punishment.",
+        "bn": "বিশ্বের পর্বতারোহী সমাজ তার এই দুঃসাহসী লক্ষ্যকে নিছক আত্মঘাতী পাগলামি বলে উড়িয়ে দিয়েছিল, তাদের ধারণা ছিল মানবদেহ এত দীর্ঘ চাপ সইতে পারবে না।"
+      },
+      {
+        "en": "Operating alongside an elite team of indigenous Sherpa climbers, Nimsdai moved like a hurricane across the Annapurna, Dhaulagiri, and Everest massifs.",
+        "bn": "দক্ষ আদিবাসী শেরপা পর্বতারোহীদের একটি শক্তিশালী দল সাথে নিয়ে নিমসদাই অন্নপূর্ণা, ধবলগিরি এবং এভারেস্টের গিরিমালায় ঝড়ের গতিতে আরোহণ চালান।"
+      },
+      {
+        "en": "Despite facing severe blizzards, route clearance delays, and conducting multiple high-altitude rescues of stranded climbers, he maintained blistering momentum.",
+        "bn": "ভয়াবহ তুষারঝড়, পথ তৈরির জটিলতা এবং মাঝপথে আটকে পড়া অন্যান্য আরোহীদের একাধিক উচ্চপর্যায়ের উদ্ধার অভিযান চালানো সত্ত্বেও তিনি গতি কমতে দেননি।"
+      },
+      {
+        "en": "On October 29, 2019, standing upon Shishapangma in Tibet, Nimsdai completed the fourteen peaks in an astonishing six months and six days.",
+        "bn": "২০১৯ সালের ২৯ অক্টোবর তিব্বতের শিশাপ্যাংমা শৃঙ্গের শীর্ষে দাঁড়িয়ে নিমসদাই মাত্র ছয় মাস ছয় দিনে চৌদ্দটি শৃঙ্গ জয়ের অবিশ্বাস্য কীর্তি গড়েন।"
+      },
+      {
+        "en": "His triumph restored rightful international acclaim to the legendary Nepali climbers whose strength and dedication sustain Himalayan exploration.",
+        "bn": "তার এই ঐতিহাসিক বিজয় হিমালয় অভিযানের মূল চালিকাশক্তি সেই নেপালি পর্বতারোহীদের বিশ্বমঞ্চে তাদের প্রাপ্য গৌরব ও সম্মান ফিরিয়ে দেয়।"
+      }
+    ]
+  },
+  {
+    "id": "junko-tabei-everest-avalanche",
+    "title": "Junko Tabei: The First Woman on the Roof of the World",
+    "titleBn": "জুনকো তাবেই: বিশ্বের ছাদ জয়ী প্রথম নারী",
+    "author": "Pioneering Women Review",
+    "level": "Intermediate",
+    "category": "Adventure & Survival",
+    "coverEmoji": "🌸",
+    "summary": "Junko Tabei overcomes sexist skepticism, survives a catastrophic avalanche on Everest, and becomes the first woman to stand on the summit.",
+    "summaryBn": "জুনকো তাবেই লিঙ্গবৈষম্যমূলক উপহাস জয় করেন, এভারেস্টে ভয়াবহ তুষারধসের হাত থেকে বেঁচে ফেরেন এবং প্রথম নারী হিসেবে এর চূড়ায় পদচিহ্ন আঁকেন।",
+    "sentences": [
+      {
+        "en": "In early 1975, thirty-five-year-old Japanese climber Junko Tabei arrived at Mount Everest leading an all-female expedition sponsored largely through personal fundraising.",
+        "bn": "১৯৭৫ সালের শুরুর দিকে পঁয়ত্রিশ বছর বয়সী জাপানি পর্বতারোহী জুনকো তাবেই ব্যক্তিগত অর্থায়নে পরিচালিত একটি সর্ব-নারী অভিযাত্রী দল নিয়ে এভারেস্টে পৌঁছান।"
+      },
+      {
+        "en": "In Tokyo, critics had repeatedly dismissed her ambitions, telling her that women should remain at home raising children and pouring tea.",
+        "bn": "টোকিওতে সমালোচকরা বারবার তার স্বপ্নকে উপহাস করে বলেছিল যে নারীদের কাজ ঘরে বসে সন্তান লালন-পালন করা এবং চা পরিবেশন করা।"
+      },
+      {
+        "en": "In early May, while the team camped at Camp II at 21,300 feet, a massive avalanche crashed through their tents in the dead of night.",
+        "bn": "মে মাসের শুরুতে ২১,৩০০ ফুট উঁচুতে ক্যাম্প-২ তে দলটি যখন অবস্থান করছিল, তখন গভীর রাতে এক বিশালাকার তুষারধস তাদের তাঁবুগুলোকে চূর্ণবিচূর্ণ করে দেয়।"
+      },
+      {
+        "en": "Buried beneath tons of compact snow, Tabei lost consciousness until her Sherpa guides desperately dug her out with bare hands.",
+        "bn": "টন টন ঘন বরফের নিচে চাপা পড়ে তাবেই জ্ঞান হারিয়ে ফেলেন, যতক্ষণ না শেরপা গাইডের দল খালি হাতে বরফ খুঁড়ে তাকে উদ্ধার করে।"
+      },
+      {
+        "en": "Though bruised and unable to walk for two agonizing days, she steadfastly refused to abandon the summit assault.",
+        "bn": "শরীরে প্রচণ্ড আঘাত পেয়ে টানা দুই দিন হাঁটতে না পারা সত্ত্বেও তিনি শৃঙ্গ জয়ের অভিযান বাতিল করতে স্পষ্ট অস্বীকৃতি জানান।"
+      },
+      {
+        "en": "On May 16, 1975, creeping carefully across the razor-sharp knife-edge ridge of the Hillary Step, Tabei stepped onto the summit of Everest.",
+        "bn": "১৯৭৫ সালের ১৬ মে হিলারি স্টেপের ক্ষুরের মতো ধারালো শৈলশিরা বেয়ে সাবধানে এগিয়ে গিয়ে তাবেই এভারেস্টের সর্বোচ্চ শিখরে পা রাখেন।"
+      },
+      {
+        "en": "Tabei shattered societal stereotypes worldwide, demonstrating that endurance and grit belong equally to women on the highest mountains on Earth.",
+        "bn": "তাবেই বিশ্বজুড়ে সামাজিক সংকীর্ণতাকে গুঁড়িয়ে দেন এবং দেখিয়ে দেন পৃথিবীর সর্বোচ্চ শিখরেও সহনশীলতা ও সাহসের প্রশ্নে নারীরা কোনো অংশে পিছিয়ে নেই।"
+      }
+    ]
+  },
+  {
+    "id": "walter-bonatti-matterhorn-solo",
+    "title": "Walter Bonatti: Solitude on the Matterhorn",
+    "titleBn": "ওয়াল্টার বোনাত্তি: ম্যাটারহর্নের বরফপ্রাচীরে নিঃসঙ্গ বীর",
+    "author": "Alpinist Historical Society",
+    "level": "Intermediate",
+    "category": "Adventure & Survival",
+    "coverEmoji": "🧗",
+    "summary": "Italian climbing genius Walter Bonatti bids farewell to extreme mountaineering with a breathtaking solo winter first ascent of the Matterhorn North Face.",
+    "summaryBn": "ইতালীয় পর্বতারোহী প্রতিভা ওয়াল্টার বোনাত্তি ম্যাটারহর্নের উত্তর মুখে শীতকালীন একাকী নতুন পথ আবিষ্কারের শ্বাসরুদ্ধকর কীর্তি দিয়ে আলপাইন জীবনকে বিদায় জানান।",
+    "sentences": [
+      {
+        "en": "Walter Bonatti was universally revered as one of the purest, most uncompromising alpinists in history, advocating fair means without heavy logistics.",
+        "bn": "ভারী সরঞ্জামের বাহুল্য বর্জন করে সৎ ও বিশুদ্ধ পন্থায় আরোহণের ক্ষেত্রে ওয়াল্টার বোনাত্তি ইতিহাসের অন্যতম শ্রেষ্ঠ ও আপসহীন আলপিনিস্ট হিসেবে বন্দিত ছিলেন।"
+      },
+      {
+        "en": "In February 1965, weary of bitter political rivalries and controversies within European climbing circles, he decided to retire on his own terms.",
+        "bn": "১৯৬৫ সালের ফেব্রুয়ারিতে ইউরোপীয় পর্বতারোহী মহলের নোংরা রাজনীতি ও দ্বন্দ্বে ক্লান্ত হয়ে তিনি নিজের শর্তে বিদায় নেওয়ার চূড়ান্ত সিদ্ধান্ত নেন।"
+      },
+      {
+        "en": "His swan song was the opening of a direct, virgin route up the terrifying, vertical North Face of the Matterhorn in the dead of winter.",
+        "bn": "তার বিদায়ী কীর্তি ছিল হাড়কাঁপানো শীতের মধ্যে ম্যাটারহর্নের ভয়ংকর খাড়া উত্তর দেয়াল বেয়ে এক সম্পূর্ণ নতুন ও সরাসরি পথ উন্মোচন করা।"
+      },
+      {
+        "en": "Climbing entirely alone in temperatures dropping to thirty degrees below zero, Bonatti bivouacked for five nights on narrow, ice-slick ledges.",
+        "bn": "মাইনাস ত্রিশ ডিগ্রি তাপমাত্রায় সম্পূর্ণ একাকী আরোহণ করে বোনাত্তি বরফে ঢাকা সরু খাঁদের ওপর ঝুলে ঝুলে টানা পাঁচটি রাত কাটিয়েছিলেন।"
+      },
+      {
+        "en": "With icicles clinging to his face and howling gales threatening to rip him from the granite, he relied solely on inner calm and precision footwork.",
+        "bn": "মুখে বরফ জমে যাওয়া এবং প্রবল বাতাসের ঝাপটায় খাদে খসে পড়ার আশঙ্কার মুখেও তিনি কেবল নিজের ভেতরের প্রশান্তি ও পায়ের নিখুঁত ভারসাম্যে ভরসা রেখেছিলেন।"
+      },
+      {
+        "en": "On February 22, he emerged triumphantly at the summit cross, having achieved one of the greatest individual feats in mountaineering history.",
+        "bn": "২২ ফেব্রুয়ারি তিনি শৃঙ্গের ক্রুশের পাশে মাথা উঁচু করে দাঁড়ান এবং পর্বতারোহণের ইতিহাসে অন্যতম সেরা একক অভিযানের সাফল্য রচনা করেন।"
+      },
+      {
+        "en": "Bonatti walked away from extreme climbing at the absolute zenith of his powers, his integrity and legend untarnished forever.",
+        "bn": "নিজের সক্ষমতার ঠিক চূড়ায় দাঁড়িয়ে বোনাত্তি চরম পর্বতারোহণ থেকে সরে আসেন, এবং তার সততা ও কিংবদন্তি চিরকালের জন্য অমলিন থেকে যায়।"
+      }
+    ]
+  },
+  {
+    "id": "boukreev-everest-1996-rescue",
+    "title": "Anatoli Boukreev: The South Col Rescues of 1996",
+    "titleBn": "আনাতোলি বুকরেইভ: ১৯৯৬ সালের সাউথ কোলের দুঃসাহসিক উদ্ধার",
+    "author": "Everest Chronicle",
+    "level": "Intermediate",
+    "category": "Adventure & Survival",
+    "coverEmoji": "🌪️",
+    "summary": "During the catastrophic 1996 Everest blizzard, Kazakh mountaineer Anatoli Boukreev ventures alone into the death zone to save stranded climbers.",
+    "summaryBn": "১৯৯৬ সালের ভয়াবহ এভারেস্ট তুষারঝড়ের মধ্যে কাজাখ পর্বতারোহী আনাতোলি বুকরেইভ একাকী ডেথ জোনে প্রবেশ করে অসহায় আরোহীদের নিশ্চিত মৃত্যুর মুখ থেকে বাঁচান।",
+    "sentences": [
+      {
+        "en": "On May 10, 1996, an unprecedented rogue blizzard enveloped the upper slopes of Mount Everest, stranding dozens of commercial clients in the Death Zone.",
+        "bn": "১৯৯৬ সালের ১০ মে এক ভয়াবহ বিধ্বংসী তুষারঝড় মাউন্ট এভারেস্টের উচ্চ বলয় ঢেকে দেয়, যার ফলে ডেথ জোনে বহু বাণিজ্যিক অভিযাত্রী আটকা পড়েন।"
+      },
+      {
+        "en": "With temperatures plummeting below minus forty degrees and hurricane-force winds blinding the South Col, total disaster unfolded as night descended.",
+        "bn": "তাপমাত্রা মাইনাস চল্লিশ ডিগ্রির নিচে নেমে যাওয়ায় এবং ঝোড়ো হাওয়ায় দৃষ্টিসীমা পুরোপুরি বন্ধ হয়ে যাওয়ায় রাত নামার সাথে সাথে চরম বিপর্যয় নেমে আসে।"
+      },
+      {
+        "en": "Kazakh guide Anatoli Boukreev, having summited earlier without bottled oxygen, rested at high camp when survivors stumbled in reporting people lost on the plateau.",
+        "bn": "কাজাখ গাইড আনাতোলি বুকরেইভ কোনো অক্সিজেন ছাড়াই আগে চূড়া জয় করে ক্যাম্পে বিশ্রাম নিচ্ছিলেন, এমন সময় কয়েকজন ফিরে এসে জানান মালভূমিতে মানুষ হারিয়ে গেছে।"
+      },
+      {
+        "en": "While others were paralyzed by hypothermia and exhaustion, Boukreev grabbed an oxygen cylinder and walked out alone into the raging blizzard.",
+        "bn": "অন্যরা যখন অতিরিক্ত ক্লান্তি ও ঠান্ডায় পক্ষাঘাতগ্রস্তের মতো পড়েছিলেন, বুকরেইভ একটি অক্সিজেন সিলিন্ডার কাঁধে নিয়ে একাকী সেই তুষারঝড়ে ঝাঁপিয়ে পড়েন।"
+      },
+      {
+        "en": "Guided only by faint shouts and intuition across the featureless expanse of ice, he located a group of disoriented climbers huddled together.",
+        "bn": "বরফের ধূসর প্রান্তরে কেবল দূর থেকে ভেসে আসা অস্পষ্ট আর্তনাদ ও অনুভূতির ওপর ভর করে তিনি দিশেহারা আরোহীদের জড়োসড়ো দলটিকে খুঁজে পান।"
+      },
+      {
+        "en": "Making multiple solitary sorties into the howling storm, Boukreev physically hauled three American climbers—Sandy Pittman, Charlotte Fox, and Tim Madsen—to safety.",
+        "bn": "গর্জনশীল ঝড়ের ভেতর বারবার একাকী অভিযান চালিয়ে বুকরেইভ নিজের কাঁধে টেনে স্যান্ডি পিটম্যান, শার্লট ফক্স এবং টিম ম্যাডসেন নামের তিন মার্কিন আরোহীকে নিরাপদে আনেন।"
+      },
+      {
+        "en": "His heroic courage and iron constitution earned him the David A. Sowles Memorial Award for valor, cementing his place among alpine legends.",
+        "bn": "তার এই বীরত্বপূর্ণ সাহস ও ইস্পাতকঠিন মনোবল তাকে সর্বোচ্চ সাহসিকতার পদক এনে দেয় এবং আলপাইন কিংবদন্তিদের মাঝে তার আসন চিরস্থায়ী করে।"
+      }
+    ]
+  },
+  {
+    "id": "tenzing-norgay-everest-1953",
+    "title": "Tenzing Norgay: Tiger of the Snows",
+    "titleBn": "তেনজিং নোরগে: তুষার অঞ্চলের শেরপা বাঘ",
+    "author": "Himalayan Mountaineering Trust",
+    "level": "Intermediate",
+    "category": "Adventure & Survival",
+    "coverEmoji": "🏔️",
+    "summary": "Born in the shadow of Chomolungma, Tenzing Norgay rises from a modest yak herder to stand beside Edmund Hillary atop the world.",
+    "summaryBn": "চোমোলোংমার ছায়ায় জন্ম নেওয়া তেনজিং নোরগে এক সাধারণ চমরী গাইয়ের রাখাল থেকে বিশ্বের শীর্ষে এডমন্ড হিলারির পাশে গিয়ে দাঁড়িয়েছিলেন।",
+    "sentences": [
+      {
+        "en": "Born to a Tibetan family in the Khumbu region, Tenzing Norgay spent his youth herding yaks beneath the towering glaciers of Mount Everest.",
+        "bn": "খুম্বু অঞ্চলের এক তিব্বতি পরিবারে জন্ম নেওয়া তেনজিং নোরগে শৈশবে মাউন্ট এভারেস্টের সুবিশাল হিমবাহের নিচে চমরী গাই চড়িয়ে দিন কাটাতেন।"
+      },
+      {
+        "en": "Drawn to the mountains, he ran away to Darjeeling as a young man, seeking employment as a high-altitude porter on early British expeditions.",
+        "bn": "পাহাড়ের অমোঘ টানে তরুণ বয়সে তিনি দার্জিলিংয়ে পালিয়ে আসেন এবং প্রাথমিক ব্রিটিশ অভিযানগুলোতে মালবাহী পোর্টার হিসেবে কাজ খুঁজতে শুরু করেন।"
+      },
+      {
+        "en": "Through unmatched strength, boundless cheerfulness, and alpine savvy, he rose to become the undisputed sirdar, or leader of the Sherpa climbers.",
+        "bn": "তার অতুলনীয় শারীরিক শক্তি, সদা হাস্যোজ্জ্বল ব্যক্তিত্ব এবং পাহাড়ি প্রজ্ঞার গুণে তিনি শেরপা পর্বতারোহীদের অবিসংবাদিত নেতা বা 'সর্দার' হয়ে ওঠেন।"
+      },
+      {
+        "en": "In 1952, climbing alongside Swiss guide Raymond Lambert, Tenzing reached 28,210 feet—higher than any human had ever stood before.",
+        "bn": "১৯৫২ সালে সুইস গাইড রেমন্ড ল্যাম্বার্টের সাথে আরোহণ করে তেনজিং ২৮,২১০ ফুট উচ্চতায় পৌঁছান—যা ছিল তৎকালীন মানব ইতিহাসের সর্বোচ্চ বিন্দু।"
+      },
+      {
+        "en": "A year later, on May 29, 1953, Tenzing and New Zealander Edmund Hillary forged the final steps through the Hillary Step to reach the summit.",
+        "bn": "পরের বছর ১৯৫৩ সালের ২৯ মে তেনজিং এবং নিউজিল্যান্ডের এডমন্ড হিলারি শেষ বাধা হিলারি স্টেপ পার হয়ে এভারেস্টের চূড়ায় পদার্পণ করেন।"
+      },
+      {
+        "en": "On the highest crest of the planet, Tenzing offered biscuits and candy to the mountain gods and unfurled four national flags in triumph.",
+        "bn": "পৃথিবীর সর্বোচ্চ শিখরে দাঁড়িয়ে তেনজিং পাহাড়ের দেবতাদের উদ্দেশ্যে বিস্কুট ও মিষ্টি নিবেদন করেন এবং বিজয়ের সাথে চারটি দেশের পতাকা ওড়ান।"
+      },
+      {
+        "en": "His ascent elevated the Sherpa people from anonymous high-altitude laborers to globally celebrated titans of modern mountaineering.",
+        "bn": "তার এই বিজয় শেরপা জাতিকে সাধারণ অচেনা মালবাহক থেকে আধুনিক পর্বতারোহণের বিশ্ববন্দিত মহাশক্তিধর জাতিতে রূপান্তর করে।"
+      }
+    ]
+  },
+  {
+    "id": "alison-hargreaves-alpine-solo",
+    "title": "Alison Hargreaves: Queen of the North Faces",
+    "titleBn": "অ্যালিসন হারগ্রিভস: আলপাইন দেয়ালের অপরাজিত রানি",
+    "author": "Alpine Chronicle",
+    "level": "Intermediate",
+    "category": "Adventure & Survival",
+    "coverEmoji": "🧗‍♀️",
+    "summary": "British climber Alison Hargreaves makes history by soloing the six great north faces of the Alps in a single season before tackling Everest unassisted.",
+    "summaryBn": "ব্রিটিশ আরোহী অ্যালিসন হারগ্রিভস এক মৌসুমে আল্পসের ছয়টি ভয়ংকর উত্তর দেয়াল একাকী জয় করে এবং পরে কোনো সাহায্য ছাড়া এভারেস্ট আরোহণ করে ইতিহাস গড়েন।",
+    "sentences": [
+      {
+        "en": "In the male-dominated sphere of elite mountaineering, British climber Alison Hargreaves redefined technical solo climbing in the early 1990s.",
+        "bn": "পুরুষপ্রধান পর্বতারোহণ জগতে ব্রিটিশ আরোহী অ্যালিসন হারগ্রিভস ১৯৯০-এর দশকের শুরুতে একক কঠিন আরোহণের সংজ্ঞাকে নতুনভাবে বদলে দেন।"
+      },
+      {
+        "en": "In 1993, she achieved a legendary milestone by soloing all six great north faces of the Alps—including the Eiger and Matterhorn—in a single season.",
+        "bn": "১৯৯৩ সালে তিনি এক অনন্য রেকর্ড গড়েন আল্পসের ছয়টি মহাবিপজ্জনক উত্তর দেয়াল—যার মধ্যে আইগার ও ম্যাটারহর্ন ছিল—একাই এক মৌসুমে আরোহণ করে।"
+      },
+      {
+        "en": "Two years later, in May 1995, she set her sights on the ultimate prize: the summit of Mount Everest.",
+        "bn": "দুই বছর পর ১৯৯৫ সালের মে মাসে তিনি তার জীবনের সবচেয়ে বড় স্বপ্নের দিকে পা বাড়ান: মাউন্ট এভারেস্টের সুউচ্চ শৃঙ্গ।"
+      },
+      {
+        "en": "She ascended the mountain via the northern route completely unassisted, without Sherpa support or supplemental oxygen cylinders.",
+        "bn": "তিনি কোনো শেরপার সহায়তা বা অতিরিক্ত অক্সিজেন সিলিন্ডার ছাড়াই সম্পূর্ণ একাকী উত্তরের পথ দিয়ে পর্বতে আরোহণ করেন।"
+      },
+      {
+        "en": "Standing alone atop the world on May 13, 1995, she radioed base camp with calm humility: 'I am on top of Everest, completely unaided.'",
+        "bn": "১৯৯৫ সালের ১৩ মে বিশ্বের শীর্ষে একাকী দাঁড়িয়ে তিনি বেতারবার্তায় শান্ত বিনয়ে জানান: 'আমি কোনো সাহায্য ছাড়াই সম্পূর্ণ একাকী এভারেস্টের চূড়ায় আছি।'"
+      },
+      {
+        "en": "Tragically, three months later, after summiting K2, she and six companions perished in an apocalyptic gale on their descent.",
+        "bn": "দুঃখজনকভাবে তিন মাস পর কে-টু জয়ের পর নামার সময় এক প্রলয়ঙ্করী তুষারঝড়ের কবলে পড়ে তিনি ও তার ছয় সঙ্গী প্রাণ হারান।"
+      },
+      {
+        "en": "Hargreaves remains an eternal inspiration, celebrated for her elegant climbing style, extraordinary endurance, and fierce independence.",
+        "bn": "হারগ্রিভস তার নিখুঁত আরোহণ শৈলী, অসাধারণ সহনশীলতা ও তীব্র আত্মমর্যাদাবোধের কারণে আজও পর্বতপ্রেমীদের কাছে এক চিরন্তন অনুপ্রেরণা।"
+      }
+    ]
+  },
+  {
+    "id": "whymper-matterhorn-broken-rope",
+    "title": "Edward Whymper and the Matterhorn Tragedy",
+    "titleBn": "এডওয়ার্ড হুইম্পার ও ম্যাটারহর্নের বিষাদময় ট্র্যাজেডি",
+    "author": "Victorian Alpine Gazette",
+    "level": "Intermediate",
+    "category": "Adventure & Survival",
+    "coverEmoji": "🏔️",
+    "summary": "After seven failed attempts, Edward Whymper conquers the mythical Matterhorn in 1865, only for a snapped rope to turn triumph into mourning.",
+    "summaryBn": "সাতটি ব্যর্থ চেষ্টার পর ১৮৬৫ সালে এডওয়ার্ড হুইম্পার রূপকথার ম্যাটারহর্ন জয় করেন, কিন্তু এক দড়ি ছেঁড়ার কারণে সেই বিজয় চরম শোকে পরিণত হয়।",
+    "sentences": [
+      {
+        "en": "In the mid-nineteenth century, the pyramid-shaped Matterhorn looming over Zermatt was regarded by locals as unclimbable and haunted by demons.",
+        "bn": "ঊনবিংশ শতাব্দীর মাঝামাঝি সময়ে জারম্যাটের ওপর মাথা তুলে দাঁড়ানো পিরামিড আকৃতির ম্যাটারহর্নকে স্থানীয়রা অপয়া ও অজেয় বলে মনে করত।"
+      },
+      {
+        "en": "Young British illustrator and wood engraver Edward Whymper became obsessed with the peak, launching seven daring yet unsuccessful attempts.",
+        "bn": "তরুণ ব্রিটিশ চিত্রশিল্পী ও কাঠে নকশাকর এডওয়ার্ড হুইম্পার এই শৃঙ্গ জয়ে এতটাই মগ্ন হন যে তিনি পরপর সাতটি দুঃসাহসী অথচ ব্যর্থ অভিযান চালান।"
+      },
+      {
+        "en": "On July 14, 1865, Whymper teamed with six companions, including guides Michel Croz and Peter Taugwalder, racing an Italian team ascending from the south.",
+        "bn": "১৮৬৫ সালের ১৪ জুলাই হুইম্পার গাইড মিশেল ক্রোজ ও পিটার টাগওয়াল্ডারসহ ছয় সঙ্গীকে নিয়ে দক্ষিণ দিক থেকে ওঠা এক ইতালীয় দলের সাথে পাল্লা দিয়ে আরোহণ শুরু করেন।"
+      },
+      {
+        "en": "Reaching the crest first, Whymper looked down and saw the Italian rivals far below, shouting in triumph as he reached the virgin summit.",
+        "bn": "সবার আগে চূড়ায় পৌঁছে হুইম্পার নিচে তাকিয়ে প্রতিদ্বন্দ্বী ইতালীয় দলকে অনেক দূরে দেখতে পান এবং অক্ষত শৃঙ্গে বিজয়ের উল্লাস করেন।"
+      },
+      {
+        "en": "However, during the cautious descent down the north ridge, novice climber Douglas Hadow slipped, knocking Croz from his footing.",
+        "bn": "কিন্তু উত্তরের শৈলশিরা বেয়ে অত্যন্ত সতর্কতার সাথে নামার সময় অনভিজ্ঞ আরোহী ডগলাস হ্যাডো পা পিছলে গাইড ক্রোজের ওপর আছড়ে পড়েন।"
+      },
+      {
+        "en": "The weight dragged four men into the abyss until the old Manila rope suddenly snapped between Lord Francis Douglas and Taugwalder.",
+        "bn": "তাদের ভারে চারজন আরোহী খাদের দিকে ছিটকে যান, এবং হঠাৎ লর্ড ফ্রান্সিস ডগলাস ও টাগওয়াল্ডারের মধ্যবর্তী পুরোনো ম্যানিলা দড়িটি ছিঁড়ে যায়।"
+      },
+      {
+        "en": "Whymper and the two Taugwalders watched in horror as their four companions plunged 4,000 feet onto the Matterhorn glacier, a dark shadow over alpine glory.",
+        "bn": "হুইম্পার ও দুই টাগওয়াল্ডার বাকরুদ্ধ হয়ে তাকিয়ে দেখেন তাদের চার সঙ্গী চার হাজার ফুট নিচে হিমবাহে পড়ে তলিয়ে গেছেন, যা এই বিজয়ে এক চিরস্থায়ী শোকের ছায়া ফেলে।"
+      }
+    ]
+  },
+  {
+    "id": "jerzy-kukuczka-winter-himalaya",
+    "title": "Jerzy Kukuczka: The Iron Man of Polish Alpinism",
+    "titleBn": "ইয়েজি কুকুচকা: পোলিশ পর্বতারোহণের লৌহমানব",
+    "author": "Himalayan Annals",
+    "level": "Intermediate",
+    "category": "Adventure & Survival",
+    "coverEmoji": "❄️",
+    "summary": "Surviving severe economic hardship in communist Poland, Jerzy Kukuczka summits all fourteen eight-thousanders via revolutionary winter and virgin routes.",
+    "summaryBn": "কমিউনিস্ট পোল্যান্ডের চরম অর্থনৈতিক অভাব জয় করে ইয়েজি কুকুচকা শীতকালীন কঠিন পথ ও সম্পূর্ণ নতুন রুট দিয়ে বিশ্বের চৌদ্দটি আট হাজারী শৃঙ্গ জয় করেছিলেন।",
+    "sentences": [
+      {
+        "en": "Emerging from the harsh socioeconomic realities of communist Poland, Jerzy Kukuczka possessed an almost superhuman tolerance for suffering.",
+        "bn": "কমিউনিস্ট পোল্যান্ডের চরম প্রতিকূল সামাজিক-অর্থনৈতিক বাস্তবতার মধ্যে বেড়ে ওঠা ইয়েজি কুকুচকার দুঃখ-কষ্ট সহ্য করার এক অতিমানবীয় ক্ষমতা ছিল।"
+      },
+      {
+        "en": "Unable to purchase modern Western mountaineering equipment, he climbed with homemade down jackets, recycled ropes, and secondhand crampons.",
+        "bn": "পশ্চিমা আধুনিক চড়া দামের সরঞ্জাম কেনার সামর্থ্য না থাকায় তিনি ঘরে তৈরি জ্যাকেট, পুরোনো দড়ি এবং ব্যবহৃত ক্র্যাম্পন পরেই অভিযানে বের হতেন।"
+      },
+      {
+        "en": "Between 1979 and 1987, Kukuczka became only the second human after Reinhold Messner to conquer all fourteen 8,000-meter peaks.",
+        "bn": "১৯৭৯ থেকে ১৯৮৭ সালের মধ্যে কুকুচকা রাইনহোল্ড মেসনারের পর দ্বিতীয় ব্যক্তি হিসেবে পৃথিবীর সমস্ত চৌদ্দটি আট হাজারী পর্বতশৃঙ্গ জয়ের গৌরব অর্জন করেন।"
+      },
+      {
+        "en": "Remarkably, he established new routes on ten of the peaks and achieved four unprecedented first winter ascents in freezing subzero blizzards.",
+        "bn": "আশ্চর্যের বিষয় হলো তিনি দশটি পর্বতে সম্পূর্ণ নতুন পথ তৈরি করেছিলেন এবং হাড়কাঁপানো শীতকালীন তুষারঝড়ের মধ্যে চারটি প্রথম শীতকালীন আরোহণের নজির গড়েন।"
+      },
+      {
+        "en": "Messner famously sent him a congratulatory telegram acknowledging: 'You are not second; you are great.'",
+        "bn": "মেসনার নিজে তাকে এক অভিনন্দনের টেলিগ্রামে অকপটে লিখেছিলেন: 'তুমি দ্বিতীয় নও; তুমি এক অনন্য মহামানব।'"
+      },
+      {
+        "en": "In October 1989, attempting the unclimbed 11,000-foot South Face of Lhotse, a secondhand rope purchased in a Kathmandu bazaar snapped, ending his life.",
+        "bn": "১৯৮৯ সালের অক্টোবরে লোৎসের অজেয় এগারো হাজার ফুটের দক্ষিণ প্রাচীর আরোহণের সময় কাঠমান্ডুর বাজার থেকে কেনা এক পুরোনো দড়ি ছিঁড়ে তিনি চিরতরে হারিয়ে যান।"
+      },
+      {
+        "en": "Jerzy Kukuczka's legacy epitomizes the golden era of Polish Himalayan exploration, proving that passion and grit transcend material limitations.",
+        "bn": "ইয়েজি কুকুচকার অমর কীর্তি পোলিশ হিমালয় আরোহণের সোনালী যুগের প্রতীক, যা দেখিয়ে দেয় মনের একাগ্রতা ও সাহস যেকোনো বৈষয়িক দৈন্যকে জয় করতে পারে।"
+      }
+    ]
+  },
+  {
+    "id": "wanda-rutkiewicz-k2-pioneer",
+    "title": "Wanda Rutkiewicz: The Caravan of Dreams",
+    "titleBn": "ওয়ান্ডা রুতকিয়েভিচ: স্বপ্নের কাফেলা ও কে-টু পর্বতের বিজয়",
+    "author": "Feminine Alpine Review",
+    "level": "Intermediate",
+    "category": "Adventure & Survival",
+    "coverEmoji": "🏔️",
+    "summary": "Wanda Rutkiewicz becomes the first woman to stand upon the summit of K2, championing women's independent leadership in extreme alpinism.",
+    "summaryBn": "ওয়ান্ডা রুতকিয়েভিচ প্রথম নারী হিসেবে কে-টু পর্বতের শিখরে ওঠেন এবং চরম পর্বতারোহণে নারীদের স্বাধীন ও স্বয়ংসম্পূর্ণ নেতৃত্বের পথ দেখান।",
+    "sentences": [
+      {
+        "en": "In an era when women were frequently relegated to secondary roles on major expeditions, Polish engineer Wanda Rutkiewicz asserted autonomous female leadership.",
+        "bn": "যে যুগে বড় অভিযানে নারীদের প্রায়ই দ্বিতীয় সারির ভূমিকায় ঠেলে দেওয়া হতো, পোলিশ প্রকৌশলী ওয়ান্ডা রুতকিয়েভিচ নারীদের স্বাবলম্বী নেতৃত্বের দাবি প্রতিষ্ঠা করেন।"
+      },
+      {
+        "en": "In 1978, on the very day fellow countryman Karol Wojtyla was elected Pope John Paul II, Wanda reached the summit of Mount Everest as the first European woman.",
+        "bn": "১৯৭৮ সালে যেদিন তার স্বদেশী কারল ভোয়তিয়া পোপ জন পল দ্বিতীয় হিসেবে নির্বাচিত হন, ঠিক সেদিনই ওয়ান্ডা প্রথম ইউরোপীয় নারী হিসেবে এভারেস্টের শীর্ষে ওঠেন।"
+      },
+      {
+        "en": "Her ultimate ambition, however, was K2—widely regarded as the deadliest and most technically demanding peak on Earth.",
+        "bn": "তবে তার সবচেয়ে বড় স্বপ্ন ছিল কে-টু জয় করা—যা পৃথিবীর সবচেয়ে প্রাণঘাতী ও কঠিন পর্বতশৃঙ্গ হিসেবে সর্বজনবিদিত।"
+      },
+      {
+        "en": "On June 23, 1986, climbing without supplemental oxygen, she stood triumphantly on the summit of K2, the first woman in history to conquer the mountain.",
+        "bn": "১৯৮৬ সালের ২৩ জুন কোনো কৃত্রিম অক্সিজেন ছাড়াই আরোহণ করে তিনি সগর্বে কে-টু পর্বতের শীর্ষে পদচিহ্ন রাখেন এবং ইতিহাসের প্রথম নারী হিসেবে এই শৃঙ্গ জয় করেন।"
+      },
+      {
+        "en": "Tragically, during the subsequent descent, her teammates died, leaving Wanda to navigate treacherous ice passages in bitter solitude.",
+        "bn": "দুঃখজনকভাবে নামার সময় তার সহযাত্রীরা মারা যান, যার ফলে ওয়ান্ডাকে নিদারুণ একাকিত্বে ভয়ংকর বরফপথ পেরিয়ে নিচে নেমে আসতে হয়।"
+      },
+      {
+        "en": "She conceived a grand vision called the 'Caravan of Dreams' to climb all eight-thousanders, reaching eight peaks before vanishing near the summit of Kangchenjunga in 1992.",
+        "bn": "তিনি 'স্বপ্নের কাফেলা' নামে সব আট হাজারী শৃঙ্গ জয়ের পরিকল্পনা করেন এবং আটটি শৃঙ্গ জয়ের পর ১৯৯২ সালে কাঞ্চনজঙ্ঘার চূড়ার কাছে চিরতরে হারিয়ে যান।"
+      },
+      {
+        "en": "Wanda Rutkiewicz transformed modern mountaineering, demonstrating that women could pioneer the most formidable rock and ice faces on Earth.",
+        "bn": "ওয়ান্ডা রুতকিয়েভিচ আধুনিক পর্বতারোহণকে বদলে দিয়েছিলেন এটি প্রমাণ করে যে নারীরাও পৃথিবীর দুর্লঙ্ঘ্যতম বরফ ও পাথরের প্রাচীরকে পদানত করতে পারে।"
+      }
+    ]
+  },
+  {
+    "id": "hermann-buhl-nanga-parbat",
+    "title": "Hermann Buhl: The Solitary Knight of Nanga Parbat",
+    "titleBn": "হারম্যান বুল: নাঙ্গা পর্বতের নিঃসঙ্গ বীরযোদ্ধা",
+    "author": "Austrian Alpine Annals",
+    "level": "Intermediate",
+    "category": "Adventure & Survival",
+    "coverEmoji": "⚔️",
+    "summary": "Austrian mountaineer Hermann Buhl accomplishes an unprecedented solo summit dash on Nanga Parbat in 1953, standing alone all night on an 8,000-meter ledge.",
+    "summaryBn": "অস্ট্রীয় পর্বতারোহী হারম্যান বুল ১৯৫৩ সালে নাঙ্গা পর্বতে এক নজিরবিহীন একক চূড়া অভিযান পরিচালনা করেন এবং আট হাজার মিটার উঁচুর এক সরু খাঁদে দাঁড়িয়ে রাত কাটান।",
+    "sentences": [
+      {
+        "en": "Known ominously as 'The Killer Mountain', Nanga Parbat in Pakistan had claimed the lives of thirty-one climbers before 1953.",
+        "bn": "'খুনি পর্বত' হিসেবে কুখ্যাত পাকিস্তানের নাঙ্গা পর্বত ১৯৫৩ সালের আগেই একত্রিশ জন পর্বতারোহীর প্রাণ কেড়ে নিয়েছিল।"
+      },
+      {
+        "en": "During a German-Austrian expedition, twenty-nine-year-old Austrian climber Hermann Buhl launched a desperate solo bid from Camp IV at 22,600 feet.",
+        "bn": "এক জার্মান-অস্ট্রীয় যৌথ অভিযানে ঊনত্রিশ বছর বয়সী অস্ট্রীয় আরোহী হারম্যান বুল ২২,৬০০ ফুট উঁচুর ক্যাম্প-৪ থেকে এক দুঃসাহসী একক অভিযান শুরু করেন।"
+      },
+      {
+        "en": "Climbing without supplemental oxygen, Buhl hauled himself across grueling snowy ridges under a blazing Himalayan sun for seventeen relentless hours.",
+        "bn": "কোনো অতিরিক্ত অক্সিজেন ছাড়াই বুল তীব্র তপ্ত রোদের নিচে হিমালয়ের তুষারাবৃত শৈলশিরা বেয়ে একটানা সতেরো ঘণ্টা ধরে নিজেকে টেনে নিয়ে যান।"
+      },
+      {
+        "en": "At 7:00 PM on July 3, 1953, he stepped onto the summit of Nanga Parbat completely alone—a feat never before accomplished on an unclimbed eight-thousander.",
+        "bn": "১৯৫৩ সালের ৩ জুলাই সন্ধ্যা সাতটায় তিনি সম্পূর্ণ একাকী নাঙ্গা পর্বতের অপরাজিত শিখরে পা রাখেন—যা এর আগে কোনো নতুন আট হাজারী শৃঙ্গে কেউ করতে পারেনি।"
+      },
+      {
+        "en": "Overtaken by nightfall on his descent, Buhl was forced to stand upright on a precarious, tiny rock ledge at 26,000 feet, leaning on his ski pole.",
+        "bn": "নামার সময় রাত নেমে এলে বুল ২৬,০০০ ফুট উচ্চতায় এক অতি বিপজ্জনক সরু পাথুরে খাঁদের ওপর নিজের স্কি পোলে ভর দিয়ে সারা রাত দাঁড়িয়ে কাটাতে বাধ্য হন।"
+      },
+      {
+        "en": "Without a sleeping bag, tent, or warm fluids, he miraculously survived the freezing night through sheer meditative willpower.",
+        "bn": "কোনো স্লিপিং ব্যাগ, তাঁবু বা গরম জল ছাড়াই নিছক মানসিক একাগ্রতার জোরে তিনি সেই হাড়কাঁপানো রাতটিতে অলৌকিকভাবে বেঁচে থাকেন।"
+      },
+      {
+        "en": "Staggering into camp forty-one hours after departing, his face aged twenty years, Buhl etched his name into mountaineering immortality.",
+        "bn": "রওয়ানা হওয়ার একচল্লিশ ঘণ্টা পর মুখে বিশ বছর বয়সের ছাপ নিয়ে ক্যাম্পে টলতে টলতে ফিরে বুল পর্বতারোহণের অমরত্বে নিজের নাম চিরস্থায়ী করেন।"
+      }
+    ]
+  }
+]

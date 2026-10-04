@@ -1,0 +1,617 @@
+[
+  {
+    "id": "johannes-gutenberg-movable-type-press",
+    "title": "Johannes Gutenberg: The Movable Type Press and the Spark of Literacy",
+    "titleBn": "ইয়োহানেস গুটেনবার্গ: চলনশীল ধাতব হরফ ও মুদ্রণ বিপ্লব",
+    "author": "Inventions & Technology",
+    "level": "Intermediate",
+    "category": "Inventions & Technology",
+    "coverEmoji": "📖",
+    "summary": "Combining oil-based ink, a modified olive oil screw press, and durable lead-antimony metal alloys, Johannes Gutenberg created movable type, democratizing human knowledge.",
+    "summaryBn": "অলিভ তেলের কাঠের প্রেস, তৈলাক্ত কালি এবং সীসা ও অ্যান্টিমনির বিশেষ সংকর ধাতুর হরফ বানিয়ে জার্মানির গুটেনবার্গ আধুনিক মুদ্রণযন্ত্র আবিষ্কার করে জ্ঞানের বিস্তার ঘটান।",
+    "sentences": [
+      {
+        "en": "In medieval Europe, every single book had to be laboriously copied by hand with quill and ink by monastic scribes, requiring months of labor for a single volume that cost a small fortune.",
+        "bn": "মধ্যযুগীয় ইউরোপে প্রতিটি বই গির্জার সন্ন্যাসীদের হাতে কলমে লিখে নকল করতে হতো, যার ফলে একেকটি বই তৈরিতে কয়েক মাস সময় লাগত এবং তা কেবল ধনীদের হাতে থাকত।"
+      },
+      {
+        "en": "In Mainz, Germany, trained goldsmith Johannes Gutenberg recognized that knowledge would remain confined to church elites unless mechanical mass reproduction was invented.",
+        "bn": "জার্মানির মাইনৎস শহরের স্বর্ণশিল্পী ইয়োহানেস গুটেনবার্গ বুঝতে পারলেন যে যন্ত্রের সাহায্যে ছাপানোর ব্যবস্থা না করলে সাধারণ মানুষের কাছে শিক্ষার আলো কোনোদিনই পৌঁছাবে না।"
+      },
+      {
+        "en": "He cast thousands of individual alphabet letters from a unique metallurgical alloy of lead, tin, and antimony that melted easily while expanding slightly upon cooling to create sharp letter edges.",
+        "bn": "তিনি সীসা, টিন ও অ্যান্টিমনির সংকর ধাতু দিয়ে প্রতিটি বর্ণমালার আলাদা আলাদা ধাতব ছাঁচ তৈরি করলেন, যা ঠাণ্ডা হলেও কুঁচকে যেত না এবং লেখার ধারালো রূপ অক্ষত রাখত।"
+      },
+      {
+        "en": "Adapting the heavy wooden screw press traditionally used to crush grapes and olives in the Rhineland, he engineered an oil-based linseed ink that adhered smoothly to metal type without running.",
+        "bn": "আঙ্গুর ও জলপাই পেষার কাঠের প্রেসকে পরিবর্তন করে তিনি বিশেষ তৈলাক্ত কালি বানালেন যা ধাতুর হরফের গায়ে নিখুঁতভাবে লেগে থাকত এবং পাতায় লেপে যেত না।"
+      },
+      {
+        "en": "In 1455, he unveiled his monumental Forty-Two-Line Gutenberg Bible, producing 180 lavish copies that astonished scholars with their uniform typographic elegance and clarity.",
+        "bn": "১৪৫৫ সালে তিনি তাঁর ঐতিহাসিক বিয়াল্লিশ লাইনের বাইবেল প্রকাশ করলেন; এর ১৮০টি কপি ছাপা হরফের নিখুঁত সৌন্দর্য ও স্বচ্ছতা দেখে পণ্ডিতেরা বিস্ময়ে স্তব্ধ হয়ে যান।"
+      },
+      {
+        "en": "Though his unscrupulous financial backer Johann Fust foreclosed on his workshop and seized his printing presses, the revolutionary technology could not be stopped.",
+        "bn": "ঋণের দায়ে মহাজন তাঁর প্রেস ও ছাপাখানা কেড়ে নিলেও এই বৈপ্লবিক প্রযুক্তিকে আর আটকে রাখা গেল না, তা দাবানলের মতো চারদিকে ছড়িয়ে পড়ল।"
+      },
+      {
+        "en": "Within decades, millions of printed books spread scientific inquiry, ignited the Protestant Reformation, and fueled the Renaissance, ushering humanity into the modern information age.",
+        "bn": "কয়েক দশকে লাখ লাখ মুদ্রিত বই সাধারণ মানুষের ঘরে ঘরে পৌঁছে বৈজ্ঞানিক বিপ্লব ও রেনেসাঁসের জন্ম দিল এবং মানব সভ্যতাকে আধুনিক তথ্য যুগে প্রবেশ করাল।"
+      }
+    ]
+  },
+  {
+    "id": "james-watt-separate-condenser-steam-engine",
+    "title": "James Watt: The Separate Condenser and the Iron Engine of Industry",
+    "titleBn": "জেমস ওয়াট: আধুনিক বাষ্পীয় ইঞ্জিন ও শিল্প বিপ্লব",
+    "author": "Inventions & Industrial Pioneers",
+    "level": "Intermediate",
+    "category": "Inventions & Industrial Pioneers",
+    "coverEmoji": "🚂",
+    "summary": "Strolling through Glasgow Green, instrument maker James Watt realized that separating the cooling chamber doubled steam engine efficiency, powering the global Industrial Revolution.",
+    "summaryBn": "গ্লাসগোর এক উদ্যানে হাঁটার সময় জেমস ওয়াট উপলব্ধি করেন যে বাষ্প ঠাণ্ডা করার আলাদা চেম্বার বসালে ইঞ্জিনের বিপুল শক্তি অপচয় রোধ হয়; তাঁর এই আবিষ্কারই শিল্প বিপ্লবের চালিকাশক্তি হয়।",
+    "sentences": [
+      {
+        "en": "In 1764, Scottish scientific instrument maker James Watt was commissioned by the University of Glasgow to repair a malfunctioning scale model of Thomas Newcomen's atmospheric steam engine.",
+        "bn": "১৭৬৪ সালে গ্লাসগো বিশ্ববিদ্যালয় তাদের ল্যাবরেটরির নিউকোমেনের তৈরি একটি বাষ্পীয় ইঞ্জিনের মডেল মেরামত করার দায়িত্ব দিল স্কটিশ যন্ত্র প্রকৌশলী জেমস ওয়াটকে।"
+      },
+      {
+        "en": "Investigating why the machine burned enormous quantities of coal while producing meager mechanical power, Watt discovered an inherent thermodynamic wastefulness.",
+        "bn": "ইঞ্জিনটি কেন এত বিপুল কয়লা পুড়িয়েও সামান্য শক্তি তৈরি করছে তা পরীক্ষা করতে গিয়ে ওয়াট লক্ষ্য করলেন এর কার্যপদ্ধতিতেই এক মারাত্মক তাপীয় অপচয় লুকিয়ে আছে।"
+      },
+      {
+        "en": "Because cold water was injected directly into the main cylinder to condense the steam for every stroke, the iron walls were repeatedly chilled and had to be reheated with each cycle.",
+        "bn": "বাষ্প ঠাণ্ডা করে পিস্টন নামানোর জন্য মূল সিলিন্ডারের ভেতরেই ঠাণ্ডা পানি ছিটানো হতো, যার ফলে প্রতি ধাপে লোহার ভারী দেয়াল ঠাণ্ডা হয়ে আবার গরম হতে হতো।"
+      },
+      {
+        "en": "On a Sunday afternoon stroll across Glasgow Green in May 1765, the flash of genius struck him: condense the steam in a separate attached vessel while keeping the main cylinder boiling hot.",
+        "bn": "১৭৬৫ সালের এক রবিবার বিকেলে উদ্যানে হাঁটার সময় তাঁর মাথায় এক জাদুকরী চিন্তা এলো: মূল সিলিন্ডারকে সবসময় উত্তপ্ত রেখে বাষ্প ঠাণ্ডা করার জন্য পাশে একটি আলাদা পাত্র জুড়ে দিতে হবে!"
+      },
+      {
+        "en": "Partnering with Birmingham industrialist Matthew Boulton, Watt patented the separate condenser, cutting coal consumption by seventy-five percent while multiplying mechanical torque.",
+        "bn": "শিল্পপতি ম্যাথিউ বোল্টনের সাথে জোট বেঁধে ওয়াট এই আলাদা কনডেন্সারের পেটেন্ট নিলেন, যা কয়লার খরচ ৭৫ শতাংশ কমিয়ে দিয়ে ইঞ্জিনের শক্তি বহুগুণ বাড়িয়ে দিল।"
+      },
+      {
+        "en": "He subsequently invented the sun-and-planet gear to convert up-and-down pumping into rotary spinning motion, allowing steam to power textile cotton mills, ironworks, and locomotives.",
+        "bn": "এরপর তিনি পিস্টনের ওঠানামাকে চাকার অবিরাম ঘূর্ণন গতিতে রূপান্তরের বিশেষ গিয়ার উদ্ভাবন করলেন, যার ফলে সুতার কল, কামারশালা ও রেলগাড়িতে বাষ্পের ব্যবহার সম্ভব হলো।"
+      },
+      {
+        "en": "Honored forever in the physical unit of electrical and mechanical power—the watt—his thermodynamic breakthrough broke human reliance on animal muscle and water wheels.",
+        "bn": "বৈদ্যুতিক শক্তির একক 'ওয়াট' হিসেবে অমর হয়ে থাকা তাঁর এই উদ্ভাবন মানবজাতিকে ঘোড়ার শক্তি ও নদীর পানির ওপর নির্ভরতা থেকে মুক্ত করে এক নতুন যান্ত্রিক যুগে পৌঁছে দিয়েছিল।"
+      }
+    ]
+  },
+  {
+    "id": "nikola-tesla-ac-motor-niagara-falls",
+    "title": "Nikola Tesla: Alternating Current and the Power of Niagara Falls",
+    "titleBn": "নিকোলা টেসলা: অল্টারনেটিং কারেন্ট ও নায়াগ্রার বিদ্যুৎ",
+    "author": "Inventions & Industrial Pioneers",
+    "level": "Intermediate",
+    "category": "Inventions & Industrial Pioneers",
+    "coverEmoji": "⚡",
+    "summary": "Reciting Goethe's Faust in a Budapest park, Nikola Tesla envisioned the rotating magnetic field, inventing the polyphase AC induction motor and electrifying the modern world from Niagara Falls.",
+    "summaryBn": "বুদাপেস্টের পার্কে হাঁটতে হাঁটতে ঘূর্ণায়মান চৌম্বক ক্ষেত্রের ধারণা পেয়ে নিকোলা টেসলা এসি মোটর উদ্ভাবন করেন এবং নায়াগ্রা জলপ্রপাতের শক্তিকে বিদ্যুতে রূপান্তর করে পুরো বিশ্ব আলোকিত করেন।",
+    "sentences": [
+      {
+        "en": "Strolling through a Budapest city park at sunset in 1882 while reciting verses from Goethe's Faust, Serbian inventor Nikola Tesla was struck by an inspired vision: a rotating magnetic field.",
+        "bn": "১৮৮২ সালে বুদাপেস্টের এক পার্কে সূর্যাস্তের সময় গ্যোতের কবিতা আবৃত্তি করতে করতে সার্বিয়ান উদ্ভাবক নিকোলা টেসলার মনে হঠাৎ এক অলৌকিক চিন্তার উদয় হলো: ঘূর্ণায়মান চৌম্বক ক্ষেত্র!"
+      },
+      {
+        "en": "Using a wooden twig, he drew diagrams in the dirt path, conceiving the polyphase alternating current (AC) induction motor that eliminated spark-prone, wearing mechanical brushes.",
+        "bn": "একটি গাছের ডাল দিয়ে মাটির ধুলোয় দাগ কেটে তিনি বহু-ফেজের অল্টারনেটিং কারেন্ট বা এসি মোটরের নকশা এঁকে ফেললেন, যাতে কোনো স্পার্ক বা ঘর্ষণের ক্ষয় ছিল না।"
+      },
+      {
+        "en": "Immigrating to New York with four cents in his pocket and a letter of recommendation to Thomas Edison, Tesla soon clashed fiercely with the American inventor's dogmatic direct current (DC) system.",
+        "bn": "পকেটে মাত্র চার সেন্ট নিয়ে আমেরিকায় এসে টমাস এডিসনের সাথে কাজ শুরু করলেও এডিসনের দুর্বল ডিরেক্ট কারেন্ট (ডিসি) ব্যবস্থা নিয়ে দুজনের মাঝে তীব্র সংঘাত শুরু হলো।"
+      },
+      {
+        "en": "While Edison's low-voltage DC required smoky coal dynamos every single mile, Tesla's alternating current could be stepped up to hundreds of thousands of volts with transformers and sent across continents over thin wires.",
+        "bn": "এডিসনের ডিসি বিদ্যুৎ এক মাইলের বেশি দূরে যেতে পারত না, কিন্তু টেসলার এসি বিদ্যুৎ ট্রান্সফরমারের সাহায্যে লাখ লাখ ভোল্টে রূপান্তর করে শত শত মাইল দূরে চিকন তার দিয়ে পাঠানো যেত।"
+      },
+      {
+        "en": "Backed by visionary industrialist George Westinghouse during the bitter 'War of the Currents,' Tesla won the contract to harness the immense thundering energy of Niagara Falls in 1895.",
+        "bn": "শিল্পপতি জর্জ ওয়েস্টিংহাউসের সাহায্যে এডিসনের সাথে ঐতিহাসিক 'বিদ্যুতের যুদ্ধ'-এ জয়ী হয়ে টেসলা ১৮৯৫ সালে নায়াগ্রা জলপ্রপাতের বিশাল গর্জনকে বিদ্যুতে রূপান্তরের দায়িত্ব পেলেন।"
+      },
+      {
+        "en": "When the massive hydroelectric turbines spun, Tesla's clean polyphase power surged across twenty-six miles of wire to light the factories and streetlamps of Buffalo, New York.",
+        "bn": "জলপ্রপাতের টারবাইন ঘুরতেই টেসলার উৎপাদিত বিদ্যুৎ ছাব্বিশ মাইল দূরের বাফেলো শহরের সমস্ত কলকারখানা ও রাজপথের বাতি এক নিমেষে জাদুকরী আলোয় উদ্ভাসিত করে তুলল।"
+      },
+      {
+        "en": "Tesla held hundreds of groundbreaking patents in radio, robotics, and wireless transmission, standing as the prophet of the modern interconnected electric civilization.",
+        "bn": "রেডিও, রোবোটিক্স এবং তারবিহীন বিদ্যুৎ সঞ্চালনের শত শত বৈপ্লবিক আবিষ্কারের জনক নিকোলা টেসলা ছিলেন আধুনিক বিদ্যুতায়িত পৃথিবীর প্রকৃত ভবিষ্যৎ রূপকার।"
+      }
+    ]
+  },
+  {
+    "id": "thomas-edison-carbon-filament-lightbulb",
+    "title": "Thomas Edison: The Carbonized Bamboo Filament that Banished Darkness",
+    "titleBn": "থমাস এডিসন: কার্বন ফিলামেন্টের বৈদ্যুতিক বাতি",
+    "author": "Inventions & Industrial Pioneers",
+    "level": "Intermediate",
+    "category": "Inventions & Industrial Pioneers",
+    "coverEmoji": "💡",
+    "summary": "Testing over six thousand organic materials in his Menlo Park invention factory, Thomas Edison carbonized Japanese bamboo to create the first long-lasting commercial incandescent light bulb.",
+    "summaryBn": "ছয় হাজারেরও বেশি উপাদান নিয়ে পরীক্ষা চালিয়ে অবশেষে জাপানি বাঁশের কার্বন ফিলামেন্ট ব্যবহার করে টমাস এডিসন তৈরি করেছিলেন প্রথম দীর্ঘস্থায়ী ও বাণিজ্যিক বৈদ্যুতিক বাতি।",
+    "sentences": [
+      {
+        "en": "Operating out of his legendary research laboratory in Menlo Park, New Jersey, self-educated inventor Thomas Edison set out in 1878 to replace flickering gas lamps with safe electric illumination.",
+        "bn": "নিউ জার্সির মেনলো পার্কের বিশ্বখ্যাত গবেষণাগারে বসে টমাস এডিসন ১৮৭৮ সালে গ্যাসবাতির ধোঁয়াটে আলো দূর করে নিরাপদ বৈদ্যুতিক বাতি আবিষ্কারের কাজে হাত দিলেন।"
+      },
+      {
+        "en": "While other experimenters had generated brief incandescent sparks, their metallic filaments oxidized and burned out within minutes inside imperfect vacuum globes.",
+        "bn": "অন্যান্য বিজ্ঞানীরা এর আগে আলো জ্বালাতে পারলেও বাতাসের অক্সিজেনের কারণে তাদের তারের ফিলামেন্ট কয়েক মিনিটের মধ্যে পুড়ে ছাই হয়ে যেত।"
+      },
+      {
+        "en": "Edison understood that a practical commercial lamp required high electrical resistance, a complete mercury air vacuum, and a material that could withstand white-hot heat for hundreds of hours.",
+        "bn": "এডিসন বুঝলেন একটি সফল বাতির জন্য প্রয়োজন উচ্চ রোধ, নিশ্ছিদ্র পারদ-ভ্যাকুয়াম এবং এমন এক উপাদান যা শত শত ঘণ্টা উজ্জ্বল আলোয় পুড়েও টিকবে।"
+      },
+      {
+        "en": "His team systematically tested over six thousand diverse organic materials, including platinum, horsehair, cedar wood, coconut fibers, fishing line, and human beard hair.",
+        "bn": "তাঁর গবেষক দল ঘোড়ার লেজের চুল, নারকেলের আঁশ, মাছ ধরার সুতা এমনকি মানুষের দাড়ির চুলসহ ছয় হাজারেরও বেশি উপাদান দিয়ে একের পর এক পরীক্ষা চালাতে লাগল।"
+      },
+      {
+        "en": "In October 1879, a carbonized cotton thread filament burned continuously for forty hours; months later, testing Japanese fan bamboo fibers carbonized in a kiln, the bulb burned over twelve hundred hours.",
+        "bn": "১৮৭৯ সালের অক্টোবরে কার্বনযুক্ত তুলোর সুতা টানা চল্লিশ ঘণ্টা জ্বলল; পরে জাপানি পাখার বাঁশের কার্বন ফিলামেন্ট একটানা বারো শত ঘণ্টারও বেশি আলো দিয়ে রেকর্ড গড়ল!"
+      },
+      {
+        "en": "Beyond the bulb itself, Edison engineered the complete infrastructure: dynamos, insulated subterranean copper conduits, safety fuses, and screw-base sockets.",
+        "bn": "শুধু বাতি নয়, এডিসন মাটির নিচের তারের লাইন, ডায়নামো, ফিউজ এবং প্যাঁচানো সকেটসহ পুরো বৈদ্যুতিক গ্রিডের সম্পূর্ণ পরিকাঠামো নিজে হাতে তৈরি করলেন।"
+      },
+      {
+        "en": "When he switched on Pearl Street Station in lower Manhattan in September 1882, nighttime darkness was conquered, doubling the waking hours of human enterprise.",
+        "bn": "১৮৮২ সালের সেপ্টেম্বরে নিউ ইয়র্কে তিনি যখন প্রথম বিদ্যুৎ গ্রিড চালু করলেন, রাতের অন্ধকার দূর হয়ে মানুষের কর্মঘণ্টা দ্বিগুণ বেড়ে গিয়ে নতুন যুগের সূচনা হলো।"
+      }
+    ]
+  },
+  {
+    "id": "guglielmo-marconi-wireless-atlantic-radio",
+    "title": "Guglielmo Marconi: The Three Taps Across the Atlantic",
+    "titleBn": "গুলিয়েলমো মার্কনি: আটলান্টিকের বুকে বেতার সংকেতের বিপ্লব",
+    "author": "Inventions & Industrial Pioneers",
+    "level": "Intermediate",
+    "category": "Inventions & Industrial Pioneers",
+    "coverEmoji": "📻",
+    "summary": "Defying orthodox physicists who insisted radio waves could not curve around the Earth's curvature, Guglielmo Marconi transmitted three clicks of the letter 'S' across the Atlantic in 1901.",
+    "summaryBn": "পৃথিবীর গোল তলের কারণে বেতার তরঙ্গ দূরে যেতে পারবে না বিজ্ঞানীদের এই তত্ত্ব উড়িয়ে দিয়ে গুলিয়েলমো মার্কনি ১৯০১ সালে আটলান্টিক পাড়ি দিয়ে প্রথম তারবিহীন সংকেত পাঠিয়েছিলেন।",
+    "sentences": [
+      {
+        "en": "As a curious self-taught twenty-year-old on his father's estate near Bologna, Italy, Guglielmo Marconi read Heinrich Hertz's obituaries, becoming obsessed with invisible electromagnetic waves.",
+        "bn": "ইতালির বোলোনিয়ায় নিজের ফার্মহাউসে বসে বিশ বছর বয়সী তরুণ গুলিয়েলমো মার্কনি বিজ্ঞানী হার্টজের গবেষণা পড়ে অদৃশ্য তড়িৎ-চৌম্বকীয় তরঙ্গ নিয়ে পরীক্ষা শুরু করলেন।"
+      },
+      {
+        "en": "He modified Edouard Branly's metal filings coherer, connected it to an elevated wire antenna, and successfully rang a bell across his attic without connecting cables.",
+        "bn": "তিনি ধাতব গুঁড়োর রিসিভারকে উঁচু তারের অ্যান্টেনার সাথে যুক্ত করে ঘরের এক কোণ থেকে অন্য কোণে কোনো তার ছাড়া ঘণ্টা বাজিয়ে সবাইকে তাক লাগিয়ে দিলেন।"
+      },
+      {
+        "en": "When the Italian Ministry of Posts dismissed his wireless telegraphy as useless folly, Marconi moved to England, securing patents and demonstrating ship-to-shore signaling for the Admiralty.",
+        "bn": "ইতালীয় সরকার তাঁর এই তারবিহীন টেলিগ্রাফকে অকেজো পাগলামি বলে উড়িয়ে দিলে তিনি ইংল্যান্ডে চলে যান এবং সমুদ্রের জাহাজের সাথে যোগাযোগের সফল মহড়া দেখান।"
+      },
+      {
+        "en": "Prominent theoretical physicists insisted that wireless waves traveled solely in straight lines and could never cross oceans because Earth's spherical curvature formed a two-hundred-mile-high mountain of water between continents.",
+        "bn": "তৎকালীন প্রখ্যাত পদার্থবিদরা বললেন বেতার তরঙ্গ সোজা পথে চলে; ফলে পৃথিবীর গোল আকৃতির কারণে সাগরের ওপারে হাজার মাইল দূরে তরঙ্গ পাঠানো একেবারেই অসম্ভব।"
+      },
+      {
+        "en": "Marconi ignored mathematical dogmas: on December 12, 1901, atop Signal Hill in icy St. John's, Newfoundland, he raised a five-hundred-foot wire antenna using a kite in howling gales.",
+        "bn": "মার্কনি পণ্ডিতদের কথায় কান না দিয়ে ১৯০১ সালের ১২ ডিসেম্বর কানাডার সেন্ট জনসের বরফঝড়ের মাঝে একটি ঘুড়ি উড়িয়ে আকাশে পাঁচশত ফুট উঁচু তারের অ্যান্টেনা টানালেন।"
+      },
+      {
+        "en": "Pressing a telephone earpiece to his ear at twelve-thirty, he heard three faint, rhythmic clicks: dot-dot-dot—the Morse code letter 'S' sent from Poldhu, Cornwall, over two thousand miles across the Atlantic.",
+        "bn": "দুপুর সাড়ে বারোটায় হেডফোনে কান পাততেই তিনি শুনতে পেলেন মৃদু তিনটি টোকার শব্দ: টি-টি-টি—অর্থাৎ দুই হাজার মাইল দূরের ইংল্যান্ড থেকে পাঠানো মোর্স কোডের 'এস' অক্ষর!"
+      },
+      {
+        "en": "Unknown to science at the time, the radio waves had bounced off the charged ionosphere in the upper atmosphere, uniting the planet through instantaneous wireless telecommunication.",
+        "bn": "বায়ুমণ্ডলের আয়নমণ্ডলে ধাক্কা খেয়ে তরঙ্গের ফিরে আসার এই ঘটনা প্রমাণ করল যে অদৃশ্য তরঙ্গের মাধ্যমে মুহূর্তের মধ্যে পুরো বিশ্বকে এক সুতোয় বেঁধে ফেলা সম্ভব।"
+      }
+    ]
+  },
+  {
+    "id": "samuel-morse-telegraph-wire-what-hath-god-wrought",
+    "title": "Samuel Morse: What Hath God Wrought on the Electric Wire",
+    "titleBn": "স্যামুয়েল মোর্স: তারের ভেতর বিদ্যুৎ ও মোর্স কোডের জন্ম",
+    "author": "Inventions & Industrial Pioneers",
+    "level": "Intermediate",
+    "category": "Inventions & Industrial Pioneers",
+    "coverEmoji": "⚡",
+    "summary": "After grief arrived too late by postal carriage to see his dying wife, portrait painter Samuel Morse invented the electromagnetic recording telegraph and the universal Morse code.",
+    "summaryBn": "ঘোড়ার ডাকের চিঠির দেরির কারণে স্ত্রীর মৃত্যুর খবর সময়মতো না পেয়ে শোকাহত চিত্রশিল্পী স্যামুয়েল মোর্স বৈদ্যুতিক টেলিগ্রাফ এবং ডট-ড্যাশের মোর্স কোড উদ্ভাবন করেন।",
+    "sentences": [
+      {
+        "en": "In 1825, celebrated American portrait painter Samuel F. B. Morse was in Washington painting a portrait of the Marquis de Lafayette when an urgent horse-courier delivered a letter from New Haven.",
+        "bn": "১৮২৫ সালে ওয়াশিংটনে ফরাসি জেনারেল লাফায়েতের ছবি আঁকার সময় ঘোড়সওয়ার ডাকপিয়ন এসে স্যামুয়েল মোর্সের হাতে নিউ হ্যাভেন থেকে পাঠানো একটি জরুরি চিঠি দিল।"
+      },
+      {
+        "en": "The letter stated his twenty-five-year-old wife Lucretia was convalescing; racing home on horses, he arrived to discover she had already died and was already buried.",
+        "bn": "চিঠিতে লেখা ছিল তাঁর স্ত্রী অসুস্থ; কিন্তু দ্রুত ঘোড়া ছুটিয়ে বাড়ি ফিরে তিনি দেখলেন স্ত্রী মারা গেছেন এবং তাঁর সমাধি পর্যন্ত সম্পন্ন হয়ে গেছে!"
+      },
+      {
+        "en": "Devastated that sluggish postal communications had robbed him of a final farewell, Morse became obsessed with instantaneous long-distance information transmission.",
+        "bn": "ডাক ব্যবস্থার ধীরগতির কারণে স্ত্রীর শেষ মুখ দেখতে না পারার তীব্র অনুশোচনায় মোর্স মুহূর্তের মধ্যে দূরদূরান্তে বার্তা পাঠানোর যন্ত্র তৈরির গবেষণায় নামলেন।"
+      },
+      {
+        "en": "Aboard the sailing ship Sully in 1832, he discussed electromagnetism with scientist Charles Jackson, realizing that electric pulses along copper wire could represent alphabet letters.",
+        "bn": "১৮৩২ সালে এক জাহাজে বিজ্ঞানীদের সাথে আলোচনা করে তিনি বুঝলেন তামার তারের ভেতর দিয়ে বিদ্যুতের ঝিলিক পাঠিয়ে মানুষের বর্ণমালার অক্ষর সংকেতে রূপান্তর করা সম্ভব।"
+      },
+      {
+        "en": "Collaborating with mechanic Alfred Vail, he designed Morse Code, assigning short and long electrical pulses (dots and dashes) based on the frequency of letter usage in printer type drawers.",
+        "bn": "সহকারী ভেইলের সাথে মিলে তিনি মোর্স কোড তৈরি করলেন, যেখানে হরফের ব্যবহারের ওপর ভিত্তি করে ছোট ও বড় সংকেত (ডট ও ড্যাশ) নির্ধারণ করা হলো।"
+      },
+      {
+        "en": "On May 24, 1844, sitting before the Supreme Court chamber in the US Capitol, Morse tapped out history's first intercity message over forty miles of wire to Baltimore: 'What hath God wrought.'",
+        "bn": "১৮৪৪ সালের ২৪ মে ক্যাপিটল ভবনে বসে চল্লিশ মাইল দূরের বাল্টিমোরে তিনি ইতিহাসের প্রথম বৈদ্যুতিক বার্তা পাঠালেন: 'ঈশ্বর কী মহিমান্বিত সৃষ্টি করেছেন!'"
+      },
+      {
+        "en": "The electric telegraph abolished physical distance for human thought, creating the foundational nervous system of modern global telecommunications.",
+        "bn": "বৈদ্যুতিক টেলিগ্রাফ মানুষের চিন্তাভাবনার জন্য ভৌগোলিক দূরত্বের সীমানা মুছে দিল এবং আধুনিক যোগাযোগ ব্যবস্থার মূল স্নায়ুতন্ত্র তৈরি করল।"
+      }
+    ]
+  },
+  {
+    "id": "alexander-graham-bell-telephone-mr-watson",
+    "title": "Alexander Graham Bell: Mr. Watson, Come Here, I Want You",
+    "titleBn": "আলেকজান্ডার গ্রাহাম বেল: টেলিফোনের প্রথম মানব কণ্ঠ",
+    "author": "Inventions & Industrial Pioneers",
+    "level": "Intermediate",
+    "category": "Inventions & Industrial Pioneers",
+    "coverEmoji": "☎️",
+    "summary": "Teaching deaf children to speak in Boston, Scottish teacher Alexander Graham Bell inverted the harmonic telegraph, transmitting the first clear human voice across an electric wire in 1876.",
+    "summaryBn": "বোস্টনে বধির শিশুদের কথা বলা শেখাতে গিয়ে স্কটিশ শিক্ষক আলেকজান্ডার গ্রাহাম বেল ১৮৭৬ সালে তারের ভেতর দিয়ে মানুষের জীবন্ত কণ্ঠস্বর এক ঘর থেকে অন্য ঘরে পাঠিয়েছিলেন।",
+    "sentences": [
+      {
+        "en": "Born in Edinburgh into a family dedicated to elocution and voice pathology, Alexander Graham Bell moved to Boston, teaching deaf students to speak using his father's 'Visible Speech' phonetic system.",
+        "bn": "এডিনবার্গের এক শিক্ষক পরিবারে জন্ম নেওয়া আলেকজান্ডার গ্রাহাম বেল বোস্টনে এসে বধির শিশুদের কথা বলা ও শব্দ উচ্চারণের কৌশল শেখানোর কাজে যুক্ত হন।"
+      },
+      {
+        "en": "Both his beloved mother and his future wife Mabel were profoundly deaf, instilling in Bell an intimate acoustic understanding of how sound vibrations travel through biological eardrums.",
+        "bn": "তাঁর মমতাময়ী মা এবং প্রিয়তমা স্ত্রী মেবেল দুজনেই বধির ছিলেন; যার ফলে মানুষের কানের পর্দার ভেতর শব্দের কম্পন কীভাবে ঘটে তা নিয়ে বেলের গভীর পর্যবেক্ষণ ছিল।"
+      },
+      {
+        "en": "While attempting to build a 'harmonic telegraph' to transmit multiple telegraph messages over a single wire, Bell asked: if electricity could mimic multiple musical pitches, why not the human voice?",
+        "bn": "এক তার দিয়ে একাধিক টেলিগ্রাফ সংকেত পাঠানোর কাজ করতে করতে বেলের মাথায় চিন্তা এলো: বিদ্যুৎ যদি বাদ্যের সুর বহন করতে পারে, তবে মানুষের গলার স্বর কেন পারবে না?"
+      },
+      {
+        "en": "Partnering with skilled electrical mechanic Thomas Watson, Bell engineered a variable liquid transmitter using diluted sulfuric acid to modulate electric current with speaking membrane diaphragms.",
+        "bn": "মেকানিক থমাস ওয়াটসনকে সাথে নিয়ে বেল এক বিশেষ তরল ট্রান্সমিটার তৈরি করলেন, যা মানুষের কণ্ঠের কাঁপনে এসিডের ভেতর দিয়ে বিদ্যুৎ প্রবাহের ওঠা-নামা নিয়ন্ত্রণ করত।"
+      },
+      {
+        "en": "On March 10, 1876, working in his Boston laboratory, Bell accidentally spilled battery acid onto his clothes, crying out into the transmitter: 'Mr. Watson, come here, I want you!'",
+        "bn": "১৮৭৬ সালের ১০ মার্চ কাজ করার সময় নিজের জামায় ব্যাটারির এসিড পড়ে যাওয়ায় বেল চিৎকার করে ট্রান্সমিটারে বললেন: 'মিস্টার ওয়াটসন, এদিকে আসুন, আপনাকে আমার দরকার!' "
+      },
+      {
+        "en": "In the adjoining room forty feet away, Watson heard the distinct, clear acoustic words ringing through his wire receiver, dropping his tools and sprinting into the corridor in jubilation.",
+        "bn": "চল্লিশ ফুট দূরের ঘরে রিসিভারে কান পেতে থাকা ওয়াটসন স্পষ্ট সেই কথাগুলো শুনতে পেলেন এবং হাতের যন্ত্রপাতি ফেলে আনন্দে উল্লাস করতে করতে দৌড়ে এলেন।"
+      },
+      {
+        "en": "Bell's telephone turned acoustic airwaves into electrical pulses, allowing separated families, distant cities, and continents to speak heart-to-heart across the globe.",
+        "bn": "বেলের টেলিফোন বাতাসের শব্দকে বিদ্যুতের তরঙ্গে রূপান্তর করে হাজার মাইল দূরের মানুষকে একে অপরের সাথে সরাসরি কথা বলার জাদুকরী সুযোগ করে দিয়েছিল।"
+      }
+    ]
+  },
+  {
+    "id": "alfred-nobel-dynamite-peace-prize-reckoning",
+    "title": "Alfred Nobel: The Merchant of Death Who Founded the Peace Prize",
+    "titleBn": "আলফ্রেড নোবেল: ডিনামাইটের ধ্বংস ও নোবেল শান্তি পুরস্কারের সূচনা",
+    "author": "Philanthropy & Humanitarians",
+    "level": "Intermediate",
+    "category": "Philanthropy & Humanitarians",
+    "coverEmoji": "🕊️",
+    "summary": "Reading a mistaken newspaper obituary declaring 'The Merchant of Death is Dead,' Swedish dynamite inventor Alfred Nobel bequeathed ninety-four percent of his empire to humanity's greatest benefactors.",
+    "summaryBn": "ভুলবশত পত্রিকায় প্রকাশিত নিজের অকাল মৃত্যু সংবাদে 'মৃত্যুর সওদাগর মৃত' পড়ে অনুতপ্ত আলফ্রেড নোবেল তাঁর বিপুল সম্পত্তির ৯৪ ভাগ দিয়ে প্রতিষ্ঠা করেন বিশ্বসেরা নোবেল পুরস্কার।",
+    "sentences": [
+      {
+        "en": "Working with volatile liquid nitroglycerin in Stockholm, Swedish chemist Alfred Nobel suffered unspeakable personal sorrow in 1864 when a factory explosion killed his younger brother Emil.",
+        "bn": "১৮৬৪ সালে স্টকহোমে বিপজ্জনক নাইট্রোগ্লিসারিন নিয়ে পরীক্ষা করার সময় এক ভয়াবহ বিস্ফোরণে নিজের ছোট ভাই এমিলকে হারিয়ে শোকে ভেঙে পড়েছিলেন আলফ্রেড নোবেল।"
+      },
+      {
+        "en": "Resolved to tame the unpredictable liquid, he mixed it with porous diatomaceous kieselguhr earth, creating a malleable, stable dough he patented in 1867 as dynamite.",
+        "bn": "সেই বিধ্বংসী তরলকে নিরাপদ করতে তিনি মাটির বিশেষ খনিজের সাথে তা মিশিয়ে এক শক্ত পেস্ট তৈরি করলেন এবং ১৮৬৭ সালে এর নাম দিলেন 'ডিনামাইট'।"
+      },
+      {
+        "en": "Dynamite revolutionized civil engineering, blasting railway tunnels through the Alps, cutting canals, and mining mineral ores, amassing Nobel colossal international wealth.",
+        "bn": "ডিনামাইট প্রকৌশলে বিপ্লব আনল—পাহাড় কেটে রেলপথ, খাল খনন আর খনির কাজ সহজ করে দিয়ে নোবেলকে বিপুল ধনসম্পদের মালিক বানিয়ে দিল।"
+      },
+      {
+        "en": "However, military commanders quickly weaponized his high explosives for trench warfare, artillery shells, and human slaughter, deeply distressing the pacifist inventor.",
+        "bn": "কিন্তু বিশ্বযুদ্ধের সেনাপতিরা তাঁর এই বিস্ফোরককে যুদ্ধের কামানের গোলায় পরিণত করে রক্তবন্যা বইয়ে দিতে শুরু করলে নোবেল মানসিকভাবে ব্যথিত হয়ে ওঠেন।"
+      },
+      {
+        "en": "In 1888, following the death of his brother Ludvig in France, a careless French newspaper mistakenly published Alfred's obituary with the condemning headline: 'The Merchant of Death is Dead.'",
+        "bn": "১৮৮৮ সালে তাঁর ভাইয়ের মৃত্যুর পর এক ফরাসি পত্রিকা ভুল করে আলফ্রেড নোবেলের ভুয়া শোকবার্তা ছাপল এই শিরোনামে: 'মৃত্যুর সওদাগর অবশেষে মৃত!'"
+      },
+      {
+        "en": "Horrified to realize that history would remember him solely as a butcher of men, Nobel secretly drafted a revolutionary will in Paris in 1895.",
+        "bn": "ইতিহাস তাঁকে কেবল এক রক্তপিপাসু খুনি হিসেবে মনে রাখবে দেখে শঙ্কিত হয়ে নোবেল ১৮৯৫ সালে প্যারিসে বসে গোপনে তাঁর ঐতিহাসিক শেষ উইল তৈরি করলেন।"
+      },
+      {
+        "en": "He dedicated ninety-four percent of his massive fortune to establish annual international prizes in Physics, Chemistry, Medicine, Literature, and Peace, transforming explosive wealth into humanity's highest moral beacon.",
+        "bn": "তিনি তাঁর সমস্ত সম্পদের ৯৪ ভাগ দান করে পদার্থ, রসায়ন, চিকিৎসা, সাহিত্য ও শান্তিতে নোবেল পুরস্কার প্রবর্তন করে তাঁর সম্পদকে মানবতার সেবায় উৎসর্গ করলেন।"
+      }
+    ]
+  },
+  {
+    "id": "louis-daguerre-silver-plate-photography",
+    "title": "Louis Daguerre: Freezing Shadows on Silver Plates",
+    "titleBn": "লুই দাগের: রুপার পাতে আলোর প্রথম স্থায়ী প্রতিচ্ছবি",
+    "author": "Inventions & Industrial Pioneers",
+    "level": "Intermediate",
+    "category": "Inventions & Industrial Pioneers",
+    "coverEmoji": "📷",
+    "summary": "Accidentally leaving an exposed silver iodide plate inside a chemical cupboard with a broken thermometer, Louis Daguerre discovered mercury vapor development, inventing photography.",
+    "summaryBn": "ভাঙা থার্মোমিটারের পারদের বাষ্পে রুপার পাতে ছবি ফুটে উঠতে দেখে ফরাসি শিল্পী লুই দাগের ১৮৩৯ সালে উদ্ভাবন করেছিলেন ক্যামেরার প্রাচীন রূপ 'দাগেরোটিপ'।",
+    "sentences": [
+      {
+        "en": "Operating the popular Parisian Diorama theater using painted transparent linens and lighting tricks, French artist Louis Daguerre became obsessed with capturing permanent camera obscura images.",
+        "bn": "প্যারিসে আলোর খেলার থিয়েটার চালানো ফরাসি শিল্পী লুই দাগেরের মনে এক স্বপ্ন জাগল—ক্যামেরা অবস্কিউরার কাঁচের ওপর ভেসে ওঠা ছবিকে কীভাবে চিরস্থায়ী করা যায়।"
+      },
+      {
+        "en": "Collaborating with fellow inventor Nicéphore Niépce until Niépce's death in 1833, Daguerre experimented with copper plates coated in light-sensitive silver iodide salts.",
+        "bn": "বিজ্ঞানী নিপসের সাথে যৌথভাবে কাজ করে তিনি রুপার প্রলেপ দেওয়া তামার পাতের ওপর আলোর সংবেদনশীল রাসায়নিক মেখে ঘণ্টার পর ঘণ্টা রোদে রেখে পরীক্ষা চালাতেন।"
+      },
+      {
+        "en": "Exposure times in direct sunlight took nearly eight agonizing hours, resulting in faint, blurry, fugitive images that blackened upon contact with room light.",
+        "bn": "তখন একটি ছবি তুলতে কড়া রোদে আট ঘণ্টা প্লেট ফেলে রাখতে হতো এবং আলোর সংস্পর্শে আসামাত্র সেই অস্পষ্ট ছবি মুহূর্তেই পুড়ে কালো হয়ে যেত।"
+      },
+      {
+        "en": "A serendipitous accident unlocked the mystery: Daguerre placed an underexposed, seemingly blank silver plate inside a chemical storage cupboard overnight.",
+        "bn": "হঠাৎ এক অদ্ভুত ঘটনা ঘটল: আলো না পেয়ে সম্পূর্ণ খালি মনে হওয়া একটি রুপার পাত তিনি রাতে রাসায়নিকের আলমারির ভেতর রেখে দিলেন।"
+      },
+      {
+        "en": "Opening the cabinet the following morning, he was stunned to find a sharp, highly detailed positive image magically developed upon the polished silver surface.",
+        "bn": "পরদিন সকালে আলমারি খুলতেই তিনি বিস্ময়ে দেখলেন সেই চকচকে রুপার পাতের ওপর জাদুকরীভাবে অত্যন্ত নিখুঁত এক স্পষ্ট ছবি ফুটে উঠেছে!"
+      },
+      {
+        "en": "Testing one chemical bottle at a time, he deduced that fumes leaking from a broken mercury thermometer in the cupboard had chemically developed the invisible latent image.",
+        "bn": "বোতলগুলো পরীক্ষা করে তিনি দেখলেন আলমারির ভাঙা থার্মোমিটার থেকে নির্গত পারদের ধোঁয়াই অলক্ষ্যে সেই সুপ্ত ছবিটিকে ফুটিয়ে তুলেছিল।"
+      },
+      {
+        "en": "In 1839, the French government purchased the daguerreotype patent and generously gifted it 'free to the world,' inaugurating visual memory for all humankind.",
+        "bn": "১৮৩৯ সালে ফ্রান্স সরকার এই আবিষ্কার কিনে নিয়ে সারা বিশ্বের সাধারণ মানুষের জন্য উন্মুক্ত ঘোষণা করে এবং আধুনিক আলোকচিত্রের নবযুগের সূচনা করে।"
+      }
+    ]
+  },
+  {
+    "id": "rudolf-diesel-compression-ignition-engine",
+    "title": "Rudolf Diesel: Peanut Oil and the Compression-Ignition Miracle",
+    "titleBn": "রুডলফ ডিজেল: চরম চাপে বায়ুর উত্তাপ ও ডিজেল ইঞ্জিন",
+    "author": "Inventions & Industrial Pioneers",
+    "level": "Intermediate",
+    "category": "Inventions & Industrial Pioneers",
+    "coverEmoji": "⚙️",
+    "summary": "Rejecting spark plugs and wasteful steam, Rudolf Diesel compressed air until it ignited fuel spontaneously, creating the world's most efficient heavy-duty thermal engine.",
+    "summaryBn": "কোনো স্পার্ক প্লাগ ছাড়াই বাতাসকে প্রচণ্ড চাপে গরম করে তেলের ভেতর স্বতঃস্ফূর্ত আগুন জ্বালানোর কৌশল বের করে রুডলফ ডিজেল ভারী যানবাহনের সেরা ইঞ্জিন তৈরি করেন।",
+    "sentences": [
+      {
+        "en": "Studying thermodynamics under Carl von Linde at Munich Polytechnic, German engineer Rudolf Diesel was outraged that contemporary steam engines wasted over ninety percent of fuel heat.",
+        "bn": "মিউনিখ পলিটেকনিকে তাপগতিবিদ্যা পড়ার সময় জার্মান প্রকৌশলী রুডলফ ডিজেল ক্ষুব্ধ হয়েছিলেন এটা দেখে যে বাষ্পীয় ইঞ্জিনগুলো কয়লার নব্বই শতাংশ তাপই অপচয় করে।"
+      },
+      {
+        "en": "Inspired by a Southeast Asian bamboo fire piston that ignited tinder through rapid pneumatic compression, Diesel envisioned an internal combustion engine without spark plugs or electrical coils.",
+        "bn": "বাঁশের নলে বাতাস চেপে আগুন জ্বালানোর প্রাচীন এশীয় কৌশল দেখে অনুপ্রাণিত হয়ে ডিজেল ভাবলেন কোনো বিদ্যুতের স্পার্ক ছাড়াই শুধু বাতাসের চাপে আগুন জ্বালানো সম্ভব।"
+      },
+      {
+        "en": "He designed an engine that compressed pure atmospheric air inside the cylinder to hundreds of pounds per square inch, heating the air to over one thousand degrees Fahrenheit.",
+        "bn": "তিনি এমন এক ইঞ্জিন বানালেন যা সিলিন্ডারের বাতাসকে এত প্রচণ্ড চাপে সংকুচিত করত যে বাতাসের তাপমাত্রা এক হাজার ডিগ্রি ফারেনহাইটে পৌঁছে যেত।"
+      },
+      {
+        "en": "When a fine atomized spray of heavy oil was injected into the incandescent air at top dead center, the fuel ignited instantaneously and smoothly through sheer compressive heat.",
+        "bn": "সেই ফুটন্ত গরম বাতাসের ভেতর তেলের সূক্ষ্ম কণা স্প্রে করামাত্র কোনো স্ফুলিঙ্গ ছাড়াই তেলের ভেতর নিজে নিজেই আগুন জ্বলে উঠত এবং পিস্টনকে ধাক্কা দিত।"
+      },
+      {
+        "en": "His experimental prototype exploded in 1893, nearly killing him, but by 1897 his perfected cast-iron motor achieved an unprecedented thermal efficiency of thirty percent.",
+        "bn": "১৮৯৩ সালে প্রথম পরীক্ষামূলক ইঞ্জিন বিস্ফোরিত হয়ে তিনি মৃত্যুর হাত থেকে ফিরে আসেন, কিন্তু ১৮৯৭ সালে তিনি বিশ্বের সবচেয়ে সাশ্রয়ী ইঞ্জিন উপহার দেন।"
+      },
+      {
+        "en": "At the 1900 Paris Exposition, Diesel ran his engines entirely on natural peanut oil, envisioning decentralized agricultural power for independent farmers.",
+        "bn": "১৯০০ সালের প্যারিস প্রদর্শনীতে ডিজেল চীনাবাদামের খাঁটি তেল দিয়ে নিজের ইঞ্জিন চালিয়ে দেখিয়েছিলেন যে কৃষকেরা নিজেদের তেল দিয়েই এই ইঞ্জিন চালাতে পারবে।"
+      },
+      {
+        "en": "Though he vanished mysteriously from a cross-channel steamer in 1913, his high-torque engine powers global container ships, freight trains, and heavy industries across the modern world.",
+        "bn": "১৯১৩ সালে এক জাহাজে রহস্যজনকভাবে নিখোঁজ হলেও রুডলফ ডিজেলের তৈরি ইঞ্জিন আজও বিশ্বের সমস্ত পণ্যবাহী জাহাজ ও ট্রেনের চালিকাশক্তি হয়ে কাজ করে যাচ্ছে।"
+      }
+    ]
+  },
+  {
+    "id": "eli-whitney-cotton-gin-interchangeable-parts",
+    "title": "Eli Whitney: Interchangeable Parts and the Machine Age",
+    "titleBn": "এলি হুইটনি: যন্ত্রাংশের সমরূপতা ও আধুনিক কারখানা",
+    "author": "Inventions & Industrial Pioneers",
+    "level": "Intermediate",
+    "category": "Inventions & Industrial Pioneers",
+    "coverEmoji": "🏭",
+    "summary": "Beyond the cotton gin, Yale graduate Eli Whitney demonstrated interchangeable musket parts before President Adams, inventing the modular foundation of modern assembly-line manufacturing.",
+    "summaryBn": "তুলা ছাড়ানোর যন্ত্র ছাড়াও সব যন্ত্রাংশ যাতে একই মাপে নিখুঁতভাবে তৈরি হয় সেই 'ইন্টারচেঞ্জেবল পার্টস' পদ্ধতি উদ্ভাবন করে আধুনিক শিল্প কারখানার গণ-উৎপাদনের ভিত্তি গড়েন এলি হুইটনি।",
+    "sentences": [
+      {
+        "en": "Visiting a Georgia plantation in 1793 as an unemployed tutor, Massachusetts-born Yale graduate Eli Whitney watched slaves spend ten grueling hours manually picking green seeds from a single pound of cotton.",
+        "bn": "১৭৯৩ সালে এক গৃহশিক্ষক হিসেবে জর্জিয়ার খামারে গিয়ে এলি হুইটনি দেখলেন দাসেরা সারাদিন ধরে মাত্র এক পাউন্ড তুলা থেকে হাত দিয়ে বীজ ছাড়াতে গিয়ে রক্তাক্ত হচ্ছে।"
+      },
+      {
+        "en": "Within ten days, he built the cotton gin—a wooden drum with wire teeth that pulled lint through narrow grates while leaving seeds behind, multiplying daily cotton output fifty-fold.",
+        "bn": "মাত্র দশ দিনের মধ্যে তিনি 'কটন জিন' তৈরি করলেন—তারের দাঁতওয়ালা কাঠের বেলন যা তুলাকে তারের জালি দিয়ে টেনে বীজ আলাদা করে উৎপাদন পঞ্চাশ গুণ বাড়িয়ে দিল।"
+      },
+      {
+        "en": "However, patent infringements and pirated copies denied him commercial profit, leading Whitney to redirect his mechanical genius toward military firearm manufacturing.",
+        "bn": "কিন্তু পেটেন্ট চুরির কারণে কোনো অর্থ না পেয়ে হুইটনি তাঁর মেধা সামরিক অস্ত্র তৈরির কারখানার দিকে স্থানান্তর করার সিদ্ধান্ত নিলেন।"
+      },
+      {
+        "en": "In the eighteenth century, every single musket was crafted individually by master gunsmiths by hand, meaning a broken part could be repaired only through custom blacksmithing.",
+        "bn": "তৎকালীন সময়ে প্রতিটি বন্দুক কামারদের হাতে আলাদাভাবে তৈরি হতো, ফলে এক বন্দুকের কোনো অংশ ভেঙে গেলে অন্য বন্দুকের যন্ত্রাংশ দিয়ে তা মেরামত করা যেত না।"
+      },
+      {
+        "en": "In 1801, Whitney stood before incoming President John Adams and Vice President Thomas Jefferson, dumping a chaotic box of disassembled musket locks on the table.",
+        "bn": "১৮০১ সালে প্রেসিডেন্ট জন অ্যাডামসের সামনে দাঁড়িয়ে হুইটনি একটি বাক্স থেকে দশটি এলোমেলো বন্দুকের খোলা যন্ত্রাংশ টেবিলের ওপর ঢেলে দিলেন।"
+      },
+      {
+        "en": "He randomly selected pieces from the jumble and assembled ten flawless, firing muskets before their astonished eyes, demonstrating identical interchangeable machine parts.",
+        "bn": "তিনি কোনো বাছাবাছি না করে সেই স্তূপ থেকে যেকোনো অংশ তুলে নিয়ে কয়েক মিনিটে দশটি নিখুঁত কার্যকর বন্দুক জোড়া লাগিয়ে সবাইকে তাক লাগিয়ে দিলেন!"
+      },
+      {
+        "en": "This concept of precision standardized components laid the bedrock of the American System of Manufacturing, leading directly to Henry Ford's automotive assembly line.",
+        "bn": "সব যন্ত্রাংশের একই মাপের এই নীতিই আধুনিক শিল্প উৎপাদনের মূলভিত্তি হয়ে দাঁড়ায় এবং পরবর্তীতে হেনরি ফোর্ডের গাড়ি তৈরির অ্যাসেম্বলি লাইনের জন্ম দেয়।"
+      }
+    ]
+  },
+  {
+    "id": "tim-berners-lee-world-wide-web-open-gift",
+    "title": "Tim Berners-Lee: Hypertext and the World Wide Web for All",
+    "titleBn": "টিম বার্নার্স-লি: ওয়ার্ল্ড ওয়াইড ওয়েব ও উন্মুক্ত ইন্টারনেট",
+    "author": "Inventions & Technology",
+    "level": "Intermediate",
+    "category": "Inventions & Technology",
+    "coverEmoji": "🌐",
+    "summary": "Working at CERN, British computer scientist Tim Berners-Lee linked hypertext with internet protocols to create the World Wide Web, refusing to patent it and gifting it free to humanity.",
+    "summaryBn": "সুইজারল্যান্ডের সার্নে কাজ করার সময় ব্রিটিশ বিজ্ঞানী টিম বার্নার্স-লি ওয়েবসাইটের লিংক ও প্রোটোকল তৈরি করে ওয়ার্ল্ড ওয়াইড ওয়েব উদ্ভাবন করেন এবং কোনো পেটেন্ট না নিয়ে তা ফ্রিতে বিশ্বকে দেন।",
+    "sentences": [
+      {
+        "en": "Working as an independent software consultant at CERN in Switzerland in 1989, British engineer Tim Berners-Lee grew frustrated that international scientists could not easily share research documents stored across incompatible computer networks.",
+        "bn": "১৯৮৯ সালে সুইজারল্যান্ডের সার্ন গবেষণাগারে কাজ করার সময় টিম বার্নার্স-লি দেখলেন বিশ্বের বিজ্ঞানীদের এক কম্পিউটারের তথ্য অন্য কম্পিউটারে সহজে পাঠানো যাচ্ছে না।"
+      },
+      {
+        "en": "In March 1989, he submitted a modest proposal titled 'Information Management: A Proposal,' which his supervisor Mike Sendall famously scrawled across: 'Vague but exciting...'",
+        "bn": "১৯৮৯ সালের মার্চে তিনি তথ্য আদান-প্রদানের একটি প্রস্তাব জমা দিলেন, যার ওপরে তাঁর বস মন্তব্য লিখেছিলেন: 'অস্পষ্ট, তবে বেশ রোমাঞ্চকর...'"
+      },
+      {
+        "en": "Berners-Lee synthesized three fundamental technologies: Uniform Resource Locators (URLs) for addresses, Hypertext Transfer Protocol (HTTP) for transmission, and Hypertext Markup Language (HTML) for display.",
+        "bn": "তিনি তিনটি মৌলিক প্রযুক্তি আবিষ্কার করলেন: ওয়েবসাইটের ঠিকানা ইউআরএল, তথ্য পাঠানোর নিয়ম এইচটিটিপি এবং পাতা প্রদর্শনের কোড এইচটিএমএল।"
+      },
+      {
+        "en": "On his black NeXT computer at CERN, he created the world's very first web server, info.cern.ch, and the very first web browser, launching the online universe on Christmas Day 1990.",
+        "bn": "সার্নে নিজের কালো কম্পিউটারে বসে তিনি ১৯৯০ সালের ক্রিসমাসের দিন বিশ্বের প্রথম ওয়েব সার্ভার চালু করলেন এবং ইন্টারনেটের প্রথম ব্রাউজার তৈরি করলেন।"
+      },
+      {
+        "en": "Recognizing that the web could become a closed corporate garden if monopolized, Berners-Lee convinced CERN in April 1993 to place the entire code into the public domain royalty-free forever.",
+        "bn": "তিনি বুঝলেন এটি কোনো কোম্পানির দখলে গেলে মানুষের স্বাধীনতা নষ্ট হবে; তাই ১৯৯৩ সালে তিনি কর্তৃপক্ষকে রাজি করিয়ে সমস্ত কোড চিরকালের জন্য উন্মুক্ত ও ফ্রি করে দিলেন।"
+      },
+      {
+        "en": "He chose not to become a multi-billionaire, stating: 'If I had patented it and tried to charge royalties, there would be no web—there would be lots of little local webs.'",
+        "bn": "ব্যক্তিগত শত কোটি ডলারের লোভ ত্যাগ করে তিনি বলেছিলেন: 'আমি যদি পেটেন্ট করে টাকা নিতাম, তবে আজ উন্মুক্ত ওয়ার্ল্ড ওয়াইড ওয়েব থাকত না, খণ্ড খণ্ড ছোট নেটওয়ার্ক থাকত।' "
+      },
+      {
+        "en": "Tim Berners-Lee's selfless idealism built the digital nervous system of humankind, connecting billions of human minds in a shared tapestry of knowledge.",
+        "bn": "টিম বার্নার্স-লির এই নিঃস্বার্থ ত্যাগ আজকের কোটি কোটি মানুষকে এক অবিচ্ছেদ্য ডিজিটাল বন্ধনে যুক্ত করে মানবজাতির জ্ঞানের ভাণ্ডার উন্মুক্ত করে দিয়েছে।"
+      }
+    ]
+  },
+  {
+    "id": "stephanie-kwolek-kevlar-bulletproof-polymer",
+    "title": "Stephanie Kwolek: The Silky Liquid Crystal that Became Kevlar",
+    "titleBn": "স্টেফানি খোলেক: তরল স্ফটিক থেকে বুলেটপ্রুফ কেভলার",
+    "author": "Inventions & Industrial Pioneers",
+    "level": "Intermediate",
+    "category": "Inventions & Industrial Pioneers",
+    "coverEmoji": "🛡️",
+    "summary": "Hoping to save money for medical school, chemist Stephanie Kwolek refused to throw away a cloudy polymer solution, spinning Kevlar—a material five times stronger than steel.",
+    "summaryBn": "মেডিকেলে পড়ার টাকা জোগাড় করতে ডুপন্ট কোম্পানিতে কাজ নেওয়া নারী রসায়নবিদ স্টেফানি খোলেক ঘোলাটে এক রাসায়নিক ফেলে না দিয়ে তৈরি করেছিলেন ইস্পাতের চেয়ে পাঁচগুণ শক্ত বুলেটপ্রুফ 'কেভলার'।",
+    "sentences": [
+      {
+        "en": "Earning a chemistry degree in Pennsylvania with dreams of becoming a medical doctor, Stephanie Kwolek took a temporary laboratory post at DuPont in 1946 to save tuition fees, falling in love with synthetic polymers.",
+        "bn": "ডাক্তারি পড়ার খরচ জোগাড় করতে ১৯৪৬ সালে ডুপন্ট কোম্পানিতে অস্থায়ী চাকরি নেওয়া রসায়নবিদ স্টেফানি খোলেক কৃত্রিম পলিমার তৈরির গবেষণায় মুগ্ধ হয়ে সেখানেই থেকে যান।"
+      },
+      {
+        "en": "In 1965, anticipating an oil crisis, her research team sought to invent an ultra-light, rigid synthetic fiber to reinforce automobile tires to save gasoline.",
+        "bn": "১৯৬৫ সালে জ্বালানি সাশ্রয়ের উদ্দেশ্যে গাড়ির টায়ার শক্ত করার জন্য হালকা অথচ কঠিন কোনো প্লাস্টিক সুতা আবিষ্কারের দায়িত্ব দেওয়া হলো তাঁর দলকে।"
+      },
+      {
+        "en": "Dissolving stubborn poly-p-phenylene terephthalamide compounds, she produced a weird, milky, cloudy solution that was thin like water rather than thick and clear like molasses.",
+        "bn": "জটিল রাসায়নিক উপাদান গলিয়ে তিনি এক অদ্ভুত ঘোলাটে দুধের মতো পাতলা তরল পেলেন, যা সাধারণ আঠালো সুতার মিশ্রণের চেয়ে সম্পূর্ণ ভিন্ন ছিল।"
+      },
+      {
+        "en": "Laboratory technicians advised her to pour the ruined sludge down the drain, fearing the cloudy particles would jam and ruin the delicate spinneret machinery.",
+        "bn": "অন্যান্য টেকনিশিয়ানরা বললেন এই ঘোলা ময়লা ফেলে দিতে, কারণ তাদের ভয় ছিল এটি সুতা কাটার যন্ত্রে ঢুকলে সূক্ষ্ম ছিদ্র জ্যাম হয়ে মেশিন নষ্ট হয়ে যাবে।"
+      },
+      {
+        "en": "Kwolek trusted her scientific intuition, persuading the technician to spin the cloudy fluid through the microscopic holes into a cold water coagulation bath.",
+        "bn": "খোলেক নিজের বৈজ্ঞানিক অন্তর্দৃষ্টির ওপর ভরসা রেখে অপারেটরকে রাজি করালেন সেই ঘোলা তরলটি মেশিনের ভেতর দিয়ে ঠান্ডা পানিতে স্প্রে করে সুতা তৈরি করতে।"
+      },
+      {
+        "en": "The resulting golden fiber—trademarked as Kevlar—was five times stronger than steel of equal weight, impervious to rusting, and resistant to blazing flames.",
+        "bn": "সেই সুতা থেকে বেরিয়ে এলো সোনালি রঙের 'কেভলার' তন্তু—যা ওজনে ইস্পাতের চেয়ে পাঁচগুণ বেশি শক্তিশালী, মরিচাহীন এবং আগুনেও পোড়ে না!"
+      },
+      {
+        "en": "Kevlar transformed bulletproof body vests that have saved thousands of police and soldier lives, spacecraft tethers, and aircraft wings across the globe.",
+        "bn": "এই কেভলার দিয়ে তৈরি বুলেটপ্রুফ জ্যাকেট সারা বিশ্বে হাজার হাজার সৈন্য ও পুলিশের জীবন রক্ষা করেছে এবং মহাকাশযানের ডানার সুরক্ষায় বৈপ্লবিক ভূমিকা রাখছে।"
+      }
+    ]
+  },
+  {
+    "id": "charles-goodyear-vulcanized-rubber-accident",
+    "title": "Charles Goodyear: The Stove Accident and Vulcanized Rubber",
+    "titleBn": "চার্লস গুডইয়ার: চুলার আগুনের দুর্ঘটনা ও টেকসই রবার",
+    "author": "Inventions & Industrial Pioneers",
+    "level": "Intermediate",
+    "category": "Inventions & Industrial Pioneers",
+    "coverEmoji": "🛞",
+    "summary": "Bankrupt and in and out of debtor's prison, Charles Goodyear accidentally dropped sulfur-treated natural gum rubber onto a hot kitchen stove, inventing vulcanization.",
+    "summaryBn": "ঋণের দায়ে বারবার জেলে যাওয়া চার্লস গুডইয়ারের হাত থেকে সালফার মাখানো প্রাকৃতিক রবার ভুলবশত জ্বলন্ত চুলার ওপর পড়ে গিয়ে আবিষ্কৃত হয়েছিল আধুনিক টেকসই রবার।",
+    "sentences": [
+      {
+        "en": "In the 1830s, natural Brazilian gum rubber was considered a useless, capricious substance: turning into rock-hard brittle glass in freezing winter and melting into a foul, rotting sticky slime under summer heat.",
+        "bn": "১৮৩০-এর দশকে প্রাকৃতিক রবার ছিল এক চরম বিশ্রী উপাদান: শীতে জমে কাঁচের মতো ভেঙে গুঁড়ো হয়ে যেত আর গ্রীষ্মের রোদে পঁচে আঠালো দুর্গন্ধময় কাদায় রূপ নিত।"
+      },
+      {
+        "en": "Bankrupt hardware merchant Charles Goodyear became obsessed with stabilizing the elastomeric resin, conducting kitchen experiments while pawning his furniture and his children's schoolbooks.",
+        "bn": "দেউলিয়া হয়ে সংসারের থালাবাসন ও সন্তানের স্কুলের বই পর্যন্ত বন্ধক রেখে চার্লস গুডইয়ার যে কোনো মূল্যে রবারকে টেকসই করার এক পাগলাটে নেশায় মেতে উঠলেন।"
+      },
+      {
+        "en": "Arrested multiple times for debt, he continued kneading raw gum rubber with nitric acid, turpentine, and quicklime inside his damp cell at debtor's prison.",
+        "bn": "ঋণ শোধ করতে না পেরে বারবার জেলে যেতে হলেও তিনি কারাগারের স্যাঁতসেঁতে মেঝের ভেতর চুনের গুঁড়ো আর এসিড দিয়ে রবার চটকানোর কাজ থামাননি।"
+      },
+      {
+        "en": "In the winter of 1839 in Woburn, Massachusetts, Goodyear was gesturing animatedly near a blazing kitchen pot-bellied iron stove while holding a slab of rubber mixed with powdered sulfur.",
+        "bn": "১৮৩৯ সালের এক শীতের দিনে ঘরে কথা বলতে বলতে উত্তেজনার বশে তাঁর হাত থেকে সালফারের গুঁড়ো মাখানো রবারের দলাটি জ্বলন্ত লোহার চুলার ওপর ছিটকে পড়ল।"
+      },
+      {
+        "en": "To his utter astonishment, the rubber did not melt into liquid glue; instead, it charred like leather, remaining completely flexible, waterproof, and heat-resistant along its edges.",
+        "bn": "তিনি স্তম্ভিত হয়ে দেখলেন রবারটি গলে আঠা হওয়ার বদলে চামড়ার মতো শক্ত ও স্থিতিস্থাপক হয়ে গেল এবং আগুনে পুড়লও না বা শীতে ভাঙলও না!"
+      },
+      {
+        "en": "He had discovered vulcanization: thermal cross-linking of molecular polymer chains with sulfur bridges that transformed natural sap into durable industrial rubber.",
+        "bn": "তিনি আবিষ্কার করলেন 'ভালকানাইজেশন'—যেখানে সালফারের অণুর বন্ধন রবারের পলিমারকে এক অবিনাশী স্থিতিস্থাপকতা দান করে।"
+      },
+      {
+        "en": "Though unscrupulous competitors infringed his patents leaving him to die two hundred thousand dollars in debt, Goodyear's vulcanized rubber enabled modern waterproof footwear, hoses, and automobile tires.",
+        "bn": "মামলা-মোকদ্দমায় সর্বস্ব হারিয়ে ঋণের সাগরে ডুবে মারা গেলেও গুডইয়ারের আবিষ্কৃত এই রবারই আজকের বিশ্বের সমস্ত গাড়ির টায়ার ও পরিবহন ব্যবস্থার মূল চাকা সচল রেখেছে।"
+      }
+    ]
+  },
+  {
+    "id": "willis-carrier-man-who-cooled-america-ac",
+    "title": "Willis Carrier: Taming Humidity and the Invention of Air Conditioning",
+    "titleBn": "উইলিস ক্যারিয়ার: বাতাসের আর্দ্রতা নিয়ন্ত্রণ ও এয়ার কন্ডিশনার",
+    "author": "Inventions & Industrial Pioneers",
+    "level": "Intermediate",
+    "category": "Inventions & Industrial Pioneers",
+    "coverEmoji": "❄️",
+    "summary": "Staring through cold Pittsburgh train fog, twenty-five-year-old engineer Willis Carrier realized how to wash moisture out of air, inventing modern air conditioning in 1902.",
+    "summaryBn": "রেলস্টেশনের কুয়াশাচ্ছন্ন প্ল্যাটফর্মে দাঁড়িয়ে পঁচিশ বছর বয়সী উইলিস ক্যারিয়ার আবিষ্কার করেছিলেন কীভাবে বাতাস থেকে আর্দ্রতা দূর করে কৃত্রিম ঠাণ্ডা পরিবেশ তৈরি করা যায়।",
+    "sentences": [
+      {
+        "en": "In the sweltering summer of 1902 in Brooklyn, New York, Sackett & Wilhelms lithographic printing company was in crisis: humid summer air expanded printing paper sheets, misaligning layered color inks into blurry smears.",
+        "bn": "১৯০২ সালের গ্রীষ্মে নিউ ইয়র্কের এক ছাপাখানায় চরম বিপর্যয় দেখা দিল: বাতাসের অতিরিক্ত আর্দ্রতায় কাগজ ফুলে গিয়ে রঙিন ছবির সব রঙ এলোমেলো লেপে যাচ্ছিল।"
+      },
+      {
+        "en": "A twenty-five-year-old Cornell engineering graduate named Willis Haviland Carrier was hired for ten dollars a week to solve the printer's humidity conundrum.",
+        "bn": "সপ্তাহে মাত্র দশ ডলারের বেতনে কর্নেন বিশ্ববিদ্যালয়ের পঁচিশ বছর বয়সী তরুণ প্রকৌশলী উইলিস ক্যারিয়ারকে আনা হলো এই আর্দ্রতা নিয়ন্ত্রণের উপায় বের করতে।"
+      },
+      {
+        "en": "Waiting for a train on a cold, foggy evening at a Pittsburgh railway station, Carrier stared into the dense white mist swirling around the gas lamps.",
+        "bn": "এক শীতের সন্ধ্যায় পিটসবার্গের রেল স্টেশনে কুয়াশার মাঝে দাঁড়িয়ে ট্রেনের জন্য অপেক্ষা করার সময় ক্যারিয়ার গ্যাসবাতির চারপাশের ঘন কুয়াশার দিকে তাকিয়ে রইলেন।"
+      },
+      {
+        "en": "The engineering epiphany struck: fog was simply condensed water vapor; therefore, air could be dried by deliberately spraying it through an artificial cold-water spray to condense out excess humidity.",
+        "bn": "হঠাৎ তাঁর মাথায় সমাধানটি খেলে গেল: কুয়াশা তো আসলে বাষ্পের জমাট রূপ; বাতাসকে যদি কৃত্রিম ঠান্ডা পানির কুয়াশার ভেতর দিয়ে চালানো যায়, তবে তার অতিরিক্ত সব আর্দ্রতা আলাদা হয়ে যাবে!"
+      },
+      {
+        "en": "In 1902, he designed the Apparatus for Treating Air, using chilled coils to simultaneously control temperature, humidity, air circulation, and atmospheric cleanliness.",
+        "bn": "১৯০২ সালে তিনি প্রথম 'বাতাস নিয়ন্ত্রণ যন্ত্র' তৈরি করলেন যা একাধারে তাপমাত্রা, আর্দ্রতা, বাতাসের প্রবাহ এবং ধুলোবালি ছেঁকে ফেলার কাজ সম্পন্ন করত।"
+      },
+      {
+        "en": "His invention transformed textile mills and film studios, quickly spreading to movie theaters in the 1920s where Americans flocked during scorching summers to enjoy 'refrigerated air.'",
+        "bn": "এই আবিষ্কার ছাপাখানা পেরিয়ে ১৯২০-এর দশকে সিনেমা হলে ছড়িয়ে পড়ল, যেখানে প্রখর গরমে লাখ লাখ মানুষ এসির আরামদায়ক ঠাণ্ডা বাতাসের ছোঁয়া পেতে ভিড় জমাত।"
+      },
+      {
+        "en": "Air conditioning reshaped global architecture with sealed glass skyscrapers and enabled human migration to arid sunbelts, revolutionizing modern planetary living.",
+        "bn": "এয়ার কন্ডিশনার আকাশছোঁয়া কাঁচের অট্টালিকা নির্মাণ সম্ভব করেছে এবং মরুভূমির শহরগুলোতেও মানুষের বাসযোগ্য পরিবেশ তৈরি করে মানব সভ্যতার মানচিত্র বদলে দিয়েছে।"
+      }
+    ]
+  }
+]

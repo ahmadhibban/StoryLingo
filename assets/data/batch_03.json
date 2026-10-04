@@ -1,0 +1,857 @@
+[
+  {
+    "id": "wit-birbal-khichdi",
+    "title": "Birbal's Cooking Pot and the Cold Lake",
+    "titleBn": "বীরবলের খিচুড়ি এবং শীতের হ্রদ",
+    "author": "Mughal Wit",
+    "level": "Intermediate",
+    "category": "Wit & Wisdom",
+    "coverEmoji": "🍲",
+    "summary": "Birbal uses a distant pot over a tiny fire to teach Emperor Akbar a lesson about promises and warmth.",
+    "summaryBn": "অনেক উঁচুতে হাঁড়ি ঝুলিয়ে বীরবল সম্রাট আকবরকে এক দরিদ্র মানুষের প্রতি সুবিচার করার শিক্ষা দিয়েছিলেন।",
+    "sentences": [
+      {
+        "en": "On a freezing winter night in Agra, Emperor Akbar challenged a poor washerman named Dinu to stand neck-deep in the palace lake till dawn.",
+        "bn": "আগ্রার এক কনকনে শীতের রাতে সম্রাট আকবর দিনু নামের এক গরিব ধোপাকে ভোর পর্যন্ত রাজপ্রাসাদের বরফশীতল হ্রদে গলা সমান পানিতে দাঁড়িয়ে থাকার চ্যালেঞ্জ দিলেন।"
+      },
+      {
+        "en": "Desperate for money to feed his starving family, the shivering man endured the icy waters all night, gazing at a distant palace lantern.",
+        "bn": "পরিবারের মুখে খাবার তুলে দেওয়ার তাগিদে লোকটি সারারাত কাঁপতে কাঁপতে পানিতে দাঁড়িয়ে দূরের প্রাসাদের বাতির দিকে তাকিয়ে শক্তি জোগাল।"
+      },
+      {
+        "en": "When Dinu claimed his reward, Akbar cruelly refused, claiming the distant palace light had provided him warmth.",
+        "bn": "সকালে দিনু পুরস্কার চাইতে এলে আকবর অন্যায়ভাবে বললেন যে প্রাসাদের বাতির উত্তাপ পেয়েই সে বেঁচে ছিল, তাই কোনো পুরস্কার পাবে না।"
+      },
+      {
+        "en": "Deeply saddened by the injustice, Birbal stayed away from the royal court the following morning.",
+        "bn": "এই অবিচারে ব্যথিত হয়ে বীরবল পরদিন সকাল থেকে রাজদরবারে যাওয়া বন্ধ করে দিলেন।"
+      },
+      {
+        "en": "Akbar visited Birbal's garden and found him sitting beside a tiny fire on the ground, with a cooking pot hung six feet up on a tall branch.",
+        "bn": "আকবর বীরবলের বাগানে গিয়ে দেখলেন মাটিতে সামান্য একটু আগুন জ্বলছে আর ছয় ফুট উঁচুতে ডালের সাথে রান্নার হাঁড়ি ঝুলিয়ে রাখা হয়েছে।"
+      },
+      {
+        "en": "Akbar laughed and asked, 'How can the heat from that tiny fire possibly reach a pot hanging so high in the air?'",
+        "bn": "আকবর হেসে বললেন, 'মাটির এইটুকু আগুনের উত্তাপ অত উঁচুতে ঝোলানো হাঁড়িতে কীভাবে পৌঁছাবে?' "
+      },
+      {
+        "en": "Birbal bowed and replied, 'Sire, if the distant light of your palace could warm a man in an icy lake, this fire will cook my rice.'",
+        "bn": "বীরবল মাথা নুয়ে বললেন, 'মহামান্য, প্রাসাদের দূরের বাতি যদি বরফ হ্রদের মানুষকে উষ্ণতা দিতে পারে, তবে এই আগুনও আমার খিচুড়ি রাঁধতে পারবে।'"
+      },
+      {
+        "en": "Realizing his foolishness and cruelty, Akbar immediately rewarded the poor washerman with two thousand gold coins.",
+        "bn": "নিজের ভুল ও অবিচার বুঝতে পেরে সম্রাট আকবর তৎক্ষণাৎ সেই গরিব ধোপাকে ডেকে এনে দুই হাজার স্বর্ণমুদ্রায় পুরস্কৃত করলেন।"
+      }
+    ]
+  },
+  {
+    "id": "wit-birbal-crows-capital",
+    "title": "Counting the Crows in the Capital",
+    "titleBn": "রাজধানীর কাক গণনার উপায়",
+    "author": "Mughal Wit",
+    "level": "Intermediate",
+    "category": "Wit & Wisdom",
+    "coverEmoji": "🐦",
+    "summary": "Emperor Akbar asks an impossible census question, and Birbal delivers a witty answer no courtier can dispute.",
+    "summaryBn": "সম্রাট আকবরের এক অসম্ভব ধাঁধার এমন বুদ্ধিদীপ্ত উত্তর বীরবল দিয়েছিলেন যার কোনো প্রতিবাদ কারও জানা ছিল না।",
+    "sentences": [
+      {
+        "en": "One pleasant morning, Emperor Akbar was walking in the palace terrace overlooking the sprawling city of Agra.",
+        "bn": "এক সুন্দর সকালে সম্রাট আকবর প্রাসাদের ছাদে হাঁটছিলেন এবং নিচে তাকিয়ে পুরো আগ্রা শহর দেখছিলেন।"
+      },
+      {
+        "en": "Noticing countless crows fluttering across the rooftops, Akbar decided to test the wits of his royal courtiers.",
+        "bn": "ছাদের ওপর অসংখ্য কাকের ওড়াউড়ি দেখে সম্রাটের মনে হলো দরবারের পণ্ডিতদের একটু বুদ্ধি পরীক্ষা নেওয়া যাক।"
+      },
+      {
+        "en": "At court, Akbar announced: 'Can anyone among my learned ministers tell me the exact number of crows living in our imperial capital?'",
+        "bn": "দরবারে বসে আকবর প্রশ্ন করলেন: 'আমার জ্ঞানী মন্ত্রীদের মধ্যে কেউ কি বলতে পারেন আমাদের এই রাজধানীতে ঠিক কতগুলো কাক বাস করে?'"
+      },
+      {
+        "en": "The courtiers sat in stunned silence, scratching their heads at the utterly impossible question.",
+        "bn": "এমন অসম্ভব প্রশ্ন শুনে সব মন্ত্রীরা মাথায় হাত দিয়ে চুপচাপ বসে রইল, কারও মুখে কোনো কথা সরল না।"
+      },
+      {
+        "en": "Birbal stepped forward with a confident smile and boldly declared: 'Your Majesty, there are exactly ninety-five thousand, four hundred and sixty-three crows.'",
+        "bn": "বীরবল মিষ্টি এক চিলতে হাসি নিয়ে এগিয়ে এসে বললেন: 'মহামান্য সম্রাট, আমাদের শহরে ঠিক পঁচানব্বই হাজার চারশত তেষট্টিটি কাক আছে।'"
+      },
+      {
+        "en": "Akbar raised an eyebrow and challenged: 'And what if a recount shows there are fewer or more crows than your count?'",
+        "bn": "আকবর ভুরু কুঁচকে বললেন: 'আর যদি গণনা করে দেখা যায় তোমার সংখ্যার চেয়ে কাক কম বা বেশি হয়েছে?'"
+      },
+      {
+        "en": "Birbal replied smoothly, 'If there are more, their relatives from neighboring cities have come to visit; if fewer, our crows have gone on holiday to visit cousins.'",
+        "bn": "বীরবল শান্তভাবে বললেন, 'যদি বেশি হয় তবে পাশের শহর থেকে তাদের আত্মীয়রা বেড়াতে এসেছে; আর কম হলে আমাদের কাকেরা তাদের বন্ধুদের দেখতে বেড়াতে গেছে!'"
+      },
+      {
+        "en": "Akbar roared with laughter at Birbal's unmatched wit and presented him with a precious diamond ring.",
+        "bn": "বীরবলের এমন চতুর রসিকতা শুনে আকবর প্রাণখুলে হেসে উঠলেন এবং নিজের আঙুল থেকে একটি বহুমূল্য হীরার আংটি উপহার দিলেন।"
+      }
+    ]
+  },
+  {
+    "id": "wit-birbal-line-short",
+    "title": "Making the Line Shorter Without Touching",
+    "titleBn": "না ছুঁয়ে রেখা ছোট করার কৌশল",
+    "author": "Mughal Wit",
+    "level": "Intermediate",
+    "category": "Wit & Wisdom",
+    "coverEmoji": "✏️",
+    "summary": "A simple chalk mark on the floor proves that elevating oneself is better than trying to diminish others.",
+    "summaryBn": "মেঝেতে আঁকা একটি রেখা দেখিয়ে বীরবল শিখিয়েছিলেন অন্যকে খাটো না করে নিজেকে বড় করাই শ্রেষ্ঠত্ব।",
+    "sentences": [
+      {
+        "en": "Emperor Akbar drew a straight chalk line across the marble floor of the royal court with his own hand.",
+        "bn": "সম্রাট আকবর নিজের হাতে রাজদরবারের মার্বেল মেঝের ওপর খড়িমাটি দিয়ে সোজা একটি লম্বা দাগ টানলেন।"
+      },
+      {
+        "en": "Turning to his ministers, Akbar commanded: 'Make this line shorter without erasing, rubbing, or touching it in any way.'",
+        "bn": "মন্ত্রীদের দিকে ফিরে সম্রাট হুকুম দিলেন: 'এই দাগটির কোনো অংশ না মুছে, না ঘষে বা কোনোভাবে না ছুঁয়ে এটিকে ছোট করে দেখাও।'"
+      },
+      {
+        "en": "Each minister stepped up, looked at the white line, and shook his head in complete bewilderment.",
+        "bn": "প্রতিটি মন্ত্রী একে একে এগিয়ে এসে দাগটির দিকে তাকাল এবং হতাশায় মাথা নেড়ে হার মানল।"
+      },
+      {
+        "en": "Some proposed covering part of it with a silk rug, but Akbar insisted the line must remain completely visible.",
+        "bn": "কেউ কেউ দাগটির একপাশ রেশমি গালিচা দিয়ে ঢেকে দেওয়ার কথা বলল, কিন্তু আকবর বললেন রেখাটি পুরোপুরি দৃশ্যমান থাকতে হবে।"
+      },
+      {
+        "en": "Birbal smiled, took a piece of chalk, and stepped calmly up to the Emperor's line.",
+        "bn": "বীরবল হাসলেন, এক টুকরো খড়ি হাতে তুলে নিলেন এবং শান্ত পায়ে সম্রাটের আঁকা রেখার কাছে এগিয়ে গেলেন।"
+      },
+      {
+        "en": "Right alongside Akbar's mark, Birbal drew another chalk line that was noticeably longer and thicker.",
+        "bn": "আকবরের রেখাটির ঠিক পাশেই বীরবল আরও লম্বা এবং মোটা আরেকটি দাগ এঁকে দিলেন।"
+      },
+      {
+        "en": "He stepped back and said, 'Look, Your Majesty, without touching your line, it is now clearly the shorter of the two.'",
+        "bn": "তিনি পিছিয়ে এসে বললেন, 'দেখুন জাঁহাপনা, আপনার রেখায় হাত না দিয়েই সেটি এখন অন্যটির তুলনায় ছোট হয়ে গেছে।'"
+      },
+      {
+        "en": "The entire assembly applauded the wise moral: to surpass others, focus on expanding your own excellence rather than diminishing theirs.",
+        "bn": "পুরো দরবার করতালি দিয়ে উঠল এই শিক্ষায় যে, অন্যের ক্ষতি না করে নিজের যোগ্যতাকে বড় করাই হলো এগিয়ে যাওয়ার শ্রেষ্ঠ উপায়।"
+      }
+    ]
+  },
+  {
+    "id": "wit-birbal-pot-milk",
+    "title": "The Well of Milk and Water",
+    "titleBn": "দুধের বদলে পানির পুকুর",
+    "author": "Mughal Wit",
+    "level": "Intermediate",
+    "category": "Wit & Wisdom",
+    "coverEmoji": "🥛",
+    "summary": "When everyone assumes someone else will do the right thing, collective duty fails completely.",
+    "summaryBn": "যখন সবাই ভাবে অন্য কেউ দায়িত্ব পালন করবে, তখন কীভাবে সামগ্রিক সততা পুরোপুরি নষ্ট হয়ে যায়।",
+    "sentences": [
+      {
+        "en": "Emperor Akbar wanted to test the civic honesty and sense of communal responsibility among his city's citizens.",
+        "bn": "সম্রাট আকবর তাঁর নগরবাসীর সততা এবং সামাজিক দায়িত্ববোধ কতটা গভীর তা যাচাই করতে চাইলেন।"
+      },
+      {
+        "en": "He issued a royal decree ordering every household in the capital to pour one jug of fresh milk into an empty public stone reservoir under the cover of night.",
+        "bn": "তিনি হুকুম জারি করলেন যে রাতের অন্ধকারে শহরের প্রতিটি পরিবারকে সাধারণের এক পাথরের জলাধারে এক ঘটি করে খাঁটি দুধ ঢেলে আসতে হবে।"
+      },
+      {
+        "en": "The next morning, the milk in the pool was to be distributed to orphans and the poorest families of the empire.",
+        "bn": "পরদিন সকালে সেই দুধ অনাথ ও দরিদ্র পরিবারগুলোর মাঝে সমানভাবে বিতরণ করার পরিকল্পনা ছিল।"
+      },
+      {
+        "en": "One citizen thought to himself: 'In the dark of night when thousands pour rich white milk, who will notice if I quietly pour a jug of plain water instead?'",
+        "bn": "এক নাগরিক মনে মনে ভাবল: 'রাতের আঁধারে হাজার হাজার মানুষ খাঁটি দুধ ঢালবে, তার মাঝে আমি চুপিচুপি এক ঘটি পানি ঢাললে কে-ই বা ধরতে পারবে?'"
+      },
+      {
+        "en": "He slipped out at midnight and emptied his jug of water into the cavernous reservoir without making a sound.",
+        "bn": "গভীর রাতে সে গোপনে গিয়ে কোনো আওয়াজ না করে জলাধারে তার এক ঘটি পানি ঢেলে দিয়ে বাড়ি ফিরে এলো।"
+      },
+      {
+        "en": "At sunrise, Emperor Akbar and Birbal arrived with gold ladles to inspect the royal reservoir.",
+        "bn": "সূর্য উঠতেই সম্রাট আকবর এবং বীরবল সোনার হাতা হাতে নিয়ে জলাধার পরিদর্শন করতে এলেন।"
+      },
+      {
+        "en": "To the Emperor's utter disbelief, the entire massive pool was filled with one hundred percent pure water—not a single drop of milk.",
+        "bn": "সম্রাট হতবাক হয়ে দেখলেন যে পুরো বিশাল জলাধারটি শুধু পানিতে টইটুম্বুর—তাতে এক ফোঁটাও দুধের চিহ্ন নেই!"
+      },
+      {
+        "en": "Every single citizen had reasoned identically, proving that widespread complacency and evasion of duty destroy the common good.",
+        "bn": "শহরের প্রতিটি মানুষই ঠিক একই রকম চালাকি করেছিল, যা প্রমাণ করে যে প্রত্যেকে দায়িত্ব এড়ালে সমাজের কোনো মহৎ কাজই সফল হতে পারে না।"
+      }
+    ]
+  },
+  {
+    "id": "wit-birbal-lost-ring",
+    "title": "The Straw in the Thief's Beard",
+    "titleBn": "চোরের দাড়িতে খড়",
+    "author": "Mughal Wit",
+    "level": "Intermediate",
+    "category": "Wit & Wisdom",
+    "coverEmoji": "💍",
+    "summary": "Birbal uses the psychology of a guilty conscience to trap a thief among eight trusted servants.",
+    "summaryBn": "অপরাধীর মনের লুকানো অপরাধবোধের সুযোগ নিয়ে বীরবল কীভাবে আটজন চাকরের মধ্য থেকে আসল চোরকে ধরেছিলেন।",
+    "sentences": [
+      {
+        "en": "A wealthy merchant visited Emperor Akbar in distress, reporting that a priceless ruby ring had been stolen from his private chamber.",
+        "bn": "এক ধনী ব্যবসায়ী ব্যাকুল হয়ে আকবরের দরবারে এসে জানালেন যে তাঁর শোবার ঘর থেকে একটি অমূল্য রত্নের আংটি চুরি হয়ে গেছে।"
+      },
+      {
+        "en": "The merchant suspected one of his eight trusted household servants, as only they had access to his bedroom.",
+        "bn": "ব্যবসায়ীর সন্দেহ হলো তাঁর আটজন বিশ্বস্ত পরিচারকদের মধ্যেই কেউ একজন এই কাজ করেছে, কারণ কেবল তারাই সেই ঘরে ঢুকতে পারত।"
+      },
+      {
+        "en": "Birbal summoned all eight servants to the court, and each servant loudly swore upon his honor that he was innocent.",
+        "bn": "বীরবল সেই আটজন পরিচারককে দরবারে ডেকে পাঠালেন এবং প্রত্যেকেই নিজের নামে শপথ করে বলল যে সে নির্দোষ।"
+      },
+      {
+        "en": "Birbal gave each servant a wooden stick of identical length, telling them they were enchanted sticks from Persia.",
+        "bn": "বীরবল সবার হাতে সমান মাপের একটি করে কাঠের লাঠি দিয়ে বললেন এগুলো হলো পারস্যের জাদুকরী লাঠি।"
+      },
+      {
+        "en": "'Whoever is the guilty thief,' Birbal declared, 'his stick will miraculously grow two inches longer overnight by morning.'",
+        "bn": "বীরবল ঘোষণা করলেন, 'যে আসল চোর, কাল সকাল হতে হতে তার লাঠিটি অলৌকিকভাবে দুই ইঞ্চি লম্বা হয়ে যাবে।'"
+      },
+      {
+        "en": "That night, terrified of being exposed, the real thief secretly took a knife and shaved two inches off his stick.",
+        "bn": "সেদিন রাতে ধরা পড়ে যাওয়ার ভয়ে আসল চোর গোপনে ছুরি দিয়ে নিজের লাঠিটি থেকে দুই ইঞ্চি কেটে ছোট করে রাখল।"
+      },
+      {
+        "en": "The next morning, Birbal inspected the sticks and instantly pointed at the servant whose stick was two inches shorter than all the others.",
+        "bn": "পরদিন সকালে লাঠিগুলো মেপে দেখেই বীরবল সেই চোরকে আঙুল দিয়ে দেখিয়ে দিলেন যার লাঠিটি অন্য সবার চেয়ে দুই ইঞ্চি ছোট ছিল!"
+      },
+      {
+        "en": "A guilty mind always betrays itself through unnecessary fear and desperate attempts at concealment.",
+        "bn": "অপরাধীর মন নিজের অতিরিক্ত ভয় এবং অপরাধ ঢাকার বোকামিপূর্ণ চেষ্টার কারণেই নিজেকে সবার সামনে ফাঁস করে দেয়।"
+      }
+    ]
+  },
+  {
+    "id": "wit-gopal-sweet-brinjal",
+    "title": "Gopal Bhar and the King's Eggplant",
+    "titleBn": "গোপাল ভাঁড় ও বেগুনের প্রশংসা",
+    "author": "Bengali Folklore",
+    "level": "Intermediate",
+    "category": "Wit & Wisdom",
+    "coverEmoji": "🍆",
+    "summary": "The clever Bengali court jester shows Maharaja Krishnachandra the difference between loyal service and flattery.",
+    "summaryBn": "রাজা কৃষ্ণচন্দ্রকে গোপাল ভাঁড় মজার ছলে বুঝিয়ে দিয়েছিলেন যে তোষামোদকারীর কোনো নিজস্ব মতামত থাকে না।",
+    "sentences": [
+      {
+        "en": "Maharaja Krishnachandra of Nadia loved dining on delicious fried eggplants prepared by the royal cooks.",
+        "bn": "নদিয়ার রাজা কৃষ্ণচন্দ্র রাজকীয় বাবুর্চির হাতে তৈরি মুচমুচে বেগুনভাজা খেতে দারুণ পছন্দ করতেন।"
+      },
+      {
+        "en": "One afternoon at dinner, the king remarked, 'Gopal, eggplant is surely the king of vegetables! It has a royal crown and melts like butter.'",
+        "bn": "একদিন দুপুরে খেতে বসে রাজা বললেন, 'গোপাল, বেগুনই হলো সবজির রাজা! মাথায় তার কেমন সুন্দর রাজমুকুট আর খেতেও মাখনের মতো নরম।'"
+      },
+      {
+        "en": "Gopal Bhar smiled and added lavish praise, calling the vegetable a divine gift that cured every illness.",
+        "bn": "গোপাল ভাঁড় একগাল হেসে বেগুনের প্রশংসায় পঞ্চমুখ হয়ে বলল এটি নাকি স্বর্গের এমন উপহার যা সব রোগ সারিয়ে দেয়!"
+      },
+      {
+        "en": "A few days later, after eating too many fried eggplants, the king suffered from acute indigestion and severe stomach pain.",
+        "bn": "কয়েক দিন পর বেশি বেগুন খেয়ে রাজার পেটে প্রচণ্ড গ্যাস ও পেটব্যথা শুরু হলো।"
+      },
+      {
+        "en": "Groaning in agony, the king cursed, 'Eggplant is the most vile, worthless, poisonous weed on planet Earth!'",
+        "bn": "যন্ত্রণায় কাতরাতে কাতরাতে রাজা চিৎকার করে বললেন, 'বেগুন হলো পৃথিবীর সবচেয়ে নিকৃষ্ট, বিষাক্ত ও বাজে এক আবর্জনা!'"
+      },
+      {
+        "en": "Gopal nodded vigorously and agreed, 'You are completely right, Your Highness! Its very name means 'begun'—devoid of all virtues!'",
+        "bn": "গোপাল মাথা নেড়ে সাথে সাথে সায় দিয়ে বলল, 'একদম খাঁটি কথা মহারাজ! নামের মধ্যেই তো রয়েছে 'বেগুন'—যার কোনো গুণই নেই!'"
+      },
+      {
+        "en": "The king frowned and said, 'Just last week you were singing its praises to the heavens! Why change your tune now?'",
+        "bn": "রাজা ভুরু কুঁচকে বললেন, 'গত সপ্তাহেই তো তুমি এর প্রশংসায় আকাশ মাথায় তুলেছিলে! আজ আবার উল্টো কথা বলছ কেন?'"
+      },
+      {
+        "en": "Gopal replied with a wink: 'Maharaja, I am the humble servant of the King, not the servant of the eggplant!'",
+        "bn": "গোপাল চোখ টিপে হেসে উত্তর দিল: 'মহারাজ, আমি তো আপনার চাকরি করি, বেগুনের চাকরি তো আর করি না!'"
+      }
+    ]
+  },
+  {
+    "id": "wit-gopal-blanket-debt",
+    "title": "Gopal Bhar and the Cold Blanket Debt",
+    "titleBn": "গোপাল ভাঁড় ও শীতের কাঁথার ধার শোধ",
+    "author": "Bengali Folklore",
+    "level": "Intermediate",
+    "category": "Wit & Wisdom",
+    "coverEmoji": "🧵",
+    "summary": "Gopal outwits an arrogant moneylender who demanded interest on a torn winter blanket.",
+    "summaryBn": "পুরনো ছেঁড়া কাঁথার অযৌক্তিক সুদ দাবি করা এক লোভী মহাজনকে গোপাল কীভাবে উচিত শিক্ষা দিয়েছিলেন।",
+    "sentences": [
+      {
+        "en": "A greedy village moneylender had loaned Gopal Bhar an old, tattered cotton quilt during a harsh winter.",
+        "bn": "এক লোভী মহাজন শীতের দিনে গোপাল ভাঁড়কে ব্যবহারের জন্য পুরনো এক ছেঁড়া সুতির কাঁথা ধার দিয়েছিল।"
+      },
+      {
+        "en": "When spring arrived, the usurer demanded five times the value of the blanket as outrageous rental interest.",
+        "bn": "বসন্ত আসতেই মহাজন কাঁথার আসল দামের চেয়ে পাঁচ গুণ বেশি টাকা সুদ হিসেবে দাবি করে বসল।"
+      },
+      {
+        "en": "The moneylender dragged Gopal before Maharaja Krishnachandra's court to complain that Gopal refused to pay.",
+        "bn": "মহাজন গোপালকে জোর করে রাজা কৃষ্ণচন্দ্রের দরবারে হাজির করল নালিশ জানাতে যে গোপাল টাকা দিচ্ছে না।"
+      },
+      {
+        "en": "Gopal stepped forward wearing the quilt, which was riddled with dozens of large gaping holes.",
+        "bn": "গোপাল সেই কাঁথাটি গায়ে জড়িয়ে রাজদরবারে দাঁড়াল, যাতে ছিল ডজন ডজন বড় বড় গোল গোল ফুটো।"
+      },
+      {
+        "en": "Gopal addressed the court: 'Maharaja, I am deeply grateful for this blanket, but it came with fifty holes that let freezing wind through all night.'",
+        "bn": "গোপাল রাজাকে বলল: 'মহারাজ, কাঁথাটির জন্য আমি কৃতজ্ঞ, কিন্তু এতে ছিল পঞ্চাশটি ফুটো যা দিয়ে সারারাত বরফশীতল হাওয়া ঢুকত।'"
+      },
+      {
+        "en": "'For every cold draft that entered one hole, another draft left through another hole, keeping the cold completely balanced!'",
+        "bn": "'এক ফুটো দিয়ে যতখানি ঠান্ডা হাওয়া ঢুকত, অন্য ফুটো দিয়ে ঠিক ততখানি বেরিয়ে যেত, ফলে ঠান্ডার ভারসাম্য সমান থাকত!'"
+      },
+      {
+        "en": "'Since the blanket neither warmed me nor chilled me, the interest owed by me to him equals the cold owed by him to me!'",
+        "bn": "'যেহেতু কাঁথাটি আমাকে গরমও করেনি আবার ঠান্ডাও করেনি, তাই আমার পাওনা সুদ আর তাঁর পাওনা শীত কাটাকাটি হয়ে গেছে!'"
+      },
+      {
+        "en": "The Maharaja burst into laughter, threw the greedy moneylender out of court, and gifted Gopal a brand-new wool shawl.",
+        "bn": "মহারাজ হো হো করে হেসে উঠলেন, লোভী মহাজনকে তাড়িয়ে দিলেন এবং গোপালকে একটি সুন্দর নতুন পশমি শাল উপহার দিলেন।"
+      }
+    ]
+  },
+  {
+    "id": "wit-tenali-horse-painting",
+    "title": "Tenali Raman Paints a Horse",
+    "titleBn": "তেনালী রামন এবং কাল্পনিক ঘোড়ার ছবি",
+    "author": "Indian Wit",
+    "level": "Intermediate",
+    "category": "Wit & Wisdom",
+    "coverEmoji": "🎨",
+    "summary": "Tenali uses an artist's own pretentious logic to win a bet against King Krishnadevaraya.",
+    "summaryBn": "এক দাম্ভিক শিল্পীর অদ্ভুত যুক্তির জবাব দিয়ে তেনালী রামন কীভাবে রাজাকে তাক লাগিয়ে দিয়েছিলেন।",
+    "sentences": [
+      {
+        "en": "A proud royal artist presented a painting to King Krishnadevaraya of Vijayanagara, showing a man riding a horse.",
+        "bn": "বিজয়নগরের রাজা কৃষ্ণদেবরায়ের কাছে এক অহংকারী রাজচিত্রশিল্পী ঘোড়ায় চড়া এক মানুষের ছবি উপহার হিসেবে নিয়ে এলো।"
+      },
+      {
+        "en": "The king praised the artwork, but Tenali Raman criticized it, saying: 'You can only see one side of the man; where is the other side?'",
+        "bn": "রাজা ছবির প্রশংসা করলেন, কিন্তু তেনালী রামন বললেন: 'মানুষটির তো শুধু একপাশ দেখা যাচ্ছে; অপর পাশটি কোথায় গেল?'"
+      },
+      {
+        "en": "The painter sneered, 'A great artist leaves missing details to the viewer's imagination! Fools cannot appreciate fine art.'",
+        "bn": "শিল্পী ব্যঙ্গ করে বলল, 'একজন মহান শিল্পী বাকি অংশ দর্শকের কল্পনার ওপর ছেড়ে দেন! মূর্খরা শিল্পের মর্ম বুঝবে না।'"
+      },
+      {
+        "en": "The king challenged Tenali to produce a better painting within one month or face banishment from court.",
+        "bn": "রাজা তখন তেনালীকে চ্যালেঞ্জ দিলেন এক মাসের মধ্যে এর চেয়ে ভালো ছবি এঁকে দেখাতে, নইলে দরবার থেকে বহিষ্কার করা হবে।"
+      },
+      {
+        "en": "A month later, Tenali arrived with a large canvas covered in black cloth and placed it before the assembled court.",
+        "bn": "এক মাস পর তেনালী কালো কাপড়ে ঢাকা বিশাল এক ক্যানভাস নিয়ে এসে দরবারের মাঝখানে রাখলেন।"
+      },
+      {
+        "en": "When the cloth was removed, the canvas was completely blank except for a few curved brush strokes at the very edge resembling a horse's tail.",
+        "bn": "কাপড় সরাতেই দেখা গেল পুরো ক্যানভাসটি একদম সাদা, কেবল এক কোণায় ঘোড়ার লেজের মতো সামান্য কয়েকটি রেখা আঁকা রয়েছে!"
+      },
+      {
+        "en": "When the furious king demanded an explanation, Tenali smiled: 'Your Majesty, this is a magnificent black stallion eating lush grass off-canvas; you must imagine the rest!'",
+        "bn": "ক্ষিপ্ত রাজা কৈফিয়ত চাইতেই তেনালী হেসে বললেন: 'মহারাজ, এটি এক কালো ঘোড়া যা ক্যানভাসের বাইরের ঘাস খাচ্ছে; বাকিটা আপনাকে কল্পনা করে নিতে হবে!'"
+      },
+      {
+        "en": "Recognizing Tenali's clever use of the painter's own arrogant words, the king laughed heartily and rewarded him with a bag of gold.",
+        "bn": "সেই দাম্ভিক শিল্পীর যুক্তির সুন্দর জবাব দেখে রাজা প্রাণখুলে হেসে উঠলেন এবং তেনালীকে এক থলি স্বর্ণমুদ্রায় পুরস্কৃত করলেন।"
+      }
+    ]
+  },
+  {
+    "id": "wit-tenali-thieves-well",
+    "title": "Tenali Raman Waters the Garden with Thieves",
+    "titleBn": "চোরদের দিয়ে বাগানে পানি সেচ",
+    "author": "Indian Wit",
+    "level": "Intermediate",
+    "category": "Wit & Wisdom",
+    "coverEmoji": "🌱",
+    "summary": "Tenali discovers burglars lurking in his backyard and tricks them into doing heavy agricultural labor all night.",
+    "summaryBn": "বাড়িতে চোর ঢুকতে দেখে তেনালী রামন এমন বুদ্ধি খাটালেন যে চোরেরা সারারাত তাঁর পুরো বাগানে পানি ঢালল।",
+    "sentences": [
+      {
+        "en": "One warm summer evening, Tenali Raman spotted two suspicious thieves hiding among the bushes in his backyard garden.",
+        "bn": "এক গরমের সন্ধ্যায় তেনালী রামন দেখলেন দুই চোর তাঁর বাড়ির পেছনের বাগানের ঝোপের আড়ালে লুকিয়ে আছে।"
+      },
+      {
+        "en": "Instead of shouting for guards, he casually walked inside and spoke in a loud voice to his wife: 'Dearest, robbers are loose in the city.'",
+        "bn": "চিৎকার করে পাহারাদার ডাকার বদলে তিনি ঘরে ঢুকে স্ত্রীকে বেশ জোরে জোরে বললেন: 'শুনছ, শহরে নাকি ডাকাত পড়েছে।'"
+      },
+      {
+        "en": "'We must hide all our gold ornaments and silver utensils inside our heavy iron chest and drop it into the deep well for safekeeping.'",
+        "bn": "'আমাদের সব সোনার গয়না আর রূপার বাসনকোসন এই ভারী লোহার সিন্দুকে ভরে গভীর কুয়োর পানিতে লুকিয়ে রাখতে হবে।'"
+      },
+      {
+        "en": "Tenali and his wife filled an old iron chest with heavy boulders and dragged it noisily outside, splashing it into the stone well.",
+        "bn": "তেনালী আর তাঁর স্ত্রী সিন্দুকটিতে ভারী ভারী পাথর ভরে টানতে টানতে বাইরে এনে ধপাস করে কুয়োর পানির মধ্যে ফেলে দিলেন।"
+      },
+      {
+        "en": "Overjoyed by their luck, the eavesdropping thieves waited for the household to sleep, then began drawing buckets of water to empty the well.",
+        "bn": "আড়ি পেতে এই কথা শুনে খুশিতে গদগদ চোরেরা সবাই ঘুমিয়ে পড়ার পর কুয়ো থেকে বালতি বালতি পানি তুলে খালি করতে লাগল।"
+      },
+      {
+        "en": "All night long, the thieves hauled hundreds of heavy buckets, unintentionally channeling fresh water throughout all of Tenali's dry vegetable patches.",
+        "bn": "সারারাত ধরে চোরেরা শত শত বালতি পানি তুলল এবং সেই পানি বয়ে গিয়ে তেনালীর শুকনো সবজির ক্ষেত পুরোপুরি সেচ হয়ে গেল।"
+      },
+      {
+        "en": "At dawn, when the water level finally dropped, the exhausted thieves dragged out the chest, only to find it stuffed with worthless stones.",
+        "bn": "ভোরবেলা পানি কমতেই ক্লান্ত-বিধ্বস্ত চোরেরা সিন্দুকটি টেনে তুলল এবং খুলে দেখল ভেতরে শুধু বড় বড় নুড়িপাথর ভরা।"
+      },
+      {
+        "en": "Tenali stepped out with a smile and thanked them warmly for watering his mango saplings and brinjal beds for free.",
+        "bn": "তেনালী তখন হাসিমুখে সামনে এসে বিনামূল্যে তাঁর আমগাছ আর বেগুনের জমিতে পানি সেচ দেওয়ার জন্য চোরদের মিষ্টি ধন্যবাদ জানালেন!"
+      }
+    ]
+  },
+  {
+    "id": "wit-nasruddin-lost-key",
+    "title": "Mullah Nasruddin Searches Under the Streetlamp",
+    "titleBn": "মোল্লা নাসিরুদ্দিন এবং আলোর নিচে চাবি খোঁজা",
+    "author": "Sufi Wisdom",
+    "level": "Intermediate",
+    "category": "Wit & Wisdom",
+    "coverEmoji": "🏮",
+    "summary": "A famous Sufi parable showing how foolish human beings seek truth where it is convenient rather than where it was lost.",
+    "summaryBn": "সুফি লোককাহিনির এক অমর গল্প যা দেখায় মানুষ কীভাবে আসল জায়গায় না খুঁজে যেখানে সহজ সেখানে সমাধান খোঁজে।",
+    "sentences": [
+      {
+        "en": "Late one evening, neighbors found Mullah Nasruddin down on his hands and knees beneath a bright streetlamp, searching frantically in the dirt.",
+        "bn": "এক রাতে প্রতিবেশীরা দেখল মোল্লা নাসিরুদ্দিন রাস্তার এক উজ্জ্বল ল্যাম্পপোস্টের নিচে মাটিতে হামাগুড়ি দিয়ে পাগলের মতো কী যেন খুঁজছেন।"
+      },
+      {
+        "en": "A concerned neighbor knelt beside him and asked, 'Mullah, what have you lost?'",
+        "bn": "এক প্রতিবেশী পাশে বসে জিজ্ঞেস করল, 'মোল্লা সাহেব, আপনার কী হারিয়েছে?'"
+      },
+      {
+        "en": "Nasruddin wiped his brow and replied, 'I have lost the iron key to my front door.'",
+        "bn": "নাসিরুদ্দিন কপাল মুছে বললেন, 'আমার ঘরের সদর দরজার লোহার চাবিটা হারিয়ে গেছে।'"
+      },
+      {
+        "en": "The neighbor joined the search, and soon half a dozen townspeople were crawling on the cobblestones looking for the missing key.",
+        "bn": "প্রতিবেশীও খোঁজা শুরু করল, আর কিছুক্ষণের মধ্যেই পাড়ার বেশ কয়েকজন মানুষ এসে চাবি খুঁজতে রাস্তায় হামাগুড়ি দিতে লাগল।"
+      },
+      {
+        "en": "After an hour of fruitless searching, someone asked: 'Mullah, where exactly did the key drop?'",
+        "bn": "এক ঘণ্টা খোঁজাখুঁজির পরও যখন কিছু মিলল না, একজন জিজ্ঞেস করল: 'মোল্লা সাহেব, চাবিটা ঠিক কোথায় পড়েছিল?'"
+      },
+      {
+        "en": "Nasruddin pointed toward his distant house and said, 'Oh, I dropped it inside my dark cellar.'",
+        "bn": "নাসিরুদ্দিন দূরের তাঁর বাড়ির দিকে আঙুল তুলে বললেন, 'ওহ, ওটা তো আমার ঘরের অন্ধকার মাটির নিচে পড়েছিল।'"
+      },
+      {
+        "en": "The angry neighbors shouted, 'Then why on earth are you searching out here in the street?'",
+        "bn": "ক্ষুব্ধ প্রতিবেশীরা রেগে গিয়ে চেঁচিয়ে উঠল, 'তাহলে আপনি বাড়ির ভেতর না খুঁজে এখানে রাস্তায় খুঁজছেন কেন?'"
+      },
+      {
+        "en": "Nasruddin replied calmly: 'Because it is pitch black in my cellar, but out here there is such wonderful bright light!'",
+        "bn": "নাসিরুদ্দিন শান্তভাবে বললেন: 'কারণ আমার ঘরের ভেতর ঘুটঘুটে অন্ধকার, আর এখানে কত সুন্দর পরিষ্কার আলো!'"
+      }
+    ]
+  },
+  {
+    "id": "wit-nasruddin-coat-soup",
+    "title": "Mullah Nasruddin: Feed My Fine Fur Coat",
+    "titleBn": "আমার দামি কোটকে স্যুপ খাওয়াও",
+    "author": "Sufi Wisdom",
+    "level": "Intermediate",
+    "category": "Wit & Wisdom",
+    "coverEmoji": "🧥",
+    "summary": "Nasruddin exposes societal hypocrisy by literally pouring soup over his expensive silk robe at a feast.",
+    "summaryBn": "অভিজাত এক ভোজে নিজের দামি পোশাকে স্যুপ ঢেলে দিয়ে নাসিরুদ্দিন সমাজের ঠুনকো লোকদেখানো রূপ উন্মোচন করেছিলেন।",
+    "sentences": [
+      {
+        "en": "Mullah Nasruddin was invited to a lavish banquet at the mansion of a wealthy nobleman in the city.",
+        "bn": "শহরের এক ধনী জমিদারের বাড়িতে আয়োজিত জমকালো এক রাজকীয় ভোজে মোল্লা নাসিরুদ্দিনকে আমন্ত্রণ জানানো হলো।"
+      },
+      {
+        "en": "Having just finished working in his garden, Nasruddin arrived wearing his ordinary, patched cotton tunic and muddy sandals.",
+        "bn": "বাগানের কাজ শেষ করেই তিনি সোজা সেই বাড়িতে চলে এলেন নিজের পুরনো তালি দেওয়া জামা আর ধুলোমাখা চটি পরে।"
+      },
+      {
+        "en": "The snobbish servants ignored him, guests avoided eye contact, and he was seated in the coldest corner without receiving any food.",
+        "bn": "অহংকারী চাকরেরা তাঁকে পাত্তা দিল না, অতিথিরা মুখ ফিরিয়ে নিল এবং তাঁকে ঘরের এক কোণায় বসিয়ে রাখা হলো যেখানে কোনো খাবার পৌঁছাল না।"
+      },
+      {
+        "en": "Nasruddin quietly excused himself, walked home, washed up, and put on a magnificent fur-trimmed silk robe and gold turban.",
+        "bn": "নাসিরুদ্দিন কাউকে কিছু না বলে বাড়ি ফিরে গেলেন, গোসল করলেন এবং একটি জমকালো পশমি রেশমি জোব্বা ও সোনার পাগড়ি পরে এলেন।"
+      },
+      {
+        "en": "When he returned, the host rushed to greet him at the gate, bowings respectfully and leading him to the head of the banquet table.",
+        "bn": "এবার ফিরতেই স্বয়ং গৃহকর্তা দরজায় এসে তাঁকে মাথা নুয়ে অভিবাদন জানালেন এবং প্রধান অতিথির আসনে বসালেন।"
+      },
+      {
+        "en": "When a steaming bowl of fragrant lamb soup was placed before him, Nasruddin dipped the silk sleeves of his robe directly into the broth.",
+        "bn": "যখন গরম ও সুস্বাদু মাংসের স্যুপ পরিবেশন করা হলো, নাসিরুদ্দিন নিজের জামার রেশমি আস্তিন সোজা বাটির স্যুপের মধ্যে চুবিয়ে দিলেন।"
+      },
+      {
+        "en": "He patted the fur collar and murmured, 'Eat, my fine coat, eat! This hospitality is clearly meant for you, not for me.'",
+        "bn": "তিনি কোটের পশম ছুঁয়ে বললেন, 'খাও, আমার প্রিয় কোট, খাও! এই খাতির-যত্ন তো স্পষ্টতই তোমার জন্য করা হয়েছে, আমার জন্য নয়।'"
+      },
+      {
+        "en": "The shamefaced host apologized deeply, learning never to judge a person's worth by the clothes on their back.",
+        "bn": "লজ্জিত গৃহকর্তা হাত জোড় করে ক্ষমা চাইলেন এবং বুঝলেন যে পোশাক দেখে কখনো মানুষের আসল মর্যাদা বিচার করতে নেই।"
+      }
+    ]
+  },
+  {
+    "id": "wit-nasruddin-smell-sound",
+    "title": "Paying for the Smell of Soup",
+    "titleBn": "স্যুপের সুবাসের দাম মেটানো",
+    "author": "Sufi Wisdom",
+    "level": "Intermediate",
+    "category": "Wit & Wisdom",
+    "coverEmoji": "🪙",
+    "summary": "Nasruddin delivers poetic justice when a stingy restaurant owner charges a beggar for sniffing cooking food.",
+    "summaryBn": "এক কৃপণ রেস্তোরাঁ মালিক খাবারের ঘ্রাণ নেওয়ার অপরাধে ভিখারির কাছে টাকা চাইলে নাসিরুদ্দিন উপযুক্ত বিচার করেছিলেন।",
+    "sentences": [
+      {
+        "en": "A penniless traveler stood outside a fancy restaurant on a cold afternoon, holding a hard crust of dry bread.",
+        "bn": "এক শীতে এক নিঃস্ব পথিক এক নামিদামি রেস্তোরাঁর বাইরে দাঁড়িয়ে হাতে ধরা এক টুকরো শুকনো শক্ত রুটি নিয়ে ভাবছিল।"
+      },
+      {
+        "en": "He held the dry crust over a steaming pot of boiling soup near the kitchen window, letting the fragrant vapor soften his meal.",
+        "bn": "সে জানালার কাছে ফুটতে থাকা সুস্বাদু স্যুপের ধোঁয়ার ওপর রুটিটি ধরল যাতে সুবাস মেখে খাবারটি কিছুটা নরম হয়।"
+      },
+      {
+        "en": "The greedy restaurant owner seized the poor man by the collar, demanding ten silver coins as payment for inhaling his soup's aroma.",
+        "bn": "লোভী রেস্তোরাঁ মালিক তখনই লোকটির কলার চেপে ধরল এবং তাঁর স্যুপের সুবাস নেওয়ার অপরাধে দশটি রৌপ্যমুদ্রা দাবি করল।"
+      },
+      {
+        "en": "The case was brought before Mullah Nasruddin, who was serving as the local village magistrate that day.",
+        "bn": "বিচারটি নিয়ে যাওয়া হলো মোল্লা নাসিরুদ্দিনের আদালতে, যিনি সেদিন এলাকার বিচারকের আসনে বসেছিলেন।"
+      },
+      {
+        "en": "Nasruddin listened solemnly, then asked the poor traveler for his small pouch containing a few copper coins.",
+        "bn": "নাসিরুদ্দিন গম্ভীর হয়ে সব শুনলেন, তারপর সেই গরিব পথিকের কাছ থেকে সামান্য কয়েকটি তামার পয়সাভর্তি থলিটি নিলেন।"
+      },
+      {
+        "en": "Holding the coin pouch right next to the restaurant owner's ear, Nasruddin shook it vigorously so the coins jingled loudly.",
+        "bn": "থলিটি রেস্তোরাঁ মালিকের কানের কাছে নিয়ে গিয়ে নাসিরুদ্দিন জোরে জোরে নাড়াতে লাগলেন যাতে পয়সার টুংটাং শব্দ শোনা যায়।"
+      },
+      {
+        "en": "'Did you hear that lovely sound clearly?' Nasruddin asked the puzzled innkeeper.",
+        "bn": "'তুমি কি পয়সার চমৎকার শব্দ শুনতে পেয়েছ?' অবাক হয়ে থাকা মালিককে নাসিরুদ্দিন জিজ্ঞেস করলেন।"
+      },
+      {
+        "en": "'Yes, magistrate,' replied the innkeeper, to which Nasruddin declared: 'The sound of money is the exact, lawful payment for the smell of food!'",
+        "bn": "'হ্যাঁ হুজুর,' মালিক উত্তর দিতেই নাসিরুদ্দিন রায় দিলেন: 'তাহলে শোনো, খাবারের সুবাসের ন্যায্য মূল্য হলো পয়সার টুংটাং আওয়াজ!'"
+      }
+    ]
+  },
+  {
+    "id": "wit-zen-cup-tea",
+    "title": "A Cup of Tea: Empty Your Mind",
+    "titleBn": "এক কাপ চা: নিজের মন খালি করো",
+    "author": "Zen Parable",
+    "level": "Intermediate",
+    "category": "Wit & Wisdom",
+    "coverEmoji": "🍵",
+    "summary": "A university professor visits a Zen master seeking enlightenment, only to learn that pride blocks all new knowledge.",
+    "summaryBn": "এক অহংকারী অধ্যাপক এক জেন গুরুর কাছে এসে শিখলেন যে নিজের ধারণা দিয়ে মন ভরা থাকলে নতুন জ্ঞান গ্রহণ করা যায় না।",
+    "sentences": [
+      {
+        "en": "A prestigious university professor visited a renowned Zen master named Nan-in to inquire about spiritual enlightenment.",
+        "bn": "এক বিখ্যাত বিশ্ববিদ্যালয়ের অধ্যাপক জেন গুরু নান-ইনের কাছে এসে আত্মিক জ্ঞান ও বোধোদয় সম্পর্কে জানতে চাইলেন।"
+      },
+      {
+        "en": "While the master sat in quiet contemplation, the professor talked continuously, boasting of his own philosophy and publications.",
+        "bn": "গুরু যখন শান্তভাবে বসেছিলেন, সেই অধ্যাপক সমানে কথা বলেই যাচ্ছিলেন এবং নিজের দর্শন ও বইয়ের গর্ব করতে লাগলেন।"
+      },
+      {
+        "en": "Nan-in quietly prepared hot green tea and began pouring it into the professor's porcelain cup.",
+        "bn": "নান-ইন চুপচাপ গরম গ্রিন টি তৈরি করলেন এবং অধ্যাপকের চিনামাটির কাপে চা ঢালতে শুরু করলেন।"
+      },
+      {
+        "en": "The cup filled quickly to the rim, but Nan-in kept pouring, letting boiling tea spill over the saucer and onto the floor.",
+        "bn": "কাপটি কানায় কানায় ভরে গেল, কিন্তু গুরু ঢালা বন্ধ করলেন না; ফুটন্ত চা উপচে পিরিচ ছাপিয়ে মেঝেতে পড়তে লাগল।"
+      },
+      {
+        "en": "The professor watched the overflow until he could no longer restrain himself: 'Stop! It is full! No more will go in!'",
+        "bn": "চা উপচে পড়া দেখে অধ্যাপক আর থাকতে না পেরে চেঁচিয়ে উঠলেন: 'থামুন! কাপ ভরে গেছে! এতে আর এক ফোঁটাও ধরবে না!'"
+      },
+      {
+        "en": "Nan-in stopped pouring, smiled serenely, and said: 'Like this cup, your mind is full of your own opinions, pride, and preconceptions.'",
+        "bn": "নান-ইন কেতলি নামিয়ে শান্ত হাসিতে বললেন: 'এই কাপটির মতোই আপনার মনও আপনার নিজের অহংকার, মতবাদ ও ধারণায় কানায় কানায় পূর্ণ।'"
+      },
+      {
+        "en": "'How can I show you the wisdom of Zen unless you first empty your cup?'",
+        "bn": "'যদি আপনি নিজের কাপটি আগে খালি না করেন, তবে আমি কীভাবে আপনাকে জ্ঞানের নতুন পথ দেখাব?'"
+      },
+      {
+        "en": "True learning requires the humility to let go of our rigid certainties so that deeper wisdom may enter.",
+        "bn": "নতুন জ্ঞান অর্জনের জন্য নিজের একগুঁয়েমি ও অহংকার ঝেড়ে ফেলে মনকে সবসময় উন্মুক্ত রাখতে হয়।"
+      }
+    ]
+  },
+  {
+    "id": "wit-zen-heavy-burden",
+    "title": "Two Monks and the Muddy Maiden",
+    "titleBn": "দুই সন্ন্যাসী এবং কাদায় পড়া তরুণী",
+    "author": "Zen Parable",
+    "level": "Intermediate",
+    "category": "Wit & Wisdom",
+    "coverEmoji": "🌧️",
+    "summary": "One monk carries a person across a muddy puddle; the other monk carries the resentment for miles.",
+    "summaryBn": "এক সন্ন্যাসী কাদায় পড়া নারীকে কোলে তুলে পার করে দিলেন, আর অন্যজন মনে মনে সেই ক্ষোভ বয়ে বেড়ালেন মাইলের পর মাইল।",
+    "sentences": [
+      {
+        "en": "Two Buddhist monks, senior Tanzan and junior Ekido, were walking along a muddy dirt road during a heavy rainstorm.",
+        "bn": "এক তুমুল বৃষ্টির পর কাদাভরা রাস্তা দিয়ে হেঁটে যাচ্ছিলেন দুই বৌদ্ধ সন্ন্যাসী, বয়োজ্যেষ্ঠ তানজান এবং তরুণ একিদো।"
+      },
+      {
+        "en": "Near an intersection, they met a lovely young woman dressed in an exquisite silk kimono, unable to cross a deep muddy puddle without ruining her clothes.",
+        "bn": "এক মোড়ের কাছে এসে তাঁরা দেখলেন সুন্দর রেশমি পোশাক পরা এক তরুণী দাঁড়িয়ে কাঁদছে, কারণ কাদার গভীর জল পার হলে তার দামি জামা নষ্ট হয়ে যাবে।"
+      },
+      {
+        "en": "Without hesitation, Tanzan said cheerfully, 'Come along, young lady,' lifted her in his arms, and carried her across to dry ground.",
+        "bn": "এক মুহূর্ত না ভেবে তানজান হাসিমুখে বললেন, 'এসো মা,' এবং মেয়েটিকে কোলে তুলে কাদা পার করে শুকনো মাটিতে নামিয়ে দিলেন।"
+      },
+      {
+        "en": "Ekido was deeply shocked, as monastic vows strictly forbade touching women under any circumstances.",
+        "bn": "একিদো এতে চরম ধাক্কা খেলেন, কারণ সন্ন্যাসীদের কোনো অবস্থাতেই নারী স্পর্শ করা কঠোরভাবে নিষিদ্ধ ছিল।"
+      },
+      {
+        "en": "For five long hours of walking in the rain, Ekido brooded in gloomy, angry silence.",
+        "bn": "বৃষ্টির মধ্যে পরবর্তী পাঁচ ঘণ্টা হাঁটার পুরোটা সময় একিদো মনে মনে প্রচণ্ড ক্ষোভ ও বিরক্তিতে গুমরে মরতে লাগলেন।"
+      },
+      {
+        "en": "Finally, when they reached their temple at nightfall, Ekido burst out: 'Brother Tanzan, we are monks! How could you carry that beautiful girl in your arms?'",
+        "bn": "অবশেষে রাতে মন্দিরে পৌঁছে একিদো আর থাকতে না পেরে ফেটে পড়লেন: 'ভাই তানজান, আমরা সন্ন্যাসী! আপনি কীভাবে ওই মেয়েটিকে কোলে তুলে নিলেন?'"
+      },
+      {
+        "en": "Tanzan looked at his companion with gentle surprise and laughed: 'I set that girl down five hours ago by the puddle; why are you still carrying her in your mind?'",
+        "bn": "তানজান অবাক হয়ে শান্তভাবে হাসলেন: 'আমি তো সেই মেয়েটিকে পাঁচ ঘণ্টা আগেই কাদার পারে নামিয়ে দিয়ে এসেছি; তুমি এখনো তাকে মনের ভেতর বয়ে নিয়ে বেড়াচ্ছ কেন?'"
+      },
+      {
+        "en": "Right action acts with pure compassion in the moment, without clinging to bitterness or rigid judgment afterward.",
+        "bn": "সঠিক কাজ হলো প্রয়োজনে খাঁটি মনে সাহায্য করা, সেই কাজের অহংকার বা ক্ষোভ মনে পুষে না রাখা।"
+      }
+    ]
+  },
+  {
+    "id": "wit-zen-maybe-so",
+    "title": "The Old Farmer and the Wild Horse: Maybe So",
+    "titleBn": "বৃদ্ধ কৃষক এবং বুনো ঘোড়া: ভালো কি মন্দ?",
+    "author": "Zen Parable",
+    "level": "Intermediate",
+    "category": "Wit & Wisdom",
+    "coverEmoji": "🐎",
+    "summary": "An old frontier farmer reminds his neighbors that no human can judge whether an event is truly fortunate or disastrous.",
+    "summaryBn": "জীবনের ভালো-মন্দ কীভাবে মুহূর্তে উল্টে যেতে পারে তা নিয়ে প্রাচীন এক জেন কৃষকের শান্ত প্রজ্ঞার গল্প।",
+    "sentences": [
+      {
+        "en": "An elderly farmer lived on the wild borderlands with his only son and a single beloved horse.",
+        "bn": "এক প্রত্যন্ত পাহাড়ি সীমান্তে এক বৃদ্ধ কৃষক তাঁর একমাত্র ছেলে এবং একটিমাত্র ঘোড়াকে নিয়ে বাস করতেন।"
+      },
+      {
+        "en": "One day, the horse broke free from its wooden stall and galloped away into the hills.",
+        "bn": "একদিন ঘোড়াটি কাঠের খোঁয়াড় ভেঙে পাহাড়ি বনের দিকে দৌড়ে পালিয়ে গেল।"
+      },
+      {
+        "en": "Neighbors gathered to sympathize, crying, 'What terrible bad luck you have suffered!'",
+        "bn": "প্রতিবেশীরা এসে সান্ত্বনা দিয়ে বলতে লাগল, 'আহ্! তোমার কপালে কী নির্মম দুর্ভাগ্য নেমে এলো!'"
+      },
+      {
+        "en": "The calm farmer shrugged his shoulders and replied simply: 'Good luck, bad luck, who knows? Maybe so.'",
+        "bn": "শান্ত স্বভাবের কৃষক কাঁধ ঝাঁকিয়ে শুধু বললেন: 'ভালো ভাগ্য না মন্দ ভাগ্য, কে জানে? হতেও পারে।'"
+      },
+      {
+        "en": "A week later, the horse returned, leading a herd of seven wild, magnificent stallions back into the corral.",
+        "bn": "এক সপ্তাহ পর সেই ঘোড়াটি ফিরে এলো, সাথে করে নিয়ে এলো সাতটি বুনো ও শক্তিশালী সুন্দর ঘোড়ার এক দল।"
+      },
+      {
+        "en": "The neighbors cheered enthusiastically, 'What incredible good fortune you have!', but the farmer again replied: 'Maybe so.'",
+        "bn": "প্রতিবেশীরা এবার উল্লাস করে বলল, 'তোমার কী দুর্দান্ত সৌভাগ্য!', কিন্তু কৃষক আগের মতোই বললেন: 'হতেও পারে।'"
+      },
+      {
+        "en": "The next day, while attempting to train one of the fierce wild stallions, the farmer's son fell and broke his leg badly.",
+        "bn": "পরদিন সেই বুনো ঘোড়াগুলোর একটিকে বশ মানাতে গিয়ে কৃষকের ছেলে পড়ে গিয়ে মারাত্মকভাবে পা ভেঙে ফেলল।"
+      },
+      {
+        "en": "Soon after, an imperial army marched through drafting every able-bodied young man for a bloody war, sparing only the injured boy.",
+        "bn": "কিছুদিন পরেই রাজকীয় সৈন্যদল এসে যুদ্ধের জন্য সব সুস্থ যুবককে জোর করে তুলে নিয়ে গেল, শুধু সেই পা ভাঙা ছেলেটি প্রাণে বেঁচে গেল।"
+      }
+    ]
+  },
+  {
+    "id": "wit-chanakya-poisoned-thorn",
+    "title": "Chanakya and the Root of the Thorn",
+    "titleBn": "চাণক্য এবং কাঁটার শেকড় উপড়ে ফেলা",
+    "author": "Historical Legend",
+    "level": "Intermediate",
+    "category": "Wit & Wisdom",
+    "coverEmoji": "🌾",
+    "summary": "The great political philosopher teaches that problems must be eradicated at their root rather than patched on the surface.",
+    "summaryBn": "মহান কূটনীতিবিদ চাণক্য শিখিয়েছিলেন যে কোনো বিপদকে কেবল এড়িয়ে না গিয়ে তার মূল থেকে উপড়ে ফেলতে হয়।",
+    "sentences": [
+      {
+        "en": "Chanakya, the brilliant ancient scholar who later guided Chandragupta Maurya to establish a united empire, walked across a rugged field.",
+        "bn": "প্রাচীন ভারতের মহান পণ্ডিত চাণক্য, যিনি পরবর্তীতে চন্দ্রগুপ্ত মৌর্যকে দিয়ে এক বিশাল সাম্রাজ্য গড়ে তুলেছিলেন, একদিন এক রুক্ষ মাঠ দিয়ে হাঁটছিলেন।"
+      },
+      {
+        "en": "A sharp, venomous thorn from a wild bramble pierced deeply through his thin leather sandal into his bare foot.",
+        "bn": "হঠাৎ বুনো ঝোপের এক বিষাক্ত তীক্ষ্ণ কাঁটা তাঁর পাতলা চটি ভেদ করে পায়ের তলায় গভীরভাবে ফুটে গেল।"
+      },
+      {
+        "en": "Instead of limping along or cursing in vain, Chanakya sat down and patiently extracted the bloody thorn.",
+        "bn": "ব্যথায় চেঁচামেচি না করে চাণক্য শান্তভাবে বসে পা থেকে সেই রক্তাক্ত কাঁটাটি টেনে বের করলেন।"
+      },
+      {
+        "en": "He borrowed an axe, dug up the bush from its deepest roots, burned the branches, and poured sour buttermilk over the scorched soil.",
+        "bn": "এরপর তিনি কুড়াল এনে কাঁটাগাছটি শেকড়সহ উপড়ে ফেললেন, ডালাপালা পুড়িয়ে দিলেন এবং পোড়া মাটিতে টক ঘোল ঢেলে দিলেন।"
+      },
+      {
+        "en": "A passing traveler watched in bewilderment and asked why he had gone to such extreme lengths over an ordinary weed.",
+        "bn": "পথচলতি এক পথিক অবাক হয়ে দাঁড়িয়ে জিজ্ঞেস করল একটি সামান্য আগাছার জন্য তিনি কেন এত কাঠখড় পোড়ালেন।"
+      },
+      {
+        "en": "Chanakya looked up and explained: 'If you merely cut the top of a thorny bush, it grows back thicker to prick other travelers tomorrow.'",
+        "bn": "চাণক্য তাকিয়ে বললেন: 'যদি তুমি কেবল ওপরের ডাল কেটে দাও, তবে তা আরও শক্ত হয়ে গজাবে এবং কাল অন্য কারও পায়ে ফুটবে।'"
+      },
+      {
+        "en": "'By destroying its roots completely and souring the ground, I ensure this menace can never hurt another living soul.'",
+        "bn": "'শেকড়সুদ্ধ উপড়ে মাটিতে টক ঢেলে দিলে সেখানে আর কোনোদিন কাঁটাগাছ জন্মাবে না এবং কেউ বিপদে পড়বে না।'"
+      },
+      {
+        "en": "True solutions address the root causes of our challenges rather than merely suppressing the outer symptoms.",
+        "bn": "প্রকৃত সমাধান হলো সমস্যার বাহ্যিক লক্ষণ না দেখে তার গভীরে থাকা মূল কারণকে চিরতরে নির্মূল করা।"
+      }
+    ]
+  },
+  {
+    "id": "wit-zen-thief-moon",
+    "title": "Ryokan and the Stolen Moon",
+    "titleBn": "সন্ন্যাসী রিয়োকান এবং চুরি হওয়া চাঁদের আলো",
+    "author": "Zen Parable",
+    "level": "Intermediate",
+    "category": "Wit & Wisdom",
+    "coverEmoji": "🌙",
+    "summary": "A peaceful hermit catches a thief in his empty hut and gifts him his only cloak with pure warmth.",
+    "summaryBn": "কুটিরে চোর ঢুকতে দেখে এক নিঃস্ব জেন সন্ন্যাসী নিজের শেষ সম্বল চাদরটি উপহার দিয়ে চোরকে এক গভীর পাঠ শিখিয়েছিলেন।",
+    "sentences": [
+      {
+        "en": "Ryokan, a gentle Zen hermit poet, lived in a tiny thatched hut at the foot of a quiet mountain in Japan.",
+        "bn": "জাপানের এক শান্ত পাহাড়ের কোলে ছোট এক খড়ের কুটিরে বাস করতেন বিনম্র জেন সন্ন্যাসী ও কবি রিয়োকান।"
+      },
+      {
+        "en": "He owned nothing of monetary value, sleeping on a straw mat and eating boiled wild herbs from a wooden bowl.",
+        "bn": "তাঁর কাছে কোনো মূল্যবান পার্থিব ধন ছিল না; খড়ের চাটাইয়ে ঘুমাতেন এবং কাঠের বাটিতে বুনো পাতা সেদ্ধ করে খেতেন।"
+      },
+      {
+        "en": "One night, while Ryokan was out walking beneath the pines, a thief slipped into the humble hut looking for treasure.",
+        "bn": "এক রাতে রিয়োকান যখন পাইন বনের নিচে হাঁটছিলেন, এক চোর কিছু চুরির আশায় সেই কুটিরে গোপনে ঢুকল।"
+      },
+      {
+        "en": "The thief searched every corner, turning over mats, but found absolutely nothing worth taking.",
+        "bn": "চোর ঘরের প্রতিটি কোণ তন্নতন্ন করে খুঁজল, চাটাই ওল্টাল, কিন্তু নেওয়ার মতো কিছুই পেল না।"
+      },
+      {
+        "en": "Just as the disappointed thief prepared to slip away empty-handed, Ryokan returned and caught him by surprise.",
+        "bn": "হতাশ হয়ে চোর যখন খালি হাতে পালিয়ে যেতে চাইল, তখনই রিয়োকান ঘরে ফিরে এলেন এবং চোরকে মুখোমুখি দেখে ফেললেন।"
+      },
+      {
+        "en": "Instead of shouting for help or striking him, Ryokan bowed respectfully and said: 'You have come a long way to visit me; you must not leave empty-handed.'",
+        "bn": "চেঁচামেচি না করে রিয়োকান অত্যন্ত শ্রদ্ধার সাথে মাথা নত করে বললেন: 'তুমি কষ্ট করে অনেক দূর থেকে আমার সাথে দেখা করতে এসেছ; তোমাকে খালি হাতে ফিরতে দেওয়া যায় না।'"
+      },
+      {
+        "en": "Ryokan stripped off his own coarse wool robe, pressed it into the trembling thief's hands, and gently sent him on his way.",
+        "bn": "রিয়োকান নিজের গায়ের একমাত্র পশমি চাদরটি খুলে কাঁপতে থাকা চোরের হাতে তুলে দিলেন এবং মিষ্টি হাসিমুখে তাকে বিদায় জানালেন।"
+      },
+      {
+        "en": "Sitting naked by his open window, Ryokan looked up at the glowing night sky and whispered: 'Poor fellow; I wish I could have given him this beautiful moon.'",
+        "bn": "উন্মুক্ত জানালার পাশে বসে আকাশের দিকে তাকিয়ে রিয়োকান ফিসফিস করে বললেন: 'আহা বেচারা! আমার যদি সাধ্য থাকত, তবে আকাশের এই অপূর্ব সুন্দর চাঁদটাও আমি তাকে উপহার দিতাম!'"
+      }
+    ]
+  },
+  {
+    "id": "wit-persian-three-fishes",
+    "title": "The Three Fishes of the Mountain Lake",
+    "titleBn": "পাহাড়ি হ্রদের তিন মাছের গল্প",
+    "author": "Persian Wisdom",
+    "level": "Intermediate",
+    "category": "Wit & Wisdom",
+    "coverEmoji": "🐟",
+    "summary": "Three fishes face an approaching net: the wise acts early, the clever thinks fast, and the lazy perishes.",
+    "summaryBn": "জেলেদের জালের মুখে তিন মাছের ভাগ্য: যে দূরদর্শী সে আগেই বাঁচল, যে চতুর সে উপস্থিত বুদ্ধিতে রক্ষা পেল, আর অলস প্রাণ হারাল।",
+    "sentences": [
+      {
+        "en": "In a secluded mountain lake, three large fishes lived together in peace: one was wise, the second was clever, and the third was foolish and lazy.",
+        "bn": "এক পাহাড়ি হ্রদে তিনটি বড় মাছ শান্তিতে বাস করত: প্রথমটি ছিল দূরদর্শী ও জ্ঞানী, দ্বিতীয়টি ছিল উপস্থিত বুদ্ধিমান, আর তৃতীয়টি ছিল অলস ও নির্বোধ।"
+      },
+      {
+        "en": "One evening, two fishermen with heavy hemp nets walked along the bank, discussing returning at dawn to drain the pool and catch every fish.",
+        "bn": "এক সন্ধ্যায় ভারী জাল নিয়ে দুই জেলে হ্রদের পাড় দিয়ে হেঁটে যাওয়ার সময় কথা বলল যে পরদিন সকালে তারা সব পানি সেচে মাছ ধরবে।"
+      },
+      {
+        "en": "Overhearing the threat, the wise fish did not hesitate; it swam through a narrow outlet connecting to the vast river and escaped to safety that very night.",
+        "bn": "বিপদের কথা শুনেই দূরদর্শী মাছটি এক মুহূর্তও দেরি না করে নদীর সাথে যুক্ত সরু নালা দিয়ে সাঁতরে সেই রাতেই গভীর নিরাপদ পানিতে চলে গেল।"
+      },
+      {
+        "en": "The second clever fish waited until morning, but when the fishermen dammed the stream, it floated belly-up on the surface, pretending to be dead.",
+        "bn": "দ্বিতীয় চতুর মাছটি সকাল হওয়া পর্যন্ত অপেক্ষা করল, কিন্তু যখন জেলেরা বাঁধ দিল তখন সে পেটের ওপর ভেসে মড়ার মতো ভান করে রইল।"
+      },
+      {
+        "en": "Believing it was already spoiled and rotten, the fishermen picked it up and carelessly tossed it into the open river behind them.",
+        "bn": "মাছটি পচে গেছে ভেবে জেলেরা সেটিকে হাত দিয়ে তুলে অবহেলায় পেছনের বড় নদীতে ছুড়ে ফেলে দিল, আর সে সাঁতরে বেঁচে গেল।"
+      },
+      {
+        "en": "The third foolish fish swam frantically in circles, panicked, and made no effort to think until it was trapped tightly in the dragnet.",
+        "bn": "তৃতীয় অলস মাছটি ভয়ে ছোটাছুটি করতে লাগল, কোনো বুদ্ধি খাটাল না এবং শেষ পর্যন্ত জালের ফাঁদে আটকা পড়ে প্রাণ হারাল।"
+      },
+      {
+        "en": "Forethought prevents disaster, quick wit escapes sudden traps, but foolish procrastination leads to inevitable ruin.",
+        "bn": "আগাম সতর্কতা বিপদ এড়ায়, উপস্থিত বুদ্ধি আকস্মিক ফাঁদ থেকে বাঁচায়, কিন্তু গড়িমসি আর অলসতা মানুষকে ধ্বংসের মুখে ফেলে।"
+      },
+      {
+        "en": "He who foresees approaching trouble acts before the doors of opportunity are sealed shut forever.",
+        "bn": "যে ব্যক্তি আসন্ন বিপদ আগে থেকেই দেখতে পায়, সে সুযোগের দরজা বন্ধ হওয়ার আগেই উপযুক্ত পদক্ষেপ গ্রহণ করে।"
+      }
+    ]
+  },
+  {
+    "id": "wit-pancha-clever-carpenter",
+    "title": "The Clever Carpenter and the Greedy Monkey",
+    "titleBn": "কাঠুরে ও লোভী বানরের পরিণতি",
+    "author": "Panchatantra",
+    "level": "Intermediate",
+    "category": "Wit & Wisdom",
+    "coverEmoji": "🪵",
+    "summary": "A curious monkey meddles in a carpenter's timber wedge and learns a painful lesson about minding one's business.",
+    "summaryBn": "অন্যের কাজে অযথা নাক গলাতে গিয়ে এক কৌতূহলী বানর কীভাবে এক কঠিন ও যন্ত্রণাদায়ক শাস্তির মুখে পড়েছিল।",
+    "sentences": [
+      {
+        "en": "A skilled carpenter was building a temple outside the village, sawing a massive timber log in half down the center.",
+        "bn": "এক দক্ষ কাঠমিস্ত্রি গ্রামের বাইরে একটি মন্দিরের কাজ করছিলেন এবং তিনি একটি বিশাল কাঠের গুঁড়ি মাঝখান দিয়ে চিরে দুই ভাগ করছিলেন।"
+      },
+      {
+        "en": "To keep the split open while he went home for lunch, he drove a sturdy wooden wedge firmly into the cleft.",
+        "bn": "দুপুরে খেতে যাওয়ার সময় চেরা অংশটি যাতে আটকে না যায়, সেজন্য তিনি কাঠের ফাঁকের ভেতর শক্ত একটি গোঁজ গুঁজে রেখে গেলেন।"
+      },
+      {
+        "en": "A band of mischievous monkeys living in the surrounding trees swung down to explore the unfinished timber workshop.",
+        "bn": "আশেপাশের গাছের একদল দুরন্ত বানর তখন লাফিয়ে নেমে এসে কাঠমিস্ত্রির ফেলে যাওয়া জিনিসপত্র নিয়ে ঘাঁটাঘাঁটি শুরু করল।"
+      },
+      {
+        "en": "One overly curious monkey climbed atop the split log and sat down right over the cleft, with its tail dangling inside the opening.",
+        "bn": "একটি অতি কৌতূহলী বানর চেরা গুঁড়ির ওপরে গিয়ে বসল এবং অসাবধানতাবশত তার লেজটি কাঠের ফাঁকের মধ্যে ঝুলিয়ে দিল।"
+      },
+      {
+        "en": "Curious to see what held the heavy timber apart, the monkey grasped the wooden wedge and began yanking it with both hands.",
+        "bn": "কীসের কারণে কাঠটি ফাঁক হয়ে আছে তা দেখতে বানরটি কাঠের গোঁজটি দুই হাতে ধরে জোরে জোরে টানতে লাগল।"
+      },
+      {
+        "en": "With a sudden squeak, the wedge flew out of the cleft, and the massive log snapped shut with thunderous force.",
+        "bn": "হঠাৎ হ্যাঁচকা টানে গোঁজটি খুলে এলো এবং বিশাল কাঠের গুঁড়িটি বিকট শব্দে একসাথে বন্ধ হয়ে গেল।"
+      },
+      {
+        "en": "The monkey's tail was trapped tight as a vise in the crushed wood, leaving it howling in agony until the carpenter returned.",
+        "bn": "কাঠের ফাঁকে বানরটির লেজ এমন শক্তভাবে আটকে গেল যে কাঠুরে ফিরে না আসা পর্যন্ত সে যন্ত্রণায় চিৎকার করতে লাগল।"
+      },
+      {
+        "en": "Meddling in matters that are not your business always brings unexpected peril and self-inflicted sorrow.",
+        "bn": "যে বিষয়ে নিজের কোনো জ্ঞান বা কাজ নেই, সেখানে অযথা নাক গলাতে গেলে অনিবার্য বিপদ ও দুঃখ ডেকে আনতে হয়।"
+      }
+    ]
+  }
+]

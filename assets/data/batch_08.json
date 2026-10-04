@@ -1,0 +1,637 @@
+[
+  {
+    "id": "mystery-holmes-red-headed-league",
+    "title": "Sherlock Holmes: The Red-Headed League",
+    "titleBn": "শার্লক হোমস: লাল চুলের সমিতি",
+    "author": "Sir Arthur Conan Doyle",
+    "level": "Intermediate",
+    "category": "Mystery & Detective",
+    "coverEmoji": "🔍",
+    "summary": "Sherlock Holmes uncovers an audacious bank heist hidden behind a bizarre newspaper advertisement for red-haired men.",
+    "summaryBn": "লাল চুলের মানুষদের জন্য অদ্ভুত বিজ্ঞাপনের আড়ালে গোপনে চলা দুর্ধর্ষ ব্যাংক ডাকাতির রহস্য উন্মোচন করেন শার্লক হোমস।",
+    "sentences": [
+      {
+        "en": "A pawnbroker named Jabez Wilson visited 221B Baker Street, asking Sherlock Holmes to explain the sudden disappearance of a well-paying job.",
+        "bn": "জাবেজ উইলসন নামের এক বন্ধকী কারবারি শার্লক হোমসের বেকার স্ট্রিটের ফ্ল্যাটে এসে এক অদ্ভুত চাকরি হঠাৎ উধাও হয়ে যাওয়ার কারণ জানতে চাইল।"
+      },
+      {
+        "en": "Wilson had been hired by a mysterious league solely because of his fiery red hair, earning four pounds a week just to copy the Encyclopedia Britannica.",
+        "bn": "উইলসনকে শুধুমাত্র তার গাঢ় লাল চুলের খাতিরে এক অদ্ভুত সমিতি নিয়োগ দিয়েছিল, যেখানে বিশ্বকোষের পাতা নকল করার জন্য সপ্তাহে চার পাউন্ড দেওয়া হতো।"
+      },
+      {
+        "en": "However, after eight weeks of tedious copying, a handwritten cardboard notice announced that the Red-Headed League was permanently dissolved.",
+        "bn": "কিন্তু আট সপ্তাহ ধরে নীরসভাবে নকল করার পর হঠাৎ দরজায় ঝোলানো একটি নোটিশে জানানো হলো যে লাল চুলের সমিতি বন্ধ হয়ে গেছে।"
+      },
+      {
+        "en": "Holmes tapped his wooden pipe thoughtfully, immediately realizing that someone had crafted the ridiculous job merely to keep Wilson out of his pawnshop.",
+        "bn": "হোমস তার কাঠের পাইপে টোকা দিয়ে বুঝলেন, উইলসনকে তার দোকান থেকে দূরে রাখার উদ্দেশ্যেই কেউ এত অদ্ভুত সাজানো চাকরির ফাঁদ পেতেছিল।"
+      },
+      {
+        "en": "Investigating the pawnshop cellar, Holmes noticed that the shop assistant's knees were heavily stained with fresh cellar clay.",
+        "bn": "উইলসনের দোকানের ভূগর্ভস্থ সেলারে তল্লাশি চালিয়ে হোমস লক্ষ্য করলেন তার সহকারীর প্যান্টের হাঁটুতে সদ্য খোঁড়া ভেজা কাদা লেগে রয়েছে।"
+      },
+      {
+        "en": "The observant detective deduced that the assistant was secretly digging an underground tunnel directly into the vault of the neighboring city bank.",
+        "bn": "তীক্ষ্ণবুদ্ধি গোয়েন্দা বুঝতে পারলেন সহকারীটি আসলে মাটির নিচ দিয়ে পাশের সিটি ব্যাংকের ভোল্ট লক্ষ্য করে একটি গোপন সুড়ঙ্গ খুঁড়ছিল।"
+      },
+      {
+        "en": "That midnight, Holmes and Doctor Watson concealed themselves in the dark bank cellar alongside the city police inspector.",
+        "bn": "সেই মধ্যরাতে পুলিশ ইন্সপেক্টরকে সাথে নিয়ে হোমস ও ডক্টর ওয়াটসন ব্যাংকের অন্ধকার মাটির নিচের ভোল্টে লুকিয়ে ওত পেতে রইলেন।"
+      },
+      {
+        "en": "When a stone slab slid aside and the notorious criminal John Clay stepped into the beam of their lantern, Holmes swiftly seized him by the collar.",
+        "bn": "মেঝের পাথরের স্ল্যাব সরে গিয়ে যখন কুখ্যাত চোর জন ক্লে লণ্ঠনের আলোয় পা রাখল, হোমস বিদ্যুৎগতিতে তার কলার চেপে ধরলেন।"
+      }
+    ]
+  },
+  {
+    "id": "mystery-holmes-speckled-band",
+    "title": "Sherlock Holmes: The Adventure of the Speckled Band",
+    "titleBn": "শার্লক হোমস: তিলকিত ফিতার রহস্য",
+    "author": "Sir Arthur Conan Doyle",
+    "level": "Intermediate",
+    "category": "Mystery & Detective",
+    "coverEmoji": "🐍",
+    "summary": "A terrified young woman seeks Holmes's help to investigate her twin sister's dying words about a speckled band.",
+    "summaryBn": "মৃত্যুর মুখে যমজ বোনের বলা অদ্ভুত শেষ কথা 'তিলকিত ফিতা'র রহস্য ভেদে হোমসের দ্বারস্থ হন এক ভীত যুবতী।",
+    "sentences": [
+      {
+        "en": "Helen Stoner arrived at Baker Street shivering from sheer terror, desperate to solve the mysterious death of her twin sister Julia.",
+        "bn": "হেলেন স্টোনার চরম ভয়ে কাঁপতে কাঁপতে বেকার স্ট্রিটে উপস্থিত হলেন, তার যমজ বোন জুলিয়ার রহস্যজনক মৃত্যুর কিনারা করার আশায়।"
+      },
+      {
+        "en": "Before dying in agonizing convulsions two years earlier, Julia had whispered her final cryptic words: 'It was the band! The speckled band!'",
+        "bn": "দুই বছর আগে চরম যন্ত্রণায় মৃত্যুর কোলে ঢলে পড়ার ঠিক আগে জুলিয়া ফিসফিস করে বলে গিয়েছিল: 'ওটা ছিল একটা ফিতা! একটা তিলকিত ফিতা!'"
+      },
+      {
+        "en": "Helen explained that their violent stepfather, Dr. Roylott, kept exotic Indian predators and forced her to sleep in Julia's former bedroom.",
+        "bn": "হেলেন জানালেন তাদের উগ্র স্বভাবের সৎপিতা ডক্টর রয়লট ভারতে কাটানো জীবনের বুনো জন্তু পুষতেন এবং সম্প্রতি হেলেনকে জুলিয়ার সেই ঘরে ঘুমাতে বাধ্য করেছেন।"
+      },
+      {
+        "en": "Holmes inspected the bedchamber and uncovered an odd ventilator leading only to Roylott's room and a dummy bell-rope attached to no bell.",
+        "bn": "হোমস ঘরটি পরীক্ষা করে দেখলেন যে দেয়ালে থাকা ভেন্টিলেটরটি রয়লটের ঘরের সাথে যুক্ত এবং একটি ভুয়ো ঘণ্টার দড়ি কোনো ঘণ্টার সাথেই বাঁধা নেই।"
+      },
+      {
+        "en": "Furthermore, the bed was permanently bolted to the floor, ensuring it could never be moved away from the ventilator overhead.",
+        "bn": "এমনকি শোবার খাটটি মেঝেতে নাটবল্টু দিয়ে শক্ত করে আটকানো ছিল, যাতে ভেন্টিলেটরের নিচে থেকে খাটটি কোনোভাবেই সরানো না যায়।"
+      },
+      {
+        "en": "Waiting in total darkness that night, Holmes and Watson heard a faint metallic hiss followed by a gentle rustling sound through the wall.",
+        "bn": "সে রাতে নিশ্ছিদ্র অন্ধকারে বসে অপেক্ষা করার সময় হোমস ও ওয়াটসন দেয়ালে মৃদু ধাতব হিসহিস শব্দ এবং কোনো কিছুর সরসর আওয়াজ শুনলেন।"
+      },
+      {
+        "en": "Holmes struck a match and vigorously lashed with his cane at the bell-rope, where a lethal swamp adder was slithering down.",
+        "bn": "হোমস দেয়াশলাই জ্বেলে বেতের ছড়ি দিয়ে ঘণ্টার দড়িতে প্রচণ্ড আঘাত করলেন, যেখান দিয়ে এক মারাত্মক বিষধর ভারতীয় সাপ নেমে আসছিল।"
+      },
+      {
+        "en": "Enraged by the blows, the venomous serpent retreated through the ventilator and bit Dr. Roylott, delivering instant poetic justice.",
+        "bn": "আঘাতে ক্ষিপ্ত হয়ে বিষাক্ত সাপটি ভেন্টিলেটর দিয়ে উল্টো ঘরে ফিরে গিয়ে ডক্টর রয়লটকেই দংশন করল এবং পাপীর উপযুক্ত বিচার হলো।"
+      }
+    ]
+  },
+  {
+    "id": "mystery-holmes-blue-carbuncle",
+    "title": "Sherlock Holmes: The Blue Carbuncle",
+    "titleBn": "শার্লক হোমস: নীলকান্ত মণি",
+    "author": "Sir Arthur Conan Doyle",
+    "level": "Intermediate",
+    "category": "Mystery & Detective",
+    "coverEmoji": "💎",
+    "summary": "A precious stolen gemstone discovered inside the belly of a Christmas goose leads Holmes on an ingenious London chase.",
+    "summaryBn": "বড়দিনের একটি রাজহাঁসের পেটের ভেতর থেকে উদ্ধার হওয়া মহামূল্যবান নীলকান্ত মণির সূত্র ধরে অসাধারণ তদন্ত চালান হোমস।",
+    "sentences": [
+      {
+        "en": "On the morning after Christmas, commissionaire Peterson brought Holmes a battered felt hat and a plump Christmas goose dropped during a street scuffle.",
+        "bn": "বড়দিনের পরদিন সকালে দারোয়ান পিটারসন রাস্তার এক মারামারিতে ফেলে যাওয়া একটি ছেঁড়া টুপি ও একটি মোটাসোটা রাজহাঁস নিয়ে হোমসের কাছে এলো।"
+      },
+      {
+        "en": "While cleaning the goose for dinner, Peterson's wife made an astonishing discovery: the Countess of Morcar's stolen blue carbuncle was nestled inside its crop.",
+        "bn": "রাতের খাবারের জন্য হাঁসটি কাটার সময় পিটারসনের স্ত্রী হাঁসের গলার থলিতে কাউন্টেস অফ মরকারের চুরি যাওয়া মহামূল্যবান নীলকান্ত মণিটি দেখতে পেলেন।"
+      },
+      {
+        "en": "The newspapers had offered a staggering thousand-pound reward for the gem, and an innocent plumber was already locked in jail for the crime.",
+        "bn": "মণিটি উদ্ধারের জন্য পত্রিকায় এক হাজার পাউন্ডের বিরাট পুরস্কার ঘোষণা করা হয়েছিল এবং এক নির্দোষ প্লাম্বারকে সন্দেহের বশে জেলে পোরা হয়েছিল।"
+      },
+      {
+        "en": "Holmes scrutinized the old hat through a magnifying glass, deducing the owner's intellectual decline, domestic troubles, and recent financial ruin.",
+        "bn": "হোমস আতশ কাচ দিয়ে ছেঁড়া টুপিটি পরীক্ষা করে মালিকের অতীত মেধা, পারিবারিক টানাপোড়েন এবং সাম্প্রতিক চরম আর্থিক দুরবস্থার বিবরণ তুলে ধরলেন।"
+      },
+      {
+        "en": "Tracing the goose merchant through the bustling stalls of Covent Garden, Holmes encountered a nervous hotel attendant named James Ryder.",
+        "bn": "হাঁসটির বিক্রেতার সন্ধানে কোভেন্ট গার্ডেনের ভিড় বাজারে গিয়ে হোমস জেমস রাইডার নামের এক ভীত ও অস্থির হোটেল কর্মচারীর মুখোমুখি হলেন।"
+      },
+      {
+        "en": "Ryder broke down in tears, confessing that he had stolen the jewel and shoved it down the throat of his sister's goose to smuggle it away safely.",
+        "bn": "রাইডার কান্নায় ভেঙে পড়ে স্বীকার করল যে সে-ই মণিটি চুরি করে নিরাপদে পাচারের উদ্দেশ্যে তার বোনের খামারের একটি হাঁসের গলায় জোর করে ঢুকিয়ে দিয়েছিল।"
+      },
+      {
+        "en": "Because it was the season of forgiveness, Holmes chose not to condemn the weeping young man, allowing him to flee while exonerating the wrongly accused plumber.",
+        "bn": "যেহেতু এটি বড়দিনের ক্ষমার মৌসুম ছিল, হোমস কান্নারত যুবকটিকে জেলে না পাঠিয়ে দেশ ছেড়ে চলে যাওয়ার সুযোগ দিলেন এবং নিরাপরাধ প্লাম্বারকে মুক্ত করলেন।"
+      }
+    ]
+  },
+  {
+    "id": "mystery-holmes-silver-blaze",
+    "title": "Sherlock Holmes: The Curious Incident of Silver Blaze",
+    "titleBn": "শার্লক হোমস: রেসের ঘোড়া সিলভার ব্লেজ",
+    "author": "Sir Arthur Conan Doyle",
+    "level": "Intermediate",
+    "category": "Mystery & Detective",
+    "coverEmoji": "🐎",
+    "summary": "Sherlock Holmes solves the disappearance of a champion racehorse using the curious clue of a dog that did nothing in the night.",
+    "summaryBn": "রাতে পাহারাদার কুকুরের নিস্তব্ধ থাকার অদ্ভুত সূত্র ব্যবহার করে চ্যাম্পিয়ন রেসের ঘোড়া চুরির কিনারা করেন শার্লক হোমস।",
+    "sentences": [
+      {
+        "en": "The favorite racehorse for the Wessex Cup, Silver Blaze, vanished without a trace from the Dartmoor stables, and its trainer was found murdered on the moor.",
+        "bn": "ওয়েসেক্স কাপের সেরা দৌড়ের ঘোড়া সিলভার ব্লেজ ডার্টমুরের আস্তাবল থেকে উধাও হয়ে গেল এবং তার প্রশিক্ষককে মাঠের মাঝে মৃত অবস্থায় পাওয়া গেল।"
+      },
+      {
+        "en": "Inspector Gregory of Scotland Yard arrested an outsider found wandering nearby, assuming the case was open and shut.",
+        "bn": "স্কটল্যান্ড ইয়ার্ডের পরিদর্শক গ্রেগরি কাছাকাছি ঘোরাফেরা করা এক বহিরাগতকে গ্রেপ্তার করে ভেবেছিলেন মামলাটির সহজ সমাধান হয়ে গেছে।"
+      },
+      {
+        "en": "Holmes drew Gregory's attention to a profound psychological clue: the curious incident of the watch guard dog in the night-time.",
+        "bn": "হোমস পরিদর্শকের দৃষ্টি আকর্ষণ করলেন এক গভীর মনস্তাত্ত্বিক সূত্রের দিকে: রাতের বেলা আস্তাবলের পাহারাদার কুকুরের অদ্ভুত নীরব আচরণ।"
+      },
+      {
+        "en": "When the inspector puzzled that the dog did nothing at all, Holmes smiled and remarked that its silence proved the intruder was someone familiar to the household.",
+        "bn": "ইন্সপেক্টর যখন অবাক হয়ে বললেন কুকুরটি তো কোনো আওয়াজই করেনি, হোমস হেসে বললেন কুকুরের এই নীরবতাই প্রমাণ করে রাতের আগন্তুক ঘরেরই চেনা কেউ ছিল।"
+      },
+      {
+        "en": "Examining the dead trainer's possessions, Holmes found a surgical cataract knife and a heavy bill for an expensive silk dress addressed under an alias.",
+        "bn": "মৃত প্রশিক্ষকের পকেট তল্লাশি করে হোমস চোখের অস্ত্রোপচারের বিশেষ ছুরি এবং অন্য এক মহিলার নামে কেনা অত্যন্ত দামি রেশমি পোশাকের বিল খুঁজে পেলেন।"
+      },
+      {
+        "en": "Holmes deduced that the greedy trainer had tried to make a tiny nick on the horse's tendon to rig the race, but the frightened animal struck him dead with its hoof.",
+        "bn": "হোমস প্রমাণ করলেন লোভে পড়ে প্রশিক্ষক নিজেই ঘোড়াটির পায়ের রগ সামান্য কেটে রেসে কারচুপি করতে চেয়েছিল, কিন্তু ভীত ঘোড়াটি লাথি মেরে তাকে হত্যা করে।"
+      },
+      {
+        "en": "Holmes found Silver Blaze safely hidden with another trainer and revealed the majestic stallion on race day, where it galloped triumphantly to victory.",
+        "bn": "হোমস পার্শ্ববর্তী এক আস্তাবলে লুকিয়ে রাখা সিলভার ব্লেজকে উদ্ধার করেন এবং রেসের দিন মাঠে এনে এক অবিস্মরণীয় জয় উপহার দেন।"
+      }
+    ]
+  },
+  {
+    "id": "mystery-holmes-scandal-bohemia",
+    "title": "Sherlock Holmes: A Scandal in Bohemia",
+    "titleBn": "শার্লক হোমস: বোহেমিয়ার কেলেঙ্কারি ও আইরিন অ্যাডলার",
+    "author": "Sir Arthur Conan Doyle",
+    "level": "Intermediate",
+    "category": "Mystery & Detective",
+    "coverEmoji": "🎭",
+    "summary": "Sherlock Holmes matches wits with Irene Adler, the brilliant opera singer who famously outmaneuvered the master detective.",
+    "summaryBn": "বিখ্যাত অপেরা গায়িকা আইরিন অ্যাডলারের বুদ্ধিদীপ্ত কৌশলে স্বয়ং শার্লক হোমসের হার মানার রোমাঞ্চকর উপাখ্যান।",
+    "sentences": [
+      {
+        "en": "The hereditary King of Bohemia visited Sherlock Holmes in deep disguise, desperate to recover a compromising photograph held by an opera singer named Irene Adler.",
+        "bn": "বোহেমিয়ার যুবরাজ ছদ্মবেশে শার্লক হোমসের কাছে এসে অনুরোধ করলেন অপেরা গায়িকা আইরিন অ্যাডলারের কাছে থাকা একটি গোপনীয় ছবি উদ্ধার করে দিতে।"
+      },
+      {
+        "en": "If revealed, the photograph showing the prince with the American singer would shatter his impending royal marriage into pieces.",
+        "bn": "ছবিটি ফাঁস হলে এক অভিজাত রাজকন্যার সাথে যুবরাজের আসন্ন বিয়ের সম্বন্ধ চিরতরে ভেঙে ধূলিসাৎ হয়ে যেত।"
+      },
+      {
+        "en": "Holmes disguised himself as a ragged clergyman and arranged a fake street scuffle outside Adler's luxurious villa.",
+        "bn": "হোমস এক নিরীহ বৃদ্ধ ধর্মযাজকের ছদ্মবেশ ধারণ করলেন এবং অ্যাডলারের বাড়ির সামনে একটি সাজানো মারামারির আয়োজন করলেন।"
+      },
+      {
+        "en": "Carried inside her parlor as an injured bystander, Holmes signaled Watson to toss a smoking plumber's flare through the open window and shout 'Fire!'",
+        "bn": "আহত পথচারী সেজে ঘরের ভেতরে প্রবেশ করার পর হোমসের ইশারায় ওয়াটসন জানালা দিয়ে ধোঁয়া তৈরি করা পটকা ফেলে চিৎকার করে উঠল: 'আগুন! আগুন!'"
+      },
+      {
+        "en": "Instinctively, Irene Adler rushed straight to a secret sliding panel in the wall to safeguard her most precious possession.",
+        "bn": "প্রাণে বেঁচে থাকার আদিম তাড়নায় আইরিন অ্যাডলার কালবিলম্ব না করে দেয়ালের গোপন তাকের দিকে ছুটে গেল তার সবচেয়ে দামি সম্পদ বাঁচাতে।"
+      },
+      {
+        "en": "Holmes saw the hiding place and withdrew calmly, planning to return the following morning with the king to confiscate the photo.",
+        "bn": "হোমস ছবির আসল আস্তানা দেখে নিয়ে শান্তভাবে বেরিয়ে এলেন, সকালে যুবরাজকে সাথে নিয়ে ছবিটি আনুষ্ঠানিকভাবে উদ্ধারের পরিকল্পনা করে।"
+      },
+      {
+        "en": "However, by dawn, Irene Adler had fled England with her new husband, leaving behind a letter praising Holmes's brilliance and promising never to harm the king.",
+        "bn": "কিন্তু ভোর হতেই আইরিন তার স্বামীকে নিয়ে ইংল্যান্ড ত্যাগ করে চলে গেল, হোমসের বুদ্ধির প্রশংসা করে যুবরাজকে কোনো ক্ষতি না করার প্রতিজ্ঞাপত্র রেখে।"
+      },
+      {
+        "en": "Ever after, Sherlock Holmes referred to Irene Adler with profound admiration, remembering her forever simply as 'the Woman.'",
+        "bn": "এর পর থেকে শার্লক হোমস গভীর শ্রদ্ধার সাথে আইরিন অ্যাডলারকে স্মরণ করতেন এবং সবসময় তাকে কেবল 'সেই নারী' বলে অভিহিত করতেন।"
+      }
+    ]
+  },
+  {
+    "id": "mystery-poe-purloined-letter",
+    "title": "The Purloined Letter",
+    "titleBn": "এডগার অ্যালান পো: চুরি যাওয়া চিঠি",
+    "author": "Edgar Allan Poe",
+    "level": "Intermediate",
+    "category": "Mystery & Detective",
+    "coverEmoji": "✉️",
+    "summary": "C. Auguste Dupin demonstrates the art of psychological reasoning by locating a stolen letter in plain sight.",
+    "summaryBn": "অগাস্ট ডুপাঁ কীভাবে মনস্তাত্ত্বিক বিশ্লেষণের মাধ্যমে সবার চোখের সামনে খোলামেলা রাখা একটি চুরি যাওয়া চিঠি উদ্ধার করেছিলেন।",
+    "sentences": [
+      {
+        "en": "The Prefect of the Paris Police consulted the analytical investigator C. Auguste Dupin regarding a scandalous royal letter stolen by a powerful government minister.",
+        "bn": "প্যারিস পুলিশ প্রধান দক্ষ বিশ্লেষক সি. অগাস্ট ডুপাঁর কাছে এসে এক উচ্চপদস্থ মন্ত্রীর চুরি করা একটি রাজকীয় চিঠির ব্যাপারে পরামর্শ চাইলেন।"
+      },
+      {
+        "en": "The minister was blackmailing an aristocratic lady, and recovering the letter was vital for state tranquility.",
+        "bn": "সেই মন্ত্রী চিঠিটি দেখিয়ে এক সম্ভ্রান্ত মহিলাকে ব্ল্যাকমেইল করছিল এবং দেশের রাজনৈতিক শান্তির জন্য চিঠিটি উদ্ধার করা অপরিহার্য ছিল।"
+      },
+      {
+        "en": "For three months, the police had searched the minister's residence with microscopic precision, probing furniture cushions, hollow chair legs, and under wallpaper without finding anything.",
+        "bn": "তিন মাস ধরে পুলিশ অতিক্ষুদ্র বিবরণে মন্ত্রীর বাড়ি তছনছ করেছিল; চেয়ারের পায়া, গদির ভেতর, দেয়ালের কাগজের নিচে খুঁজেও কিছুই পেল না।"
+      },
+      {
+        "en": "Dupin explained that the police failed because they assumed the thief would hide the document in an intricate hiding spot suitable only for ordinary minds.",
+        "bn": "ডুপাঁ বোঝালেন যে পুলিশের ব্যর্থতার কারণ হলো তারা ধরে নিয়েছিল চোর একজন সাধারণ মানুষের মতো কোনো জটিল বা গভীর গোপন জায়গায় চিঠি লুকোবে।"
+      },
+      {
+        "en": "Visiting the minister under the pretense of poor eyesight, Dupin wore green spectacles to scan the study unobtrusively.",
+        "bn": "চোখের সমস্যার বাহানা দিয়ে সবুজ চশমা পরে মন্ত্রীর ঘরে হাজির হয়ে ডুপাঁ নিজের দৃষ্টি গোপন রেখে পুরো ঘরটি নিরীক্ষণ করলেন।"
+      },
+      {
+        "en": "He immediately spotted a crumpled, soiled envelope dangling casually from a cheap ribbon on the mantelpiece, right in front of everyone's eyes.",
+        "bn": "তিনি সাথে সাথেই দেখলেন একটি দুমড়ানো-মোচড়ানো ময়লা খাম ফায়ারপ্লেসের ওপর ঝুলন্ত ফিতায় সবার চোখের সামনে খোলামেলাভাবে রাখা আছে।"
+      },
+      {
+        "en": "The minister had turned the letter inside out, restamped it with a new seal, and left it entirely unhidden to disarm suspicion.",
+        "bn": "মন্ত্রী আসলে চিঠিটি উল্টো করে ভাঁজ করে, নতুন সিল মেরে এতটাই অবহেলাভরে রেখেছিল যাতে কারোরই কোনো সন্দেহ না জাগে।"
+      },
+      {
+        "en": "The next day, Dupin staged a distraction outside the window, swapped the document with a perfect replica, and delivered the true letter to the police.",
+        "bn": "পরদিন বাইরে এক সাজানো গোলমাল তৈরি করে ডুপাঁ পলকের মধ্যে চিঠিটি হুবহু এক নকল কাগজ দিয়ে বদলে নিয়ে পুলিশের হাতে আসল চিঠি তুলে দেন।"
+      }
+    ]
+  },
+  {
+    "id": "mystery-poe-rue-morgue",
+    "title": "The Murders in the Rue Morgue",
+    "titleBn": "এডগার অ্যালান পো: রু মর্গ-এর হত্যাকাণ্ড",
+    "author": "Edgar Allan Poe",
+    "level": "Intermediate",
+    "category": "Mystery & Detective",
+    "coverEmoji": "🩸",
+    "summary": "The world's first fictional detective solves a seemingly impossible locked-room double homicide in Paris.",
+    "summaryBn": "বিশ্ব সাহিত্যের সর্বপ্রথম কাল্পনিক গোয়েন্দা অগাস্ট ডুপাঁ কীভাবে প্যারিসের এক বদ্ধ ঘরে ঘটে যাওয়া রোমহর্ষক জোড়া খুনের সমাধান করেছিলেন।",
+    "sentences": [
+      {
+        "en": "Paris was paralyzed with horror after Madame L'Espanaye and her daughter were brutally murdered inside a fourth-story apartment on the Rue Morgue.",
+        "bn": "রু মর্গের চারতলার এক ফ্ল্যাটে মাদাম লেস্পানায়ে ও তার মেয়ের নারকীয় হত্যাকাণ্ডের খবরে পুরো প্যারিস শহর আতঙ্কে স্তব্ধ হয়ে গেল।"
+      },
+      {
+        "en": "The apartment door was locked firmly from the inside, the windows were barred, and no valuables appeared to have been stolen.",
+        "bn": "ঘরের দরজা ভেতর থেকে শক্ত করে খিল দেওয়া ছিল, জানালাগুলো বন্ধ ছিল এবং ঘরের কোনো মূল্যবান জিনিসও চুরি যায়নি।"
+      },
+      {
+        "en": "Witnesses who hurried to the scene testified hearing two voices arguing: one a French speaker, and another shrill voice speaking an unrecognizable foreign language.",
+        "bn": "চিৎকার শুনে ছুটে আসা প্রত্যক্ষদর্শীরা বলল তারা দুটি ভিন্ন কণ্ঠের তর্ক শুনেছে: একজন ফরাসি ভাষায় কথা বলছিল, আর অন্য কর্কশ কণ্ঠের ভাষা কেউ চিনতে পারেনি।"
+      },
+      {
+        "en": "C. Auguste Dupin secured permission to examine the crime scene, refusing to believe in supernatural explanations or insoluble locked rooms.",
+        "bn": "সি. অগাস্ট ডুপাঁ ঘটনাস্থল পরীক্ষা করার বিশেষ অনুমতি নিলেন, কারণ তিনি অলৌকিক রহস্য বা সমাধানহীন বদ্ধ ঘরের তত্ত্বে বিশ্বাসী ছিলেন না।"
+      },
+      {
+        "en": "He discovered that a window latch had a concealed spring mechanism that automatically relocked whenever the window swung shut.",
+        "bn": "তিনি আবিষ্কার করলেন জানালার হাতলে একটি লুকোনো স্প্রিং ছিল, যা জানালাটি সজোরে বন্ধ হলেই নিজ থেকে খিল এঁটে যেত।"
+      },
+      {
+        "en": "Examining the monstrous finger marks on the victim's throat and tufts of non-human hair, Dupin realized the killer was not human.",
+        "bn": "নিহতের গলায় রক্তমাখা নখের দাগ ও অনাবৃত পশুর লোম পরীক্ষা করে ডুপাঁ নিশ্চিত হলেন যে খুনি কোনো মানুষ হতেই পারে না।"
+      },
+      {
+        "en": "Dupin placed an advertisement for a lost ourang-outang, which lured a nervous sailor who confessed that his escaped pet ape had committed the carnage in wild panic.",
+        "bn": "ডুপাঁ পত্রিকায় হারিয়ে যাওয়া ওরাংওটাংয়ের বিজ্ঞপ্তি দিয়ে এক খালাসিকে খুঁজে বের করলেন, যে স্বীকার করল তার খাঁচাচ্যুত বনমানুষটিই ভয়ে দিগ্বিদিক জ্ঞান হারিয়ে এই কাণ্ড ঘটিয়েছে।"
+      }
+    ]
+  },
+  {
+    "id": "mystery-father-brown-invisible-man",
+    "title": "Father Brown: The Invisible Man",
+    "titleBn": "ফাদার ব্রাউন: অদৃশ্য মানব",
+    "author": "G. K. Chesterton",
+    "level": "Intermediate",
+    "category": "Mystery & Detective",
+    "coverEmoji": "📮",
+    "summary": "Father Brown solves a baffling assassination where four guards swear that not a single soul entered the victim's building.",
+    "summaryBn": "চারজন পাহারাদার শপথ করে বলল কেউ ভবনে ঢোকেনি, অথচ ভেতরে খুন হয়ে গেল; ফাদার ব্রাউন উন্মোচন করলেন আসল সত্য।",
+    "sentences": [
+      {
+        "en": "An eccentric inventor named Isidore Smythe received chilling written threats promising that he would be murdered precisely at midnight.",
+        "bn": "আইসিডোর স্মাইথ নামের এক অদ্ভুত আবিষ্কারক রক্তে লেখা উড়ো চিঠি পেলেন যাতে স্পষ্ট বলা ছিল ঠিক মধ্যরাতে তাকে খুন করা হবে।"
+      },
+      {
+        "en": "Terrified for his life, Smythe posted two sturdy police constables and a loyal shopkeeper outside the only entrance of his snowy apartment building.",
+        "bn": "প্রাণভয়ে ভীত হয়ে স্মাইথ তার বরফে ঢাকা অ্যাপার্টমেন্ট ভবনের একমাত্র প্রবেশপথে দুজন পুলিশ ও এক বিশ্বস্ত দোকানদারকে পাহারায় রাখলেন।"
+      },
+      {
+        "en": "Despite the vigilance of three men staring relentlessly at the doorstep in the pristine snow, Smythe was found stabbed through the heart inside his locked study.",
+        "bn": "নিখুঁত বরফের ওপর দরজায় তিনজন প্রহরীর অপলক দৃষ্টি থাকা সত্ত্বেও, স্মাইথকে তার তালাবদ্ধ ঘরের মধ্যে বুকে ছুরি বিদ্ধ অবস্থায় মৃত পাওয়া গেল।"
+      },
+      {
+        "en": "Every guard insisted under heavy interrogation that absolutely nobody, not a living soul, had crossed the threshold during that fateful hour.",
+        "bn": "প্রত্যেক প্রহরী জেরার মুখে দৃঢ়ভাবে দাবি করল যে সেই নির্দিষ্ট সময়ে কোনো জীবিত মানুষ সেই চৌকাঠ মাড়ায়নি।"
+      },
+      {
+        "en": "Father Brown, the humble Catholic priest in a baggy black coat, gently examined the fresh footprints stamped into the pristine snow outside.",
+        "bn": "ঢিলেঢালা কালো কোট পরা বিনম্র ক্যাথলিক পাদ্রি ফাদার ব্রাউন বাইরের টাটকা বরফে আঁকা পায়ের ছাপগুলো শান্তভাবে পর্যবেক্ষণ করলেন।"
+      },
+      {
+        "en": "Brown asked softly: 'Did anyone notice the postman who brought the evening mail bags?'",
+        "bn": "ফাদার ব্রাউন মৃদু হেসে জানতে চাইলেন: 'আচ্ছা, সন্ধ্যার চিঠির বস্তা নিয়ে যে ডাকপিয়নটি ঢুকেছিল, তাকে কি কেউ লক্ষ্য করেছিলে?'"
+      },
+      {
+        "en": "The guards were stunned; they had looked right at the uniform postman without mentally registering his presence, treating him as socially invisible.",
+        "bn": "প্রহরীরা হতভম্ব হয়ে গেল; তারা পোশাক পরা ডাকপিয়নকে ঠিকই দেখেছিল, কিন্তু সামাজিক অভ্যাসের কারণে তাকে কোনো 'আগন্তুক' হিসেবে মনে রাখেনি।"
+      },
+      {
+        "en": "The vengeful killer had worn a postman's coat, murdered the inventor, and casually walked away carrying the heavy corpse concealed inside his oversized canvas mail sack.",
+        "bn": "প্রতিশোধপরায়ণ খুনি আসলে ডাকপিয়নের বেশ ধরে এসেছিল, স্মাইথকে খুন করে তার ভারী মৃতদেহ বড় চিঠির থলিতে ভরে সবার চোখের সামনে দিয়ে চলে গিয়েছিল।"
+      }
+    ]
+  },
+  {
+    "id": "mystery-father-brown-blue-cross",
+    "title": "Father Brown: The Blue Cross",
+    "titleBn": "ফাদার ব্রাউন: নীল ক্রুশ",
+    "author": "G. K. Chesterton",
+    "level": "Intermediate",
+    "category": "Mystery & Detective",
+    "coverEmoji": "✝️",
+    "summary": "A clumsy priest leaves a trail of surreal eccentricities across London to guide the famous French detective Aristide Valentin.",
+    "summaryBn": "বিখ্যাত ফরাসি গোয়েন্দাকে সঠিক পথে রাখার জন্য এক সাদাসিধে পাদ্রি পুরো লন্ডন জুড়ে অদ্ভুত সব কাণ্ড ঘটিয়ে রেখে যান।",
+    "sentences": [
+      {
+        "en": "The world-renowned French detective Aristide Valentin arrived in London pursuing Flambeau, the master criminal and king of disguises.",
+        "bn": "বিশ্বখ্যাত ফরাসি গোয়েন্দা আরিস্তিদ ভালেন্তাঁ লন্ডনে পৌঁছালেন ছদ্মবেশের রাজা ও দুর্ধর্ষ চোর ফ্ল্যাম্বোকে পাকড়াও করার উদ্দেশ্যে।"
+      },
+      {
+        "en": "Valentin learned that Flambeau intended to steal a priceless silver cross set with five sapphire stars, carried by an innocent village priest named Father Brown.",
+        "bn": "ভালেন্তাঁ খবর পেলেন যে ফ্ল্যাম্বোর আসল লক্ষ্য ফাদার ব্রাউন নামের এক সরল গ্রাম্য পাদ্রির কাছে থাকা পাঁচটি নীলকান্ত মণি খচিত দুর্লভ রুপোর ক্রুশ চুরি করা।"
+      },
+      {
+        "en": "Following the elusive pair across London, Valentin encountered bizarre scenes: soup splashed on a restaurant wall, sugar and salt swapped, and price tags inverted at a fruit stall.",
+        "bn": "লন্ডনের পথে তাদের পিছু নিয়ে ভালেন্তাঁ একের পর এক অদ্ভুত কাণ্ড দেখলেন: রেস্তোরাঁর দেয়ালে স্যুপ ছিটানো, নুন আর চিনির পাত্র বদলানো, আর ফলের দোকানে দামের রসিদ উল্টাপাল্টা করা।"
+      },
+      {
+        "en": "Valentin realized that Father Brown was intentionally creating absurd commotion everywhere he went to leave an unmistakable trail for the authorities.",
+        "bn": "বুদ্ধিমান ভালেন্তাঁ বুঝতে পারলেন যে ফাদার ব্রাউন ইচ্ছা করেই এই আজব কাণ্ডগুলো ঘটিয়ে যাচ্ছেন, যাতে পুলিশ তাকে সহজেই অনুসরণ করতে পারে।"
+      },
+      {
+        "en": "Deep in a secluded corner of Hampstead Heath at twilight, Flambeau cornered Father Brown and demanded the surrender of the blue cross.",
+        "bn": "গোধূলিলগ্নে হ্যাম্পস্টেড হিথের এক নির্জন গাছের ছায়ায় ফ্ল্যাম্বো ফাদার ব্রাউনকে ঘিরে ধরে সেই অমূল্য নীল ক্রুশটি দাবি করল।"
+      },
+      {
+        "en": "Father Brown calmly revealed that he had anticipated the theft, sent the true gem by post to Westminster, and placed a harmless substitute into his pocket.",
+        "bn": "ফাদার ব্রাউন শান্তভাবে জানালেন তিনি আগেই চুরির আশঙ্কা বুঝে আসল ক্রুশটি ডাকযোগে ওয়েস্টমিনস্টারে পাঠিয়ে দিয়েছেন এবং নিজের পকেটে একটি নকল খেলনা রেখেছেন।"
+      },
+      {
+        "en": "Before Flambeau could strike, Detective Valentin stepped from the bushes with police officers, forcing the legendary thief to bow in defeat to the humble priest.",
+        "bn": "ফ্ল্যাম্বো কোনো কিছু বুঝে ওঠার আগেই ঝোপের আড়াল থেকে গোয়েন্দা ভালেন্তাঁ পুলিশ নিয়ে বেরিয়ে এলেন এবং পরাক্রমশালী চোর সেই সরল পাদ্রির বুদ্ধির কাছে মাথা নত করল।"
+      }
+    ]
+  },
+  {
+    "id": "adv-around-world-80-days",
+    "title": "Around the World in Eighty Days",
+    "titleBn": "আশি দিনে বিশ্বভ্রমণ",
+    "author": "Jules Verne",
+    "level": "Intermediate",
+    "category": "Classic Adventure",
+    "coverEmoji": "🌍",
+    "summary": "Phileas Fogg wagers his fortune on a seemingly impossible journey around the globe, discovering love and mastering time.",
+    "summaryBn": "আশি দিনে বিশ্ব পরিভ্রমণের অসম্ভব বাজিতে নিজের সর্বস্ব বাজি রেখে নতুন প্রেম ও সময়ের গভীর রহস্য জয় করেন ফিলিয়াস ফগ।",
+    "sentences": [
+      {
+        "en": "The meticulous English gentleman Phileas Fogg wagered twenty thousand pounds at the Reform Club that he could circle the globe in eighty days.",
+        "bn": "লন্ডনের নিখুঁত নিয়মানুবর্তী ভদ্রলোক ফিলিয়াস ফগ রিফর্ম ক্লাবে বিশ হাজার পাউন্ড বাজি ধরলেন যে তিনি মাত্র আশি দিনে পৃথিবী ঘুরে আসবেন।"
+      },
+      {
+        "en": "Accompanied by his acrobatic French valet Passepartout, Fogg embarked on an epic race using trains, steamships, yachts, and even an elephant.",
+        "bn": "তার চটপটে ফরাসি পরিচারক পাসপাড়তুকে সাথে নিয়ে ফগ ট্রেন, বাষ্পীয় জাহাজ, প্রমোদতরী এমনকি হাতির পিঠে চড়ে মহাযাত্রা শুরু করলেন।"
+      },
+      {
+        "en": "While traversing India, they gallantly rescued an Indian princess named Aouda from a tragic sacrificial death.",
+        "bn": "ভারতবর্ষের গভীর অরণ্য অতিক্রম করার সময় তারা আউদা নামের এক সুন্দরী রাজকন্যাকে সতীদাহের করুণ অগ্নিকুণ্ড থেকে জীবন বাজি রেখে উদ্ধার করলেন।"
+      },
+      {
+        "en": "Meanwhile, an overzealous police detective named Fix trailed Fogg across continents, mistakenly believing Fogg was a notorious bank robber.",
+        "bn": "এদিকে গোয়েন্দা ফিক্স নামের এক নাছোড়বান্দা পুলিশ কর্মকর্তা ব্যাংক ডাকাত ভেবে প্রতিটি মহাদেশে ফগের পেছনে ধাওয়া করে বেড়াল।"
+      },
+      {
+        "en": "After surviving storms on the Pacific Ocean and attacks in the American West, Fogg reached London believing he had arrived five minutes too late.",
+        "bn": "প্রশান্ত মহাসাগরের ঝড় ও আমেরিকার বুনো ডাকাতদের আক্রমণ সামলে ফগ যখন লন্ডনে পৌঁছালেন, তখন ঘড়ি দেখে ভাবলেন তিনি পাঁচ মিনিট দেরিতে পৌঁছে বাজি হেরে গেছেন।"
+      },
+      {
+        "en": "Despairing in his home, Passepartout rushed in to announce that by traveling eastward against the sun, they had gained an entire twenty-four hours.",
+        "bn": "হতাশ হয়ে ঘরে বসে থাকার সময় পাসপাড়তু হন্তদন্ত হয়ে এসে জানাল যে সূর্যের গতির বিপরীতে পূর্ব দিকে ভ্রমণ করার ফলে তারা পুরো একটি দিন অতিরিক্ত পেয়ে গেছেন।"
+      },
+      {
+        "en": "Fogg walked into the Reform Club at the final second, winning the bet and gaining a devoted wife who loved him dearly.",
+        "bn": "ঠিক শেষ সেকেন্ডে ফগ রিফর্ম ক্লাবের দরজায় পা রেখে বাজিতে জয়ী হলেন এবং একই সাথে পেলেন আউদার মতো এক অকৃত্রিম জীবনসঙ্গিনীকে।"
+      }
+    ]
+  },
+  {
+    "id": "adv-journey-center-earth",
+    "title": "A Journey to the Center of the Earth",
+    "titleBn": "পাতালপুরীর দেশে",
+    "author": "Jules Verne",
+    "level": "Intermediate",
+    "category": "Classic Adventure",
+    "coverEmoji": "🌋",
+    "summary": "Professor Lidenbrock and his nephew Axel descend into an extinct Icelandic volcano, discovering a prehistoric underground universe.",
+    "summaryBn": "আইসল্যান্ডের এক ঘুমন্ত আগ্নেয়গিরির জ্বালামুখ দিয়ে মাটির নিচে নেমে এক আদিম ও বিস্ময়কর জগতের মুখোমুখি হন প্রফেসর লিডেনব্রক।",
+    "sentences": [
+      {
+        "en": "The passionate German geologist Professor Otto Lidenbrock deciphered an ancient runic manuscript written by an Icelandic alchemist.",
+        "bn": "জার্মানির বিদগ্ধ ভূতাত্ত্বিক প্রফেসর অটো লিডেনব্রক আইসল্যান্ডের এক প্রাচীন রসায়নবিদের সাঙ্কেতিক পুঁথি পাঠোদ্ধার করলেন।"
+      },
+      {
+        "en": "The parchment revealed a secret path descending straight to the center of the Earth through the crater of Mount Snæfellsjökull.",
+        "bn": "সেই পুঁথিতে লেখা ছিল স্ন্যাফেলস আগ্নেয়গিরির জ্বালামুখ দিয়ে পাতালে নামলে সোজা পৃথিবীর কেন্দ্রস্থলে পৌঁছানো সম্ভব।"
+      },
+      {
+        "en": "Joined by his hesitant nephew Axel and an unshakeable eiderdown hunter named Hans, the expedition descended into the pitch-black subterranean depths.",
+        "bn": "তার ভয়ার্ত ভাগ্নে অ্যাক্সেল এবং অবিচল শিকারী হ্যান্সকে সাথে নিয়ে প্রফেসর পাতালের নিকষ কালো অতল গভীরে নেমে গেলেন।"
+      },
+      {
+        "en": "Miles beneath the Earth's crust, they encountered an enormous cavern illuminated by electrical luminescence and spanned by a vast underground ocean.",
+        "bn": "ভূত্বকের বহু মাইল গভীরে গিয়ে তারা বৈদ্যুতিক আলোয় উদ্ভাসিত এক বিশাল গুহা এবং তার মাঝে ছড়িয়ে থাকা এক অন্তহীন পাতাল সমুদ্র দেখতে পেলেন।"
+      },
+      {
+        "en": "Sailing on a primitive raft, the explorers watched in awe as giant prehistoric marine reptiles fought a ferocious battle in the waves.",
+        "bn": "কাঠের ভেলায় ভেসে যাওয়ার সময় তারা বিস্ময়ে দেখলেন প্রাগৈতিহাসিক দানবীয় সামুদ্রিক সরীসৃপ ঢেউয়ের মাঝে রক্তক্ষয়ী যুদ্ধে লিপ্ত হয়েছে।"
+      },
+      {
+        "en": "They walked through forests of towering giant mushrooms and even witnessed a gigantic humanoid shepherd herding a flock of mastodons.",
+        "bn": "তারা আকাশচুম্বী বিশালাকার মাশরুমের বনের ভেতর দিয়ে হাঁটলেন এবং এমনকি এক আদিম দানবাকৃতির রাখালকে ম্যামথের পাল চড়াতে দেখলেন।"
+      },
+      {
+        "en": "A violent volcanic eruption finally propelled their raft upward through a magma vent, depositing them safely alive on the slopes of Stromboli in Italy.",
+        "bn": "অবশেষে এক অগ্ন্যুৎপাতের উত্তাল লাভাস্রোত তাদের ভেলাটিকে ওপরের দিকে ঠেলে দিয়ে ইতালির স্ট্রম্বলি আগ্নেয়গিরির ঢালে অক্ষত অবস্থায় ফিরিয়ে দিল।"
+      }
+    ]
+  },
+  {
+    "id": "adv-twenty-thousand-leagues",
+    "title": "Twenty Thousand Leagues Under the Sea",
+    "titleBn": "সাগর তলে বিশ হাজার লিগ",
+    "author": "Jules Verne",
+    "level": "Intermediate",
+    "category": "Classic Adventure",
+    "coverEmoji": "🐙",
+    "summary": "Professor Aronnax is taken captive aboard the Nautilus, witnessing the wonders of the deep under the command of Captain Nemo.",
+    "summaryBn": "ক্যাপ্টেন নিমোর অত্যাধুনিক ডুবোজাহাজ নটিলাসে বন্দি হয়ে সমুদ্রের অতল রহস্য ও মানবসমাজ বর্জিত জীবনের সাক্ষী হন প্রফেসর আরনাক্স।",
+    "sentences": [
+      {
+        "en": "When maritime shipping was terrorized by an unknown colossal sea monster, Professor Pierre Aronnax joined an expedition to hunt the creature down.",
+        "bn": "এক অচেনা দানবীয় সামুদ্রিক প্রাণীর উপদ্রবে বিশ্ববাণিজ্য থমকে গেলে প্রফেসর পিয়ের আরনাক্স সেই দানব শিকারের অভিযানে যোগ দেন।"
+      },
+      {
+        "en": "During a nighttime clash, Aronnax, his servant Conseil, and Canadian harpooner Ned Land were thrown overboard into the black ocean.",
+        "bn": "রাতের বেলা সেই দানবের সাথে সংঘর্ষে আরনাক্স, তার সহকারী কনসিল এবং দক্ষ শিকারী নেড ল্যান্ড ছিটকে উত্তাল কালো সাগরে পড়ে গেলেন।"
+      },
+      {
+        "en": "They discovered to their utter astonishment that the monster was actually an advanced steel submarine named the Nautilus, commanded by Captain Nemo.",
+        "bn": "তারা হতবাক হয়ে আবিষ্কার করলেন যে দানবটি কোনো প্রাণী নয়, বরং ক্যাপ্টেন নিমোর তৈরি অত্যাধুনিক ইস্পাতের ডুবোজাহাজ 'নটিলাস'।"
+      },
+      {
+        "en": "Captain Nemo had severed all ties with human civilization, living entirely off the bounty of the ocean depths in majestic isolation.",
+        "bn": "ক্যাপ্টেন নিমো মানব সমাজের সাথে সমস্ত সম্পর্ক ছিন্ন করে সমুদ্রের বুকে গড়ে তুলেছিলেন এক স্বাধীন ও রহস্যময় জগৎ।"
+      },
+      {
+        "en": "Aboard the Nautilus, the captives explored undersea coral cemeteries, strolled through sunken forests, and walked upon the ruins of lost Atlantis.",
+        "bn": "নটিলাসে চড়ে বন্দিরা সাগরের অতল প্রবাল সমাধিক্ষেত্র, ডুবো অরণ্য এবং এমনকি প্রাচীন আটলান্টিস শহরের ধ্বংসাবশেষ প্রত্যক্ষ করলেন।"
+      },
+      {
+        "en": "They battled monstrous giant squids with axes when the creatures attacked the submarine's propeller off the coast of the Bahamas.",
+        "bn": "বাহামা দ্বীপপুঞ্জের কাছে যখন দানবাকৃতির অক্টোপাস নটিলাসের প্রপেলার আটকে ফেলেছিল, তখন তারা কুঠার হাতে জীবনমরণ যুদ্ধে লিপ্ত হলেন।"
+      },
+      {
+        "en": "Witnessing Nemo's bitter thirst for vengeance as he sank a warship, the captives seized their chance to escape into a wild Arctic whirlpool.",
+        "bn": "নিমোর অন্তহীন ক্ষোভ ও প্রতিশোধের রূপ দেখে তারা এক উত্তাল নরওয়েজীয় ঘূর্ণিস্রোতের মাঝে সুযোগ বুঝে নৌকা নিয়ে পালিয়ে বেঁচে ফিরলেন।"
+      }
+    ]
+  },
+  {
+    "id": "adv-king-solomons-mines",
+    "title": "King Solomon's Mines",
+    "titleBn": "কিং সোলোমনস মাইনস",
+    "author": "H. Rider Haggard",
+    "level": "Intermediate",
+    "category": "Classic Adventure",
+    "coverEmoji": "💎",
+    "summary": "Allan Quatermain leads an expedition through uncharted African deserts and mountains in search of legendary biblical diamonds.",
+    "summaryBn": "অনাবিষ্কৃত আফ্রিকান মরুভূমি ও পাহাড় পেরিয়ে বাইবেলের প্রাচীন হিরের খনি উদ্ধারে দুঃসাহসিক অভিযানে নামেন অ্যালান কোয়াটারমেইন।",
+    "sentences": [
+      {
+        "en": "Veteran elephant hunter Allan Quatermain agreed to guide Sir Henry Curtis across the uncharted African interior to find Curtis's missing brother.",
+        "bn": "অভিজ্ঞ শিকারী অ্যালান কোয়াটারমেইন ব্রিটিশ অভিজাত স্যার হেনরি কার্টিসের হারিয়ে যাওয়া ভাইয়ের খোঁজে দুর্গম আফ্রিকান অরণ্যে পথ দেখাতে রাজি হলেন।"
+      },
+      {
+        "en": "Armed with a three-hundred-year-old map drawn in blood by a dying Portuguese explorer, they aimed for the fabled diamond mines of King Solomon.",
+        "bn": "এক মৃত্যুপথযাত্রী পর্তুগিজ নাবিকের রক্তে আঁকা তিনশত বছরের পুরনো মানচিত্র সম্বল করে তারা কিং সোলোমনের হীরার খনির সন্ধানে রওনা হলেন।"
+      },
+      {
+        "en": "After nearly perishing from extreme thirst in a scorching desert, they crossed freezing mountain peaks known as Sheba's Breasts.",
+        "bn": "তপ্ত মরুভূমির বুক চিরে তৃষ্ণায় প্রায় মরতে বসে তারা বরফে ঢাকা রহস্যময় পর্বতমালা সফলভাবে অতিক্রম করলেন।"
+      },
+      {
+        "en": "On the other side, they encountered the isolated Kukuanas, a fierce warrior kingdom ruled by the tyrannical King Twala and a sinister witch named Gagool.",
+        "bn": "পাহাড়ের ওপারে তারা কুকোয়ানা নামের এক দুর্ধর্ষ যোদ্ধা জাতির দেখা পেলেন, যার শাসক ছিল অত্যাচারী রাজা টাওয়ালা ও এক কুৎসিত ডাইনি গাগুল।"
+      },
+      {
+        "en": "Their loyal servant Umbopa revealed his true birthright as the rightful heir to the throne, sparking an epic civil war for liberation.",
+        "bn": "তাদের বিশ্বস্ত পরিচারক উম্বোপা নিজের আসল পরিচয় প্রকাশ করল যে সে-ই সেই রাজ্যের আসল সিংহাসনের অধিকারী, শুরু হলো স্বাধীনতার মহাযুদ্ধ।"
+      },
+      {
+        "en": "After winning the battle, Gagool led the adventurers deep into a mountain vault overflowing with chests of uncut diamonds before trapping them inside.",
+        "bn": "যুদ্ধে জয়ের পর ডাইনি গাগুল তাদের হিরের পাহাড়ের গোপন গুহায় নিয়ে গিয়ে বিশ্বাসঘাতকতা করে পাথরের ভারী দরজা আটকে দিল।"
+      },
+      {
+        "en": "Struggling in pitch darkness for days, they discovered an underground ventilation shaft and escaped to safety, laden with unimaginable wealth.",
+        "bn": "কয়েক দিন অন্ধকারে মৃত্যুর সাথে লড়াই করে তারা এক লুকোনো বাতাস চলাচলের সুড়ঙ্গ খুঁজে পেয়ে অফুরন্ত হিরে নিয়ে নিরাপদে ফিরে এলেন।"
+      }
+    ]
+  },
+  {
+    "id": "adv-the-lost-world",
+    "title": "The Lost World",
+    "titleBn": "লস্ট ওয়ার্ল্ড: হারিয়ে যাওয়া পৃথিবী",
+    "author": "Sir Arthur Conan Doyle",
+    "level": "Intermediate",
+    "category": "Classic Adventure",
+    "coverEmoji": "🦕",
+    "summary": "Professor Challenger leads an expedition to an isolated South American plateau where living dinosaurs still rule the land.",
+    "summaryBn": "দক্ষিণ আমেরিকার দুর্গম পাহাড়ি মালভূমিতে যেখানে এখনো ডাইনোসররা রাজত্ব করছে, সেখানে দুঃসাহসী অভিযান চালান প্রফেসর চ্যালেঞ্জার।",
+    "sentences": [
+      {
+        "en": "The fiery and eccentric Professor George Edward Challenger astonished the Royal Society of London by claiming that living dinosaurs survived in South America.",
+        "bn": "উগ্র ও একরোখা বিজ্ঞানী প্রফেসর জর্জ এডওয়ার্ড চ্যালেঞ্জার লন্ডনের রয়্যাল সোসাইটিতে দাবি করলেন যে দক্ষিণ আমেরিকার দুর্গম মালভূমিতে এখনো জীবন্ত ডাইনোসর বেঁচে রয়েছে।"
+      },
+      {
+        "en": "To verify his outrageous claim, a team consisting of Challenger, rival Professor Summerlee, sportsman Lord John Roxton, and reporter Edward Malone set sail.",
+        "bn": "এই অবিশ্বাস্য দাবির সত্যতা যাচাই করতে চ্যালেঞ্জার, তার বিরোধী প্রফেসর সামারলি, শিকারী লর্ড জন রক্সটন এবং সাংবাদিক এডওয়ার্ড ম্যালোন আমাজনে রওনা হলেন।"
+      },
+      {
+        "en": "They journeyed up the Amazon tributary and reached an inaccessible volcanic plateau whose towering red cliffs barred all entry from the modern world.",
+        "bn": "আমাজনের উপনদী পেরিয়ে তারা এমন এক লাল পাথরের খাড়া মালভূমিতে পৌঁছালেন যা আধুনিক পৃথিবী থেকে সম্পূর্ণ বিচ্ছিন্ন ছিল।"
+      },
+      {
+        "en": "Felling a tall tree across a perilous chasm, the four men crossed over, only for a treacherous local guide to push the tree down, stranding them above.",
+        "bn": "একটি বিশাল গাছ কেটে গিরিখাতের ওপর সেতু বানিয়ে তারা ওপারে গেলেন, কিন্তু এক বিশ্বাসঘাতক গাইড গাছটি ফেলে দিয়ে তাদের ওখানেই আটকে দিল।"
+      },
+      {
+        "en": "To their terror and wonder, the plateau teemed with Jurassic life: soaring pterodactyls, towering iguanodons, and bloodthirsty carnivorous tyrannosaurs.",
+        "bn": "তাদের ভয় ও বিস্ময়ের মিশ্রণে দেখা গেল সেই মালভূমি জুরাসিক যুগের প্রাণীতে পরিপূর্ণ: ডানা মেলা টেরোডাক্টাইল, দানবীয় ইগুয়ানোডন এবং হিংস্র মাংসাশী ডাইনোসর।"
+      },
+      {
+        "en": "After surviving captured ape-men and prehistoric predators, they discovered a hidden cave passage and climbed safely down to the jungle.",
+        "bn": "বুনো বানর-মানব ও হিংস্র শিকারী প্রাণীদের আক্রমণ সামলে তারা এক গোপন গুহার পথ দিয়ে নিচে নেমে আধুনিক জগতে ফিরে আসার পথ পেলেন।"
+      },
+      {
+        "en": "Back in London, when skeptics mocked their tales, Challenger opened a large crate, unleashing a shrieking live pterodactyl into the astonished auditorium.",
+        "bn": "লন্ডনে ফিরে এসে বিজ্ঞানীরা যখন তাদের কথা উপহাস করল, চ্যালেঞ্জার একটি বড় কাঠের বাক্স খুলে দিলেন, যার ভেতর থেকে এক জীবন্ত ডানা মেলা টেরোডাক্টাইল চিৎকার করে উড়ে এসে পুরো হলঘর স্তব্ধ করে দিল।"
+      }
+    ]
+  },
+  {
+    "id": "adv-the-call-of-the-wild",
+    "title": "The Call of the Wild",
+    "titleBn": "বনের ডাক",
+    "author": "Jack London",
+    "level": "Intermediate",
+    "category": "Classic Adventure",
+    "coverEmoji": "🐺",
+    "summary": "Buck, a pampered dog stolen from California, overcomes brutal sled trails in the Klondike to answer the primordial call of the wilderness.",
+    "summaryBn": "ক্যালিফোর্নিয়ার বিলাসবহুল জীবন ছেড়ে বরফাবৃত ক্লনডাইকের স্লেজ গাড়ির কঠিন বাস্তবতায় বেঁচে থেকে আদিম বুনো ডাকে সাড়া দেয় বাক নামের এক কুকুর।",
+    "sentences": [
+      {
+        "en": "Buck, a magnificent and heavy Saint Bernard-Scotch shepherd mix, lived a pampered life of leisure on a sun-drenched estate in Santa Clara Valley.",
+        "bn": "বাক নামের এক সুঠামদেহী সেন্ট বার্নার্ড জাতের কুকুর ক্যালিফোর্নিয়ার সান্তা ক্লারার রোদঝলমলে এক খামারবাড়িতে পরম সুখে বিলাসবহুল জীবন কাটাত।"
+      },
+      {
+        "en": "During the gold rush frenzy, an indebted gardener secretly stole Buck and sold him to northern dog traders as a heavy-duty sled dog.",
+        "bn": "স্বর্ণ অনুসন্ধানের উন্মাদনার সময় এক ঋণগ্রস্ত মালী বাককে চুরি করে বরফের দেশে স্লেজ গাড়ি টানার জন্য এক দালালের কাছে বিক্রি করে দিল।"
+      },
+      {
+        "en": "Shipped into the freezing Klondike wilderness, Buck learned the harsh 'law of club and fang,' adapting quickly to survive beneath brutal sled drivers.",
+        "bn": "ক্লনডাইকের হাড়কাঁপানো বরফের দেশে পৌঁছে বাক 'লাঠি আর দাঁতের নির্মম নিয়ম' শিখল এবং কঠোর চাবুকের নিচে বেঁচে থাকার কৌশল আয়ত্ত করল।"
+      },
+      {
+        "en": "Under scorching blizzards, Buck pulled heavy mail sleds for thousands of miles, gradually shedding his domesticated softness for raw primitive strength.",
+        "bn": "হিমশীতল তুষারঝড়ের মাঝে হাজার হাজার মাইল ডাকবাহী স্লেজ টেনে বাক তার গৃহপালিত নরম স্বভাব ঝেড়ে ফেলে এক অপরাজেয় বুনো শক্তিতে রূপান্তরিত হলো।"
+      },
+      {
+        "en": "Rescued from abusive prospectors by the compassionate outdoorsman John Thornton, Buck forged a bond of profound, unconditional devotion with his new master.",
+        "bn": "নিষ্ঠুর মালিকদের হাত থেকে দয়ালু জন থর্নটন বাককে উদ্ধার করার পর, দুজনের মধ্যে গড়ে উঠল এক গভীর ও অকৃত্রিম ভালোবাসার সম্পর্ক।"
+      },
+      {
+        "en": "Whenever the forest night fell, Buck listened intently to a mysterious, ancient howling echoing across the snow, feeling an irresistible pull.",
+        "bn": "বনের মাঝে রাত নামলেই বরফের বুক চিরে ভেসে আসা নেকড়েদের প্রাচীন উদাত্ত ডাক শুনে বাকের রক্তের গভীরে এক অজানা বুনো টান জেগে উঠত।"
+      },
+      {
+        "en": "When tragedy struck and Thornton was killed by local tribesmen, Buck avenged his beloved friend and bounded joyfully into the wilderness to run as leader of the wolf pack.",
+        "bn": "যখন শত্রুদের আক্রমণে থর্নটন প্রাণ হারালেন, বাক তার প্রিয় বন্ধুর মৃত্যুর চরম প্রতিশোধ নিল এবং দ্বিধাহীন চিত্তে অরণ্যের মাঝে ঝাঁপিয়ে পড়ে নেকড়ে পালের নেতা হয়ে আদিম জীবনে ফিরে গেল।"
+      }
+    ]
+  }
+]

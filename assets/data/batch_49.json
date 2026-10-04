@@ -1,0 +1,617 @@
+[
+  {
+    "id": "suzanne-simard-mother-tree-wood-wide-web",
+    "title": "Suzanne Simard: The Mother Tree and the Wood Wide Web",
+    "titleBn": "সুজান সিমার্ড: মাদার ট্রি ও বনের মাটির নিচের গোপন ইন্টারনেট",
+    "author": "Wildlife & Nature",
+    "level": "Intermediate",
+    "category": "Wildlife & Nature",
+    "coverEmoji": "🌲",
+    "summary": "Injecting radioactive carbon tracers into Douglas firs and paper birches, forest ecologist Suzanne Simard discovered that trees share nutrients and communicate via fungal networks.",
+    "summaryBn": "গাছের শরীরে তেজস্ক্রিয় আইসোটোপ ইনজেকশন দিয়ে গবেষক সুজান সিমার্ড প্রমাণ করেছিলেন যে বনের গাছেরা একা একা বাঁচে না, মাটির নিচের ছত্রাকের জালে একে অপরের সাথে খাদ্য ও বার্তা ভাগ করে নেয়।",
+    "sentences": [
+      {
+        "en": "Growing up in the lush rainforests of British Columbia where her family had practiced selective horse logging for generations, Suzanne Simard developed an intuitive bond with forest soils.",
+        "bn": "কানাডার ব্রিটিশ কলাম্বিয়ার গহিন অরণ্যে বড় হয়ে ওঠা সুজান সিমার্ড ছোটবেলা থেকেই লক্ষ্য করেছিলেন বনের মাটি ও গাছের মধ্যে কোনো এক অদৃশ্য যোগসূত্র রয়েছে।"
+      },
+      {
+        "en": "Working for commercial timber companies, she was troubled to observe that industrial clear-cutting followed by mono-crop pine planting resulted in frail, disease-prone saplings.",
+        "bn": "বাণিজ্যিক বন সংস্থায় কাজ করার সময় তিনি দেখলেন সব গাছ কেটে এক জাতের গাছ লাগালে সেই চারাগুলো সহজেই রোগাক্রান্ত হয়ে মারা যায়।"
+      },
+      {
+        "en": "To investigate whether neighboring trees cooperated rather than merely competing for sunlight, she covered Douglas firs and paper birches with plastic bags in 1997.",
+        "bn": "গাছেরা কি শুধুই সূর্যের আলোর জন্য মারামারি করে নাকি একে অপরকে সাহায্য করে তা জানতে ১৯৯৭ সালে তিনি পলিথিন দিয়ে বিভিন্ন গাছ ঢেকে এক অদ্ভুত পরীক্ষা চালালেন।"
+      },
+      {
+        "en": "She injected carbon-14 and carbon-13 radioactive isotopes into their leaves, tracing the movement of sugars through subterranean soils using a Geiger counter.",
+        "bn": "তিনি গাছের পাতায় তেজস্ক্রিয় কার্বন গ্যাস ঢুকিয়ে দিয়ে মাটির নিচে গাইগার কাউন্টার যন্ত্র ধরে মিষ্টি রসের গতিবিধি মাপতে লাগলেন।"
+      },
+      {
+        "en": "The results shocked forestry science: sugars flowed continuously back and forth between firs and birches through an intricate underground web of mycorrhizal fungal filaments.",
+        "bn": "ফলাফল দেখে বিজ্ঞান মহল স্তব্ধ হয়ে গেল: মাটির নিচে ছত্রাকের অদৃশ্য সুতোর মধ্য দিয়ে এক গাছ অন্য গাছের কাছে নিয়মিত খাবার ও চিনি পাঠাচ্ছে!"
+      },
+      {
+        "en": "She discovered that large ancient 'Mother Trees' acted as central communication hubs, actively feeding dying seedlings and warning neighbors of insect attacks through chemical pulses.",
+        "bn": "তিনি দেখলেন বনের সবচেয়ে প্রবীণ 'মাদার ট্রি' বা মা গাছগুলো মাটির নিচ দিয়ে রুগ্ন চারাগুলোকে খাবার জোগায় এবং পোকার আক্রমণ হলে রাসায়নিক সংকেতে অন্য গাছকে সাবধান করে।"
+      },
+      {
+        "en": "Simard coined the concept of the 'Wood Wide Web,' proving that forests are not collections of isolated competitors, but unified, sentient, cooperative living communities.",
+        "bn": "তিনি এই ব্যবস্থার নাম দিলেন 'উড ওয়াইড ওয়েব'—যা প্রমাণ করল যে বন কোনো বিচ্ছিন্ন গাছের ভিড় নয়, বরং এক সংবেদনশীল ও পরম ভ্রাতৃত্বের একান্নবর্তী পরিবার।"
+      }
+    ]
+  },
+  {
+    "id": "peter-wohlleben-hidden-life-of-trees-friendship",
+    "title": "Peter Wohlleben: The Whispering Friendships of Ancient Beeches",
+    "titleBn": "পিটার ভোল্লেবেন: প্রাচীন শাল-পাইন গাছের আত্মিক বন্ধুত্ব",
+    "author": "Wildlife & Nature",
+    "level": "Intermediate",
+    "category": "Wildlife & Nature",
+    "coverEmoji": "🌳",
+    "summary": "German forester Peter Wohlleben observed mossy stones that were actually centuries-old living tree stumps kept alive by neighboring beeches pumping sugar through roots.",
+    "summaryBn": "জার্মানির এক বনাঞ্চলে শেওলা ধরা পাথরের মতো দেখতে চারশত বছরের এক মৃত গাছের গোড়াকে চারপাশের তরুণ গাছেরা মূল দিয়ে রস খাইয়ে আজও বাঁচিয়ে রেখেছে আবিষ্কার করেন পিটার ভোল্লেবেন।",
+    "sentences": [
+      {
+        "en": "Managing a municipal beech forest in the Eifel mountains of western Germany, forester Peter Wohlleben grew disillusioned with treating trees as industrial timber crops measured in cubic meters.",
+        "bn": "জার্মানির আইফেল পর্বতমালার বন কর্মকর্তা হিসেবে পিটার ভোল্লেবেন গাছকে নিছক কাঠের তক্তা বা পণ্য হিসেবে মাপার বাণিজ্যিক ব্যবস্থার ওপর বিরক্ত হয়ে পড়েন।"
+      },
+      {
+        "en": "One afternoon, he stumbled upon what appeared to be a cluster of peculiar green moss-covered rocks arranged in a circle beneath the ancient canopy.",
+        "bn": "একদিন দুপুরে বনের ভেতর হাঁটতে গিয়ে তিনি লক্ষ্য করলেন প্রাচীন গাছের ছায়ায় শেওলায় ঢাকা কিছু অদ্ভুত সবুজ পাথর মাটির ওপর বৃত্তাকারে পড়ে রয়েছে।"
+      },
+      {
+        "en": "Scraping away the moist moss with his pocketknife, he discovered living, moist green cambium beneath the bark—the stones were actually the ancient stump of a tree felled four hundred years earlier.",
+        "bn": "পকেট ছুরি দিয়ে শেওলা সরাতেই তিনি অবাক হয়ে দেখলেন ভেতরে কাঁচা সবুজ চামড়া জীবিত রয়েছে—পাথর নয়, এটি চারশত বছর আগে কেটে ফেলা এক প্রাচীন গাছের গোড়া!"
+      },
+      {
+        "en": "Without leaves or green branches to conduct solar photosynthesis for four centuries, the stump should have rotted into dust within five years.",
+        "bn": "কোনো সবুজ পাতা ছাড়া চার শতাব্দী ধরে সালোকসংশ্লেষণ না করে এই কাণ্ডের পাঁচ বছরের মধ্যে পঁচে মাটিতে মিশে যাওয়ার কথা ছিল।"
+      },
+      {
+        "en": "Wohlleben realized that surrounding beech trees had grafted their underground root systems into the stump, pumping liquid chlorophyll sugars for centuries to keep their fallen ancestor alive.",
+        "bn": "ভোল্লেবেন উপলব্ধি করলেন চারপাশের তরুণ বিচ গাছগুলো তাদের মূল জোড়া লাগিয়ে শতাব্দীর পর শতাব্দী ধরে মিষ্টি খাবার পাঠিয়ে তাদের এই পূর্বপুরুষকে বাঁচিয়ে রেখেছে!"
+      },
+      {
+        "en": "He detailed how trees communicate through scented volatile organic compounds released into the wind, warning neighboring trees to pump bitter tannins into leaves when giraffes or caterpillars feed.",
+        "bn": "তিনি বর্ণনা করেন কীভাবে পোকা বা হরিণ পাতা খেতে শুরু করলেই গাছেরা বাতাসে বিশেষ গন্ধ ছড়িয়ে পাশের গাছকে পাতায় তিতকুটে বিষাক্ত রস তৈরি করার সংকেত পাঠায়।"
+      },
+      {
+        "en": "His international bestseller 'The Hidden Life of Trees' opened human eyes to the profound truth that a tree can be only as strong as the forest that surrounds it.",
+        "bn": "তাঁর বিশ্বখ্যাত বই 'দ্য হিডেন লাইফ অব ট্রিস' মানুষের চোখ খুলে দিয়ে দেখিয়ে দিল যে একা একা নয়, পুরো বনের পারস্পরিক ভালোবাসার ওপরই প্রতিটি গাছের বেঁচে থাকা নির্ভর করে।"
+      }
+    ]
+  },
+  {
+    "id": "sequoia-sempervirens-hyperion-giants",
+    "title": "Hyperion: The Secret High-Canopy World of Redwood Giants",
+    "titleBn": "হাইপেরিয়ন: ক্যালিফোর্নিয়ার আকাশছোঁয়া সিকোয়ায়া মহাবৃক্ষ",
+    "author": "Wildlife & Nature",
+    "level": "Intermediate",
+    "category": "Wildlife & Nature",
+    "coverEmoji": "🌲",
+    "summary": "Soaring 380 feet into the foggy Pacific skies of northern California, Hyperion, a coast redwood, drinks ocean mist and houses an entire hanging forest ecosystem in its crown.",
+    "summaryBn": "উত্তর ক্যালিফোর্নিয়ার সাগরের কুয়াশায় প্রায় চারশত ফুট উঁচুতে মাথা তুলে থাকা বিশ্বের উচ্চতম বৃক্ষ 'হাইপেরিয়ন'-এর ডালে ডালে মাটির তৈরি হয়ে সেখানে এক ঝুলন্ত অরণ্যের সৃষ্টি হয়েছে।",
+    "sentences": [
+      {
+        "en": "Deep within an undisclosed, rugged valley of Redwood National Park in northern California stands Hyperion, a coast redwood measuring 380.3 feet tall—taller than the Statue of Liberty or Big Ben.",
+        "bn": "উত্তর ক্যালিফোর্নিয়ার এক গোপন উপত্যকায় মাথা তুলে দাঁড়িয়ে আছে 'হাইপেরিয়ন' নামের উপকূলীয় সিকোয়ায়া গাছ, যার উচ্চতা ৩৮০ ফুটেরও বেশি—স্ট্যাচু অব লিবার্টির চেয়েও উঁচু!"
+      },
+      {
+        "en": "Discovered in 2006 by naturalists Chris Atkins and Michael Taylor, the exact GPS coordinates of the ancient titan are kept strictly classified to protect its shallow roots from tourist soil compaction.",
+        "bn": "২০০৬ সালে আবিষ্কৃত এই প্রাচীন মহাবৃক্ষের শিকড় যাতে পর্যটকদের পায়ের চাপে নষ্ট না হয়, সেজন্য সরকার এর সঠিক অবস্থান আজও গোপন রেখেছে।"
+      },
+      {
+        "en": "Because physics limits how high capillary root pressure can pump water against gravity to approximately 400 feet, coast redwoods evolved an extraordinary survival adaptation.",
+        "bn": "যেহেতু মাটির নিচ থেকে চারশত ফুটের বেশি ওপরে শিকড়ের টানে পানি তোলা অসম্ভব, তাই এই গাছগুলো বেঁচে থাকার জন্য এক বিস্ময়কর বিবর্তনীয় কৌশল গ্রহণ করেছে।"
+      },
+      {
+        "en": "They drink the heavy coastal Pacific fog directly through their needle leaves, absorbing thousands of gallons of atmospheric moisture without expending groundwater energy.",
+        "bn": "তারা মাটির পানির ওপর পুরোপুরি নির্ভর না করে প্রশান্ত মহাসাগরের ঘন কুয়াশাকে নিজেদের সূঁচালো পাতার মাধ্যমে সরাসরি পান করে হাজার হাজার গ্যালন পানি শুষে নেয়।"
+      },
+      {
+        "en": "Pioneering canopy researcher Stephen Sillett climbed into the crowns three hundred feet high, discovering a hitherto unknown aerial ecosystem suspended in the sky.",
+        "bn": "গবেষক স্টিফেন সিলেটের দড়ি বেয়ে তিনশত ফুট ওপরে উঠে আবিষ্কার করলেন আকাশচুম্বী এই গাছের ডালে ডালে লুকিয়ে আছে এক অজানা রহস্যময় জীবজগৎ।"
+      },
+      {
+        "en": "Centuries of falling needles have decomposed on giant horizontal limbs, forming aerial soil beds three feet deep where ferns, huckleberry bushes, and endangered marbled murrelets thrive without touching earth.",
+        "bn": "শত শত বছরের ঝরে পড়া পাতা জমে গাছের ডালের ওপর তিন ফুট পুরু মাটির স্তর তৈরি হয়েছে, যেখানে ফার্ন ও গুল্ম জন্মে ডালে ডালেই তৈরি করেছে এক ঝুলন্ত বনভূমি!"
+      },
+      {
+        "en": "Hyperion stands as an ancient cathedral of deep time, having sprouted six centuries before Columbus sailed, whispering secrets of primordial planetary wonder.",
+        "bn": "কলম্বাসের আমেরিকা আবিষ্কারের ছয়শত বছর আগে জন্ম নেওয়া এই মহাবৃক্ষ প্রমাণ করে প্রকৃতি নিজের বুকে কত বিশাল ও অলৌকিক রূপ লালন করে চলেছে।"
+      }
+    ]
+  },
+  {
+    "id": "baobab-tree-of-life-madagascar-savannah",
+    "title": "The Baobab: Africa's Upside-Down Tree of Life",
+    "titleBn": "বাওবাব: আফ্রিকার উল্টানো কাণ্ডের জীবনবৃক্ষ",
+    "author": "Wildlife & Nature",
+    "level": "Intermediate",
+    "category": "Wildlife & Nature",
+    "coverEmoji": "🌳",
+    "summary": "Surviving searing savannah droughts by storing thirty thousand gallons of water inside spongy trunks, the ancient baobab tree feeds animals with vitamin-rich velvet fruit.",
+    "summaryBn": "মরুভূমির তীব্র খরার দিনে নিজের স্পঞ্জের মতো ফাঁপা কাণ্ডের ভেতর ত্রিশ হাজার গ্যালন পানি জমিয়ে রেখে পুরো আফ্রিকান বন্যপ্রাণীদের জীবন বাঁচায় রূপকথার বাওবাব গাছ।",
+    "sentences": [
+      {
+        "en": "Dominating the arid savannahs of Madagascar and sub-Saharan Africa, the iconic baobab resembles a giant wooden bottle planted upside down with its roots grasping into the sky.",
+        "bn": "মাদাগাস্কার ও আফ্রিকার শুষ্ক প্রান্তরে মাথা তুলে থাকা বাওবাব গাছ দেখলে মনে হয় কোনো দৈত্য বুঝি আস্ত এক গাছকে উপড়ে উল্টো করে ডালপালা আকাশে দিয়ে পুঁতে রেখেছে।"
+      },
+      {
+        "en": "Local indigenous folklore recounts that the Creator, annoyed by the tree's proud boastfulness about its flowers, plucked it from the earth and thrust it back roots-first into the soil.",
+        "bn": "স্থানীয় উপজাতীয় লোকগাথা বলে রূপের অহংকার করায় সৃষ্টিকর্তা রেগে গিয়ে এই গাছটিকে মাটি থেকে উপড়ে উল্টো করে মাটিতে পুঁতে দিয়েছিলেন।"
+      },
+      {
+        "en": "The baobab is nature's supreme hydraulic reservoir: its swollen, fibrous, fire-resistant trunk can store up to thirty-two thousand gallons of fresh water to withstand nine-month desert droughts.",
+        "bn": "বাওবাব হলো প্রকৃতির জীবন্ত পানির ট্যাঙ্ক: এর ফোলা ফাঁপা কাণ্ডের ভেতর বত্রিশ হাজার গ্যালন সুপেয় পানি জমা থাকে যা নয় মাসের খরাতেও শুকায় না।"
+      },
+      {
+        "en": "During prolonged dry seasons, thirsty elephants peel the fibrous bark with their tusks to chew the moist spongy wood, while baboons harvest the large velvet-covered gourd fruit.",
+        "bn": "খরার দিনে তৃষ্ণার্ত হাতিরা তাদের দাঁত দিয়ে এর বাকল তুলে ভেতরের ভেজা কাঠ চিবিয়ে পানি খায় এবং বানরের দল এর মখমলের মতো পুষ্টিকর ফল পেড়ে খায়।"
+      },
+      {
+        "en": "Dubbed 'monkey bread,' the powdery fruit pulp contains six times more vitamin C than oranges and double the calcium of milk, providing vital sustenance to rural communities.",
+        "bn": "'বানরের রুটি' খ্যাত এর শুকনো ফলের গুঁড়োতে কমলার চেয়ে ছয়গুণ বেশি ভিটামিন সি এবং দুধের চেয়ে দ্বিগুণ ক্যালসিয়াম থাকে যা মানুষের পরম পুষ্টি জোগায়।"
+      },
+      {
+        "en": "Its massive hollow interior chambers, some reaching forty feet in diameter, have served across centuries as natural community meeting halls, water wells, and sacred burial tombs.",
+        "bn": "এর চল্লিশ ফুট চওড়া ফাঁপা কাণ্ডের ভেতরের বিশাল জায়গায় অতীতে মানুষ সভার ঘর, পানির কুয়ো এবং এমনকি পবিত্র সমাধিক্ষেত্র হিসেবেও ব্যবহার করত।"
+      },
+      {
+        "en": "Living for more than two thousand years, the baobab is the true 'Tree of Life,' sustaining thousands of interlocking species across the harshest landscapes on Earth.",
+        "bn": "দুই হাজার বছরেরও বেশি সময় বেঁচে থাকা বাওবাব গাছ সত্যিই আফ্রিকার শুষ্ক মাটির বুকে হাজারো পশুপাখি ও মানুষের এক পরম মমতাময়ী জীবনবৃক্ষ।"
+      }
+    ]
+  },
+  {
+    "id": "mangrove-forest-sundarbans-tidal-bastion",
+    "title": "The Sundarbans: The Mangrove Fortress Against the Cyclones",
+    "titleBn": "সুন্দরবন: ঝড় ও জলোচ্ছ্বাসের বিরুদ্ধে চিরসবুজ প্রাকৃতিক প্রাচীর",
+    "author": "Wildlife & Nature",
+    "level": "Intermediate",
+    "category": "Wildlife & Nature",
+    "coverEmoji": "🐅",
+    "summary": "Spanning the delta of Bengal, the Sundarbans mangrove labyrinth uses breathing roots and tangled stilt systems to break ferocious Bay of Bengal cyclones, shielding millions.",
+    "summaryBn": "বাংলার মোহনায় অবস্থিত বিশ্বের বৃহত্তম লবণাক্ত ম্যানগ্রোভ সুন্দরবন শ্বাসমূল ও জটলা পাকানো শিকড় দিয়ে বঙ্গোপসাগরের বিধ্বংসী ঘূর্ণিঝড়ের গতি কমিয়ে কোটি মানুষের জীবন রক্ষা করে।",
+    "sentences": [
+      {
+        "en": "Sprawling across ten thousand square kilometers where the Ganges, Brahmaputra, and Meghna rivers converge into the Bay of Bengal, the Sundarbans forms the largest contiguous mangrove forest on Earth.",
+        "bn": "পদ্মা, ব্রহ্মপুত্র ও মেঘনার মোহনায় বঙ্গোপসাগরের উপকূলে দশ হাজার বর্গকিলোমিটার এলাকা জুড়ে বিস্তৃত সুন্দরবন হলো পৃথিবীর একক বৃহত্তম লবণাক্ত ম্যানগ্রোভ বনভূমি।"
+      },
+      {
+        "en": "Living submerged in suffocating, oxygen-starved saline mud, iconic Sundari and Gewa trees evolved pneumatophores—thousands of pencil-like vertical breathing roots that rise above high tides to inhale air.",
+        "bn": "লবণাক্ত কাদার নিচে অক্সিজেনের অভাবে যাতে শ্বাস আটকে না যায়, সেজন্য সুন্দরী ও গেওয়া গাছের হাজার হাজার খাড়া শ্বাসমূল পেন্সিলের মতো কাদা ফুঁড়ে বাতাসে মাথা তোলে।"
+      },
+      {
+        "en": "Their ultrafiltration root membranes filter out up to ninety percent of ocean salt, excreting surplus crystals through specialized leaf glands that glisten under tropical sun.",
+        "bn": "তাদের শিকড় সমুদ্রের নোনা পানির ৯০ শতাংশ লবণ ছেঁকে ফেলে বিশুদ্ধ মিষ্টি পানি টেনে নেয় এবং বাড়তি লবণ পাতার ওপর চকচকে দানার মতো বের করে দেয়।"
+      },
+      {
+        "en": "A vast interlocking matrix of stilt prop roots traps terrestrial river silt, stabilizing shorelines, preventing coastal erosion, and actively building new land from the delta bed.",
+        "bn": "তাদের জটলা পাকানো ঠেস মূল নদীর পলিমাটি আটকে রেখে উপকূলের ক্ষয় রোধ করে এবং বঙ্গোপসাগরের বুক চিরে নতুন নতুন চর ও সবুজ দ্বীপের জন্ম দেয়।"
+      },
+      {
+        "en": "When super-cyclones like Sidr and Amphan roar from the ocean with Category 5 winds and twenty-foot storm surges, the dense mangrove canopy absorbs up to sixty percent of tidal wave kinetic energy.",
+        "bn": "সিডর বা আম্ফানের মতো ক্যাটাগরি-৫ এর ভয়াবহ ঘূর্ণিঝড় ও বিশ ফুট উঁচু জলোচ্ছ্বাসের ধাক্কা সুন্দরবনের গাছগুলো নিজের বুক পেতে নিয়ে তার ষাট ভাগ শক্তি একাই নষ্ট করে দেয়।"
+      },
+      {
+        "en": "Beneath the emerald canopy roam swimming royal Bengal tigers, spotted deer, estuarine crocodiles, and endangered river dolphins that nursery within the brackish creeks.",
+        "bn": "এই সবুজ বনের খালের জলে সাঁতার কাটে রয়েল বেঙ্গল টাইগার, চিত্রা হরিণ আর বিলুপ্তপ্রায় ইরাবতী ডলফিন, যারা এই সংরক্ষিত খাঁড়িতে নিরাপদে বংশবৃদ্ধি করে।"
+      },
+      {
+        "en": "The Sundarbans stands as an irreplaceable biological shield, proving that nature's living green infrastructure defends civilization far better than concrete seawalls.",
+        "bn": "সুন্দরবন আমাদের দেখিয়ে দেয় যে মানুষের তৈরি কোনো কৃত্রিম বাঁধ নয়, বরং প্রকৃতির এই সবুজ বর্মই উপকূলের কোটি কোটি মানুষকে শতাব্দীর পর শতাব্দী ধরে মায়ের মতো আগলে রেখেছে।"
+      }
+    ]
+  },
+  {
+    "id": "rafflesia-arnoldii-giant-corpse-flower",
+    "title": "Rafflesia Arnoldii: The Monstrous Corpse Flower of Sumatra",
+    "titleBn": "রাফলেশিয়া: সুমাত্রার গহিন বনের দানবীয় দুর্গন্ধময় ফুল",
+    "author": "Wildlife & Nature",
+    "level": "Intermediate",
+    "category": "Wildlife & Nature",
+    "coverEmoji": "🌺",
+    "summary": "Possessing no leaves, stems, or roots, the parasitic Rafflesia blooms into a three-foot-wide monster blossom in Indonesian rainforests, emitting the stench of rotting flesh to attract carrion flies.",
+    "summaryBn": "কোনো পাতা, ডাল বা শিকড় ছাড়া বুনো লতার ভেতর অদৃশ্য পরজীবী হিসেবে লুকিয়ে থাকা রাফলেশিয়া হঠাৎ তিন ফুট চওড়া এক দানবীয় ফুলে রূপ নিয়ে মরা পশুর গন্ধে মাছিদের ডেকে আনে।",
+    "sentences": [
+      {
+        "en": "Deep in the primary tropical rainforests of Sumatra and Borneo, botanist Joseph Arnold and British colonial administrator Sir Stamford Raffles stumbled upon an unbelievable botanical monstrosity in 1818.",
+        "bn": "১৮১৮ সালে সুমাত্রার গভীর বৃষ্টিবনে ব্রিটিশ অভিযাত্রী স্যার স্ট্যামফোর্ড র‌্যাফেলস বনের মাটিতে এক অবিশ্বাস্য দানবীয় লাল ফুলের সন্ধান পেয়ে স্তম্ভিত হয়ে যান।"
+      },
+      {
+        "en": "Rafflesia arnoldii produces the largest individual flower of any plant on Earth, measuring over three feet in diameter and weighing upwards of twenty-four pounds.",
+        "bn": "'রাফলেশিয়া আর্নল্ডি' হলো পৃথিবীর একক বৃহত্তম ফুল, যার বিস্তার তিন ফুটেরও বেশি এবং ওজন প্রায় চব্বিশ পাউন্ড পর্যন্ত হতে পারে।"
+      },
+      {
+        "en": "Defying the basic anatomical definition of a plant, it possesses zero leaves, no green photosynthetic chlorophyll, no stems, and no true root system.",
+        "bn": "উদ্ভিদের প্রচলিত সমস্ত নিয়ম ভেঙে এই অদ্ভুত উদ্ভিদের কোনো পাতা নেই, কোনো সবুজ ডালপালা নেই এবং মাটির নিচে কোনো শিকড়ও নেই।"
+      },
+      {
+        "en": "For years, it lives entirely invisibly inside the woody vines of the Tetrastigma liana, threading microscopic filament cells to siphon nutrients like a fungal parasite.",
+        "bn": "বহু বছর ধরে এটি বুনো আঙুর লতার ভেতরে ছত্রাকের মতো অদৃশ্য কোষের সুতো ছড়িয়ে লুকিয়ে থাকে এবং লতার মিষ্টি রস চুরি করে পুষ্টি সঞ্চয় করে।"
+      },
+      {
+        "en": "Suddenly bursting through the host bark like an oversized cabbage, it takes nine months to swell before unfurling five thick, leathery, reddish-brown petals dotted with white pustules.",
+        "bn": "হঠাৎ লতার ছাল ফাটিয়ে এক বিশাল বাঁধাকপির মতো বের হয়ে নয় মাস ধরে ফুলেফেঁপে অবশেষে পাঁচটি পুরু মাংসল লালচে পাপড়ি মেলে এটি ফোটে।"
+      },
+      {
+        "en": "The flower heats its central chamber to mimic a mammal's corpse, emitting an overpowering stench of rotting meat that lures carrion flies from miles away to pollinate.",
+        "bn": "পাপড়ির মাঝখানের পাত্রটি গরম হয়ে মরা পশুর গলিত মাংসের মতো চরম দুর্গন্ধ ছড়ায় যাতে বিভ্রান্ত হয়ে মাছিরা এসে পরাগায়ন সম্পন্ন করে।"
+      },
+      {
+        "en": "Lasting barely five days before collapsing into a black, slimy puddle, Rafflesia represents the extreme, bizarre marvels of evolutionary specialization.",
+        "bn": "মাত্র পাঁচ দিন রূপ দেখিয়ে কালো পিচ্ছিল কাদার মতো গলে পঁচে যাওয়া এই ফুলটি প্রকৃতির বিবর্তনের চরম খামখেয়ালী ও বিস্ময়কর রূপের এক জীবন্ত নিদর্শন।"
+      }
+    ]
+  },
+  {
+    "id": "bristlecone-pine-methuselah-ancient-survival",
+    "title": "Methuselah: The Five-Thousand-Year-Old Bristlecone Sentinel",
+    "titleBn": "মেথুসেলাহ: পাঁচ হাজার বছর ধরে পাথরে টিকে থাকা প্রাচীন পাইন",
+    "author": "Wildlife & Nature",
+    "level": "Intermediate",
+    "category": "Wildlife & Nature",
+    "coverEmoji": "🌲",
+    "summary": "High on the freezing, wind-blasted dolomite ridges of California's White Mountains, Great Basin bristlecone pine Methuselah has lived for 4,850 years through sheer adversity.",
+    "summaryBn": "ক্যালিফোর্নিয়ার দশ হাজার ফুট উঁচুতে বরফঝড় ও পাথুরে মাটিতে সাড়ে চার হাজার বছর ধরে বেঁচে থাকা ব্রিসলকোন পাইন 'মেথুসেলাহ' পিরামিড তৈরির আগের থেকে আজও জীবিত আছে।",
+    "sentences": [
+      {
+        "en": "Perched ten thousand feet above sea level in the arid, freezing White Mountains of eastern California, Great Basin bristlecone pines thrive where virtually no other tree can survive.",
+        "bn": "ক্যালিফোর্নিয়ার দশ হাজার ফুট উঁচু বরফশীতল পাথুরে পাহাড়ের চূড়ায় যেখানে কোনো ঘাসও জন্মায় না, সেখানে বেঁচে আছে ব্রিসলকোন পাইন গাছ।"
+      },
+      {
+        "en": "Battered by sub-zero gale winds and rooted in barren, alkaline dolomite limestone that reflects heat and retains almost no moisture, their environment seems fundamentally hostile to life.",
+        "bn": "হাড়কাঁপানো বরফঝড় আর ক্ষারীয় পাথুরে মাটির চরম প্রতিকূলতার মাঝে বেঁচে থাকাকে সাধারণ দৃষ্টিতে একেবারেই অসম্ভব মনে হয়।"
+      },
+      {
+        "en": "Yet adversity is the precise secret of their miraculous longevity: growing with agonizing slowness, their wood becomes so dense and resinous that fungi and boring beetles cannot penetrate it.",
+        "bn": "কিন্তু এই চরম প্রতিকূলতাই তাদের দীর্ঘায়ুর রহস্য: অতি ধীর গতিতে বাড়ায় তাদের কাঠ পাথরের মতো শক্ত ও আঠালো হয়ে ওঠে যা কোনো পোকা বা ছত্রাক কাটতে পারে না।"
+      },
+      {
+        "en": "In 1957, dendrochronologist Edmund Schulman cored an ancient gnarled specimen named Methuselah, discovering it had germinated around 2832 BC.",
+        "bn": "১৯৫৭ সালে গাছের বলয় বিশেষজ্ঞ শুলম্যান 'মেথুসেলাহ' নামের এক গাছের কাঠের নমুনা পরীক্ষা করে দেখলেন এটি খ্রিস্টপূর্ব ২৮৩২ অব্দে চারা হিসেবে জন্মেছিল!"
+      },
+      {
+        "en": "This single living organism was already an ancient tree when the Great Pyramid of Giza was built, surviving the rise and fall of the Roman Empire, the Black Death, and the Industrial Age.",
+        "bn": "মিশরের পিরামিড তৈরির আগেই এটি ছিল এক প্রবীণ বৃক্ষ; রোমান সাম্রাজ্যের পতন, মধ্যযুগের প্লেগ মহামারি সব পেরিয়ে আজও এটি জীবিত শ্বাস নিচ্ছে।"
+      },
+      {
+        "en": "Most of Methuselah's twisted trunk is dead, polished bare by wind-driven sand and ice pellets, sustained by a single narrow strip of living green bark connecting deep roots to pine needles.",
+        "bn": "বরফ ও বালুর ঝড়ে কাঠের বেশিরভাগ চামড়া উঠে গিয়ে শুকিয়ে গেলেও মাত্র এক ফালি জীবন্ত সবুজ বাকল দিয়ে শিকড় থেকে রস টেনে সে বেঁচে আছে।"
+      },
+      {
+        "en": "Methuselah whispers a timeless cosmic lesson to humanity: that enduring resilience is forged not in pampered comfort, but in surviving the fierce fires of adversity.",
+        "bn": "মেথুসেলাহ মানবজাতিকে এই অমূল্য শিক্ষা দেয় যে আয়েসী বিলাসে নয়, বরং চরম দুর্যোগ ও ঝড়ের মুখোমুখি দাঁড়িয়ে লড়াই করার মাঝেই পরম অমরত্ব অর্জিত হয়।"
+      }
+    ]
+  },
+  {
+    "id": "mycorrhizal-fungi-invisible-soil-network",
+    "title": "The Mycorrhizal Web: The Underground Currency of Fungi and Roots",
+    "titleBn": "মাইকোরাইজাল ছত্রাক: মাটির নিচের অদৃশ্য লেনদেন",
+    "author": "Wildlife & Nature",
+    "level": "Intermediate",
+    "category": "Wildlife & Nature",
+    "coverEmoji": "🍄",
+    "summary": "Forming an ancient symbiotic partnership four hundred million years old, fungal hyphae mine phosphorus from solid stone, trading minerals for plant carbon sugars.",
+    "summaryBn": "চল্লিশ কোটি বছর ধরে মাটির শক্ত পাথর ভেঙে ফসফরাস সংগ্রহ করে গাছের সবুজ পাতার মিষ্টি চিনির সাথে বিনিময় করে বনের প্রাণ বাঁচিয়ে রেখেছে মাটির নিচের মাইকোরাইজাল ছত্রাকজাল।",
+    "sentences": [
+      {
+        "en": "Four hundred million years ago, when primeval aquatic plants first attempted to colonize the dry, barren continents of Earth, they possessed no true roots to extract minerals from rock.",
+        "bn": "চল্লিশ কোটি বছর আগে যখন আদিম জলজ গাছপালা প্রথম শুকনো ডাঙায় ওঠার চেষ্টা করেছিল, তখন পাথর থেকে খনিজ উপাদান চুষে নেওয়ার মতো কোনো শিকড় তাদের ছিল না।"
+      },
+      {
+        "en": "Filamentous underground fungi formed an alliance with their primitive stems, creating the first mycorrhizal partnership that unlocked the greening of planet Earth.",
+        "bn": "তখন মাটির নিচের সূক্ষ্ম ছত্রাকের দল গাছের কাণ্ডের সাথে এক মিতালি গড়ে তুলল, যার ফলে মাটি ফুঁড়ে সারা পৃথিবীতে সবুজ বৃক্ষরাজির বিস্তার সম্ভব হলো।"
+      },
+      {
+        "en": "Today, over ninety percent of all terrestrial land plant species rely completely upon this subterranean mutualistic symbiosis to thrive.",
+        "bn": "আজ পৃথিবীর শতকরা নব্বই ভাগের বেশি গাছপালা মাটির নিচের এই ছত্রাকের সাথে গভীর পারস্পরিক লেনদেনের ওপর পুরোপুরি নির্ভর করে বেঁচে আছে।"
+      },
+      {
+        "en": "Microscopic fungal threads called hyphae are sixty times thinner than the finest root hairs, penetrating microscopic bedrock crevices and secreting acids to dissolve phosphorus and nitrogen.",
+        "bn": "'হাইফা' নামের অতি সূক্ষ্ম ছত্রাকের সুতোগুলো পাথরের অদৃশ্য খাঁজে ঢুকে অ্যাসিড ছিটিয়ে শক্ত পাথর গলিয়ে নাইট্রোজেন ও ফসফরাস আলাদা করে ফেলে।"
+      },
+      {
+        "en": "A single teaspoon of healthy forest soil contains miles of microscopic fungal mycelial filaments connecting thousands of neighboring plants into an integrated network.",
+        "bn": "এক চামচ বনের মাটির ভেতরেই মাইলের পর মাইল দীর্ঘ ছত্রাকের সুতো পেঁচিয়ে থাকে যা হাজার হাজার গাছকে একসাথে যুক্ত করে রাখে।"
+      },
+      {
+        "en": "Trees allocate up to thirty percent of the carbon sugars they manufacture via sunlight down to their fungal partners in exchange for scarce water and minerals.",
+        "bn": "গাছেরা সূর্যালোক থেকে তৈরি করা তাদের সুস্বাদু মিষ্টি রসের শতকরা ত্রিশ ভাগ এই ছত্রাকদের খেতে দেয় এবং তার বদলে তাদের কাছ থেকে দুর্লভ পানি ও খনিজ সংগ্রহ করে।"
+      },
+      {
+        "en": "This invisible subterranean biological economy proves that all macroscopic beauty on Earth is built upon humble microscopic partnerships beneath our feet.",
+        "bn": "মাটির নিচের এই নীরব বাণিজ্য প্রমাণ করে যে পৃথিবীর সমস্ত রূপ ও ঐশ্বর্য আসলে আমাদের পায়ের তলার অদৃশ্য ক্ষুদ্রাতিক্ষুদ্র প্রাণীদের নিঃস্বার্থ বন্ধুত্বের ওপর দাঁড়িয়ে আছে।"
+      }
+    ]
+  },
+  {
+    "id": "banyan-tree-great-banyan-calcutta-colony",
+    "title": "The Great Banyan: The Walking Forest of a Single Tree",
+    "titleBn": "শিবপুরের মহামহীরুহ বটবৃক্ষ: এক গাছে এক আস্ত অরণ্য",
+    "author": "Wildlife & Nature",
+    "level": "Intermediate",
+    "category": "Wildlife & Nature",
+    "coverEmoji": "🌳",
+    "summary": "In the Acharya Jagadish Chandra Bose Botanic Garden in Howrah, a single 250-year-old banyan tree with four thousand aerial roots has grown into a four-acre forest without a central trunk.",
+    "summaryBn": "হাওড়ার শিবপুর উদ্ভিদ উদ্যানে আড়াইশত বছর পুরনো একটি মাত্র বটগাছ তার চার হাজার ঝুলন্ত ঝুরিমূলের সাহায্যে চার একর জায়গা জুড়ে আস্ত এক স্বয়ংসrule অরণ্যে রূপ নিয়েছে।",
+    "sentences": [
+      {
+        "en": "At the Acharya Jagadish Chandra Bose Indian Botanic Garden in Shibpur near Kolkata stands the Great Banyan, an ecological marvel resembling an entire dense tropical forest.",
+        "bn": "কলকাতার কাছে শিবপুরের আচার্য জগদীশচন্দ্র বসু উদ্ভিদ উদ্যানে মাথা উঁচু করে দাঁড়িয়ে আছে 'দ্য গ্রেট ব্যানিয়ান'—একটি মাত্র বটগাছ যা দেখতে এক বিশাল অরণ্যের মতো মনে হয়।"
+      },
+      {
+        "en": "Sprouting in the mid-eighteenth century upon the crown of a date palm tree from a seed dropped by a bird, the young Ficus benghalensis began dropping vertical prop roots.",
+        "bn": "আঠারো শতকের মাঝামাঝি এক পাখির ফেলে যাওয়া বীজ থেকে এক খেজুর গাছের মাথায় জন্ম নেওয়া এই বটগাছ ধীরে ধীরে চারদিকে ডালপালা ছড়াতে শুরু করে।"
+      },
+      {
+        "en": "Its spreading horizontal branches send down slender dangling aerial roots that reach the earth, thickening into stout, woody secondary trunks that support further lateral expansion.",
+        "bn": "এর ছড়ানো ডাল থেকে ঝুলন্ত ঝুরিমূল মাটিতে নেমে শক্ত থামের মতো কাণ্ডে পরিণত হয় এবং গাছটিকে আরও দূরে ডালপালা ছড়ানোর শক্তি জোগায়।"
+      },
+      {
+        "en": "Surviving two devastating nineteenth-century cyclones in 1864 and 1867 that broke its main branches, the tree was struck by fungal rot in its primary central trunk.",
+        "bn": "উনবিংশ শতাব্দীর দুটি ভয়াবহ সামুদ্রিক ঝড় সামলে টিকে গেলেও ছত্রাকের আক্রমণে গাছটির মূল প্রধান কাণ্ডটি পঁচে নষ্ট হয়ে যায়।"
+      },
+      {
+        "en": "To save the sprawling colony in 1925, botanists surgically amputated the diseased 50-foot-wide central trunk, yet the tree refused to wither or die.",
+        "bn": "গাছটিকে বাঁচাতে ১৯২৫ সালে উদ্ভিদবিজ্ঞানীরা অস্ত্রোপচার করে পঞ্চাশ ফুট চওড়া মূল কাণ্ডটি সম্পূর্ণ কেটে ফেলে দেন, তবুও গাছটি মরেনি।"
+      },
+      {
+        "en": "Today, the Great Banyan thrives completely trunkless, supported by over 4,000 pillar-like prop roots covering more than four acres with a circumference exceeding a quarter of a mile.",
+        "bn": "আজ কোনো মূল কাণ্ড ছাড়াই চার হাজারেরও বেশি স্তম্ভরূপী ঝুরিমূলের ওপর ভর করে চার একর জমি জুড়ে এই মহামহীরুহ পরম তেজে বেঁচে আছে।"
+      },
+      {
+        "en": "A circular paved walking road was built around its perimeter, yet the banyan continues to march outwards, proving that decentralization is nature's ultimate strategy for immortality.",
+        "bn": "গাছের চারপাশের বাঁধাই করা রাস্তা পেরিয়েও এর ডালপালা ক্রমশ এগিয়ে চলেছে; এটি প্রমাণ করে একাকিত্ব নয়, ক্ষমতার বিকেন্দ্রীকরণই প্রকৃতির অমরত্বের রহস্য।"
+      }
+    ]
+  },
+  {
+    "id": "carnivorous-pitcher-plant-nepenthes-trap",
+    "title": "Nepenthes Rajah: The Carnivorous Pit of Mount Kinabalu",
+    "titleBn": "নেপেন্থেস রাজা: মাউন্ট কিনাবালুর মাংসাশী কলসী উদ্ভিদ",
+    "author": "Wildlife & Nature",
+    "level": "Intermediate",
+    "category": "Wildlife & Nature",
+    "coverEmoji": "🪴",
+    "summary": "Growing on the serpentine soil of Borneo, the giant pitcher plant Nepenthes rajah produces six-quart digestive urns that trap insects and form a mutualistic toilet for mountain treeshrews.",
+    "summaryBn": "বোর্নিওর মাউন্ট কিনাবালুর পুষ্টিহীন মাটিতে জন্ম নেওয়া মাংসাশী কলসী উদ্ভিদ 'নেপেন্থেস রাজা' তার পেটের ভেতর পাচক রস জমিয়ে কীট-পতঙ্গ শিকার করে এবং পাহাড়ি কাঠবিড়ালির মল খেয়ে বাঁচে।",
+    "sentences": [
+      {
+        "en": "High on the mist-draped ultramafic slopes of Mount Kinabalu on the island of Borneo, the soil is so depleted of essential nitrogen and phosphorus that ordinary plants starve.",
+        "bn": "বোর্নিওর মাউন্ট কিনাবালুর কুয়াশাচ্ছন্ন পাহাড়ি ঢালের মাটিতে নাইট্রোজেন ও ফসফরাসের এতই অভাব যে সাধারণ কোনো গাছ সেখানে বেঁচে থাকতে পারে না।"
+      },
+      {
+        "en": "To survive this nutrient desert, the endemic pitcher plant Nepenthes rajah evolved an astonishing predatory carnivory, producing modified leaf urns holding up to three and a half liters of fluid.",
+        "bn": "এই প্রতিকূলতায় টিকে থাকতে 'নেপেন্থেস রাজা' নামের মাংসাশী কলসী উদ্ভিদ তার পাতাকে এক বিশালাকার জগে রূপান্তর করেছে যাতে সাড়ে তিন লিটার তরল ধরে রাখা যায়।"
+      },
+      {
+        "en": "Its giant jug-shaped traps feature a glossy, slippery ribbed peristome rim coated in sweet nectar and microscopic wax crystals that cause visiting ants and beetles to lose footing.",
+        "bn": "এর কলসীর মুখে মিষ্টি মধুর প্রলেপ এবং পিচ্ছিল মোমের খাঁজ থাকে, যেখানে পা রাখা মাত্র পিঁপড়া ও গুবরে পোকারা পিছলে সোজা পেটের ভেতর পড়ে যায়।"
+      },
+      {
+        "en": "Victims tumble into a reservoir of acidic digestive enzymes and viscoelastic polymers that drown prey and dissolve soft tissues within hours to absorb organic nitrogen.",
+        "bn": "ভেতরে থাকা অম্লীয় পাচক রস ও চটচটে আঠালো তরল কয়েক ঘণ্টার মধ্যে শিকারকে হজম করে ফেলে তার শরীর থেকে জরুরি নাইট্রোজেন শুষে নেয়।"
+      },
+      {
+        "en": "Occasionally, unwary frogs, geckos, and even small rats have been found drowned inside the enormous urns, making it the largest carnivorous plant on Earth.",
+        "bn": "মাঝে মাঝে অসাবধান ব্যাঙ, টিকটিকি এমনকি ছোট ইঁদুরও এই দানবীয় পাত্রে ডুবে মরে, যার ফলে এটি পৃথিবীর সবচেয়ে বড় মাংসাশী উদ্ভিদের খেতাব পেয়েছে।"
+      },
+      {
+        "en": "Most extraordinary is its mutualistic partnership with mountain treeshrews: the plant secretes sweet cream on its lid, positioning animals over the pitcher like a natural toilet to harvest their nitrogen-rich droppings.",
+        "bn": "সবচেয়ে বিস্ময়কর হলো পাহাড়ি কাঠবিড়ালির সাথে এর মিতালি: ঢাকনায় মিষ্টি খাবার দিয়ে এটি পশুকে এমনভাবে বসায় যাতে পশুর মল সরাসরি পাত্রের ভেতর পড়ে এবং গাছ তার পুষ্টি পায়!"
+      },
+      {
+        "en": "Nepenthes rajah illustrates the mind-boggling creative adaptations that allow life to conquer nutritional scarcity through ingenious biological ingenuity.",
+        "bn": "নেপেন্থেস রাজা আমাদের চোখে আঙুল দিয়ে দেখিয়ে দেয় যে প্রতিকূলতার সাথে মানিয়ে নিতে প্রকৃতি কত অদ্ভুত ও বিচিত্র বুদ্ধিমত্তার খেলা খেলতে পারে।"
+      }
+    ]
+  },
+  {
+    "id": "amazon-canopy-bromeliads-aerial-aquariums",
+    "title": "Bromeliads of the Amazon: Flying Aquariums in the Treetops",
+    "titleBn": "আমাজনের ব্রোমেলিয়াড: গাছের ডালে ঝুলে থাকা আকাশী অ্যাকোয়ারিয়াম",
+    "author": "Wildlife & Nature",
+    "level": "Intermediate",
+    "category": "Wildlife & Nature",
+    "coverEmoji": "🐸",
+    "summary": "Perched one hundred feet high on Amazon rainforest branches, epiphytic tank bromeliads catch rainfall in overlapping leaves, creating suspended aquatic ecosystems for poison dart frogs.",
+    "summaryBn": "আমাজন বৃষ্টিবনের একশত ফুট উঁচুতে গাছের ডালে ঝুলে থাকা ব্রোমেলিয়াড উদ্ভিদের পাতার খাঁজে বৃষ্টির পানি জমে তৈরি হয় ঝুলন্ত জলাশয়, যেখানে বিষাক্ত রঙিন ব্যাঙেরা নিরাপদে ডিম পাড়ে।",
+    "sentences": [
+      {
+        "en": "One hundred feet above the dark, humid forest floor of the Amazon basin, sunlight floods the emerald canopy, where thousands of epiphytic plants cling to tree bark without touching soil.",
+        "bn": "আমাজনের স্যাঁতসেঁতে অন্ধকার মেঝের একশত ফুট ওপরে সূর্যের আলোয় ঝলমল করা গাছের ডালে ডালে কোনো মাটি ছাড়াই হাজার হাজার পরজীবী উদ্ভিদ বেঁচে থাকে।"
+      },
+      {
+        "en": "Among them, giant tank bromeliads arrange their stiff, waxy leaves into a tightly overlapping rosette whorl, forming a natural watertight vase.",
+        "bn": "তাদের মধ্যে 'ট্যাঙ্ক ব্রোমেলিয়াড' তাদের শক্ত মোমযুক্ত পাতাগুলোকে গোলাকার পেঁচিয়ে এমনভাবে সাজিয়ে রাখে যা একটি নিখুঁত পানির জগে রূপ নেয়।"
+      },
+      {
+        "en": "A single mature bromeliad can catch and hold up to twelve liters of rainwater, creating an aerial micro-aquarium suspended high in the tropical breeze.",
+        "bn": "একটি পূর্ণবয়স্ক ব্রোমেলিয়াড তার পাতার পাত্রে বারো লিটার পর্যন্ত বৃষ্টির পানি ধরে রাখতে পারে, যা গাছের ডালে এক ঝুলন্ত খুদে অ্যাকোয়ারিয়াম সৃষ্টি করে।"
+      },
+      {
+        "en": "These canopy pools become thriving biological metropolises: algae blooms, microscopic rotifers thrive, and aquatic insect larvae swim alongside specialized tree crabs.",
+        "bn": "বাতাসের এই ঝুলন্ত পুকুরে শেওলা জন্মায়, পোকা ডিম পাড়ে এবং ডালে বাস করা বিশেষ জাতের পাহাড়ি কাঁকড়ারা নিরাপদে সাঁতার কেটে বেড়ায়।"
+      },
+      {
+        "en": "Poison dart frog mothers carry their hatched tadpoles on their backs, climbing high into the canopy to deposit a single tadpole into separate bromeliad tanks to protect them from predators.",
+        "bn": "রঙিন বিষাক্ত ডার্ট ব্যাঙের মায়েরা তাদের সদ্য ফোটা ব্যাঙাচিদের পিঠে চাপিয়ে একশত ফুট ওপরে উঠে প্রতিটি বাচ্চাকে আলাদা আলাদা ব্রোমেলিয়াডের পাত্রে রেখে আসে।"
+      },
+      {
+        "en": "The mother returns every few days to deposit an unfertilized egg into the water, providing rich nutritious food until the tadpole metamorphoses into a tiny frog.",
+        "bn": "মা ব্যাঙটি কয়েক দিন পর পর ফিরে এসে সেই পানিতে একটি করে অতিরিক্ত ডিম পেড়ে রেখে যায় যাতে বাচ্চার পুষ্টিকর খাবার পেতে কোনো কষ্ট না হয়।"
+      },
+      {
+        "en": "Bromeliads illustrate how interconnected nature weaves multi-layered sanctuaries, transforming dry canopy tree limbs into vibrant aquatic heavens.",
+        "bn": "ব্রোমেলিয়াড দেখায় কীভাবে প্রকৃতি শুকনো গাছের ডালকেও জীবনের এক অপূর্ব জলজ স্বর্গে পরিণত করে এবং প্রতিটি প্রাণীর নিরাপত্তা নিশ্চিত করে।"
+      }
+    ]
+  },
+  {
+    "id": "monarch-butterfly-milkweed-epic-migration",
+    "title": "The Monarch and the Milkweed: A Three-Thousand-Mile Miracle",
+    "titleBn": "মনার্ক প্রজাপতি ও আকন্দ পাতা: তিন হাজার মাইলের মহাযাত্রা",
+    "author": "Wildlife & Nature",
+    "level": "Intermediate",
+    "category": "Wildlife & Nature",
+    "coverEmoji": "🦋",
+    "summary": "Guided by celestial sun compasses across four generations, orange monarch butterflies travel thousands of miles to Mexican oyamel fir forests, dependent on toxic milkweed sap.",
+    "summaryBn": "চারটি প্রজন্মের হাত ধরে তিন হাজার মাইল পথ পাড়ি দিয়ে মেক্সিকোর পাহাড়ি বনে শীত কাটাতে যায় মনার্ক প্রজাপতি; বিষাক্ত আকন্দ পাতার রস খেয়ে তারা নিজেদের শিকারিদের হাত থেকে রক্ষা করে।",
+    "sentences": [
+      {
+        "en": "Every autumn across North America, hundreds of millions of orange and black monarch butterflies embark on an epic three-thousand-mile navigational migration toward the volcanic mountains of central Mexico.",
+        "bn": "প্রতি শরতে উত্তর আমেরিকার কোটি কোটি কমলা ও কালো ডানার মনার্ক প্রজাপতি মেক্সিকোর আগ্নেয়গিরির বনাঞ্চলের উদ্দেশ্যে তিন হাজার মাইলের এক অবিশ্বাস্য অভিযাত্রায় ডানা মেলে।"
+      },
+      {
+        "en": "What makes this journey a biological miracle is that no single butterfly makes the round trip: it takes four successive generations to complete the full migratory cycle.",
+        "bn": "সবচেয়ে বড় অলৌকিক বিস্ময় হলো কোনো একক প্রজাপতি পুরো পথ ফিরে আসতে পারে না; চারটি ধারাবাহিক প্রজন্ম মিলে এই দীর্ঘ চক্র সম্পন্ন করে।"
+      },
+      {
+        "en": "The caterpillars feed exclusively on milkweed plants, absorbing toxic cardiac glycosides into their tissues without harm, rendering the adult butterfly violently poisonous to hungry birds.",
+        "bn": "তাদের শুঁয়োপোকারা কেবল বিষাক্ত আকন্দ পাতা খায় এবং সেই বিষ শরীরে জমিয়ে রাখে, ফলে কোনো পাখি এই প্রজাপতি মুখে দিলে তীব্র বিষক্রিয়ায় বমি করে ফেলে।"
+      },
+      {
+        "en": "Equipped with a circadian sun compass in their antennae and magnetic sensors in their eyes, the 'super-generation' born in late summer flies two thousand miles south to destinations they have never seen.",
+        "bn": "চোখে চৌম্বকীয় সেন্সর আর মাথায় সূর্য-কম্পাস নিয়ে শরতের শেষ প্রজন্মে জন্ম নেওয়া বিশেষ প্রজাপতিগুলো কোনোদিন না দেখা ঠিকানায় দুই হাজার মাইল পথ উড়ে চলে যায়।"
+      },
+      {
+        "en": "Arriving at the high-altitude Oyamel fir forests of Michoacán, millions of butterflies cluster so densely upon evergreen branches that tree boughs bend under their collective weight.",
+        "bn": "মেক্সিকোর মিশোয়াকানের পাইন বনে পৌঁছে তারা গাছের ডালে ডালে এমনভাবে ঝুলে পড়ে যে কোটি প্রজাপতির ভারে আস্ত গাছের ডাল নিচের দিকে নুয়ে পড়ে।"
+      },
+      {
+        "en": "They blanket the forest floor in glowing orange velvet, resting in a semi-dormant state through the winter chill before waking to mate in the spring sun.",
+        "bn": "শীতের ঠান্ডায় তারা পুরো অরণ্যের মেঝেকে কমলা মখমলের চাদরে মুড়ে দেয় এবং বসন্তের রোদ উঠতেই নতুন প্রজন্মের জন্ম দিয়ে উত্তরমুখী যাত্রা শুরু করে।"
+      },
+      {
+        "en": "The monarch's multi-generational pilgrimage proves that life carries ancestral memory and cosmic navigation encoded deep within its fragile beating wings.",
+        "bn": "মনার্ক প্রজাপতির এই মহাকাব্যিক যাত্রা প্রমাণ করে যে প্রকৃতির রক্তের ভেতর কোটি বছরের স্মৃতি ও মহাজাগতিক দিকনির্ণয়ের এক অমর নকশা আঁকা রয়েছে।"
+      }
+    ]
+  },
+  {
+    "id": "strangler-fig-epiphyte-canopy-conquest",
+    "title": "The Strangler Fig: The Gentle Killer of the Rainforest",
+    "titleBn": "পরজীবী ডুমুর: বৃষ্টিবনের নিঃশব্দ আরোহণ ও রূপান্তর",
+    "author": "Wildlife & Nature",
+    "level": "Intermediate",
+    "category": "Wildlife & Nature",
+    "coverEmoji": "🌳",
+    "summary": "Beginning life as a tiny seed dropped on a high canopy branch, the strangler fig drops roots down to the earth, slowly encasing and hollowing out its host into a living lattice tower.",
+    "summaryBn": "পাখির মুখে গাছের মগডালে বীজ পড়ে জন্ম নেওয়া পরজীবী ডুমুর ধীরে ধীরে মাটির দিকে শিকড় নামিয়ে আশ্রয়দাতা গাছটিকে চারপাশ থেকে পেঁচিয়ে এক ফাঁপা জাদুকরী জালে রূপান্তর করে।",
+    "sentences": [
+      {
+        "en": "In the dense tropical rainforests of the equator, competition for sunlight is so cutthroat that seeds germinating on the dark forest floor have less than a two percent chance of reaching maturity.",
+        "bn": "বিষুবরেখার বৃষ্টিবনের মাটিতে সূর্যের আলো পৌঁছায় না বললেই চলে; তাই মাটির নিচে জন্ম নেওয়া বীজের বেঁচে থাকার সম্ভাবনা শতকরা দুই ভাগের কম।"
+      },
+      {
+        "en": "The strangler fig circumvents this deadly bottleneck from above: a fruit-eating toucan or bat defecates a sticky seed high into the sunlit crotch of an ancient canopy hardwood.",
+        "bn": "এই সংকট এড়াতে পরজীবী ডুমুর গাছ ওপর থেকে খেলা শুরু করে: পাখি বা বাদুড়ের মলের সাথে তার আঠালো বীজ কোনো প্রবীণ গাছের মগডালের খাঁজে গিয়ে পড়ে।"
+      },
+      {
+        "en": "The seedling sprouts as an epiphyte, bathing in tropical sunshine while slowly sending down long, thread-like aerial roots that hug the host tree's bark.",
+        "bn": "প্রথমে নিরীহ পরজীবী হিসেবে রোদে বেড়ে উঠে এটি ধীরে ধীরে মাটির দিকে চিকন সুতোর মতো শিকড় নামাতে শুরু করে যা আশ্রয়দাতা গাছের কাণ্ড আঁকড়ে ধরে।"
+      },
+      {
+        "en": "Upon reaching the fertile forest soil, the roots tap rich groundwater nutrients, exploding in vigor and thickening into a woody, suffocating lattice cylinder around the host trunk.",
+        "bn": "মাটিতে শিকড় ছোঁয়ামাত্র এটি নিচ থেকে বিপুল পানি ও রস টেনে শক্তিশালী হয়ে ওঠে এবং আশ্রয়দাতা গাছটিকে লোহার জালের মতো চারপাশ থেকে পেঁচিয়ে ফেলে।"
+      },
+      {
+        "en": "Over decades, the fig's crown expands to steal the canopy sunlight while its choking root corset prevents the host trunk from expanding, slowly starving the host tree to death.",
+        "bn": "কয়েক দশকে এর পাতাগুলো ওপরের সব রোদ দখল করে নেয় এবং শিকড়ের শক্ত বাঁধনে ভেতরের মূল গাছটির খাদ্যনালী চেপে ধরে তাকে তিলে তিলে মেরে ফেলে।"
+      },
+      {
+        "en": "When the original interior tree rots away completely into sawdust, a hollow, self-supporting cylindrical cage of living fig roots remains standing like a gothic tower.",
+        "bn": "ভেতরের মূল গাছটি পঁচে ছাই হয়ে গেলে বাইরে কেবল ডুমুর শিকড়ের তৈরি এক ফাঁপা জাদুকরী দুর্গ দাঁড়িয়ে থাকে যার ভেতর দিয়ে আকাশ দেখা যায়।"
+      },
+      {
+        "en": "Producing year-round fruit crops that sustain hundreds of forest animals during lean seasons, this ruthlessly adaptive tree becomes a keystone savior of the entire tropical ecosystem.",
+        "bn": "নিজে এক নির্মম পরজীবী হলেও সারা বছর মিষ্টি ফল জুগিয়ে এটি বনের শত শত পশু-পাখির প্রধান খাদ্যের জোগানদাতা ও বৃষ্টিবনের পরম রক্ষক হয়ে ওঠে।"
+      }
+    ]
+  },
+  {
+    "id": "chlorophyll-photosynthesis-solar-miracle",
+    "title": "Photosynthesis: The Alchemical Green Miracle of Sun and Leaf",
+    "titleBn": "সালোকসংশ্লেষণ: সবুজ পাতার সূর্য বন্দনা ও জীবনের শ্বাস",
+    "author": "Wildlife & Nature",
+    "level": "Intermediate",
+    "category": "Wildlife & Nature",
+    "coverEmoji": "🌱",
+    "summary": "Trapping photons from a star ninety-three million miles away, the green pigment chlorophyll splits water molecules, generating the oxygen we breathe and the food of all life.",
+    "summaryBn": "কোটি মাইল দূরের সূর্যের আলোর কণিকাকে পাতার ভেতর বন্দি করে পানির অণু ভেঙে অক্সিজেন তৈরি করে এবং বাতাস থেকে কার্বন নিয়ে খাদ্য বানায় সবুজ পাতার সালোকসংশ্লেষণ।",
+    "sentences": [
+      {
+        "en": "Every second of daylight across planet Earth, a quiet, monumental miracle occurs inside trillions of microscopic green chloroplasts nestled within living plant cells.",
+        "bn": "প্রতি সেকেন্ডে দিনের আলোয় পৃথিবীর লাখ লাখ কোটি সবুজ পাতার ক্লোরোপ্লাস্টের ভেতর নিঃশব্দে এক অবিস্মরণীয় মহাজাগতিক অলৌকিক ঘটনা ঘটে চলেছে।"
+      },
+      {
+        "en": "At the molecular heart of the process sits chlorophyll, a ring-shaped porphyrin molecule containing a single magnesium atom that absorbs blue and red wavelengths while reflecting vibrant green.",
+        "bn": "এর কেন্দ্রবিন্দুতে রয়েছে ক্লোরোফিল অণু—যার ঠিক মাঝখানে থাকা একটি ম্যাগনেসিয়াম পরমাণু সূর্যের লাল ও নীল আলোকে শুষে নিয়ে সবুজ রঙকে আমাদের চোখে প্রতিফলিত করে।"
+      },
+      {
+        "en": "When a photon emitted by the fusion furnace of the Sun travels ninety-three million miles across vacuum to strike a leaf, chlorophyll channels the energy into Photosystem II.",
+        "bn": "সূর্যের বুক থেকে আট মিনিটে মহাশূন্য পাড়ি দিয়ে আসা আলোর কণা যখন একটি পাতায় আঘাত করে, তখন ক্লোরোফিল সেই আলোকে রাসায়নিক শক্তিতে রূপান্তর করে।"
+      },
+      {
+        "en": "The electrical charge is so immense that it performs the ultimate biochemical feat: splitting water molecules into protons, electrons, and free molecular oxygen gas.",
+        "bn": "সেই আলো এমন এক শক্তিশালী বৈদ্যুতিক চার্জ তৈরি করে যা মুহূর্তের মধ্যে পানির অণুকে ভেঙে হাইড্রোজেন ও মুক্ত অক্সিজেন গ্যাসে পরিণত করে ফেলে।"
+      },
+      {
+        "en": "That exhaled oxygen is the very breath that fills human lungs, powers bird flight, and generated the stratospheric ozone layer that shields life from cosmic radiation.",
+        "bn": "গাছের পাতার সেই নিঃশ্বাস থেকেই আসে আমাদের বুক ভরে নেওয়া বিশুদ্ধ অক্সিজেন, যা আকাশে ওজোন স্তর বানিয়ে সূর্যের অতিবেগুনী রশ্মি থেকে জীবনকে রক্ষা করে।"
+      },
+      {
+        "en": "In the dark Calvin Cycle, the captured energy binds carbon dioxide molecules inhaled through leaf stomata pores, synthesizing glucose sugar—the foundational food of all terrestrial biology.",
+        "bn": "এরপর বাতাস থেকে কার্বন ডাই-অক্সাইড টেনে নিয়ে তৈরি হয় মিষ্টি গ্লুকোজ চিনি—যা পৃথিবীর সমস্ত প্রাণী ও মানুষের শক্তির পরম আদি উৎস।"
+      },
+      {
+        "en": "Every apple we eat, every breath we draw, and every piece of wood we burn is crystallized sunshine, gifted by the sacred green alchemy of the plant kingdom.",
+        "bn": "আমাদের খাওয়া প্রতিটি ফল আর নেওয়া প্রতিটি নিঃশ্বাস আসলে সূর্যের বন্দনায় সবুজ পাতার বেঁধে রাখা উপহার—যা প্রমাণ করে আমরা সবাই সূর্যের শক্তিতেই বেঁচে আছি।"
+      }
+    ]
+  },
+  {
+    "id": "ginkgo-biloba-hiroshima-survivor-living-fossil",
+    "title": "Ginkgo Biloba: The Golden Living Fossil of Resilience",
+    "titleBn": "জিঙ্কগো বাইলোবা: পারমাণবিক ছাই থেকে বেঁচে ওঠা জীবন্ত জীবাশ্ম",
+    "author": "Wildlife & Nature",
+    "level": "Intermediate",
+    "category": "Wildlife & Nature",
+    "coverEmoji": "🍂",
+    "summary": "Surviving two hundred million years unchanged and sprouting green shoots from nuclear ash in Hiroshima, the fan-leafed Ginkgo biloba stands as nature's ultimate symbol of resilience.",
+    "summaryBn": "ডাইনোসরের যুগ পেরিয়ে দুইশত মিলিয়ন বছর অপরিবর্তিত থাকা এবং হিরোশিমার পারমাণবিক বিস্ফোরণের ছাই থেকেও নতুন সবুজ কুঁড়ি মেলে বেঁচে ওঠা জিঙ্কগো বাইলোবা অদম্য জীবনের প্রতীক।",
+    "sentences": [
+      {
+        "en": "Flourishing on Earth over two hundred million years ago during the age of the dinosaurs, the fan-shaped leaves of Ginkgo biloba appear in prehistoric fossils virtually identical to living trees today.",
+        "bn": "ডাইনোসরদের যুগে বিশ কোটি বছর আগে জন্ম নেওয়া জিঙ্কগো বাইলোবা গাছের পাথুরে ফসিল আর আজকের জীবন্ত পাতার মাঝে বিজ্ঞানীরা এক চুল পরিমাণও পার্থক্য খুঁজে পাননি।"
+      },
+      {
+        "en": "While all its botanical relatives vanished in evolutionary extinctions, Ginkgo survived in isolated Buddhist temple mountain sanctuaries in eastern China, guarded by Taoist monks.",
+        "bn": "এর সমসাময়িক সমস্ত প্রজাতি পৃথিবী থেকে বিলুপ্ত হয়ে গেলেও চীনের বৌদ্ধ ও তাওবাদী সন্ন্যাসীরা তাঁদের আশ্রমের আঙিনায় ভালোবেসে এই গাছকে বাঁচিয়ে রেখেছিলেন।"
+      },
+      {
+        "en": "Its unique wood contains powerful insect-repellent chemicals, while its thick corky bark resists forest fires, pollution, and virulent fungal blights that devastate other urban trees.",
+        "bn": "এর কাঠে এমন বিশেষ রস থাকে যা কোনো পোকা কাটতে পারে না এবং এর পুরু ছাল আগুন, শহরের দূষণ ও মারাত্মক জীবাণু সংক্রমণকে অবলীলায় প্রতিহত করতে পারে।"
+      },
+      {
+        "en": "On August 6, 1945, when an atomic bomb detonated over Hiroshima incinerating everything within miles, a temple Ginkgo tree barely one kilometer from the epicenter was scorched to a blackened stump.",
+        "bn": "১৯৪৫ সালের ৬ আগস্ট হিরোশিমায় পারমাণবিক বোমা বিস্ফোরণে কেন্দ্রস্থলের মাত্র এক কিলোমিটার দূরে থাকা এক প্রাচীন মন্দিরের জিঙ্কগো গাছটি পুড়ে কালো কয়লা হয়ে গিয়েছিল।"
+      },
+      {
+        "en": "In the spring of 1946, amidst charred nuclear devastation where scientists predicted nothing would grow for seventy-five years, fresh bright green shoots sprouted from the scorched trunk.",
+        "bn": "যেখানে বিজ্ঞানীরা বলেছিলেন পঁচাত্তর বছরেও কোনো ঘাস গজাবে না, সেই পারমাণবিক ছাইয়ের ওপর ১৯৪৬ সালের বসন্তে পোড়া কাণ্ড ফুঁড়ে এক নতুন সবুজ কুঁড়ি জেগে উঠল!"
+      },
+      {
+        "en": "The surviving tree—honored as an 'Hibakujumoku' (atomic-bombed tree)—stands alive and thriving today in Hiroshima, its golden autumn leaves showering the temple courtyard with hope.",
+        "bn": "'হিবাকুজুমোকু' বা পারমাণবিক আঘাত থেকে বেঁচে ওঠা গাছ হিসেবে খ্যাত সেই গাছটি আজও বেঁচে আছে এবং প্রতি শরতে তার সোনালি পাতার বৃষ্টি দিয়ে আশার আলো ছড়াচ্ছে।"
+      },
+      {
+        "en": "Ginkgo biloba remains Earth's supreme living monument to patience and peace, proving that the quiet resilience of life can outlast the greatest destructive weapons of mankind.",
+        "bn": "জিঙ্কগো গাছ হলো মানুষের সর্বনাশা ধ্বংসযজ্ঞের মুখে প্রকৃতির চিরন্তন জীবনের জয়গান—যা প্রমাণ করে বোমার আগুনের চেয়েও সবুজ প্রাণের শক্তি বহুগুণ বেশি গভীর ও অপরাজেয়।"
+      }
+    ]
+  }
+]

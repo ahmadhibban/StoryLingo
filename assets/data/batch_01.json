@@ -1,0 +1,1127 @@
+[
+  {
+    "id": "bio-newton-apple",
+    "title": "Isaac Newton and the Falling Apple",
+    "titleBn": "আইজ্যাক নিউটন এবং আপেল পড়ার গল্প",
+    "author": "Historical Biography",
+    "level": "Intermediate",
+    "category": "Inspiring Biography",
+    "coverEmoji": "🍎",
+    "summary": "How a curious young thinker observed a simple falling fruit and uncovered the universal law of gravity.",
+    "summaryBn": "কীভাবে এক কৌতূহলী তরুণ গাছ থেকে ফল পড়া দেখে পুরো মহাবিশ্বের মহাকর্ষ সূত্র আবিষ্কার করেছিলেন।",
+    "sentences": [
+      {
+        "en": "In the summer of 1665, a young Cambridge student named Isaac Newton returned to his quiet family farm.",
+        "bn": "১৬৬৫ সালের গ্রীষ্মে কেমব্রিজের এক তরুণ ছাত্র আইজ্যাক নিউটন তাঁর নিরিবিলি পারিবারিক খামারে ফিরে আসেন।"
+      },
+      {
+        "en": "A terrible plague had spread across England, forcing universities to close their doors.",
+        "bn": "ইংল্যান্ডজুড়ে এক ভয়াবহ মহামারি ছড়িয়ে পড়েছিল, যার কারণে সব বিশ্ববিদ্যালয় বন্ধ ঘোষণা করা হয়।"
+      },
+      {
+        "en": "One warm afternoon, Newton sat beneath an apple tree in the garden, thinking about the universe.",
+        "bn": "এক রোদঝলমলে বিকেলে নিউটন বাগানের একটি আপেল গাছের নিচে বসে মহাবিশ্ব নিয়ে গভীর চিন্তায় মগ্ন ছিলেন।"
+      },
+      {
+        "en": "Suddenly, a ripe apple detached from its branch and dropped straight to the ground beside him.",
+        "bn": "হঠাৎ ডাল থেকে একটি পাকা আপেল খসে তাঁর পাশেই মাটিতে সোজা নেমে পড়ল।"
+      },
+      {
+        "en": "Most people would simply eat the fruit, but Newton asked himself a profound question.",
+        "bn": "সাধারণ যে কেউ হলে হয়তো আপেলটি তুলে খেয়ে ফেলত, কিন্তু নিউটনের মনে এক গভীর প্রশ্নের উদয় হলো।"
+      },
+      {
+        "en": "Why does the apple always fall straight toward the center of the Earth rather than sideways or upward?",
+        "bn": "আপেলটি ডানে-বামে বা উপরের দিকে না গিয়ে সবসময় কেন সোজা পৃথিবীর কেন্দ্রের দিকেই পড়ে?"
+      },
+      {
+        "en": "This single question led him to formulate the universal law of gravitation, explaining why planets orbit the sun.",
+        "bn": "এই একটি সাধারণ প্রশ্নই তাঁকে মহাকর্ষের বিশ্বজনীন সূত্র আবিষ্কারের পথ দেখায়, যা বোঝায় কেন গ্রহগুলো সূর্যের চারদিকে ঘোরে।"
+      },
+      {
+        "en": "Curiosity and deep contemplation can transform the simplest observation into a great scientific breakthrough.",
+        "bn": "কৌতূহল এবং গভীর চিন্তাভাবনা সাধারণ যেকোনো ঘটনাকেও একটি যুগান্তকারী বৈজ্ঞানিক আবিষ্কারে রূপ দিতে পারে।"
+      }
+    ]
+  },
+  {
+    "id": "bio-edison-lightbulb",
+    "title": "Thomas Edison and the Thousand Failures",
+    "titleBn": "টমাস এডিসন এবং হাজার ব্যর্থতার পাঠ",
+    "author": "Historical Biography",
+    "level": "Intermediate",
+    "category": "Inspiring Biography",
+    "coverEmoji": "💡",
+    "summary": "Edison demonstrates how patience and perseverance turn countless failed attempts into world-changing success.",
+    "summaryBn": "এডিসন দেখিয়েছেন কীভাবে ধৈর্য এবং নিরলস পরিশ্রম অসংখ্য ব্যর্থতাকেও বিশ্বজয়ী সাফল্যে রূপান্তর করে।",
+    "sentences": [
+      {
+        "en": "Thomas Edison wanted to invent a practical electric incandescent lamp that could illuminate every home safely.",
+        "bn": "টমাস এডিসন এমন একটি বৈদ্যুতিক বাতি আবিষ্কার করতে চেয়েছিলেন যা প্রতিটি ঘরে নিরাপদে আলো ছড়াতে পারে।"
+      },
+      {
+        "en": "Finding the right material for the delicate filament inside the bulb proved to be an enormous challenge.",
+        "bn": "বাল্বের ভিতরের সূক্ষ্ম ফিলামেন্টের জন্য সঠিক উপাদান খুঁজে পাওয়া এক বিশাল চ্যালেঞ্জ হয়ে দাঁড়িয়েছিল।"
+      },
+      {
+        "en": "His team tested over thousands of different materials, including platinum, bamboo, cotton, and human hair.",
+        "bn": "তাঁর দল প্ল্যাটিনাম, বাঁশ, সুতি সুতো এমনকি মানুষের চুলসহ হাজার হাজার বিভিন্ন উপাদান দিয়ে পরীক্ষা চালিয়েছিল।"
+      },
+      {
+        "en": "Every material they tried burned out in mere minutes, leaving the laboratory in total darkness.",
+        "bn": "প্রতিটি উপাদানই মাত্র কয়েক মিনিটের মধ্যে পুড়ে যেত এবং পুরো গবেষণাগার আবার অন্ধকারে ডুবে যেত।"
+      },
+      {
+        "en": "A young reporter asked Edison if he felt discouraged after failing more than a thousand times.",
+        "bn": "এক তরুণ সাংবাদিক এডিসনকে জিজ্ঞেস করলেন, হাজার বার ব্যর্থ হওয়ার পর তাঁর কি হতাশা লাগে না?"
+      },
+      {
+        "en": "Edison smiled and replied, 'I have not failed a thousand times; I have successfully discovered a thousand ways that will not work.'",
+        "bn": "এডিসন হেসে উত্তর দিলেন, 'আমি হাজার বার ব্যর্থ হইনি; বরং আমি সাফল্যের সাথে এমন হাজারটি উপায় খুঁজে পেয়েছি যা কাজ করে না।'"
+      },
+      {
+        "en": "Eventually, carbonized bamboo filament burned brightly for over forty hours, ushering in a new age of electric light.",
+        "bn": "অবশেষে কার্বনাইজড বাঁশের ফিলামেন্ট একটানা চল্লিশ ঘণ্টারও বেশি সময় আলো ছড়াতে সক্ষম হয় এবং শুরু হয় বৈদ্যুতিক আলোর নতুন যুগ।"
+      },
+      {
+        "en": "Real failure only occurs when a person decides to stop trying completely.",
+        "bn": "প্রকৃত ব্যর্থতা তখনই ঘটে যখন একজন মানুষ পুরোপুরি চেষ্টা করা ছেড়ে দেয়।"
+      }
+    ]
+  },
+  {
+    "id": "bio-abraham-lincoln",
+    "title": "Abraham Lincoln and the Borrowed Book",
+    "titleBn": "আব্রাহাম লিংকন এবং ধার করা বই",
+    "author": "Historical Biography",
+    "level": "Intermediate",
+    "category": "Inspiring Biography",
+    "coverEmoji": "📖",
+    "summary": "A young boy in a humble log cabin works tirelessly to protect his integrity and love for learning.",
+    "summaryBn": "একটি ভাঙাচোরা কাঠের ঘরে বেড়ে ওঠা এক কিশোর কীভাবে নিজের সততা এবং জ্ঞান অর্জনের তীব্র তৃষ্ণা ধরে রেখেছিল।",
+    "sentences": [
+      {
+        "en": "Long before he became President of the United States, young Abraham Lincoln lived in a small log cabin in Indiana.",
+        "bn": "যুক্তরাষ্ট্রের প্রেসিডেন্ট হওয়ার অনেক আগে তরুণ আব্রাহাম লিংকন ইন্ডিয়ানার একটি ছোট কাঠের ঘরে বাস করতেন।"
+      },
+      {
+        "en": "His family was extremely poor, and books were rare treasures that could not easily be purchased.",
+        "bn": "তাঁদের পরিবার ছিল অত্যন্ত দরিদ্র, আর বই ছিল এমন দুর্লভ সম্পদ যা চাইলেই কেনা যেত না।"
+      },
+      {
+        "en": "Abe walked miles through dense forests just to borrow a precious biography of George Washington from a neighbor.",
+        "bn": "এক প্রতিবেশীর কাছ থেকে জর্জ ওয়াশিংটনের অমূল্য জীবনী বইটি ধার করার জন্য লিংকন মাইলের পর মাইল ঘন বন পেরিয়ে হেঁটে যেতেন।"
+      },
+      {
+        "en": "He read by the soft glow of the fireplace late at night after long hours of chopping wood.",
+        "bn": "সারাদিন কাঠ কাটার পর গভীর রাতে তিনি চুলার আগুনের মৃদু আলোতে বসে সেই বই পড়তেন।"
+      },
+      {
+        "en": "One stormy evening, rainwater leaked through a crack in the wooden roof and thoroughly soaked the borrowed book.",
+        "bn": "এক ঝড়ের রাতে কাঠের ছাদের ফাঁক গলে বৃষ্টির পানি পড়ে ধার করা প্রিয় বইটি পুরো ভিজে নষ্ট হয়ে গেল।"
+      },
+      {
+        "en": "Though terrified, young Abe immediately visited the neighbor and honestly admitted what had happened.",
+        "bn": "ভয় পেলেও তরুণ লিংকন তৎক্ষণাৎ প্রতিবেশীর কাছে গিয়ে সততার সাথে সবকিছু খুলে বললেন।"
+      },
+      {
+        "en": "He offered to work hard in the neighbor's cornfield for three full days to repay the cost of the damaged book.",
+        "bn": "ক্ষতিগ্রস্ত বইটির ক্ষতিপূরণ দিতে তিনি প্রতিবেশীর ভুট্টার জমিতে টানা তিন দিন বিনামূল্যে কাজ করার প্রস্তাব দিলেন।"
+      },
+      {
+        "en": "Impressed by the boy's honesty and integrity, the neighbor praised him and allowed him to keep the book forever.",
+        "bn": "ছেলেটির সততা ও নিষ্ঠায় মুগ্ধ হয়ে সেই প্রতিবেশী তাঁর প্রশংসা করলেন এবং বইটি তাঁকে উপহার হিসেবে রেখে দিতে বললেন।"
+      }
+    ]
+  },
+  {
+    "id": "bio-helen-keller",
+    "title": "Helen Keller and the Miracle of Water",
+    "titleBn": "হেলেন কেলার এবং পানির অলৌকিক স্পর্শ",
+    "author": "Historical Biography",
+    "level": "Intermediate",
+    "category": "Inspiring Biography",
+    "coverEmoji": "💧",
+    "summary": "How a dedicated teacher helped a deaf and blind girl unlock the power of language and communication.",
+    "summaryBn": "কীভাবে এক নিবেদিতপ্রাণ শিক্ষিকা অন্ধ ও বধির এক কিশোরীকে ভাষা এবং যোগাযোগের দরজা খুলে দিয়েছিলেন।",
+    "sentences": [
+      {
+        "en": "When Helen Keller was just nineteen months old, a severe illness left her completely blind and deaf.",
+        "bn": "হেলেন কেলারের বয়স যখন মাত্র উনিশ মাস, তখন এক কঠিন অসুখে তিনি চিরতরে অন্ধ ও বধির হয়ে যান।"
+      },
+      {
+        "en": "Unable to see or hear the world around her, she lived in complete darkness and intense frustration.",
+        "bn": "চারপাশের পৃথিবী দেখতে বা শুনতে না পেয়ে তিনি গভীর অন্ধকার এবং তীব্র একাকিত্বে দিন কাটাতে থাকেন।"
+      },
+      {
+        "en": "Everything changed when a compassionate young teacher named Anne Sullivan arrived at her family home.",
+        "bn": "কিন্তু সবকিছু বদলে গেল যখন অ্যান সুলিভান নামের এক স্নেহময়ী তরুণ শিক্ষিকা তাঁদের বাড়িতে এলেন।"
+      },
+      {
+        "en": "Anne patiently spelled out words on Helen's palm using manual sign language, but Helen struggled to understand.",
+        "bn": "অ্যান পরম ধৈর্য নিয়ে হেলেনের হাতের তালুতে সাংকেতিক ভাষায় বিভিন্ন শব্দ লিখে দিতেন, কিন্তু হেলেন তার অর্থ বুঝতে পারতেন না।"
+      },
+      {
+        "en": "One spring day, Anne brought Helen outside to a water pump in the warm sunshine.",
+        "bn": "বসন্তের এক সকালে অ্যান হেলেনকে বাগানের পানির পাম্পের কাছে রোদের মধ্যে নিয়ে গেলেন।"
+      },
+      {
+        "en": "As cool water poured over one hand, Anne rapidly spelled the letters W-A-T-E-R on Helen's other hand.",
+        "bn": "যখন এক হাতে শীতল পানি বয়ে যাচ্ছিল, তখন অ্যান দ্রুত হেলেনের অন্য হাতের তালুতে ডব্লিউ-এ-টি-ই-আর লিখে দিলেন।"
+      },
+      {
+        "en": "Suddenly, a spark of understanding illuminated Helen's mind: that cool, flowing sensation had a specific name.",
+        "bn": "মুহূর্তেই হেলেনের মনে এক বিস্ময়কর উপলব্ধি জেগে উঠল: এই ঠান্ডা বয়ে চলা অনুভূতির একটি নির্দিষ্ট নাম আছে।"
+      },
+      {
+        "en": "That breakthrough opened the gates of knowledge, enabling Helen to eventually write books and inspire millions globally.",
+        "bn": "সেই একটি মুহূর্ত তাঁর জ্ঞানের পথ উন্মুক্ত করে দেয়, যার ফলে হেলেন পরবর্তীতে বই লিখে বিশ্বজুড়ে কোটি মানুষকে অনুপ্রাণিত করতে পেরেছিলেন।"
+      }
+    ]
+  },
+  {
+    "id": "bio-florence-nightingale",
+    "title": "Florence Nightingale: The Lady with the Lamp",
+    "titleBn": "ফ্লোরেন্স নাইটিঙ্গেল: প্রদীপ হাতে সেই সেবিকা",
+    "author": "Historical Biography",
+    "level": "Intermediate",
+    "category": "Inspiring Biography",
+    "coverEmoji": "🕯️",
+    "summary": "A compassionate woman defies high society to bring clean, humane medical care to wounded soldiers.",
+    "summaryBn": "উচ্চবিত্ত সমাজের প্রাচুর্য ছেড়ে এক সহানুভূতিশীল নারী কীভাবে আহত সৈন্যদের মানবিক ও পরিচ্ছন্ন সেবায় জীবন উৎসর্গ করেছিলেন।",
+    "sentences": [
+      {
+        "en": "Florence Nightingale was born into a wealthy British family that expected her to live a comfortable, quiet life.",
+        "bn": "ফ্লোরেন্স নাইটিঙ্গেল এমন এক ধনী ব্রিটিশ পরিবারে জন্ম নিয়েছিলেন যারা চেয়েছিল তিনি একটি আরামদায়ক ও বিলাসী জীবন কাটাবেন।"
+      },
+      {
+        "en": "However, Florence felt a deep moral calling to care for the sick, poor, and suffering.",
+        "bn": "কিন্তু ফ্লোরেন্স মনে মনে অসুস্থ, দরিদ্র এবং অসহায় মানুষদের সেবা করার এক তীব্র টান অনুভব করতেন।"
+      },
+      {
+        "en": "When the Crimean War broke out, reports revealed that wounded soldiers were dying rapidly from dirty military hospitals.",
+        "bn": "ক্রিমিয়ার যুদ্ধ শুরু হলে জানা গেল যে নোংরা সামরিক হাসপাতালের কারণে আহত সেনারা মহামারির মতো মারা যাচ্ছে।"
+      },
+      {
+        "en": "Florence led a courageous team of thirty-eight trained nurses straight to the front-line hospital at Scutari.",
+        "bn": "ফ্লোরেন্স আটত্রিশ জন প্রশিক্ষিত নার্সের এক সাহসী দল নিয়ে সোজা স্কুটারির যুদ্ধক্ষেত্রের হাসপাতালে ছুটে গেলেন।"
+      },
+      {
+        "en": "She scrubbed dirty wards, washed contaminated sheets, and ensured wounded men received fresh, wholesome meals.",
+        "bn": "তিনি নিজে নোংরা ওয়ার্ড পরিষ্কার করলেন, চাদর ধুয়ে দিলেন এবং নিশ্চিত করলেন যাতে আহত সৈনিকরা পুষ্টিকর খাবার পায়।"
+      },
+      {
+        "en": "At night, long after other doctors rested, Florence walked miles through dark wards carrying a small oil lamp.",
+        "bn": "গভীর রাতে অন্য সব চিকিৎসক যখন বিশ্রাম নিতেন, ফ্লোরেন্স হাতে ছোট একটি তেলের প্রদীপ নিয়ে অন্ধকার ওয়ার্ডে রোগীদের দেখতে যেতেন।"
+      },
+      {
+        "en": "Her hygiene reforms dramatically reduced the hospital mortality rate from forty percent to less than two percent.",
+        "bn": "তাঁর এই পরিচ্ছন্নতার নিয়ম হাসপাতালের মৃত্যুর হার চল্লিশ শতাংশ থেকে কমিয়ে দুই শতাংশেরও নিচে নামিয়ে আনে।"
+      },
+      {
+        "en": "She revolutionized modern nursing and showed the world that empathy and sanitation can conquer disease.",
+        "bn": "তিনি আধুনিক নার্সিং সেবায় বিপ্লব ঘটিয়ে বিশ্বকে দেখিয়েছিলেন যে সহানুভূতি এবং পরিচ্ছন্নতা রোগকে পরাজিত করতে পারে।"
+      }
+    ]
+  },
+  {
+    "id": "bio-wright-brothers",
+    "title": "The Wright Brothers and the Dream of Flight",
+    "titleBn": "রাইট ভ্রাতৃদ্বয় এবং আকাশে ওড়ার স্বপ্ন",
+    "author": "Historical Biography",
+    "level": "Intermediate",
+    "category": "Inspiring Biography",
+    "coverEmoji": "✈️",
+    "summary": "Two humble bicycle mechanics solve the ancient puzzle of human flight through patient experimentation.",
+    "summaryBn": "দুই সাধারণ সাইকেল মেকানিক কীভাবে ধৈর্যশীল বৈজ্ঞানিক পরীক্ষার মাধ্যমে মানুষের আকাশে ওড়ার স্বপ্নকে সত্য করেছিলেন।",
+    "sentences": [
+      {
+        "en": "For thousands of years, humans gazed at soaring birds and dreamt of gliding freely across the sky.",
+        "bn": "হাজার হাজার বছর ধরে মানুষ আকাশে ডানা মেলা পাখিদের দেখে নিজেরাও আকাশে ভেসে বেড়ানোর স্বপ্ন দেখত।"
+      },
+      {
+        "en": "Orville and Wilbur Wright were two modest brothers who ran a small bicycle repair shop in Dayton, Ohio.",
+        "bn": "অরভিল এবং উইলবার রাইট ছিলেন ওহিওর ডেটনে একটি সাধারণ সাইকেল মেরামতের দোকান চালানো দুই ভাই।"
+      },
+      {
+        "en": "They used their modest earnings from fixing bicycles to design gliders and build homemade wind tunnels.",
+        "bn": "সাইকেল সারানোর সামান্য আয় দিয়েই তাঁরা গ্লাইডার তৈরি করতেন এবং বাড়িতে নিজস্ব উইন্ড টানেল বানিয়ে গবেষণা করতেন।"
+      },
+      {
+        "en": "Unlike other inventors who focused only on powerful engines, the Wright brothers realized that flight control was paramount.",
+        "bn": "অন্যান্য আবিষ্কারকরা যখন শুধু শক্তিশালী ইঞ্জিনের ওপর জোর দিচ্ছিলেন, রাইট ভাইয়েরা বুঝতে পেরেছিলেন নিয়ন্ত্রণ ব্যবস্থা রক্ষা করাই আসল।"
+      },
+      {
+        "en": "On a cold, windy morning at Kitty Hawk in December 1903, Orville boarded their wooden Flyer aircraft.",
+        "bn": "১৯০৩ সালের ডিসেম্বরের এক শীতের সকালে কিটি হকের বালুকাময় প্রান্তরে অরভিল তাঁদের কাঠের তৈরি 'ফ্লায়ার' বিমানে উঠলেন।"
+      },
+      {
+        "en": "The engine roared, the propellers spun, and the machine lifted twelve feet into the air, flying for twelve historic seconds.",
+        "bn": "ইঞ্জিন গর্জে উঠল, প্রপেলার ঘুরল এবং বিমানটি মাটি থেকে বারো ফুট ওপরে উঠে ঐতিহাসিক বারো সেকেন্ড আকাশে উড়ল।"
+      },
+      {
+        "en": "It was the world's first powered, controlled, and sustained flight of a heavier-than-air craft.",
+        "bn": "বাতাসের চেয়ে ভারী কোনো যন্ত্রের সাহায্যে এটিই ছিল বিশ্বের প্রথম ইঞ্জিনচালিত, নিয়ন্ত্রিত এবং দীর্ঘস্থায়ী উড্ডয়ন।"
+      },
+      {
+        "en": "Their quiet dedication permanently shrunk the globe and opened the era of modern aviation.",
+        "bn": "তাঁদের এই নিরলস সাধনা পুরো বিশ্বকে কাছাকাছি এনে দিয়েছিল এবং আধুনিক বিমান চলাচলের স্বর্ণযুগের সূচনা করেছিল।"
+      }
+    ]
+  },
+  {
+    "id": "bio-archimedes-eureka",
+    "title": "Archimedes and the Golden Crown",
+    "titleBn": "আর্কিমিডিস এবং স্বর্ণের মুকুটের রহস্য",
+    "author": "Historical Biography",
+    "level": "Intermediate",
+    "category": "Inspiring Biography",
+    "coverEmoji": "👑",
+    "summary": "The brilliant Greek thinker solves a royal deception while stepping into a relaxing bath.",
+    "summaryBn": "গ্রিসের সেরা গণিতবিদ কীভাবে স্নান করতে নেমে রাজার মুকুটের ভেজাল ধরার এক চমকপ্রদ উপায় আবিষ্কার করলেন।",
+    "sentences": [
+      {
+        "en": "King Hiero of Syracuse gave a goldsmith a precise weight of pure gold to craft a royal crown.",
+        "bn": "সিরাকিউসের রাজা হিয়ারো এক স্বর্ণকারকে একটি সুন্দর রাজমুকুট তৈরি করার জন্য নির্দিষ্ট ওজনের খাঁটি সোনা দিলেন।"
+      },
+      {
+        "en": "When the crown was delivered, the king suspected the dishonest smith had stolen gold and replaced it with cheap silver.",
+        "bn": "মুকুট হাতে পেয়ে রাজার সন্দেহ হলো যে অসাধু স্বর্ণকার হয়তো কিছুটা সোনা চুরি করে তার জায়গায় সস্তা রূপা মিশিয়েছে।"
+      },
+      {
+        "en": "The king asked the famous mathematician Archimedes to determine the truth without damaging the delicate crown.",
+        "bn": "রাজা বিখ্যাত গণিতবিদ আর্কিমিডিসকে ডেকে বললেন সুন্দর মুকুটটি না ভেঙে এর আসল সত্য বের করে দিতে।"
+      },
+      {
+        "en": "For days, Archimedes pondered the problem deeply, finding no practical way to measure the crown's irregular volume.",
+        "bn": "কয়েক দিন ধরে আর্কিমিডিস গভীর চিন্তায় ডুবে রইলেন, কিন্তু মুকুটের অসম আয়তন মাপার কোনো সহজ উপায় খুঁজে পাচ্ছিলেন না।"
+      },
+      {
+        "en": "One afternoon, he stepped into a stone bathtub filled to the very brim with water.",
+        "bn": "এক বিকেলে তিনি কানায় কানায় পানিতে ভরা একটি পাথরের বাথটাবে স্নান করার জন্য নামলেন।"
+      },
+      {
+        "en": "As his body submerged, water spilled over the sides, exactly equal to the volume of his submerged body.",
+        "bn": "তাঁর শরীর পানিতে ডুবতেই কিছুটা পানি উপচে বাইরে পড়ল, যা ছিল তাঁর নিমজ্জিত শরীরের আয়তনের সমান।"
+      },
+      {
+        "en": "Overcome with excitement, he shouted 'Eureka!' meaning 'I have found it!' and ran through the streets.",
+        "bn": "আনন্দে আত্মহারা হয়ে তিনি 'ইউরেকা!' অর্থাৎ 'আমি পেয়ে গেছি!' বলে চিৎকার করতে করতে প্রাসাদের দিকে ছুটলেন।"
+      },
+      {
+        "en": "By comparing the displaced water of the crown with pure gold, he proved the smith had indeed cheated the king.",
+        "bn": "মুকুটের অপসারিত পানির সাথে খাঁটি সোনার অপসারিত পানি তুলনা করে তিনি প্রমাণ করলেন যে স্বর্ণকার সত্যিই রাজাকে ঠকিয়েছে।"
+      }
+    ]
+  },
+  {
+    "id": "bio-socrates-wisdom",
+    "title": "Socrates and the Art of Questioning",
+    "titleBn": "সক্রেটিস এবং সত্য খোঁজার শিল্প",
+    "author": "Historical Biography",
+    "level": "Intermediate",
+    "category": "Inspiring Biography",
+    "coverEmoji": "🏛️",
+    "summary": "An ancient philosopher teaches Athens that genuine wisdom begins by admitting what one does not know.",
+    "summaryBn": "প্রাচীন এক দার্শনিক পুরো এথেন্সবাসীকে শিখিয়েছিলেন যে প্রকৃত জ্ঞানের শুরু হয় নিজের অজ্ঞতা স্বীকার করার মাধ্যমে।",
+    "sentences": [
+      {
+        "en": "In ancient Athens, a barefoot philosopher named Socrates spent his days conversing in the bustling marketplace.",
+        "bn": "প্রাচীন এথেন্সে খালি পায়ে হাঁটা এক দার্শনিক সক্রেটিস শহরের ব্যস্ত বাজারে ঘুরে মানুষের সাথে কথা বলে দিন কাটাতেন।"
+      },
+      {
+        "en": "He never charged fees, wrote no books, and claimed to have no superior knowledge of his own.",
+        "bn": "তিনি কখনো কারও কাছ থেকে টাকা নিতেন না, কোনো বই লেখেননি এবং কখনো নিজেকে মহাজ্ঞানী বলে দাবি করেননি।"
+      },
+      {
+        "en": "Instead of lecturing people, Socrates asked thoughtful questions that forced listeners to examine their own beliefs.",
+        "bn": "মানুষকে লম্বা উপদেশ দেওয়ার বদলে সক্রেটিস এমন সব বুদ্ধিদীপ্ত প্রশ্ন করতেন যা মানুষকে নিজেদের চিন্তা যাচাই করতে বাধ্য করত।"
+      },
+      {
+        "en": "When the Oracle at Delphi declared Socrates the wisest man in Athens, he was genuinely bewildered.",
+        "bn": "ডেলফির দৈববাণী যখন সক্রেটিসকে এথেন্সের সবচেয়ে জ্ঞানী মানুষ ঘোষণা করল, তখন তিনি অত্যন্ত বিস্মিত হলেন।"
+      },
+      {
+        "en": "He interviewed politicians, poets, and craftsmen, discovering that each assumed they knew everything when they knew little.",
+        "bn": "তিনি রাজনীতিবিদ, কবি এবং কারিগরদের সাথে কথা বলে দেখলেন যে তারা খুব কম জেনেও ভাবত যে তারা সবকিছু জানে।"
+      },
+      {
+        "en": "Socrates concluded, 'I am wiser only because I know that I know nothing.'",
+        "bn": "সক্রেটিস উপলব্ধি করলেন, 'আমি হয়তো তাদের চেয়ে বেশি জ্ঞানী শুধু এই কারণে যে আমি অন্তত জানি যে আমি কিছুই জানি না।'"
+      },
+      {
+        "en": "His conversational method, now called the Socratic Method, remains one of humanity's finest tools for critical thinking.",
+        "bn": "তাঁর এই প্রশ্নোত্তর পদ্ধতি, যা আজ সত্রাটিস পদ্ধতি নামে পরিচিত, যুক্তিপূর্ণ চিন্তাভাবনার অন্যতম সেরা মাধ্যম হিসেবে টিকে আছে।"
+      },
+      {
+        "en": "True wisdom begins with humility and an unyielding desire to seek the truth.",
+        "bn": "প্রকৃত জ্ঞানের শুরু হয় বিনয় এবং সত্য জানার অদম্য আগ্রহের মধ্য দিয়ে।"
+      }
+    ]
+  },
+  {
+    "id": "bio-alexander-diogenes",
+    "title": "Alexander the Great Meets Diogenes",
+    "titleBn": "মহাবীর আলেকজান্ডার এবং দার্শনিক ডায়োজিনিস",
+    "author": "Historical Biography",
+    "level": "Intermediate",
+    "category": "Inspiring Biography",
+    "coverEmoji": "☀️",
+    "summary": "The world's greatest conqueror discovers that true contentment needs no empire or riches.",
+    "summaryBn": "বিশ্বজয়ী এক বীর যোদ্ধা বুঝতে পেরেছিলেন যে অন্তরের শান্তির জন্য কোনো সাম্রাজ্য বা ধনসম্পদের প্রয়োজন নেই।",
+    "sentences": [
+      {
+        "en": "Alexander the Great had conquered vast kingdoms and commanded armies of tens of thousands of warriors.",
+        "bn": "মহাবীর আলেকজান্ডার বিশাল বিশাল রাজ্য জয় করেছিলেন এবং তাঁর অধীনে ছিল হাজার হাজার সাহসী যোদ্ধার সৈন্যদল।"
+      },
+      {
+        "en": "While visiting Corinth, he heard stories of Diogenes, an unconventional philosopher who lived inside a large clay jar.",
+        "bn": "করিন্থ ভ্রমণের সময় তিনি ডায়োজিনিসের কথা শুনলেন, যিনি সব পার্থিব সুখ ত্যাগ করে একটি মাটির বড় পাত্রে বাস করতেন।"
+      },
+      {
+        "en": "Diogenes owned nothing except a simple cloak and a wooden bowl, seeking complete freedom from worldly desires.",
+        "bn": "ডায়োজিনিসের কাছে একটি মোটা চাদর আর কাঠের বাটি ছাড়া আর কিছুই ছিল না; তিনি পার্থিব মোহমুক্ত জীবন চাইতেন।"
+      },
+      {
+        "en": "Curious to meet the famous eccentric, Alexander approached Diogenes as he rested peacefully in the morning sun.",
+        "bn": "এই অদ্ভুত দার্শনিককে দেখার জন্য আলেকজান্ডার এগিয়ে গেলেন, যিনি তখন সকালের মিষ্টি রোদে গা এলিয়ে বসেছিলেন।"
+      },
+      {
+        "en": "Surrounded by glittering soldiers, Alexander announced, 'Ask of me any favor you desire, and it shall be granted.'",
+        "bn": "চকচকে বর্ম পরা সৈন্যদের মাঝে দাঁড়িয়ে আলেকজান্ডার বললেন, 'তুমি আমার কাছে যা চাইবে, আমি তা-ই তোমাকে দেব।'"
+      },
+      {
+        "en": "Without moving, Diogenes calmly replied, 'Only stand a little out of my sun; you are blocking my light.'",
+        "bn": "একটুও না নড়ে শান্ত গলায় ডায়োজিনিস বললেন, 'তাহলে আমার রোদ থেকে একটু সরে দাঁড়ান; আপনি আমার সূর্যের আলো আটকাচ্ছেন।'"
+      },
+      {
+        "en": "The soldiers laughed mockingly, but Alexander silenced them with deep admiration for the philosopher's fearless independence.",
+        "bn": "সৈন্যরা উপহাস করে হাসতে লাগল, কিন্তু সেই দার্শনিকের নির্ভীক স্বনির্ভরতায় মুগ্ধ হয়ে আলেকজান্ডার সবাইকে শান্ত করলেন।"
+      },
+      {
+        "en": "Alexander famously said to his companions, 'If I were not Alexander, I would wish to be Diogenes.'",
+        "bn": "আলেকজান্ডার তাঁর সঙ্গীদের দিকে তাকিয়ে বলেছিলেন, 'আমি যদি আলেকজান্ডার না হতাম, তবে আমি ডায়োজিনিস হতে চাইতাম।'"
+      }
+    ]
+  },
+  {
+    "id": "bio-marie-curie",
+    "title": "Marie Curie's Unwavering Dedication",
+    "titleBn": "মেরি কুরির অবিচল সাধনা",
+    "author": "Historical Biography",
+    "level": "Intermediate",
+    "category": "Inspiring Biography",
+    "coverEmoji": "🔬",
+    "summary": "Working inside a damp shed, a brilliant scientist discovers radium and changes medicine forever.",
+    "summaryBn": "একটি স্যাঁতসেঁতে ভাঙা ঘরে কাজ করে এক প্রতিভাময়ী বিজ্ঞানী কীভাবে রেডিয়াম আবিষ্কার করে চিকিৎসাজগৎ বদলে দিয়েছিলেন।",
+    "sentences": [
+      {
+        "en": "Marie Curie arrived in Paris from Poland with very little money, driven solely by a passionate love for science.",
+        "bn": "মেরি কুরি পোল্যান্ড থেকে প্যারিসে এসেছিলেন প্রায় কোনো টাকা ছাড়া, কেবল বিজ্ঞানের প্রতি গভীর ভালোবাসার টানে।"
+      },
+      {
+        "en": "She endured harsh winters in an unheated attic room, surviving on simple tea and dry bread.",
+        "bn": "তিনি ছাদের এক ঠান্ডা ঘরে কনকনে শীত সহ্য করতেন এবং প্রায়ই শুধু চা আর শুকনো রুটি খেয়ে বেঁচে থাকতেন।"
+      },
+      {
+        "en": "Together with her husband Pierre, Marie investigated mysterious energetic rays emitted by pitchblende ore.",
+        "bn": "স্বামী পিয়েরের সাথে মিলে মেরি পিচব্লেন্ড আকরিক থেকে নির্গত রহস্যময় অদৃশ্য রশ্মি নিয়ে গবেষণা শুরু করলেন।"
+      },
+      {
+        "en": "Without a proper laboratory, they worked for years inside a draughty wooden shed with a leaking glass roof.",
+        "bn": "কোনো উন্নত ল্যাবরেটরি ছাড়াই তাঁরা বছরের পর বছর বাতাস ঢোকা এক ভাঙা কাঠের ঘরে কাজ করে গেছেন।"
+      },
+      {
+        "en": "Marie stirred heavy cauldrons of boiling chemicals all day, breathing acrid dust with relentless determination.",
+        "bn": "মেরি সারাদিন রাসায়নিক পদার্থভর্তি ভারী ডেকচি নাড়াতেন এবং অদম্য সংকল্প নিয়ে বিষাক্ত ধোঁয়া সহ্য করতেন।"
+      },
+      {
+        "en": "From tons of raw rock, she finally isolated a fraction of a gram of a new, glowing element: radium.",
+        "bn": "টন টন পাথরের স্তূপ থেকে তিনি অবশেষে একটি নতুন চমকপ্রদ মৌলিক উপাদান আলাদা করতে সক্ষম হলেন, যার নাম রেডিয়াম।"
+      },
+      {
+        "en": "Her groundbreaking research earned her two Nobel Prizes in two distinct scientific fields: Physics and Chemistry.",
+        "bn": "তাঁর এই যুগান্তকারী গবেষণা তাঁকে পদার্থবিজ্ঞান এবং রসায়ন—দুটি ভিন্ন বিষয়ে দুটি নোবেল পুরস্কার এনে দিয়েছিল।"
+      },
+      {
+        "en": "She never patented her discoveries, willingly gifting radiation science to doctors to treat cancer patients worldwide.",
+        "bn": "তিনি তাঁর আবিষ্কারের কোনো পেটেন্ট করেননি, বরং বিশ্বজুড়ে ক্যানসার চিকিৎসার জন্য নিঃস্বার্থভাবে তা উন্মুক্ত করে দিয়েছিলেন।"
+      }
+    ]
+  },
+  {
+    "id": "bio-benjamin-franklin-kite",
+    "title": "Benjamin Franklin and the Electric Kite",
+    "titleBn": "বেঞ্জামিন ফ্র্যাঙ্কলিন এবং বিদ্যুতের ঘুড়ি",
+    "author": "Historical Biography",
+    "level": "Intermediate",
+    "category": "Inspiring Biography",
+    "coverEmoji": "🪁",
+    "summary": "A daring experiment during a stormy afternoon proves that lightning and electricity are the same force.",
+    "summaryBn": "ঝড়ো বাতাসের এক বিকেলে এক সাহসী পরীক্ষা প্রমাণ করেছিল যে আকাশের বজ্রপাত আর সাধারণ বিদ্যুৎ আসলে একই শক্তি।",
+    "sentences": [
+      {
+        "en": "In the eighteenth century, people viewed terrifying thunderbolts as mysterious heavenly fire.",
+        "bn": "অষ্টাদশ শতাব্দীতে মানুষ আকাশের গর্জন এবং বজ্রপাতকে এক রহস্যময় ঐশ্বরিক আগুন মনে করত।"
+      },
+      {
+        "en": "Benjamin Franklin suspected that lightning was simply electricity on an enormous, natural scale.",
+        "bn": "বেঞ্জামিন ফ্র্যাঙ্কলিনের ধারণা ছিল যে বজ্রপাত আসলে প্রকৃতির বুকে ঘটে যাওয়া বিশাল মাত্রার সাধারণ বিদ্যুৎ।"
+      },
+      {
+        "en": "In June 1752, as dark storm clouds gathered over Philadelphia, Franklin constructed a kite made of fine silk.",
+        "bn": "১৭৫২ সালের জুনে ফিলাডেলফিয়ার আকাশে যখন কালো মেঘ জমল, তখন ফ্র্যাঙ্কলিন রেশমের কাপড় দিয়ে একটি ঘুড়ি বানালেন।"
+      },
+      {
+        "en": "He attached a pointed iron wire to the top of the kite and tied a metal house key to the bottom of the hemp string.",
+        "bn": "ঘুড়ির শীর্ষে তিনি একটি লোহার সূচালো তার লাগালেন এবং সুতোর নিচের প্রান্তে একটি ধাতব চাবি বেঁধে দিলেন।"
+      },
+      {
+        "en": "Standing under a barn shelter to stay dry, he flew the kite high into the heart of the approaching thunderstorm.",
+        "bn": "ভিজে যাওয়া এড়াতে একটি ছাউনির নিচে দাঁড়িয়ে তিনি ঝড়ো বাতাসের ঠিক মাঝখানে ঘুড়িটি উড়িয়ে দিলেন।"
+      },
+      {
+        "en": "When rain soaked the string, loose hemp fibers stood erect like bristling hair on an electrified object.",
+        "bn": "বৃষ্টিতে সুতো ভিজে যেতেই তার আঁশগুলো বিদ্যুতায়িত বস্তুর মতো খাড়া হয়ে দাঁড়িয়ে গেল।"
+      },
+      {
+        "en": "Franklin brought his knuckle close to the key, and a bright electric spark leapt between them with a sharp snap.",
+        "bn": "ফ্র্যাঙ্কলিন তাঁর হাতের আঙুল চাবির কাছে নিতেই একটি উজ্জ্বল বৈদ্যুতিক স্ফুলিঙ্গ চট করে তাঁর হাতে লাফিয়ে পড়ল।"
+      },
+      {
+        "en": "His brave discovery led to the invention of lightning rods, protecting countless cities from devastating fires.",
+        "bn": "তাঁর এই সাহসী আবিষ্কার ভবনে বজ্রনিরোধক দণ্ড ব্যবহারের পথ খুলে দেয়, যা অগ্নিকাণ্ড থেকে শহরগুলোকে রক্ষা করতে শুরু করে।"
+      }
+    ]
+  },
+  {
+    "id": "bio-galileo-telescope",
+    "title": "Galileo and the Secrets of the Night Sky",
+    "titleBn": "গ্যালিলিও এবং রাতের আকাশের রহস্য",
+    "author": "Historical Biography",
+    "level": "Intermediate",
+    "category": "Inspiring Biography",
+    "coverEmoji": "🔭",
+    "summary": "A curious Italian mathematician points a homemade tube toward the stars and changes our view of the cosmos.",
+    "summaryBn": "ইতালির এক বিজ্ঞানী নিজের হাতে তৈরি একটি কাচের নল আকাশের দিকে তাক করে পুরো মহাবিশ্ব সম্পর্কে মানুষের ধারণা বদলে দেন।",
+    "sentences": [
+      {
+        "en": "For centuries, European scholars firmly believed that the Earth remained motionless at the center of the universe.",
+        "bn": "শতাব্দীর পর শতাব্দী ধরে ইউরোপের পণ্ডিতরা বিশ্বাস করতেন যে পৃথিবী স্থির হয়ে মহাবিশ্বের ঠিক কেন্দ্রে অবস্থান করছে।"
+      },
+      {
+        "en": "In 1609, Galileo Galilei heard about a Dutch spyglass that made distant objects appear closer.",
+        "bn": "১৬০৯ সালে গ্যালিলিও গ্যালিলি ডাচদের তৈরি এমন একটি নলের কথা শুনলেন যা দূরের জিনিসকে কাছে দেখায়।"
+      },
+      {
+        "en": "He immediately ground his own glass lenses and built an improved telescope capable of magnifying objects twenty times.",
+        "bn": "তিনি নিজে কাচ ঘষে উন্নত লেন্স তৈরি করলেন এবং একটি দূরবীন বানালেন যা জিনিসকে বিশ গুণ বড় দেখাতে পারত।"
+      },
+      {
+        "en": "Instead of using it for naval defense, Galileo turned his spyglass upward toward the midnight sky.",
+        "bn": "জাহাজের সুরক্ষার কাজে ব্যবহারের বদলে গ্যালিলিও সেই দূরবীনটি রাতের অন্ধকার আকাশের তারাদের দিকে তাক করলেন।"
+      },
+      {
+        "en": "He was astonished to see rugged mountains on the Moon, dark spots on the Sun, and four tiny moons orbiting Jupiter.",
+        "bn": "তিনি চাঁদের বুকে খসখসে পাহাড়, সূর্যের গায়ে কালো দাগ এবং বৃহস্পতি গ্রহকে কেন্দ্র করে চারটি ছোট চাঁদ ঘুরতে দেখে অবাক হলেন।"
+      },
+      {
+        "en": "These celestial observations proved that not everything in the universe revolved around the Earth.",
+        "bn": "মহাকাশের এই দৃশ্যগুলো প্রমাণ করল যে মহাবিশ্বের সবকিছুই পৃথিবীকে কেন্দ্র করে ঘুরছে না।"
+      },
+      {
+        "en": "Though powerful authorities opposed his radical conclusions, Galileo stood courageously by the evidence of his own eyes.",
+        "bn": "ক্ষমতাশালী কর্তৃপক্ষ তাঁর এই ধারণার তীব্র বিরোধিতা করলেও গ্যালিলিও নিজের চোখের দেখা সত্যের পক্ষে অবিচল রইলেন।"
+      },
+      {
+        "en": "His pioneering curiosity laid the foundation for modern observational astronomy and physics.",
+        "bn": "তাঁর এই অনুসন্ধিৎসু মনই আধুনিক পর্যবেক্ষণমূলক জ্যোতির্বিজ্ঞান এবং পদার্থবিজ্ঞানের ভিত্তি স্থাপন করেছিল।"
+      }
+    ]
+  },
+  {
+    "id": "bio-beethoven-ninth",
+    "title": "Beethoven and the Symphony of Silence",
+    "titleBn": "বিথোভেন এবং নিঃশব্দ সুরের মহাকাব্য",
+    "author": "Historical Biography",
+    "level": "Intermediate",
+    "category": "Inspiring Biography",
+    "coverEmoji": "🎼",
+    "summary": "Even after losing his hearing, the great composer hears divine harmonies within his soul and writes his greatest symphony.",
+    "summaryBn": "শ্রবণশক্তি চিরতরে হারানোর পরও কীভাবে এই অমর সুরকার অন্তরের গভীরের সুর দিয়ে সৃষ্টি করেছিলেন পৃথিবীর শ্রেষ্ঠ সিম্ফনি।",
+    "sentences": [
+      {
+        "en": "Ludwig van Beethoven was celebrated across Europe as a musical genius of extraordinary passion.",
+        "bn": "লুডভিগ ফন বিথোভেন তাঁর অসাধারণ আবেগময় সুর সৃষ্টির জন্য পুরো ইউরোপজুড়ে এক মহান সঙ্গীত প্রতিভা হিসেবে সমাদৃত ছিলেন।"
+      },
+      {
+        "en": "In his late twenties, he began hearing a persistent ringing in his ears that slowly stole away his hearing.",
+        "bn": "বিশ বছরের শেষভাগে তিনি কানে এক অদ্ভুত ভোঁ ভোঁ শব্দ শুনতে শুরু করলেন, যা ধীরে ধীরে তাঁর শ্রবণশক্তি কেড়ে নিতে লাগল।"
+      },
+      {
+        "en": "For a musician whose life was built on sound, going completely deaf felt like the cruelest possible tragedy.",
+        "bn": "একজন সুরকার যার জীবন গড়ে উঠেছিল সুরের ওপর, তাঁর জন্য বধির হয়ে যাওয়া ছিল সবচেয়ে নির্মম এক ট্র্যাজেডি।"
+      },
+      {
+        "en": "He contemplated ending his life, but his passionate urge to share the music trapped in his heart kept him alive.",
+        "bn": "তিনি জীবন শেষ করে দেওয়ার কথাও ভেবেছিলেন, কিন্তু অন্তরে জমে থাকা সুর সৃষ্টি করার তাগিদ তাঁকে বাঁচিয়ে রাখল।"
+      },
+      {
+        "en": "Unable to hear outer instruments, Beethoven saw vibrations in his mind and felt the resonance through piano wood.",
+        "bn": "বাইরের কোনো বাদ্যযন্ত্রের আওয়াজ না পেলেও বিথোভেন মনের চোখে কম্পন দেখতেন এবং কাঠের স্পর্শে সুরের অনুরণন বুঝতেন।"
+      },
+      {
+        "en": "In complete silence, he composed his magnificent Ninth Symphony, concluding with the joyous 'Ode to Joy'.",
+        "bn": "সম্পূর্ণ নিঃশব্দতার মধ্যে বসে তিনি তাঁর অবিস্মরণীয় নবম সিম্ফনি রচনা করলেন, যার শেষ অংশে ছিল বিখ্যাত 'ওড টু জয়'।"
+      },
+      {
+        "en": "At its premiere in Vienna, a singer gently turned Beethoven around to see the roaring audience offering thunderous standing ovations.",
+        "bn": "ভিয়েনায় প্রথম মঞ্চায়নের পর এক গায়িকা বিথোভেনের হাত ধরে তাঁকে দর্শকদের দিকে ঘোরালেন, যাতে তিনি দেখতে পান হাজারো মানুষ দাঁড়িয়ে হাততালি দিচ্ছে।"
+      },
+      {
+        "en": "True art is born not merely from our physical senses, but from the invincible spirit of the human soul.",
+        "bn": "প্রকৃত শিল্প কেবল চোখের দেখা বা কানের শোনায় সীমাবদ্ধ নয়, তা মানুষের অন্তরাত্মার অপরাজেয় শক্তি থেকে জন্ম নেয়।"
+      }
+    ]
+  },
+  {
+    "id": "bio-louis-pasteur",
+    "title": "Louis Pasteur and the Invisible World",
+    "titleBn": "লুই পাস্তুর এবং জীবাণুর অদৃশ্য জগৎ",
+    "author": "Historical Biography",
+    "level": "Intermediate",
+    "category": "Inspiring Biography",
+    "coverEmoji": "🧪",
+    "summary": "A dedicated French chemist proves that microscopic organisms cause spoilage and deadly diseases.",
+    "summaryBn": "এক ফরাসি রসায়নবিদ কীভাবে প্রমাণ করলেন যে অদৃশ্য জীবাণুই খাবার নষ্ট হওয়া এবং মরণব্যাধির মূল কারণ।",
+    "sentences": [
+      {
+        "en": "In the nineteenth century, people believed that spoiled milk and rotten meat spontaneously generated maggots and disease out of nowhere.",
+        "bn": "ঊনবিংশ শতাব্দীতে মানুষের ধারণা ছিল যে বাসি দুধ বা পচা মাংসের মধ্যে নিজে থেকেই রোগ এবং জীবাণু জন্ম নেয়।"
+      },
+      {
+        "en": "Louis Pasteur, a meticulous French chemist, suspected that tiny invisible microbes floating in the air were responsible.",
+        "bn": "লুই পাস্তুর নামের এক সতর্ক ফরাসি রসায়নবিদ সন্দেহ করলেন যে বাতাসে ভেসে বেড়ানো অদৃশ্য জীবাণুই এর জন্য দায়ী।"
+      },
+      {
+        "en": "He designed special flasks with curved swan necks that allowed air to enter while trapping airborne dust in the curve.",
+        "bn": "তিনি হাঁসের গলার মতো বাঁকানো নলের বিশেষ কাচের পাত্র তৈরি করলেন যাতে বাতাস ঢুকলেও ধুলাবালি বাঁকেই আটকে থাকে।"
+      },
+      {
+        "en": "The boiled broth inside the curved flasks stayed completely pure and fresh for months without growing mold.",
+        "bn": "সেই বাঁকানো পাত্রের ফুটানো তরল খাবার মাসের পর মাস ধরে একেবারে সতেজ ও জীবাণুমুক্ত রইল।"
+      },
+      {
+        "en": "This elegant experiment conclusively disproved spontaneous generation and established the germ theory of disease.",
+        "bn": "এই নিখুঁত পরীক্ষা প্রমাণ করল যে জীব নিজে থেকে তৈরি হয় না এবং রোগ সৃষ্টি করে এসব অণুজীবই।"
+      },
+      {
+        "en": "Pasteur then invented pasteurization, heating liquids briefly to kill harmful bacteria without ruining their flavor.",
+        "bn": "এরপর পাস্তুর পাস্তুরায়ন পদ্ধতি আবিষ্কার করলেন, যেখানে তরলকে সামান্য গরম করেই ক্ষতিকর জীবাণু মেরে ফেলা যায়।"
+      },
+      {
+        "en": "He went on to develop life-saving vaccines against rabies and anthrax, saving millions of lives worldwide.",
+        "bn": "পরবর্তীতে তিনি জলাতঙ্ক ও অ্যানথ্রাক্সের মতো মরণব্যাধির প্রতিষেধক টিকা আবিষ্কার করে কোটি কোটি মানুষের প্রাণ বাঁচান।"
+      },
+      {
+        "en": "His meticulous laboratory work laid the modern foundation of public health and preventive medicine.",
+        "bn": "গবেষণাগারে তাঁর এই নিরলস কাজই আধুনিক জনস্বাস্থ্য এবং রোগ প্রতিরোধ চিকিৎসার মজবুত ভিত্তি গড়ে তোলে।"
+      }
+    ]
+  },
+  {
+    "id": "bio-kalam-wings",
+    "title": "Dr. APJ Abdul Kalam: From Paperboy to President",
+    "titleBn": "ড. এপিজে আবদুল কালাম: সংবাদপত্র বিক্রেতা থেকে রাষ্ট্রপতি",
+    "author": "Historical Biography",
+    "level": "Intermediate",
+    "category": "Inspiring Biography",
+    "coverEmoji": "🚀",
+    "summary": "A humble boy from a coastal town overcomes poverty through hard work to lead his nation's scientific glory.",
+    "summaryBn": "উপকূলীয় এক গ্রামের দরিদ্র বালক কীভাবে একাগ্র সাধনার মাধ্যমে দেশের শ্রেষ্ঠ বিজ্ঞানী ও রাষ্ট্রপতি হয়েছিলেন।",
+    "sentences": [
+      {
+        "en": "Young Abdul Kalam grew up in the small coastal pilgrim town of Rameswaram in southern India.",
+        "bn": "দক্ষিণ ভারতের রামেশ্বরম নামের এক ছোট্ট উপকূলীয় শহরে সাধারণ এক পরিবারে বেড়ে ওঠেন বালক আবদুল কালাম।"
+      },
+      {
+        "en": "His father owned a modest wooden boat to ferry pilgrims, and the family faced difficult economic struggles.",
+        "bn": "তাঁর বাবার একটি সাধারণ কাঠের নৌকা ছিল যা দিয়ে তিনি তীর্থযাত্রীদের পারাপার করতেন, এবং পরিবারে বেশ টানাটানি ছিল।"
+      },
+      {
+        "en": "To support his elder brother and fund his schooling, young Kalam woke before dawn every day to deliver newspapers.",
+        "bn": "বড় ভাইকে সাহায্য করতে এবং নিজের পড়ার খরচ জোগাতে ছোট্ট কালাম প্রতিদিন ভোর হওয়ার আগেই খবরের কাগজ বিলি করতে বের হতেন।"
+      },
+      {
+        "en": "One day, his fifth-grade teacher took the entire class to the seashore to show them how birds fly by spreading wings.",
+        "bn": "একদিন পঞ্চম শ্রেণির শিক্ষক পুরো ক্লাসের ছাত্রদের সমুদ্রসৈকতে নিয়ে গেলেন পাখিরা কীভাবে ডানা মেলে ওড়ে তা স্বচক্ষে দেখাতে।"
+      },
+      {
+        "en": "That single seaside lesson ignited Kalam's lifelong passion for aerospace engineering and flight technology.",
+        "bn": "সমুদ্রসৈকতের সেই একটি পাঠই কালামের মনে রকেট বিজ্ঞান ও বিমান প্রযুক্তির প্রতি আজীবন ভালোবাসার জন্ম দেয়।"
+      },
+      {
+        "en": "Through disciplined study, he became a visionary space scientist, developing India's premier satellite launch vehicles.",
+        "bn": "কঠোর অধ্যবসায়ের মাধ্যমে তিনি দেশের শীর্ষ বিজ্ঞানী হয়ে ওঠেন এবং মহাকাশ গবেষণায় যুগান্তকারী অবদান রাখেন।"
+      },
+      {
+        "en": "He eventually became the President of India, beloved by millions of young students for his humility and wisdom.",
+        "bn": "পরবর্তীতে তিনি ভারতের রাষ্ট্রপতি নির্বাচিত হন এবং তাঁর বিনয় ও অনুপ্রেরণামূলক বক্তব্যের জন্য কোটি ছাত্রের হৃদয়ে স্থান পান।"
+      },
+      {
+        "en": "He famously reminded youths that dreams are not what you see in sleep; they are the things that prevent you from sleeping.",
+        "bn": "তিনি তরুণদের স্মরণ করিয়ে দিতেন যে স্বপ্ন তা নয় যা তুমি ঘুমিয়ে দেখো; স্বপ্ন হলো সেটাই যা তোমাকে ঘুমাতে দেয় না।"
+      }
+    ]
+  },
+  {
+    "id": "bio-michael-faraday",
+    "title": "Michael Faraday: The Bookbinder's Discovery",
+    "titleBn": "মাইকেল ফ্যারাডে: বই বাঁধাইকারীর অনন্য আবিষ্কার",
+    "author": "Historical Biography",
+    "level": "Intermediate",
+    "category": "Inspiring Biography",
+    "coverEmoji": "⚡",
+    "summary": "Without formal schooling, an apprentice binder reads every volume he sews and discovers electromagnetic induction.",
+    "summaryBn": "প্রাতিষ্ঠানিক শিক্ষা ছাড়াই বই বাঁধাইয়ের এক কিশোর দোকানে পাওয়া বই পড়ে কীভাবে বিদ্যুৎ বিজ্ঞানের জনক হয়েছিলেন।",
+    "sentences": [
+      {
+        "en": "Michael Faraday was born into an impoverished blacksmith's family in London with very little formal schooling.",
+        "bn": "মাইকেল ফ্যারাডে লন্ডনে এক দরিদ্র কামার পরিবারে জন্মগ্রহণ করেন এবং তিনি খুব বেশি প্রাতিষ্ঠানিক শিক্ষা পাননি।"
+      },
+      {
+        "en": "At age fourteen, he was apprenticed to a local bookbinder, spending seven years binding thick educational volumes.",
+        "bn": "চৌদ্দ বছর বয়সে তিনি এক বই বাঁধাইয়ের দোকানে শিক্ষানবিশ হিসেবে যোগ দেন এবং দীর্ঘ সাত বছর বই বাঁধাইয়ের কাজ করেন।"
+      },
+      {
+        "en": "Instead of merely sewing pages, Faraday hungrily read every scientific book and encyclopedia brought to the shop.",
+        "bn": "শুধু পাতা সেলাই করার বদলে ফ্যারাডে দোকানে আসা প্রতিটি বিজ্ঞান বই এবং বিশ্বকোষ গভীর আগ্রহে পড়ে শেষ করতেন।"
+      },
+      {
+        "en": "He saved pocket money to buy cheap glassware, performing basic chemical experiments in his cramped bedroom.",
+        "bn": "তিনি পকেটের সামান্য টাকা জমিয়ে কাচের সাধারণ পাত্র কিনতেন এবং নিজের ছোট ঘরে বসে বিজ্ঞানের পরীক্ষা চালাতেন।"
+      },
+      {
+        "en": "A generous customer gave him tickets to hear the famous chemist Humphry Davy lecture at the Royal Institution.",
+        "bn": "এক দয়ালু গ্রাহক তাঁকে রয়্যাল ইনস্টিটিউশনে বিখ্যাত রসায়নবিদ হামফ্রি ডেভির বক্তৃতা শোনার টিকিট উপহার দিলেন।"
+      },
+      {
+        "en": "Faraday took meticulous notes, bound them beautifully into a leather book, and sent it to Davy requesting an assistant job.",
+        "bn": "ফ্যারাডে সেই বক্তৃতার সুন্দর নোট তৈরি করে চামড়ায় বাঁধাই করে ডেভির কাছে পাঠালেন এবং সহকারী হিসেবে কাজের আবেদন করলেন।"
+      },
+      {
+        "en": "Davy hired him, and Faraday soon discovered electromagnetic induction, inventing the foundational principles of electric motors and generators.",
+        "bn": "ডেভি তাঁকে কাজে নিলেন, আর ফ্যারাডে অল্প দিনেই তড়িৎচৌম্বকীয় আবেশ আবিষ্কার করে বৈদ্যুতিক মোটর ও জেনারেটরের মূল ভিত্তি তৈরি করলেন।"
+      },
+      {
+        "en": "Today, nearly every electric power plant on planet Earth operates upon the principles discovered by this humble bookbinder.",
+        "bn": "আজ পৃথিবীর প্রায় প্রতিটি বিদ্যুৎকেন্দ্রই এই সাধারণ বই বাঁধাইকারীর আবিষ্কৃত সূত্রের ওপর ভিত্তি করে বিদ্যুৎ উৎপাদন করে।"
+      }
+    ]
+  },
+  {
+    "id": "bio-albert-einstein-compass",
+    "title": "Young Einstein and the Mysterious Compass",
+    "titleBn": "কিশোর আইনস্টাইন এবং রহস্যময় কম্পাস",
+    "author": "Historical Biography",
+    "level": "Intermediate",
+    "category": "Inspiring Biography",
+    "coverEmoji": "🧭",
+    "summary": "A simple magnetic needle shown to a sick five-year-old child sparks a lifelong quest to understand the invisible universe.",
+    "summaryBn": "অসুস্থ পাঁচ বছরের এক শিশুর হাতে পাওয়া একটি সাধারণ চৌম্বক কাঁটা কীভাবে মহাবিশ্বের অদৃশ্য শক্তির রহস্য উন্মোচনের পথ তৈরি করেছিল।",
+    "sentences": [
+      {
+        "en": "When Albert Einstein was five years old, he fell ill and had to stay in bed for several days.",
+        "bn": "আলবার্ট আইনস্টাইনের বয়স যখন মাত্র পাঁচ বছর, তখন তিনি অসুস্থ হয়ে বেশ কয়েক দিন বিছানায় শুয়ে রইলেন।"
+      },
+      {
+        "en": "To cheer up the quiet boy, his father brought him a small brass pocket compass.",
+        "bn": "চুপচাপ স্বভাবের ছেলেটির মন ভালো করার জন্য তাঁর বাবা তাঁকে একটি ছোট পিতলের পকেট কম্পাস উপহার দিলেন।"
+      },
+      {
+        "en": "Young Albert was mesmerized as he turned the metallic case in every direction.",
+        "bn": "ছোট্ট আলবার্ট কম্পাসটি হাতে নিয়ে যেদিকেই ঘোরাচ্ছিলেন, এক অদ্ভুত বিস্ময়ে তাকিয়ে রইলেন।"
+      },
+      {
+        "en": "No matter which way he twisted the box, the delicate magnetic needle stubbornly pointed in the same direction toward north.",
+        "bn": "তিনি বাক্সটি যেদিকেই ঘোরান না কেন, সূক্ষ্ম চৌম্বক কাঁটাটি অবিচলভাবে সবসময় একই দিকে অর্থাৎ উত্তরের দিকে মুখ করে থাকত।"
+      },
+      {
+        "en": "Albert realized there had to be something invisible in empty space exerting force upon the needle.",
+        "bn": "আইনস্টাইন বুঝতে পারলেন যে শূন্য স্থানের মাঝে নিশ্চয়ই অদৃশ্য এমন কিছু আছে যা এই কাঁটার ওপর অদৃশ্য বল প্রয়োগ করছে।"
+      },
+      {
+        "en": "That childlike wonder stayed with him forever, creating a deep conviction that nature possesses hidden harmony.",
+        "bn": "শৈশবের সেই বিস্ময়বোধ তাঁর মনে চিরকাল বেঁচে ছিল এবং প্রকৃতির মাঝে লুকিয়ে থাকা গোপন সুর বোঝার আগ্রহ তৈরি করেছিল।"
+      },
+      {
+        "en": "Decades later, he revolutionized human understanding of space, time, light, and gravity through his theory of relativity.",
+        "bn": "কয়েক দশক পরে তিনি তাঁর আপেক্ষিকতা তত্ত্বের মাধ্যমে স্থান, কাল, আলো এবং মহাকর্ষ নিয়ে মানবজাতির চিরন্তন ধারণা বদলে দিয়েছিলেন।"
+      },
+      {
+        "en": "He frequently recalled that the pocket compass was the spark that first ignited his scientific imagination.",
+        "bn": "তিনি প্রায়ই বলতেন যে শৈশবের সেই ছোট্ট পকেট কম্পাসটিই ছিল তাঁর বৈজ্ঞানিক কল্পনাশক্তির প্রথম স্ফুলিঙ্গ।"
+      }
+    ]
+  },
+  {
+    "id": "bio-leonardo-curiosity",
+    "title": "Leonardo da Vinci's Notebooks of Wonder",
+    "titleBn": "লিওনার্দো দা ভিঞ্চির কৌতূহলের খাতা",
+    "author": "Historical Biography",
+    "level": "Intermediate",
+    "category": "Inspiring Biography",
+    "coverEmoji": "🎨",
+    "summary": "The Renaissance genius demonstrates how relentless curiosity about nature makes life an endless masterpiece.",
+    "summaryBn": "রেনেসাঁর এই মহান প্রতিভা দেখিয়েছেন কীভাবে প্রকৃতির প্রতি অন্তহীন কৌতূহল মানুষের জীবনকে এক অপূর্ব শিল্পকর্মে রূপ দেয়।",
+    "sentences": [
+      {
+        "en": "Leonardo da Vinci is celebrated today as the painter of the Mona Lisa and the Last Supper.",
+        "bn": "লিওনার্দো দা ভিঞ্চি আজ মোনালিসা এবং দ্য লাস্ট সাপার ছবির অমর চিত্রশিল্পী হিসেবে বিশ্বজুড়ে পরিচিত।"
+      },
+      {
+        "en": "Yet painting was only a tiny fraction of his boundless, insatiable curiosity about the universe.",
+        "bn": "অথচ ছবি আঁকা ছিল পুরো মহাবিশ্ব সম্পর্কে তাঁর সীমাহীন এবং গভীর কৌতূহলের সামান্য একটি অংশ মাত্র।"
+      },
+      {
+        "en": "He carried a small leather notebook tied to his belt wherever he walked through the hills of Italy.",
+        "bn": "ইতালির পাহাড়ি পথে যেখানেই তিনি হাঁটতেন, কোমরের বেল্টে বাঁধা থাকত একটি ছোট চামড়ার নোটবুক।"
+      },
+      {
+        "en": "He sketched the swirling eddies of flowing water, the wing bones of bats, and the muscles of smiling faces.",
+        "bn": "তিনি বয়ে চলা নদীর পানির ঘূর্ণি, বাদুড়ের ডানার হাড়ের গঠন এবং মানুষের হাসিমুখের পেশি নিখুঁতভাবে এঁকে রাখতেন।"
+      },
+      {
+        "en": "His notebooks contained detailed blueprints for helicopters, armored tanks, diving suits, and robotic knights centuries ahead of his time.",
+        "bn": "তাঁর খাতায় হেলিকপ্টার, সাঁজোয়া ট্যাংক, ডুবুরির পোশাক এবং স্বয়ংক্রিয় রোবটের এমন সব নকশা ছিল যা ছিল তাঁর সময়ের চেয়ে বহু শতক এগিয়ে।"
+      },
+      {
+        "en": "To prevent unauthorized readers from stealing his private ideas, he wrote from right to left using mirror handwriting.",
+        "bn": "অন্য কেউ যাতে তাঁর চিন্তা চুরি করতে না পারে, সেজন্য তিনি ডান থেকে বাম দিকে উল্টো করে আয়নার মতো লিপিতে লিখতেন।"
+      },
+      {
+        "en": "Leonardo believed that everything in nature connects to everything else through hidden mathematical laws.",
+        "bn": "লিওনার্দো বিশ্বাস করতেন যে প্রকৃতির প্রতিটি উপাদানের সাথে অন্য সবকিছুর এক অদৃশ্য ও সুষম যোগসূত্র রয়েছে।"
+      },
+      {
+        "en": "His life proved that true genius is not a genetic accident, but an intense, unquenchable desire to understand the world.",
+        "bn": "তাঁর জীবন প্রমাণ করেছে যে সত্যিকারের প্রতিভা কোনো দৈব ঘটনা নয়, বরং পৃথিবীকে জানার এক দুর্নিবার ও অদম্য ইচ্ছা।"
+      }
+    ]
+  },
+  {
+    "id": "bio-william-shakespeare",
+    "title": "William Shakespeare and the Globe Theatre",
+    "titleBn": "উইলিয়াম শেক্সপিয়র এবং গ্লোব থিয়েটার",
+    "author": "Historical Biography",
+    "level": "Intermediate",
+    "category": "Inspiring Biography",
+    "coverEmoji": "🎭",
+    "summary": "A glove-maker's son from a market town crafts timeless plays that reflect the entire spectrum of human emotion.",
+    "summaryBn": "এক সাধারণ দস্তানা প্রস্তুতকারকের ছেলে কীভাবে এমন সব নাটক লিখেছিলেন যা মানুষের সব অনুভূতির চিরন্তন প্রতিচ্ছবি।",
+    "sentences": [
+      {
+        "en": "William Shakespeare grew up in the quiet market town of Stratford-upon-Avon in rural England.",
+        "bn": "উইলিয়াম শেক্সপিয়র ইংল্যান্ডের প্রত্যন্ত স্ট্র্যাটফোর্ড-আপন-অ্যাভন নামের এক শান্ত শহরে বেড়ে ওঠেন।"
+      },
+      {
+        "en": "His father made leather gloves, and young William never attended a prestigious university.",
+        "bn": "তাঁর বাবা চামড়ার দস্তানা তৈরি করতেন, আর তরুণ উইলিয়াম কোনো বড় বিশ্ববিদ্যালয়ে পড়ার সুযোগ পাননি।"
+      },
+      {
+        "en": "In his twenties, he moved to crowded London, working as an actor and steadily writing original stage plays.",
+        "bn": "বিশ বছর বয়সে তিনি জনাকীর্ণ লন্ডনে চলে যান এবং সেখানে মঞ্চে অভিনয়ের পাশাপাশি মৌলিক নাটক লিখতে শুরু করেন।"
+      },
+      {
+        "en": "Along with his acting company, he built the iconic open-air Globe Theatre beside the River Thames.",
+        "bn": "অভিনয় দলের বন্ধুদের সাথে মিলে তিনি থেমস নদীর তীরে বিখ্যাত উন্মুক্ত 'গ্লোব থিয়েটার' নির্মাণ করেন।"
+      },
+      {
+        "en": "Rich aristocrats sat in roofed wooden galleries, while ordinary laborers stood on the muddy ground around the stage.",
+        "bn": "ধনী অভিজাতরা কাঠের গ্যালারিতে বসতেন, আর সাধারণ খেটে খাওয়া মানুষরা মঞ্চের চারপাশে দাঁড়িয়ে নাটক উপভোগ করত।"
+      },
+      {
+        "en": "Shakespeare wrote tragedies, comedies, and historical dramas that explored love, greed, ambition, and grief.",
+        "bn": "শেক্সপিয়র প্রেম, লোভ, ক্ষমতা ও শোকের অনুভূতি নিয়ে একের পর এক অবিস্মরণীয় ট্র্যাজেডি, কমেডি ও ঐতিহাসিক নাটক লেখেন।"
+      },
+      {
+        "en": "He introduced over a thousand new words and idioms into the English language that are still used every day.",
+        "bn": "তিনি ইংরেজি ভাষায় হাজারেরও বেশি নতুন শব্দ এবং বাগধারা যুক্ত করেছিলেন যা আজ পর্যন্ত মানুষ প্রতিদিন ব্যবহার করে।"
+      },
+      {
+        "en": "His timeless stories prove that deep understanding of human nature outlasts kings, empires, and centuries.",
+        "bn": "তাঁর কালজয়ী নাটকগুলো প্রমাণ করে যে মানবচরিত্রের গভীর উপলব্ধি রাজা, সাম্রাজ্য এবং শতকের পর শতক পেরিয়ে চিরকাল বেঁচে থাকে।"
+      }
+    ]
+  },
+  {
+    "id": "bio-confucius-student",
+    "title": "Confucius and the Weight of Truth",
+    "titleBn": "কনফুসিয়াস এবং সত্যের মর্যাদা",
+    "author": "Historical Biography",
+    "level": "Intermediate",
+    "category": "Inspiring Biography",
+    "coverEmoji": "📜",
+    "summary": "The ancient Chinese sage demonstrates to his disciples that character and integrity matter far more than wealth.",
+    "summaryBn": "প্রাচীন চীনের এই মহান দার্শনিক শিষ্যদের শিখিয়েছিলেন যে ধনসম্পদের চেয়ে মানুষের চরিত্র ও সত্যের মূল্য অনেক বেশি।",
+    "sentences": [
+      {
+        "en": "More than two thousand years ago in ancient China, the philosopher Confucius traveled with a loyal group of students.",
+        "bn": "দুই হাজারেরও বেশি বছর আগে প্রাচীন চীনে দার্শনিক কনফুসিয়াস তাঁর একদল বিশ্বস্ত ছাত্রকে সাথে নিয়ে দেশভ্রমণ করতেন।"
+      },
+      {
+        "en": "He taught that rulers must govern through virtue, and ordinary citizens must cultivate self-respect and honesty.",
+        "bn": "তিনি শিক্ষা দিতেন যে শাসকদের সদ্গুণের মাধ্যমে রাজ্য চালানো উচিত এবং সাধারণ মানুষের উচিত আত্মসম্মান ও সততা বজায় রাখা।"
+      },
+      {
+        "en": "During a harsh winter travel, the group ran out of food and had to fast for three cold, bitter days.",
+        "bn": "এক শীতের সফরে তাঁদের সব খাবার শেষ হয়ে গেল এবং টানা তিন দিন তাঁদের উপোস থাকতে হলো।"
+      },
+      {
+        "en": "One disciple named Yan Hui managed to acquire a tiny portion of raw rice and began cooking it in a pot.",
+        "bn": "ইয়ান হুই নামের এক প্রিয় ছাত্র সামান্য চাল জোগাড় করে একটি পাত্রে তা রান্না করতে বসলেন।"
+      },
+      {
+        "en": "Confucius looked through the window and saw Yan Hui secretly take a mouthful of cooked rice before serving.",
+        "bn": "কনফুসিয়াস জানালা দিয়ে দেখতে পেলেন যে ইয়ান হুই পরিবেশন করার আগেই গোপনে পাত্র থেকে এক লোকমা ভাত খেয়ে ফেললেন।"
+      },
+      {
+        "en": "Instead of scolding him, Confucius gently asked if the rice was pure enough to offer as an ancestor sacrifice.",
+        "bn": "রেগে বকা দেওয়ার বদলে কনফুসিয়াস শান্তভাবে জিজ্ঞেস করলেন, এই ভাত কি পূর্বপুরুষদের উদ্দেশ্যে নিবেদন করার মতো পবিত্র আছে?"
+      },
+      {
+        "en": "Yan Hui explained that soot had fallen from the roof into the pot; he ate the dirty rice so it would not be wasted.",
+        "bn": "ইয়ান হুই ব্যাখ্যা করলেন যে ছাদ থেকে সামান্য কালি ভাতে পড়েছিল; অপচয় না করতে তিনি নিজেই সেই অংশটুকু খেয়ে ফেলেছিলেন।"
+      },
+      {
+        "en": "Confucius bowed respectfully to his student, realizing that true integrity is practiced even when nobody is looking.",
+        "bn": "কনফুসিয়াস শ্রদ্ধার সাথে তাঁর ছাত্রের সামনে মাথা নত করলেন এবং বুঝলেন যে প্রকৃত সততা তা-ই যা কেউ না দেখলেও মানুষ পালন করে।"
+      }
+    ]
+  },
+  {
+    "id": "bio-mahatma-train",
+    "title": "The Lesson of the Dropped Shoe",
+    "titleBn": "ট্রেন থেকে পড়ে যাওয়া জুতো",
+    "author": "Historical Biography",
+    "level": "Intermediate",
+    "category": "Inspiring Biography",
+    "coverEmoji": "👟",
+    "summary": "Mahatma Gandhi acts spontaneously with profound empathy as a crowded passenger train pulls away.",
+    "summaryBn": "চলন্ত ট্রেনে ওঠার মুহূর্তে মহাত্মা গান্ধী কীভাবে তাৎক্ষণিক সহমর্মিতার এক অনন্য দৃষ্টান্ত স্থাপন করেছিলেন।",
+    "sentences": [
+      {
+        "en": "Mahatma Gandhi was hurrying to board a crowded passenger train at a busy railway station in India.",
+        "bn": "ভারতের এক ব্যস্ত রেলওয়ে স্টেশনে যাত্রীদের ভিড়ের মাঝে মহাত্মা গান্ধী দ্রুত একটি ট্রেনে ওঠার চেষ্টা করছিলেন।"
+      },
+      {
+        "en": "As he stepped onto the moving footboard, one of his leather sandals slipped from his foot and fell onto the track.",
+        "bn": "চলন্ত ট্রেনের পাদানিতে পা রাখতেই তাঁর পায়ের একটি চামড়ার চটি খুলে রেললাইনের ওপর পড়ে গেল।"
+      },
+      {
+        "en": "Because the train was accelerating, Gandhi could not jump down to retrieve the lost sandal safely.",
+        "bn": "ট্রেনের গতি তখন বাড়ছিল, তাই নিরাপদে নেমে গিয়ে পড়ে যাওয়া চটিটি তুলে আনার কোনো উপায় ছিল না।"
+      },
+      {
+        "en": "Without a moment of hesitation, Gandhi immediately took off his other sandal and threw it back near the first one.",
+        "bn": "এক মুহূর্তও দেরি না করে গান্ধীজি তৎক্ষণাৎ নিজের পায়ের অন্য চটিটিও খুলে প্রথমটির কাছাকাছি ফেলে দিলেন।"
+      },
+      {
+        "en": "Surprised fellow passengers on board asked why he had discarded his remaining useful shoe.",
+        "bn": "ট্রেনের ভেতরে থাকা সহযাত্রীরা অবাক হয়ে জিজ্ঞেস করলেন কেন তিনি নিজের ভালো জুতোটিও এভাবে ফেলে দিলেন।"
+      },
+      {
+        "en": "Gandhi smiled warmly and replied, 'A single sandal is completely useless to me now, and useless to whoever finds it.'",
+        "bn": "গান্ধীজি মিষ্টি হেসে উত্তর দিলেন, 'একটি চটি এখন আমার কোনো কাজে আসবে না, আবার যে কুড়িয়ে পাবে তারও কোনো উপকারে লাগবে না।'"
+      },
+      {
+        "en": "'Now, some poor laborer walking along the tracks will find a complete pair and be able to wear them comfortably.'",
+        "bn": "'কিন্তু এখন রেললাইন ধরে হেঁটে যাওয়া কোনো দরিদ্র মজুর পুরো জোড়া পেয়ে আরামে পায়ে পরতে পারবে।'"
+      },
+      {
+        "en": "True generosity means considering the welfare of others even in unexpected moments of personal loss.",
+        "bn": "প্রকৃত উদারতা হলো নিজের কোনো ক্ষতি হলেও মুহূর্তের মধ্যে অন্যের কল্যাণের কথা চিন্তা করা।"
+      }
+    ]
+  },
+  {
+    "id": "bio-charles-darwin",
+    "title": "Darwin and the Living Island of Wonder",
+    "titleBn": "ডারউইন এবং গালাপাগোসের জীবন্ত বিস্ময়",
+    "author": "Historical Biography",
+    "level": "Intermediate",
+    "category": "Inspiring Biography",
+    "coverEmoji": "🐢",
+    "summary": "A five-year voyage aboard HMS Beagle reveals how nature shapes every living creature to fit its environment.",
+    "summaryBn": "এইচএমএস বিগল জাহাজে পাঁচ বছরের সমুদ্রযাত্রা কীভাবে উন্মোচন করল পরিবেশের সাথে জীবের খাপ খাইয়ে নেওয়ার রহস্য।",
+    "sentences": [
+      {
+        "en": "In 1831, a curious young naturalist named Charles Darwin set sail on a five-year global voyage aboard HMS Beagle.",
+        "bn": "১৮৩১ সালে চার্লস ডারউইন নামের এক তরুণ প্রকৃতিবিদ এইচএমএস বিগল জাহাজে পাঁচ বছরের বিশ্বভ্রমণে বের হলেন।"
+      },
+      {
+        "en": "When the ship anchored at the remote Galápagos Islands in the Pacific Ocean, Darwin discovered an astonishing living laboratory.",
+        "bn": "প্রশান্ত মহাসাগরের প্রত্যন্ত গালাপাগোস দ্বীপপুঞ্জে জাহাজ নোঙর করতেই ডারউইন জীবন্ত প্রকৃতির এক বিস্ময়কর জগৎ দেখতে পেলেন।"
+      },
+      {
+        "en": "He noticed that giant tortoises on different islands had distinctly shaped shells suited to their food sources.",
+        "bn": "তিনি লক্ষ্য করলেন যে বিভিন্ন দ্বীপের বিশাল কচ্ছপদের পিঠের খোলস সেখানকার খাবারের ধরণের সাথে পুরোপুরি মানানসই।"
+      },
+      {
+        "en": "Even more fascinating were the small finch birds, whose beaks varied dramatically from one island to the next.",
+        "bn": "আরও অবাক করা বিষয় ছিল ছোট ফিঞ্চ পাখিরা, যাদের ঠোঁটের আকৃতি এক দ্বীপ থেকে অন্য দ্বীপে সম্পূর্ণ আলাদা ছিল।"
+      },
+      {
+        "en": "Birds eating tough seeds had thick, sturdy beaks, while birds hunting insects had slender, pointed beaks.",
+        "bn": "যে পাখিরা শক্ত বীজ খেত তাদের ঠোঁট ছিল মোটা ও শক্ত, আর যারা পোকামাকড় খেত তাদের ঠোঁট ছিল সরু ও চোখা।"
+      },
+      {
+        "en": "Darwin realized that species were not static; they gradually adapted over generations to survive in their surroundings.",
+        "bn": "ডারউইন উপলব্ধি করলেন যে প্রাণীরা চিরকাল অপরিবর্তিত থাকে না; বেঁচে থাকার তাগিদে তারা পরিবেশের সাথে মানিয়ে নেয়।"
+      },
+      {
+        "en": "His groundbreaking book 'On the Origin of Species' completely revolutionized the biological sciences.",
+        "bn": "তাঁর যুগান্তকারী বই 'অন দ্য অরিজিন অব স্পিসিজ' পুরো জীববিজ্ঞানের ধারণাকে আমূল বদলে দিয়েছিল।"
+      },
+      {
+        "en": "Careful observation and patient questioning of ordinary natural details can unlock the deepest secrets of life.",
+        "bn": "প্রকৃতির সাধারণ বিষয়ের সূক্ষ্ম পর্যবেক্ষণ এবং গভীর চিন্তাই জীবনের গভীরতম রহস্যকে উন্মোচন করতে পারে।"
+      }
+    ]
+  },
+  {
+    "id": "bio-nelson-mandela-forgiveness",
+    "title": "Nelson Mandela and the Power of Forgiveness",
+    "titleBn": "নেলসন ম্যান্ডেলা এবং ক্ষমার মহাশক্তি",
+    "author": "Historical Biography",
+    "level": "Intermediate",
+    "category": "Inspiring Biography",
+    "coverEmoji": "🕊️",
+    "summary": "After twenty-seven years of unjust imprisonment, a great leader chooses reconciliation instead of vengeance.",
+    "summaryBn": "সাতাশ বছরের অন্যায় কারাবাসের পর এক মহান নেতা প্রতিশোধের বদলে কীভাবে ক্ষমার মাধ্যমে একটি বিভক্ত জাতিকে ঐক্যবদ্ধ করেছিলেন।",
+    "sentences": [
+      {
+        "en": "Nelson Mandela spent twenty-seven long, painful years confined in harsh prisons for opposing apartheid in South Africa.",
+        "bn": "দক্ষিণ আফ্রিকার বর্ণবাদের বিরুদ্ধে লড়াই করার কারণে নেলসন ম্যান্ডেলা সাতাশটি দীর্ঘ ও যন্ত্রণাময় বছর কারাগারে কাটিয়েছিলেন।"
+      },
+      {
+        "en": "For eighteen of those years, he was locked in a tiny, damp concrete cell on isolated Robben Island.",
+        "bn": "এর মধ্যে আঠারো বছর তিনি রবেন দ্বীপের একটি স্যাঁতসেঁতে ছোট অন্ধকার কুঠুরিতে একা বন্দি ছিলেন।"
+      },
+      {
+        "en": "He performed backbreaking labor in a blinding limestone quarry, enduring mockery and abuse from cruel guards.",
+        "bn": "পাথরের খনিতে তাঁকে হাড়ভাঙা খাটুনি খাটতে হতো এবং নিষ্ঠুর কারারক্ষীদের উপহাস ও নির্যাতন সহ্য করতে হতো।"
+      },
+      {
+        "en": "When he was finally released in 1990, the entire world expected him to demand harsh vengeance against his oppressors.",
+        "bn": "১৯৯০ সালে যখন তিনি মুক্তি পেলেন, পুরো বিশ্ব ভেবেছিল যে তিনি হয়তো অত্যাচারীদের বিরুদ্ধে প্রতিশোধ নেওয়ার দাবি তুলবেন।"
+      },
+      {
+        "en": "Instead, Mandela chose the courageous path of peace, forgiveness, and national reconciliation.",
+        "bn": "কিন্তু ম্যান্ডেলা বেছে নিলেন শান্তি, ক্ষমা এবং সব মানুষকে নিয়ে একসাথে পথ চলার সাহসী এক পথ।"
+      },
+      {
+        "en": "He famously declared, 'Resentment is like drinking poison and then hoping it will kill your enemies.'",
+        "bn": "তিনি বলেছিলেন, 'অন্যের প্রতি ঘৃণা পুষে রাখা মানে নিজে বিষ খেয়ে আশা করা যে সেই বিষে শত্রু মারা যাবে।'"
+      },
+      {
+        "en": "He invited his former prison guards to his presidential inauguration, uniting a fractured nation through love.",
+        "bn": "তিনি তাঁর রাষ্ট্রপতি শপথ অনুষ্ঠানে সাবেক কারারক্ষীদেরও আমন্ত্রণ জানান এবং ভালোবাসার মাধ্যমে বিভক্ত জাতিকে এক করেন।"
+      },
+      {
+        "en": "Forgiveness is not a sign of weakness; it is the ultimate weapon of the truly strong.",
+        "bn": "ক্ষমা করা কোনো দুর্বলতা নয়; বরং এটি হলো সত্যিকারের শক্তিশালী মানুষের সবচেয়ে বড় শক্তি।"
+      }
+    ]
+  },
+  {
+    "id": "bio-alexander-fleming-penicillin",
+    "title": "Alexander Fleming and the Forgotten Dish",
+    "titleBn": "আলেকজান্ডার ফ্লেমিং এবং ভুলে যাওয়া পাত্রের আবিষ্কার",
+    "author": "Historical Biography",
+    "level": "Intermediate",
+    "category": "Inspiring Biography",
+    "coverEmoji": "💊",
+    "summary": "An untidy lab bench leads to the accidental discovery of penicillin, saving hundreds of millions from infection.",
+    "summaryBn": "একটি অপরিচ্ছন্ন টেবিলের অসাবধানতা কীভাবে পেনিসিলিন আবিষ্কারের মাধ্যমে কোটি কোটি মানুষের জীবন বাঁচিয়েছিল।",
+    "sentences": [
+      {
+        "en": "In September 1928, Dr. Alexander Fleming returned to his London laboratory after a two-week family vacation.",
+        "bn": "১৯২৮ সালের সেপ্টেম্বরে ডক্টর আলেকজান্ডার ফ্লেমিং দুই সপ্তাহের পারিবারিক ছুটি কাটিয়ে লন্ডনের ল্যাবরেটরিতে ফিরলেন।"
+      },
+      {
+        "en": "Before leaving, he had stacked several glass petri dishes containing infectious staphylococcus bacteria near an open window.",
+        "bn": "ছুটিতে যাওয়ার আগে তিনি জানালার কাছে কাচের পাত্রে ক্ষতিকর ব্যাকটেরিয়ার কিছু নমুনা রেখে গিয়েছিলেন।"
+      },
+      {
+        "en": "While sorting through the discarded dishes, he noticed something unusual on one contaminated culture plate.",
+        "bn": "ফিরে এসে পাত্রগুলো পরিষ্কার করার সময় তিনি একটি পাত্রের মধ্যে এক অদ্ভুত জিনিস লক্ষ্য করলেন।"
+      },
+      {
+        "en": "A common green mold had accidentally blown in from the street and started growing in the center of the dish.",
+        "bn": "রাস্তা থেকে বাতাসে উড়ে আসা এক টুকরো সাধারণ সবুজ ছত্রাক সেই পাত্রের ঠিক মাঝখানে জন্মেছিল।"
+      },
+      {
+        "en": "Curiously, all the dangerous bacteria immediately surrounding the mold had dissolved into clear, dead rings.",
+        "bn": "সবচেয়ে আশ্চর্যের বিষয় হলো, ছত্রাকের চারপাশের সব মারাত্মক ব্যাকটেরিয়া পুরোপুরি মরে গিয়ে একটি পরিষ্কার বলয় তৈরি হয়েছিল।"
+      },
+      {
+        "en": "Instead of tossing the spoiled sample into the trash, Fleming carefully examined the mysterious mold juice.",
+        "bn": "নষ্ট পাত্রটি ফেলে দেওয়ার বদলে ফ্লেমিং গভীর মনোযোগ দিয়ে সেই ছত্রাকের রস পরীক্ষা করতে শুরু করলেন।"
+      },
+      {
+        "en": "He discovered that the mold, Penicillium notatum, produced a powerful antibacterial substance that he named penicillin.",
+        "bn": "তিনি দেখলেন যে এই ছত্রাক থেকে এক শক্তিশালী জীবাণুনাশক উপাদান তৈরি হচ্ছে, যার নাম তিনি দিলেন পেনিসিলিন।"
+      },
+      {
+        "en": "Penicillin became the world's first true antibiotic, transforming medicine and saving countless lives from lethal infections.",
+        "bn": "পেনিসিলিন বিশ্বের প্রথম অ্যান্টিবায়োটিক হয়ে চিকিৎসাবিজ্ঞানে বিপ্লব আনে এবং মরণব্যাধি থেকে কোটি মানুষের প্রাণ বাঁচায়।"
+      }
+    ]
+  },
+  {
+    "id": "bio-steve-jobs-calligraphy",
+    "title": "Steve Jobs: Connecting the Dots",
+    "titleBn": "স্টিভ জবস: জীবনের প্রতিটি বিন্দুর সংযোগ",
+    "author": "Historical Biography",
+    "level": "Intermediate",
+    "category": "Inspiring Biography",
+    "coverEmoji": "💻",
+    "summary": "How dropping out of college and taking a random calligraphy class shaped modern personal computers.",
+    "summaryBn": "কলেজ ছেড়ে দিয়ে শখের বশে করা সুন্দর হস্তলিপির ক্লাস কীভাবে আধুনিক পার্সোনাল কম্পিউটারের চেহারা বদলে দিয়েছিল।",
+    "sentences": [
+      {
+        "en": "After only six months at Reed College, young Steve Jobs decided to drop out because tuition was draining his working-class parents' savings.",
+        "bn": "রিড কলেজে মাত্র ছয় মাস পড়ার পর তরুণ স্টিভ জবস পড়াশোনা ছেড়ে দিলেন, কারণ তাঁর দরিদ্র পালক-পিতামাতার সব সঞ্চয় শেষ হয়ে যাচ্ছিল।"
+      },
+      {
+        "en": "He stayed on campus as an informal auditor, sleeping on friends' floors and returning empty soda bottles for food money.",
+        "bn": "তবে তিনি ক্যাম্পাসেই থেকে গেলেন, বন্ধুদের ঘরের মেঝেতে ঘুমাতেন এবং খাবারের টাকার জন্য খালি বোতল বিক্রি করতেন।"
+      },
+      {
+        "en": "Free from required curriculum courses, he decided to take a specialized class on beautiful calligraphy.",
+        "bn": "বাধ্যতামূলক ক্লাসের কোনো চাপ না থাকায় তিনি শখের বশে সুন্দর হস্তলিপি বা ক্যালিগ্রাফির একটি ক্লাসে ভর্তি হলেন।"
+      },
+      {
+        "en": "He learned about serif and sans-serif typefaces, proportional letter spacing, and the art of elegant typography.",
+        "bn": "সেখানে তিনি বিভিন্ন ধরণের অক্ষরের গঠন, ফন্টের সৌন্দর্য এবং নান্দনিক টাইপোগ্রাফির কলাকৌশল শিখলেন।"
+      },
+      {
+        "en": "At the time, calligraphy seemed to have zero practical application for his future career or financial prospects.",
+        "bn": "সেই সময়ে মনে হয়েছিল এই ক্যালিগ্রাফির শিক্ষা তাঁর ভবিষ্যৎ কর্মজীবনে বিন্দুমাত্র কোনো কাজে আসবে না।"
+      },
+      {
+        "en": "Ten years later, when designing the original Macintosh computer, Jobs incorporated those very typography principles into the operating system.",
+        "bn": "দশ বছর পরে প্রথম ম্যাকিনটোশ কম্পিউটার ডিজাইন করার সময় জবস সেই ক্লাসের সুন্দর ফন্টগুলো কম্পিউটারের মধ্যে যুক্ত করলেন।"
+      },
+      {
+        "en": "The Mac became the first personal computer with gorgeous proportional typography and elegant desktop fonts.",
+        "bn": "ম্যাকই হয়ে উঠল পৃথিবীর প্রথম ব্যক্তিগত কম্পিউটার যার স্ক্রিনে চমৎকার ও নিখুঁত অক্ষরের টাইপোগ্রাফি দেখা যেত।"
+      },
+      {
+        "en": "Jobs famously observed that you cannot connect the dots looking forward; you can only connect them looking backward.",
+        "bn": "জবস সুন্দর একটি কথা বলেছিলেন: ভবিষ্যতের দিকে তাকিয়ে জীবনের বিন্দুগুলোকে মেলানো যায় না; কেবল অতীতের দিকে ফিরে তাকালেই তাদের মিল খুঁজে পাওয়া যায়।"
+      }
+    ]
+  }
+]

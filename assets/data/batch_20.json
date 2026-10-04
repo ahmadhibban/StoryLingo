@@ -1,0 +1,617 @@
+[
+  {
+    "id": "classics-trojan-horse-ulysses",
+    "title": "The Wooden Horse of Troy and the Fall of Ilium",
+    "titleBn": "ট্রয়ের কাঠের ঘোড়া ও এক সাম্রাজ্যের পতন",
+    "author": "Homer & Virgil",
+    "level": "Intermediate",
+    "category": "Classical Antiquity",
+    "coverEmoji": "🐴",
+    "summary": "After a ten-year stalemate, Odysseus devises a hollow wooden horse left on the shore, concealing Greek warriors who breach Troy's gates.",
+    "summaryBn": "টানা দশ বছরের রক্তক্ষয়ী যুদ্ধের পর এক বিশাল কাঠের ঘোড়ার পেটের ভেতর লুকিয়ে ট্রয় নগরীর দুর্ভেদ্য প্রাচীর জয় করে গ্রিক বীরেরা।",
+    "sentences": [
+      {
+        "en": "For ten long years, the combined armies of Greece laid siege to the colossal stone ramparts of Troy without breaching the city gates.",
+        "bn": "টানা দশ বছর ধরে সমগ্র গ্রিসের বিশাল সৈন্যবাহিনী ট্রয় নগরীর সুউচ্চ পাথুরে প্রাচীর অবরোধ করে রাখলেও শহরের ফটক ভাঙতে ব্যর্থ হলো।"
+      },
+      {
+        "en": "Weary of endless bloodshed, the wily king of Ithaca, Odysseus, devised an audacious stratagem of deceptive engineering.",
+        "bn": "অবিরাম রক্তপাতে ক্লান্ত হয়ে ইথাকার বুদ্ধিমান রাজা ওডিসিয়াস এক অদ্ভুত ও দুঃসাহসিক প্রতারণার যুদ্ধকৌশল তৈরি করলেন।"
+      },
+      {
+        "en": "Greek carpenters felled fir trees to sculpt a colossal hollow wooden stallion, inscribing on its flank: 'A thank-offering to Athena for a safe return home.'",
+        "bn": "গ্রিক কারিগররা পাইন গাছ কেটে এক বিশাল ফাঁপা কাঠের ঘোড়া বানাল এবং তার গায়ে লিখে দিল: 'নিরাপদে ঘরে ফেরার জন্য দেবী এথেনার চরণে উপহার।'"
+      },
+      {
+        "en": "Odysseus and thirty elite bronze-clad warriors climbed inside the hollow belly, while the Greek fleet burned their camp and sailed out of sight behind the island of Tenedos.",
+        "bn": "ওডিসিয়াস ও ত্রিশজন বাছাই করা বর্মধারী বীর ঘোড়ার পেটের ভেতর লুকিয়ে রইল, আর বাকি গ্রিক বহর তাঁবু পুড়িয়ে দূরে দ্বীপের আড়ালে চলে গেল।"
+      },
+      {
+        "en": "Believing the Greeks had fled in defeat, the jubilant Trojans dragged the massive idol through their walls and celebrated with wine until dawn.",
+        "bn": "গ্রিকরা পরাজয় মেনে পালিয়েছে ভেবে উল্লসিত ট্রয়বাসী সেই বিশাল ঘোড়াটিকে শহরের ভেতরে টেনে আনল এবং রাতভর মদ খেয়ে উৎসবে মেতে রইল।"
+      },
+      {
+        "en": "When the city sank into drunken slumber, a Greek spy signaled the hidden fleet with a burning torch, while Odysseus opened the wooden horse's trapdoor.",
+        "bn": "পুরো শহর যখন নেশায় অচেতন হয়ে ঘুমিয়ে পড়ল, এক গ্রিক গুপ্তচর মশাল জ্বেলে জাহাজের বহরকে সংকেত দিল আর ওডিসিয়াস ঘোড়ার গোপন দরজা খুলে বের হলেন।"
+      },
+      {
+        "en": "Unbarring the massive city gates for their returning army, the Greeks conquered the proud citadel, proving that cunning outmatches raw martial force.",
+        "bn": "শহরের মূল ফটক খুলে দিয়ে ফিরে আসা সেনাদের ভেতরে ঢুকিয়ে গ্রিকরা ট্রয় দখল করল—প্রমাণ হলো গায়ের শক্তির চেয়ে সূক্ষ্ম বুদ্ধি অনেক বড়।"
+      }
+    ]
+  },
+  {
+    "id": "classics-achilles-heel-wrath",
+    "title": "The Wrath of Achilles and the Vulnerable Heel",
+    "titleBn": "মহাবীর একিলিস ও দুর্বল গোড়ালি",
+    "author": "Homer (Iliad)",
+    "level": "Intermediate",
+    "category": "Classical Antiquity",
+    "coverEmoji": "🛡️",
+    "summary": "Dipped into the River Styx by his mother, Achilles grows into an invincible champion, vulnerable only in the tendon of his right heel.",
+    "summaryBn": "মৃত্যুর নদী স্টিএক্সে ডুবিয়ে শরীরকে বর্মের মতো অভেদ্য করা হলেও মায়ের হাতের মুঠোয় থাকা গোড়ালির দুর্বলতায় প্রাণ হারান বীর একিলিস।",
+    "sentences": [
+      {
+        "en": "When Achilles was an infant, his sea nymph mother Thetis carried him down to the underworld river Styx to render his flesh invulnerable to all mortal weapons.",
+        "bn": "একিলিস যখন দুধের শিশু ছিল, তার সাগরপরী মা থিটিস তাকে পাতালে মৃত্যুর নদী স্টিএক্সে ডুবিয়ে তার শরীরকে সব অস্ত্রের আঘাত থেকে অভেদ্য করে দিয়েছিলেন।"
+      },
+      {
+        "en": "Holding him firmly by his right heel as she plunged him into the sacred dark current, that small patch of tendon remained dry and unprotected.",
+        "bn": "ডুবিয়ে দেওয়ার সময় ডান পায়ের গোড়ালিটি মা শক্ত করে ধরে রেখেছিলেন বলে সেই সামান্য জায়গাটুকু শুকনা থেকে গিয়ে অসুরক্ষিত রয়ে গেল।"
+      },
+      {
+        "en": "Achilles grew into the greatest warrior of Greece, his golden armor striking terror across the battlefield as bronze swords broke harmlessly against his skin.",
+        "bn": "বড় হয়ে একিলিস গ্রিসের সর্বশ্রেষ্ঠ বীর হয়ে উঠলেন, যার সোনালী বর্মের সামনে তামার তলোয়ারগুলোও ধাক্কা খেয়ে কোনো আঁচড় না ফেলে ভেঙে যেত।"
+      },
+      {
+        "en": "When his beloved companion Patroclus was slain by Trojan Prince Hector, Achilles unleashed apocalyptic wrath, slaying Hector in single combat outside the gates.",
+        "bn": "যখন ট্রয়ের রাজকুমার হেক্টর তার প্রিয় বন্ধু প্যাট্রোক্লাসকে হত্যা করল, একিলিস রোষানলে ফেটে পড়ে ট্রয়ের ফটকের সামনে দ্বৈরথ যুদ্ধে হেক্টরকে বধ করলেন।"
+      },
+      {
+        "en": "Grieving King Priam walked into the Greek camp at midnight to kiss the hands that had killed his son, and Achilles wept with the old father, revealing his noble humanity.",
+        "bn": "পুত্রশোকে কাতর রাজা প্রিয়াম মধ্যরাতে গ্রিক শিবিরে এসে ছেলের হত্যাকারীর হাত চুম্বন করলেন; একিলিসও সেই বৃদ্ধ বাবার ব্যথায় কেঁদে নিজের মানবিক রূপ দেখালেন।"
+      },
+      {
+        "en": "Later in the siege, Trojan prince Paris notched a poisoned arrow and fired toward the charging warrior from the parapet above.",
+        "bn": "যুদ্ধের শেষ দিকে ট্রয়ের রাজকুমার প্যারিস ধনুকে এক বিষাক্ত তীর জুড়ে ওপরের প্রাচীর থেকে ছুটে আসা একিলিসকে লক্ষ্য করে ছুড়ল।"
+      },
+      {
+        "en": "Guided by the sun god Apollo, the shaft struck Achilles squarely in his unprotected heel, felling the invincible titan upon the dust of Troy.",
+        "bn": "সূর্যদেব অ্যাপোলোর ইশারায় তীরটি সোজা গিয়ে একিলিসের অরক্ষিত গোড়ালিতে বিঁধল এবং অপরাজেয় মহাবীর ট্রয়ের ধূলিমাটিতে লুটিয়ে পড়লেন।"
+      }
+    ]
+  },
+  {
+    "id": "classics-odysseus-cyclops-polyphemus",
+    "title": "Odysseus and Polyphemus the One-Eyed Giant",
+    "titleBn": "ওডিসিয়াস এবং একচোখা রাক্ষস পলিফিমাস",
+    "author": "Homer (Odyssey)",
+    "level": "Intermediate",
+    "category": "Classical Antiquity",
+    "coverEmoji": "👁️",
+    "summary": "Trapped inside a giant's cave blocked by a massive boulder, Odysseus tells the Cyclops his name is 'Nobody' before blinding him with an olive stake.",
+    "summaryBn": "বিশাল পাথরে বন্ধ গুহায় বন্দি হয়ে নিজের নাম 'কেউ না' বলে একচোখা রাক্ষসকে অন্ধ করে মেষের পেটে ঝুলে পালিয়ে জীবন বাঁচান ওডিসিয়াস।",
+    "sentences": [
+      {
+        "en": "Wandering home from the Trojan War, Odysseus and twelve sailors landed on a volcanic island and sought shelter inside a colossal sea cave.",
+        "bn": "ট্রয়ের যুদ্ধ শেষে দেশে ফেরার পথে ওডিসিয়াস ও তার বারোজন নাবিক এক নির্জন দ্বীপে নেমে সাগরের এক বিশালাকার গুহায় আশ্রয় নিল।"
+      },
+      {
+        "en": "The cave belonged to Polyphemus, a monstrous one-eyed Cyclops who rolled an immense boulder across the entrance, trapping the Greeks inside.",
+        "bn": "সেই গুহাটি ছিল পলিফিমাস নামের এক ভয়ংকর একচোখা দানবের, যে গুহার মুখে এক বিশাল পাথর গড়িয়ে দিয়ে গ্রিকদের ভেতরে বন্দি করে ফেলল।"
+      },
+      {
+        "en": "The brutal giant devoured several sailors for dinner, leaving the survivors shivering in terrified despair behind the sheep pens.",
+        "bn": "নিষ্ঠুর রাক্ষসটি রাতের খাবারে কয়েকজন নাবিককে চিবিয়ে খেয়ে ফেলল, আর বাকিরা ভেড়ার খোঁয়াড়ের আড়ালে ভয়ে কাঁপতে লাগল।"
+      },
+      {
+        "en": "Odysseus offered the giant unwatered, potent sweet wine; delighted by the drink, Polyphemus asked his guest's name, to which Odysseus replied: 'My name is Nobody.'",
+        "bn": "ওডিসিয়াস রাক্ষসকে কড়া মিষ্টি মদ পরিবেশন করলেন; নেশায় খুশি হয়ে রাক্ষস নাম জানতে চাইলে ওডিসিয়াস বললেন: 'আমার নাম কেউ না।'"
+      },
+      {
+        "en": "When the intoxicated brute fell into a drunken stupor, Odysseus and four men heated a sharpened olive wood stake in the fire and plunged it into the monster's single eye.",
+        "bn": "দানবটি মদের ঘোরে নাক ডেকে ঘুমিয়ে পড়তেই ওডিসিয়াস জ্বলন্ত আগুনের মাঝে জলপাই কাঠের খুঁটি গরম করে রাক্ষসের একমাত্র চোখে ঢুকিয়ে দিলেন।"
+      },
+      {
+        "en": "The blinded Cyclops shrieked in agony, but when other giants ran to the cave asking who was hurting him, Polyphemus wailed: 'Nobody is killing me!' so they ignored him.",
+        "bn": "অন্ধ রাক্ষস যন্ত্রণায় চিৎকার করলে অন্য রাক্ষসরা এসে জানতে চাইল কে মারছে; পলিফিমাস কেঁদে বলল: 'কেউ না আমাকে মারছে!' শুনে সবাই তাকে পাগল ভেবে চলে গেল।"
+      },
+      {
+        "en": "At dawn, Odysseus and his surviving men tied themselves beneath the fleecy bellies of the giant's rams, riding safely out past the blind giant's groping hands.",
+        "bn": "ভোরে ওডিসিয়াস ও তার সঙ্গীরা রাক্ষসের বড় বড় ভেড়ার পেটের লোম জড়িয়ে ধরে নিচে ঝুলে অন্ধ দানবের হাত ফসকে বাইরে বেরিয়ে নিরাপদে জাহাজে ফিরল।"
+      }
+    ]
+  },
+  {
+    "id": "classics-odysseus-sirens-song",
+    "title": "Odysseus and the Enchanting Song of the Sirens",
+    "titleBn": "ওডিসিয়াস ও সাইরেনদের মায়াবী সুরের মোহ",
+    "author": "Homer (Odyssey)",
+    "level": "Intermediate",
+    "category": "Classical Antiquity",
+    "coverEmoji": "🌊",
+    "summary": "To hear the forbidden, fatal song of the Sirens without crashing upon jagged reefs, Odysseus has himself bound fast to the ship's mast.",
+    "summaryBn": "পাথরে জাহাজডুবি না ঘটিয়ে মায়াবী জলপরীদের সুর শোনার জন্য নাবিকদের কানে মোম দিয়ে নিজেকে জাহাজের মাস্তুলে শক্ত করে বাঁধেন ওডিসিয়াস।",
+    "sentences": [
+      {
+        "en": "The sorceress Circe warned Odysseus that his voyage would take his ship past the meadow of the Sirens, whose celestial voices enchanted all passing sailors to their doom.",
+        "bn": "জাদুকরী সার্সি ওডিসিয়াসকে সাবধান করেছিল তার জাহাজকে সাইরেনদের দ্বীপ পার হতে হবে, যাদের মায়াবী কণ্ঠের সুরে মুগ্ধ হয়ে নাবিকরা পাহাড়ে জাহাজ আছড়ে মরত।"
+      },
+      {
+        "en": "Surrounding their rocky island lay the bleached bones and rotting skins of hundreds of mariners who had leaped overboard to reach the singers.",
+        "bn": "তাদের পাথুরে দ্বীপের চারপাশে শত শত পথভ্রষ্ট নাবিকের সাদা হাড় আর গলিত চামড়ার স্তূপ ছড়িয়ে ছিল যারা গান শুনে সাগরে ঝাঁপ দিয়েছিল।"
+      },
+      {
+        "en": "Determined to experience the divine song without perishing, Odysseus kneaded a cake of beeswax into soft plugs and sealed the ears of every oarsman on his crew.",
+        "bn": "প্রাণ না দিয়ে সেই স্বর্গীয় সুর শোনার সংকল্প করে ওডিসিয়াস মৌচাকের মোম চিবিয়ে নরম করে নিজের সব নাবিকের কানে গুঁজে দিলেন যাতে কেউ কিছু না শোনে।"
+      },
+      {
+        "en": "He commanded his men to bind his own arms and legs tightly to the wooden mast with thick hemp ropes, ordering them not to untie him no matter how fiercely he pleaded.",
+        "bn": "তিনি সৈন্যদের আদেশ দিলেন তাকে শক্ত দড়ি দিয়ে জাহাজের কাঠের মাস্তুলে শক্ত করে বেঁধে রাখতে, এবং তিনি যতই কাকুতি-মিনতি করুন না কেন তাকে যেন না খোলা হয়।"
+      },
+      {
+        "en": "As their oars broke the calm water, the Sirens' ethereal harmonies floated across the swell, singing of secret wisdom and the heroic glories of Troy.",
+        "bn": "শান্ত পানিতে বৈঠা পড়তে পড়তে সাইরেনদের সেই স্বর্গীয় সুর ভেসে এলো, ট্রয়ের বীরত্ব আর মহাবিশ্বের সমস্ত গোপন জ্ঞানের প্রলোভন শুনিয়ে।"
+      },
+      {
+        "en": "Mad with longing, Odysseus strained violently against his cords, contorting his face and shouting at his men to turn the ship toward the rocks.",
+        "bn": "তীব্র মোহে পাগল হয়ে ওডিসিয়াস দড়ি ছেঁড়ার জন্য ছটফট করতে লাগলেন এবং চিৎকার করে নাবিকদের জাহাজের মুখ পাথরের দিকে ঘোরাতে হুকুম দিতে লাগলেন।"
+      },
+      {
+        "en": "Faithful sailors Perimedes and Eurylochus stepped forward and bound him with even tighter knots until the island faded beyond the horizon, escaping with life and wisdom.",
+        "bn": "তার বিশ্বস্ত দুই নাবিক শান্তভাবে এগিয়ে এসে দড়ির গিঁট আরও শক্ত করে দিল, যতক্ষণ না দ্বীপটি দিগন্তে মিলিয়ে গেল—এভাবেই জীবন ও প্রজ্ঞা নিয়ে তারা বেঁচে ফিরলেন।"
+      }
+    ]
+  },
+  {
+    "id": "classics-battle-of-marathon-runner",
+    "title": "Pheidippides and the Run from Marathon to Athens",
+    "titleBn": "ম্যারাথন যুদ্ধ ও ফিডিপাইডিসের শেষ দৌড়",
+    "author": "Ancient Greek History",
+    "level": "Intermediate",
+    "category": "Classical Antiquity",
+    "coverEmoji": "🏃",
+    "summary": "Following Greece's shocking victory against the Persian Empire at Marathon, a herald runs twenty-six miles without stopping to deliver the news of victory.",
+    "summaryBn": "পারস্য বাহিনীর বিরুদ্ধে ঐতিহাসিক বিজয়ের খবর অ্যাথেন্সবাসীকে জানাতে ছাব্বিশ মাইল বিরতিহীন দৌড়ে 'আমরা জিতেছি' বলে শেষ নিঃশ্বাস ছাড়েন দূত ফিডিপাইডিস।",
+    "sentences": [
+      {
+        "en": "In 490 BC, a colossal Persian invasion fleet commanded by King Darius landed on the plains of Marathon, intending to burn Athens to the ground.",
+        "bn": "খ্রিস্টপূর্ব ৪৯০ অব্দে রাজা দারিয়ুসের পাঠানো এক বিশাল পারস্যের আক্রমণকারী নৌবহর ম্যারাথনের বালুকাবেলায় নামল অ্যাথেন্সকে জ্বালিয়ে দেওয়ার উদ্দেশ্যে।"
+      },
+      {
+        "en": "Outnumbered three to one, the Athenian general Miltiades ordered his citizen-soldiers to charge at a dead run across the open plain into the Persian archers.",
+        "bn": "তিন গুণ বড় সৈন্যবাহিনীর সামনে দাঁড়িয়ে অ্যাথেন্সের সেনাপতি মিলতিয়াদেস তার বাহিনীকে পুরো গতিতে দৌড়ে পারস্যের তীরন্দাজদের ওপর ঝাঁপিয়ে পড়ার নির্দেশ দিলেন।"
+      },
+      {
+        "en": "In a stunning clash of bronze armor, the Greek hoplites encircled the imperial lines, crushing the Persian forces and driving survivors into their ships.",
+        "bn": "ব্রোঞ্জের বর্মের প্রচণ্ড ধাক্কায় গ্রিক পদাতিকরা শত্রুদের ঘিরে ফেলল এবং পারস্য বাহিনীকে বিধ্বস্ত করে তাদের জাহাজে পালাতে বাধ্য করল।"
+      },
+      {
+        "en": "Fearing that the Persian fleet would sail directly around Cape Sounion to take the defenseless city of Athens, an urgent message of victory had to be delivered immediately.",
+        "bn": "ভয় ছিল পারস্য বহর ঘুরে গিয়ে অরক্ষিত অ্যাথেন্স শহর দখল করতে পারে, তাই বিজয়ের বার্তা শহরে অবিলম্বে পৌঁছানো ছিল অত্যন্ত জরুরি।"
+      },
+      {
+        "en": "A legendary courier named Pheidippides, who had already run one hundred and fifty miles to Sparta days earlier, volunteered for the sprint.",
+        "bn": "ফিডিপাইডিস নামের এক বিখ্যাত দৌড়বিদ, যে মাত্র কয়েক দিন আগেই স্পার্টায় দেড়শো মাইল দৌড়েছিল, সে এই জরুরি দায়িত্ব কাঁধে তুলে নিল।"
+      },
+      {
+        "en": "He ran twenty-six miles across rugged, sun-scorched rocky hills without pausing to drink or catch his breath, propelled by patriotic devotion.",
+        "bn": "কোনো পানি না খেয়ে বা এক মুহূর্তের জন্য না থেমে সে পাথুরে পাহাড়ি খাঁজ পেরিয়ে টানা ছাব্বিশ মাইল দৌড়াল দেশের ভালোবাসায় অন্ধ হয়ে।"
+      },
+      {
+        "en": "Bursting into the Athenian marketplace, he gasped: 'Joy to you, we have won!' and collapsed dead on the stones, immortalizing the athletic marathon forever.",
+        "bn": "অ্যাথেন্সের বাজারে ঢুকেই সে হাঁপাতে হাঁপাতে বলল: 'আনন্দ করো, আমরা জিতেছি!' এবং মেঝের পাথরে মৃত্যুর কোলে ঢলে পড়ে ম্যারাথন দৌড়কে অমর করে দিয়ে গেল।"
+      }
+    ]
+  },
+  {
+    "id": "classics-spartan-three-hundred-thermopylae",
+    "title": "King Leonidas and the Three Hundred Spartans at Thermopylae",
+    "titleBn": "রাজা লিওনিডাস ও থার্মোপিলির তিনশত স্পার্টান",
+    "author": "Herodotus & Ancient History",
+    "level": "Intermediate",
+    "category": "Classical Antiquity",
+    "coverEmoji": "⚔️",
+    "summary": "King Leonidas and his royal bodyguard hold the narrow Hot Gates against Xerxes's millions, proving that free men can face insurmountable odds with glory.",
+    "summaryBn": "পারস্যের সম্রাট জার্ক্সিসের লাখ লাখ সৈন্যের সামনে খাড়া পাহাড়ের সরু গিরিপথে মাত্র তিনশো যোদ্ধা নিয়ে মাতৃভূমির জন্য আত্মাহুতি দেন রাজা লিওনিডাস।",
+    "sentences": [
+      {
+        "en": "In 480 BC, Persian Emperor Xerxes invaded Greece with an overwhelming army numbering over two million warriors, demanding earth and water as symbols of submission.",
+        "bn": "খ্রিস্টপূর্ব ৪৮০ অব্দে পারস্য সম্রাট জার্ক্সিস বিশ লাখেরও বেশি সেনার এক দানবাকৃতির বহর নিয়ে গ্রিস আক্রমণ করে দাসত্বের বশ্যতা দাবি করলেন।"
+      },
+      {
+        "en": "King Leonidas of Sparta marched north with only three hundred veteran royal bodyguards to hold the narrow coastal pass of Thermopylae, the 'Hot Gates.'",
+        "bn": "স্পার্টার রাজা লিওনিডাস মাত্র তিনশো অভিজ্ঞ দেহরক্ষী যোদ্ধা নিয়ে থার্মোপিলির সরু গিরিপথ বা 'উষ্ণ তোরণ' আটকে দাঁড়াতে এগিয়ে গেলেন।"
+      },
+      {
+        "en": "When a Persian envoy warned that their archers' arrows were so numerous they would blot out the sunlight, Spartan warrior Dienekes famously laughed: 'Good! Then we shall fight in the shade!'",
+        "bn": "পারস্য দূত যখন দম্ভ করে বলল তাদের তীরের সংখ্যা এত বেশি যে সূর্যের আলো ঢেকে যাবে, স্পার্টান বীর ডায়েনিসিস হেসে বললেন: 'দারুণ! তবে তো ছায়াতেই যুদ্ধ করা যাবে!'"
+      },
+      {
+        "en": "When Xerxes demanded they surrender their weapons, Leonidas shouted his immortal challenge: 'Molon labe!'—meaning, 'Come and take them!'",
+        "bn": "জার্ক্সিস যখন তাদের অস্ত্র সমর্পণের হুকুম দিলেন, লিওনিডাস গর্জে উঠে তার বিখ্যাত কথাটি বললেন: 'মোলন লাবে!'—যার অর্থ, 'সাহস থাকে তো এসে নিয়ে যাও!'"
+      },
+      {
+        "en": "For two days, the locked wall of heavy Spartan bronze shields repelled wave after wave of elite Persian Immortals with devastating butcher efficiency.",
+        "bn": "টানা দুই দিন ব্রোঞ্জের ভারী ঢালের প্রাচীর গড়ে স্পার্টানরা পারস্যের সেরা 'অমর বাহিনী'র আক্রমণকে বারবার ধূলিসাৎ করে দিল।"
+      },
+      {
+        "en": "When a Greek traitor named Ephialtes led enemy troops along a secret mountain goat trail to encircle them from behind, Leonidas sent his allies away and stood his ground.",
+        "bn": "এফিয়াল্টেস নামের এক গ্রিক বিশ্বাসঘাতক পাহাড়ের গোপন পথ দেখিয়ে শত্রুদের পেছনে এনে দাঁড় করালে লিওনিডাস মিত্রদের ফিরিয়ে দিয়ে নিজে দাঁড়িয়ে রইলেন।"
+      },
+      {
+        "en": "Every Spartan perished fighting with broken spears, swords, and bare teeth, purchasing precious time for Greece to unite and preserve the flame of Western democracy.",
+        "bn": "প্রতিটি স্পার্টান বীর শেষ রক্তবিন্দু দিয়ে লড়াই করে প্রাণ বিসর্জন দিল এবং গ্রিসকে ঐক্যবদ্ধ হয়ে গণতন্ত্রের আলো বাঁচানোর অমূল্য সময় উপহার দিল।"
+      }
+    ]
+  },
+  {
+    "id": "classics-julius-caesar-crossing-rubicon",
+    "title": "Julius Caesar: 'The Die is Cast' at the Rubicon",
+    "titleBn": "জুলিয়াস সিজার ও রুবিকন নদী পারের সিদ্ধান্ত",
+    "author": "Roman History",
+    "level": "Intermediate",
+    "category": "Classical Antiquity",
+    "coverEmoji": "🏛️",
+    "summary": "Standing on the banks of a shallow northern Italian river, Julius Caesar makes an irrevocable decision that topples the Roman Republic.",
+    "summaryBn": "'তীর নিক্ষেপ করা হয়ে গেছে' বলে রুবিকন নদী পার হয়ে রোমান সিনেটের বিরুদ্ধে যুদ্ধ ঘোষণা করে রোমান সাম্রাজ্যের নতুন অধ্যায় লেখেন জুলিয়াস সিজার।",
+    "sentences": [
+      {
+        "en": "In January 49 BC, Julius Caesar sat upon his warhorse on the northern bank of the shallow Rubicon River, the legal boundary between his province and Italy.",
+        "bn": "খ্রিস্টপূর্ব ৪৯ অব্দের জানুয়ারিতে জুলিয়াস সিজার ঘোড়ার পিঠে বসে রুবিকন নদীর পাড়ে দাঁড়ালেন, যা ছিল তার প্রদেশ ও মূল ইতালির মধ্যকার সরকারি সীমানা।"
+      },
+      {
+        "en": "Under Roman law, any general who crossed the river with an armed legion without Senate permission was declared a public enemy and condemned to death.",
+        "bn": "রোমান আইন অনুযায়ী সিনেটের অনুমতি ছাড়া কোনো সেনাপতি সৈন্য নিয়ে এই নদী পার হলে তাকে রাষ্ট্রদ্রোহী হিসেবে মৃত্যুদণ্ড দেওয়া হতো।"
+      },
+      {
+        "en": "Corrupt politicians in the Senate, led by his rival Pompey the Great, had ordered Caesar to disband his armies and return to Rome as a defenseless private citizen to face prosecution.",
+        "bn": "তার প্রতিদ্বন্দ্বী পম্পের নেতৃত্বে সিনেট সিজারকে সেনাবাহিনী ভেঙে দিয়ে একা সাধারণ নাগরিক হয়ে আদালতে বিচারের মুখোমুখি হওয়ার হুকুম দিয়েছিল।"
+      },
+      {
+        "en": "For hours, Caesar sat in brooding contemplation, understanding that turning back meant personal ruin, while advancing meant plunging Rome into bloody civil war.",
+        "bn": "ঘণ্টার পর ঘণ্টা সিজার গভীর চিন্তায় মগ্ন হয়ে বসে রইলেন; তিনি বুঝলেন পেছনে ফেরা মানে নিজের ধ্বংস, আর সামনে এগোনো মানে গৃহযুদ্ধের দাবানল।"
+      },
+      {
+        "en": "Looking at his devoted veterans of the Thirteenth Legion, Caesar turned his horse toward the water and proclaimed in Latin: 'Alea iacta est!'—'The die is cast!'",
+        "bn": "নিজের ত্রয়োদশ বাহিনীর বিশ্বস্ত যোদ্ধাদের দিকে তাকিয়ে সিজার নদীর পানিতে ঘোড়া নামালেন এবং ল্যাটিনে ঘোষণা করলেন: 'দ্য ডাই ইজ কাস্ট—তীর নিক্ষেপ করা হয়ে গেছে!'"
+      },
+      {
+        "en": "Plunging through the cold current, the legion marched straight toward Rome; Pompey and the senators panicked and evacuated the capital in disarray.",
+        "bn": "কনকনে নদীর স্রোত পার হয়ে সৈন্যরা সোজা রোমের দিকে এগিয়ে গেল; পম্পে ও সিনেটররা আতঙ্কে রাজধানী ফেলে পালিয়ে গেল।"
+      },
+      {
+        "en": "Crossing the Rubicon shattered the ancient Roman Republic forever, paving the path for the birth of the mighty Roman Empire.",
+        "bn": "রুবিকন নদী পারের সেই অবিচল সিদ্ধান্ত পুরনো রোমান প্রজাতন্ত্রকে চূর্ণ করে পরাক্রমশালী রোমান সাম্রাজ্যের উত্থানের পথ সুগম করেছিল।"
+      }
+    ]
+  },
+  {
+    "id": "classics-cleopatra-asp-and-crown",
+    "title": "Cleopatra: The Last Queen of the Nile",
+    "titleBn": "ক্লিওপেট্রা: নীল নদের শেষ রানি ও আত্মমর্যাদা",
+    "author": "Hellenistic History",
+    "level": "Intermediate",
+    "category": "Classical Antiquity",
+    "coverEmoji": "👑",
+    "summary": "Rather than being paraded through Rome in iron chains by triumphant Octavian, Queen Cleopatra dons her royal diadems and embraces the asp.",
+    "summaryBn": "বিজয়ীদের শিকল পরে রোমের রাজপথে বন্দিনী হয়ে অপমানের চেয়ে নিজের মুকুট ও রাজকীয় পোশাকে বিষধর সাপের কামড়ে মৃত্যুকে বরণ করেন ক্লিওপেট্রা।",
+    "sentences": [
+      {
+        "en": "Cleopatra VII Philopator was the brilliant, multilingual ruler of Egypt whose political genius preserved Ptolemaic independence against the overwhelming might of Rome.",
+        "bn": "সপ্তম ক্লিওপেট্রা ছিলেন বহুভাষাবিদ ও অসাধারণ কূটনীতিবিদ মিশরীয় রানি, যার প্রজ্ঞায় রোমের দানবাকৃতির শক্তির বিরুদ্ধেও মিশরের স্বাধীনতা টিকে ছিল।"
+      },
+      {
+        "en": "Following the naval defeat at Actium and the death of her lover Mark Antony, victorious Roman general Octavian captured the city of Alexandria.",
+        "bn": "অ্যাক্টিয়ামের নৌযুদ্ধে পরাজয় আর প্রিয়তম মার্ক অ্যান্টনির মৃত্যুর পর রোমান সেনাপতি অক্টাভিয়ান আলেকজান্দ্রিয়া নগরী দখল করে নিল।"
+      },
+      {
+        "en": "Octavian intended to preserve Cleopatra alive merely to drag her in iron chains behind his chariot through the streets of Rome as a trophy of conquest.",
+        "bn": "অক্টাভিয়ানের উদ্দেশ্য ছিল ক্লিওপেট্রাকে জীবিত বন্দি করে শিকল পরিয়ে রোমের রাস্তায় বিজয়ের ট্রফি হিসেবে জনসমক্ষে প্রদর্শন করে অপমান করা।"
+      },
+      {
+        "en": "Determined never to suffer imperial humiliation, the thirty-nine-year-old queen retired to her mausoleum and bathed in fragrant jasmine oils.",
+        "bn": "দাসত্বের অপমান সহ্য করতে অস্বীকার করে উনচল্লিশ বছর বয়সী রানি নিজের সমাধিতে গিয়ে সুগন্ধি জুঁই তেলে স্নান করলেন।"
+      },
+      {
+        "en": "She dressed in her most dazzling royal regalia of woven gold silk, wearing the sacred crown of Isis and holding her golden scepter.",
+        "bn": "তিনি খাঁটি সোনার সুতোয় বোনা রাজকীয় রেশমি পোশাক পরলেন, মাথায় দেবীর মুকুট চড়ালেন এবং হাতে রাজদণ্ড তুলে নিলেন।"
+      },
+      {
+        "en": "A loyal peasant smuggled a venomous Egyptian asp concealed beneath ripe green figs inside a rustic wicker fruit basket.",
+        "bn": "এক বিশ্বস্ত কৃষক মিষ্টি ডুমুর ফলের ঝুড়ির নিচে লুকিয়ে এক মারাত্মক বিষধর মিশরীয় গোখরো সাপ রানির কাছে পৌঁছে দিল।"
+      },
+      {
+        "en": "Applying the serpent to her breast, Cleopatra passed away serenely on her golden couch, dying as she had lived—an unconquered sovereign queen.",
+        "bn": "বুকে সাপটিকে তুলে নিয়ে ক্লিওপেট্রা সোনার পালঙ্কে শুয়ে শান্তভাবে শেষ নিঃশ্বাস ত্যাগ করলেন—জীবন দিলেন একজন অপরাজেয় স্বাধীন রানি হিসেবে।"
+      }
+    ]
+  },
+  {
+    "id": "classics-hannibal-alps-elephants",
+    "title": "Hannibal Barca and the War Elephants Crossing the Alps",
+    "titleBn": "হানিবাল বার্কা ও আল্পস পর্বতে হাতির পদযাত্রা",
+    "author": "Carthage vs Rome",
+    "level": "Intermediate",
+    "category": "Classical Antiquity",
+    "coverEmoji": "🐘",
+    "summary": "Carthaginian general Hannibal Barca marches thirty-seven African war elephants across treacherous glaciers of the Alps to strike Rome's heartland.",
+    "summaryBn": "বরফাবৃত দুর্গম আল্পস পর্বতমালার খাড়া পিচ্ছিল বরফ ভেঙে সাঁইত্রিশটি যুদ্ধহাতি নিয়ে রোমের আঙিনায় হাজির হয়ে বিশ্ব কাঁপিয়ে দেন হানিবাল।",
+    "sentences": [
+      {
+        "en": "In 218 BC, during the Second Punic War, Carthaginian commander Hannibal Barca conceived a military campaign considered completely impossible in antiquity.",
+        "bn": "খ্রিস্টপূর্ব ২১৮ অব্দে দ্বিতীয় পিউনিক যুদ্ধের সময় কার্থেজের প্রধান সেনাপতি হানিবাল বার্কা এমন এক যুদ্ধযাত্রার পরিকল্পনা করলেন যা প্রাচীনকালে অসম্ভব ভাবা হতো।"
+      },
+      {
+        "en": "Instead of crossing the Mediterranean where Roman naval galleys patrolled, Hannibal led an army of fifty thousand soldiers and thirty-seven African war elephants across Spain and Gaul.",
+        "bn": "রোমান নৌবহরের পাহারা দেওয়া সমুদ্রপথ এড়িয়ে হানিবাল পঞ্চাশ হাজার পদাতিক আর সাঁইত্রিশটি যুদ্ধহাতি নিয়ে স্পেন ও গল পার হলেন।"
+      },
+      {
+        "en": "Standing before the towering, snow-capped barrier of the Alps in late autumn, even his veteran Iberian mercenaries hesitated in dread.",
+        "bn": "শরতের শেষে বরফে ঢাকা আকাশছোঁয়া আল্পস পর্বতের সামনে দাঁড়িয়ে তার অভিজ্ঞ জাঁদরেল সৈন্যরাও ভয়ে থমকে দাঁড়িয়েছিল।"
+      },
+      {
+        "en": "Hannibal proclaimed his legendary motto: 'We will either find a way, or we will make one!' and marched fearlessly into the blizzards.",
+        "bn": "হানিবাল তার সেই ঐতিহাসিক বাণী উচ্চারণ করলেন: 'আমরা হয় পথ খুঁজে নেব, নয়তো নতুন পথ বানিয়ে নেব!' এবং তুষারঝড়ের মাঝে পা বাড়ালেন।"
+      },
+      {
+        "en": "They traversed narrow icy ledges where pack animals plummeted thousands of feet into freezing gorges, surviving ambushes by hostile mountain tribes.",
+        "bn": "সরু পিচ্ছিল বরফের পথ বেয়ে চলার সময় শত শত ঘোড়া আর রসদ গভীর গিরিখাতে পড়ে তলিয়ে গেল, আর পাহাড়ি আদিবাসীদের আক্রমণও সামলাতে হলো।"
+      },
+      {
+        "en": "To clear massive rockfalls blocking the route, Hannibal ordered his men to build roaring bonfires over the boulders, then douse the heated stone with sour wine to crack it apart.",
+        "bn": "পথ আটকে দেওয়া বিশাল পাথর ভাঙতে হানিবাল পাথরের ওপর আগুন জ্বালিয়ে তারপর টক ভিনেগার ঢেলে গরম পাথর ফাটিয়ে পথ তৈরি করালেন।"
+      },
+      {
+        "en": "Descending into the Po Valley after fifteen harrowing days, Hannibal struck panic across the Roman Republic, entering military history as an absolute tactical genius.",
+        "bn": "পনেরো দিনের রক্ত জল করা অভিযানের পর ইতালির উর্বর উপত্যকায় নেমে হানিবাল রোম সাম্রাজ্যের বুকে কাঁপন ধরিয়ে দিলেন এক অনন্য রণকৌশলী হিসেবে।"
+      }
+    ]
+  },
+  {
+    "id": "classics-spartacus-rebellion-gladiator",
+    "title": "Spartacus and the Gladiator Rebellion of Mount Vesuvius",
+    "titleBn": "স্পার্টাকাস ও ভিসুভিয়াসের দাস বিদ্রোহ",
+    "author": "Roman History",
+    "level": "Intermediate",
+    "category": "Classical Antiquity",
+    "coverEmoji": "🗡️",
+    "summary": "Escaping a gladiatorial school in Capua with kitchen cleavers, Spartacus weaves wild vine ropes down Vesuvius to shatter Roman legions.",
+    "summaryBn": "রান্নাঘরের বঁটি নিয়ে পালিয়ে আঙ্গুরলতার দড়ি দিয়ে আগ্নেয়গিরির খাড়া খাদ বেয়ে নেমে রোমান সৈন্যদের পরাস্ত করে মুক্তিকামী দাসদের নেতা হন স্পার্টাকাস।",
+    "sentences": [
+      {
+        "en": "In 73 BC, seventy-eight gladiators enslaved at the fighting academy of Lentulus Batiatus in Capua revolted, arming themselves with iron kitchen spits and meat cleavers.",
+        "bn": "খ্রিস্টপূর্ব ৭৩ অব্দে কাপুয়ার এক গ্ল্যাডিয়েটর স্কুলের আটাশিজন বন্দি দাস রান্নাঘরের লোহার শিক আর বঁটি নিয়ে বিদ্রোহ ঘোষণা করল।"
+      },
+      {
+        "en": "Led by the brilliant Thracian warrior Spartacus, the fugitives defeated local militias and established a fortified camp within the crater of Mount Vesuvius.",
+        "bn": "থ্রেসিয়ান বীর স্পার্টাকাসের নেতৃত্বে তারা রোমান রক্ষীদের পরাস্ত করে ঘুমন্ত ভিসুভিয়াস আগ্নেয়গিরির জ্বালামুখের ওপর এক শক্ত ঘাঁটি বানাল।"
+      },
+      {
+        "en": "A Roman praetor surrounded the mountain's only path with three thousand legionaries, assuming the rebels would be starved into unconditional surrender.",
+        "bn": "এক রোমান সেনাপতি তিন হাজার সৈন্য নিয়ে পাহাড়ে ওঠার একমাত্র পথটি বন্ধ করে দিল, ভেবেছিল অনাহারে বিদ্রোহীরা আত্মসমর্পণ করতে বাধ্য হবে।"
+      },
+      {
+        "en": "Spartacus ordered his men to weave strong, flexible climbing ladders from the thick wild grapevines growing profusely along the caldera's cliffs.",
+        "bn": "স্পার্টাকাস তার সঙ্গীদের নির্দেশ দিলেন আগ্নেয়গিরির খাদের গায়ে গজানো বুনো আঙ্গুরলতা পেঁচিয়ে মজবুত ও লম্বা ঝুলন্ত মই তৈরি করতে।"
+      },
+      {
+        "en": "Under cover of darkness, the gladiators climbed down the sheer volcanic precipice, circling around to assault the sleeping Roman camp from the rear.",
+        "bn": "রাতের অন্ধকারে খাড়া পাহাড়ি দেয়াল বেয়ে লতার মই দিয়ে নেমে গ্ল্যাডিয়েটররা নিঃশব্দে ঘুরে গিয়ে ঘুমন্ত রোমান শিবিরের পেছনের দিক থেকে অতর্কিত আক্রমণ করল।"
+      },
+      {
+        "en": "The Roman forces broke in hysterical panic; word spread like wildfire, and over one hundred thousand escaped slaves rallied to Spartacus's banner.",
+        "bn": "রোমান বাহিনী দিগ্বিদিক জ্ঞান হারিয়ে পালাল; এই খবর দাবানলের মতো ছড়িয়ে পড়ে এক লাখেরও বেশি মুক্তিকামী দাস স্পার্টাকাসের পতাকাতলে এসে জড়ো হলো।"
+      },
+      {
+        "en": "For two years, Spartacus outmaneuvered consular armies, proving that the human yearning for liberty is an unquenchable fire no empire can snuff out.",
+        "bn": "টানা দুই বছর রোমের বাঘা বাঘা সেনাপতিকে নাকানিচুবানি খাইয়ে স্পার্টাকাস প্রমাণ করেছিলেন স্বাধীনতার আদিম আকাঙ্ক্ষাকে কোনো সাম্রাজ্যই শেকল পরাতে পারে না।"
+      }
+    ]
+  },
+  {
+    "id": "classics-cato-the-elder-incorruptible",
+    "title": "Cato the Elder: The Stoic Censor of Roman Simplicity",
+    "titleBn": "কাতো দ্য এল্ডার: রোমান সততা ও সাদামাটা জীবন",
+    "author": "Roman History",
+    "level": "Intermediate",
+    "category": "Classical Antiquity",
+    "coverEmoji": "🏛️",
+    "summary": "Marcus Porcius Cato rejects corrupt luxury to till his own rocky soil, becoming the incorruptible conscience of the early Roman Republic.",
+    "summaryBn": "সিনেটের বিত্তবৈভব ত্যাগ করে নিজ হাতে জমি চাষ করা এবং অপচয় ও দুর্নীতির বিরুদ্ধে আমৃত্যু লড়াই করা রোমান মহাপুরুষ কাতো।",
+    "sentences": [
+      {
+        "en": "As Rome expanded into an empire overflowing with Greek luxuries, Persian perfumes, and golden palaces, Marcus Porcius Cato chose to live like an austere peasant.",
+        "bn": "রোম যখন দিগ্বিজয়ী সাম্রাজ্য হয়ে গ্রিক বিলাসিতা, সুগন্ধি আর সোনার প্রাসাদে ভেসে যাচ্ছিল, তখন মার্কাস পোরসিয়াস কাতো এক সাধারণ কৃষকের মতো জীবন বেছে নিলেন।"
+      },
+      {
+        "en": "Despite serving as a celebrated military commander and high consul, Cato labored in the fields alongside his slaves, stripped to the waist under the hot sun.",
+        "bn": "সেনাপতি ও কনসালের মতো সর্বোচ্চ পদে থেকেও কাতো প্রখর রোদে খালি গায়ে নিজের জমিতে সাধারণ দাসদের পাশে দাঁড়িয়ে কোদাল চালাতেন।"
+      },
+      {
+        "en": "He ate plain porridge from wooden bowls, wore coarse woolen cloaks in winter, and drank only cool spring water mixed with sour vinegar.",
+        "bn": "তিনি কাঠের বাটিতে সাধারণ জাউভাত খেতেন, শীতে মোটা উলের চাদর জড়াতেন আর কূপের ঠান্ডা পানিতে সামান্য ভিনেগার মিশিয়ে পান করতেন।"
+      },
+      {
+        "en": "Elected as Censor of Rome, Cato waged an unrelenting crusade against moral corruption, taxing luxury carriages, gold necklaces, and private banquet extravagance.",
+        "bn": "রোমের 'সেন্সর' বা নীতিনির্ধারক নির্বাচিত হয়ে কাতো দুর্নীতির বিরুদ্ধে যুদ্ধ ঘোষণা করলেন—বিলাসবহুল রথ, সোনার গয়না আর অপচয়ী ভোজসভার ওপর কড়া কর বসালেন।"
+      },
+      {
+        "en": "He expelled corrupt senators from office regardless of their aristocratic pedigree, declaring that civic duty requires clean hands and honest bread.",
+        "bn": "অভিজাত পরিবারের হলেও দুর্নীতিগ্রস্ত সিনেটরদের তিনি দরবার থেকে ঘাড় ধাক্কা দিয়ে বের করে দিলেন, বললেন দায়িত্ব পালনে খাঁটি সততা অপরিহার্য।"
+      },
+      {
+        "en": "When asked why no statue had been erected in his honor while lesser men had dozens, Cato replied: 'I would rather men ask why there is no statue of Cato than ask why there is one.'",
+        "bn": "তার কোনো মূর্তি নেই কেন জানতে চাইলে কাতো বলতেন: 'আমার মূর্তি কেন নেই এটা লোকে জিজ্ঞাসা করুক, কিন্তু একটা অপদার্থের মূর্তি এখানে কেন—এটা যেন কাউকে জিজ্ঞাসা করতে না হয়।'"
+      },
+      {
+        "en": "Cato the Elder remains the timeless embodiment of Roman integrity, reminding history that simple virtue outlasts empires of glittering gold.",
+        "bn": "সততা ও সাদাসিধে জীবনের চিরন্তন প্রতীক হয়ে থাকা কাতো ইতিহাসকে মনে করিয়ে দিয়েছেন যে চাকচিক্যের চেয়ে খাঁটি চরিত্রের মূল্য অনেক বেশি।"
+      }
+    ]
+  },
+  {
+    "id": "classics-gordian-knot-alexander",
+    "title": "Alexander the Great and the Untangled Gordian Knot",
+    "titleBn": "আলেকজান্ডার ও গর্ডিয়ান নট: জটিলতার সহজ সমাধান",
+    "author": "Hellenistic Lore",
+    "level": "Intermediate",
+    "category": "Classical Antiquity",
+    "coverEmoji": "⚔️",
+    "summary": "Confronted by an impossibly tangled rope of cornel-bark whose untying promises rule over all Asia, young Alexander draws his sword.",
+    "summaryBn": "যে জটিল গিঁট খুলতে পারলে পুরো এশিয়ার অধিপতি হওয়া যাবে—সেই শতাব্দীর পুরনো গর্ডিয়ান নট তলোয়ারের এক কোপে কেটে ইতিহাস গড়েন আলেকজান্ডার।",
+    "sentences": [
+      {
+        "en": "In 333 BC, twenty-three-year-old Macedonian king Alexander marched his victorious army into the ancient Phrygian capital of Gordium.",
+        "bn": "খ্রিস্টপূর্ব ৩৩৩ অব্দে তেইশ বছর বয়সী ম্যাসিডোনিয়ান রাজা আলেকজান্ডার তার বিজয়ী সৈন্যবাহিনী নিয়ে প্রাচীন ফ্রিজিয়ার রাজধানী গর্ডিয়ামে ঢুকলেন।"
+      },
+      {
+        "en": "In the temple of Zeus stood an ancient wooden ox cart dedicated by King Gordias, fastened to an altar by an immensely intricate knot of cornel-bark rope.",
+        "bn": "জিউসের মন্দিরে রাজা গর্ডিয়াসের এক প্রাচীন কাঠের রথ রাখা ছিল, যা শক্ত গাছের বাকলের এক অত্যন্ত জটিল ধাঁধাময় গিঁট দিয়ে বেদীর সাথে বাঁধা ছিল।"
+      },
+      {
+        "en": "An ancient prophecy foretold that whoever possessed the intellectual subtlety to untie the Gordian knot was destined to become the supreme emperor of all Asia.",
+        "bn": "এক প্রাচীন দৈববাণীতে বলা ছিল যে ব্যক্তি এই গর্ডিয়ান নটের রহস্যভেদ করে গিঁটটি খুলতে পারবে, সে-ই সমগ্র এশিয়া মহাদেশের একচ্ছত্র সম্রাট হবে।"
+      },
+      {
+        "en": "Generals, kings, and scholars had spent centuries examining the baffling entanglement, but no one could even locate the hidden rope ends.",
+        "bn": "শত শত বছর ধরে বাঘা বাঘা রাজা আর পণ্ডিতেরা এই গিঁট খোলার চেষ্টা করেছিল, কিন্তু কেউ সুতোর গোপন মাথাটিও খুঁজে পায়নি।"
+      },
+      {
+        "en": "Surrounded by a crowd of nervous Greek and Phrygian onlookers, Alexander examined the snarled cord patiently for several moments.",
+        "bn": "উদ্বিগ্ন গ্রিক ও স্থানীয় মানুষের ভিড়ের মাঝে দাঁড়িয়ে আলেকজান্ডার শান্তভাবে কয়েক মুহূর্ত সেই জটিল জটলাটি পরীক্ষা করলেন।"
+      },
+      {
+        "en": "Realizing that it mattered not how the bonds were dissolved, Alexander drew his razor-sharp Macedonian battle sword and sliced cleanly through the knot with a single thunderous stroke.",
+        "bn": "গিঁট কীভাবে খোলা হলো তা কোনো বিষয় নয় বুঝতে পেরে আলেকজান্ডার নিজের ধারালো তলোয়ার বের করে এক প্রচণ্ড কোপে গিঁটটিকে দুই টুকরো করে কেটে ফেললেন।"
+      },
+      {
+        "en": "The cut rope fell in severed pieces onto the marble floor, proving to the world that bold, decisive action can slice through problems that paralyze passive debate.",
+        "bn": "কাটা দড়ি মার্বেলের মেঝের ওপর খসে পড়ল—বিশ্ব দেখল দ্বিধাদ্বন্দ্বে সময় নষ্ট না করে সাহসী ও চূড়ান্ত পদক্ষেপ যেকোনো জটিল সমস্যার সমাধান করে দিতে পারে।"
+      }
+    ]
+  },
+  {
+    "id": "classics-pliny-vesuvius-eruption",
+    "title": "Pliny the Elder and the Fiery Wrath of Mount Vesuvius",
+    "titleBn": "প্লিনি দ্য এল্ডার ও ভিসুভিয়াসের ভয়াল অগ্ন্যুৎপাত",
+    "author": "Roman History",
+    "level": "Intermediate",
+    "category": "Classical Antiquity",
+    "coverEmoji": "🌋",
+    "summary": "As Vesuvius buries Pompeii in ash and fire, the Roman naval commander launches warships into the suffocating pumice storm to rescue trapped citizens.",
+    "summaryBn": "ভিসুভিয়াসের লাভা ও বিষাক্ত ছাইয়ের মাঝে সাধারণ মানুষকে উদ্ধার করতে যুদ্ধজাহাজ নিয়ে ধেয়ে গিয়ে বিজ্ঞানের সেবায় জীবন দেন প্লিনি দ্য এল্ডার।",
+    "sentences": [
+      {
+        "en": "On August 24, 79 AD, Roman naval commander and celebrated naturalist Pliny the Elder was stationed with his fleet at Misenum across the Bay of Naples.",
+        "bn": "খ্রিস্টীয় ৭৯ অব্দের ২৪ আগস্ট নেপলস উপসাগরের মিসেনাম ঘাঁটিতে রোমান নৌবহরের প্রধান ও মহান প্রকৃতিবিদ প্লিনি দ্য এল্ডার অবস্থান করছিলেন।"
+      },
+      {
+        "en": "Around midday, an enormous black cloud resembling a Mediterranean umbrella pine shot twenty miles high into the stratosphere from the summit of Mount Vesuvius.",
+        "bn": "দুপুরের দিকে ভিসুভিয়াস আগ্নেয়গিরির চূড়া থেকে এক বিশাল কালো পাইন গাছের মতো ধোঁয়ার স্তম্ভ আকাশের কুড়ি মাইল উঁচুতে গর্জে উঠল।"
+      },
+      {
+        "en": "Receiving an urgent written plea from a friend trapped beneath the mountain's falling rocks, Pliny ordered quadrireme warships launched on a rescue mission.",
+        "bn": "পাহাড়ের পাদদেশে পাথরের নিচে আটকে পড়া এক বন্ধুর কাতর চিঠি পেয়ে প্লিনি তৎক্ষণাৎ যুদ্ধজাহাজ নিয়ে উদ্ধার অভিযানে নামার নির্দেশ দিলেন।"
+      },
+      {
+        "en": "As the galleys approached the shore, hot volcanic pumice and blackened stones rained down upon the wooden decks, while the shoreline receded in tidal shoals.",
+        "bn": "জাহাজ তীরের কাছে যেতেই ডেকগুলোর ওপর জ্বলন্ত ছাই ও কালো পাথরের বৃষ্টি পড়তে লাগল আর সাগরের পানি পিছু হটে ডুবোপাহাড় জেগে উঠল।"
+      },
+      {
+        "en": "When his frightened helmsman urged him to turn back, Pliny shouted his immortal creed: 'Fortune favors the brave; steer toward Pomponianus!'",
+        "bn": "ভীত চালক যখন জাহাজ ফিরিয়ে নিতে বলল, প্লিনি চিৎকার করে তার বিখ্যাত উক্তি করলেন: 'সাহসীদেরই ভাগ্য সহায় হয়; বন্ধুর দিকে জাহাজ চালাও!'"
+      },
+      {
+        "en": "Landing at Stabiae, Pliny comforted terrified families, tied pillows over their heads to shield against falling volcanic pumice, and monitored the geological phenomenon calmly.",
+        "bn": "তীরে নেমে তিনি ভয়ার্ত মানুষদের অভয় দিলেন, পাথরের আঘাত থেকে বাঁচতে মাথায় বালিশ বাঁধলেন এবং শান্তভাবে প্রকৃতির এই রূপ পর্যবেক্ষণ করতে লাগলেন।"
+      },
+      {
+        "en": "Suffocated by dense sulfuric gas clouds as Pompeii was buried forever, Pliny died beside the surf, remembered as a heroic martyr of scientific curiosity and public duty.",
+        "bn": "পম্পেই শহর ছাইয়ের নিচে চাপা পড়ার সময় বিষাক্ত গ্যাসের ধোঁয়ায় তিনি সমুদ্রের পাড়েই শেষ নিঃশ্বাস ফেললেন—বিজ্ঞানের জ্ঞান ও কর্তব্যের এক মহান শহীদ হিসেবে।"
+      }
+    ]
+  },
+  {
+    "id": "classics-regulus-oath-of-honor",
+    "title": "Marcus Atilius Regulus and the Roman Oath of Honor",
+    "titleBn": "রেগুলাস ও রোমান প্রতিজ্ঞার চরম মূল্য",
+    "author": "Roman History",
+    "level": "Intermediate",
+    "category": "Classical Antiquity",
+    "coverEmoji": "🏛️",
+    "summary": "Captured by Carthage, a Roman consul is paroled to negotiate peace, but urges the Senate to fight on and returns voluntarily to face torture and death.",
+    "summaryBn": "শত্রুর হাত থেকে প্যারোলে রোমে ফিরেও শান্তির বিরুদ্ধে যুদ্ধের পরামর্শ দিয়ে নিজের দেওয়া শপথ রক্ষার্থে স্বেচ্ছায় শত্রুর কারাগারে ফিরে যান রেগুলাস।",
+    "sentences": [
+      {
+        "en": "During the First Punic War, Roman Consul Marcus Atilius Regulus was defeated in North Africa and taken captive by the Carthaginian army.",
+        "bn": "প্রথম পিউনিক যুদ্ধের সময় রোমান কনসাল মার্কাস অ্যাটিলিয়াস রেগুলাস উত্তর আফ্রিকায় পরাজিত হয়ে কার্থেজের সৈন্যদের হাতে বন্দি হলেন।"
+      },
+      {
+        "en": "After five years in captivity, the Carthaginians paroled Regulus and sent him to Rome to negotiate a prisoner exchange and peace treaty.",
+        "bn": "টানা পাঁচ বছর বন্দি থাকার পর কার্থেজ সরকার রেগুলাসকে রোমে পাঠাল বন্দি বিনিময় ও শান্তি চুক্তির ব্যাপারে মধ্যস্থতা করতে।"
+      },
+      {
+        "en": "Before releasing him, they made him swear a solemn oath by the gods that if the Roman Senate rejected the terms, Regulus would return to Carthage as a prisoner.",
+        "bn": "ছাড়ার আগে তারা দেবতাদের নামে শপথ করাল যে রোমান সিনেট চুক্তি না মানলে রেগুলাসকে আবার কার্থেজের কারাগারে বন্দি হয়ে ফিরে আসতে হবে।"
+      },
+      {
+        "en": "Standing before the assembled Senate in Rome, Regulus shocked everyone by fiercely advising against the exchange, arguing that Carthage was on the brink of collapse.",
+        "bn": "রোমের সিনেটে দাঁড়িয়ে রেগুলাস সবাইকে অবাক করে দিয়ে বন্দি বিনিময়ের বিরুদ্ধে বললেন, জানালেন কার্থেজ দুর্বল হয়ে পড়েছে এবং যুদ্ধ চালিয়ে যাওয়াই শ্রেয়।"
+      },
+      {
+        "en": "His weeping wife, sons, and fellow senators begged him to stay in Rome and break his oath to barbarians who had tortured him.",
+        "bn": "তার কান্নারত স্ত্রী, সন্তান ও সিনেটররা তাকে অনুরোধ করল রোমে থেকে যেতে এবং শত্রু বর্বরদের দেওয়া শপথ ভেঙে ফেলতে।"
+      },
+      {
+        "en": "Regulus pushed his family gently aside and replied: 'A Roman citizen does not break his word; I have sworn, and my honor is dearer to me than life.'",
+        "bn": "রেগুলাস পরম স্নেহে পরিবারকে পাশে সরিয়ে দিয়ে বললেন: 'একজন রোমান কখনো কথা ভাঙে না; আমি শপথ করেছি, আর জীবনের চেয়ে আমার সম্মান অনেক বড়।'"
+      },
+      {
+        "en": "He calmly boarded the ship back to Carthage, where he was locked inside a spike-lined barrel and rolled to his death, remembered forever as an untouchable titan of integrity.",
+        "bn": "তিনি শান্তভাবে জাহাজে করে কার্থেজের কারাগারে ফিরে গেলেন যেখানে তাকে কাঁটাভরা পিপায় ঢুকিয়ে মেরে ফেলা হলো—তিনি রয়ে গেলেন সততার এক অনন্য মাপকাঠি হিসেবে।"
+      }
+    ]
+  },
+  {
+    "id": "classics-pyrrhus-costly-victory",
+    "title": "King Pyrrhus and the Tragedy of Costly Victory",
+    "titleBn": "রাজা পিরুস ও বিধ্বংসী জয়ের করুণ ট্র্যাজেডি",
+    "author": "Ancient History & Plutarch",
+    "level": "Intermediate",
+    "category": "Classical Antiquity",
+    "coverEmoji": "👑",
+    "summary": "King Pyrrhus of Epirus defeats the Roman legions at Asculum, but looking at his decimated army, coins the immortal term 'Pyrrhic victory.'",
+    "summaryBn": "যুদ্ধে রোমানদের হারিয়েও নিজের সেরা সেনাপতি ও সৈন্যদের সবাইকে হারিয়ে রাজা পিরুস আক্ষেপ করেন: 'এমন আরেকটি জয় পেলে আমরা চিরতরে শেষ হয়ে যাব!'",
+    "sentences": [
+      {
+        "en": "In 279 BC, King Pyrrhus of Epirus, renowned as one of the most brilliant tactical commanders in the Greek world, clashed with the Roman Republic at the Battle of Asculum.",
+        "bn": "খ্রিস্টপূর্ব ২৭৯ অব্দে এপিরাসের রাজা পিরুস অ্যাসকুলামের ময়দানে উদীয়মান রোমান প্রজাতন্ত্রের বিরুদ্ধে এক মহাযুদ্ধে অবতীর্ণ হলেন।"
+      },
+      {
+        "en": "Deploying disciplined Macedonian phalanxes and twenty terrifying war elephants, Pyrrhus smashed the stubborn Roman infantry lines after two days of ferocious slaughter.",
+        "bn": "ম্যাসিডোনিয়ান বর্শা এবং বিশটি দানবীয় যুদ্ধহাতি নামিয়ে পিরুস দুই দিনের রক্তক্ষয়ী যুদ্ধের পর এক অবিস্মরণীয় জয় ছিনিয়ে আনলেন।"
+      },
+      {
+        "en": "The Romans retreated in orderly defeat, leaving six thousand dead on the blood-soaked field.",
+        "bn": "ছয় হাজার রোমান সৈন্যের রক্তাক্ত লাশ ফেলে রেখে রোমানরা সুশৃঙ্খলভাবে পিছু হটল।"
+      },
+      {
+        "en": "When Pyrrhus's generals rushed forward to congratulate their sovereign on his glorious triumph, the king surveyed the carnage with hollow eyes.",
+        "bn": "সেনাপতিরা যখন বিজয় উল্লাসে রাজাকে অভিনন্দন জানাতে ছুটে এলো, রাজা শূন্য দৃষ্টিতে যুদ্ধক্ষেত্রের ধ্বংসযজ্ঞের দিকে তাকিয়ে রইলেন।"
+      },
+      {
+        "en": "Nearly all of his elite Macedonian veterans, his closest boyhood companions, and his top tactical commanders lay dead upon the turf.",
+        "bn": "তার সেরা অভিজ্ঞ ম্যাসিডোনিয়ান সৈন্য, শৈশবের প্রিয় বন্ধুরা আর শীর্ষ সেনাপতিদের প্রায় সবাই মাটির বুকে নিথর হয়ে পড়ে ছিল।"
+      },
+      {
+        "en": "While Rome had inexhaustible manpower reserves to field a brand-new army within weeks, Pyrrhus had no way to replace his fallen comrades across the sea.",
+        "bn": "রোমের কাছে লাখ লাখ নতুন সৈন্য নামানোর ক্ষমতা থাকলেও সাগরপারের পিরুসের কাছে হারানো বীরদের জায়গায় নতুন সৈন্য আনার কোনো উপায় ছিল না।"
+      },
+      {
+        "en": "Pyrrhus famously whispered to his officers: 'If we are victorious in one more battle with the Romans, we shall be utterly ruined!'",
+        "bn": "পিরুস দীর্ঘশ্বাস ফেলে তার অফিসারদের বললেন: 'রোমানদের বিরুদ্ধে যদি এমন আরেকটি জয় আমাদের পেতে হয়, তবে আমরা চিরতরে ধ্বংস হয়ে যাব!'"
+      }
+    ]
+  }
+]

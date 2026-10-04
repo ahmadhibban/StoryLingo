@@ -1,0 +1,617 @@
+[
+  {
+    "id": "wright-brothers-kitty-hawk-flyer",
+    "title": "The Wright Brothers: Twelve Seconds at Kitty Hawk",
+    "titleBn": "রাইট ভ্রাতৃদ্বয়: কিটি হকে বারো সেকেন্ডের উড্ডয়ন",
+    "author": "Aviation Pioneers & Aerodynamics",
+    "level": "Intermediate",
+    "category": "Aviation Pioneers & Aerodynamics",
+    "coverEmoji": "✈️",
+    "summary": "Dayton bicycle mechanics Orville and Wilbur Wright studied bird flight and built wind tunnels, achieving humanity's first controlled, powered, heavier-than-air flight at Kitty Hawk.",
+    "summaryBn": "সাইকেল মিস্ত্রি রাইট ভ্রাতৃদ্বয় পাখির ওড়ার কৌশল এবং উইন্ড টানেলে বাতাসের গতি পরীক্ষা করে ১৯০৩ সালে উত্তর ক্যারোলিনার কিটি হকে প্রথম ইঞ্জিনচালিত বিমান ওড়াতে সক্ষম হন।",
+    "sentences": [
+      {
+        "en": "Operating a modest bicycle repair workshop in Dayton, Ohio, brothers Orville and Wilbur Wright became obsessed with the ancient dream of mechanical human flight after reading of gliding pioneer Otto Lilienthal.",
+        "bn": "ওহাইওর ডাইটনে একটি সাধারণ সাইকেল মেরামতের দোকান চালানোর সময় ওটোর ওড়ার কাহিনি পড়ে অরভিল ও উইলবার রাইট ভ্রাতৃদ্বয়ের মনে আকাশে ওড়ার এক দুর্বার নেশা জাগে।"
+      },
+      {
+        "en": "Observing how turkey vultures twisted their wingtips to balance during gusting breezes, Wilbur deduced that three-axis control—roll, pitch, and yaw—was the elusive key to aerodynamic stability.",
+        "bn": "শকুনের ডানা বাঁকিয়ে বাতাসের মধ্যে ভারসাম্য রাখার কৌশল লক্ষ্য করে উইলবার বুঝতে পারলেন যে বিমানের ভারসাম্য রক্ষার জন্য তিন মাত্রার নিয়ন্ত্রণ ব্যবস্থা গড়ে তুলতে হবে।"
+      },
+      {
+        "en": "Constructing a miniature home-made wind tunnel inside their workshop from wooden crates, they tested over two hundred miniature wing airfoils, correcting flawed tables published by established scientists.",
+        "bn": "দোকানের ভেতর কাঠের বাক্স দিয়ে একটি ছোট্ট উইন্ড টানেল তৈরি করে তাঁরা দুই শতাধিক ডানার মডেল পরীক্ষা করলেন এবং তৎকালীন বিজ্ঞানীদের ভুল হিসাবগুলো শুধরে নিলেন।"
+      },
+      {
+        "en": "Unable to purchase a light enough internal combustion engine, they collaborated with their mechanic Charlie Taylor to cast their own lightweight twelve-horsepower aluminum engine block.",
+        "bn": "যথেষ্ট হালকা কোনো পেট্রল ইঞ্জিন বাজারে না পেয়ে তাঁরা তাঁদের মেকানিক চার্লির সাহায্যে নিজেরাই একটি হালকা অ্যালুমিনিয়ামের বারো হর্সপাওয়ার ইঞ্জিন তৈরি করে ফেললেন।"
+      },
+      {
+        "en": "On the bitterly cold, wind-swept sand dunes of Kitty Hawk, North Carolina, on December 17, 1903, Orville lay prone aboard the Wright Flyer.",
+        "bn": "১৯০৩ সালের ১৭ ডিসেম্বর উত্তর ক্যারোলিনার কিটি হকের কনকনে শীত ও বালিয়াড়ির দমকা বাতাসে অরভিল তাঁদের রাইট ফ্লায়ার বিমানের ওপর বুক চেপে শুয়ে পড়লেন।"
+      },
+      {
+        "en": "The wooden biplane rattled along the launching rail and lifted into the ocean headwind, flying 120 feet over twelve breathtaking seconds before touching safely down.",
+        "bn": "কাঠের তৈরি দুই ডানার বিমানটি রেললাইন বেয়ে এগিয়ে গেল এবং বাতাসের তোড়ে ডানা মেলে ঠিক বারো সেকেন্ড আকাশে উড়ে একশত কুড়ি ফুট দূরে নিরাপদে অবতরণ করল।"
+      },
+      {
+        "en": "Those twelve historic seconds shattered earthly horizons forever, inaugurating the modern aviation age that bridged continents across the sky.",
+        "bn": "সেই বারোটি অবিস্মরণীয় সেকেন্ড মানুষের চিরদিনের সীমানা ভেঙে দিয়েছিল এবং আধুনিক বিমান চলাচলের এক নতুন দিগন্তের উন্মোচন করেছিল।"
+      }
+    ]
+  },
+  {
+    "id": "amelia-earhart-solo-atlantic-skies",
+    "title": "Amelia Earhart: The Luminous Queen of the Clouds",
+    "titleBn": "অ্যামেলিয়া ইয়ারহার্ট: মেঘের দেশের নির্ভীক রানি",
+    "author": "Aviation Pioneers & Aerodynamics",
+    "level": "Intermediate",
+    "category": "Aviation Pioneers & Aerodynamics",
+    "coverEmoji": "🛩️",
+    "summary": "Defying patriarchal conventions, Amelia Earhart piloted her bright red Lockheed Vega across the tempestuous Atlantic Ocean, proving that courage knows no gender in the sky.",
+    "summaryBn": "পুরুষতান্ত্রিক সমাজের সব বাধা ভেঙে অ্যামেলিয়া ইয়ারহার্ট তাঁর লাল রঙের বিমানে একা উত্তাল আটলান্টিক মহাসাগর পাড়ি দেন এবং প্রমাণ করেন আকাশের কাছে কোনো লিঙ্গভেদ নেই।",
+    "sentences": [
+      {
+        "en": "Attending an air show in Long Beach, California in 1920, young Amelia Earhart took a ten-minute flight that irrevocably sealed her destiny: 'By the time I had got two or three hundred feet off the ground, I knew I had to fly.'",
+        "bn": "১৯২০ সালে ক্যালিফোর্নিয়ার এক এয়ার শোতে মাত্র দশ মিনিট বিমানে চড়ে তরুণী অ্যামেলিয়া ইয়ারহার্ট উপলব্ধি করেছিলেন: 'মাটি থেকে কয়েকশো ফুট ওপরে উঠেই আমি বুঝতে পেরেছিলাম আমাকে আকাশে উড়তেই হবে।'"
+      },
+      {
+        "en": "Working multiple jobs to pay for flying lessons from pioneer aviator Neta Snook, she bought a secondhand bright yellow Kinner Airster biplane she nicknamed 'The Canary.'",
+        "bn": "কয়েকটি খণ্ডকালীন চাকরি করে জমানো টাকায় ওড়ার প্রশিক্ষণ নিয়ে তিনি একটি হলুদ রঙের বিমান কেনেন, যার আদর করে নাম দিয়েছিলেন 'ক্যানারি'।"
+      },
+      {
+        "en": "In 1928, she was invited to join a transatlantic flight as a passenger, feeling deeply insulted when newspapers sensationalized her presence while referring to her as mere 'baggage.'",
+        "bn": "১৯২৮ সালে তিনি একজন যাত্রী হিসেবে আটলান্টিক পাড়ি দেওয়ার দলে যোগ দেন, কিন্তু খবরের কাগজগুলো তাঁকে কেবল 'পণ্য' বলে প্রচার করায় তিনি প্রচণ্ড অপমানিত বোধ করেন।"
+      },
+      {
+        "en": "Resolved to prove women's absolute piloting equality, Earhart took off from Newfoundland on May 20, 1932, alone in her single-engine red Lockheed Vega 5B.",
+        "bn": "নারীদের পূর্ণ দক্ষতা প্রমাণ করার দৃঢ় সংকল্প নিয়ে ১৯৩২ সালের ২০ মে তিনি নিউফাউন্ডল্যান্ড থেকে তাঁর এক ইঞ্জিনের লাল লকহিড বিমানে একা উড়াল দেন।"
+      },
+      {
+        "en": "For nearly fifteen hours, she battled severe freezing fog, a broken altimeter, leaking exhaust flames that threatened the fuel tanks, and treacherous ice crusting the wings.",
+        "bn": "টানা প্রায় পনেরো ঘণ্টা তিনি তীব্র কুয়াশা, ভাঙা উচ্চতামাপক যন্ত্র এবং ইঞ্জিনের আগুনের ফুলকি ও ডানায় বরফ জমার মারাত্মক ঝুঁকির সাথে আকাশেই লড়াই করলেন।"
+      },
+      {
+        "en": "She touched down safely in a Derry cow pasture in Northern Ireland, becoming the first woman to fly solo across the formidable Atlantic.",
+        "bn": "অবশেষে উত্তর আয়ারল্যান্ডের এক খামারের মাঠে নিরাপদে নেমে তিনি আটলান্টিক মহাসাগর একা পাড়ি দেওয়া বিশ্বের প্রথম নারী পাইলট হওয়ার বিরল গৌরব অর্জন করেন।"
+      },
+      {
+        "en": "Though she mysteriously vanished over the Pacific during an attempted circumnavigation in 1937, Earhart remains an eternal beacon of daring female independence.",
+        "bn": "১৯৩৭ সালে বিশ্বভ্রমণের সময় প্রশান্ত মহাসাগরে রহস্যজনকভাবে নিখোঁজ হলেও অ্যামেলিয়া ইয়ারহার্ট আজও নারীমুক্তি ও সাহসিকতার এক অমলিন বাতিঘর।"
+      }
+    ]
+  },
+  {
+    "id": "kalpana-chawla-stars-columbia",
+    "title": "Kalpana Chawla: The Girl from Karnal Who Reached for the Stars",
+    "titleBn": "কল্পনা চাওলা: নক্ষত্রের পথে এক সাহসী কন্যা",
+    "author": "Astronomy & Space Exploration",
+    "level": "Intermediate",
+    "category": "Astronomy & Space Exploration",
+    "coverEmoji": "🌠",
+    "summary": "Born in Haryana, aerospace engineer Kalpana Chawla persevered against social barriers to become the first woman of Indian descent to fly into the silence of space.",
+    "summaryBn": "ভারতের হরিয়ানার ছোট্ট শহর থেকে নিজের মেধা ও অদম্য সাহসের জোরে মহাকাশে পা রেখেছিলেন বৈমানিক প্রকৌশলী কল্পনা চাওলা; তিনি ছিলেন মহাকাশচারী প্রথম ভারতীয় বংশোদ্ভূত নারী।",
+    "sentences": [
+      {
+        "en": "Growing up in the dusty town of Karnal, India, young Kalpana Chawla slept on the rooftop under open summer skies, captivated by the mysterious drift of wandering constellations.",
+        "bn": "ভারতের হরিয়ানার কারনাল শহরের এক বাড়ির ছাদে শুয়ে ছোটবেলায় গ্রীষ্মের রাতের তারার দিকে তাকিয়ে কল্পনার মনে মহাকাশের প্রতি এক গভীর কৌতূহল জেগেছিল।"
+      },
+      {
+        "en": "Defying societal pressures that urged young women toward domestic roles, she insisted on pursuing aeronautical engineering at Punjab Engineering College, where she was the only female in her department.",
+        "bn": "মেয়েদের বিয়ে দিয়ে সংসারী বানানোর সামাজিক চাপ উপেক্ষা করে তিনি পাঞ্জাব ইঞ্জিনিয়ারিং কলেজে বৈমানিক প্রকৌশলে ভর্তি হন, যেখানে পুরো বিভাগে তিনি একাই ছিলেন নারী শিক্ষার্থী।"
+      },
+      {
+        "en": "Moving to the United States to earn master's and doctoral degrees in aerospace engineering, she joined NASA Ames Research Center to investigate computational fluid dynamics.",
+        "bn": "আমেরিকায় গিয়ে পিএইচডি ডিগ্রি অর্জন করার পর তিনি নাসার গবেষণা কেন্দ্রে যোগ দেন এবং জটিল বায়ুপ্রবাহ ও প্লেনের ডানার গতিবিদ্যা নিয়ে গবেষণা শুরু করেন।"
+      },
+      {
+        "en": "Selected as a NASA astronaut candidate in 1994, Chawla flew her first mission aboard Space Shuttle Columbia in 1997, deploying the Spartan solar satellite.",
+        "bn": "১৯৯৪ সালে নাসা নভোচারী হিসেবে মনোনীত হয়ে ১৯৯৭ সালে স্পেস শাটল কলাম্বিয়ায় চড়ে তিনি প্রথমবার মহাকাশে যান এবং একটি সৌর উপগ্রহ সফলভাবে প্রতিস্থাপন করেন।"
+      },
+      {
+        "en": "Reflecting on the view from orbit, she remarked that gazing upon the fragile blue curvature of Earth dissolved all human divisions of nationality, caste, and race.",
+        "bn": "মহাকাশ থেকে পৃথিবীর দিকে তাকিয়ে তিনি বলেছিলেন যে মহাশূন্যের দৃষ্টিতে কোনো দেশের কৃত্রিম ভেদাভেদ, জাতি বা ধর্মের সংঘাত টিকে থাকে না।"
+      },
+      {
+        "en": "During her second mission aboard Columbia in 2003, the crew conducted eighty scientific experiments over sixteen days before catastrophic wing damage led to disaster during re-entry.",
+        "bn": "২০০৩ সালে দ্বিতীয় অভিযানে ষোলো দিন ধরে আশিটি বৈজ্ঞানিক পরীক্ষা সম্পন্ন করার পর পৃথিবীতে ফেরার সময় শাটলের ডানায় ত্রুটির কারণে মর্মান্তিক দুর্ঘটনা ঘটে।"
+      },
+      {
+        "en": "Though she perished alongside her six crewmates, Kalpana Chawla's soaring legacy continues to inspire millions of young dreamers to follow their passions to the farthest stars.",
+        "bn": "সহকর্মীদের সাথে অকালে প্রাণ হারালেও কল্পনা চাওলার এই অনুপ্রেরণাদায়ী জীবন আজও লাখ লাখ স্বপ্নবাজ তরুণীকে নক্ষত্রের পানে উড়াল দেওয়ার সাহস জোগায়।"
+      }
+    ]
+  },
+  {
+    "id": "yuri-gagarin-vostok-first-human-orbit",
+    "title": "Yuri Gagarin: Poyekhali and the First Orbit of Earth",
+    "titleBn": "ইউরি গ্যাগারিন: মহাকাশে প্রথম মানব পদচারণা",
+    "author": "Astronomy & Space Exploration",
+    "level": "Intermediate",
+    "category": "Astronomy & Space Exploration",
+    "coverEmoji": "🚀",
+    "summary": "Strapped atop a converted Soviet intercontinental missile in Vostok 1, cosmonaut Yuri Gagarin uttered 'Poyekhali!' to become the first human to orbit Earth in outer space.",
+    "summaryBn": "১৯৬১ সালে ভোস্তক ১ ক্যাপসুলে চেপে 'পোয়েখালি!' (চলো যাই!) বলে মহাকাশে ডানা মেলেছিলেন সোভিয়েত নভোচারী ইউরি গ্যাগারিন; তিনি ছিলেন মহাশূন্যে পৃথিবীকে প্রদক্ষিণ করা প্রথম মানুষ।",
+    "sentences": [
+      {
+        "en": "On April 12, 1961, at the remote Baikonur Cosmodrome in Kazakhstan, twenty-seven-year-old Soviet fighter pilot Yuri Gagarin climbed into the spherical capsule of Vostok 1.",
+        "bn": "১৯৬১ সালের ১২ এপ্রিল কাজাখস্তানের প্রত্যন্ত বৈকনুর উৎক্ষেপণ কেন্দ্রে সাতাশ বছর বয়সী সোভিয়েত পাইলট ইউরি গ্যাগারিন ভোস্তক ১ ক্যাপসুলের ভেতর আসন গ্রহণ করলেন।"
+      },
+      {
+        "en": "As the massive R-7 rocket engines ignited with a deafening roar and two million horsepower thrust, Gagarin shouted casually over the radio: 'Poyekhali!'—'Off we go!'",
+        "bn": "রকেট ইঞ্জিনগুলো যখন গর্জন করে আকাশ কাঁপিয়ে কুড়ি লাখ অশ্বশক্তির শক্তিতে জ্বলে উঠল, তখন গ্যাগারিন রেডিওতে শান্ত হেসে বললেন: 'পোয়েখালি!'—অর্থাৎ 'চলো, শুরু করা যাক!'"
+      },
+      {
+        "en": "Accelerating to seventeen thousand miles per hour, Gagarin entered Earth orbit, experiencing pure microgravity weightlessness as pencils drifted past his helmet visor.",
+        "bn": "প্রতি ঘণ্টায় সতেরো হাজার মাইল গতিতে ছুটে গিয়ে তিনি পৃথিবীর কক্ষপথে প্রবেশ করলেন এবং মহাকাশের ওজনহীনতায় তাঁর পেন্সিলগুলো চোখের সামনে ভাসতে লাগল।"
+      },
+      {
+        "en": "Peering through the porthole at the dazzling horizon, he famously observed: 'The Earth is blue... how wonderful. It is amazing.'",
+        "bn": "ছোট্ট কাঁচের জানালা দিয়ে পৃথিবীর দিকে তাকিয়ে তিনি মুগ্ধ হয়ে রেডিওতে বলেছিলেন: 'পৃথিবী নীল... কী অপূর্ব সুন্দর! এটি সত্যি এক অবিশ্বাস্য রূপ।'"
+      },
+      {
+        "en": "In 108 historic minutes, he completed a full orbit of the planet, marveling at how delicate the thin blue veil of the atmosphere appeared against the pitch-black void.",
+        "bn": "মাত্র ১০৮ মিনিটে তিনি পুরো পৃথিবীকে একবার চক্কর দিলেন এবং মহাকাশের নিশ্ছিদ্র অন্ধকারের মাঝে পৃথিবীর চারপাশের পাতলা নীল বায়ুমণ্ডলের সৌন্দর্য দেখে চমকে উঠলেন।"
+      },
+      {
+        "en": "During atmospheric re-entry, cables connecting the service module failed to separate immediately, tumbling violently in flaming friction before burning free.",
+        "bn": "বায়ুমণ্ডলে ফিরে আসার সময় সংযোগকারী তার বিচ্ছিন্ন না হওয়ায় মহাকাশযানটি আগুনের গোলার মতো আছড়ে পড়তে শুরু করেছিল, তবে শেষ মুহূর্তে তা মুক্ত হয়ে যায়।"
+      },
+      {
+        "en": "Ejecting at twenty thousand feet, Gagarin parachuted safely into a potato field, greeted by an astonished peasant woman who thought he was a fallen angel from heaven.",
+        "bn": "কুড়ি হাজার ফুট ওপরে প্যারাস্যুট দিয়ে এক আলুর ক্ষেতে নামার পর গ্রাম্য এক বৃদ্ধা কৃষক তাঁকে স্বর্গ থেকে নেমে আসা কোনো দেবদূত ভেবে অবাক হয়ে তাকিয়ে রইল।"
+      }
+    ]
+  },
+  {
+    "id": "apollo-11-moon-landing-armstrong-aldrin",
+    "title": "Apollo 11: One Giant Leap for Mankind",
+    "titleBn": "অ্যাপোলো ১১: চাঁদের বুকে মানুষের প্রথম পদচিহ্ন",
+    "author": "Astronomy & Space Exploration",
+    "level": "Intermediate",
+    "category": "Astronomy & Space Exploration",
+    "coverEmoji": "🌕",
+    "summary": "With seconds of fuel remaining over the Sea of Tranquility, Neil Armstrong steered the Eagle lander manually, stepping onto the lunar surface for humanity's greatest voyage.",
+    "summaryBn": "মাত্র কয়েক সেকেন্ডের জ্বালানি অবশিষ্ট থাকা অবস্থায় নিল আর্মস্ট্রং চাঁদের 'প্রশান্তির সাগরে' ঈগল ল্যান্ডারকে নিরাপদে নামিয়ে এনেছিলেন এবং চাঁদের বুকে রেখেছিলেন মানুষের প্রথম পদচিহ্ন।",
+    "sentences": [
+      {
+        "en": "On July 20, 1969, four hundred thousand engineers, scientists, and technicians held their collective breath as the Apollo 11 Lunar Module, 'Eagle,' descended toward the cratered moon.",
+        "bn": "১৯৬৯ সালের ২০ জুলাই চার লাখ বিজ্ঞানীর উৎকণ্ঠার মাঝে অ্যাপোলো ১১ মহাকাশযানের লুনার মডিউল 'ঈগল' চাঁদের খানাখন্দে ভরা মাটির দিকে নেমে আসতে লাগল।"
+      },
+      {
+        "en": "Blared by computer overload alarms and noticing the autopilot was heading toward a field of giant boulders, Commander Neil Armstrong took manual joystick control.",
+        "bn": "কম্পিউটারের সতর্কবার্তা এবং স্বয়ংক্রিয় চালক বিশাল সব পাথরের ওপর নামতে যাচ্ছে দেখে কমান্ডার নিল আর্মস্ট্রং নিজে হাত দিয়ে নিয়ন্ত্রণ ব্যবস্থা তুলে নিলেন।"
+      },
+      {
+        "en": "Skimming across the dusty grey plains with less than thirty seconds of thruster propellant remaining, Armstrong set the pads down with featherlight precision.",
+        "bn": "মাত্র তিরিশ সেকেন্ডের জ্বালানি বাকি থাকা অবস্থায় তিনি অত্যন্ত ধীরস্থিরভাবে চাঁদের ধূসর পৃষ্ঠে ল্যান্ডারের পায়াগুলো নামিয়ে আনলেন।"
+      },
+      {
+        "en": "Crackling across a quarter-million miles of void to Houston Mission Control, Armstrong announced: 'Houston, Tranquility Base here. The Eagle has landed.'",
+        "bn": "আড়াই লাখ মাইল দূরের পৃথিবী থেকে মানুষ শুনতে পেল আর্মস্ট্রংয়ের শান্ত কণ্ঠ: 'হিউস্টন, ট্রাংকুইলিটি বেস থেকে বলছি। ঈগল চাঁদে নেমেছে।'"
+      },
+      {
+        "en": "Descending the nine-rung ladder into powdery lunar dust, Armstrong planted his boot, speaking words engraved upon history: 'That's one small step for man, one giant leap for mankind.'",
+        "bn": "মই বেয়ে চাঁদের সূক্ষ্ম ধুলোর ওপর পা রেখে আর্মস্ট্রং ইতিহাসের সেই অমর বাক্যটি উচ্চারণ করলেন: 'মানুষের জন্য এটি একটি ছোট্ট পদক্ষেপ, কিন্তু মানবজাতির জন্য এক বিশাল মহাজাগতিক উল্লম্ফন।'"
+      },
+      {
+        "en": "He and Buzz Aldrin explored the lunar surface for two and a half hours, gathering forty-seven pounds of rocks while Michael Collins orbited alone in solitary vigil above.",
+        "bn": "তিনি ও বাজ অলড্রিন চাঁদের বুকে সাড়ে দুই ঘণ্টা হেঁটে নানা পাথরের নমুনা সংগ্রহ করলেন, আর মাইকেল কলিন্স একাকী মূল মহাকাশযানে থেকে তাঁদের পাহারা দিলেন।"
+      },
+      {
+        "en": "Leaving behind a plaque reading 'We came in peace for all mankind,' Apollo 11 fulfilled the timeless terrestrial dream of touching the silver lantern of the night sky.",
+        "bn": "'আমরা সমগ্র মানবজাতির জন্য শান্তির বার্তা নিয়ে এসেছি'—এই ফলক রেখে এসে অ্যাপোলো ১১ প্রমাণ করেছিল মানুষ চাইলে যেকোনো স্বপ্নকেই বাস্তবে রূপ দিতে পারে।"
+      }
+    ]
+  },
+  {
+    "id": "chuck-yeager-glamorous-glennis-mach-one",
+    "title": "Chuck Yeager: Breaking the Invisible Sound Barrier",
+    "titleBn": "চাক ইয়েগার: শব্দের চেয়েও দ্রুত গতির উড্ডয়ন",
+    "author": "Aviation Pioneers & Aerodynamics",
+    "level": "Intermediate",
+    "category": "Aviation Pioneers & Aerodynamics",
+    "coverEmoji": "⚡",
+    "summary": "Nursing two broken ribs taped with a broomstick, fighter ace Chuck Yeager pushed the rocket-powered Bell X-1 past Mach 1, shattering the sonic barrier with a thunderous boom.",
+    "summaryBn": "ভাঙা পাঁজরের তীব্র ব্যথা চেপে ধরে ঝাড়ুর হাতল দিয়ে ককপিট আটকে যুদ্ধবিমান চালক চাক ইয়েগার শব্দের চেয়ে দ্রুত গতিতে বিমান চালিয়ে শব্দভেদের অদৃশ্য দেয়াল ভেঙেছিলেন।",
+    "sentences": [
+      {
+        "en": "During World War II, combat pilots diving at extreme velocities encountered violent, uncommanded buffeting that tore wings apart, leading aerodynamicists to theorize an impenetrable 'sound barrier.'",
+        "bn": "দ্বিতীয় বিশ্বযুদ্ধের সময় প্রচণ্ড গতিতে বিমান নামানোর সময় কাঁপুনিতে ডানা ভেঙে যাওয়ায় বিজ্ঞানীরা ভেবেছিলেন শব্দের গতির সামনে কোনো এক অদৃশ্য দেয়াল রয়েছে যা ভাঙা অসম্ভব।"
+      },
+      {
+        "en": "In 1947, the United States Air Force prepared to test the rocket-powered Bell X-1, an aircraft shaped like a sleek .50-caliber Browning machine gun bullet.",
+        "bn": "১৯৪৭ সালে মার্কিন বিমানবাহিনী রকেট চালিত বেল এক্স-১ বিমানটি পরীক্ষার প্রস্তুতি নিল, যার নকশা ছিল দেখতে একটি ক্ষিপ্র বুলেটের মতো।"
+      },
+      {
+        "en": "Two nights before the flight, World War II ace Chuck Yeager broke two ribs in a horseback riding fall, but kept the injury secret, locking the cockpit door using a sawed-off broom handle.",
+        "bn": "পরীক্ষার দুদিন আগে ঘোড়া থেকে পড়ে দুটি পাঁজর ভেঙে গেলেও চাক ইয়েগার তা গোপন রাখলেন এবং এক টুকরো ঝাড়ুর হাতল দিয়ে ভেতরের দরজাটি কোনোমতে বন্ধ করলেন।"
+      },
+      {
+        "en": "Dropped from the bomb bay of a B-29 Superfortress over the Mojave Desert at twenty thousand feet, Yeager ignited all four liquid oxygen rocket chambers.",
+        "bn": "ক্যালিফোর্নিয়ার মরুভূমির বিশ হাজার ফুট ওপর থেকে বিমানটি ছেড়ে দেওয়া হলে ইয়েগার এর চারটি তরল অক্সিজেনের রকেট ইঞ্জিন একযোগে চালু করে দিলেন।"
+      },
+      {
+        "en": "As speed surged past 650 miles per hour, severe buffeting shook the airframe, but as the Mach needle swept past 1.0, the turbulence suddenly vanished into eerie glassy stillness.",
+        "bn": "ঘণ্টায় সাড়ে ছয়শত মাইল পেরোতেই বিমানটিতে তীব্র কম্পন শুরু হলো; কিন্তু গতির কাঁটা ১.০ পার হতেই সমস্ত কাঁপুনি থেমে গিয়ে চারপাশ একেবারে নিথর হয়ে গেল।"
+      },
+      {
+        "en": "Far below across the dry lakebed, engineers and technicians heard a sharp, double-crack explosive roar—humanity's very first artificial sonic boom.",
+        "bn": "নিচের মরুভূমির মাটিতে অপেক্ষারত প্রকৌশলীরা হঠাৎ আকাশের বুক চিরে এক বিকট বিস্ফোরণের দ্বৈত গর্জন শুনলেন—মানব ইতিহাসের প্রথম শব্দের চেয়ে দ্রুত গতির 'সনিক বুম'।"
+      },
+      {
+        "en": "Yeager's triumph proved that the sound barrier was not a brick wall in the sky, but merely a temporary threshold waiting for fearless engineering to conquer.",
+        "bn": "ইয়েগারের এই ঐতিহাসিক উড্ডয়ন দেখিয়ে দিল যে শব্দের গতি কোনো দুর্ভেদ্য প্রাচীর নয়, বরং তা মানুষের সাহসের কাছে এক পরাজিত সীমানা মাত্র।"
+      }
+    ]
+  },
+  {
+    "id": "valentina-tereshkova-seagull-in-orbit",
+    "title": "Valentina Tereshkova: The First Woman in the Cosmos",
+    "titleBn": "ভ্যালেন্তিনা তেরেশকোভা: মহাকাশের প্রথম নারী নাবিক",
+    "author": "Astronomy & Space Exploration",
+    "level": "Intermediate",
+    "category": "Astronomy & Space Exploration",
+    "coverEmoji": "👩‍🚀",
+    "summary": "Textile mill worker and amateur parachutist Valentina Tereshkova endured forty-eight orbits aboard Vostok 6, cementing her call sign 'Chaika' into celestial history.",
+    "summaryBn": "সুতা কলের এক সাধারণ শ্রমিক ও প্যারাস্যুট জাম্পার ভ্যালেন্তিনা তেরেশকোভা ভোস্তক ৬ মহাকাশযানে চড়ে আটচল্লিশ বার পৃথিবীকে প্রদক্ষিণ করে মহাকাশজয়ী প্রথম নারী হিসেবে ইতিহাস সৃষ্টি করেন।",
+    "sentences": [
+      {
+        "en": "Working at a regional cotton fabric mill while practicing weekend sport parachuting, young Valentina Tereshkova was selected from four hundred applicants for the secret Soviet female cosmonaut team.",
+        "bn": "সুতা কারখানায় কাজ করার ফাঁকে প্যারাস্যুটে ঝাঁপ দেওয়ার শখ থাকা তরুণী ভ্যালেন্তিনা তেরেশকোভা চারশত প্রার্থীর মধ্য থেকে সোভিয়েত ইউনিয়নের নারী মহাকাশচারী দলে নির্বাচিত হন।"
+      },
+      {
+        "en": "Subjected to grueling centrifugal spins, sensory deprivation chambers, and thermal endurance tests, she demonstrated exceptional physical stamina and mental composure.",
+        "bn": "ঘূর্ণায়মান যন্ত্রে তীব্র মহাকর্ষ বল সহ্য করা ও নিঃসঙ্গ ঘরে থাকার কঠিন প্রশিক্ষণ পেরিয়ে তিনি তাঁর অদম্য সহনশীলতা ও মানসিক শক্তির প্রমাণ দিলেন।"
+      },
+      {
+        "en": "On June 16, 1963, using the poetic radio call sign 'Chaika'—meaning Seagull—she launched into the sky aboard Vostok 6 from the Baikonur plains.",
+        "bn": "১৯৬৩ সালের ১৬ জুন 'চায়কা' বা চিল সংকেত নিয়ে তিনি বৈকনুর থেকে ভোস্তক ৬ মহাকাশযানে চড়ে মহাকাশের পথে উড়াল দিলেন।"
+      },
+      {
+        "en": "During flight, she noticed an alarming software navigation error: the automatic orientation program was programmed for orbital ascent rather than atmospheric descent.",
+        "bn": "মহাকাশে থাকার সময় তিনি একটি মারাত্মক সফটওয়্যার ভুল লক্ষ্য করলেন: নামার বদলে মহাকাশযানটিকে আরও দূরে চলে যাওয়ার নির্দেশ দেওয়া ছিল।"
+      },
+      {
+        "en": "Reporting the flaw calmly to Chief Designer Sergei Korolev, she manually recalibrated the flight computer coordinates, averting what could have been a fatal trajectory away from Earth.",
+        "bn": "শান্ত মাথায় প্রধান প্রকৌশলীকে বিষয়টি জানিয়ে তিনি নিজে নতুন দিক ঠিক করলেন, যার ফলে মহাকাশের অতলে হারিয়ে যাওয়ার হাত থেকে রক্ষা পেলেন।"
+      },
+      {
+        "en": "Over three days, Tereshkova logged forty-eight orbits around the globe, logging more cumulative flight time than all American Mercury astronauts combined up to that date.",
+        "bn": "টানা তিন দিনে তিনি আটচল্লিশ বার পৃথিবীকে প্রদক্ষিণ করেন, যা তখনকার সব আমেরিকান নভোচারীদের মোট সময়ের চেয়েও বেশি ছিল।"
+      },
+      {
+        "en": "Her courage shattered the myth that space exploration was exclusively a masculine domain, inspiring generations of women across the world to reach for the stars.",
+        "bn": "তাঁর এই দুঃসাহসিক অভিযান মহাকাশজয়ে পুরুষদের একাধিপত্যের ভুল ধারণাকে চুরমার করে বিশ্বজুড়ে নারীদের বিজ্ঞানের নতুন দিগন্তে পা রাখতে উৎসাহিত করেছিল।"
+      }
+    ]
+  },
+  {
+    "id": "voyager-golden-record-interstellar-voyage",
+    "title": "Voyager 1: The Golden Record and the Interstellar Frontier",
+    "titleBn": "ভয়েজার ১: ইন্টারস্টেলার স্পেসে সোনালি বার্তার অভিযাত্রা",
+    "author": "Astronomy & Space Exploration",
+    "level": "Intermediate",
+    "category": "Astronomy & Space Exploration",
+    "coverEmoji": "🛸",
+    "summary": "Launched in 1977, Voyager 1 captured the Pale Blue Dot photograph before carrying a gold-plated phonograph record of Earth's music and greetings into the silent interstellar void.",
+    "summaryBn": "১৯৭৭ সালে পৃথিবী থেকে যাত্রা শুরু করা ভয়েজার ১ আমাদের পৃথিবীকে 'এক চিলতে নীল বিন্দুর' ছবিতে অমর করে রেখে মানবজাতির সংগীত ও শুভেচ্ছা সংবলিত এক সোনালি ডিস্ক নিয়ে মহাশূন্যে ছুটে চলেছে।",
+    "sentences": [
+      {
+        "en": "In the late summer of 1977, NASA capitalized on a rare geometric alignment of outer planets occurring once every 175 years to launch twin probes Voyager 1 and Voyager 2.",
+        "bn": "১৯৭৭ সালের গ্রীষ্মে প্রতি ১৭৫ বছরে একবার ঘটা গ্রহদের বিশেষ সারিবদ্ধতাকে কাজে লাগিয়ে নাসা মহাকাশে ভয়েজার ১ এবং ভয়েজার ২ নামের দুটি যান উৎক্ষেপণ করে।"
+      },
+      {
+        "en": "Voyager 1 transmitted unprecedented close-up imagery of Jupiter's swirling Great Red Spot and discovered sulfurous active volcanic plumes exploding on the moon Io.",
+        "bn": "ভয়েজার ১ বৃহস্পতির বিশাল ঘূর্ণায়মান লাল ঝড়ের চমৎকার ছবি পাঠায় এবং এর উপগ্রহ আইও-তে সক্রিয় আগ্নেয়গিরির অগ্ন্যুৎপাত আবিষ্কার করে।"
+      },
+      {
+        "en": "Attached to its chassis is the famous Golden Record, a 12-inch gold-plated copper phonograph record curated by astronomer Carl Sagan.",
+        "bn": "এর গায়ে সাঁটা রয়েছে জ্যোতির্বিজ্ঞানী কার্ল সাগানের উদ্যোগে তৈরি ১২ ইঞ্চির একটি সোনালি গ্রামোফোন রেকর্ড, যাতে পৃথিবীর নানা ভাষার শুভেচ্ছা ও সংগীত রয়েছে।"
+      },
+      {
+        "en": "The record encodes greetings in fifty-five human languages, songs of humpback whales, classical compositions by Bach and Beethoven, and Chuck Berry's rock-and-roll guitar.",
+        "bn": "এতে পঞ্চান্নটি মানব ভাষার সম্ভাষণ, তিমির গান, বাখ ও বিথোভেনের ধ্রুপদী সুর এবং চাক বেরির রক সংগীতের সুর সংকেত আকারে গেঁথে দেওয়া হয়েছে।"
+      },
+      {
+        "en": "In 1990, four billion miles from home, Voyager turned its camera backward to take a farewell portrait: Earth appearing as a solitary, fragile 'Pale Blue Dot' suspended in a sunbeam.",
+        "bn": "১৯৯০ সালে চারশো কোটি মাইল দূর থেকে ভয়েজার পেছন ফিরে আমাদের পৃথিবীর একটি শেষ ছবি তোলে—সূর্যের আলোর চিলতে রেখায় ভাসমান এক নিঃসঙ্গ 'ফ্যাকাশে নীল বিন্দু'।"
+      },
+      {
+        "en": "In 2012, Voyager 1 officially crossed the heliopause into true interstellar space, becoming the very first artificial object to exit the sun's bubble of influence.",
+        "bn": "২০১২ সালে এটি সৌরজগতের সীমানা পেরিয়ে উন্মুক্ত গ্যালাক্সির অন্ধকার মহাশূন্যে প্রবেশ করে এবং মানুষের তৈরি প্রথম দূরতম যানের মর্যাদা পায়।"
+      },
+      {
+        "en": "Drifting toward the constellation Ophiuchus for billions of years, it carries the quiet testament that on one small world, conscious life sang to the cosmos.",
+        "bn": "বিলিয়ন বছর ধরে মহাশূন্যে ভেসে থাকা এই যানটি মহাবিশ্বকে জানিয়ে দেবে যে দূর এক নীল গ্রহে বুদ্ধিমান প্রাণীরা কখনো বেঁচে ছিল এবং তারা নক্ষত্রদের গান শুনিয়েছিল।"
+      }
+    ]
+  },
+  {
+    "id": "hubble-space-telescope-deep-field-vision",
+    "title": "The Hubble Space Telescope: Correcting the Eye of Heaven",
+    "titleBn": "হাবল স্পেস টেলিস্কোপ: মহাবিশ্বের অতল রহস্য উন্মোচন",
+    "author": "Astronomy & Space Exploration",
+    "level": "Intermediate",
+    "category": "Astronomy & Space Exploration",
+    "coverEmoji": "🔭",
+    "summary": "Plagued initially by a microscopic mirror flaw, the Hubble Space Telescope was repaired in orbit by spacewalking astronauts, revealing thousands of primeval galaxies in the Deep Field.",
+    "summaryBn": "প্রথমে আয়নায় সামান্য ত্রুটি নিয়ে কক্ষপথে গেলেও নভোচারীদের দুঃসাহসিক মেরামতের পর হাবল স্পেস টেলিস্কোপ মহাবিশ্বের গভীরের বিলিয়ন আলোকবর্ষ দূরের আদিম গ্যালাক্সির রূপ উন্মোচন করেছিল।",
+    "sentences": [
+      {
+        "en": "Deployed by Space Shuttle Discovery in April 1990 into an orbit 340 miles above Earth, the Hubble Space Telescope was designed to see the universe free from atmospheric blur.",
+        "bn": "১৯৯০ সালের এপ্রিলে ডিসকভারি শাটল দ্বারা পৃথিবীর ৩৪০ মাইল ওপরে স্থাপিত হাবল স্পেস টেলিস্কোপের উদ্দেশ্য ছিল বায়ুমণ্ডলের বাধা ছাড়া মহাবিশ্বকে স্পষ্টভাবে দেখা।"
+      },
+      {
+        "en": "To the horror of the global scientific community, its initial images were fuzzy due to a microscopic spherical aberration ground into its 94-inch primary mirror—one-fiftieth the thickness of a human hair.",
+        "bn": "কিন্তু বিজ্ঞানীদের স্তম্ভিত করে এর প্রথম ছবিগুলো ঘোলাটে এলো, কারণ এর মূল আয়নাটিতে মানুষের চুলের পঞ্চাশ ভাগের এক ভাগ পরিমাণ সামান্য গোলযোগ ছিল।"
+      },
+      {
+        "en": "In 1993, the crew of Endeavour embarked on STS-61, one of the most complex spacewalking missions in history, installing corrective optics like a pair of celestial eyeglasses.",
+        "bn": "১৯৯৩ সালে নভোচারীরা মহাকাশে হেঁটে ইতিহাসের সবচেয়ে জটিল অভিযান পরিচালনা করেন এবং হাবলের আয়নায় চশমার মতো একটি বিশেষ অপটিক্যাল লেন্স বসিয়ে দেন।"
+      },
+      {
+        "en": "The crystalline clarity restored, Hubble aimed its gaze at an apparently empty, pitch-black patch of sky near the Big Dipper for ten consecutive days in 1995.",
+        "bn": "দৃষ্টিশক্তি ফিরে পেয়ে ১৯৯৫ সালে হাবল আকাশের সবচেয়ে অন্ধকার ও ফাঁকা মনে হওয়া একটি ছোট্ট জায়গায় টানা দশ দিন ধরে চোখ স্থির করে রাখল।"
+      },
+      {
+        "en": "The resulting 'Hubble Deep Field' image revealed over three thousand hitherto unknown galaxies, each containing billions of suns burning back near the dawn of cosmic time.",
+        "bn": "সেই 'ডিপ ফিল্ড' ছবিতে মহাকাশের সেই এক চিলতে জায়গায় তিন হাজারেরও বেশি নতুন গ্যালাক্সি ভেসে উঠল, যার প্রতিটি কোটি কোটি নক্ষত্র নিয়ে জ্বলজ্বল করছে।"
+      },
+      {
+        "en": "Hubble determined the rate of cosmic expansion, confirmed the ubiquity of supermassive black holes, and showed that the expansion of the universe is actively accelerating.",
+        "bn": "হাবল মহাবিশ্বের সম্প্রসারণের গতি নির্ণয় করেছে, ব্ল্যাক হোলের অস্তিত্ব নিশ্চিত করেছে এবং প্রমাণ করেছে যে মহাবিশ্ব ক্রমশ দ্রুত গতিতে চারদিকে ছড়িয়ে পড়ছে।"
+      },
+      {
+        "en": "Floating silently above the cloud tops, Hubble has gifted humanity with icons of cosmic majesty that will nourish human imagination for millennia.",
+        "bn": "মেঘের বহু ওপর দিয়ে নিঃশব্দে ভেসে বেড়ানো এই দূরবীন মানুষের চোখে মহাজাগতিক সৃষ্টির এমন সব রূপ তুলে ধরেছে যা মানবজাতিকে চিরকাল বিস্মিত করে রাখবে।"
+      }
+    ]
+  },
+  {
+    "id": "bessie-coleman-queen-bess-barnstorming",
+    "title": "Bessie Coleman: Queen Bess Defies Segregation in the Sky",
+    "titleBn": "বেসি কোলম্যান: আকাশের বুকে বর্ণবাদের দেয়াল ভাঙা পাইলট",
+    "author": "Aviation Pioneers & Aerodynamics",
+    "level": "Intermediate",
+    "category": "Aviation Pioneers & Aerodynamics",
+    "coverEmoji": "✈️",
+    "summary": "Barred from American flight schools due to racism and sexism, Bessie Coleman learned French and sailed to Paris, earning the world's first international pilot's license for a Black woman.",
+    "summaryBn": "আমেরিকায় বর্ণবাদের কারণে বিমান চালানো শিখতে না পেরে বেসি কোলম্যান ফরাসি ভাষা শিখে প্যারিসে পাড়ি জমান এবং প্রথম কৃষ্ণাঙ্গ নারী হিসেবে আন্তর্জাতিক বৈমানিক লাইসেন্স অর্জন করেন।",
+    "sentences": [
+      {
+        "en": "Born into poverty in a Texas sharecropper's cabin, young Bessie Coleman picked hundreds of pounds of cotton daily while dreaming of soaring beyond the rigid boundaries of Jim Crow.",
+        "bn": "টেক্সাসের এক দরিদ্র বর্গাচাষীর ঘরে জন্ম নিয়ে ছোটবেলায় প্রতিদিন তুলো তোলার কঠোর পরিশ্রম করার সময়ই বেসি কোলম্যানের চোখে ছিল আকাশের সীমানা ছোঁয়ার স্বপ্ন।"
+      },
+      {
+        "en": "Moving to Chicago during the Great Migration, she listened to returning World War I pilots speak of the freedom of flight, resolving to become an aviator herself.",
+        "bn": "শিকাগোয় এসে প্রথম বিশ্বযুদ্ধের পাইলটদের মুখে ওড়ার রোমাঞ্চকর গল্প শুনে তিনি মনে মনে প্রতিজ্ঞা করলেন যে তিনি নিজেও একজন বৈমানিক হবেন।"
+      },
+      {
+        "en": "Every aviation school in the United States rejected her application outright because of her race and gender, refusing to allow a Black woman into an aircraft cockpit.",
+        "bn": "কিন্তু গায়ের রঙ কালো এবং নারী হওয়ার অপরাধে আমেরিকার সমস্ত বিমান প্রশিক্ষণ স্কুল তাঁর আবেদনপত্র সরাসরি ছুড়ে ফেলে দিল।"
+      },
+      {
+        "en": "Encouraged by Black newspaper publisher Robert Abbott, Coleman attended evening school to master the French language, saving every nickel to sail to France in 1920.",
+        "bn": "এক সাংবাদিকের পরামর্শে তিনি রাতের স্কুলে কষ্ট করে ফরাসি ভাষা শিখলেন এবং টাকা জমিয়ে ১৯২০ সালে জাহাজে চড়ে ফ্রান্সে পাড়ি দিলেন।"
+      },
+      {
+        "en": "Accepted at the prestigious Caudron Brothers' School of Aviation, she flew frail Nieuport biplanes, earning her international pilot's license from the Fédération Aéronautique Internationale in 1921.",
+        "bn": "ফ্রান্সের নামী বৈমানিক স্কুলে ভর্তি হয়ে তিনি কাঠের নড়বড়ে বিমানে উড়ে ১৯২১ সালে প্রথম কৃষ্ণাঙ্গ ও আদিবাসী নারী হিসেবে আন্তর্জাতিক পাইলটের সনদ লাভ করলেন।"
+      },
+      {
+        "en": "Returning to America as a sensation, 'Queen Bess' thrilled crowds with breathtaking loops, barrel rolls, and figure-eights, strictly refusing to perform anywhere crowds were racially segregated.",
+        "bn": "'কুইন বেসি' উপাধি নিয়ে দেশে ফিরে তিনি আকাশে নানা কসরত দেখিয়ে সবাইকে চমকে দিলেন এবং যেখানে কৃষ্ণাঙ্গদের বসতে বৈষম্য করা হতো সেখানে প্রদর্শনী করতে অস্বীকৃতি জানালেন।"
+      },
+      {
+        "en": "Though she died in an accidental test crash in 1926, Coleman cleared an aerial flight path through prejudice, teaching children that the sky is open to all who dare to dream.",
+        "bn": "১৯২৬ সালে এক বিমান দুর্ঘটনায় অকালে মারা গেলেও বেসি কোলম্যান দেখিয়ে গেছেন যে কোনো বৈষম্যই মানুষের স্বপ্নের উড্ডয়নকে মাটিতে আটকে রাখতে পারে না।"
+      }
+    ]
+  },
+  {
+    "id": "james-webb-space-telescope-cosmic-dawn",
+    "title": "The James Webb Space Telescope: Peering into the Cosmic Dawn",
+    "titleBn": "জেমস ওয়েব টেলিস্কোপ: সৃষ্টির আদিলগ্নে দৃষ্টিপাত",
+    "author": "Astronomy & Space Exploration",
+    "level": "Intermediate",
+    "category": "Astronomy & Space Exploration",
+    "coverEmoji": "✨",
+    "summary": "Stationed one million miles from Earth at Lagrange Point 2, the James Webb Space Telescope uses gold-coated beryllium mirrors to capture the very first light emitted after the Big Bang.",
+    "summaryBn": "পৃথিবী থেকে দশ লাখ মাইল দূরে মহাকাশের দ্বিতীয় ল্যাগ্রাঞ্জ পয়েন্টে অবস্থান নিয়ে জেমস ওয়েব টেলিস্কোপ সোনার প্রলেপযুক্ত আয়নার সাহায্যে বিগ ব্যাং-এর পর জ্বলে ওঠা প্রথম নক্ষত্রের আলো খুঁজছে।",
+    "sentences": [
+      {
+        "en": "Conceived as the successor to Hubble, the James Webb Space Telescope required three decades of international engineering to operate at the cryogenic temperature of minus 390 degrees Fahrenheit.",
+        "bn": "হাবলের উত্তরসূরি হিসেবে পরিকল্পিত জেমস ওয়েব টেলিস্কোপকে মহাশূন্যের মাইনাস ৩৯০ ডিগ্রি ফারেনহাইটের বরফশীতল তাপমাত্রায় কাজ করার উপযোগী করে গড়ে তুলতে ত্রিশ বছর সময় লেগেছে।"
+      },
+      {
+        "en": "Because ancient light from the universe's earliest epochs has been stretched by cosmological expansion into infrared wavelengths, Webb was built to see invisible heat signatures.",
+        "bn": "মহাবিশ্বের সৃষ্টির শুরুর আলো মহাশূন্যের প্রসারণের ফলে অবলোহিত বা ইনফ্রারেড তরঙ্গে পরিণত হওয়ায় জেমস ওয়েবকে অদৃশ্য তাপীয় তরঙ্গ দেখার জন্য বিশেষভাবে তৈরি করা হয়েছে।"
+      },
+      {
+        "en": "On Christmas Day 2021, an Ariane 5 rocket launched the folded observatory toward Lagrange Point 2, a gravitational equilibrium point nearly one million miles from Earth.",
+        "bn": "২০২১ সালের ক্রিসমাসের দিন একটি আরিয়ান ৫ রকেট ভাঁজ করা এই দূরবীনটিকে পৃথিবী থেকে প্রায় দশ লাখ মাইল দূরে ল্যাগ্রাঞ্জ পয়েন্ট ২-এর উদ্দেশ্যে ছুঁড়ে দিল।"
+      },
+      {
+        "en": "Webb executed three hundred individual single-point-failure mechanical deployments in deep space, unfurling a five-layer tennis-court-sized Kapton sunshield with microscopic precision.",
+        "bn": "মহাশূন্যের গভীরে গিয়ে এটি তিন শতাধিক ঝুঁকিপূর্ণ ধাপ পার করে টেনিস কোর্টের সমান আকারের পাঁচ স্তরের একটি সুবিশাল সৌরঢাল নিখুঁতভাবে মেলে ধরল।"
+      },
+      {
+        "en": "Its primary mirror—comprising eighteen hexagonal segments of lightweight beryllium coated in a microscopically thin film of pure vaporized gold—spans over twenty-one feet across.",
+        "bn": "এর মূল আয়নাটি খাঁটি সোনার বাষ্পের পাতলা প্রলেপ দেওয়া আঠারোটি ষড়ভুজাকার বেরিলিয়াম পাথর দিয়ে তৈরি, যার বিস্তার একুশ ফুটেরও বেশি।"
+      },
+      {
+        "en": "Webb has pierced through thick cosmic dust clouds, detecting primordial galaxies that formed mere hundreds of millions of years after the Big Bang and analyzing water vapor in exoplanet atmospheres.",
+        "bn": "এটি ধূলিমেঘ ভেদ করে বিগ ব্যাং-এর মাত্র কয়েকশো মিলিয়ন বছর পরের প্রাচীন ছায়াপথ এবং দূরবর্তী গ্রহের বায়ুমণ্ডলে পানির অস্তিত্ব শনাক্ত করে বিজ্ঞানীদের বিস্মিত করেছে।"
+      },
+      {
+        "en": "By gazing into the dawn of time, Webb reminds us that we are the conscious universe exploring its own luminous origins.",
+        "bn": "সৃষ্টির আদিলগ্নে তাকিয়ে এই দূরবীন আমাদের মনে করিয়ে দেয় যে আমরা সেই মহাবিশ্বেরই এক অংশ যারা নিজেদের উৎপত্তির রহস্য নিজেরাই খুঁজে ফিরছি।"
+      }
+    ]
+  },
+  {
+    "id": "sergei-korolev-chief-designer-sputnik",
+    "title": "Sergei Korolev: The Mysterious Chief Designer of Sputnik",
+    "titleBn": "সের্গেই করোলেভ: স্পুটনিকের নেপথ্য রূপকার",
+    "author": "Astronomy & Space Exploration",
+    "level": "Intermediate",
+    "category": "Astronomy & Space Exploration",
+    "coverEmoji": "🛰️",
+    "summary": "Surviving Stalin's Siberian Gulag, Sergei Korolev operated in complete secrecy as the Soviet Chief Designer, launching Sputnik, Laika, and Gagarin to initiate the Space Age.",
+    "summaryBn": "সাইবেরিয়ার শ্রমশিবিরের দুঃসহ নির্যাতন থেকে বেঁচে ফিরে গোপন পরিচয় ধারণ করে সের্গেই করোলেভ স্পুটনিক, লাইকা ও গ্যাগারিনকে মহাকাশে পাঠিয়ে মহাকাশ যুগের সূচনা করেছিলেন।",
+    "sentences": [
+      {
+        "en": "In 1938, during the height of Joseph Stalin's brutal Great Purge, brilliant Ukrainian aerospace engineer Sergei Korolev was falsely arrested for treason and sentenced to the gold mines of Kolyma.",
+        "bn": "১৯৩৮ সালে স্তালিনের কঠোর রাজনৈতিক নিধনের সময় প্রতিভাবান মহাকাশ প্রকৌশলী সের্গেই করোলেভকে মিথ্যা দেশদ্রোহের অভিযোগে সাইবেরিয়ার বরফশীতল স্বর্ণখনির শ্রমাগারে বন্দি করা হয়।"
+      },
+      {
+        "en": "Enduring scurvy, broken jaws, and sub-zero blizzards that killed thousands of prisoners, he was eventually transferred to a secret prison laboratory where incarcerated scientists developed military rocketry.",
+        "bn": "তীব্র ঠাণ্ডা আর নির্যাতনে দাঁত-চোয়াল ভেঙে গেলেও তিনি অলৌকিকভাবে বেঁচে ফিরে বন্দি বিজ্ঞানীদের গোপন পরীক্ষাগারে রকেট বানানোর কাজে যোগ দেন।"
+      },
+      {
+        "en": "Following the war, Korolev was placed in charge of the fledgling Soviet space program, known to the world only as 'The Chief Designer' to protect him from Western assassination.",
+        "bn": "যুদ্ধের পর তাঁকে সোভিয়েত মহাকাশ কর্মসূচির সর্বময় কর্তা করা হয়, কিন্তু পশ্চিমা আক্রমণ থেকে বাঁচাতে তাঁর নাম গোপন রেখে তাঁকে শুধুই 'প্রধান নকশাকার' বলে ডাকা হতো।"
+      },
+      {
+        "en": "On October 4, 1957, his team launched Sputnik 1, a polished aluminum sphere whose rhythmic radio beeps orbited the globe, plunging the United States into existential panic.",
+        "bn": "১৯৫৭ সালের ৪ অক্টোবর তাঁর দল স্পুটনিক ১ উপগ্রহ আকাশে পাঠায়; এর ধাতব শরীর থেকে ভেসে আসা টুংটুং রেডিও সংকেত সারা পৃথিবীতে মহাকাশ যুগের দামামা বাজিয়ে দেয়।"
+      },
+      {
+        "en": "Within a frantic decade, Korolev orchestrated the first animal in orbit, the first probe to impact the Moon, the first photos of the Moon's far side, and Yuri Gagarin's maiden human spaceflight.",
+        "bn": "এক দশকের মধ্যে করোলেভ মহাকাশে প্রথম কুকুর পাঠানো, চাঁদে প্রথম মহাকাশযান ফেলা, চাঁদের অন্ধকারের উল্টোপিঠের ছবি তোলা এবং গ্যাগারিনকে মহাকাশে পাঠানোর ইতিহাস গড়েন।"
+      },
+      {
+        "en": "He worked under crushing physical exhaustion, his heart scarred by the Gulag, yet his visionary determination carried humanity beyond the cradle of Earth.",
+        "bn": "শ্রমাগারের ক্ষতের কারণে দুর্বল হৃদপিণ্ড নিয়েও দিনরাত এক করে কাজ করে তিনি মানবজাতিকে পৃথিবীর কোল ছেড়ে অনন্তের পথে এগিয়ে দিয়েছিলেন।"
+      },
+      {
+        "en": "Only after his death during surgery in 1966 was his name finally unveiled to an admiring world, his ashes interred with highest state honors within the Kremlin Wall.",
+        "bn": "১৯৬৬ সালে এক অস্ত্রোপচারের সময় তাঁর মৃত্যুর পরেই কেবল বিশ্ববাসী এই মহান রূপকারের নাম জানতে পেরেছিল এবং ক্রেমলিনের দেয়ালে তাঁকে রাষ্ট্রীয় সম্মানে সমাহিত করা হয়।"
+      }
+    ]
+  },
+  {
+    "id": "katherine-johnson-hidden-figures-mercury",
+    "title": "Katherine Johnson: Calculating Trajectories for the Stars",
+    "titleBn": "ক্যাথরিন জনসন: মহাকাশ অভিযানের গাণিতিক পথপ্রদর্শক",
+    "author": "Astronomy & Space Exploration",
+    "level": "Intermediate",
+    "category": "Astronomy & Space Exploration",
+    "coverEmoji": "🔢",
+    "summary": "Working as a human computer at segregated NASA Langley, Katherine Johnson calculated orbital trajectories for John Glenn, who refused to fly until 'the girl checked the numbers.'",
+    "summaryBn": "বর্ণবাদের চরম বৈষম্যের মাঝে নাসার কৃষ্ণাঙ্গ গণিতবিদ ক্যাথরিন জনসন জন গ্লেনের মহাকাশযানের কক্ষপথের জটিল হিসাব করেছিলেন; তাঁর অনুমোদনের পরেই মহাকাশে পা রেখেছিলেন নভোচারীরা।",
+    "sentences": [
+      {
+        "en": "Blessed with an innate fascination for counting everything from footsteps to church pews, African American prodigy Katherine Johnson graduated from high school at fourteen and college at eighteen.",
+        "bn": "ছোটবেলা থেকেই সবকিছু গোনার এক অদ্ভুত ভালোবাসায় পূর্ণ ক্যাথরিন জনসন মাত্র চৌদ্দ বছর বয়সে স্কুল এবং আঠারো বছর বয়সে গণিতে স্নাতক শেষ করেছিলেন।"
+      },
+      {
+        "en": "In 1953, she joined the National Advisory Committee for Aeronautics (later NASA) at Langley, working as a human 'computer' in a segregated basement unit designated for Black women.",
+        "bn": "১৯৫৩ সালে তিনি নাসার ল্যাংলি কেন্দ্রে যোগ দেন এবং বর্ণবৈষম্যের শিকার কৃষ্ণাঙ্গ নারীদের জন্য আলাদা করে রাখা বেসমেন্টে 'মানব কম্পিউটার' হিসেবে জটিল হিসাব শুরু করেন।"
+      },
+      {
+        "en": "Defying Jim Crow segregation signs and male-only briefings, Johnson insisted on attending strategic flight meetings, asserting: 'Is there a law against me being there?'",
+        "bn": "বর্ণবাদের বাধা ও কেবল পুরুষদের জন্য সংরক্ষিত মিটিংয়ের নিয়ম উপেক্ষা করে তিনি সরাসরি টেবিলে গিয়ে বসলেন এবং জানতে চাইলেন তাঁর উপস্থিতির বিরুদ্ধে কোনো লিখিত আইন আছে কি না।"
+      },
+      {
+        "en": "Her peerless mastery of analytic geometry made her indispensable; she plotted the launch window and orbital trajectory for Alan Shepard's historic 1961 suborbital flight.",
+        "bn": "বিশ্লেষণমূলক জ্যামিতিতে তাঁর অসামান্য দক্ষতা তাঁকে অপরিহার্য করে তুলল; ১৯৬১ সালে আমেরিকার প্রথম নভোচারী অ্যালান শেপার্ডের ওড়ার সব গাণিতিক হিসাব তিনিই করেছিলেন।"
+      },
+      {
+        "en": "When NASA introduced electronic IBM computers to calculate John Glenn's orbit around Earth, the distrustful astronaut insisted: 'Get the girl to check the numbers—if she says they're good, I'm ready to go.'",
+        "bn": "জন গ্লেন যখন মহাকাশে যান, তখন সদ্য চালু হওয়া কম্পিউটারের হিসাবে ভরসা না পেয়ে তিনি নির্দেশ দিয়েছিলেন: 'ক্যাথরিনকে দিয়ে হিসাব যাচাই করাও; সে ঠিক বললে তবেই আমি রকেটে উঠব।'"
+      },
+      {
+        "en": "Johnson spent a day and a half rechecking the orbital equations by hand with a desktop mechanical adding machine, finding the computer's calculations matched her own down to the decimal.",
+        "bn": "ক্যাথরিন দেড় দিন ধরে হাতে কলমে সমীকরণগুলো মিলিয়ে দেখলেন যে কম্পিউটারের হিসাবের সাথে তাঁর নিজস্ব হিসাব শতভাগ মিলে গেছে।"
+      },
+      {
+        "en": "Awarded the Presidential Medal of Freedom in 2015, Katherine Johnson's brilliant pencils helped guide humanity safely to the Moon and home again.",
+        "bn": "২০১৫ সালে আমেরিকার সর্বোচ্চ বেসামরিক সম্মাননায় ভূষিত এই বিদুষী নারীর পেন্সিলের হিসাবই মানুষকে নিরাপদে চাঁদে নিয়ে গিয়ে আবার ঘরে ফিরিয়ে এনেছিল।"
+      }
+    ]
+  },
+  {
+    "id": "antoine-de-saint-exupery-night-flight-sahara",
+    "title": "Antoine de Saint-Exupéry: Wind, Sand, and Night Flight",
+    "titleBn": "অঁতোয়ান দ্য সাঁ-তেগজু পেরি: রাতের আকাশ ও মরুভূমির গান",
+    "author": "Aviation Pioneers & Aerodynamics",
+    "level": "Intermediate",
+    "category": "Aviation Pioneers & Aerodynamics",
+    "coverEmoji": "⭐",
+    "summary": "Pioneering French airmail pilot Antoine de Saint-Exupéry survived a plane crash in the Libyan desert, transforming loneliness and starry flights into timeless literary wisdom.",
+    "summaryBn": "ফরাসি ডাক পাইলট সাঁ-তেগজু পেরি সাহারা মরুভূমিতে বিমান দুর্ঘটনায় মৃত্যুর মুখ থেকে ফিরে এসে তাঁর সেই নিঃসঙ্গ রাতের ওড়ার স্মৃতি থেকে অমর রূপকথা 'দ্য লিটল প্রিন্স' রচনা করেন।",
+    "sentences": [
+      {
+        "en": "In the pioneering 1920s, French aristocrat Antoine de Saint-Exupéry flew fragile open-cockpit biplanes for the Aéropostale airmail service across the Sahara Desert and Patagonia.",
+        "bn": "১৯২০-এর দশকে ফরাসি বৈমানিক সাঁ-তেগজু পেরি ডাক বিভাগের হয়ে সাহারা মরুভূমি ও পাতাগোনিয়ার বিপদসংকুল আকাশের ওপর দিয়ে এক খোলা ককপিটের বিমানে চিঠি পৌঁছে দিতেন।"
+      },
+      {
+        "en": "Navigating only by the glow of distant constellations and erratic magnetic needles, pilots faced sudden sandstorms, engine failures, and capture by hostile nomadic desert tribes.",
+        "bn": "কোনো রাডার ছাড়া কেবল দূর আকাশের তারার আলো আর কম্পাস সম্বল করে তাঁরা হঠাৎ বালুঝড় ও মরুভূমির বৈরী যাযাবরদের আক্রমণের মুখোমুখি হতেন।"
+      },
+      {
+        "en": "In December 1935, attempting a record flight from Paris to Saigon, his Caudron Simoun monoplane slammed into the dunes of the Libyan Desert at 170 miles per hour.",
+        "bn": "১৯৩৫ সালের ডিসেম্বরে প্যারিস থেকে সাইগন উড়াল দেওয়ার সময় তাঁর বিমানটি ঘণ্টায় ১৭০ মাইল বেগে লিবিয়ার সাহারা মরুভূমির বালিয়াড়িতে আছড়ে পড়ে দুমড়ে মুচড়ে যায়।"
+      },
+      {
+        "en": "Stranded four days with less than a cup of water, he and his navigator suffered blistering heat, auditory hallucinations, and mirages before being rescued by a passing Bedouin on a camel.",
+        "bn": "এক কাপেরও কম পানি নিয়ে চার দিন ধরে প্রখর রোদ আর তীব্র তৃষ্ণার বিভ্রমের মাঝে মৃত্যুর মুখোমুখি থাকা অবস্থায় এক বেদুইন উটে চড়ে এসে তাঁদের জীবন বাঁচায়।"
+      },
+      {
+        "en": "These celestial night flights and near-death experiences inspired his masterworks, including 'Night Flight,' 'Wind, Sand and Stars,' and the immortal philosophical fable 'The Little Prince.'",
+        "bn": "আকাশের এই নিঃসঙ্গ রাত ও মৃত্যুর অনুভূতি থেকেই জন্ম নিয়েছিল তাঁর বিশ্বখ্যাত বই 'উইন্ড, স্যান্ড অ্যান্ড স্টারস' এবং অমর রূপকথা 'দ্য লিটল প্রিন্স'।"
+      },
+      {
+        "en": "He penned the unforgettable truth: 'It is only with the heart that one can see rightly; what is essential is invisible to the eye.'",
+        "bn": "তিনি লিখেছিলেন সেই চিরন্তন সত্য কথা: 'কেবলমাত্র হৃদয় দিয়েই সবকিছু সঠিকভাবে দেখা যায়; যা সবচেয়ে সুন্দর ও প্রয়োজনীয় তা চোখের দৃষ্টিতে ধরা পড়ে না।'"
+      },
+      {
+        "en": "Disappearing while flying a reconnaissance mission over the Mediterranean during World War II in 1944, Saint-Exupéry merged forever with the stars he loved so dearly.",
+        "bn": "১৯৪৪ সালে দ্বিতীয় বিশ্বযুদ্ধের সময় ভূমধ্যসাগরের আকাশে নিজের বিমানে উধাও হয়ে তিনি চিরদিনের জন্য সেই নক্ষত্রমণ্ডলীর মাঝে হারিয়ে গেলেন যাদের তিনি এত ভালোবাসতেন।"
+      }
+    ]
+  },
+  {
+    "id": "international-space-station-orbital-laboratory",
+    "title": "The International Space Station: An Orbiting Citadel of Peace",
+    "titleBn": "আন্তর্জাতিক মহাকাশ স্টেশন: কক্ষপথে শান্তির বৈজ্ঞানিক নীড়",
+    "author": "Astronomy & Space Exploration",
+    "level": "Intermediate",
+    "category": "Astronomy & Space Exploration",
+    "coverEmoji": "🛰️",
+    "summary": "Assembled module by module across forty space missions, the International Space Station orbits Earth sixteen times a day, hosting global crews in peaceful scientific collaboration.",
+    "summaryBn": "চল্লিশটি জটিল অভিযানের মাধ্যমে মহাকাশে জোড়া লাগিয়ে তৈরি করা আন্তর্জাতিক মহাকাশ স্টেশন দিনে ষোলোবার পৃথিবীকে প্রদক্ষিণ করে এবং বিশ্ব শান্তির এক অনন্য বৈজ্ঞানিক প্রতীক হয়ে আছে।",
+    "sentences": [
+      {
+        "en": "Weighing nearly a million pounds and spanning the length of an American football field, the International Space Station was assembled module by module in microgravity beginning in 1998.",
+        "bn": "প্রায় দশ লাখ পাউন্ড ওজনের এবং একটি ফুটবল মাঠের সমান প্রশস্ত আন্তর্জাতিক মহাকাশ স্টেশন ১৯৯৮ সাল থেকে মহাকাশের ওজনহীনতায় একের পর এক অংশ জোড়া লাগিয়ে তৈরি করা হয়।"
+      },
+      {
+        "en": "Former Cold War adversaries—the United States and Russia—joined hands alongside European, Japanese, and Canadian space agencies to construct humanity's greatest collaborative engineering achievement.",
+        "bn": "স্নাত যুদ্ধের দুই চিরপ্রতিদ্বন্দ্বী আমেরিকা ও রাশিয়া এবং ইউরোপ, জাপান ও কানাডার বিজ্ঞানীরা কাঁধে কাঁধ মিলিয়ে মানব ইতিহাসের এই সর্বশ্রেষ্ঠ যৌথ প্রকৌশল সৃষ্টি করেন।"
+      },
+      {
+        "en": "Orbiting two hundred and fifty miles above Earth at seventeen thousand five hundred miles per hour, the station's solar wings catch sixteen sunrises and sixteen sunsets every single twenty-four hours.",
+        "bn": "প্রতি সেকেন্ডে পাঁচ মাইল গতিতে পৃথিবীর আড়াইশো মাইল ওপর দিয়ে ছুটে চলায় এর সৌর প্যানেলগুলো প্রতি চব্বিশ ঘণ্টায় ষোলোবার সূর্যোদয় ও ষোলোবার সূর্যাস্ত দেখতে পায়।"
+      },
+      {
+        "en": "Astronauts and cosmonauts live aboard in continuous shifts, conducting pioneering zero-gravity biological research on protein crystals, muscle atrophy, and cardiovascular aging.",
+        "bn": "বিশ্বের নানা দেশের নভোচারীরা এখানে বছরের পর বছর একটানা বাস করে প্রোটিন কেলাস, পেশির ক্ষয় এবং শূন্য মাধ্যাকর্ষণে মানবদেহের পরিবর্তন নিয়ে বৈপ্লবিক গবেষণা চালাচ্ছেন।"
+      },
+      {
+        "en": "Water recycling systems capture ninety-eight percent of all aboard moisture, purifying sweat, breath humidity, and recycled urine into crystal-pure drinking water.",
+        "bn": "এর অত্যাধুনিক পানি পুনর্ব্যবহারযোগ্য ব্যবস্থা নভোচারীদের নিঃশ্বাস ও ঘামের ৯৮ শতাংশ আর্দ্রতাকে ফিল্টার করে বোতলজাত পানির চেয়েও বিশুদ্ধ সুপেয় পানিতে রূপান্তর করে।"
+      },
+      {
+        "en": "Gazing down through the seven-windowed Cupola observatory, astronauts consistently report the 'Overview Effect'—a cognitive shift realizing the absence of national borders on our shared blue jewel.",
+        "bn": "এর সাত জানালার গম্বুজ থেকে নিচের পৃথিবীর দিকে তাকিয়ে সব নভোচারীই এক অনুভূতি লাভ করেন—তাঁরা উপলব্ধি করেন যে মহাকাশ থেকে কোনো দেশের কৃত্রিম সীমানা দেখা যায় না।"
+      },
+      {
+        "en": "The ISS stands as a shining beacon demonstrating that nations can rise above terrestrial rivalries to build a common sanctuary in the heavens.",
+        "bn": "আন্তর্জাতিক মহাকাশ স্টেশন বিশ্বকে দেখিয়ে দিচ্ছে যে পৃথিবীর রাজনৈতিক রেষারেষি ভুলে মানুষ চাইলে আকাশে শান্তির এক অনুপম নীড় গড়ে তুলতে পারে।"
+      }
+    ]
+  }
+]

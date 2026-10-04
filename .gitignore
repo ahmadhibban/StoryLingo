@@ -1,0 +1,7 @@
+bin/
+gen/
+*.class
+*.dex
+*.unsigned.apk
+__pycache__/
+*.pyc

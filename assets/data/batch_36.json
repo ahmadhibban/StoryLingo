@@ -1,0 +1,617 @@
+[
+  {
+    "id": "socrates-hemlock-trial-athens",
+    "title": "Socrates and the Unexamined Life: The Hemlock of Truth",
+    "titleBn": "সক্রেটিস এবং সত্যের সন্ধানে বিষপান",
+    "author": "Classical Philosophy",
+    "level": "Intermediate",
+    "category": "Philosophers & Moral Sages",
+    "coverEmoji": "🏺",
+    "summary": "Sentenced to death by an Athenian jury for corrupting the youth, Socrates refused escape, drinking the deadly hemlock to honor the rule of law.",
+    "summaryBn": "যুবসমাজকে বিপথগামী করার মিথ্যা অভিযোগে অ্যাথেন্সের আদালত কর্তৃক মৃত্যুদণ্ডপ্রাপ্ত সক্রেটিস পালিয়ে যেতে অস্বীকৃতি জানিয়ে আইনের প্রতি শ্রদ্ধায় শান্তভাবে বিষপান করেন।",
+    "sentences": [
+      {
+        "en": "In 399 BC, seventy-year-old stonemason-turned-philosopher Socrates was dragged before an Athenian democratic tribunal of five hundred citizens, accused of impiety and corrupting the youth.",
+        "bn": "খ্রিস্টপূর্ব ৩৯৯ অব্দে সত্তর বছর বয়সী ভাস্কর ও দার্শনিক সক্রেটিসকে দেবতাদের অবমাননা এবং তরুণদের বিপথগামী করার মিথ্যা অভিযোগে অ্যাথেন্সের পাঁচশত নাগরিকের বিচারালয়ে দাঁড় করানো হয়।"
+      },
+      {
+        "en": "For decades he had wandered barefoot through the bustling agora, questioning politicians, poets, and craftsmen to expose the hollow ignorance concealed behind their arrogant claims of knowledge.",
+        "bn": "কয়েক দশক ধরে তিনি খালি পায়ে বাজারে বাজারে ঘুরে রাজনীতিবিদ ও পণ্ডিতদের নানা প্রশ্ন করতেন যাতে তাদের অহংকারী পাণ্ডিত্যের পেছনে লুকিয়ে থাকা অজ্ঞতা উন্মোচিত হয়ে পড়ে।"
+      },
+      {
+        "en": "Rather than begging the jury for mercy or parading weeping family members before the court, Socrates proudly proclaimed that 'the unexamined life is not worth living.'",
+        "bn": "আদালতের কাছে প্রাণভিক্ষা না চেয়ে কিংবা স্বজনদের কান্নাকাটি না করিয়ে সক্রেটিস দ্ব্যর্থহীন কণ্ঠে ঘোষণা করলেন: 'আত্ম-অনুসন্ধানহীন জীবন বেঁচে থাকার যোগ্যই নয়।' "
+      },
+      {
+        "en": "When narrowly voted guilty and sentenced to drink lethal hemlock tea, his wealthy pupil Crito bribed prison guards and prepared an elaborate escape to Thessaly.",
+        "bn": "মৃত্যুদণ্ডের রায় ঘোষণার পর তাঁর ধনী শিষ্য ক্রিটো কারারক্ষীদের ঘুষ দিয়ে তাঁকে অন্য দেশে নিরাপদে পালিয়ে যাওয়ার সব বন্দোবস্ত করলেন।"
+      },
+      {
+        "en": "Socrates gently rejected the flight, arguing that a philosopher who lived under the protection of Athenian laws could not break those same laws simply because a verdict proved unjust.",
+        "bn": "সক্রেটিস শান্তভাবে সেই প্রস্তাব প্রত্যাখ্যান করে বললেন—যে দেশের আইন তাঁকে আজীবন সুরক্ষা দিয়েছে, নিজের স্বার্থে অন্যায় রায় হলেও সেই আইন ভেঙে পালিয়ে যাওয়া চরম অনৈতিক।"
+      },
+      {
+        "en": "Surrounded by his weeping disciples inside his cell, Socrates calmly drank the chalice of pulverized hemlock poison, comforting his friends as paralysis crept from his feet to his heart.",
+        "bn": "কারাগারে কাঁদতে থাকা শিষ্যদের মাঝে বসে সক্রেটিস পরম শান্তিতে বিষের পেয়ালা পান করলেন এবং পা অবশ হয়ে হৃদপিণ্ড থেমে যাওয়ার আগ পর্যন্ত সঙ্গীদের সান্ত্বনা দিয়ে গেলেন।"
+      },
+      {
+        "en": "His heroic martyrdom cemented the foundation of Western critical inquiry, proving that integrity of conscience is infinitely more precious than biological survival.",
+        "bn": "তাঁর এই মহান আত্মত্যাগ পশ্চিমা দর্শন ও সত্য অনুসন্ধানের ভিত্তি স্থাপন করে দেখিয়ে দিয়েছিল যে শারীরিক অস্তিত্বের চেয়ে বিবেকের সততা বহুগুণ মূল্যবান।"
+      }
+    ]
+  },
+  {
+    "id": "confucius-analects-benevolence-ren",
+    "title": "Confucius and the Golden Rule of Ren",
+    "titleBn": "কনফুসিয়াস এবং ভালোবাসার সুবর্ণ অনুশাসন 'রেন'",
+    "author": "Chinese Philosophy",
+    "level": "Intermediate",
+    "category": "Philosophers & Moral Sages",
+    "coverEmoji": "📜",
+    "summary": "Wandering through warring Chinese feudal states, Confucius taught that societal harmony blooms only when individuals practice empathy, filial piety, and benevolence.",
+    "summaryBn": "গৃহযুদ্ধে বিধ্বস্ত প্রাচীন চীনের রাজ্যগুলোতে ঘুরে ঘুরে কনফুসিয়াস শিখিয়েছিলেন যে সমাজের শান্তি তখনই সম্ভব যখন মানুষ পারস্পরিক শ্রদ্ধা, পিতা-মাতার সেবা ও দয়াদাক্ষিণ্য চর্চা করে।",
+    "sentences": [
+      {
+        "en": "Born into modest nobility in the state of Lu during China’s fractured Spring and Autumn period, Master Kong, known to the West as Confucius, witnessed an empire torn by greed, betrayal, and relentless feudal warfare.",
+        "bn": "চীনের গৃহযুদ্ধে দীর্ণ বসন্ত ও শরৎকালের অস্থির যুগে লু রাজ্যে জন্মগ্রহণকারী মাস্টার কং—যিনি পশ্চিমে কনফুসিয়াস নামে পরিচিত—লোভ ও যুদ্ধের ভয়াবহতা স্বচক্ষে দেখেছিলেন।"
+      },
+      {
+        "en": "Convinced that society could not be healed through punitive laws or military violence, he wandered with a devoted band of disciples from kingdom to kingdom, counseling feuding dukes.",
+        "bn": "কঠোর শাস্তি বা অস্ত্রের জোরে সমাজে শান্তি আনা অসম্ভব বুঝতে পেরে তিনি শিষ্যদের সাথে নিয়ে এক রাজ্য থেকে অন্য রাজ্যে ঘুরে শাসকদের ন্যায়ের পথে চলার পরামর্শ দিতে লাগলেন।"
+      },
+      {
+        "en": "Confucius placed the supreme virtue of 'Ren'—human-heartedness, benevolence, and empathy—at the center of all moral philosophy.",
+        "bn": "কনফুসিয়াস তাঁর সমগ্র দর্শনের কেন্দ্রে স্থাপন করেছিলেন 'রেন' নামক মহৎ গুণটিকে—যার অর্থ মানবপ্রেম, দয়া এবং অন্যের প্রতি সহমর্মিতা।"
+      },
+      {
+        "en": "When asked by his student Zigong if a single word could guide a person’s entire life, Confucius formulated the negative Golden Rule: 'Do not impose upon others what you do not desire for yourself.'",
+        "bn": "শিষ্য জিগং পুরো জীবন পরিচালনা করার মতো একটিমাত্র মূলনীতির কথা জানতে চাইলে কনফুসিয়াস সেই সুবর্ণ অনুশাসন দিলেন: 'অন্যের যে আচরণ নিজের জন্য অপছন্দ করো, তা অন্যের সাথেও কোরো না।' "
+      },
+      {
+        "en": "He taught that rulers must lead by virtuous moral example rather than terror, comparing a benevolent monarch to the north star, which rests motionless while constellations orbit around it.",
+        "bn": "তিনি বললেন শাসকদের ভীতি প্রদর্শন না করে নৈতিক আদর্শ দিয়ে দেশ শাসন করতে হবে—যেমন ধ্রুবতারা স্থির দাঁড়িয়ে থেকে নক্ষত্রদের পথ দেখায়।"
+      },
+      {
+        "en": "He elevated filial piety and ceremonial respect within families as the essential building blocks that train citizens for harmonious civic brotherhood.",
+        "bn": "পরিবারে পিতা-মাতার সেবা ও পারস্পরিক শ্রদ্ধাবোধকে তিনি সুনাগরিক গড়ে তোলার এবং সমাজে ঐক্য প্রতিষ্ঠার প্রথম ও প্রধান ধাপ হিসেবে আখ্যায়িত করেন।"
+      },
+      {
+        "en": "Preserved in the Analects, the teachings of Confucius formed the cultural spine of East Asian civilization, guiding personal ethics and governance for over two millennia.",
+        "bn": "তাঁর বাণী সংকলন 'অ্যানালেক্টস' দুই সহস্রাধিক বছর ধরে সমগ্র পূর্ব এশিয়ার সমাজনীতি, পারিবারিক মূল্যবোধ এবং রাষ্ট্র পরিচালনার মূল ভিত্তি হিসেবে টিকে রয়েছে।"
+      }
+    ]
+  },
+  {
+    "id": "lao-tzu-tao-te-ching-water-way",
+    "title": "Lao Tzu and the Unyielding Power of Water",
+    "titleBn": "লাও সু এবং জলের নম্র অথচ অপরাজেয় শক্তি",
+    "author": "Daoist Wisdom",
+    "level": "Intermediate",
+    "category": "Philosophers & Moral Sages",
+    "coverEmoji": "🌊",
+    "summary": "Before disappearing into the western mountain passes, ancient sage Lao Tzu penned the Tao Te Ching, teaching that the softest water carves through the hardest rock.",
+    "summaryBn": "পশ্চিমা পর্বত পেরিয়ে চিরতরে হারিয়ে যাওয়ার পূর্বে প্রাচীন ঋষি লাও সু লিখেছিলেন তাও তে চিং—যেখানে তিনি শিখিয়েছেন সবচেয়ে নরম জলও কঠিনতম পাথরকে কেটে পথ তৈরি করে।",
+    "sentences": [
+      {
+        "en": "According to ancient Chinese legend, Lao Tzu served as the keeper of the royal imperial archives for the Zhou dynasty in Luoyang.",
+        "bn": "প্রাচীন চীনা উপকথা অনুসারে লুওয়াং শহরে ঝো রাজবংশের রাজকীয় মহাফেজখানার প্রধান তত্ত্বাবধায়ক হিসেবে কাজ করতেন প্রাচীন ঋষি লাও সু।"
+      },
+      {
+        "en": "Disillusioned by the escalating moral decay, corruption, and scheming intrigues of the imperial court, the elderly philosopher decided to abandon civilization forever.",
+        "bn": "রাজদরবারের নৈতিক অবক্ষয়, লোভ এবং চক্রান্তে বীতশ্রদ্ধ হয়ে এই বৃদ্ধ জ্ঞানী চিরতরে মানব সমাজ ছেড়ে প্রকৃতির কোলে চলে যাওয়ার সিদ্ধান্ত নিলেন।"
+      },
+      {
+        "en": "Riding a gentle water buffalo toward the western frontier, he arrived at the rugged mountain boundary gate of Hangu Pass.",
+        "bn": "একটি শান্ত জলমহিষের পিঠে চড়ে তিনি যখন পশ্চিমা সীমান্তের দুর্গম হাংগু গিরিপথের ফটকে পৌঁছালেন, তখন ফটক রক্ষী তাঁকে চিনে ফেলল।"
+      },
+      {
+        "en": "Recognizing the illustrious sage, the gatekeeper Yinxi refused to let him pass into the wilderness until he recorded his timeless wisdom for future generations.",
+        "bn": "পাহারাদার এই ঋষিকে চিনতে পেরে অনুনয় করল—মানবজাতির জন্য তাঁর জীবনের প্রজ্ঞা লিখে না রেখে তিনি কিছুতেই এই ফটক পার হতে পারবেন না।"
+      },
+      {
+        "en": "Pausing his journey, Lao Tzu brushed five thousand enigmatic Chinese characters into a short manuscript titled the Tao Te Ching, or The Book of the Way and Virtue.",
+        "bn": "সেখানে থেমে লাও সু মাত্র পাঁচ হাজার শব্দের এক অনন্য বই লিখলেন যার নাম 'তাও তে চিং' অর্থাৎ পরম পথ ও গুণের বাণী।"
+      },
+      {
+        "en": "He celebrated water as the supreme physical metaphor for the Tao: water does not compete, flows humbly to the lowest places, yet patiently carves through the hardest stone.",
+        "bn": "তিনি জলকে সত্যের সবচেয়ে বড় প্রতীক বললেন—জল কারো সাথে প্রতিযোগিতা করে না, নিচু স্থানে নিজেকে সঁপে দেয়, অথচ সময়ের সাথে সাথে কঠিনতম পাহাড়কেও কেটে ভাসিয়ে দেয়।"
+      },
+      {
+        "en": "Vanishing into the western mountain mists, Lao Tzu left humanity the art of Wu Wei—effortless action in harmonious alignment with the natural rhythms of the cosmos.",
+        "bn": "পাহাড়ের কুয়াশায় হারিয়ে যাওয়া লাও সু মানুষকে শিখিয়ে গেছেন 'উ ওয়েই' বা অহিংস কর্মের পথ—প্রকৃতির স্বাভাবিক ছন্দের সাথে মিলে শান্তিতে বেঁচে থাকার পরম শিক্ষা।"
+      }
+    ]
+  },
+  {
+    "id": "diogenes-lantern-cynic-honesty",
+    "title": "Diogenes and the Lantern Searching for an Honest Man",
+    "titleBn": "ডায়োজিনিস এবং দিনে-দুপুরে প্রদীপ হাতে এক সৎ মানুষের সন্ধান",
+    "author": "Classical Cynicism",
+    "level": "Intermediate",
+    "category": "Philosophers & Moral Sages",
+    "coverEmoji": "🏮",
+    "summary": "Living in an upturned wine tub and mocking aristocratic vanity, Cynic philosopher Diogenes carried a lit lantern in broad daylight searching for an honest person.",
+    "summaryBn": "এক কাঠের ভাঙা পিপায় বাস করে ধনীদের কৃত্রিম অহংকারকে উপহাস করা ডায়োজিনিস ভরদুপুরে হাতে জ্বলন্ত প্রদীপ নিয়ে ঘুরতেন একজন সৎ ও খাঁটি মানুষের খোঁজে।",
+    "sentences": [
+      {
+        "en": "Exiled from his native Sinope for debasing currency, Diogenes arrived in fourth-century BC Athens, discarding all conventional social pretenses and material luxuries.",
+        "bn": "মুদ্রা কেলেঙ্কারির দায়ে নিজের শহর থেকে নির্বাসিত হয়ে খ্রিস্টপূর্ব চতুর্থ শতাব্দীতে ডায়োজিনিস অ্যাথেন্সে আসেন এবং সমস্ত সামাজিক কৃত্রিমতা ও ভোগবিলাস ছুড়ে ফেলে দেন।"
+      },
+      {
+        "en": "He took up residence in the marketplace inside a colossal clay wine storage pithos tub, owning only a coarse woolen cloak, a walking staff, and a wooden drinking bowl.",
+        "bn": "তিনি বাজারের কোণে পড়ে থাকা একটি বিশাল মাটির মদের পাত্রে বাস করতে লাগলেন; সম্বল বলতে ছিল একটি চাদর, একটি লাঠি আর জল খাওয়ার একটি কাঠের বাটি।"
+      },
+      {
+        "en": "Observing a peasant boy cup his hands to drink from a fountain, Diogenes smashed his own wooden bowl on the cobblestones, laughing: 'A child has beaten me in simplicity!'",
+        "bn": "একদিন এক রাখাল বালককে দুই হাতের তালু দিয়ে জল খেতে দেখে ডায়োজিনিস নিজের বাটিটি ভেঙে ফেলে হেসে উঠলেন: 'একটি শিশুও সাদামাটা জীবনে আমাকে হারিয়ে দিল!' "
+      },
+      {
+        "en": "On bright sunlit afternoons, Diogenes famously walked through the crowded Athenian market carrying a lit oil lamp, peering intently into citizens' faces as he declared: 'I am merely looking for an honest human being.'",
+        "bn": "রৌদ্রোজ্জ্বল ভরদুপুরে তিনি বাজারে হাতে জ্বলন্ত প্রদীপ নিয়ে মানুষের মুখের দিকে খুঁটিয়ে তাকিয়ে বলতেন: 'আমি আসলে শুধু একজন সৎ ও খাঁটি মানুষের সন্ধান করছি।' "
+      },
+      {
+        "en": "When Alexander the Great visited the philosopher in Corinth, offering to grant him any royal favor in the known world, Diogenes squinted and replied: 'Yes, stand a little out of my sunlight.'",
+        "bn": "বিশ্বজয়ী সম্রাট আলেকজান্ডার এসে যেকোনো বর চাইতে বললে ডায়োজিনিস চোখ পিটপিট করে শান্তভাবে বললেন: 'হ্যাঁ, আপনি একটু সরে দাঁড়ান, আমার গায়ের রোদটুকু আটকাবেন না।' "
+      },
+      {
+        "en": "Rather than becoming offended, Alexander turned to his astonished courtiers and famously remarked: 'If I were not Alexander, I would wish to be Diogenes.'",
+        "bn": "আলেকজান্ডার ক্ষুব্ধ না হয়ে বিস্মিত সেনাপতিদের দিকে তাকিয়ে বললেন: 'আমি যদি আলেকজান্ডার না হতাম, তবে আমি ডায়োজিনিস হতে চাইতাম।' "
+      },
+      {
+        "en": "Diogenes championed radical self-sufficiency and free speech, demonstrating that true freedom consists not in possessing abundant wealth, but in desiring nothing.",
+        "bn": "ডায়োজিনিস চরম আত্মমর্যাদা ও বাকস্বাধীনতার প্রতীক হয়ে দেখিয়ে গেছেন যে কোনো কিছুর প্রত্যাশা না করার মধ্যেই নিহিত রয়েছে মানুষের পরম স্বাধীনতা।"
+      }
+    ]
+  },
+  {
+    "id": "buddha-four-noble-truths-bodhi-tree",
+    "title": "Siddhartha Gautama and the Awakening Beneath the Bodhi Tree",
+    "titleBn": "সিদ্ধার্থ গৌতম এবং বোধিবৃক্ষের ছায়ায় পরম বোধিলাভ",
+    "author": "Buddhist Philosophy",
+    "level": "Intermediate",
+    "category": "Philosophers & Moral Sages",
+    "coverEmoji": "🧘‍♂️",
+    "summary": "Renouncing princely opulence after witnessing sickness, old age, and death, Siddhartha Gautama meditated beneath a sacred fig tree, discovering the Four Noble Truths.",
+    "summaryBn": "রোগ, জরা ও মৃত্যুর স্বরূপ দেখে রাজপ্রাসাদের বিলাসিতা ত্যাগ করে সিদ্ধার্থ গৌতম বোধিবৃক্ষের নিচে ধ্যানে বসে দুঃখ নিবৃত্তির চার মহান সত্য বা চতুরার্য সত্যের সন্ধান পান।",
+    "sentences": [
+      {
+        "en": "Raised in golden isolation within three lavish seasonal palaces in Kapilavastu, young prince Siddhartha Gautama was shielded by his father from ever witnessing suffering.",
+        "bn": "কপিলবস্তুর রাজপ্রাসাদের সোনার খাঁচায় পরম বিলাসিতায় বড় হওয়া তরুণ রাজকুমার সিদ্ধার্থ গৌতমকে তাঁর পিতা বাইরের সমস্ত দুঃখ-কষ্টের দৃশ্য থেকে আড়াল করে রেখেছিলেন।"
+      },
+      {
+        "en": "Venture outside the royal walls with his charioteer Channa, Siddhartha encountered the Four Sights: a frail decrepit old man, a disease-ridden invalid, a decaying corpse, and a tranquil wandering ascetic.",
+        "bn": "একদিন রথ নিয়ে বাইরে বের হয়ে তিনি চারটি দৃশ্য দেখলেন—এক জরাজীর্ণ বৃদ্ধ, এক কঠিন রোগে আক্রান্ত ব্যক্তি, একটি মৃতদেহ এবং এক পরম শান্ত পরিব্রাজক সন্ন্যাসী।"
+      },
+      {
+        "en": "Shaken by the realization that sickness, aging, and death await every mortal, the twenty-nine-year-old prince slipped away into the night, abandoning crown, jewels, and luxury.",
+        "bn": "বার্ধক্য ও মৃত্যু প্রতিটি জীবের জন্য অবধারিত বুঝতে পেরে উনত্রিশ বছর বয়সী রাজকুমার মধ্যরাতে সিংহাসন, ধনরত্ন ও বিলাসিতা ত্যাগ করে একাকী অরণ্যে পাড়ি দিলেন।"
+      },
+      {
+        "en": "After six years of agonizing mortification and extreme starvation failed to yield enlightenment, he accepted a bowl of rice milk from a village maiden named Sujata.",
+        "bn": "টানা ছয় বছর কঠোর অনাহার ও কৃচ্ছ্রসাধনে সত্য না পেয়ে তিনি সুজাতা নামের এক গ্রাম্য মেয়ের হাতের এক বাটি পায়েস খেয়ে নিজের ভুল বুঝতে পারলেন।"
+      },
+      {
+        "en": "Sitting beneath the spreading branches of a sacred Bodhi tree in Bodh Gaya, Siddhartha vowed not to rise until he had unlocked the root cause of universal human suffering.",
+        "bn": "বোধগয়ার পবিত্র অশ্বত্থ গাছের নিচে ধ্যানে বসে তিনি শপথ করলেন—মানুষের অনন্ত দুঃখের মূল কারণ উদঘাটন না করা পর্যন্ত তিনি এ আসন ছেড়ে উঠবেন না।"
+      },
+      {
+        "en": "At dawn on the full moon of Vaisakha, his mind pierced the veil of delusion, revealing the Four Noble Truths: suffering exists, it arises from craving, it can cease, and the Eightfold Path is the way.",
+        "bn": "বৈশাখী পূর্ণিমার ভোরে তাঁর অন্তরে পরম বোধির আলো জ্বলে উঠল—তিনি আবিষ্কার করলেন চতুরার্য সত্য: দুঃখ আছে, কামনাই দুঃখের কারণ, দুঃখের নিবৃত্তি সম্ভব এবং এর পথ হলো অষ্টাঙ্গিক মার্গ।"
+      },
+      {
+        "en": "Arising as the Buddha, the Awakened One spent forty-five years teaching compassion, non-harm, and mindfulness, liberating millions from the wheel of existential suffering.",
+        "bn": "বুদ্ধ বা 'বোধিপ্রাপ্ত' রূপে জেগে উঠে তিনি পঁয়তাল্লিশ বছর ধরে বিশ্ববাসীকে অহিংসা, মমতা ও আত্মসচেতনতার পথ দেখিয়ে পরম মুক্তির দুয়ার খুলে দেন।"
+      }
+    ]
+  },
+  {
+    "id": "marcus-aurelius-meditations-stoic",
+    "title": "Marcus Aurelius and the Stoic Throne of Solitude",
+    "titleBn": "মার্কাস অরেলিয়াস এবং যুদ্ধশিবিরে নির্জন আত্মধ্যান",
+    "author": "Stoic Philosophy",
+    "level": "Intermediate",
+    "category": "Philosophers & Moral Sages",
+    "coverEmoji": "👑",
+    "summary": "Ruling the vast Roman Empire while enduring brutal plague and border wars, Marcus Aurelius penned his private Meditations, mastering his mind through Stoic virtue.",
+    "summaryBn": "মহামারী আর যুদ্ধক্ষেত্রের মাঝে বসে পুরো রোমান সাম্রাজ্যের অধিপতি মার্কাস অরেলিয়াস নিজের ব্যক্তিগত ডায়েরিতে লিখে রেখেছিলেন মানসিক শান্তি ও স্টোইক দর্শনের অমূল্য শিক্ষা।",
+    "sentences": [
+      {
+        "en": "In the second century AD, Roman Emperor Marcus Aurelius held absolute dominion over a colossal empire spanning from the Scottish borders to the sands of the Euphrates River.",
+        "bn": "খ্রিস্টীয় দ্বিতীয় শতাব্দীতে রোমান সম্রাট মার্কাস অরেলিয়াস স্কটল্যান্ডের সীমানা থেকে শুরু করে ইউফ্রেটিস নদীর মরুভূমি পর্যন্ত বিস্তৃত এক সুবিশাল সাম্রাজ্যের সর্বময় অধিপতি ছিলেন।"
+      },
+      {
+        "en": "Yet his reign was besieged by relentless crises: the devastating Antonine Plague decimated millions of citizens, and barbarian Germanic tribes breached the freezing Danube border.",
+        "bn": "কিন্তু তাঁর শাসনকাল ছিল চরম দুর্যোগে ঘেরা—ভয়াবহ অ্যান্টোনাইন প্লেগে লাখ লাখ প্রজা মারা যাচ্ছিল এবং উত্তরের বর্বর উপজাতিরা দানিউব নদীর সীমান্ত ভেঙে আক্রমণ চালাচ্ছিল।"
+      },
+      {
+        "en": "At night inside his military tent on the northern battlefront, by the flickering light of an oil lamp, the emperor opened his personal private diary, writing 'To Himself.'",
+        "bn": "যুদ্ধের ময়দানে শীতের রাতে তাঁবুর ভেতরে তেলের প্রদীপের আলোয় বসে সম্রাট নিজের ব্যক্তিগত ডায়েরির পাতা খুলতেন, যার শিরোনাম ছিল 'নিজের প্রতি নিজের কথা'।"
+      },
+      {
+        "en": "He did not write for public applause or political glory, but to remind himself daily of Stoic principles: duty, humility, mortal transience, and emotional self-mastery.",
+        "bn": "কোনো আত্মপ্রচারের জন্য নয়, বরং নিজের অহংকার দূর করতে এবং মনকে কর্তব্যপরায়ণ, বিনীত ও শান্ত রাখতে তিনি স্টোইক দর্শনের মূলনীতিগুলো রোজ স্মরণ করতেন।"
+      },
+      {
+        "en": "He famously commanded himself each dawn: 'When you wake, tell yourself: the people I deal with today will be meddling, ungrateful, arrogant, dishonest, jealous, and surly; they are like this because they cannot distinguish good from evil.'",
+        "bn": "ভোরে উঠেই তিনি নিজেকে সতর্ক করতেন: 'আজ যাদের সাথে দেখা হবে তারা সবাই অহংকারী, অকৃতজ্ঞ ও বিশ্বাসঘাতক হবে; তাদের ওপর রাগ কোরো না, কারণ তারা ভালো-মন্দের তফাত বোঝে না।' "
+      },
+      {
+        "en": "Marcus reminded himself that external events cannot harm the rational soul unless one chooses to surrender to anger, vanity, or resentment.",
+        "bn": "মার্কাস নিজেকে বোঝাতেন যে বাইরের কোনো খারাপ ঘটনাই মানুষের আত্মাকে আঘাত করতে পারে না, যদি না মানুষ নিজে ক্রোধ বা ক্ষোভের কাছে নতি স্বীকার করে।"
+      },
+      {
+        "en": "Published centuries later as the Meditations, the private reflections of history’s greatest philosopher-king endure as an immortal blueprint for resilience against life’s storms.",
+        "bn": "পরবর্তীকালে 'মেডিটেশনস' নামে প্রকাশিত ইতিহাসের এই শ্রেষ্ঠ দার্শনিক রাজার আত্মচিন্তা আজও জীবনের শত ঝড়ের মুখে মানুষকে অটল ও শান্ত থাকার পথ দেখায়।"
+      }
+    ]
+  },
+  {
+    "id": "epictetus-slave-philosopher-freedom",
+    "title": "Epictetus: The Lame Slave Who Conquered Inner Freedom",
+    "titleBn": "এপিকটেটাস: দাসত্বের শৃঙ্খলে থেকেও আত্মিক স্বাধীনতার মহান বিজয়",
+    "author": "Stoic Philosophy",
+    "level": "Intermediate",
+    "category": "Philosophers & Moral Sages",
+    "coverEmoji": "⛓️",
+    "summary": "Born an enslaved boy in Hierapolis whose master deliberately broke his leg, Epictetus taught that while outer bodies can be chained, the human will remains unconquerable.",
+    "summaryBn": "নির্মম মনিবের লাঠির আঘাতে পা ভেঙে পঙ্গু হওয়া দাস বালক এপিকটেটাস শিখিয়ে গেছেন যে দেহকে বন্দি করা সম্ভব হলেও মানুষের আত্মিক ইচ্ছাশক্তিকে কোনোদিন শিকল পরানো যায় না।",
+    "sentences": [
+      {
+        "en": "Born into chattel slavery in modern Turkey around 50 AD, Epictetus was brought to Rome as the personal servant of a cruel administrative secretary in the imperial court.",
+        "bn": "খ্রিস্টীয় ৫০ অব্দের দিকে জন্ম নেওয়া দাস বালক এপিকটেটাসকে রোমের এক নিষ্ঠুর রাজকীয় কর্মকর্তার সেবক হিসেবে রোমে নিয়ে আসা হয়।"
+      },
+      {
+        "en": "According to ancient accounts, his sadistic master twisted his leg in an iron instrument; Epictetus calmly observed: 'If you keep twisting, you will break it,' and when the bone snapped, smiled: 'Did I not tell you so?'",
+        "bn": "একবার নিষ্ঠুর মনিব লোহার যন্ত্র দিয়ে তাঁর পা মোচড়াতে থাকলে এপিকটেটাস শান্তভাবে বললেন: 'বেশি মোচড়ালে কিন্তু ভেঙে যাবে'; আর পা ভেঙে যেতেই তিনি মৃদু হেসে বললেন: 'আমি কি আগেই সতর্ক করিনি?' "
+      },
+      {
+        "en": "Remaining permanently lame for the rest of his life, Epictetus studied under the great Stoic teacher Musonius Rufus, discovering an indestructible sanctuary within his own mind.",
+        "bn": "আজীবন খোঁড়া হয়ে রইলেও তিনি বিখ্যাত স্টোইক গুরুদের কাছে জ্ঞানার্জন করে নিজের মনের ভেতরেই এক পরম অপরাজেয় দুর্গ গড়ে তুললেন।"
+      },
+      {
+        "en": "Granted his freedom after the emperor Nero’s fall, Epictetus opened an influential philosophical school in Greece, teaching the cornerstone doctrine of the 'Dichotomy of Control.'",
+        "bn": "দাসত্ব থেকে মুক্তি পেয়ে তিনি গ্রিসে দর্শন স্কুল খুললেন এবং তাঁর বিখ্যাত 'নিয়ন্ত্রণের বিভাজন' তত্ত্বের শিক্ষা দিতে লাগলেন।"
+      },
+      {
+        "en": "He argued that some things are entirely within our power—our opinions, desires, choices, and character—while other things are not—our bodies, wealth, reputation, and fate.",
+        "bn": "তিনি বললেন কিছু বিষয় আমাদের নিয়ন্ত্রণে থাকে—যেমন আমাদের চিন্তাভাবনা, সৎ চরিত্র ও সিদ্ধান্ত; আর কিছু বিষয় নিয়ন্ত্রণে থাকে না—যেমন সম্পদ, সুনাম ও শরীরের রোগ।"
+      },
+      {
+        "en": "He declared that all human unhappiness stems from the foolish mistake of trying to control external events while neglecting our own moral choices.",
+        "bn": "মানুষের সমস্ত দুঃখের মূল কারণ হলো যা তার নিয়ন্ত্রণে নেই তা নিয়ন্ত্রণের ব্যর্থ চেষ্টা করা, আর নিজের ভেতরের সৎ গুণাবলীর চর্চা ভুলে থাকা।"
+      },
+      {
+        "en": "Transcribed by his student Arrian in the Enchiridion, Epictetus proved that true freedom is not a matter of social status, but the absolute sovereign mastery of one's own soul.",
+        "bn": "শিষ্য অ্যারিয়ান কর্তৃক লিপিবদ্ধ গ্রন্থে এপিকটেটাস প্রমাণ করে গেছেন যে সত্যিকারের মুক্তি কোনো সামাজিক মর্যাদায় থাকে না, বরং নিজের আত্মাকে বশ করার মধ্যেই নিহিত।"
+      }
+    ]
+  },
+  {
+    "id": "chuan-tzu-butterfly-dream-reality",
+    "title": "Zhuangzi and the Paradox of the Butterfly Dream",
+    "titleBn": "চুয়াং সু এবং প্রজাপতির স্বপ্নের গভীর ধাঁধাঁ",
+    "author": "Daoist Philosophy",
+    "level": "Intermediate",
+    "category": "Philosophers & Moral Sages",
+    "coverEmoji": "🦋",
+    "summary": "Waking from a vivid dream where he fluttered carefree as a butterfly, philosopher Zhuangzi pondered whether he was a man who dreamt of a butterfly, or a butterfly dreaming of a man.",
+    "summaryBn": "প্রজাপতি হয়ে ডানা মেলে ওড়ার স্বপ্ন দেখে ঘুম ভেঙে দার্শনিক চুয়াং সু ভেবেছিলেন—তিনি কি প্রজাপতির স্বপ্ন দেখা এক মানুষ, নাকি তিনি আসলে মানুষের স্বপ্ন দেখা এক প্রজাপতি?",
+    "sentences": [
+      {
+        "en": "Living in fourth-century BC China during the Warring States period, Daoist philosopher Zhuangzi preferred eccentric poverty and total intellectual freedom over prestigious government appointments.",
+        "bn": "খ্রিস্টপূর্ব চতুর্থ শতাব্দীর চীনে যুদ্ধরত রাজ্যগুলোর অস্থির যুগে দাওয়াত দার্শনিক চুয়াং সু রাজদরবারের লোভনীয় পদের চেয়ে নিজের চিন্তা ও অন্তরের স্বাধীনতাকেই বেশি ভালোবাসতেন।"
+      },
+      {
+        "en": "One warm spring afternoon, Zhuangzi fell asleep beside a babbling brook, dreaming vividly that he had transformed into a fluttery, carefree butterfly.",
+        "bn": "এক স্নিগ্ধ বসন্তের দুপুরে ঝর্ণার পাশে ঘুমিয়ে পড়ে তিনি এক অদ্ভুত স্বপ্ন দেখলেন—তিনি যেন এক চঞ্চল প্রজাপতির রূপ ধরে ফুলের বনে ডানা মেলে উড়ে বেড়াচ্ছেন।"
+      },
+      {
+        "en": "In the dream, he fluttered from flower to blossom in joyous ecstasy, completely unaware that he had ever been a mortal human being named Zhuangzi.",
+        "bn": "স্বপ্নে তিনি এক ফুল থেকে অন্য ফুলে ঘুরে অনাবিল আনন্দে মেতে রইলেন; তাঁর নিজের মানব অস্তিত্ব বা চুয়াং সু নামের কোনো স্মৃতিই সেখানে ছিল না।"
+      },
+      {
+        "en": "Suddenly, he awoke with a start, discovering that he was once again solid, heavy, and unmistakably the mortal human scholar Zhuangzi lying on the grass.",
+        "bn": "হঠাৎ তাঁর ঘুম ভেঙে গেল এবং তিনি দেখলেন তিনি আসলে ঘাসের ওপর শুয়ে থাকা রক্তমাংসের মানুষ চুয়াং সু ছাড়া আর কিছুই নন।"
+      },
+      {
+        "en": "He sat in deep contemplative silence, pondering a profound metaphysical dilemma: Was he Zhuangzi who had just dreamt he was a butterfly, or was he now a butterfly dreaming that he was Zhuangzi?",
+        "bn": "তিনি গভীর চিন্তায় মগ্ন হলেন—তিনি কি সেই মানুষ যিনি প্রজাপতির স্বপ্ন দেখেছিলেন, নাকি তিনি আসলে এক প্রজাপতি যে এখন স্বপ্ন দেখছে সে একজন মানুষ?"
+      },
+      {
+        "en": "Between Zhuangzi and the butterfly there must surely be a boundary, yet he named this mysterious dissolution of certainty 'the Transformation of Things.'",
+        "bn": "মানুষ আর প্রজাপতির মাঝে পার্থক্যের সীমানা থাকলেও বাস্তব আর স্বপ্নের এই অদ্ভুত মিলনকে তিনি আখ্যায়িত করেছিলেন 'বস্তুর রূপান্তর' হিসেবে।"
+      },
+      {
+        "en": "The famous parable teaches that ordinary human reality is fluid, inviting seekers to transcend rigid dualisms and dance lightly within the mysterious flow of existence.",
+        "bn": "এই অমর রূপক শিক্ষা দেয় যে আমাদের চোখের দেখা বাস্তব এক চির পরিবর্তনশীল স্রোত, যাকে কোনো নির্দিষ্ট নিয়মের অহংকারে না বেঁধে মুক্তির আনন্দে গ্রহণ করতে হয়।"
+      }
+    ]
+  },
+  {
+    "id": "rumi-dance-of-the-reed-flute",
+    "title": "Rumi and the Song of the Longing Reed",
+    "titleBn": "জালালউদ্দিন রুমি এবং বাঁশের বাঁশির অন্তহীন বিরহগাথা",
+    "author": "Sufi Mysticism",
+    "level": "Intermediate",
+    "category": "Philosophers & Moral Sages",
+    "coverEmoji": "🪈",
+    "summary": "In thirteenth-century Konya, Sufi mystic poet Jalaluddin Rumi opened the Masnavi with the lament of the reed flute, crying to return to its native reed-bed in divine love.",
+    "summaryBn": "ত্রয়োদশ শতাব্দীর কোনিয়ায় সুফি সাধক ও মহাকবি জালালউদ্দিন রুমি তাঁর মসনবী মহাকাব্যে লিখেছিলেন বাঁশির সেই কান্নার কথা, যা তার মূল কাশবনে ফিরে যাওয়ার জন্য পরম প্রেমে আকুল।",
+    "sentences": [
+      {
+        "en": "Born in Balkh in modern Afghanistan, Jalaluddin Muhammad Rumi fled with his family ahead of Genghis Khan’s invading Mongol hordes, eventually settling in the Anatolian city of Konya.",
+        "bn": "বর্তমান আফগানিস্তানের বলখ শহরে জন্ম নেওয়া জালালউদ্দিন মুহাম্মদ রুমি মঙ্গোল হানাদারদের তাণ্ডব থেকে বাঁচতে পরিবারের সাথে পালিয়ে আনাতোলিয়ার কোনিয়া শহরে স্থায়ী হন।"
+      },
+      {
+        "en": "A prestigious, conservative Islamic theologian, his entire life was transformed into ecstasy upon meeting the wandering, untamed dervish Shams of Tabriz.",
+        "bn": "শুরুতে এক সম্মানিত গোঁড়া ধর্মতাত্ত্বিক পণ্ডিত হলেও পরিব্রাজক দরবেশ শামস তাবরিজির সাথে সাক্ষাতের পর তাঁর ভেতরের সুপ্ত প্রেমের আগুন জ্বলে উঠল।"
+      },
+      {
+        "en": "When Shams mysteriously vanished, Rumi channeled his heartbreak into the whirling dance of the sema and thousands of verses celebrating divine spiritual love.",
+        "bn": "শামস রহস্যজনকভাবে হারিয়ে গেলে রুমি তাঁর তীব্র বিরহবেদনাকে রূপ দিলেন দরবেশদের ঘূর্ণি নৃত্যে এবং রচনা করলেন আধ্যাত্মিক প্রেমের হাজার হাজার অমর কবিতা।"
+      },
+      {
+        "en": "He opened his colossal spiritual masterpiece, the Masnavi, with the haunting allegory of the Ney, the hollow reed flute: 'Listen to the reed as it tells its tale, complaining of separations.'",
+        "bn": "তাঁর শ্রেষ্ঠ মহাকাব্য 'মসনবী'-র সূচনাতেই তিনি বাঁশের বাঁশির রূপক টানলেন: 'শোনো বাঁশি তার বেদনার কথা কীভাবে বলে, নিজের জন্মভূমি থেকে বিচ্ছিন্ন হওয়ার বিরহে সে কীভাবে কাঁদে।' "
+      },
+      {
+        "en": "Rumi explained that the flute's weeping melody is the sound of a reed torn from its marshy reed-bed, yearning incessantly to be reunited with its divine source.",
+        "bn": "রুমি বোঝালেন বাঁশির এই করুণ সুর আসলে কাশবন থেকে কেটে আনা এক নিথর বাঁশের আর্তনাদ—যা তার পরম প্রেমময় উৎসে ফিরে যাওয়ার জন্য আজীবন হাহাকার করে।"
+      },
+      {
+        "en": "He insisted that human souls are like the reed flute, feeling an ache of loneliness that can only be healed by returning to the boundless ocean of divine love.",
+        "bn": "তিনি বললেন মানুষের আত্মাও সেই বাঁশির মতো—পৃথিবীর নির্বাসনে একা কাঁদে, এবং ঈশ্বরের অনন্ত ভালোবাসার সাগরে ফিরে না যাওয়া পর্যন্ত তার এই বিরহের অবসান নেই।"
+      },
+      {
+        "en": "Transcending sectarian boundaries of creed and culture, Rumi’s universal poetry remains a global anthem reminding humanity that love is the bridge to eternity.",
+        "bn": "জাতি-ধর্মের সমস্ত সংকীর্ণতা মুছে দিয়ে রুমির কবিতা আজও বিশ্বজুড়ে মানুষকে স্মরণ করিয়ে দেয় যে একমাত্র প্রেম ও ভালোবাসাই হলো অনন্তকালের সাথে মিলনের একমাত্র সেতু।"
+      }
+    ]
+  },
+  {
+    "id": "plato-allegory-of-the-cave-shadows",
+    "title": "Plato and the Shadows of the Underground Cave",
+    "titleBn": "প্লেটো এবং অন্ধকার গুহার দেওয়ালে ছায়ার মায়াজাল",
+    "author": "Classical Philosophy",
+    "level": "Intermediate",
+    "category": "Philosophers & Moral Sages",
+    "coverEmoji": "🕯️",
+    "summary": "In the Republic, Plato described chained prisoners mistaking flickering fire shadows on a cave wall for reality, illustrating the philosopher’s difficult journey toward the sun.",
+    "summaryBn": "প্লেটো তাঁর 'রিপাবলিক' গ্রন্থে এমন কিছু বন্দির রূপক তুলে ধরেন যারা গুহার দেয়ালের ছায়াকেই পরম সত্য মনে করত, যা অজ্ঞতার অন্ধকার থেকে জ্ঞানের আলোয় ফেরার কঠিন পথকে নির্দেশ করে।",
+    "sentences": [
+      {
+        "en": "In Book VII of his foundational philosophical dialogue, the Republic, Athenian thinker Plato presented the Allegory of the Cave to illustrate the nature of human education and delusion.",
+        "bn": "প্লেটো তাঁর বিখ্যাত গ্রন্থ 'রিপাবলিক'-এ মানুষের শিক্ষা ও মোহের স্বরূপ ব্যাখ্যা করতে গুহার বিখ্যাত রূপকটি উপস্থাপন করেছিলেন।"
+      },
+      {
+        "en": "He asked his readers to imagine prisoners chained by their necks and legs since childhood inside a dark subterranean cave, unable to turn their heads toward the entrance.",
+        "bn": "তিনি পাঠকদের এমন একদল বন্দির কথা কল্পনা করতে বললেন যারা ছোটবেলা থেকেই মাটির নিচের অন্ধকার গুহায় হাত-পা ও ঘাড় শিকলে বাঁধা অবস্থায় একদৃষ্টিতে দেয়ালের দিকে তাকিয়ে থাকে।"
+      },
+      {
+        "en": "Behind them burns a roaring bonfire, and puppeteers parade wooden figures of men and animals along a wall, casting flickering shadows onto the stone surface before the captives.",
+        "bn": "তাদের পেছনে এক অগ্নিকুণ্ড জ্বলছে এবং পাহারাদাররা মানুষ ও পশুর বিভিন্ন মূর্তি তুলে ধরলে সামনের পাথুরে দেয়ালে সেই মূর্তিগুলোর ছায়া নাচতে থাকে।"
+      },
+      {
+        "en": "Having never seen anything else, the prisoners reasonably conclude that the moving shadows and their echoing sounds constitute the entirety of true reality.",
+        "bn": "অন্য কোনো পৃথিবী কখনো না দেখায় বন্দিরা বিশ্বাস করে যে দেয়ালের সেই কালো ছায়া আর প্রতিধ্বনিই হলো গোটা মহাবিশ্বের একমাত্র পরম সত্য।"
+      },
+      {
+        "en": "If one prisoner is unchained and dragged out of the cave, the dazzling midday sunlight painfully blinds his eyes at first, until he gradually perceives real trees, stars, and the sun.",
+        "bn": "যদি কোনো বন্দিকে শিকল খুলে বাইরে আনা হয়, তবে সূর্যের উজ্জ্বল আলো শুরুতে তার চোখ ধাঁধিয়ে দেয়, কিন্তু ধীরে ধীরে সে আসল গাছপালা, তারা আর সূর্যকে দেখতে পায়।"
+      },
+      {
+        "en": "When the enlightened philosopher returns to the cave out of compassion to liberate his fellow prisoners, they mock his blinded eyes and conspire to kill him for threatening their illusions.",
+        "bn": "সেই মুক্ত জ্ঞানী ব্যক্তি যখন দয়াবশত সঙ্গীদের মুক্ত করতে গুহায় ফেরে, তখন অন্ধকারের বন্দিরা তাকে উপহাস করে এবং তাদের অন্ধ বিশ্বাসে আঘাত হানার অপরাধে তাকে হত্যা করতে উদ্যত হয়।"
+      },
+      {
+        "en": "Plato’s allegory stands as an immortal warning against intellectual conformity, reminding thinkers that awakening to truth requires the painful courage to transcend superficial shadows.",
+        "bn": "প্লেটোর এই রূপক মানুষের অন্ধ কুসংস্কারের বিরুদ্ধে এক চিরন্তন সতর্কতা—যা দেখায় সত্যের সন্ধান পেতে হলে ছায়ার মোহ কাটিয়ে আলোর যন্ত্রণাকে বরণ করার সাহস থাকতে হয়।"
+      }
+    ]
+  },
+  {
+    "id": "aristotle-golden-mean-virtue",
+    "title": "Aristotle and the Balanced Virtue of the Golden Mean",
+    "titleBn": "অ্যারিস্টটল এবং মধ্যপন্থার সুষম নৈতিক পথ",
+    "author": "Classical Ethics",
+    "level": "Intermediate",
+    "category": "Philosophers & Moral Sages",
+    "coverEmoji": "⚖️",
+    "summary": "In the Nicomachean Ethics, Aristotle argued that moral excellence resides not in extreme austerity or reckless indulgence, but in the harmonious middle path of the Golden Mean.",
+    "summaryBn": "অ্যারিস্টটল তাঁর নীতিশাস্ত্রে শিখিয়েছিলেন যে প্রকৃত সদ্গুণ কোনো চরমপন্থী আচরণে নেই, বরং চরম কৃপণতা ও অপচয়ের মাঝামাঝি সুষম মধ্যপন্থার মধ্যেই মানুষের কল্যাণ নিহিত।",
+    "sentences": [
+      {
+        "en": "Born in Stagira in 384 BC and having studied for twenty years at Plato’s Academy in Athens, Aristotle was a master observer of natural biology, politics, logic, and human ethics.",
+        "bn": "খ্রিস্টপূর্ব ৩৮৪ অব্দে জন্ম নিয়ে প্লেটোর একাডেমিতে বিশ বছর পড়াশোনা করা অ্যারিস্টটল ছিলেন জীববিজ্ঞান, যুক্তিবিদ্যা, রাজনীতি ও নীতিশাস্ত্রের এক মহান দ্রষ্টা।"
+      },
+      {
+        "en": "In his Nicomachean Ethics, dedicated to his son, Aristotle proposed that the ultimate goal of all human life is Eudaimonia—a flourishing state of true happiness achieved through moral virtue.",
+        "bn": "পুত্রকে উৎসর্গ করা 'নিকোমেকিয়ান এথিক্স' বইয়ে তিনি বললেন মানবজীবনের পরম লক্ষ্য হলো 'ইউদাইমোনিয়া' বা সৎ গুণের চর্চার মাধ্যমে অর্জিত পরম আনন্দময় কল্যাণ।"
+      },
+      {
+        "en": "He revolutionized moral philosophy by demonstrating that virtue is not a set of absolute rigid rules, but a harmonious balance between two opposing vices of excess and deficiency.",
+        "bn": "তিনি দেখিয়ে দিলেন যে ভালো গুণ কোনো অন্ধ অনুশাসন নয়, বরং অতিরিক্ত বাড়াবাড়ি এবং চরম ঘাটতি—এই দুই ভুলের মাঝামাঝি এক সুষম ভারসাম্য।"
+      },
+      {
+        "en": "Courage, for example, is the Golden Mean situated gracefully between the cowardly deficiency of running away from danger and the reckless excess of foolhardy bravado.",
+        "bn": "উদাহরণস্বরূপ, বীরত্ব হলো কাপুরুষোচিত ভয় পেয়ে পালানো এবং মূর্খের মতো বেপরোয়া আগুনে ঝাঁপ দেওয়ার মাঝামাঝি এক আত্মনিয়ন্ত্রিত সুষম সাহস।"
+      },
+      {
+        "en": "Similarly, generosity is the harmonious midpoint between stingy miserliness that hoards every coin and wasteful extravagance that squanders resources without wisdom.",
+        "bn": "একইভাবে দানশীলতা হলো কৃপণতার সাথে সব আটকে রাখা এবং অবিবেচকের মতো উড়িয়ে নিঃস্ব হওয়ার মাঝামাঝি এক সুন্দর মধ্যপন্থা।"
+      },
+      {
+        "en": "Aristotle emphasized that moral character is not an innate genetic gift, but a learned habit forged through daily practice, just as a musician masters the lyre through repetition.",
+        "bn": "তিনি বললেন চরিত্র কোনো জন্মগত দান নয়, বরং প্রতিদিনের অভ্যাসের ফসল—যেমন প্রতিদিনের সাধনায় একজন বাদক তার সুরকে নিখুঁত করে তোলে।"
+      },
+      {
+        "en": "The Golden Mean remains classical antiquity’s most practical compass for psychological balance, urging humanity to steer clear of fanatical extremes.",
+        "bn": "অ্যারিস্টটলের এই সুবর্ণ মধ্যপন্থা আজও চরমপন্থা ও অন্ধ উগ্রতা এড়িয়ে মানসিক ভারসাম্য ও সুখী জীবন গড়ার শ্রেষ্ঠ দিকনির্দেশক হিসেবে আলো ছড়াচ্ছে।"
+      }
+    ]
+  },
+  {
+    "id": "al-ghazali-incoherence-crisis-mysticism",
+    "title": "Al-Ghazali: The Crisis of Doubt and the Path of the Heart",
+    "titleBn": "আল-গাজ্জালী: সংশয়ের সংকট পেরিয়ে অন্তরের আলোর সন্ধান",
+    "author": "Islamic Philosophy",
+    "level": "Intermediate",
+    "category": "Philosophers & Moral Sages",
+    "coverEmoji": "📖",
+    "summary": "At the height of his intellectual fame in Baghdad, scholar Abu Hamid al-Ghazali lost his voice from spiritual crisis, leaving prestige behind to find peace in mystical devotion.",
+    "summaryBn": "বাগদাদের প্রধান বিশ্ববিদ্যালয়ের প্রধান পণ্ডিতের পদে থাকাকালে আত্মিক সংশয়ের সংকটে বাকশক্তি হারিয়ে ইমাম গাজ্জালী সমস্ত ঐশ্বর্য ত্যাগ করে সুফি ধ্যানের মাধ্যমে পরম শান্তি লাভ করেন।",
+    "sentences": [
+      {
+        "en": "In the late eleventh century, Abu Hamid al-Ghazali served as the celebrated rector of the prestigious Nizamiyya Academy in Baghdad, revered across the Islamic world as an undisputed titan of jurisprudence and philosophy.",
+        "bn": "একাদশ শতাব্দীর শেষভাগে ইমাম আবু হামিদ আল-গাজ্জালী বাগদাদের বিশ্বখ্যাত নিজামিয়া বিশ্ববিদ্যালয়ের প্রধান অধ্যাপক হিসেবে সমগ্র মুসলিম জাহানের শ্রেষ্ঠ পণ্ডিতের মর্যাদায় আসীন ছিলেন।"
+      },
+      {
+        "en": "Yet at the pinnacle of his academic renown and wealth, Ghazali fell into an agonizing existential crisis, suddenly questioning whether sensory perception and scholastic rationalism could yield absolute truth.",
+        "bn": "কিন্তু খ্যাতির চরম শিখরে পৌঁছে তিনি এক ভয়াবহ মানসিক ও আধ্যাত্মিক সংকটে পড়লেন—তাঁর মনে প্রশ্ন জাগল কেবল শুষ্ক যুক্তি আর ইন্দ্রিয়ের জ্ঞান কি মানুষের আত্মাকে পরম সত্য দিতে পারে?"
+      },
+      {
+        "en": "The psychological torment became so acute that his tongue seized up; he found himself physically unable to deliver lectures or swallow food as doctors declared him incurably broken.",
+        "bn": "ভেতরের যন্ত্রণা এত তীব্র আকার ধারণ করল যে তাঁর বাকশক্তি বন্ধ হয়ে গেল; তিনি ক্লাসে লেকচার দিতে পারছিলেন না এবং চিকিৎসকরাও তাঁর কোনো শারীরিক রোগ ধরতে পারলেন না।"
+      },
+      {
+        "en": "Realizing that his prestigious lectures were driven by subtle desires for human praise and worldly vanity, he made a radical renunciation in 1095.",
+        "bn": "তিনি বুঝতে পারলেন তাঁর সমস্ত জ্ঞানের অহংকার আসলে লোকদেখানো প্রশংসা ও মোহের জালে বন্দি, তাই ১০৯৫ সালে তিনি এক যুগান্তকারী সিদ্ধান্ত নিলেন।"
+      },
+      {
+        "en": "Abandoning his professorship and dispersing his vast wealth, Ghazali donned a ragged woolen dervish robe, wandering for eleven solitary years between Damascus, Jerusalem, and Mecca in prayer and meditation.",
+        "bn": "বিশ্ববিদ্যালয়ের প্রধানের পদ আর অগাধ ধনসম্পদ বিলিয়ে দিয়ে তিনি এক ছিন্নমূল দরবেশের বেশে দামেস্ক, জেরুজালেম ও মক্কার পথে পথে এগারো বছর ধ্যানে কাটিয়ে দিলেন।"
+      },
+      {
+        "en": "He discovered that while intellectual philosophy analyzes the concept of honey, only mystical spiritual experience can taste its actual sweetness.",
+        "bn": "তিনি উপলব্ধি করলেন শুষ্ক দর্শন কেবল মধুর উপাদানের হিসাব দিতে পারে, কিন্তু সাধনার মাধ্যমে অন্তরের চোখ না খুললে মধুর প্রকৃত স্বাদের আস্বাদন পাওয়া যায় না।"
+      },
+      {
+        "en": "In his masterpiece 'The Deliverance from Error,' Ghazali integrated rational intellect with heartfelt spiritual certainty, leaving an indelible imprint upon global religious thought.",
+        "bn": "তাঁর আত্মজীবনীমূলক শ্রেষ্ঠ গ্রন্থ 'আল-মুনকিজ মিন আদ-দালাল'-এ তিনি বুদ্ধির সাথে অন্তরের বিশ্বাসের এক অপূর্ব মেলবন্ধন ঘটিয়ে বিশ্ব দর্শনে অমর হয়ে রইলেন।"
+      }
+    ]
+  },
+  {
+    "id": "seneca-letters-brevity-of-life",
+    "title": "Seneca and the Art of Not Wasting Time",
+    "titleBn": "সেনেকা এবং মানুষের জীবনের প্রকৃত মূল্যায়ন",
+    "author": "Roman Stoicism",
+    "level": "Intermediate",
+    "category": "Philosophers & Moral Sages",
+    "coverEmoji": "⏳",
+    "summary": "Roman statesman and philosopher Seneca wrote that life is not short, but that humans waste the vast majority of it chasing trivial ambitions and meaningless distractions.",
+    "summaryBn": "রোমান দার্শনিক সেনেকা লিখেছিলেন জীবন মোটেই সংক্ষিপ্ত নয়, বরং মানুষ তার বেশিরভাগ সময় অনর্থক অহংকার, অপ্রয়োজনীয় সম্পদ অর্জন ও তুচ্ছ চিন্তায় অপচয় করে ফেলে।",
+    "sentences": [
+      {
+        "en": "Lucius Annaeus Seneca was a brilliant Roman Stoic philosopher, dramatist, and high-ranking imperial senator who served as the tutor and chief advisor to the tyrannical emperor Nero.",
+        "bn": "লুসিয়াস অ্যানিয়াস সেনেকা ছিলেন রোমান সাম্রাজ্যের এক প্রখ্যাত স্টোইক দার্শনিক ও আইনপ্রণেতা, যিনি অত্যাচারী সম্রাট নিরোর শিক্ষক ও প্রধান উপদেষ্টা হিসেবে দায়িত্ব পালন করেন।"
+      },
+      {
+        "en": "Navigating the perilous corridors of imperial palace intrigue while amassing colossal fortunes, Seneca was acutely conscious of the dangerous paradox between wealth and spiritual peace.",
+        "bn": "রাজপ্রাসাদের ক্ষমতার নোংরা রাজনীতি এবং অঢেল ধনসম্পদের মাঝে বাস করে সেনেকা খুব ভালো করেই উপলব্ধি করতে পেরেছিলেন যে বাহ্যিক ঐশ্বর্য কখনোই আত্মিক শান্তি দিতে পারে না।"
+      },
+      {
+        "en": "In his profound essay 'On the Shortness of Life,' Seneca challenged the universal human complaint that nature grants mortals an unfairly brief existence.",
+        "bn": "তাঁর বিখ্যাত প্রবন্ধ 'অন দ্য শর্টনেস অব লাইফ'-এ সেনেকা মানুষের এই সাধারণ অভিযোগকে তীব্র চ্যালেঞ্জ করলেন যে প্রকৃতি নাকি মানুষকে খুব অল্প সময়ের জীবন দিয়েছে।"
+      },
+      {
+        "en": "He boldly declared: 'It is not that we have a short time to live, but that we waste a great deal of it; life is long enough if you know how to use it.'",
+        "bn": "তিনি স্পষ্ট ভাষায় বললেন: 'আমাদের জীবন ছোট নয়, বরং আমরা এর বেশিরভাগ অংশ অপচয় করি; সঠিকভাবে ব্যবহার করতে জানলে একটি মানবজীবন যথেষ্ট দীর্ঘ।' "
+      },
+      {
+        "en": "He observed that people guard their property with fierce jealousy, yet carelessly squander their most irreplaceable asset—precious time—on superficial gossip, petty rivalries, and endless postponements.",
+        "bn": "তিনি দেখলেন মানুষ নিজের সামান্য জমিও জান দিয়ে পাহারা দেয়, অথচ জীবনের সবচেয়ে মূল্যবান ও অপূরণীয় সম্পদ—সময়কে তারা পরনিন্দা, তুচ্ছ অহংকার আর আলস্যে নির্দ্বিধায় উড়িয়ে দেয়।"
+      },
+      {
+        "en": "When Nero paranoidly ordered him to commit suicide in 65 AD, Seneca accepted his fate with Stoic tranquility, severing his veins while consoling his weeping companions.",
+        "bn": "৬৫ অব্দে সন্দেহবাতিকগ্রস্ত নিরো তাঁকে আত্মহত্যা করার আদেশ দিলে সেনেকা শান্ত মনে তা মেনে নিয়ে নিজের রক্তনালী কেটে মৃত্যুকে আলিঙ্গন করেন এবং সঙ্গীদের সাহস দেন।"
+      },
+      {
+        "en": "Seneca’s epistolary essays remain an urgent moral awakening for modern humanity, demanding that we cease living merely for the future and master the eternal present moment.",
+        "bn": "সেনেকার রেখে যাওয়া চিঠিগুলো আধুনিক মানুষকে প্রতিনিয়ত মনে করিয়ে দেয় যে ভবিষ্যতের আশায় কালক্ষেপণ না করে বর্তমানের প্রতিটি মুহূর্তকে সদ্ব্যবহারে বাঁচাই হলো জীবনের পরম সার্থকতা।"
+      }
+    ]
+  },
+  {
+    "id": "mencius-mother-three-moves-education",
+    "title": "Mencius and the Mother Who Moved Three Times",
+    "titleBn": "মেনসিয়াস এবং সুশিক্ষার খোঁজে মায়ের তিনবার ঘরবদল",
+    "author": "Confucian Lore",
+    "level": "Intermediate",
+    "category": "Philosophers & Moral Sages",
+    "coverEmoji": "🏡",
+    "summary": "To shield young philosopher Mencius from negative influences, his widowed mother relocated their home three times—from a cemetery to a market, and finally beside a school.",
+    "summaryBn": "শিশু মেনসিয়াসকে বিপথগামী পরিবেশ থেকে বাঁচাতে তাঁর বিধবা মা তিনবার বাড়ি বদল করেছিলেন—কবরস্থান ও কোলাহলপূর্ণ বাজার ছেড়ে শেষ পর্যন্ত এক স্কুলের পাশে এসে বাড়ি নেন।",
+    "sentences": [
+      {
+        "en": "In fourth-century BC China, a poor widow known reverently to history as Meng Mu struggled to raise her young son Meng Ke, who would grow into the legendary Confucian sage Mencius.",
+        "bn": "খ্রিস্টপূর্ব চতুর্থ শতাব্দীর চীনে মেং মু নামের এক দরিদ্র বিধবা মা তাঁর ছোট ছেলে মেং কে-কে বড় করার জন্য একা সংগ্রাম করছিলেন, যিনি পরবর্তীতে মহান দার্শনিক মেনসিয়াস হিসেবে খ্যাতি পান।"
+      },
+      {
+        "en": "Their first humble cottage stood situated beside a bustling public cemetery, and the mother soon observed with distress that her young boy spent his days mimicking professional mourners weeping and digging graves in the dirt.",
+        "bn": "তাদের প্রথম মাটির কুঁড়েঘরটি ছিল একটি কবরস্থানের পাশে, আর মা ব্যথিত হয়ে লক্ষ্য করলেন ছেলে সারাদিন কবরের কাছে গিয়ে কান্নাকাটি নকল করছে আর মাটিতে গর্ত খুঁড়ছে।"
+      },
+      {
+        "en": "Realizing that the macabre environment was corrupting the child's impressionable mind, Meng Mu packed their few belongings and relocated to a house near a vibrant city marketplace.",
+        "bn": "এমন পরিবেশ শিশুর মনের জন্য ক্ষতিকর বুঝতে পেরে মা তাঁদের সামান্য জিনিসপত্র গুছিয়ে নিয়ে শহরের এক জমজমাট বাজারের কাছে নতুন বাসা নিলেন।"
+      },
+      {
+        "en": "However, young Mencius promptly began imitating the rowdy merchants and butchers, haggling deceitfully over prices, bragging of petty profits, and shouting market slang.",
+        "bn": "কিন্তু কিছুদিনের মধ্যেই দেখা গেল ছেলে বাজারের কসাই ও দালালদের নকল করে দামাদামি করছে, সামান্য লাভের অহংকার দেখাচ্ছে এবং বাজারের অশালীন ভাষা শিখছে।"
+      },
+      {
+        "en": "Declaring that this mercenary atmosphere was equally unsuitable for cultivating noble character, she packed their home a second time, settling in a cottage adjacent to an academy of classical learning.",
+        "bn": "এমন লোভী পরিবেশও সৎ মানুষ গড়ার জন্য অনুচিত ঘোষণা করে মা দ্বিতীয়বার ঘর ছাড়লেন এবং শেষ পর্যন্ত প্রাচীন এক বিদ্যালয়ের ঠিক পাশে গিয়ে বসতি গড়লেন।"
+      },
+      {
+        "en": "Living beside scholars, the boy began imitating the students, practicing bowing etiquette, learning calligraphy, and memorizing classical poetry in polite, scholarly harmony.",
+        "bn": "পণ্ডিতদের সান্নিধ্যে এসে ছেলেটি ছাত্রদের নকল করে সালাম দেওয়া, বিনয়ী হওয়া, সুন্দর করে লেখা এবং মিষ্টি সুরে কবিতা মুখস্থ করার সাধনায় মগ্ন হলো।"
+      },
+      {
+        "en": "Meng Mu proudly smiled, declaring: 'This is the place to raise my son,' immortalizing the lesson that moral virtue flourishes only within environments cultivated for human dignity.",
+        "bn": "মা তৃপ্তির হাসি হেসে বললেন: 'এটাই আমার ছেলেকে বড় করার সঠিক জায়গা'—যা প্রমাণ করে মানুষের চরিত্রের বিকাশ তার পারিপার্শ্বিক পরিবেশের ওপর কতটা গভীরভাবে নির্ভরশীল।"
+      }
+    ]
+  },
+  {
+    "id": "shankara-advaita-non-duality-rope",
+    "title": "Adi Shankara and the Illusory Serpent in the Rope",
+    "titleBn": "আদি শংকরাচার্য এবং দড়ির ভেতর সাপের ভ্রান্তি",
+    "author": "Advaita Vedanta",
+    "level": "Intermediate",
+    "category": "Philosophers & Moral Sages",
+    "coverEmoji": "🕉️",
+    "summary": "Through the famous philosophical parable of mistaking a coiled rope for a venomous snake in twilight, Adi Shankara explained Maya, the illusion that veils ultimate reality.",
+    "summaryBn": "গোধূলির আবছা আলোয় পড়ে থাকা সাধারণ দড়িকে বিষধর সাপ মনে করার রূপক ব্যবহার করে আদি শংকরাচার্য বুঝিয়েছিলেন কীভাবে মায়া বা ভ্রম মানুষের চোখের সামনে পরম সত্যকে ঢেকে রাখে।",
+    "sentences": [
+      {
+        "en": "Born in the lush riverside village of Kaladi in eighth-century Kerala, Adi Shankara was a prodigious intellectual who renounced material life in adolescence to revive Advaita Vedanta philosophy.",
+        "bn": "অষ্টম শতাব্দীতে কেরালার কালাডি গ্রামে জন্ম নেওয়া আদি শংকরাচার্য ছিলেন এক অসাধারণ প্রতিভাধর সাধক যিনি অদ্বৈত বেদান্ত দর্শনের পুনর্জাগরণ ঘটাতে কিশোর বয়সেই সন্ন্যাস গ্রহণ করেন।"
+      },
+      {
+        "en": "Traveling barefoot across the length and breadth of India from the southern seas to the Himalayan heights of Badrinath, he engaged in rigorous philosophical debates with scholars of every school.",
+        "bn": "দক্ষিণ সমুদ্রের তীর থেকে শুরু করে হিমালয়ের বদ্রীনাথ পর্যন্ত পুরো ভারত খালি পায়ে হেঁটে তিনি বিভিন্ন মতের মহাপণ্ডিতদের সাথে উচ্চমার্গের দার্শনিক তর্কে অংশ নেন।"
+      },
+      {
+        "en": "Shankara taught the core non-dual doctrine: Brahman alone is ultimate reality, the empirical world of separate forms is illusory, and the individual soul is identical with the cosmic whole.",
+        "bn": "শংকরাচার্যের মূল শিক্ষা ছিল: ব্রহ্মই একমাত্র সত্য, এই দৃশ্যমান জগৎ মায়া বা বিভ্রমের চাদরে ঢাকা, এবং মানুষের আত্মা আসলে সেই পরম চৈতন্যেরই এক অভিন্ন রূপ।"
+      },
+      {
+        "en": "To illustrate how cosmic illusion veils true reality from human consciousness, he utilized the famous parable of the rope and the snake.",
+        "bn": "মানুষের চোখ কীভাবে সত্যকে দেখতে ব্যর্থ হয় তা বোঝাতে তিনি দড়ি আর সাপের সেই বিখ্যাত দার্শনিক রূপকটি তুলে ধরতেন।"
+      },
+      {
+        "en": "In the dim twilight along a forest path, a weary traveler spots a coiled shape on the dirt, screams in terror, and feels his heart pounding frantically believing it to be a venomous cobra.",
+        "bn": "সন্ধ্যায় জঙ্গলের আবছা আলোয় মাটির ওপর পড়ে থাকা এক দলা দড়ি দেখে একজন পথিক বিষধর সাপ ভেবে ভয়ে চিৎকার করে ওঠে এবং আতঙ্কে তার বুক কাঁপতে থাকে।"
+      },
+      {
+        "en": "When a friend arrives holding a bright lamp, the light instantly dispels the illusion, revealing that the dreaded serpent was merely a harmless piece of hemp rope.",
+        "bn": "যখন কোনো বন্ধু আলো হাতে এসে দাঁড়ায়, সেই আলোর ছোঁয়ায় মুহূর্তেই ভুল ভেঙে যায় এবং দেখা যায় ভয়ের সেই সাপটি আসলে একটি নিরীহ দড়ি ছাড়া আর কিছুই নয়।"
+      },
+      {
+        "en": "Shankara explained that the snake was never real, yet the fear it produced was entirely real until the light of wisdom dissolved the illusion, liberating the mind forever.",
+        "bn": "শংকর বুঝিয়েছিলেন সাপটি মিথ্যা হলেও তার ভয় ছিল সম্পূর্ণ বাস্তব—ঠিক তেমনি জ্ঞানের আলো না জ্বলা পর্যন্ত মানুষ মায়ার ভয়ে কাঁপে, কিন্তু সত্যের আলোয় সে চিরমুক্তি লাভ করে।"
+      }
+    ]
+  }
+]

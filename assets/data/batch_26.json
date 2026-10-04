@@ -1,0 +1,617 @@
+[
+  {
+    "id": "coyote-brings-fire-shasta",
+    "title": "Coyote and the Fire on the Snowy Mountain",
+    "titleBn": "কোয়োটি এবং তুষারাবৃত পর্বতের পবিত্র আগুন",
+    "author": "Native American (Shasta Legend)",
+    "level": "Intermediate",
+    "category": "World Folklore & Indigenous Wisdom",
+    "coverEmoji": "🔥",
+    "summary": "When human beings were freezing in the dark winter, clever Coyote organized a relay race of woodland creatures to bring fire down from the mountain demons.",
+    "summaryBn": "অন্ধকার শীতে যখন আদিম মানুষ শীতে জমে যাচ্ছিল, তখন চতুর কোয়োটি বনের পশুদের নিয়ে এক দৌড় প্রতিযোগিতার মাধ্যমে পাহাড়ি দানবদের কাছ থেকে আগুন ছিনিয়ে এনে মানুষকে দিয়েছিল।",
+    "sentences": [
+      {
+        "en": "In ancient times, the first people lived in shivering darkness, eating raw meat because fire was hoarded greedily by three fierce Fire Beings atop Mount Shasta.",
+        "bn": "প্রাচীনকালে প্রথম মানুষ তীব্র শীতে কাঁপতে কাঁপতে অন্ধকারে বাস করত এবং কাঁচা মাংস খেতে বাধ্য হতো, কারণ মাউন্ট শাস্তার চূড়ায় তিন হিংস্র দানব সব আগুন কুক্ষিগত করে রেখেছিল।"
+      },
+      {
+        "en": "Seeing the children weeping from the bitter frost, Coyote took pity on humanity and formulated a daring plan to liberate the sacred flame.",
+        "bn": "তীব্র শীতে শিশুদের কাঁদতে দেখে কোয়োটির মনে দয়ার উদ্রেক হলো এবং সে পবিত্র শিখাকে মুক্ত করার এক দুঃসাহসিক ফন্দি আঁটল।"
+      },
+      {
+        "en": "He positioned swift forest runners—cougar, deer, fox, squirrel, and frog—at spaced intervals down the steep mountain slope.",
+        "bn": "সে খাড়া পর্বতের ঢাল বরাবর নির্দিষ্ট দূরত্বে দ্রুতগামী বনের প্রাণীদের—পাহাড়ি সিংহ, হরিণ, শেয়াল, কাঠবিড়ালি এবং ব্যাঙকে—সারিবদ্ধভাবে দাঁড় করিয়ে দিল।"
+      },
+      {
+        "en": "Slipping inside the demons' snowy lodge while they slept, Coyote snatched a burning brand in his jaws and darted into the night.",
+        "bn": "দানবরা যখন ঘুমাচ্ছিল, তখন কোয়োটি তাদের বরফাবৃত গুহায় ঢুকে মুখে একটি জ্বলন্ত কাঠ নিয়ে রাতের অন্ধকারে বিদ্যুৎবেগে ছুট লাগাল।"
+      },
+      {
+        "en": "The enraged monsters pursued him furiously, but as Coyote's breath faltered, he tossed the torch to Cougar, who sprinted downhill before handing it to Deer.",
+        "bn": "ক্রুদ্ধ দানবরা তার পিছু ধাওয়া করল, কিন্তু কোয়োটির দম ফুরিয়ে এলে সে মশালটি ছুঁড়ে দিল পাহাড়ি সিংহের দিকে, সিংহ আবার তা হরিণকে দিল।"
+      },
+      {
+        "en": "Finally, Little Frog swallowed the last glowing coal, dived deep beneath a creek, and spat the spark safely into the bark of a willow tree.",
+        "bn": "অবশেষে এক ছোট্ট ব্যাঙ শেষ জ্বলন্ত অঙ্গারটি গিলে ফেলে খাঁড়ির গভীরে ডুব দিল এবং উইলো গাছের বাকলের ভেতর সেই স্ফুলিঙ্গটি উগলে দিয়ে আগুনকে নিরাপদে রক্ষা করল।"
+      },
+      {
+        "en": "Ever since that perilous relay, humans have rubbed willow sticks together to summon the gift of warm fire during winter.",
+        "bn": "সেই ঝুঁকিপূর্ণ দৌড়ের পর থেকেই মানুষ শীতের দিনে উষ্ণ আগুন জ্বালাতে উইলো গাছের শুকনো কাঠি ঘষে শিখা প্রজ্বলন করে আসছে।"
+      }
+    ]
+  },
+  {
+    "id": "anansi-pot-of-wisdom-ashanti",
+    "title": "Anansi and the Fragile Pot of Wisdom",
+    "titleBn": "আনানসি এবং প্রজ্ঞার ভঙ্গুর মাটির পাত্র",
+    "author": "West African (Ashanti Folktale)",
+    "level": "Intermediate",
+    "category": "World Folklore & Indigenous Wisdom",
+    "coverEmoji": "🕷️",
+    "summary": "The trickster spider Anansi attempted to hoard all the world's wisdom in a clay pot, only to learn that knowledge belongs to everyone.",
+    "summaryBn": "চতুর মাকড়সা আনানসি পৃথিবীর সমস্ত জ্ঞান একটি মাটির পাত্রে বন্দি করে একা রাখতে চেয়েছিল, কিন্তু শেষ পর্যন্ত সে উপলব্ধি করল যে জ্ঞান কারও ব্যক্তিগত সম্পত্তি নয়।",
+    "sentences": [
+      {
+        "en": "In the golden age of Ashanti folklore, the sky god Nyame rewarded the clever spider Anansi with a sealed clay pot containing all the world’s wisdom.",
+        "bn": "আশান্তি লোকগাথার সোনালী যুগে, আকাশদেব নিয়ামে চতুর মাকড়সা আনানসিকে পৃথিবীর সমস্ত জ্ঞানে ভরপুর একটি সিলমোহরযুক্ত মাটির পাত্র উপহার দিয়েছিলেন।"
+      },
+      {
+        "en": "Instead of sharing this priceless treasure with his neighbors, the greedy spider decided to conceal the vessel atop the highest thorn tree in the jungle.",
+        "bn": "প্রতিবেশীদের সাথে এই অমূল্য সম্পদ ভাগ করে নেওয়ার পরিবর্তে, লোভী মাকড়সাটি জঙ্গলের সবচেয়ে উঁচু কাঁটাগাছের মগডালে পাত্রটি লুকিয়ে রাখার সিদ্ধান্ত নিল।"
+      },
+      {
+        "en": "Tying the bulky jug tightly across his chest with vine ropes, Anansi attempted to scramble up the rough, thorny trunk.",
+        "bn": "লতাপাতা দিয়ে ভারী পাত্রটি শক্ত করে নিজের বুকের সাথে বেঁধে নিয়ে আনানসি কাঁটাভরা রুক্ষ কাণ্ড বেয়ে ওপরে ওঠার চেষ্টা করতে লাগল।"
+      },
+      {
+        "en": "The spherical pot repeatedly bumped against the tree bark, bruising his belly and preventing his spindly legs from gaining a secure foothold.",
+        "bn": "গোলাকার পাত্রটি বারবার গাছের বাকলের সাথে ধাক্কা খেতে লাগল, যার ফলে তার পেট ছড়ে গেল এবং তার সরু পাগুলো গাছের ওপর শক্ত বাঁধন পেতে ব্যর্থ হলো।"
+      },
+      {
+        "en": "Watching from the undergrowth, his young son Ntikuma chuckled and called out, 'Father, why do you not strap the pot to your back?'",
+        "bn": "ঝোপের আড়াল থেকে দৃশ্যটি দেখে তার ছোট ছেলে ন্তিকুমা হেসে উঠে বলল, 'বাবা, তুমি পাত্রটি বুকের বদলে পিঠের সাথে বেঁধে নিচ্ছ না কেন?'"
+      },
+      {
+        "en": "Stunned that a mere child possessed a practical piece of wisdom absent from his collection, Anansi flew into an embarrassed rage and hurled the jar to the forest floor.",
+        "bn": "একটি দুধের শিশুর কাছে এমন এক বাস্তব বুদ্ধি রয়েছে যা তার পাত্রের সংগ্রহে ছিল না—তা দেখে আনানসি চরম লজ্জা ও ক্রোধে পাত্রটি মাটিতে আছাড় মারল।"
+      },
+      {
+        "en": "The clay shattered into a thousand fragments, scattering wisdom freely across the earth so that every human being could claim a portion.",
+        "bn": "মাটির পাত্রটি ভেঙে হাজার টুকরো হয়ে গেল এবং তার মধ্য থেকে প্রজ্ঞা সারা পৃথিবীতে ছড়িয়ে পড়ল, যেন প্রতিটি মানুষ জ্ঞানের এক-একটি অংশ লাভ করতে পারে।"
+      }
+    ]
+  },
+  {
+    "id": "maui-snares-the-sun-polynesia",
+    "title": "Maui and the Slowing of the Sun",
+    "titleBn": "মাউই এবং সূর্যের গতি শ্লথ করার অভিযান",
+    "author": "Polynesian Legend",
+    "level": "Intermediate",
+    "category": "World Folklore & Indigenous Wisdom",
+    "coverEmoji": "☀️",
+    "summary": "Demigod Maui braided a magical rope from flax and snared the galloping sun god, forcing him to move slowly so humans could plant crops and live peacefully.",
+    "summaryBn": "শন গাছ দিয়ে এক জাদুকরি দড়ি বুনে বীর মাউই দ্রুতগামী সূর্যদেবতাকে ফাঁদে আটকেছিলেন, যাতে মানুষ ফসল ফলানোর ও শান্তিতে বাঁচার মতো পর্যাপ্ত দিবালোক পায়।",
+    "sentences": [
+      {
+        "en": "Long ago across the Pacific islands, the days were unbearably short because the blazing sun raced across the sky in a blinding hurry.",
+        "bn": "বহুকাল পূর্বে প্রশান্ত মহাসাগরের দ্বীপগুলোতে দিনগুলো ছিল অসহনীয় রকমের ছোট, কারণ প্রখর সূর্য অত্যন্ত দ্রুতবেগে আকাশের এক প্রান্ত থেকে অন্য প্রান্তে ছুটে যেত।"
+      },
+      {
+        "en": "Women had scarcely spread wet mulberry bark to dry into cloth before twilight fell, and fishermen barely set their nets before darkness swallowed the ocean.",
+        "bn": "মহিলারা ভেজা ছাল শুকাতে দিতে না দিতেই সন্ধ্যা নেমে আসত, আর জেলেরা সমুদ্রে জাল ফেলতে না ফেলতেই আঁধার এসে চারপাশ ঢেকে ফেলত।"
+      },
+      {
+        "en": "Determined to relieve his people from constant hardship, the daring demigod Maui resolved to lasso the sun and compel him to travel leisurely.",
+        "bn": "স্বজাতির এই অন্তহীন দুর্ভোগ লাঘব করতে দৃঢ়প্রতিজ্ঞ হয়ে সাহসী বীর মাউই সূর্যকে দড়ির ফাঁদে বন্দি করে তার গতি শ্লথ করার সংকল্প করলেন।"
+      },
+      {
+        "en": "Maui and his brothers plaited sturdy ropes from long flax fibers and wove them with the enchanted hair of his grandmother.",
+        "bn": "মাউই ও তাঁর ভাইয়েরা শনের দীর্ঘ আঁশ দিয়ে মজবুত দড়ি তৈরি করলেন এবং তাতে তাঁদের ঠাকুরমার অলৌকিক চুল বুনে দিয়ে তাকে আরও শক্তিশালী করলেন।"
+      },
+      {
+        "en": "Journeying to the edge of the crater of Mount Haleakala before dawn, the brothers concealed themselves behind a barricade of stones.",
+        "bn": "ভোর হওয়ার আগেই মাউন্ট হালেকালার আগ্নেয়গিরির জ্বালামুখের প্রান্তে পৌঁছে ভাইয়েরা পাথরের আড়ালে নিজেদের লুকিয়ে রাখলেন।"
+      },
+      {
+        "en": "As the morning rays cresting the ridge entered the snare, Maui yanked the cords tight and struck the flaming disk with his enchanted jawbone club.",
+        "bn": "সকালের প্রথম রশ্মিগুলো গর্তের খাঁজে প্রবেশ করা মাত্রই মাউই দড়িগুলো শক্ত করে টানলেন এবং জাদুকরি চোয়ালের হাড়ের গদা দিয়ে সূর্যের উত্তপ্ত থালায় আঘাত করলেন।"
+      },
+      {
+        "en": "Weeping in defeat, the sun promised to travel slowly through the heavens henceforth, gifting humanity long, sunlit days to cultivate and flourish.",
+        "bn": "পরাজয় মেনে নিয়ে সূর্যদেব প্রতিশ্রুতি দিলেন যে তিনি এখন থেকে আকাশে ধীরেসুস্থে ভ্রমণ করবেন, যার ফলে মানুষ জীবনধারণ ও ফসলাদি ফলানোর পর্যাপ্ত সূর্যালোক পেল।"
+      }
+    ]
+  },
+  {
+    "id": "raven-steals-the-light-haida",
+    "title": "Raven and the Carved Cedar Box of Daylight",
+    "titleBn": "দাঁড়কাক এবং দেবদারু কাঠের বাক্সে বন্দি আলো",
+    "author": "Pacific Northwest (Haida Legend)",
+    "level": "Intermediate",
+    "category": "World Folklore & Indigenous Wisdom",
+    "coverEmoji": "🦅",
+    "summary": "Raven transformed into a tiny pine needle to infiltrate an old chief's lodge, liberating the stars, moon, and sun from carved wooden nesting boxes.",
+    "summaryBn": "দাঁড়কাক একটি পাইন গাছের সূক্ষ্ম কাঁটায় রূপ ধারণ করে এক প্রাচীন সর্দারের ঘরে প্রবেশ করে এবং কাঠের খোদাই করা বাক্স থেকে নক্ষত্র, চাঁদ ও সূর্যকে মুক্ত করে পৃথিবীতে আলো আনে।",
+    "sentences": [
+      {
+        "en": "In the first quiet twilight of the world, humans stumbled over jagged rocks and tangled roots because the earth existed in total, unyielding shadow.",
+        "bn": "পৃথিবীর আদিম গোধূলিলগ্নে চারপাশ ঘন অন্ধকারে ঢাকা থাকায় মানুষ প্রায়ই পাথরের সাথে হোঁচট খেত এবং গাছের শেকড়ে আটকে পড়ে যেত।"
+      },
+      {
+        "en": "A wealthy chieftain living at the headwaters of the Nass River guarded a treasure greater than gold: three nested cedar boxes containing cosmic light.",
+        "bn": "নাস নদীর উৎসমুখে বসবাসকারী এক ধনী গোত্রপ্রধান সোনার চেয়েও মূল্যবান এক সম্পদ পাহারা দিতেন—তিনটি খোদাই করা দেবদারু কাঠের বাক্স, যার মধ্যে বিশ্বব্রহ্মাণ্ডের সমস্ত আলো বন্দি ছিল।"
+      },
+      {
+        "en": "Raven, the shape-shifting trickster who yearned to see the beauty of the surrounding wilderness, plotted to liberate the illumination.",
+        "bn": "চারপাশের প্রকৃতির রূপসৌন্দর্য দেখার জন্য ব্যাকুল হয়ে রূপবদলকারী চতুর দাঁড়কাক সেই বন্দি আলোকে মুক্ত করার এক নিখুঁত পরিকল্পনা আঁটল।"
+      },
+      {
+        "en": "Turning himself into a tiny pine needle floating in a water bucket, Raven was swallowed by the chieftain's daughter, who eventually gave birth to an inquisitive boy.",
+        "bn": "জলের বালতিতে ভেসে থাকা ছোট্ট একটি পাইনের কাঁটায় রূপান্তরিত হয়ে দাঁড়কাক সর্দারের কন্যার পেটে গেল এবং পরবর্তীতে এক কৌতূহলী শিশুসন্তান হিসেবে জন্ম নিল।"
+      },
+      {
+        "en": "The doting grandfather indulged the weeping toddler, allowing him to open the outer box of stars and the secondary casket holding the glowing silver moon.",
+        "bn": "স্নেহান্ধ বৃদ্ধ দাদু কাঁদতে থাকা শিশুটিকে খুশি করতে বাইরের নক্ষত্রের বাক্সটি এবং পরবর্তীতে রুপালি চাঁদের পেটিকাটি খুলতে দিলেন।"
+      },
+      {
+        "en": "Transforming back into his glossy feathered form, Raven seized the final chest containing the golden sun, flew through the smoke-hole, and shattered the box in the sky.",
+        "bn": "নিমেষেই নিজের চকচকে ডানাওয়ালা দাঁড়কাকের রূপ ফিরে পেয়ে সে সোনার সূর্যের শেষ বাক্সটি ছিনিয়ে নিয়ে ধোঁয়ার পথ দিয়ে উড়ে গেল এবং আকাশের বুকে বাক্সটি আছাড় মারল।"
+      },
+      {
+        "en": "Warm golden radiance poured over the mountains, water, and trees, awakening color and joy across the Pacific Northwest forever.",
+        "bn": "উষ্ণ সোনালী আলো পর্বত, নদী আর বনভূমির ওপর ঝরে পড়ল, যা প্রশান্ত মহাসাগরীয় উত্তর-পশ্চিমাঞ্চলের বুকে চিরতরে বর্ণিল প্রাণের জোয়ার বইয়ে দিল।"
+      }
+    ]
+  },
+  {
+    "id": "sedna-mistress-of-the-deep-inuit",
+    "title": "Sedna and the Mother of the Frigid Oceans",
+    "titleBn": "সেদনা এবং বরফশীতল সমুদ্রের করুণ দেবী",
+    "author": "Inuit Mythology",
+    "level": "Intermediate",
+    "category": "World Folklore & Indigenous Wisdom",
+    "coverEmoji": "🌊",
+    "summary": "Cast into the icy Arctic seas during a terrifying storm, young Sedna became the mistress of the deep ocean, her severed fingers transforming into seals and whales.",
+    "summaryBn": "ভয়াল ঝড়ের মুখে বরফশীতল সুমেরু সাগরে নিক্ষিপ্ত তরুণী সেদনা পরিণত হয়েছিলেন সমুদ্রের অধিশ্বরীতে, যাঁর আঙুলগুলো রূপান্তরিত হয়েছিল সীল ও তিমি মাছের মতো সামুদ্রিক জীবে।",
+    "sentences": [
+      {
+        "en": "Across the frozen tundra where harsh blizzards howled, there lived a proud maiden named Sedna who rejected every suitor in her village.",
+        "bn": "যেখানে তীব্র তুষারঝড় গর্জন করে সেই বরফে ঢাকা তুন্দ্রা অঞ্চলে সেদনা নামে এক রূপসী তরুণী বাস করত, যে গ্রামের কোনো যুবকের বিয়ের প্রস্তাব গ্রহণ করত না।"
+      },
+      {
+        "en": "Deceived by a disguise, she married a handsome stranger who turned out to be a cruel northern seabird spirit that confined her to a desolate sea crag.",
+        "bn": "এক ছদ্মবেশীর ছলনায় পড়ে সে এক সুদর্শন আগন্তুককে বিয়ে করে ফেলে, যে আসলে ছিল উত্তুরে সামুদ্রিক পাখির এক নিষ্ঠুর প্রেতাত্মা এবং সেদনাকে এক নির্জন পাথুরে দ্বীপে বন্দি করে রাখে।"
+      },
+      {
+        "en": "When her remorseful father rescued her in a walrus-skin kayak, the vengeful bird flapped his mighty wings, stirring a colossal tempest upon the ocean.",
+        "bn": "অনুতপ্ত বাবা যখন সিন্ধুঘোটকের চামড়ার তৈরি কায়াকে করে সেদনাকে উদ্ধার করতে এলেন, তখন প্রতিশোধপরায়ণ পাখিটি বিশাল ডানা ঝাপটে সাগরে ভয়াবহ ঝড় তুলল।"
+      },
+      {
+        "en": "Terrified that the turbulent waves would swallow them both, the frantic father cast Sedna overboard into the churning, sub-zero water.",
+        "bn": "উত্তাল ঢেউ তাদের দুজনকে গ্রাস করবে এই ভয়ে আতঙ্কিত পিতা দিগ্বিদিকজ্ঞান হারিয়ে সেদনাকে বরফশীতল সাগরের বুক চিরে ফেলা পানিতে ফেলে দিলেন।"
+      },
+      {
+        "en": "As she clung desperately to the wooden gunwale of the boat, her numb fingers froze and snapped off into the dark swirling abyss.",
+        "bn": "সে যখন বাঁচার আশায় নৌকার কানা শক্ত করে ধরে রইল, তখন তার অসাড় আঙুলগুলো ঠান্ডায় জমে ছিঁড়ে গিয়ে অন্ধকার অতল সাগরে নিমজ্জিত হলো।"
+      },
+      {
+        "en": "By miraculous enchantment, her severed fingertips blossomed into seals, walruses, and colossal whales, while Sedna sank to rule as sovereign queen of the ocean depths.",
+        "bn": "অলৌকিক শক্তিতে তার খসে পড়া আঙুলগুলো রূপান্তরিত হলো সীল, সিন্ধুঘোটক এবং বিশালাকার তিমিতে, আর সেদনা নিজে অতল সাগরের অধিশ্বরী দেবী হিসেবে আসন গ্রহণ করলেন।"
+      },
+      {
+        "en": "To this day, Arctic shamans comb her tangled sea-kelp hair in spirit trances, asking her benevolent permission before hunters set out for food.",
+        "bn": "আজও সুমেরুর ওঝারা অলৌকিক ধ্যানে নিমগ্ন হয়ে সাগরের শৈবালে জট পাকানো সেদনার চুল আঁচড়ে দেন, যাতে শিকারিরা শিকারে বেরোনোর আগে তাঁর আশীর্বাদ লাভ করতে পারে।"
+      }
+    ]
+  },
+  {
+    "id": "rainbow-serpent-dreamtime-australia",
+    "title": "The Rainbow Serpent and the Songlines of Creation",
+    "titleBn": "রংধনু সর্প এবং সৃষ্টির চিরন্তন আদিম সুর",
+    "author": "Australian Aboriginal Lore",
+    "level": "Intermediate",
+    "category": "World Folklore & Indigenous Wisdom",
+    "coverEmoji": "🌈",
+    "summary": "In the timeless Dreamtime, the colossal Rainbow Serpent awoke beneath the flat red earth, carving river valleys and breathing life into the Australian landscape.",
+    "summaryBn": "সৃষ্টির আদিম স্বপ্নযুগে বিশাল রংধনু সর্প ঘুম ভেঙে লাল মাটির গভীর থেকে জেগে উঠে নদী ও উপত্যকা খোদাই করেছিল এবং অস্ট্রেলিয়ার ভূপ্রকৃতিতে প্রাণের সঞ্চার করেছিল।",
+    "sentences": [
+      {
+        "en": "In the primordial Australian Dreamtime, the earth was flat, barren, and devoid of living creatures, basking in a silent, featureless slumber.",
+        "bn": "অস্ট্রেলিয়ার আদিম ড্রিমটাইম বা স্বপ্নযুগে পৃথিবী ছিল সমতল, রসহীন ও প্রাণহীন, এক নিস্তব্ধ অনুভূতিহীন ঘুমে মগ্ন।"
+      },
+      {
+        "en": "Deep beneath the cracked red crust, the gigantic Rainbow Serpent, known as Goorialla, stirred from his eons-long hibernation.",
+        "bn": "ফাটা লাল মাটির গভীরে ঘুমিয়ে থাকা বিশাল রংধনু সর্প, যাকে অনেকেই 'গুরিয়ালা' নামে ডাকত, তার যুগান্তকারী গভীর ঘুম ভেঙে জেগে উঠল।"
+      },
+      {
+        "en": "As the serpent undulated his iridescent, shimmering coils across the continent, his massive body carved winding river valleys, gorges, and mountain gullies.",
+        "bn": "রংধনু রঙের উজ্জ্বল আঁশযুক্ত বিশাল দেহ নিয়ে সাপটি যখন মহাদেশের বুক চিরে এঁকেবেঁকে অগ্রসর হলো, তখন তার চাপে তৈরি হলো আঁকাবাঁকা নদী, গিরিখাত ও উপত্যকা।"
+      },
+      {
+        "en": "He summoned heavy monsoon clouds with his breath, filling the dry sandstone depressions with refreshing, crystal-clear billabongs.",
+        "bn": "সে নিজের নিঃশ্বাস দিয়ে বর্ষার ঘন মেঘ ডেকে আনল এবং মরুভূমির পাথুরে গর্তগুলোকে নির্মল, স্ফটিকের মতো স্বচ্ছ জলাশয়ে ভরিয়ে দিল।"
+      },
+      {
+        "en": "Calling out to the sleeping animals, he tickled frogs until they released underground water reserves, giving birth to vibrant eucalyptus woodlands.",
+        "bn": "মাটির নিচে ঘুমিয়ে থাকা প্রাণীদের ডেকে সে ব্যাঙদের গায়ে সুড়সুড়ি দিল, যার ফলে ব্যাঙগুলো জমানো জল ছেড়ে দিল এবং চারপাশ ইউক্যালিপটাসের সবুজ অরণ্যে ভরে উঠল।"
+      },
+      {
+        "en": "The Serpent established sacred laws to govern the relationship between living creatures, warning that greed would invite torrential cleansing floods.",
+        "bn": "সেই মহাজাগতিক সাপ সমস্ত জীবের মধ্যে ভারসাম্য বজায় রাখতে পবিত্র অনুশাসন তৈরি করল এবং সতর্ক করল যে লোভ ও অহংকার নামিয়ে আনবে প্লাবন।"
+      },
+      {
+        "en": "Indigenous elders continue singing ancient songlines tracing his subterranean footsteps, honoring the serpentine creator who arches across storm clouds as a vibrant rainbow.",
+        "bn": "আদিবাসী বয়োজ্যেষ্ঠরা আজও প্রাচীন সুরের ধারায় সেই সাপের পদচিহ্ন স্মরণ করেন এবং ঝড়ের আকাশে রংধনু হয়ে ফুটে ওঠা সেই আদিম স্রষ্টাকে শ্রদ্ধা নিবেদন করেন।"
+      }
+    ]
+  },
+  {
+    "id": "urashima-taro-dragon-palace-japan",
+    "title": "Urashima Taro and the Box of Vanished Centuries",
+    "titleBn": "উরাশিমা তারো এবং হারিয়ে যাওয়া শতকের রহস্যময় বাক্স",
+    "author": "Japanese Folklore",
+    "level": "Intermediate",
+    "category": "World Folklore & Indigenous Wisdom",
+    "coverEmoji": "🐢",
+    "summary": "A kind fisherman saves a sea turtle and is rewarded with a visit to the undersea Dragon Palace, discovering too late that a brief stay cost him three hundred years.",
+    "summaryBn": "এক দয়ালু জেলে একটি কচ্ছপকে রক্ষা করে সমুদ্রের তলদেশের ড্রাগন প্রাসাদে আতিথ্য পায়, কিন্তু পরে সে বুঝতে পারে যে সেখানে কাটানো মাত্র কয়েকটি দিন তার জীবনের তিন শত বছর কেড়ে নিয়েছে।",
+    "sentences": [
+      {
+        "en": "Urashima Taro was a gentle fisherman who earned a modest living along the rocky coastline of feudal Japan.",
+        "bn": "উরাশিমা তারো ছিলেন সামন্ত জাপানের পাথুরে উপকূলীয় অঞ্চলের এক শান্ত ও বিনয়ী জেলে, যিনি মাছ ধরে সাদামাটা জীবনযাপন করতেন।"
+      },
+      {
+        "en": "One afternoon on the beach, he rescued a small sea turtle being mercilessly poked with sticks by mischievous village children.",
+        "bn": "একদিন বিকেলে সৈকতে দুষ্টু ছেলেদের লাঠির আঘাত থেকে তিনি একটি ছোট সামুদ্রিক কচ্ছপকে পরম মমতায় উদ্ধার করে সাগরে ছেড়ে দেন।"
+      },
+      {
+        "en": "Days later, a majestic giant tortoise surfaced, offering to carry Taro upon its shell to Ryugu-jo, the enchanted palace of the Dragon King of the Sea.",
+        "bn": "কয়েক দিন পর একটি বিশালাকার কচ্ছপ ভেসে উঠে তারোকে নিজের পিঠে চড়িয়ে সাগরের ড্রাগন রাজার জাদুকরি প্রাসাদ 'রিউগু-জো'তে নিয়ে যাওয়ার প্রস্তাব দেয়।"
+      },
+      {
+        "en": "The beautiful princess Otohime welcomed him with banquets, dances of iridescent fish, and marvels beyond mortal imagination.",
+        "bn": "অপরূপ রাজকুমারী ওতোহিমে তাকে রাজকীয় ভোজ, রঙিন মাছের অপূর্ব নৃত্য এবং মর্ত্যের মানুষের কল্পনাতীত সমস্ত বিস্ময় দিয়ে বরণ করে নিলেন।"
+      },
+      {
+        "en": "After three joyous days of celebration, homesickness tugged at Taro’s heart, prompting him to ask permission to return to his elderly mother.",
+        "bn": "তিন দিন আনন্দ-উৎসবে মেতে থাকার পর হঠাৎ তারোর মনে বৃদ্ধা মায়ের জন্য মন কেমন করে উঠল এবং সে বাড়ি ফেরার অনুমতি চাইল।"
+      },
+      {
+        "en": "Weeping, the princess handed him a jeweled lacquer box called the Tamatebako, warning him under no circumstances to untie its silk ribbon.",
+        "bn": "রাজকুমারী কেঁদে ফেলে তার হাতে 'তামাতেবাকো' নামক রত্নখচিত একটি কাঠের বাক্স উপহার দিলেন এবং সাবধান করে বললেন কোনো অবস্থাতেই যেন তিনি এই বাক্সের ফিতা না খোলেন।"
+      },
+      {
+        "en": "Arriving home, Taro found his mother dead, his village unrecognizable, and when he opened the forbidden box, white smoke billowed forth, turning him into an ancient withered man of three hundred years.",
+        "bn": "গ্রামে ফিরে তারো দেখলেন তাঁর মা বেঁচে নেই, গ্রাম সম্পূর্ণ অচেনা; আর কৌতূহল সামলাতে না পেরে নিষিদ্ধ বাক্সটি খোলবামাত্রই সাদা ধোঁয়া বের হয়ে মুহূর্তের মধ্যে তাঁকে তিনশত বছরের এক বৃদ্ধে পরিণত করল।"
+      }
+    ]
+  },
+  {
+    "id": "tanuki-and-the-magic-teapot-bunbuku",
+    "title": "Bunbuku Chagama and the Grateful Tanuki",
+    "titleBn": "বুনবুকু চাগামা এবং এক কৃতজ্ঞ তনুকির উপাখ্যান",
+    "author": "Japanese Folktale",
+    "level": "Intermediate",
+    "category": "World Folklore & Indigenous Wisdom",
+    "coverEmoji": "🫖",
+    "summary": "A shape-shifting tanuki trapped as a cast-iron teapot repays a kind rag-picker's compassion by performing astonishing acrobatics across Japan.",
+    "summaryBn": "লোহার চায়ের কেতলির রূপ ধারণ করে আটকে যাওয়া এক রূপবদলকারী তনুকি এক দয়ালু পুরোনো জিনিস ক্রেতার প্রতি কৃতজ্ঞতা প্রকাশ করতে সার্কাসে দড়ির ওপর হেঁটে অর্থ উপার্জন করে দেয়।",
+    "sentences": [
+      {
+        "en": "In ancient Japan, mythological raccoon-dogs known as tanuki possessed playful magical powers to transform their bodies into inanimate household objects.",
+        "bn": "প্রাচীন জাপানে তনুকি নামের অলৌকিক বনবিড়াল বা র্যাকুন-কুকুররা নিজেদের দেহকে যেকোনো জড় গৃহস্থালি বস্তুতে রূপান্তরিত করার জাদুকরি ক্ষমতার অধিকারী ছিল।"
+      },
+      {
+        "en": "A temple abbot purchased an antique cast-iron tea kettle, but when his novices placed it over glowing hot charcoal to boil water, the kettle suddenly sprouted paws and a furry tail.",
+        "bn": "এক বৌদ্ধ মন্দিরের প্রধান একটি পুরোনো ঢালাই লোহার কেতলি কিনেছিলেন, কিন্তু জল ফোটাতে জ্বলন্ত কয়লার ওপর বসানো মাত্রই কেতলিটি থেকে হঠাৎ পা এবং এক পশমী লেজ গজিয়ে উঠল।"
+      },
+      {
+        "en": "Terrified by the shrieking teapot scampering around the hearth, the abbot eagerly sold the monstrous oddity for a handful of copper coins to a poor traveling junk dealer named Jinbei.",
+        "bn": "আগুনের ওপর কেতলিটির এমন চিৎকার ও ছুটাছুটি দেখে আতঙ্কিত হয়ে প্রধান সন্ন্যাসী জিনবেই নামের এক দরিদ্র ভাঙারি ব্যবসায়ীর কাছে নামমাত্র মূল্যে সেটি বিক্রি করে দিলেন।"
+      },
+      {
+        "en": "Jinbei treated the supernatural creature with tender sympathy, bandaging its burned paws and feeding it sweet rice dumplings instead of putting it to work.",
+        "bn": "জিনবেই সেই অলৌকিক প্রাণীটিকে ভয়ের চোখে না দেখে পরম মমতায় তার পোড়া পায়ে ওষুধ লাগিয়ে দিলেন এবং তাকে মিষ্টি চালের পিঠা খেতে দিলেন।"
+      },
+      {
+        "en": "Deeply touched by the rag-picker's warm hospitality, the tanuki offered to perform dazzling acrobatic tightrope routines while half-transformed into a singing iron teapot.",
+        "bn": "ভাঙারিওয়ালার এই অকৃত্রিম ভালোবাসায় আপ্লুত হয়ে তনুকিটি অর্ধেক কেতলি ও অর্ধেক বনবিড়ালের রূপ নিয়ে দড়ির ওপর ব্যালেন্স করে গান গাওয়ার মতো চোখধাঁধানো কসরত দেখানোর প্রস্তাব দিল।"
+      },
+      {
+        "en": "Jinbei set up a carnival booth, and crowds gathered from surrounding provinces to watch the singing kettle dance on high ropes with a tiny paper umbrella.",
+        "bn": "জিনবেই একটি মেলার তাঁবু তৈরি করলেন, আর দূর-দূরান্তের গ্রাম থেকে মানুষ ভিড় জমাল একটি কাগজের ছাতা হাতে দড়ির ওপর লোহার কেতলির নৃত্য দেখার জন্য।"
+      },
+      {
+        "en": "The grateful tanuki earned Jinbei a comfortable fortune, proving that heartfelt kindness toward humble creatures brings lifelong harmony and prosperity.",
+        "bn": "সেই কৃতজ্ঞ তনুকিটি জিনবেইকে বিপুল ঐশ্বর্য এনে দিল, যা প্রমাণ করে যে অবলা জীবের প্রতি ভালোবাসা মানুষের জীবনে চিরস্থায়ী সুখ ও সমৃদ্ধি বয়ে আনে।"
+      }
+    ]
+  },
+  {
+    "id": "selkie-of-orkney-islands-celtic",
+    "title": "The Selkie Maiden and the Stolen Sealskin",
+    "titleBn": "সেলকি কন্যা এবং অপহৃত সিলমাছের চামড়া",
+    "author": "Celtic Folklore (Orkney & Shetland)",
+    "level": "Intermediate",
+    "category": "World Folklore & Indigenous Wisdom",
+    "coverEmoji": "🦭",
+    "summary": "A lonely Scottish crofter steals the magical pelt of a seal maiden, keeping her on land until her children discover the hidden skin and return her to the ocean.",
+    "summaryBn": "এক নিঃসঙ্গ স্কটিশ কৃষক এক সিলমাছের কন্যার জাদুকরি চামড়া লুকিয়ে রেখে তাকে বিয়ে করতে বাধ্য করে, কিন্তু বহু বছর পর সন্তানরা সেই চামড়া খুঁজে পেলে সে আবার সাগরে ফিরে যায়।",
+    "sentences": [
+      {
+        "en": "Along the misty, wave-lashed cliffs of the Orkney Islands, ancient fishermen spoke in hushed whispers of selkies—enchanted seals capable of shedding their pelts to walk as humans.",
+        "bn": "অর্কনি দ্বীপপুঞ্জের কুয়াশাচ্ছন্ন পাথুরে উপকূলে প্রাচীন জেলেরা ফিসফিস করে সেলকিদের কথা বলত—যারা সাগরে সিলমাছ কিন্তু ডাঙায় উঠে চামড়া খুলে মানুষের রূপ ধারণ করতে পারে।"
+      },
+      {
+        "en": "One midsummer night under a pale full moon, a solitary crofter watched in awe as a group of beautiful seal folk danced upon the gleaming beach.",
+        "bn": "এক গ্রীষ্মের পূর্ণিমা রাতে এক নিঃসঙ্গ কৃষক সৈকতে দাঁড়িয়ে বিস্ময়ে দেখল একদল অপরূপ রূপবতী সিল-কন্যা তাদের খোলস খুলে চকচকে বালিতে নাচছে।"
+      },
+      {
+        "en": "Entranced by the loveliest maiden, the farmer stole forward and snatched her discarded silvery skin, concealing it beneath a stone slab in his barn.",
+        "bn": "তাদের মধ্যে সবচেয়ে রূপসী কন্যাটির সৌন্দর্যে মোহিত হয়ে কৃষকটি গোপনে এগিয়ে গিয়ে তার ফেলে রাখা রুপালি চামড়াটি চুরি করে নিজের শস্যঘরের পাথরের নিচে লুকিয়ে রাখল।"
+      },
+      {
+        "en": "Unable to return to the sea, the weeping selkie was forced to marry the farmer, bearing him three gentle children with webbed fingers and eyes as dark as kelp.",
+        "bn": "চামড়া ছাড়া সাগরে ফিরতে অক্ষম হয়ে সেই অশ্রুসিক্ত সেলকি কৃষককে বিয়ে করতে বাধ্য হলো এবং তাদের ঘরে তিনটি সুন্দর সন্তানের জন্ম হলো যাদের চোখ ছিল সাগরের মতো গভীর।"
+      },
+      {
+        "en": "Though she proved a devoted mother, her gaze remained perpetually fixed upon the rolling breakers, pining for the cool, salty freedom of the ocean realm.",
+        "bn": "যদিও সে এক স্নেহময়ী মা ছিল, তবুও তার চোখ দুটো সর্বদাই দূর সমুদ্রের ঢেউয়ের দিকে তাকিয়ে থাকত, সাগরের শীতল নোনা জলের স্বাধীনতার জন্য তার মন কাঁদত।"
+      },
+      {
+        "en": "Years later, her youngest boy unearthed the hidden pelt from beneath the grain sacks, innocently asking his mother why she had buried such a lovely cloak.",
+        "bn": "বহু বছর পর তার ছোট ছেলে শস্যের বস্তার নিচ থেকে লুকানো চামড়াটি খুঁজে পেয়ে নিষ্পাপ মুখে মাকে জিজ্ঞেস করল সে কেন এমন সুন্দর চাদর লুকিয়ে রেখেছে।"
+      },
+      {
+        "en": "With a heart torn between maternal love and ancestral instinct, she kissed her sleeping children goodbye, draped the pelt across her shoulders, and slipped back into the sea.",
+        "bn": "সন্তানদের প্রতি গভীর ভালোবাসা এবং সাগরের আদিম টানের দ্বিধায় ছিঁড়ে যাওয়া হৃদয়ে সে ঘুমন্ত সন্তানদের কপালে বিদায়চুমু এঁকে চামড়াটি গায়ে জড়িয়ে আবার সাগরের অতলে মিলিয়ে গেল।"
+      }
+    ]
+  },
+  {
+    "id": "baba-yaga-and-vasilisa-the-brave-slavic",
+    "title": "Vasilisa the Brave and the Witch of the Birch Forest",
+    "titleBn": "সাহসী ভাসিলিসা এবং বার্চ অরণ্যের ডাইনি বাবা ইয়াগা",
+    "author": "Slavic Folktale",
+    "level": "Intermediate",
+    "category": "World Folklore & Indigenous Wisdom",
+    "coverEmoji": "🧙‍♀️",
+    "summary": "Armed only with a magical wooden doll bequeathed by her mother, gentle Vasilisa outwits the fearsome witch Baba Yaga and secures a blazing skull to liberate herself.",
+    "summaryBn": "মায়ের রেখে যাওয়া এক জাদুকরি কাঠের পুতুলের সহায়তায় সাহসী ভাসিলিসা ভয়ঙ্কর ডাইনি বাবা ইয়াগার খাঁচা থেকে বেঁচে ফেরে এবং জ্বলন্ত খুলি নিয়ে এসে নিজের মুক্তি ছিনিয়ে নেয়।",
+    "sentences": [
+      {
+        "en": "Deep within the tangled birch forests of ancient Russia, the terrifying crone Baba Yaga lived in a hut that spun continuously on giant chicken legs.",
+        "bn": "প্রাচীন রাশিয়ার গভীর বার্চ অরণ্যে ভয়ঙ্কর ডাইনি বাবা ইয়াগা বাস করত এমন এক কুঁড়েঘরে, যা বিশাল মুরগির পায়ের ওপর অবিরাম বনবন করে ঘুরত।"
+      },
+      {
+        "en": "The hut’s fence was constructed from bleached human bones, crowned with skulls whose empty eye sockets glowed with malevolent fire.",
+        "bn": "সেই কুঁড়েঘরের বেড়া তৈরি হয়েছিল মানুষের সাদা হাড় দিয়ে, আর খুঁটির মাথায় বসানো ছিল মানুষের মাথার খুলি যার কোটর থেকে অশুভ আগুন জ্বলত।"
+      },
+      {
+        "en": "Sent by her cruel stepmother into the dark wilderness to fetch a firebrand, young Vasilisa walked fearlessly, clutching a small wooden doll blessed by her dying mother.",
+        "bn": "নিষ্ঠুর সৎমায়ের আদেশে জ্বলন্ত আগুন আনতে অন্ধকার জঙ্গলে পাঠানো তরুণী ভাসিলিসা নির্ভয়ে হেঁটে গেল, কারণ তার আঁচলে ছিল মৃত মায়ের আশীর্বাদপুষ্ট ছোট্ট এক কাঠের পুতুল।"
+      },
+      {
+        "en": "Baba Yaga flew down in an iron mortar, sweeping away her tracks with a silver birch broom, and demanded that Vasilisa sort mountains of poppy seeds before sunrise or be eaten.",
+        "bn": "বাবা ইয়াগা লোহার হামানদিস্তায় চড়ে উড়ে এল এবং পায়ের ছাপ রূপালি ঝাঁটা দিয়ে মুছে দিয়ে আদেশ দিল সূর্য ওঠার আগে যেন ভাসিলিসা পোস্তদানার স্তূপ আলাদা করে, নইলে তাকে খেয়ে ফেলা হবে।"
+      },
+      {
+        "en": "Whenever the menacing witch slept, Vasilisa fed crumbs to her faithful doll, which miraculously completed every impossible task with effortless magic.",
+        "bn": "ভয়ঙ্কর ডাইনি ঘুমিয়ে পড়লে ভাসিলিসা নিজের পুতুলকে রুটির টুকরো খাইয়ে দিত, আর পুতুলটি জাদুবলে চোখের পলকে অসম্ভব সব কাজ শেষ করে রাখত।"
+      },
+      {
+        "en": "Recognizing that unshakeable purity shielded the maiden, the baffled crone gave her a hollow skull blazing with interior embers and ordered her out.",
+        "bn": "মেয়েটির অটুট পবিত্রতার কাছে পরাজিত হয়ে হতবাক ডাইনি তার হাতে ভেতর থেকে ধিকধিক করে জ্বলতে থাকা একটি খুলি তুলে দিয়ে তাকে বন থেকে বের করে দিল।"
+      },
+      {
+        "en": "When Vasilisa returned home, the fiery gaze of the skull burnt her abusive stepmother to ashes, leaving the brave girl free to embark on an honorable destiny.",
+        "bn": "ভাসিলিসা বাড়ি ফিরলে সেই খুলির জ্বলন্ত দৃষ্টি অত্যাচারী সৎমাকে ভস্মীভূত করে দিল এবং সাহসী মেয়েটিকে নিজের সুন্দর ভবিষ্যতের দিকে এগিয়ে যাওয়ার পথ খুলে দিল।"
+      }
+    ]
+  },
+  {
+    "id": "kondole-the-fire-whale-aboriginal",
+    "title": "Kondole and the Whale with the Fiery Heart",
+    "titleBn": "কন্ডোলে এবং প্রজ্বলিত হৃদয়ের তিমি মাছ",
+    "author": "Australian Aboriginal (Ngarrindjeri)",
+    "level": "Intermediate",
+    "category": "World Folklore & Indigenous Wisdom",
+    "coverEmoji": "🐋",
+    "summary": "When a selfish man refused to share his spark for a ceremonial gathering, the ancestors hurled a spear into his neck, transforming him into a blowhole whale.",
+    "summaryBn": "এক স্বার্থপর ব্যক্তি ধর্মীয় উৎসবে আগুন দিতে অস্বীকার করায় পূর্বপুরুষরা তার ঘাড়ে বর্শা নিক্ষেপ করেন, যা তাকে মাথায় জলের ফোয়ারা ছিটানো এক তিমি মাছে পরিণত করে।",
+    "sentences": [
+      {
+        "en": "In the ancient times of the Ngarrindjeri people along the southern Australian shores, night gatherings were dark and shivering because fire was exceedingly rare.",
+        "bn": "দক্ষিণ অস্ট্রেলিয়ার উপকূলবর্তী ঙ্গারিন্দেরি জাতির প্রাচীন যুগে রাতের বেলা মানুষ শীতে কাঁপত, কারণ আগুন ছিল অত্যন্ত দুর্লভ এক বস্তু।"
+      },
+      {
+        "en": "A formidable, sullen man named Kondole possessed the miraculous ability to generate fire directly from within his body whenever he chose.",
+        "bn": "কন্ডোলে নামের এক শক্তিশালী ও রুক্ষ স্বভাবের মানুষের নিজের শরীর থেকেই ইচ্ছা অনুযায়ী আগুনের স্ফুলিঙ্গ তৈরি করার এক অলৌকিক ক্ষমতা ছিল।"
+      },
+      {
+        "en": "When the tribe gathered by the lagoon for an essential ceremonial dance, elders begged Kondole to ignite a campfire so the performers could see the sand.",
+        "bn": "এক রাতে যখন গোত্রের মানুষ লেকের ধারে এক পবিত্র নাচের জন্য সমবেত হলো, বয়োজ্যেষ্ঠরা কন্ডোলেকে অনুরোধ করলেন একটি অগ্নিকুণ্ড জ্বালিয়ে দিতে যেন নৃত্যশিল্পীরা দেখতে পায়।"
+      },
+      {
+        "en": "Hardened by arrogance and selfishness, Kondole sneered, refused their respectful pleas, and retreated into the darkness to hoard his warm sparks alone.",
+        "bn": "অহংকার ও স্বার্থপরতায় অন্ধ হয়ে কন্ডোলে তাদের বিনীত অনুরোধ প্রত্যাখ্যান করল এবং উপহাস করে অন্ধকারে সরে গিয়ে নিজের আগুন একা লুকিয়ে রাখল।"
+      },
+      {
+        "en": "Enraged by his callous disregard for the community’s welfare, an elder named Riballi hurled a sharp wooden spear directly into the back of Kondole’s neck.",
+        "bn": "গোত্রের মঙ্গলের প্রতি এমন উদাসীনতা দেখে ক্রুদ্ধ হয়ে রিবাল্লি নামের এক বয়োজ্যেষ্ঠ কন্ডোলের ঘাড়ে সজোরে এক কাঠের বর্শা নিক্ষেপ করলেন।"
+      },
+      {
+        "en": "Howling in agony, Kondole plunged headlong into the cold ocean breakers, where the powerful creator spirits permanently transformed him into a colossal whale.",
+        "bn": "যন্ত্রণায় চিৎকার করে কন্ডোলে উত্তাল সাগরের ঢেউয়ে ঝাঁপিয়ে পড়ল, যেখানে আদিম আত্মারা তাকে চিরতরে এক বিশালাকার তিমিতে রূপান্তরিত করে দিল।"
+      },
+      {
+        "en": "To this day, whenever Kondole surfaces off the southern coast, he spouts water vapor through the spear wound on his neck, reminding hunters of the terrible price of selfishness.",
+        "bn": "আজও কন্ডোলে যখন সাগরের ওপরে ভেসে ওঠে, সে ঘাড়ের সেই বর্শার ক্ষত দিয়ে ফোয়ারার মতো বাষ্প নির্গত করে, যা মানুষকে স্বার্থপরতার পরিণতির কথা স্মরণ করিয়ে দেয়।"
+      }
+    ]
+  },
+  {
+    "id": "quetzalcoatl-and-the-sacred-corn-aztec",
+    "title": "Quetzalcoatl and the Mountain of Golden Maize",
+    "titleBn": "কেতসালকোয়াতল এবং সোনালী ভুট্টার পবিত্র পর্বত",
+    "author": "Aztec Mythology",
+    "level": "Intermediate",
+    "category": "World Folklore & Indigenous Wisdom",
+    "coverEmoji": "🌽",
+    "summary": "To nourish the first human beings, the feathered serpent god Quetzalcoatl transformed into a black ant to retrieve the golden kernels of corn hidden inside a mountain.",
+    "summaryBn": "পৃথিবীর আদি মানবজাতিকে বাঁচিয়ে রাখতে পালকযুক্ত সর্পদেবতা কেতসালকোয়াতল একটি কালো পিঁপড়ের রূপ ধরে দুর্ভেদ্য পর্বতের ভেতর থেকে ভুট্টার সোনালী দানা উদ্ধার করেছিলেন।",
+    "sentences": [
+      {
+        "en": "After the gods created the first men and women from bone dust and drops of divine blood, the fragile mortals were starving because they had nothing nutritious to eat.",
+        "bn": "দেবতারা যখন হাড়ের গুঁড়ো এবং স্বর্গীয় রক্তের ফোঁটা দিয়ে প্রথম নর-নারীর সৃষ্টি করলেন, তখন পুষ্টিকর খাবারের অভাবে দুর্বল মানবজাতি অনাহারে মরতে বসল।"
+      },
+      {
+        "en": "The benevolent feathered serpent Quetzalcoatl looked down with deep sorrow, determined to discover sustained sustenance for his fragile creations.",
+        "bn": "দয়ালু পালকযুক্ত সর্পদেবতা কেতসালকোয়াতল গভীর বেদনায় মানুষের দুর্দশা দেখলেন এবং তাঁর সৃষ্ট মানবজাতির জন্য স্থায়ী খাদ্যের সন্ধান করার সংকল্প করলেন।"
+      },
+      {
+        "en": "Wandering through the highlands, he observed a tiny red ant carrying a plump, golden grain of maize upon its back.",
+        "bn": "পাহাড়ি অঞ্চলে ঘুরে বেড়ানোর সময় তিনি লক্ষ্য করলেন একটি ছোট্ট লাল পিঁপড়ে নিজের পিঠে সোনালী রঙের একটি ভুট্টার দানা বহন করে নিয়ে যাচ্ছে।"
+      },
+      {
+        "en": "The ant revealed that bountiful supplies of sacred corn were sealed within Tonacatepetl, the Mountain of Sustenance, guarded by impenetrable basalt rocks.",
+        "bn": "পিঁপড়েটি জানাল যে সুস্বাদু ভুট্টার বিপুল ভাণ্ডার 'তোনাকাতেপেতল' নামক খাদ্য-পর্বতের দুর্ভেদ্য কালো পাথরের আড়ালে সুরক্ষিত রয়েছে।"
+      },
+      {
+        "en": "Realizing brute strength could not breach the mountain without crushing the harvest, Quetzalcoatl transformed his majestic form into a humble black ant.",
+        "bn": "তিনি বুঝলেন গায়ের জোরে পাথর ভাঙতে গেলে ফসল নষ্ট হয়ে যাবে, তাই কেতসালকোয়াতল নিজের বিশাল দেহকে এক ছোট্ট কালো পিঁপড়েয় রূপান্তরিত করলেন।"
+      },
+      {
+        "en": "Crawling through hair-thin fissures in the stone, he retrieved the golden kernels, carried them past the guards, and delivered the seeds to human elders.",
+        "bn": "পাথরের সূক্ষ্ম ফাটল দিয়ে গলে গিয়ে তিনি ভুট্টার সোনালী দানাগুলো সংগ্রহ করলেন এবং পাহারাদারদের চোখ ফাঁকি দিয়ে এনে মানুষের হাতে তুলে দিলেন।"
+      },
+      {
+        "en": "Humans planted the miraculous kernels in fertile soil, harvesting sweet ears of maize that fueled the rise of great Mesoamerican civilizations.",
+        "bn": "মানুষ সেই অলৌকিক বীজ উর্বর মাটিতে রোপণ করল এবং সেখান থেকে উৎপন্ন ভুট্টার প্রাচুর্যই পরবর্তীতে মেসোআমেরিকার মহান সভ্যতাগুলোর মূল শক্তি হয়ে উঠল।"
+      }
+    ]
+  },
+  {
+    "id": "mwindo-epic-congo-river",
+    "title": "Mwindo and the Flight of the Little Hero",
+    "titleBn": "ম্বিন্দো এবং কঙ্গো নদীর অকুতোভয় বীর",
+    "author": "Central African (Nyanga Epic)",
+    "level": "Intermediate",
+    "category": "World Folklore & Indigenous Wisdom",
+    "coverEmoji": "🛡️",
+    "summary": "Born holding a magical conga-scepter, the young Congolese hero Mwindo overcomes treacherous trials to redeem his arrogant father and restore peace.",
+    "summaryBn": "জন্মের সময়ই হাতে জাদুকরি চামর নিয়ে জন্ম নেওয়া কঙ্গোর কিশোর বীর ম্বিন্দো নানা কঠিন বিপদ অতিক্রম করে নিজের অহংকারী পিতাকে রক্ষা করে এবং রাজ্যে শান্তি ফেরায়।",
+    "sentences": [
+      {
+        "en": "In the lush rainforests of the Congo Basin, Chief Shemwindo declared that none of his wives should give birth to a male heir under penalty of exile.",
+        "bn": "কঙ্গো অববাহিকার ঘন সবুজ বর্ষারণ্যে গোত্রপ্রধান শেম্বিন্দো ঘোষণা করেছিলেন যে তাঁর কোনো স্ত্রী যদি পুত্রসন্তান জন্ম দেয় তবে তাকে নির্বাসনে পাঠানো হবে।"
+      },
+      {
+        "en": "Defying the decree, his favored wife gave birth to Mwindo, a miraculous boy who arrived into the world clutching a magical iron flywhisk and walking upright.",
+        "bn": "সেই আদেশ অমান্য করে তাঁর প্রিয়তমা স্ত্রীর গর্ভে জন্ম নিল ম্বিন্দো—এমন এক অলৌকিক বালক যে জন্মের মুহূর্তেই হাতে জাদুকরি লোহার চামর নিয়ে সোজা উঠে দাঁড়াল।"
+      },
+      {
+        "en": "Enraged by fear and jealousy, the cruel father threw the baby into a surging river locked inside an iron drum, but the buoyant infant floated unharmed.",
+        "bn": "ভয় ও হিংসায় উন্মত্ত হয়ে নিষ্ঠুর পিতা শিশুটিকে লোহার ড্রামে বন্দি করে খরস্রোতা নদীতে ফেলে দিলেন, কিন্তু ড্রামটি না ডুবে অলৌকিকভাবে ভেসে রইল।"
+      },
+      {
+        "en": "Rescued by compassionate river deities, Mwindo grew rapidly into a champion warrior of supernatural wit and indomitable courage.",
+        "bn": "নদীর দয়ালু দেবতাদের আশ্রয়ে ম্বিন্দো দ্রুত বেড়ে উঠল এবং পরিণত হলো অসামান্য বুদ্ধি ও অদম্য সাহসের এক অপরাজেয় বীর যোদ্ধায়।"
+      },
+      {
+        "en": "Armed with his enchanted flywhisk, which could deflect poisoned arrows and cure venomous serpent bites, Mwindo journeyed into the underworld to confront demonic spirits.",
+        "bn": "নিজের জাদুকরি চামরটি নিয়ে—যা বিষাক্ত তীর প্রতিহত করতে এবং সাপের বিষ নামাতে পারত—ম্বিন্দো পাতালপুরীতে গিয়ে দানবীয় প্রেতাত্মাদের মুখোমুখি হলো।"
+      },
+      {
+        "en": "Instead of seeking vengeful bloodshed, he defeated his enemies with honor, redeemed his fallen father, and reunited the scattered clans.",
+        "bn": "প্রতিশোধের রক্তপাতের বদলে সে সবাইকে সম্মানের সাথে পরাজিত করল, নিজের অনুতপ্ত পিতাকে ক্ষমা করে মুক্ত করল এবং বিভক্ত গোত্রগুলোকে এক ছাতার নিচে আনল।"
+      },
+      {
+        "en": "Mwindo’s epic tale taught generations of Congolese youth that true leadership resides in restorative justice, humility, and protection of the vulnerable.",
+        "bn": "ম্বিন্দোর এই অবিস্মরণীয় বীরত্বগাথা কঙ্গোর বহু প্রজন্মকে শিখিয়েছে যে প্রকৃত বীরত্ব প্রতিশোধে নয়, বরং ন্যায়বিচার, বিনয় এবং দুর্বলদের রক্ষায় নিহিত।"
+      }
+    ]
+  },
+  {
+    "id": "finn-maccool-and-giants-causeway-ireland",
+    "title": "Finn MacCool and the Battle of Giant Wits",
+    "titleBn": "ফিন ম্যাককুল এবং দুই দৈত্যের বুদ্ধির লড়াই",
+    "author": "Irish Legend",
+    "level": "Intermediate",
+    "category": "World Folklore & Indigenous Wisdom",
+    "coverEmoji": "☘️",
+    "summary": "When challenged by the Scottish giant Benandonner, Irish hero Finn MacCool outwitted him with the help of his clever wife Oona and giant stone stepping stones.",
+    "summaryBn": "স্কটল্যান্ডের দানব বেনানডোনারের হুমকির মুখে আইরিশ বীর ফিন ম্যাককুল তাঁর বুদ্ধিমতী স্ত্রী উনার সহায়তায় এক অভিনব বুদ্ধি খাটিয়ে দানবকে ভয় পাইয়ে তাড়িয়ে দেন।",
+    "sentences": [
+      {
+        "en": "According to ancient Celtic folklore, the Irish giant Finn MacCool was continually provoked by insults shouted across the sea by the Scottish brute Benandonner.",
+        "bn": "প্রাচীন সেল্টিক লোকগাথা অনুযায়ী, আইরিশ দৈত্য ফিন ম্যাককুলকে সমুদ্রের ওপার থেকে ক্রমাগত কটূক্তি করে উত্যক্ত করত স্কটল্যান্ডের বিশালাকার দৈত্য বেনানডোনার।"
+      },
+      {
+        "en": "Furious, Finn hurled massive hexagonal basalt pillars into the ocean, constructing a colossal stone pathway known as the Giant's Causeway to march across.",
+        "bn": "ক্রোধে উন্মত্ত হয়ে ফিন সাগরের বুকে বিশালাকার ষড়ভুজাকৃতির পাথরের স্তম্ভ ফেলে এক বিশাল পথ তৈরি করলেন, যা 'জায়ান্টস কজওয়ে' নামে পরিচিত।"
+      },
+      {
+        "en": "However, catching sight of the approaching Scottish adversary, Finn realized with sudden panic that Benandonner was twice his colossal size.",
+        "bn": "কিন্তু স্কটিশ প্রতিদ্বন্দ্বীকে এগিয়ে আসতে দেখে ফিন হঠাৎ ভয়ে আঁতকে উঠলেন, কারণ বেনানডোনার ছিল তাঁর নিজের আকারের দ্বিগুণেরও বেশি বিশালাকার এক দৈত্য।"
+      },
+      {
+        "en": "Terrified, Finn sprinted back to his cottage, where his clever wife Oona immediately devised an ingenious deception.",
+        "bn": "আতঙ্কিত ফিন দৌড়ে নিজের কুটিরে ফিরে এলেন, যেখানে তাঁর বুদ্ধিমতী স্ত্রী উনা তৎক্ষণাৎ এক অভিনব চাতুর্যপূর্ণ ফাঁদ পাতলেন।"
+      },
+      {
+        "en": "She bundled Finn into a colossal wicker cradle disguised in baby blankets, while baking stone griddles inside soft loaves of bread.",
+        "bn": "তিনি ফিনকে একটি বিশাল দোলনায় শুইয়ে শিশুর কাপড়ে ঢেকে দিলেন এবং নরম রুটির ভেতর লোহার চাটু লুকিয়ে রেখে কয়েকটি বিশেষ রুটি সেঁকে রাখলেন।"
+      },
+      {
+        "en": "When Benandonner burst inside and bit into the stone bread, chipping his teeth, Oona casually pointed to the disguised Finn, saying, 'Be quiet, or you will wake our newborn infant!'",
+        "bn": "বেনানডোনার ঘরে ঢুকে রুটিতে কামড় দিয়ে দাঁত ভেঙে ফেললে, উনা শান্তভাবে ফিনের দিকে ইশারা করে বললেন, 'চুপ করুন, নইলে আমাদের নবজাতক বাচ্চাটি জেগে উঠবে!'"
+      },
+      {
+        "en": "Terrified by how monstrous the father must be if the infant was that gigantic, Benandonner bolted back to Scotland, tearing up the causeway behind him in frantic retreat.",
+        "bn": "দোলনার 'বাচ্চা' এত বিশাল হলে তার বাবা কত ভয়ঙ্কর হতে পারে—তা ভেবে বেনানডোনার ভয়ে কাঁপতে কাঁপতে স্কটল্যান্ডে পালিয়ে গেল এবং পেছনে কজওয়ের পাথরগুলো গুঁড়িয়ে দিল।"
+      }
+    ]
+  },
+  {
+    "id": "alux-spirits-of-the-mayan-jungle",
+    "title": "The Aluxob Guardians of the Sacred Milpa",
+    "titleBn": "আলুশোব প্রেতাত্মা এবং মায়া সভ্যতার পবিত্র শস্যক্ষেত",
+    "author": "Maya Lore (Yucatan)",
+    "level": "Intermediate",
+    "category": "World Folklore & Indigenous Wisdom",
+    "coverEmoji": "🗿",
+    "summary": "In the humid jungles of the Yucatan, Maya farmers sculpt small clay figures to invite the mischievous Aluxob spirits to guard their cornfields from thieves.",
+    "summaryBn": "ইউকাটানের গভীর জঙ্গলে মায়া কৃষকরা মাটির তৈরি ছোট মূর্তি গড়ে দুষ্টু আলুশোব আত্মাদের আহ্বান করে, যেন তারা পাহারা দিয়ে শস্যক্ষেতকে চোর ও বুনো পশুর হাত থেকে রক্ষা করে।",
+    "sentences": [
+      {
+        "en": "For thousands of years beneath the limestone canopy of the Yucatan peninsula, the Maya people maintained a deep spiritual pact with nature.",
+        "bn": "হাজার বছর ধরে ইউকাটান উপদ্বীপের চুনাপাথরের বনাঞ্চলে মায়া জনগোষ্ঠী প্রকৃতির সাথে এক গভীর আধ্যাত্মিক মেলবন্ধন বজায় রেখে আসছে।"
+      },
+      {
+        "en": "According to timeless village traditions, the dense jungle is inhabited by the Aluxob, diminutive sprite creatures invisible to ordinary human eyes.",
+        "bn": "প্রাচীন গ্রামীণ বিশ্বাস অনুসারে গভীর জঙ্গলে বাস করে 'আলুশোব' নামের বামনাকার কিছু প্রেতাত্মা, যারা সাধারণ মানুষের চোখে সম্পূর্ণ অদৃশ্য।"
+      },
+      {
+        "en": "When clearing land for a new milpa cornfield, a respectful farmer crafts a miniature clay altar containing honey, sweet maize gruel, and tobacco.",
+        "bn": "নতুন ভুট্টাক্ষেতের জমি তৈরির সময় একজন শ্রদ্ধাশীল কৃষক মিষ্টি ভুট্টার জাউ, মধু এবং তামাক সহযোগে মাটির এক ছোট্ট বেদি নির্মাণ করেন।"
+      },
+      {
+        "en": "If treated with profound reverence, the Alux spirits awaken at twilight to whistle warning calls, scattering deer and pelting trespassers with flying stones.",
+        "bn": "গভীর শ্রদ্ধার সাথে পূজা পেলে এই আত্মারা গোধূলিলগ্নে জেগে ওঠে এবং সতর্কতার শিষ বাজিয়ে হরিণদের তাড়িয়ে দেয় ও ক্ষেতে ঢোকা চোরদের গায়ে অদৃশ্য পাথর নিক্ষেপ করে।"
+      },
+      {
+        "en": "However, the legends sternly warn that the spirits are notoriously fickle and love playing harmless pranks, such as untying shoelaces or hiding machetes in hollow logs.",
+        "bn": "তবে উপকথায় স্পষ্ট সতর্কবার্তা রয়েছে যে এই আত্মারা অত্যন্ত চঞ্চল এবং নিরীহ রসিকতা করতে ভালোবাসে—যেমন জুতো খুলে দেওয়া কিংবা গাছের কোটরে দা লুকিয়ে রাখা।"
+      },
+      {
+        "en": "At the end of seven years, the farmer must carefully seal the spirit’s clay house, allowing the guardian to rest peacefully beneath the earth.",
+        "bn": "সাত বছর পূর্ণ হলে কৃষককে অত্যন্ত সতর্কতার সাথে সেই মাটির ঘরটি ভেঙে বন্ধ করে দিতে হয়, যাতে সেই পাহারাদার আত্মা মাটির নিচে চিরশান্তিতে বিশ্রাম নিতে পারে।"
+      },
+      {
+        "en": "This ancient tradition reminds modern travelers that the wild forest possesses living guardians worthy of gratitude, caution, and humble respect.",
+        "bn": "এই প্রাচীন ঐতিহ্য আধুনিক মানুষকে মনে করিয়ে দেয় যে বন্য অরণ্যেরও নিজস্ব অদৃশ্য পাহারাদার রয়েছে যা কৃতজ্ঞতা ও বিনম্র সম্মানের দাবিদার।"
+      }
+    ]
+  }
+]
