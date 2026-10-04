@@ -1,439 +1,1461 @@
 [
   {
-    "id": "sci-archimedes-lever",
-    "title": "Archimedes and the Power of the Lever",
-    "titleBn": "আর্কিমিডিস এবং লিভারের অলৌকিক শক্তি",
-    "author": "Science History",
+    "id": "companion-talha-uhud",
+    "title": "Talhah ibn Ubaydillah: The Living Martyr at Uhud",
+    "titleBn": "উহুদের প্রান্তরে রাসুলুল্লাহ ﷺ-এর জীবন্ত ঢাল তালহা (রা.)",
+    "author": "Authentic Hadith (Tirmidhi & Sahih Bukhari)",
     "level": "Intermediate",
-    "category": "Science & Inventions",
-    "coverEmoji": "⚙️",
-    "summary": "How a simple mechanical principle can move ships and give humanity leverage over the universe.",
-    "summaryBn": "কীভাবে একটি সাধারণ লাঠির ভারসাম্য দিয়ে বিশাল ভারি জাহাজও সহজে টেনে তোলা যায়।",
+    "levelColor": "rose",
+    "category": "Noble Companions",
+    "coverEmoji": "🛡️",
+    "summary": "When Muslim lines fragmented at Uhud and enemy archers targeted the Messenger of Allah, Talhah shielded the Prophet with his bare hands, stopping arrows until his fingers were paralyzed.",
+    "summaryBn": "উহুদের ময়দানে যখন কাফেররা চারদিক থেকে রাসুলুল্লাহ ﷺ-কে লক্ষ্য করে তীর ও তরবারি চালাচ্ছিল, তখন তালহা (রা.) নিজের বুক ও হাত দিয়ে নবীজিকে রক্ষা করেন এবং ৭০টির বেশি ক্ষতবরণ করে 'জীবন্ত শহীদ' খেতাব পান।",
     "sentences": [
       {
-        "en": "Archimedes of Syracuse was fascinated by simple machines that could multiply human physical strength.",
-        "bn": "সিরাকিউসের বিজ্ঞানী আর্কিমিডিস এমন সব সাধারণ যন্ত্র নিয়ে গবেষণা করতে ভালোবাসতেন যা মানুষের দৈহিক শক্তিকে বহুগুণ বাড়িয়ে দেয়।"
+        "en": "At the critical turn of the Battle of Uhud, panic scattered the ranks, leaving the Prophet protected by only a tiny circle of Companions.",
+        "bn": "উহুদের যুদ্ধের এক সংকটময় মুহূর্তে শৃঙ্খল ভেঙে সাহাবিরা বিচ্ছিন্ন হয়ে পড়লেন এবং নবীজি ﷺ মাত্র কয়েকজন একনিষ্ঠ সাহাবীর প্রহরায় রয়ে গেলেন।",
+        "words": [
+          {
+            "en": "At the critical turn",
+            "bn": "সংকটময় মোড়ে"
+          },
+          {
+            "en": "Battle of Uhud",
+            "bn": "উহুদের যুদ্ধে"
+          },
+          {
+            "en": "the Prophet was protected",
+            "bn": "নবীজি সুরক্ষিত ছিলেন"
+          },
+          {
+            "en": "by a tiny circle of Companions",
+            "bn": "মুষ্টিমেয় কয়েকজন সাহাবীর মাধ্যমে"
+          }
+        ]
       },
       {
-        "en": "He famously boasted to King Hiero: 'Give me a place to stand and a firm fulcrum, and I will move the whole Earth!'",
-        "bn": "তিনি রাজা হিয়ারোকে গর্ব করে বলেছিলেন: 'আমাকে দাঁড়ানোর জন্য শক্ত একটি জায়গা আর একটি ভরকেন্দ্র দিন, আমি পুরো পৃথিবীকে নাড়িয়ে দেব!'"
+        "en": "Pagan archers focused deadly volleys of arrows directly at the Messenger of Allah.",
+        "bn": "কাফের তীরন্দাজরা সরাসরি আল্লাহর রাসুল ﷺ-কে লক্ষ্য করে বৃষ্টির মতো তীর ছুঁড়তে শুরু করল।",
+        "words": [
+          {
+            "en": "Pagan archers focused arrows",
+            "bn": "মুশরিক তীরন্দাজরা তীর তাক করল"
+          },
+          {
+            "en": "directly at the Messenger",
+            "bn": "সরাসরি আল্লাহর রাসুলের দিকে"
+          }
+        ]
       },
       {
-        "en": "Skeptical, the king challenged him to prove this outrageous claim by moving a three-masted royal warship fully laden with cargo and crew that was stuck on the dry beach.",
-        "bn": "অবিশ্বাস করে রাজা তাঁকে তীরে আটকে থাকা শত শত সৈন্য ও মালামালবোঝাই তিন মাস্তুলের এক বিশাল যুদ্ধজাহাজ একা টেনে দেখানোর চ্যালেঞ্জ ছুড়ে দিলেন।"
+        "en": "Talhah ibn Ubaydillah threw his own body as a human shield before the Prophet, blocking incoming blades and arrows with his bare hands.",
+        "bn": "হযরত তালহা ইবনে উবাইদুল্লাহ (রা.) নিজের শরীরকে জীবন্ত ঢাল বানিয়ে নবীজির সামনে দাঁড়ালেন এবং খালি হাত দিয়ে ধেয়ে আসা তীর প্রতিহত করতে লাগলেন।",
+        "words": [
+          {
+            "en": "Talhah threw his own body",
+            "bn": "তালহা নিজের শরীর ফেলে দিলেন"
+          },
+          {
+            "en": "as a human shield",
+            "bn": "এক জীবন্ত মানবঢাল হিসেবে"
+          },
+          {
+            "en": "blocking blades and arrows",
+            "bn": "তলোয়ার ও তীর আটকে দিয়ে"
+          },
+          {
+            "en": "with his bare hands",
+            "bn": "নিজের খালি হাত দিয়ে"
+          }
+        ]
       },
       {
-        "en": "Dozens of strong oxen and hundreds of sweating men had failed to budge the heavy vessel even a single inch from the mud.",
-        "bn": "ডজন ডজন বলদ এবং শত শত পেশিবহুল মানুষ চেষ্টা করেও সেই বিশাল জাহাজটিকে কাদা থেকে এক ইঞ্চিও সরাতে পারেনি।"
+        "en": "A fatal arrow aimed at the Prophet's face struck Talhah's hand, severing tendons and permanently paralyzing his fingers.",
+        "bn": "নবীজির মুখ লক্ষ্য করে ছোঁড়া এক মারাত্মক তীর তালহার হাতে এসে বিঁধল, যার ফলে তাঁর হাতের রগ কেটে আঙ্গুলগুলো চিরতরে অবশ হয়ে গেল।",
+        "words": [
+          {
+            "en": "A fatal arrow struck",
+            "bn": "এক মারাত্মক তীর আঘাত হানল"
+          },
+          {
+            "en": "Talhah's hand",
+            "bn": "তালহার হাতে"
+          },
+          {
+            "en": "permanently paralyzing his fingers",
+            "bn": "তাঁর আঙ্গুলগুলোকে চিরতরে অবশ করে দিয়ে"
+          }
+        ]
       },
       {
-        "en": "Archimedes constructed an intricate system of compound pulleys and long wooden levers securely anchored into the rock.",
-        "bn": "আর্কিমিডিস তখন কপিকল ও শক্ত কাঠের দীর্ঘ লিভারের এক চতুর জটিল ব্যবস্থা তৈরি করলেন যা শক্ত পাথরের সাথে আটকানো ছিল।"
+        "en": "He sustained more than seventy wounds from swords, spears, and arrows across his body, yet refused to abandon his protective vigil.",
+        "bn": "তাঁর সারা শরীরে তলোয়ার, বর্শা ও তীরের সত্তরটিরও বেশি গভীর ক্ষত সৃষ্টি হয়েছিল, তবুও তিনি নবীজিকে পাহারা দেওয়া ছাড়লেন না।",
+        "words": [
+          {
+            "en": "He sustained seventy wounds",
+            "bn": "তিনি সত্তরটির বেশি আঘাত সইলেন"
+          },
+          {
+            "en": "from swords spears and arrows",
+            "bn": "তলোয়ার, বর্শা ও তীরের"
+          },
+          {
+            "en": "refused to abandon his vigil",
+            "bn": "পাহারা ছেড়ে যেতে অস্বীকৃতি জানালেন"
+          }
+        ]
       },
       {
-        "en": "Sitting comfortably on a wooden stool at a distance, he gently pulled a single rope with his bare hands.",
-        "bn": "কিছুটা দূরে একটি কাঠের টুলে আরাম করে বসে তিনি নিজের এক হাত দিয়ে সামান্য একটি দড়িতে মৃদু টান দিলেন।"
+        "en": "When the Prophet climbed a boulder to safety, Talhah carried him on his bleeding back until the Prophet declared: 'Paradise is guaranteed for Talhah!'",
+        "bn": "নবীজি যখন নিরাপদে এক পাহাড়ে উঠছিলেন, তালহা নিজের রক্তাক্ত পিঠে নবীজিকে তুলে বহন করলেন, আর নবীজি ঘোষণা করলেন: 'তালহার জন্য জান্নাত অবধারিত হয়ে গেল!'",
+        "words": [
+          {
+            "en": "Talhah carried him on his back",
+            "bn": "তালহা তাঁকে নিজের পিঠে বহন করলেন"
+          },
+          {
+            "en": "the Prophet declared",
+            "bn": "নবীজি ঘোষণা করলেন"
+          },
+          {
+            "en": "Paradise is guaranteed for Talhah",
+            "bn": "তালহার জন্য জান্নাত ওয়াজিব হয়ে গেল"
+          }
+        ]
       },
       {
-        "en": "To the king's utter amazement, the colossal ship slid smoothly and effortlessly across the sand straight into the open sea.",
-        "bn": "রাজা বিস্ময়ে বিমূঢ় হয়ে দেখলেন যে সেই দানবাকৃতির জাহাজটি বালুর ওপর দিয়ে মসৃণভাবে গড়িয়ে সোজা সাগরের পানিতে নেমে গেল!"
-      },
-      {
-        "en": "Understanding scientific principles gives human beings leverage to accomplish tasks that brute muscle alone can never achieve.",
-        "bn": "বিজ্ঞানের মূল সূত্র বুঝতে পারলে মানুষ এমন সব অসম্ভব কাজ অনায়াসে করতে পারে যা কেবল গায়ের জোর দিয়ে কখনো সম্ভব নয়।"
+        "en": "The Prophet later told his Companions: 'Whoever wishes to look at a living martyr walking upon the earth, let him look at Talhah ibn Ubaydillah.'",
+        "bn": "নবীজি পরবর্তীতে সাহাবিদের বললেন: 'যে ব্যক্তি জমিনের বুকে কোনো জীবন্ত শহীদকে হেঁটে বেড়াতে দেখতে চায়, সে যেন তালহা ইবনে উবাইদুল্লাহকে দেখে।'",
+        "words": [
+          {
+            "en": "Whoever wishes to look",
+            "bn": "যে কেউ দেখতে চায়"
+          },
+          {
+            "en": "at a living martyr",
+            "bn": "এক জীবন্ত শহীদকে"
+          },
+          {
+            "en": "walking upon the earth",
+            "bn": "জমিনের বুকে হেঁটে বেড়াতে"
+          },
+          {
+            "en": "let him look at Talhah",
+            "bn": "সে যেন তালহার দিকে তাকায়"
+          }
+        ]
       }
     ]
   },
   {
-    "id": "sci-braille-alphabet",
-    "title": "Louis Braille and the Language of Raised Dots",
-    "titleBn": "লুই ব্রেইল ও দৃষ্টিহীনের বর্ণমালা",
-    "author": "Science History",
+    "id": "companion-zubayr-disciple",
+    "title": "Az-Zubayr ibn al-Awwam: The Disciple of the Prophet",
+    "titleBn": "হযরত যুবাইর ইবনুল আওয়াম (রা.): রাসুলুল্লাহ ﷺ-এর একান্ত হাওয়ারী",
+    "author": "Authentic Hadith (Sahih Bukhari & Muslim)",
     "level": "Intermediate",
-    "category": "Science & Inventions",
-    "coverEmoji": "⠃⠗",
-    "summary": "A blind French teenager invents a revolutionary tactile alphabet, opening literature and knowledge to the visually impaired.",
-    "summaryBn": "দৃষ্টিহীন এক ফরাসি কিশোর কীভাবে উঁচু বিন্দুর ছোঁয়া দিয়ে তৈরি করেছিলেন দৃষ্টিপ্রতিবন্ধী মানুষের পড়ার জাদুকরী ভাষা।",
+    "levelColor": "amber",
+    "category": "Noble Companions",
+    "coverEmoji": "⚔️",
+    "summary": "Embracing Islam at fifteen and drawing the first sword in Islamic history, Zubayr's fearlessness earned him the Prophet's title: 'Every prophet has a disciple, and my disciple is Az-Zubayr.'",
+    "summaryBn": "পনেরো বছর বয়সে ইসলাম গ্রহণ, ইসলামের ইতিহাসে সর্বপ্রথম তলোয়ার খাপমুক্তকারী এবং স্বয়ং রাসুলুল্লাহ ﷺ কর্তৃক 'হাওয়ারী' (একান্ত সহযোগী) উপাধিতে ভূষিত বীর যুবাইর (রা.)-এর মহাকাব্য।",
     "sentences": [
       {
-        "en": "When Louis Braille was only three years old, an accidental slip of a sharp leather awl in his father's workshop blinded him in both eyes.",
-        "bn": "লুই ব্রেইলের বয়স যখন মাত্র তিন বছর, তখন বাবার কারখানায় চামড়া ফুটো করার সূচালো পেরেকের আঘাতে তিনি দুই চোখের দৃষ্টি হারান।"
+        "en": "Az-Zubayr ibn al-Awwam accepted Islam in early youth in Makkah, enduring harsh tortures from his pagan uncle who rolled him in mats and lit fire beneath him.",
+        "bn": "হযরত যুবাইর ইবনুল আওয়াম (রা.) কিশোর বয়সেই ইসলাম গ্রহণ করেছিলেন এবং তাঁর চাচা তাঁকে চাটাইয়ে জড়িয়ে নিচে আগুন ধরিয়ে দিয়ে নির্মম নির্যাতন করত।",
+        "words": [
+          {
+            "en": "Zubayr accepted Islam",
+            "bn": "যুবাইর ইসলাম গ্রহণ করলেন"
+          },
+          {
+            "en": "enduring harsh tortures",
+            "bn": "কঠোর নির্যাতন সহ্য করে"
+          },
+          {
+            "en": "from his pagan uncle",
+            "bn": "তাঁর মুশরিক চাচার পক্ষ থেকে"
+          }
+        ]
       },
       {
-        "en": "Despite living in total darkness, Louis possessed an exceptionally sharp, curious mind and a passionate hunger to read books.",
-        "bn": "চিরতরে অন্ধ হয়ে গেলেও লুইয়ের ছিল এক অসাধারণ তীক্ষ্ণ মন এবং বই পড়ে জ্ঞান অর্জনের তীব্র আকাঙ্ক্ষা।"
+        "en": "He stood firm, declaring: 'I will never return to disbelief after Allah has saved me!'",
+        "bn": "তিনি পাহাড়ের মতো অটল থেকে বললেন: 'আল্লাহ আমাকে মুক্তি দেওয়ার পর আমি কখনই আর কুফরিতে ফিরে যাব না!'",
+        "words": [
+          {
+            "en": "He stood firm",
+            "bn": "তিনি অটল রইলেন"
+          },
+          {
+            "en": "I will never return to disbelief",
+            "bn": "আমি কখনই কুফরিতে ফিরে যাব না"
+          },
+          {
+            "en": "after Allah saved me",
+            "bn": "আল্লাহ আমাকে রক্ষা করার পর"
+          }
+        ]
       },
       {
-        "en": "At the Paris school for the blind, books were made of giant embossed print that were clumsy to read and took ten minutes per sentence.",
-        "bn": "প্যারিসের দৃষ্টিহীনদের স্কুলে বড় বড় উঁচু হরফের কিছু বই ছিল যা দিয়ে একটি বাক্য পড়তে দশ মিনিট সময় লাগত এবং খুব কষ্টকর ছিল।"
+        "en": "As a teenager, hearing a false rumor that the Prophet had been killed in Makkah, Zubayr marched with drawn sword directly into the assembly of Quraysh.",
+        "bn": "কিশোর বয়সে নবীজিকে হত্যা করার এক মিথ্যা গুজব শুনে যুবাইর খোলা তলোয়ার হাতে সোজা কুরাইশদের প্রকাশ্য সভায় গিয়ে হাজির হয়েছিলেন।",
+        "words": [
+          {
+            "en": "Hearing a false rumor",
+            "bn": "এক মিথ্যা গুজব শুনে"
+          },
+          {
+            "en": "Zubayr marched with drawn sword",
+            "bn": "যুবাইর খোলা তলোয়ার হাতে এগিয়ে গেলেন"
+          },
+          {
+            "en": "into assembly of Quraysh",
+            "bn": "কুরাইশদের প্রকাশ্য মজলিসে"
+          }
+        ]
       },
       {
-        "en": "Louis learned about a secret military code of raised dots used by French soldiers to read messages silently in dark battle trenches.",
-        "bn": "লুই ফরাসি সেনাবাহিনীর এমন এক গোপন সাংকেতিক ভাষার কথা শুনলেন যা দিয়ে সৈনিকরা রাতে নিঃশব্দে হাত বুলিয়ে বার্তা পড়ত।"
+        "en": "When the Prophet met him safely, he smiled and prayed for Zubayr and his sword, making it the very first sword unsheathed for Islam.",
+        "bn": "নবীজি নিরাপদে তাঁর সাক্ষাৎ পেয়ে হাসলেন এবং যুবাইর ও তাঁর তরবারির জন্য দোয়া করলেন, যা ছিল ইসলামের ইতিহাসে খাপমুক্ত হওয়া সর্বপ্রথম তলোয়ার।",
+        "words": [
+          {
+            "en": "The Prophet smiled and prayed",
+            "bn": "নবীজি হাসলেন এবং দোয়া করলেন"
+          },
+          {
+            "en": "for Zubayr and his sword",
+            "bn": "যুবাইর ও তাঁর তরবারির জন্য"
+          },
+          {
+            "en": "first sword unsheathed for Islam",
+            "bn": "ইসলামের জন্য উন্মুক্ত হওয়া প্রথম তরবারি"
+          }
+        ]
       },
       {
-        "en": "Working relentlessly at night with his blunt awl, fifteen-year-old Louis simplified the system into a compact six-dot cellular grid.",
-        "bn": "রাতের পর রাত জেগে ভোঁতা পেরেকের ডগা দিয়ে কাজ করে পনেরো বছর বয়সী লুই সেই পদ্ধতিকে ছয়টি বিন্দুর এক সহজ কাঠামোর মধ্যে নিয়ে এলেন।"
+        "en": "At the Battle of the Trench, when intelligence was desperately needed behind enemy lines, Zubayr volunteered repeatedly without hesitation.",
+        "bn": "খন্দকের যুদ্ধের চরম মুহূর্তে যখন শত্রু শিবিরের গোপন তথ্য আনার প্রয়োজন হলো, তখন যুবাইর একাকী রাতের আঁধারে এগিয়ে যাওয়ার জন্য স্বেচ্ছায় প্রস্তুত হলেন।",
+        "words": [
+          {
+            "en": "At the Battle of the Trench",
+            "bn": "খন্দকের যুদ্ধে"
+          },
+          {
+            "en": "when intelligence was needed",
+            "bn": "যখন গোপন তথ্যের প্রয়োজন হলো"
+          },
+          {
+            "en": "Zubayr volunteered repeatedly",
+            "bn": "যুবাইর বারবার এগিয়ে এলেন"
+          }
+        ]
       },
       {
-        "en": "By arranging combinations of these six embossed dots, fingers could read every letter, number, and musical note at rapid reading speed.",
-        "bn": "এই ছয়টি বিন্দুর বিন্যাস দিয়ে আঙুলের সামান্য ছোঁয়াতেই মানুষ খুব দ্রুত যেকোনো অক্ষর, সংখ্যা এমনকি গানের স্বরলিপিও পড়তে পারল।"
-      },
-      {
-        "en": "For the first time in human history, blind people were granted the gift of independent literacy, education, and intellectual freedom.",
-        "bn": "মানবজাতির ইতিহাসে প্রথমবারের মতো দৃষ্টিহীন মানুষেরা স্বনির্ভরভাবে পড়ালেখা এবং জ্ঞানের আলোয় আলোকিত হওয়ার অধিকার পেল।"
-      },
-      {
-        "en": "His selfless genius proved that losing one's outer sight does not diminish the inner vision to illuminate the world.",
-        "bn": "তাঁর এই মহান আবিষ্কার প্রমাণ করল যে চোখের দৃষ্টি হারালেও মনের দৃষ্টি দিয়ে পুরো পৃথিবীকে আলোয় ভরিয়ে দেওয়া যায়।"
+        "en": "The Messenger of Allah declared: 'Every prophet has a special disciple (Hawari), and my disciple is Az-Zubayr!'",
+        "bn": "আল্লাহর রাসুল ﷺ ঘোষণা করলেন: 'প্রত্যেক নবীর একজন বিশিষ্ট হাওয়ারী (একান্ত সহযোগী) থাকে, আর আমার হাওয়ারী হলো যুবাইর!'",
+        "words": [
+          {
+            "en": "The Messenger declared",
+            "bn": "রাসুলুল্লাহ ঘোষণা করলেন"
+          },
+          {
+            "en": "Every prophet has a disciple",
+            "bn": "প্রতিটি নবীর একজন হাওয়ারী থাকে"
+          },
+          {
+            "en": "and my disciple is Az-Zubayr",
+            "bn": "এবং আমার হাওয়ারী হলো যুবাইর"
+          }
+        ]
       }
     ]
   },
   {
-    "id": "sci-gutenberg-printing",
-    "title": "Gutenberg and the Moving Metal Letters",
-    "titleBn": "গুটেনবার্গ ও প্রথম ছাপাখানা",
-    "author": "Science History",
+    "id": "companion-abdullah-masud-recitation",
+    "title": "Abdullah ibn Mas'ud Reciting Surah Ar-Rahman at the Kaaba",
+    "titleBn": "পবিত্র কাবা প্রাঙ্গণে হযরত আব্দুল্লাহ ইবনে মাসউদ (রা.)-এর কোরআন পাঠ",
+    "author": "Classical Seerah (Ibn Hisham)",
     "level": "Intermediate",
-    "category": "Science & Inventions",
-    "coverEmoji": "📰",
-    "summary": "A German goldsmith invents movable metal type and an olive press printer, igniting the global explosion of knowledge.",
-    "summaryBn": "জার্মানির এক কারিগর কীভাবে চলনশীল ধাতব হরফ দিয়ে ছাপাখানা আবিষ্কার করে পৃথিবীর প্রতিটি মানুষের হাতে জ্ঞানের আলো পৌঁছে দিলেন।",
+    "levelColor": "emerald",
+    "category": "Noble Companions",
+    "coverEmoji": "📖",
+    "summary": "A humble, slender shepherd youth volunteers to recite the Quran publicly in the courtyard of the Kaaba, enduring ruthless beatings from Quraysh while continuing to recite.",
+    "summaryBn": "কুরাইশদের চরম শত্রুতার মাঝে দুর্বল ও কৃশকায় যুবক আব্দুল্লাহ ইবনে মাসউদ (রা.) কর্তৃক প্রকাশ্যে কাবা চত্বরে সূরা আর-রহমান তেলাওয়াত এবং মার খেয়েও পরদিন পুনরায় পড়ার অদম্য সাহস।",
     "sentences": [
       {
-        "en": "In the Middle Ages, books were so rare that only kings and rich monasteries could afford them, each volume painstakingly copied by hand by monks over entire years.",
-        "bn": "মধ্যযুগে বই ছিল এত দুর্লভ যে কেবল রাজা এবং ধনী মঠগুলোই তা কিনতে পারত, কারণ সন্ন্যাসীরা একেকটি বই হাতে লিখে নকল করতে বছরের পর বছর সময় নিত।"
+        "en": "In the early years of Islam, the Quraysh had never heard the Holy Quran recited openly in public.",
+        "bn": "ইসলামের প্রাথমিক যুগে কুরাইশ কাফেররা কাবা প্রাঙ্গণে প্রকাশ্যে কোনো দিন পবিত্র কুরআন তেলাওয়াত শোনেনি।",
+        "words": [
+          {
+            "en": "In early years of Islam",
+            "bn": "ইসলামের শুরুর বছরগুলোতে"
+          },
+          {
+            "en": "Quraysh had never heard",
+            "bn": "কুরাইশরা কখনই শোনেনি"
+          },
+          {
+            "en": "the Quran recited openly",
+            "bn": "কুরআন প্রকাশ্যে তেলাওয়াত করতে"
+          }
+        ]
       },
       {
-        "en": "Johannes Gutenberg, a skilled German goldsmith in Mainz, dreamt of a machine that could reproduce written knowledge swiftly and cheaply.",
-        "bn": "জার্মানির মাইনৎস শহরের দক্ষ কারিগর জোহানেস গুটেনবার্গ এমন এক যন্ত্রের স্বপ্ন দেখতেন যা দ্রুত এবং অল্প খরচে মানুষের হাতে বই পৌঁছে দেবে।"
+        "en": "The Companions gathered and wondered who would be bold enough to recite it aloud before the pagan chieftains at the Kaaba.",
+        "bn": "সাহাবিরা আলোচনা করছিলেন কে এমন সাহসী মুমিন আছেন যিনি কাবার চত্বরে দাঁড়িয়ে মুশরিক নেতাদের সামনে উচ্চস্বরে কুরআন পাঠ করবেন।",
+        "words": [
+          {
+            "en": "The Companions wondered",
+            "bn": "সাহাবিরা ভাবলেন"
+          },
+          {
+            "en": "who would be bold enough",
+            "bn": "কে যথেষ্ট সাহসী হবে"
+          },
+          {
+            "en": "to recite it aloud",
+            "bn": "উচ্চস্বরে তা তেলাওয়াত করতে"
+          },
+          {
+            "en": "before pagan chieftains",
+            "bn": "মুশরিক সর্দারদের সামনে"
+          }
+        ]
       },
       {
-        "en": "He carved individual letters of the alphabet onto durable lead-tin alloy blocks that could be rearranged infinitely to form any text.",
-        "bn": "তিনি সীসা ও টিনের মিশ্রণে তৈরি মজবুত ধাতব ব্লকের ওপর প্রতিটি অক্ষরের ছাঁচ বানালেন যা দিয়ে যেকোনো শব্দ তৈরি করা যেত।"
+        "en": "A slender shepherd youth named Abdullah ibn Mas'ud stepped forward, volunteering despite having no powerful clan to protect him.",
+        "bn": "আব্দুল্লাহ ইবনে মাসউদ নামক এক কৃশকায় সাধারণ রাখাল যুবক এগিয়ে এলেন, যদিও তাঁকে রক্ষা করার মতো কোনো শক্তিশালী গোত্র মক্কায় ছিল না।",
+        "words": [
+          {
+            "en": "A slender shepherd youth",
+            "bn": "এক কৃশকায় রাখাল যুবক"
+          },
+          {
+            "en": "Abdullah ibn Mas'ud",
+            "bn": "আব্দুল্লাহ ইবনে মাসউদ"
+          },
+          {
+            "en": "stepped forward volunteering",
+            "bn": "স্বেচ্ছায় এগিয়ে এলেন"
+          },
+          {
+            "en": "having no clan to protect him",
+            "bn": "তাঁকে রক্ষার মতো কোনো গোত্র না থাকা সত্ত্বেও"
+          }
+        ]
       },
       {
-        "en": "He adapted the screw-mechanism of a wine grape press and formulated a thick, oil-based black ink that bonded cleanly to paper.",
-        "bn": "তিনি আঙুর থেকে রস বের করার কাঠের প্রেসের প্রযুক্তি ব্যবহার করলেন এবং তেলের তৈরি এমন এক বিশেষ কালো কালি বানালেন যা কাগজে সুন্দরভাবে বসত।"
+        "en": "He walked to Maqam Ibrahim at midday when Quraysh were seated in their assemblies, and began reciting Surah Ar-Rahman with a resonant, melodious voice.",
+        "bn": "দুপুরবেলা যখন কুরাইশ নেতারা আড্ডায় মগ্ন ছিল, তিনি মাকামে ইব্রাহিমের কাছে দাঁড়িয়ে সুমধুর সুরে সূরা আর-রহমান তেলাওয়াত করতে লাগলেন।",
+        "words": [
+          {
+            "en": "He walked to Maqam Ibrahim",
+            "bn": "তিনি মাকামে ইব্রাহিমে গেলেন"
+          },
+          {
+            "en": "at midday",
+            "bn": "দুপুরের সময়"
+          },
+          {
+            "en": "began reciting Surah Ar-Rahman",
+            "bn": "সূরা আর-রহমান পাঠ করতে শুরু করলেন"
+          },
+          {
+            "en": "with a resonant voice",
+            "bn": "এক হৃদয়গ্রাহী সুমধুর কণ্ঠে"
+          }
+        ]
       },
       {
-        "en": "In 1455, he printed one hundred and eighty copies of his magnificent Latin Bible, each identical in crisp, uniform beauty.",
-        "bn": "১৪৫৫ সালে তিনি তাঁর বিখ্যাত বাইবেলের একশো আশিটি কপি ছাপালেন, যার প্রতিটি পাতা ছিল একই রকম নিখুঁত ও দৃষ্টিনন্দন।"
+        "en": "Realizing it was the revelation of Muhammad ﷺ, the furious pagans swarmed upon him, beating his face and body viciously.",
+        "bn": "এটি যে মুহাম্মদের ওপর অবতীর্ণ ওহী তা বুঝতে পেরে ক্ষিপ্ত কাফেররা তাঁর ওপর ঝাঁপিয়ে পড়ল এবং তাঁর মুখমণ্ডল ও শরীরে নির্মম আঘাত করতে লাগল।",
+        "words": [
+          {
+            "en": "Realizing it was revelation",
+            "bn": "এটি ওহী বুঝতে পেরে"
+          },
+          {
+            "en": "furious pagans swarmed upon him",
+            "bn": "ক্ষিপ্ত মুশরিকরা তাঁর ওপর চড়াও হলো"
+          },
+          {
+            "en": "beating his face viciously",
+            "bn": "তাঁর চেহারায় নির্মমভাবে আঘাত করে"
+          }
+        ]
       },
       {
-        "en": "A single printer could now produce more books in a week than a team of dedicated medieval scribes could write in a lifetime.",
-        "bn": "একটিমাত্র ছাপাখানা এখন এক সপ্তাহে এত বই ছাপতে লাগল যা আগের যুগের একদল লেখক সারাজীবন ধরেও লিখে শেষ করতে পারত না।"
+        "en": "Despite his bleeding face, Ibn Mas'ud refused to pause, reciting verses until he finished the entire passage before walking back.",
+        "bn": "মুখমণ্ডল রক্তে ভেসে যাওয়া সত্ত্বেও ইবনে মাসউদ থমকে দাঁড়াননি; তিনি আয়াতগুলো সম্পূর্ণ পাঠ শেষ করে সাহাবিদের কাছে ফিরে এলেন।",
+        "words": [
+          {
+            "en": "Despite his bleeding face",
+            "bn": "রক্তাক্ত মুখমণ্ডল সত্ত্বেও"
+          },
+          {
+            "en": "Ibn Mas'ud refused to pause",
+            "bn": "ইবনে মাসউদ থামতে অস্বীকার করলেন"
+          },
+          {
+            "en": "reciting until he finished",
+            "bn": "তেলাওয়াত শেষ করা পর্যন্ত পাঠ করে"
+          }
+        ]
       },
       {
-        "en": "The printing press democratized literacy, sparked the Scientific Revolution, and enabled ideas to cross continents like wildfire.",
-        "bn": "এই ছাপাখানা সবার জন্য শিক্ষার দ্বার উন্মুক্ত করল, বৈজ্ঞানিক বিপ্লবের সূচনা ঘটাল এবং মানুষের চিন্তাকে আগুনের মতো বিশ্বজুড়ে ছড়িয়ে দিল।"
+        "en": "When the Companions grieved at his bruised face, he smiled brightly: 'By Allah, the enemies of Allah were never more insignificant in my eyes than they are today; if you wish, I will do it again tomorrow!'",
+        "bn": "সাহাবিরা যখন তাঁর রক্তাক্ত ক্ষত দেখে শোকার্ত হলেন, তিনি হাসিমুখে বললেন: 'আল্লাহর কসম, আজকের মতো তুচ্ছ ও লাঞ্ছিত কাফেরদের আমি আর কখনই দেখিনি; তোমরা চাইলে আমি কালও গিয়ে ওদের শুনিয়ে আসব!'",
+        "words": [
+          {
+            "en": "He smiled brightly",
+            "bn": "তিনি উজ্জ্বল হাসিমুখে বললেন"
+          },
+          {
+            "en": "enemies were never more insignificant",
+            "bn": "শত্রুরা কখনই এত তুচ্ছ ছিল না"
+          },
+          {
+            "en": "if you wish",
+            "bn": "তোমরা যদি চাও"
+          },
+          {
+            "en": "I will do it again tomorrow",
+            "bn": "আমি আগামীকালও আবার তা করে আসব"
+          }
+        ]
       }
     ]
   },
   {
-    "id": "sci-bell-telephone",
-    "title": "Alexander Graham Bell: Mr. Watson, Come Here",
-    "titleBn": "টেলিফোনের প্রথম কথা: মিস্টার ওয়াটসন, এখানে আসুন",
-    "author": "Science History",
+    "id": "companion-abu-dhar-truth",
+    "title": "Abu Dharr al-Ghifari: The Solitary Seeker of Truth",
+    "titleBn": "হযরত আবু যর গিফারী (রা.): সত্যের নির্ভীক সাধক ও দরবেশ সাহাবী",
+    "author": "Authentic Hadith (Sahih Muslim) & Siyar A'lam",
     "level": "Intermediate",
-    "category": "Science & Inventions",
-    "coverEmoji": "📞",
-    "summary": "An inventor obsessed with teaching the deaf to speak transmits the human voice across copper wire for the first time.",
-    "summaryBn": "বধিরদের কথা শেখানোর সাধনায় মগ্ন এক আবিষ্কারক কীভাবে তামার তারের মধ্য দিয়ে মানুষের কণ্ঠস্বর পাঠিয়েছিলেন।",
+    "levelColor": "cyan",
+    "category": "Noble Companions",
+    "coverEmoji": "🏜️",
+    "summary": "From the notorious bandit tribe of Ghifar, Abu Dharr abandons paganism, accepts Islam in secret, openly shouts the Shahadah in the Kaaba, and lives a life of pure asceticism.",
+    "summaryBn": "দস্যু গোত্র গিফার থেকে এসে ইসলাম গ্রহণ, কুরাইশদের মাঝে দাঁড়িয়ে প্রকাশ্যে কালিমার আওয়াজ তোলা এবং আজীবন চরম নির্লোভ ও দুনিয়াবিমুখ জীবন যাপনের ইতিহাস।",
     "sentences": [
       {
-        "en": "Alexander Graham Bell dedicated his youth to understanding human speech acoustics to teach deaf children how to communicate verbally.",
-        "bn": "আলেকজান্ডার গ্রাহাম বেল তাঁর তরুণ বয়সে মানুষের গলার আওয়াজ ও সুরের বিজ্ঞান নিয়ে গবেষণা করতেন যাতে বধির শিশুদের কথা শেখানো যায়।"
+        "en": "Abu Dharr hailed from the fierce desert tribe of Banu Ghifar, who were infamous for raiding merchant caravans.",
+        "bn": "হযরত আবু যর গিফারী (রা.) বনু গিফার নামক এক দুর্ধর্ষ মরুভূমির গোত্র থেকে এসেছিলেন, যারা বাণিজ্য কাফেলা লুণ্ঠন করার জন্য পরিচিত ছিল।",
+        "words": [
+          {
+            "en": "Abu Dharr hailed from",
+            "bn": "আবু যর এসেছিলেন"
+          },
+          {
+            "en": "fierce desert tribe",
+            "bn": "ভয়ংকর মরু গোত্র থেকে"
+          },
+          {
+            "en": "Banu Ghifar",
+            "bn": "বনু গিফার"
+          },
+          {
+            "en": "infamous for raiding caravans",
+            "bn": "কাফেলা লুণ্ঠনের জন্য কুখ্যাত"
+          }
+        ]
       },
       {
-        "en": "He theorized that if an electric current could be varied in exact proportion to sound wave vibrations, speech could travel along wires.",
-        "bn": "তিনি ধারণা করলেন যে বাতাসের শব্দের কম্পন অনুযায়ী যদি বিদ্যুতের প্রবাহকে কম-বেশি করা যায়, তবে তামার তারের ভেতর দিয়েও কণ্ঠস্বর পাঠানো সম্ভব।"
+        "en": "Yet long before hearing of Muhammad ﷺ, Abu Dharr had rejected idols and worshiped Allah in solitary prayer.",
+        "bn": "অথচ নবীজি ﷺ-এর দাওয়াতের কথা জানার আগেই আবু যর নিজের বিবেক দিয়ে মূর্তিপূজা বর্জন করে এক আল্লাহর ইবাদত করতেন।",
+        "words": [
+          {
+            "en": "Long before hearing of the Prophet",
+            "bn": "নবীজির কথা শোনার বহু আগেই"
+          },
+          {
+            "en": "rejected idols",
+            "bn": "মূর্তিপূজা ত্যাগ করেছিলেন"
+          },
+          {
+            "en": "worshiped Allah in solitary prayer",
+            "bn": "নিভৃতে এক আল্লাহর প্রার্থনা করতেন"
+          }
+        ]
       },
       {
-        "en": "For months, Bell and his talented mechanic assistant Thomas Watson experimented inside a hot attic workshop in Boston.",
-        "bn": "মাসের পর মাস ধরে বেল এবং তাঁর সহকারী টমাস ওয়াটসন বোস্টনের এক গরম চিলেকোঠায় বসে অবিরাম পরীক্ষা-নিরীক্ষা চালিয়ে গেলেন।"
+        "en": "Upon arriving in Makkah, he met the Prophet secretly and embraced Islam as only the fifth or sixth person in history.",
+        "bn": "মক্কায় এসে তিনি গোপনে রাসুলুল্লাহ ﷺ-এর সাথে সাক্ষাৎ করলেন এবং পৃথিবীর মাত্র পঞ্চম বা ষষ্ঠ ব্যক্তি হিসেবে ইসলাম গ্রহণ করলেন।",
+        "words": [
+          {
+            "en": "Upon arriving in Makkah",
+            "bn": "মক্কায় পৌঁছার পর"
+          },
+          {
+            "en": "met the Prophet secretly",
+            "bn": "গোপনে নবীজির সাথে সাক্ষাৎ করলেন"
+          },
+          {
+            "en": "embraced Islam",
+            "bn": "ইসলাম গ্রহণ করলেন"
+          }
+        ]
       },
       {
-        "en": "On March 10, 1876, Bell accidentally spilled battery acid onto his trousers while testing a liquid transmitter.",
-        "bn": "১৮৭৬ সালের ১০ মার্চ পরীক্ষা করার সময় অসাবধানতাবশত বেলের প্যান্টের ওপর ব্যাটারির তীব্র অ্যাসিডের কিছু ফোঁটা পড়ে গেল।"
+        "en": "The Prophet advised him to return quietly to his clan, but Abu Dharr's burning zeal compelled him to shout the Shahadah in the courtyard of the Kaaba.",
+        "bn": "নবীজি তাঁকে সাবধানে নিজ গোত্রে ফিরে যাওয়ার পরামর্শ দিলেন, কিন্তু আবু যরের অন্তরের জ্বলন্ত ঈমান তাঁকে কাবার চত্বরে দাঁড়িয়ে প্রকাশ্যে তাওহীদের স্লোগান তুলতে বাধ্য করল।",
+        "words": [
+          {
+            "en": "The Prophet advised him",
+            "bn": "নবীজি তাঁকে উপদেশ দিলেন"
+          },
+          {
+            "en": "to return quietly",
+            "bn": "নীরবে ফিরে যেতে"
+          },
+          {
+            "en": "shouted the Shahadah",
+            "bn": "শাহাদাত পাঠ করে স্লোগান তুললেন"
+          },
+          {
+            "en": "in the courtyard of the Kaaba",
+            "bn": "পবিত্র কাবার চত্বরে"
+          }
+        ]
       },
       {
-        "en": "He cried out into the metallic mouthpiece: 'Mr. Watson, come here! I want to see you!'",
-        "bn": "ব্যথায় তিনি ধাতব চোঙের মধ্যে চিৎকার করে বললেন: 'মিস্টার ওয়াটসন, এখানে আসুন! আমার আপনাকে প্রয়োজন!'"
+        "en": "The furious pagans beat him unconscious until Al-Abbas rescued him by reminding them that Ghifar controlled their Syrian trade route.",
+        "bn": "ক্ষিপ্ত কাফেররা তাঁকে পিটিয়ে রক্তাক্ত ও সংজ্ঞাহীন করে ফেলল, অবশেষে আব্বাস এসে মনে করিয়ে দিলেন যে এই গিফার গোত্রই মক্কার সিরিয়া বাণিজ্যের পথ নিয়ন্ত্রণ করে।",
+        "words": [
+          {
+            "en": "Pagans beat him unconscious",
+            "bn": "মুশরিকরা তাঁকে পিটিয়ে সংজ্ঞাহীন করল"
+          },
+          {
+            "en": "until Al-Abbas rescued him",
+            "bn": "যতক্ষণ না আব্বাস তাঁকে উদ্ধার করলেন"
+          },
+          {
+            "en": "controlled trade route",
+            "bn": "বাণিজ্যিক পথ নিয়ন্ত্রণ করত"
+          }
+        ]
       },
       {
-        "en": "Down the hall in the adjoining room, Watson heard Bell's voice emerging loud and crystal-clear through the receiving trumpet.",
-        "bn": "পাশের বন্ধ ঘরে বসে ওয়াটসন তাঁর রিসিভার দিয়ে বেলের সেই কণ্ঠস্বর স্পষ্টভাবে শুনতে পেয়ে আনন্দে ছুটে এলেন।"
+        "en": "Abu Dharr lived as a profound ascetic, warning against hoarding wealth and living in complete detachment from worldly splendor.",
+        "bn": "আবু যর আজীবন এক পরম দরবেশ ও নির্লোভ মানুষের মতো বেঁচে রইলেন এবং সম্পদ পুঞ্জীভূত করার বিরুদ্ধে আজীবন নির্ভীক সত্য উচ্চারণ করলেন।",
+        "words": [
+          {
+            "en": "Abu Dharr lived as an ascetic",
+            "bn": "আবু যর এক দরবেশের মতো বাঁচলেন"
+          },
+          {
+            "en": "warning against hoarding wealth",
+            "bn": "সম্পদ পুঞ্জীভূত করার বিরুদ্ধে সতর্ক করে"
+          },
+          {
+            "en": "detachment from worldly splendor",
+            "bn": "পার্থিব প্রাচুর্য থেকে অনীহা রেখে"
+          }
+        ]
       },
       {
-        "en": "Watson sprinted excitedly into Bell's room, shouting that the electric speech transmission had succeeded perfectly.",
-        "bn": "ওয়াটসন দৌড়ে এসে চেঁচিয়ে উঠলেন যে বিদ্যুতের তার দিয়ে মানুষের কথা পাঠানোর এই ঐতিহাসিক পরীক্ষা শতভাগ সফল হয়েছে।"
-      },
-      {
-        "en": "The telephone instantly shrunk geographical distances, allowing voices of loved ones to bridge oceans and continents.",
-        "bn": "টেলিফোন মুহূর্তের মধ্যে মানুষের মধ্যকার ভৌগোলিক দূরত্বকে মুছে দিল এবং প্রিয়জনদের কণ্ঠস্বরকে সাগরের ওপারেও পৌঁছে দিল।"
+        "en": "The Prophet prophesied regarding him: 'May Allah have mercy on Abu Dharr; he walks alone, dies alone, and will be resurrected alone!'",
+        "bn": "নবীজি তাঁর ব্যাপারে ভবিষ্যদ্বাণী করে বলেছিলেন: 'আল্লাহ আবু যরের ওপর রহম করুন; সে একাকী চলে, একাকী মৃত্যুবরণ করবে এবং কিয়ামতের দিন একাকী পুনরুত্থিত হবে!'",
+        "words": [
+          {
+            "en": "The Prophet prophesied",
+            "bn": "নবীজি ভবিষ্যদ্বাণী করলেন"
+          },
+          {
+            "en": "May Allah have mercy on Abu Dharr",
+            "bn": "আল্লাহ আবু যরের ওপর রহম করুন"
+          },
+          {
+            "en": "he walks alone",
+            "bn": "সে একাকী চলে"
+          },
+          {
+            "en": "dies alone",
+            "bn": "একাকী মৃত্যুবরণ করে"
+          },
+          {
+            "en": "resurrected alone",
+            "bn": "একাকী পুনরুত্থিত হবে"
+          }
+        ]
       }
     ]
   },
   {
-    "id": "sci-marconi-wireless",
-    "title": "Marconi and the Invisible Atlantic Signal",
-    "titleBn": "মার্কোনি এবং আটলান্টিকের অদৃশ্য বেতার সংকেত",
-    "author": "Science History",
+    "id": "companion-khadijah-comfort",
+    "title": "Khadijah bint Khuwaylid: The Noble Mother of Believers",
+    "titleBn": "উম্মুল মুমিনীন হযরত খাদিজা (রা.) ও ইসলামের শুরুর দিনগুলো",
+    "author": "Authentic Hadith (Sahih Bukhari) & Seerah",
     "level": "Intermediate",
-    "category": "Science & Inventions",
-    "coverEmoji": "📻",
-    "summary": "Defying top scientists who said the Earth's curve made it impossible, a young Italian beams radio waves across an ocean.",
-    "summaryBn": "বিজ্ঞানীদের সব যুক্তি ভুল প্রমাণ করে এক তরুণ কীভাবে আটলান্টিক মহাসাগরের ওপর দিয়ে রেডিও তরঙ্গের সংকেত পাঠিয়েছিলেন।",
+    "levelColor": "rose",
+    "category": "Noble Companions",
+    "coverEmoji": "🌹",
+    "summary": "The first human being to embrace Islam, Khadijah devoted her vast fortune, unwavering comfort, and maternal love to support Prophet Muhammad ﷺ throughout the hardest years of Makkah.",
+    "summaryBn": "বিশ্বের সর্বপ্রথম ইসলাম গ্রহণকারী মানুষ, মক্কার সংকটময় সময়ে প্রিয় নবীজিকে সান্ত্বনা দান এবং দ্বীনের পথে নিজের সমস্ত ধনভাণ্ডার অকাতরে বিলিয়ে দেওয়া মহীয়সী নারী খাদিজা (রা.)।",
     "sentences": [
       {
-        "en": "In the late 1890s, prominent physicists firmly asserted that wireless electromagnetic signals could only travel in straight lines and would shoot out into outer space.",
-        "bn": "উনবিংশ শতাব্দীর শেষভাগে বড় বড় বিজ্ঞানীরা দাবি করেছিলেন যে বেতার তরঙ্গ কেবল সোজা পথে চলে এবং পৃথিবীর বাঁকের কারণে তা মহাকাশে হারিয়ে যাবে।"
+        "en": "Khadijah bint Khuwaylid was the most respected, wealthy, and noble merchant woman of Quraysh, known as At-Tahirah (The Pure One).",
+        "bn": "হযরত খাদিজা বিনতে খুওয়াইলিদ (রা.) ছিলেন কুরাইশদের সর্বাধিক সম্মানিত, ধনী ও অভিজাত নারী, যিনি 'আত-তাহিরাহ' (পরম পবিত্র নারী) উপাধিতে ভূষিত ছিলেন।",
+        "words": [
+          {
+            "en": "Khadijah was the most respected",
+            "bn": "খাদিজা ছিলেন সর্বাধিক সম্মানিত"
+          },
+          {
+            "en": "wealthy and noble woman",
+            "bn": "ধনী ও সম্ভ্রান্ত নারী"
+          },
+          {
+            "en": "known as At-Tahirah",
+            "bn": "আত-তাহিরাহ নামে পরিচিত"
+          },
+          {
+            "en": "The Pure One",
+            "bn": "পরম পবিত্র নারী"
+          }
+        ]
       },
       {
-        "en": "They concluded that sending a radio message across the curved Atlantic Ocean without cables was scientifically impossible.",
-        "bn": "তাঁরা রায় দিয়েছিলেন যে কোনো তার ছাড়া আটলান্টিক মহাসাগরের ওপর দিয়ে বেতার বার্তা পাঠানো বৈজ্ঞানিকভাবে অসম্ভব।"
+        "en": "Recognizing the flawless honesty of Muhammad ﷺ, she entrusted him with her trade caravans to Syria and subsequently proposed marriage.",
+        "bn": "মুহাম্মদ ﷺ-এর অনুপম সততা ও বিশ্বস্ততা প্রত্যক্ষ করে তিনি তাঁর সিরিয়াগামী বাণিজ্য কাফেলার দায়িত্ব দেন এবং পরবর্তীতে নিজেই বিয়ের প্রস্তাব পাঠান।",
+        "words": [
+          {
+            "en": "Recognizing his honesty",
+            "bn": "তাঁর সততা দেখে"
+          },
+          {
+            "en": "entrusted him with trade caravans",
+            "bn": "বাণিজ্য কাফেলার দায়িত্ব দিলেন"
+          },
+          {
+            "en": "proposed marriage",
+            "bn": "বিয়ের প্রস্তাব পাঠালেন"
+          }
+        ]
       },
       {
-        "en": "A determined young Italian inventor named Guglielmo Marconi refused to accept their theoretical skepticism.",
-        "bn": "কিন্তু গুগলিয়েলমো মার্কোনি নামের এক তরুণ ইতালীয় আবিষ্কারক সেই বিজ্ঞানীদের হতাশার কথা মানতে রাজি হলেন না।"
+        "en": "When the first revelation shook the Prophet in the Cave of Hira, Khadijah was the very first person on earth to believe in him without a second of doubt.",
+        "bn": "হেরা গুহায় প্রথম ওহীর প্রচণ্ড ভারে নবীজি যখন কেঁপে উঠেছিলেন, তখন খাদিজা ছিলেন পৃথিবীর সর্বপ্রথম মানুষ যিনি এক মুহূর্তের দ্বিধা ছাড়াই তাঁর ওপর ঈমান আনলেন।",
+        "words": [
+          {
+            "en": "When revelation shook the Prophet",
+            "bn": "যখন ওহী নবীজিকে আলোড়িত করল"
+          },
+          {
+            "en": "very first person on earth",
+            "bn": "পৃথিবীর সর্বপ্রথম ব্যক্তি"
+          },
+          {
+            "en": "to believe in him",
+            "bn": "তাঁর ওপর ঈমান আনার"
+          },
+          {
+            "en": "without doubt",
+            "bn": "বিন্দুমাত্র সংশয় ছাড়া"
+          }
+        ]
       },
       {
-        "en": "In December 1901, Marconi stood inside an abandoned hospital on Signal Hill in Newfoundland, Canada, shivering in freezing winds.",
-        "bn": "১৯০১ সালের ডিসেম্বরের হাড়কাঁপানো শীতে মার্কোনি কানাডার সিগন্যাল হিলের এক পরিত্যক্ত ঘরে দাঁড়িয়ে অপেক্ষা করতে লাগলেন।"
+        "en": "She spent her entire fortune to shelter persecuted believers, buy the freedom of tortured slaves, and finance the early message of Islam.",
+        "bn": "নির্যাতিত মুসলমানদের আশ্রয় দিতে, অসহায় দাসদের মুক্ত করতে এবং ইসলামের প্রচারের জন্য তিনি তাঁর সমগ্র অগাধ ধনভাণ্ডার অকাতরে বিলিয়ে দিলেন।",
+        "words": [
+          {
+            "en": "Spent her entire fortune",
+            "bn": "নিজের সমস্ত সম্পদ ব্যয় করলেন"
+          },
+          {
+            "en": "to shelter believers",
+            "bn": "মুমিনদের আশ্রয় দিতে"
+          },
+          {
+            "en": "buy freedom of slaves",
+            "bn": "দাসদের মুক্তি ক্রয় করতে"
+          },
+          {
+            "en": "finance the early message",
+            "bn": "প্রাথমিক ইসলামের বাণীকে এগিয়ে নিতে"
+          }
+        ]
       },
       {
-        "en": "He held a simple telephone earpiece to his ear, connected to a wire antenna lifted four hundred feet in the air by a stormy kite.",
-        "bn": "তিনি কানে একটি সাধারণ ইয়ারপিস ধরে রইলেন, যা আকাশে ঝড়ের মধ্যে ওড়া ঘুড়ির সাথে বাঁধা চারশো ফুট লম্বা তারের সাথে যুক্ত ছিল।"
+        "en": "During the three agonizing years of boycott in Shi'b Abi Talib, she endured starvation alongside the Muslims despite her elderly years.",
+        "bn": "শে'বে আবি তালিবে তিন বছরের অমানবিক সামাজিক বয়কটের সময় বার্ধক্যে উপনীত হওয়া সত্ত্বেও তিনি মুসলিমদের সাথে না খেয়ে অনাহারে দিন কাটালেন।",
+        "words": [
+          {
+            "en": "During three years of boycott",
+            "bn": "তিন বছরের বয়কটকালে"
+          },
+          {
+            "en": "in Shib Abi Talib",
+            "bn": "শে'বে আবি তালিবে"
+          },
+          {
+            "en": "endured starvation",
+            "bn": "অনাহার সহ্য করলেন"
+          },
+          {
+            "en": "alongside Muslims",
+            "bn": "মুসলমানদের পাশাপাশি"
+          }
+        ]
       },
       {
-        "en": "Across two thousand miles of open stormy ocean in Cornwall, England, his team was broadcasting the Morse code letter 'S'—three tiny clicks.",
-        "bn": "দুই হাজার মাইল দূরে ইংল্যান্ডের উপকূল থেকে তাঁর সহযোগীরা নিয়মিত বিরতিতে মোর্স কোডের 'এস' অক্ষর—অর্থাৎ তিনটি মৃদু টিক-টিক আওয়াজ পাঠাচ্ছিল।"
+        "en": "Angel Jibril brought greetings of peace directly from Almighty Allah to Khadijah, promising her a palace of pearls in Paradise where there is neither noise nor fatigue.",
+        "bn": "ফেরেশতা জিব্রাইল (আ.) স্বয়ং মহান আল্লাহর পক্ষ থেকে খাদিজাকে সালাম পৌঁছালেন এবং জান্নাতে মুক্তাখচিত এক সুরম্য প্রাসাদের সুসংবাদ দিলেন যেখানে কোনো ক্লান্তি বা কোলাহল থাকবে না।",
+        "words": [
+          {
+            "en": "Angel Jibril brought peace",
+            "bn": "ফেরেশতা জিব্রাইল সালাম নিয়ে এলেন"
+          },
+          {
+            "en": "directly from Allah",
+            "bn": "সরাসরি আল্লাহর পক্ষ থেকে"
+          },
+          {
+            "en": "promising a palace of pearls",
+            "bn": "মুক্তার প্রাসাদের সুসংবাদ দিয়ে"
+          },
+          {
+            "en": "neither noise nor fatigue",
+            "bn": "যেখানে কোনো কষ্ট বা ক্লান্তি নেই"
+          }
+        ]
       },
       {
-        "en": "At half past twelve, through the crackle of static, Marconi heard three sharp, distinct clicks: 'dit-dit-dit!'",
-        "bn": "দুপুর সাড়ে বারোটায় রেডিওর খড়খড় আওয়াজের ফাঁক দিয়ে স্পষ্ট তিনটি মৃদু শব্দ শোনা গেল: 'টিক-টিক-টিক!'"
-      },
-      {
-        "en": "Radio waves had bounced off the upper ionosphere, proving the world could be bound together in instantaneous wireless communication.",
-        "bn": "রেডিও তরঙ্গ আকাশের আয়নমণ্ডলে ধাক্কা খেয়ে ফিরে এসেছিল, যা প্রমাণ করল পুরো বিশ্ব এখন তারহীন যোগাযোগের এক সোনালী যুগে প্রবেশ করেছে।"
+        "en": "Years after her passing, the Prophet remembered her with tears, declaring: 'She believed in me when people rejected me, and supported me when people deprived me.'",
+        "bn": "তাঁর ইন্তেকালের বহু বছর পরেও নবীজি অশ্রুসজল নয়নে বলতেন: 'তিনি তখন আমার প্রতি ঈমান এনেছিলেন যখন মানুষ আমাকে তাড়িয়ে দিয়েছিল, এবং তিনি আমাকে তখন সাহায্য করেছিলেন যখন সবাই আমাকে বঞ্চিত করেছিল।'",
+        "words": [
+          {
+            "en": "Years after her passing",
+            "bn": "তাঁর ইন্তেকালের বহু বছর পর"
+          },
+          {
+            "en": "the Prophet remembered her with tears",
+            "bn": "নবীজি অশ্রুসজল চোখে স্মরণ করতেন"
+          },
+          {
+            "en": "She believed when people rejected me",
+            "bn": "তিনি বিশ্বাস করলেন যখন মানুষ আমাকে অস্বীকার করল"
+          }
+        ]
       }
     ]
   },
   {
-    "id": "sci-jenner-smallpox",
-    "title": "Edward Jenner and the Milkmaid's Cowpox",
-    "titleBn": "এডওয়ার্ড জেনার ও গুটিবসন্তের প্রথম টিকা",
-    "author": "Science History",
+    "id": "companion-aisha-scholarship",
+    "title": "Aisha bint Abi Bakr: The Mother of Believers and Great Scholar",
+    "titleBn": "উম্মুল মুমিনীন হযরত আয়েশা (রা.)-এর ইলম ও পাণ্ডিত্য",
+    "author": "Authentic Hadith (Sahih Bukhari & Muslim)",
     "level": "Intermediate",
-    "category": "Science & Inventions",
-    "coverEmoji": "💉",
-    "summary": "An English country doctor listens to dairy workers and invents vaccination, conquering mankind's deadliest killer.",
-    "summaryBn": "গ্রামের গোয়ালিনীদের সাধারণ অভিজ্ঞতা শুনে এক চিকিৎসক কীভাবে গুটিবসন্তের মতো প্রাণঘাতী মহামারির প্রতিষেধক তৈরি করেছিলেন।",
+    "levelColor": "cyan",
+    "category": "Noble Companions",
+    "coverEmoji": "📚",
+    "summary": "Endowed with an extraordinary memory and profound intellect, Aisha narrates over 2,200 traditions, serving as the foremost jurist and theological authority for the Companions.",
+    "summaryBn": "অনন্য মেধা ও তীক্ষ্ণ প্রজ্ঞার অধিকারিণী উম্মুল মুমিনীন আয়েশা (রা.)-এর দুই হাজার দুই শতাধিক হাদিস বর্ণনা এবং সাহাবিদের যাবতীয় জটিল ফতোয়ার নির্ভুল সমাধান দেওয়ার ইতিহাস।",
     "sentences": [
       {
-        "en": "For thousands of years, smallpox was one of the most terrifying scourges of humanity, killing millions and scarring survivors forever.",
-        "bn": "হাজার হাজার বছর ধরে গুটিবসন্ত ছিল মানবজাতির এক চরম আতঙ্ক, যা কোটি কোটি মানুষকে মেরে ফেলত আর বেঁচে থাকাদের সারা জীবন ক্ষতবিক্ষত করে রাখত।"
+        "en": "Aisha bint Abi Bakr was endowed with an extraordinarily brilliant intellect, sharp eloquence, and an astonishing photographic memory.",
+        "bn": "উম্মুল মুমিনীন হযরত আয়েশা (রা.) অসাধারণ তীক্ষ্ণ মেধা, অনন্য বাগ্মিতা এবং বিস্ময়কর স্মৃতিশক্তির অধিকারী ছিলেন।",
+        "words": [
+          {
+            "en": "Aisha was endowed with",
+            "bn": "আয়েশা ধন্য হয়েছিলেন"
+          },
+          {
+            "en": "brilliant intellect",
+            "bn": "মেধাবী প্রজ্ঞা"
+          },
+          {
+            "en": "sharp eloquence",
+            "bn": "তীক্ষ্ণ বাগ্মিতা"
+          },
+          {
+            "en": "astonishing memory",
+            "bn": "বিস্ময়কর স্মৃতিশক্তি"
+          }
+        ]
       },
       {
-        "en": "Dr. Edward Jenner, a quiet physician practicing in rural England, noticed an intriguing piece of traditional country folklore.",
-        "bn": "ইংল্যান্ডের এক পল্লী চিকিৎসক ডা. এডওয়ার্ড জেনার লক্ষ্য করলেন গ্রামের গোয়ালিনীদের মাঝে এক অদ্ভুত লোকবিশ্বাস প্রচলিত আছে।"
+        "en": "Growing up in the Prophet's household, she observed and memorized the daily practices, rulings, and inner wisdom of the Messenger of Allah.",
+        "bn": "নবীজি ﷺ-এর পবিত্র ঘরে বড় হয়ে তিনি রাসুলুল্লাহর দৈনন্দিন আমল, সুন্নাহ এবং গভীর ঐশী প্রজ্ঞা প্রত্যক্ষ ও মুখস্থ করেছিলেন।",
+        "words": [
+          {
+            "en": "Growing up in Prophet's home",
+            "bn": "নবীজির ঘরে জীবনযাপন করে"
+          },
+          {
+            "en": "observed and memorized",
+            "bn": "প্রত্যক্ষ ও মুখস্থ করলেন"
+          },
+          {
+            "en": "daily practices and rulings",
+            "bn": "দৈনন্দিন আমল ও বিধানসমূহ"
+          }
+        ]
       },
       {
-        "en": "Dairy milkmaids who caught the mild cowpox infection from cows' udders never contracted the lethal, disfiguring smallpox.",
-        "bn": "যেসব গোয়ালিনী গরুর দুধ দোয়ানোর সময় গরুর মৃদু বসন্তে আক্রান্ত হতো, তারা কখনোই মারাত্মক গুটিবসন্তে আক্রান্ত হতো না।"
+        "en": "She narrated over 2,210 authentic hadiths, providing humanity with unmatched insight into the Prophet's family life and personal worship.",
+        "bn": "তিনি ২,২১০টিরও বেশি বিশুদ্ধ হাদিস বর্ণনা করেন, যা নবীজির পারিবারিক জীবন ও ব্যক্তিগত ইবাদতের নিখুঁত দিকনির্দেশনা উম্মতকে দান করে।",
+        "words": [
+          {
+            "en": "Narrated over 2,210 hadiths",
+            "bn": "২২১০টির বেশি হাদিস বর্ণনা করলেন"
+          },
+          {
+            "en": "providing unmatched insight",
+            "bn": "অতুলনীয় আলো দান করে"
+          },
+          {
+            "en": "into family life",
+            "bn": "পারিবারিক জীবনের মাঝে"
+          }
+        ]
       },
       {
-        "en": "In May 1796, Jenner took harmless fluid from a cowpox sore on a milkmaid named Sarah Nelmes and inoculated a brave young boy.",
-        "bn": "১৭৯৬ সালের মে মাসে জেনার সারাহ নামের এক গোয়ালিনীর হাতের ফোস্কা থেকে সামান্য পুঁজ নিয়ে এক বালকের হাতে টিকা হিসেবে দিলেন।"
+        "en": "Senior Companions, including Abu Bakr and Umar, routinely consulted Aisha whenever a perplexing legal or inheritance dilemma arose.",
+        "bn": "আবু বকর ও উমর (রা.)-এর মতো প্রবীণ সাহাবিরাও যেকোনো জটিল আইনি ও উত্তরাধিকার সমস্যার সম্মুখীন হলে আয়েশার পরামর্শ নিতেন।",
+        "words": [
+          {
+            "en": "Senior Companions consulted Aisha",
+            "bn": "প্রবীণ সাহাবিরা আয়েশার পরামর্শ নিতেন"
+          },
+          {
+            "en": "whenever a dilemma arose",
+            "bn": "যখনই কোনো জটিল সংকট দেখা দিত"
+          },
+          {
+            "en": "legal or inheritance",
+            "bn": "আইনি বা উত্তরাধিকার সংক্রান্ত"
+          }
+        ]
       },
       {
-        "en": "The boy developed a slight fever for a day and recovered completely with zero complications.",
-        "bn": "ছেলেটির একদিন সামান্য জ্বর হলো এবং সে কোনো কষ্ট ছাড়াই পুরোপুরি সুস্থ হয়ে উঠল।"
+        "en": "Abu Musa al-Ash'ari testified: 'Whenever we Companions were confused by any hadith, we asked Aisha and always found knowledge regarding it with her.'",
+        "bn": "আবু মূসা আল-আশআরী (রা.) সাক্ষ্য দিয়েছেন: 'আমরা সাহাবিরা কোনো হাদিস নিয়ে সংশয়ে পড়লেই আয়েশার কাছে যেতাম এবং তাঁর কাছে তার স্পষ্ট সমাধান পেতাম।'",
+        "words": [
+          {
+            "en": "Abu Musa testified",
+            "bn": "আবু মূসা সাক্ষ্য দিলেন"
+          },
+          {
+            "en": "Whenever we were confused",
+            "bn": "যখনই আমরা সংশয়ে পড়তাম"
+          },
+          {
+            "en": "we asked Aisha",
+            "bn": "আমরা আয়েশাকে জিজ্ঞেস করতাম"
+          },
+          {
+            "en": "always found knowledge with her",
+            "bn": "সর্বদা তাঁর কাছে জ্ঞান পেতাম"
+          }
+        ]
       },
       {
-        "en": "Two months later, Jenner exposed the boy to actual smallpox matter, and the child's immune system successfully fought off the virus without falling ill.",
-        "bn": "দুই মাস পর জেনার ছেলেটিকে আসল গুটিবসন্তের জীবাণু দিলেন, কিন্তু দেখা গেল তার শরীরের রোগ প্রতিরোধ ক্ষমতা সহজেই ভাইরাসটিকে প্রতিহত করেছে।"
+        "en": "She was also a master of Arabic poetry, medicine, and genealogy, teaching male and female students from behind a protective curtain.",
+        "bn": "তিনি আরবি সাহিত্য, চিকিৎসাশাস্ত্র ও বংশতালিকায় পারদর্শী ছিলেন এবং পর্দার আড়াল থেকে অগুনতি ছাত্র-ছাত্রীদের ইলম শিক্ষা দিতেন।",
+        "words": [
+          {
+            "en": "Master of Arabic poetry and medicine",
+            "bn": "আরবি কবিতা ও চিকিৎসাশাস্ত্রে পারদর্শী"
+          },
+          {
+            "en": "teaching students",
+            "bn": "শিক্ষার্থীদের পাঠদান করতেন"
+          },
+          {
+            "en": "from behind a curtain",
+            "bn": "পর্দার আড়াল থেকে"
+          }
+        ]
       },
       {
-        "en": "Jenner coined the term 'vaccine' from the Latin word 'vacca', meaning cow, in honor of the source of immunity.",
-        "bn": "গরুর লাতিন নাম 'ভ্যাক্কা' থেকে সম্মান জানিয়ে জেনার এই জীবনরক্ষাকারী পদ্ধতির নাম দিলেন 'ভ্যাকসিন' বা টিকা।"
-      },
-      {
-        "en": "His pioneering work eradicated smallpox completely from planet Earth, saving hundreds of millions of human lives.",
-        "bn": "তাঁর এই ঐতিহাসিক গবেষণার ফলেই আজ পৃথিবী থেকে গুটিবসন্ত সম্পূর্ণ নির্মূল হয়েছে এবং কোটি কোটি মানবসন্তান বেঁচে গেছে।"
+        "en": "Her immense legacy established Muslim women as foremost theological and academic leaders of human civilization.",
+        "bn": "তাঁর এই মহান পাণ্ডিত্য বিশ্ব সভ্যতায় মুসলিম নারীদের দ্বীনী ও অ্যাকাডেমিক নেতৃত্বের শীর্ষস্থানে সুপ্রতিষ্ঠিত করেছে।",
+        "words": [
+          {
+            "en": "Her immense legacy",
+            "bn": "তাঁর সুমহান অবদান"
+          },
+          {
+            "en": "established Muslim women",
+            "bn": "মুসলিম নারীদের প্রতিষ্ঠিত করল"
+          },
+          {
+            "en": "as theological leaders",
+            "bn": "ধর্মতাত্ত্বিক নেতৃস্থানীয় হিসেবে"
+          }
+        ]
       }
     ]
   },
   {
-    "id": "sci-subhash-chandra-bose-plants",
-    "title": "Sir Jagadish Chandra Bose: The Voice of Plants",
-    "titleBn": "জগদীশচন্দ্র বসু এবং উদ্ভিদের প্রাণের স্পন্দন",
-    "author": "Science History",
+    "id": "companion-fatimah-dignity",
+    "title": "Fatimah az-Zahra: The Leader of the Women of Paradise",
+    "titleBn": "জান্নাতী নারীদের নেত্রী হযরত ফাতিমাতুজ জাহরা (রা.)",
+    "author": "Authentic Hadith (Sahih Bukhari & Tirmidhi)",
     "level": "Intermediate",
-    "category": "Science & Inventions",
-    "coverEmoji": "🌱",
-    "summary": "An Indian polymath invents the crescograph and proves to a skeptical world that plants feel pain, fatigue, and affection.",
-    "summaryBn": "নিজের হাতে ক্রেসকোগ্রাফ যন্ত্র বানিয়ে এক মহান বাঙালি বিজ্ঞানী প্রমাণ করেছিলেন যে গাছেরও সুখ-দুঃখের অনুভূতি আছে।",
+    "levelColor": "amber",
+    "category": "Noble Companions",
+    "coverEmoji": "🌸",
+    "summary": "The beloved youngest daughter of the Prophet, Fatimah shielded her father from pagan harassment as a girl, lived a life of rigorous simplicity, and was crowned leader of all women in Paradise.",
+    "summaryBn": "শৈশবে কাফেরদের নিক্ষেপ করা নাড়িভুঁড়ি পরিষ্কার করে পিতাকে আগলে রাখা, চাকা ঘুরিয়ে আটা পিষে হাত ফোস্কা পড়া এবং জান্নাতের নারীদের সর্দারিনী ফাতিমা (রা.)-এর ত্যাগ।",
     "sentences": [
       {
-        "en": "Sir Jagadish Chandra Bose was a visionary physicist and biologist working at Presidency College in Calcutta with minimal laboratory resources.",
-        "bn": "স্যার জগদীশচন্দ্র বসু ছিলেন কলকাতার প্রেসিডেন্সি কলেজের এক প্রতিভাধর পদার্থ ও উদ্ভিদবিদ, যিনি সীমিত সুযোগের মধ্যেই বিশ্বমানের গবেষণা করতেন।"
+        "en": "Fatimah was the youngest and most cherished daughter of Prophet Muhammad ﷺ, resembling him closely in speech, gait, and mannerisms.",
+        "bn": "হযরত ফাতিমা (রা.) ছিলেন রাসুলুল্লাহ ﷺ-এর কনিষ্ঠা ও সর্বাধিক আদরের কন্যা, যাঁর কথা, হাঁটাচলা ও স্বভাব হুবহু নবীজির মতোই ছিল।",
+        "words": [
+          {
+            "en": "Fatimah was the cherished daughter",
+            "bn": "ফাতিমা ছিলেন প্রিয়তমা কন্যা"
+          },
+          {
+            "en": "resembling him closely",
+            "bn": "তাঁর সাথে হুবহু সাদৃশ্যপূর্ণ"
+          },
+          {
+            "en": "in speech gait and mannerisms",
+            "bn": "কথা, চলাফেরা ও চরিত্রে"
+          }
+        ]
       },
       {
-        "en": "Western scientists believed that plants were passive, unconscious organisms completely incapable of feeling physical stimuli.",
-        "bn": "পশ্চিমা বিজ্ঞানীরা বিশ্বাস করতেন যে উদ্ভিদ হলো এক অচেতন জড়বস্তু যার কোনো আঘাত বা স্পর্শের অনুভূতি পাওয়ার ক্ষমতা নেই।"
+        "en": "As a young girl in Makkah, when pagan chieftains placed a camel's filthy entrails upon the Prophet's back while prostrating at the Kaaba, little Fatimah rushed weeping to remove it.",
+        "bn": "মক্কায় কিশোরী বয়সে যখন কাফেররা কাবার চত্বরে সিজদারত নবীজির পিঠের ওপর উটের নাড়িভুঁড়ি চাপিয়ে দিল, তখন ছোট্ট ফাতিমা কাঁদতে কাঁদতে এসে তা সরিয়ে দিলেন।",
+        "words": [
+          {
+            "en": "Pagan chieftains placed camel entrails",
+            "bn": "মুশরিক সর্দাররা উটের নাড়িভুঁড়ি চাপাল"
+          },
+          {
+            "en": "upon the Prophet's back",
+            "bn": "নবীজির পিঠের ওপর"
+          },
+          {
+            "en": "while prostrating at Kaaba",
+            "bn": "কাবায় সিজদারত অবস্থায়"
+          },
+          {
+            "en": "little Fatimah rushed weeping",
+            "bn": "ছোট্ট ফাতিমা কাঁদতে কাঁদতে ছুটে এলেন"
+          },
+          {
+            "en": "to remove it",
+            "bn": "তা সরিয়ে দেওয়ার জন্য"
+          }
+        ]
       },
       {
-        "en": "Bose invented an extraordinarily delicate instrument called the Crescograph, capable of magnifying plant movements and cell growth ten million times.",
-        "bn": "বসু নিজের হাতে 'ক্রেসকোগ্রাফ' নামের এক সূক্ষ্ম যন্ত্র আবিষ্কার করলেন, যা গাছের সামান্যতম বৃদ্ধি বা নড়াচড়াকে এক কোটি গুণ বড় করে দেখাতে পারত।"
+        "en": "Married to Ali ibn Abi Talib, she ground grain with a stone mill until her hands developed painful calluses, carrying heavy water skins that bruised her chest.",
+        "bn": "হযরত আলী (রা.)-এর সাথে বিয়ের পর তিনি জাঁতাকল ঘুরিয়ে আটা পিষতেন যাতে হাতে ফোস্কা পড়ে যেত, আর ভারি পানির পাত্র টেনে বুকে দাগ পড়ে যেত।",
+        "words": [
+          {
+            "en": "Married to Ali",
+            "bn": "আলীর সাথে বিবাহিত হয়ে"
+          },
+          {
+            "en": "she ground grain with a stone mill",
+            "bn": "তিনি পাথরের জাঁতায় আটা পিষতেন"
+          },
+          {
+            "en": "hands developed calluses",
+            "bn": "হাতে ফোস্কা পড়ে যেত"
+          },
+          {
+            "en": "carrying heavy water skins",
+            "bn": "ভারী পানির মশকের বোঝা টেনে"
+          }
+        ]
       },
       {
-        "en": "In 1901, at the Royal Society in London, Bose connected a live plant to his machine and submerged its roots in poisonous bromide.",
-        "bn": "১৯০১ সালে লন্ডনের রয়্যাল সোসাইটির মঞ্চে বসু একটি জীবন্ত গাছের শেকড় বিষাক্ত ব্রোমাইড দ্রবণের মধ্যে ডুবিয়ে দিলেন।"
+        "en": "When she asked the Prophet for a servant, he instead taught her the golden Tasbih: thirty-three Subhanallah, thirty-three Alhamdulillah, and thirty-four Allahu Akbar before sleeping.",
+        "bn": "ক্লান্ত হয়ে তিনি যখন খাদেম চাইলেন, নবীজি তাঁকে তাসবীহ-ই-ফাতিমি শিখিয়ে দিলেন: ঘুমানোর আগে ৩৩ বার সুবহানাল্লাহ, ৩৩ বার আলহামদুলিল্লাহ এবং ৩৪ বার আল্লাহু আকবার।",
+        "words": [
+          {
+            "en": "Asked for a servant",
+            "bn": "একজন খাদেম চাইলেন"
+          },
+          {
+            "en": "taught her golden Tasbih",
+            "bn": "তাঁকে মর্যাদাপূর্ণ তাসবীহ শেখালেন"
+          },
+          {
+            "en": "Subhanallah Alhamdulillah Allahu Akbar",
+            "bn": "সুবহানাল্লাহ, আলহামদুলিল্লাহ, আল্লাহু আকবার"
+          }
+        ]
       },
       {
-        "en": "As the poison took effect, a bright spot of light on the screen quivered violently, mirroring the plant's agonizing death struggle.",
-        "bn": "বিষের প্রভাব শুরু হতেই স্ক্রিনের ওপর আলোর বিন্দুটি কাঁপতে লাগল, ঠিক যেমন কোনো প্রাণী মৃত্যুর সময় ছটফট করে যন্ত্রণায় কাতরায়।"
+        "en": "The Prophet declared: 'Fatimah is a part of me; whoever pleases her pleases me, and whoever angers her angers me.'",
+        "bn": "নবীজি ঘোষণা করলেন: 'ফাতিমা আমারই দেহের একটি টুকরো; যে তাকে খুশি করল সে আমাকেই খুশি করল, আর যে তাকে অসন্তুষ্ট করল সে আমাকেই কষ্ট দিল।'",
+        "words": [
+          {
+            "en": "Fatimah is a part of me",
+            "bn": "ফাতিমা আমারই একটি অংশ"
+          },
+          {
+            "en": "whoever pleases her pleases me",
+            "bn": "যে তাকে সন্তুষ্ট করল সে আমাকে সন্তুষ্ট করল"
+          },
+          {
+            "en": "whoever angers her angers me",
+            "bn": "যে তাকে কষ্ট দিল সে আমাকে কষ্ট দিল"
+          }
+        ]
       },
       {
-        "en": "He demonstrated that plants respond to warmth, soothing music, fatigue, anesthetics, and electrical impulses just like animals.",
-        "bn": "তিনি প্রমাণ করলেন যে প্রাণীদের মতোই গাছপালাও উষ্ণতা, মিষ্টি গান, ক্লান্তি, চেতনা এবং বৈদ্যুতিক আঘাতে সাড়া দেয়।"
-      },
-      {
-        "en": "The amazed European scientists stood and applauded his revolutionary revelation of the hidden consciousness within green nature.",
-        "bn": "বিস্ময়ে হতবাক হয়ে ইউরোপের সেরা বিজ্ঞানীরা দাঁড়িয়ে করতালি দিয়ে প্রকৃতির মাঝে লুকিয়ে থাকা চেতনার এই আবিষ্কারকে বরণ করে নিলেন।"
+        "en": "On his deathbed, the Prophet whispered to her that she would be the leader of all women in Paradise, making her smile through her tears.",
+        "bn": "মৃত্যুশয্যায় নবীজি তাঁর কানে কানে সুসংবাদ দিলেন যে তিনিই হবেন জান্নাতের সমস্ত নারীদের নেত্রী, যা শুনে তিনি অশ্রুর মাঝেও মুচকি হেসে উঠলেন।",
+        "words": [
+          {
+            "en": "The Prophet whispered to her",
+            "bn": "নবীজি তাঁর কানে কানে বললেন"
+          },
+          {
+            "en": "leader of all women in Paradise",
+            "bn": "জান্নাতের সমস্ত নারীদের সর্দারিনী"
+          },
+          {
+            "en": "making her smile through tears",
+            "bn": "অশ্রুর মাঝেও তাঁকে হাসিয়ে দিয়ে"
+          }
+        ]
       }
     ]
   },
   {
-    "id": "sci-srinivasa-ramanujan",
-    "title": "Srinivasa Ramanujan: The Man Who Knew Infinity",
-    "titleBn": "শ্রীনিবাস রামানুজন: গণিতের অনন্তের সাধক",
-    "author": "Science History",
+    "id": "companion-asma-belts",
+    "title": "Asma bint Abi Bakr: The Woman of the Two Belts",
+    "titleBn": "হযরত আসমা বিনতে আবু বকর (রা.): হিজরতের বীর নারী",
+    "author": "Authentic Hadith (Sahih Bukhari)",
     "level": "Intermediate",
-    "category": "Science & Inventions",
-    "coverEmoji": "♾️",
-    "summary": "A self-taught clerk from South India sends mathematical formulas across the ocean, dazzling the greatest professors at Cambridge.",
-    "summaryBn": "কোনো প্রাতিষ্ঠানিক সুযোগ ছাড়াই এক সাধারণ কেরানি কীভাবে গণিতের এমন সব জটিল সূত্র আবিষ্কার করলেন যা আজও বিশ্বকে চমকে দেয়।",
+    "levelColor": "rose",
+    "category": "Noble Companions",
+    "coverEmoji": "🏔️",
+    "summary": "Splitting her waistband in two to secure provisions for the Prophet and her father in the Cave of Thawr, Asma endures Abu Jahl's slap and safeguards the secret of the Hijrah.",
+    "summaryBn": "সাওর গুহায় অবস্থানরত নবীজি ও পিতার জন্য খাদ্যসামগ্রী বাঁধতে নিজের কোমরের ফিতা কেটে দুই টুকরো করা এবং আবু জাহেলের চড় খেয়েও হিজরতের রহস্য গোপন রাখার বীরত্ব।",
     "sentences": [
       {
-        "en": "Srinivasa Ramanujan was born into a humble Tamil family in Kumbakonam, India, with almost no formal access to advanced mathematical literature.",
-        "bn": "ভারতের কুম্ভকোণমে এক সাধারণ পরিবারে জন্ম নেওয়া শ্রীনিবাস রামানুজন কোনো উন্নত লাইব্রেরি বা উচ্চশিক্ষার সুযোগ পাননি।"
+        "en": "Asma bint Abi Bakr, older sister of Aisha, played an indispensable role during the secret preparations for the Prophet's Hijrah.",
+        "bn": "হযরত আবু বকরের জ্যেষ্ঠ কন্যা এবং আয়েশার বড় বোন আসমা (রা.) হিজরতের গোপন প্রস্তুতির সময়ে এক ঐতিহাসিক দায়িত্ব পালন করেছিলেন।",
+        "words": [
+          {
+            "en": "Asma bint Abi Bakr",
+            "bn": "আসমা বিনতে আবু বকর"
+          },
+          {
+            "en": "played an indispensable role",
+            "bn": "এক অপরিহার্য ভূমিকা পালন করলেন"
+          },
+          {
+            "en": "during secret preparations",
+            "bn": "গোপন প্রস্তুতির সময়ে"
+          },
+          {
+            "en": "for the Hijrah",
+            "bn": "ঐতিহাসিক হিজরতের জন্য"
+          }
+        ]
       },
       {
-        "en": "Working as a twenty-rupee clerk at the Madras Port Trust, he filled cheap notebooks with thousands of original, mind-bending mathematical formulas.",
-        "bn": "মাদ্রাজ বন্দরে মাত্র বিশ টাকার কেরানির কাজ করার ফাঁকে তিনি সস্তা নোটখাতায় গণিতের হাজার হাজার মৌলিক ও জটিল সূত্র লিখে রাখতেন।"
+        "en": "When food was packed for the journey, they found no cord to tie the leather bag, so Asma untied her waistband and tore it into two strips.",
+        "bn": "সফরের পাথেয় প্রস্তুত করার পর পাত্রের মুখ বাঁধার কোনো রশি পাওয়া না গেলে আসমা নিজের কোমরের ফিতাটি খুলে দুই টুকরো করে ছিঁড়ে নিলেন।",
+        "words": [
+          {
+            "en": "When food was packed",
+            "bn": "যখন খাবার প্রস্তুত করা হলো"
+          },
+          {
+            "en": "found no cord to tie",
+            "bn": "বাঁধার কোনো রশি পেল না"
+          },
+          {
+            "en": "Asma tore her waistband",
+            "bn": "আসমা নিজের কোমরবন্ধ ছিঁড়লেন"
+          },
+          {
+            "en": "into two strips",
+            "bn": "দুটি ফিতায়"
+          }
+        ]
       },
       {
-        "en": "In 1913, he posted a letter containing one hundred and twenty intricate mathematical theorems to the eminent Cambridge mathematician G. H. Hardy.",
-        "bn": "১৯১৩ সালে তিনি কেমব্রিজের সেরা গণিতবিদ জি. এইচ. হার্ডির কাছে এক চিঠি পাঠিয়ে তাতে একশো বিশটি জটিল গাণিতিক উপপাদ্য লিখে দিলেন।"
+        "en": "The Prophet smiled and declared: 'May Allah replace your belt with two belts in Paradise!' earning her the eternal title Dhat an-Nitaqayn (She of the Two Belts).",
+        "bn": "নবীজি হাসলেন এবং দোয়া করলেন: 'আল্লাহ জান্নাতে তোমার এই ফিতার বদলে দুটি রত্নখচিত কোমরবন্ধ দান করবেন!' আর তিনি 'যাতুন নিতাক্বাইন' খেতাব পেলেন।",
+        "words": [
+          {
+            "en": "The Prophet smiled and declared",
+            "bn": "নবীজি হেসে বললেন"
+          },
+          {
+            "en": "replace your belt in Paradise",
+            "bn": "জান্নাতে তোমার ফিতা বদলে দেবেন"
+          },
+          {
+            "en": "Dhat an-Nitaqayn",
+            "bn": "যাতুন নিতাক্বাইন"
+          },
+          {
+            "en": "She of the Two Belts",
+            "bn": "দুই ফিতাওয়ালী নারী"
+          }
+        ]
       },
       {
-        "en": "Hardy looked at the sheets and gasped, declaring that the formulas could only be written by a mathematician of the highest genius.",
-        "bn": "হার্ডি সেই পাতাগুলো দেখে বিস্ময়ে স্তব্ধ হয়ে বললেন, পৃথিবীর সর্বোচ্চ পর্যায়ের কোনো মহাপ্রতিভা ছাড়া এই ধরণের সূত্র লেখা অসম্ভব।"
+        "en": "Every night, while pagan trackers hunted the desert, brave pregnant Asma climbed the steep, jagged rocks of Mount Thawr to deliver warm food.",
+        "bn": "প্রতি রাতে যখন কাফেরদের সন্ধানীরা পাহারা দিত, তখন গর্ভবতী আসমা একা সাওর পাহাড়ের খাড়া ও পিচ্ছিল পাথর বেয়ে উঠে নবীজিকে খাবার পৌঁছে দিতেন।",
+        "words": [
+          {
+            "en": "Every night Asma climbed",
+            "bn": "প্রতি রাতে আসমা আরোহণ করতেন"
+          },
+          {
+            "en": "Mount Thawr",
+            "bn": "সাওর পাহাড়ে"
+          },
+          {
+            "en": "to deliver warm food",
+            "bn": "গরম খাবার পৌঁছে দিতে"
+          }
+        ]
       },
       {
-        "en": "Hardy arranged for Ramanujan to travel to England, where the young Indian scholar dazzled the Royal Society with discoveries in number theory and infinite series.",
-        "bn": "হার্ডি রামানুজনকে ইংল্যান্ডে নিয়ে এলেন, যেখানে এই তরুণ পণ্ডিত সংখ্যাতত্ত্ব ও অসীম ধারার গবেষণায় পুরো বিশ্বের গণিতবিদদের তাক লাগিয়ে দিলেন।"
+        "en": "When furious Abu Jahl burst into her house demanding the whereabouts of her father, Asma stood silent, refusing to betray the secret even when struck across the face.",
+        "bn": "ক্ষিপ্ত আবু জাহেল ঘরে ঢুকে পিতার অবস্থান জানতে চেয়ে চড় মারলেও আসমা অটল রইলেন এবং হিজরতের রহস্য বিন্দুমাত্র প্রকাশ করলেন না।",
+        "words": [
+          {
+            "en": "Abu Jahl demanded whereabouts",
+            "bn": "আবু জাহেল সন্ধান চাইল"
+          },
+          {
+            "en": "Asma stood silent",
+            "bn": "আসমা নীরব রইলেন"
+          },
+          {
+            "en": "refusing to betray the secret",
+            "bn": "রহস্য ফাঁস করতে অস্বীকার করলেন"
+          },
+          {
+            "en": "even when struck",
+            "bn": "মুখে চড় খাওয়ার পরেও"
+          }
+        ]
       },
       {
-        "en": "When asked how he conceived such profound equations, Ramanujan humbly replied that his family goddess Namagiri wrote them upon his tongue in dreams.",
-        "bn": "এত অদ্ভুত সুন্দর সমীকরণ তিনি কীভাবে ভাবেন জিজ্ঞেস করা হলে রামানুজন বিনম্রভাবে বলতেন স্বপ্নের মাঝে তাঁর মনের ভেতর স্বয়ং ঈশ্বর এই জ্ঞান এঁকে দেন।"
-      },
-      {
-        "en": "Today, his notebooks still guide modern breakthroughs in string theory, black hole physics, and computer encryption algorithms.",
-        "bn": "আজও তাঁর রেখে যাওয়া ডায়েরির সূত্রগুলো ব্ল্যাকহোল বিজ্ঞান, আধুনিক পদার্থবিদ্যা এবং কম্পিউটারের জটিল কোডিং তৈরিতে পথ দেখায়।"
+        "en": "She lived to be over a hundred years old without losing a single tooth or her sharp wit, inspiring generations of Muslim women with her steadfast courage.",
+        "bn": "তিনি একশত বছরেরও বেশি বয়স পর্যন্ত বেঁচে ছিলেন, তাঁর একটি দাঁতও পড়েনি এবং স্মৃতিশক্তি অটুট ছিল; তিনি সাহসিকতার চিরন্তন অনুপ্রেরণা হয়ে রইলেন।",
+        "words": [
+          {
+            "en": "Lived over a hundred years",
+            "bn": "একশ বছরের বেশি বেঁচে ছিলেন"
+          },
+          {
+            "en": "without losing a tooth",
+            "bn": "একটি দাঁতও না হারিয়ে"
+          },
+          {
+            "en": "inspiring generations",
+            "bn": "প্রজন্মের পর প্রজন্মকে প্রেরণা জুগিয়ে"
+          }
+        ]
       }
     ]
   },
   {
-    "id": "sci-honeybee-dance",
-    "title": "The Secret Dance Language of the Honeybee",
-    "titleBn": "মৌমাছির নাচের গোপন ভাষা",
-    "author": "Nature Wonders",
+    "id": "companion-sumayyah-first-martyr",
+    "title": "Sumayyah: The First Courageous Martyr of Islam",
+    "titleBn": "ইসলামের প্রথম নারী শহীদ হযরত সুমাইয়া (রা.)",
+    "author": "Classical Seerah (Ibn Ishaq & Tabaqat Ibn Sa'd)",
     "level": "Intermediate",
-    "category": "Nature Wonders",
-    "coverEmoji": "🐝",
-    "summary": "How a tiny scout bee performs a figure-eight waggle dance to communicate distance, direction, and sweetness to the hive.",
-    "summaryBn": "এক ফোঁটা মধুর সন্ধান পেলে একটি মৌমাছি কীভাবে আট-আকৃতির নাচের মাধ্যমে দলের সবাইকে দিক ও দূরত্বের সংকেত দেয়।",
+    "levelColor": "rose",
+    "category": "Noble Companions",
+    "coverEmoji": "🩸",
+    "summary": "Tortured ruthlessly in the burning sands of Makkah by Abu Jahl, elderly Sumayyah refuses to blaspheme, giving her life as the first martyr in the history of Islam.",
+    "summaryBn": "মরুভূমির উত্তপ্ত বালুর ওপর আবু জাহেলের অমানুষিক নির্যাতনের মুখেও এক আল্লাহর তাওহিদের ওপর অবিচল থেকে ইসলামের ইতিহাসের প্রথম শহীদ হওয়ার মহান আত্মত্যাগ।",
     "sentences": [
       {
-        "en": "When a worker honeybee discovers a field of blossoming clover miles away from her hive, she cannot simply speak to her sisters.",
-        "bn": "একটি কর্মী মৌমাছি যখন মৌচাক থেকে কয়েক মাইল দূরে মিষ্টি ফুলে ভরা এক বাগানের সন্ধান পায়, সে তো মুখে বলে তা জানাতে পারে না।"
+        "en": "Sumayyah bint Khayyat, an elderly freedwoman, was among the very first seven individuals in human history to accept the message of Islam.",
+        "bn": "হযরত সুমাইয়া বিনতে খাইয়াত (রা.) ছিলেন ইসলামের ইতিহাসের সর্বপ্রথম সাতজন সৌভাগ্যবান মুসলিমদের একজন।",
+        "words": [
+          {
+            "en": "Sumayyah was among first seven",
+            "bn": "সুমাইয়া প্রথম সাতজনের একজন ছিলেন"
+          },
+          {
+            "en": "to accept Islam",
+            "bn": "ইসলাম গ্রহণকারীদের মাঝে"
+          }
+        ]
       },
       {
-        "en": "Austrian scientist Karl von Frisch spent years observing glass hives and cracked one of nature's most brilliant communication codes.",
-        "bn": "অস্ট্রিয়ার বিজ্ঞানী কার্ল ভন ফ্রিশ কাচের মৌচাক বানিয়ে বছরের পর বছর পর্যবেক্ষণ করে প্রকৃতির এক বিস্ময়কর ভাষা আবিষ্কার করলেন।"
+        "en": "Because her family had no tribal protection in Makkah, the pagan chieftains dragged her, her husband Yasir, and son Ammar into the scorching desert.",
+        "bn": "মক্কায় তাঁদের গোত্রীয় কোনো নিরাপত্তা না থাকায় মুশরিকরা সুমাইয়া, তাঁর স্বামী ইয়াসির এবং পুত্র আম্মারকে জ্বলন্ত মরুভূমিতে টেনে নিয়ে গেল।",
+        "words": [
+          {
+            "en": "Dragged into scorching desert",
+            "bn": "উত্তপ্ত মরুভূমিতে টেনে নিয়ে গেল"
+          },
+          {
+            "en": "husband Yasir and son Ammar",
+            "bn": "স্বামী ইয়াসির ও পুত্র আম্মারকে"
+          }
+        ]
       },
       {
-        "en": "When the scout bee returns, she performs a rhythmic 'waggle dance' on the dark honeycomb vertical wall in a figure-eight pattern.",
-        "bn": "মধু খুঁজে পাওয়া মৌমাছিটি ফিরে এসে চাকের অন্ধকার দেয়ালের ওপর শরীর দুলিয়ে ইংরেজি আট অক্ষরের মতো এক বিশেষ নাচ শুরু করে।"
+        "en": "They forced them into heavy iron chainmail under the blazing sun, denying them water and beating them mercilessly.",
+        "bn": "তারা প্রখর রোদের নিচে তাদের ভারী লোহার বর্ম পরিয়ে রাখত, তৃষ্ণায় পানি দিত না এবং অমানুষিক প্রহার করত।",
+        "words": [
+          {
+            "en": "Forced into iron chainmail",
+            "bn": "লোহার বর্ম পরিয়ে বাধ্য করল"
+          },
+          {
+            "en": "under the blazing sun",
+            "bn": "প্রখর রোদের নিচে"
+          },
+          {
+            "en": "beating them mercilessly",
+            "bn": "নির্মমভাবে মারধর করে"
+          }
+        ]
       },
       {
-        "en": "The angle of her waggle relative to straight upward precisely indicates the angle toward the flowers relative to the sun.",
-        "bn": "নাচের সময় তার শরীরের কোণ ঠিক করে দেয় আকাশে সূর্যের অবস্থানের সাথে ফুলের বাগানের সঠিক দিক কোন দিকে।"
+        "en": "Passing by the tortured family, the Prophet wept and gave them glad tidings: 'Be patient, O family of Yasir! Indeed, your promised destination is Paradise!'",
+        "bn": "নির্যাতিত পরিবারের পাশ দিয়ে যাওয়ার সময় নবীজি অশ্রুসজল নয়নে সুসংবাদ দিলেন: 'ধৈর্য ধরো, হে ইয়াসিরের পরিবার! নিশ্চয়ই তোমাদের প্রতিশ্রুত মিলনস্থল হলো জান্নাত!'",
+        "words": [
+          {
+            "en": "The Prophet gave glad tidings",
+            "bn": "নবীজি সুসংবাদ দিলেন"
+          },
+          {
+            "en": "Be patient O family of Yasir",
+            "bn": "ধৈর্য ধরো হে ইয়াসিরের পরিবার"
+          },
+          {
+            "en": "your destination is Paradise",
+            "bn": "তোমাদের ঠিকানা হলো জান্নাত"
+          }
+        ]
       },
       {
-        "en": "The duration of her abdominal vibration signals the exact flight distance: one second of buzzing corresponds to about a thousand meters.",
-        "bn": "তার পেট দুলিয়ে কম্পন তৈরির সময়কাল মেপে দেয় দূরত্বের মাপ: এক সেকেন্ড কাঁপা মানে ফুলগুলো ঠিক এক হাজার মিটার দূরে অবস্থিত।"
+        "en": "The ruthless Abu Jahl demanded that elderly Sumayyah insult Muhammad ﷺ or praise their stone idols, but she spat at him in fearless defiance.",
+        "bn": "নিষ্ঠুর আবু জাহেল বৃদ্ধা সুমাইয়াকে নবীজিকে গালি দিতে ও মূর্তির প্রশংসা করতে বলল, কিন্তু তিনি নির্ভীক সাহসে তাকে প্রত্যাখ্যান করলেন।",
+        "words": [
+          {
+            "en": "Abu Jahl demanded",
+            "bn": "আবু জাহেল দাবি করল"
+          },
+          {
+            "en": "insult Muhammad",
+            "bn": "মুহাম্মদকে গালি দিতে"
+          },
+          {
+            "en": "she spat in defiance",
+            "bn": "তিনি সাহসের সাথে প্রত্যাখ্যান করলেন"
+          }
+        ]
       },
       {
-        "en": "She shares tiny regurgitated droplets of nectar so her sisters can sample the floral aroma before flying out.",
-        "bn": "সে নিজের মুখ থেকে সামান্য ফুলের মিষ্টি রস বের করে বন্ধুদের চেখে দেখতে দেয় যাতে তারা সুবাস চিনে উড়তে পারে।"
+        "en": "Enraged by her unbending faith, Abu Jahl thrust his spear into her, making Sumayyah the first martyr in the history of Islam.",
+        "bn": "তাঁর এই অটল ঈমানে ক্ষিপ্ত হয়ে আবু জাহেল বর্শা দিয়ে আঘাত করে তাঁকে হত্যা করল, আর সুমাইয়া হলেন ইসলামের ইতিহাসের সর্বপ্রথম শহীদ।",
+        "words": [
+          {
+            "en": "Enraged by her faith",
+            "bn": "তাঁর ঈমানে ক্ষিপ্ত হয়ে"
+          },
+          {
+            "en": "thrust his spear into her",
+            "bn": "নিজের বর্শা তাঁর দেহে বিদ্ধ করল"
+          },
+          {
+            "en": "making Sumayyah the first martyr",
+            "bn": "সুমাইয়াকে প্রথম শহীদ বানিয়ে দিয়ে"
+          }
+        ]
       },
       {
-        "en": "Decoded by this dance, hundreds of sister bees take flight in straight lines, arriving directly at the exact patch of sweet blossoms.",
-        "bn": "এই নাচের সংকেত বুঝে নিয়ে শত শত মৌমাছি একসাথে ডানা মেলে সোজা সেই দূর বাগানে গিয়ে হাজির হয়।"
-      },
-      {
-        "en": "Even the smallest insect possesses marvelous social intelligence and sophisticated navigation tools that rival human engineering.",
-        "bn": "প্রকৃতির এই ক্ষুদ্রতম পতঙ্গটির ভেতরেও এমন এক অপূর্ব সামাজিক বুদ্ধি ও দিকনির্ণয়ের ক্ষমতা লুকিয়ে আছে যা মানুষকে মুগ্ধ করে।"
+        "en": "Her glorious sacrifice proved that faith in the One True God transcends physical frailty and overcomes worldly brutality.",
+        "bn": "তাঁর এই মহান শাহাদাত প্রমাণ করে দিল যে আল্লাহর প্রতি ঈমান শারীরিক দুর্বলতার ঊর্ধ্বে উঠে যেকোনো নিষ্ঠুরতাকে চিরতরে পরাজিত করে।",
+        "words": [
+          {
+            "en": "Her glorious sacrifice proved",
+            "bn": "তাঁর মহান আত্মত্যাগ প্রমাণ করল"
+          },
+          {
+            "en": "faith in One God",
+            "bn": "এক আল্লাহর প্রতি ঈমান"
+          },
+          {
+            "en": "overcomes brutality",
+            "bn": "বর্বরতাকে পরাভূত করে"
+          }
+        ]
       }
     ]
   },
   {
-    "id": "sci-monarch-butterfly-migration",
-    "title": "The Monarch Butterfly's Three-Thousand-Mile Journey",
-    "titleBn": "মনার্ক প্রজাপতির তিন হাজার মাইলের মহাযাত্রা",
-    "author": "Nature Wonders",
+    "id": "companion-suhaib-trade",
+    "title": "Suhaib the Roman: The Profitable Trade for Allah",
+    "titleBn": "হযরত সুহাইব আর-রুমী (রা.): হিজরতে সর্বস্ব ত্যাগের লাভজনক বাণিজ্য",
+    "author": "Classical Seerah & Quranic Exegesis (Surah Al-Baqarah)",
     "level": "Intermediate",
-    "category": "Nature Wonders",
-    "coverEmoji": "🦋",
-    "summary": "Weighing less than a paperclip, a fragile winged insect navigates across a continent to a forest it has never seen.",
-    "summaryBn": "একটি কাগজের ক্লিপের চেয়েও হালকা ডানার এক প্রজাপতি কীভাবে না-দেখা তিন হাজার মাইল দূরের বনে নির্ভুলভাবে উড়ে যায়।",
+    "levelColor": "amber",
+    "category": "Noble Companions",
+    "coverEmoji": "💰",
+    "summary": "Trapped by Quraysh bandits while migrating to Madinah, wealthy Suhaib willingly surrenders his entire lifetime of buried gold to purchase his freedom to join the Prophet.",
+    "summaryBn": "মদিনায় হিজরতের সময় কুরাইশরা পথ রোধ করলে অর্জিত জীবনের সমস্ত সোনা-রূপা শত্রুদের হাতে তুলে দিয়ে শূন্যহাতে নবীজির দরবারে উপস্থিত হওয়া ও 'সুহাইবের ব্যবসা সফল হয়েছে' ঘোষণার ইতিহাস।",
     "sentences": [
       {
-        "en": "Every autumn, millions of orange-and-black Monarch butterflies begin one of the most astonishing migratory journeys on Earth.",
-        "bn": "প্রতি শরতে কোটি কোটি কমলা ও কালো ডানার মনার্ক প্রজাপতি পৃথিবীর এক অন্যতম বিস্ময়কর অভিযাত্রায় ডানা মেলে।"
+        "en": "Suhaib ibn Sinan, captured as a boy by Byzantine soldiers, grew up in Roman territories before arriving in Makkah as an emancipated artisan.",
+        "bn": "শৈশবে রোমানদের হাতে বন্দি হওয়া সুহাইব ইবনে সিনান রোম সাম্রাজ্যে বড় হয়ে পরবর্তীতে মক্কায় মুক্ত কারিগর হিসেবে আসেন।",
+        "words": [
+          {
+            "en": "Captured as a boy",
+            "bn": "বালক বয়সে বন্দি হয়ে"
+          },
+          {
+            "en": "grew up in Roman territories",
+            "bn": "রোম সাম্রাজ্যের সীমানায় বড় হয়ে"
+          },
+          {
+            "en": "arriving in Makkah",
+            "bn": "মক্কায় এসে পৌঁছালেন"
+          }
+        ]
       },
       {
-        "en": "From the chilly fields of Canada and northern America, these delicate creatures fly over three thousand miles south toward the warm mountains of central Mexico.",
-        "bn": "কানাডা ও উত্তর আমেরিকার কনকনে ঠান্ডা থেকে বাঁচতে এই কোমল পতঙ্গগুলো তিন হাজার মাইল পথ উড়ে মেক্সিকোর উষ্ণ পাহাড়ি বনের দিকে যায়।"
+        "en": "Through diligence and skilled craftsmanship, he accumulated substantial fortunes of gold and silver in Makkah.",
+        "bn": "নিজের পরিশ্রম ও অনন্য দক্ষতার মাধ্যমে তিনি মক্কায় বিপুল পরিমাণ সোনা ও রূপার মালিক হলেন।",
+        "words": [
+          {
+            "en": "Through diligence",
+            "bn": "পরিশ্রমের মাধ্যমে"
+          },
+          {
+            "en": "accumulated substantial fortunes",
+            "bn": "বিপুল ধনসম্পদ জমালেন"
+          },
+          {
+            "en": "of gold and silver",
+            "bn": "স্বর্ণ ও রৌপ্যের"
+          }
+        ]
       },
       {
-        "en": "A monarch butterfly weighs less than a single gram, yet it battles harsh headwinds, crossing vast lakes and towering mountain ridges.",
-        "bn": "একটি প্রজাপতির ওজন মাত্র এক গ্রামেরও কম, অথচ তারা তীব্র প্রতিকূল বাতাস, বড় বড় হ্রদ আর বিশাল পাহাড় পেরিয়ে উড়ে চলে।"
+        "en": "When he loaded his camel to migrate to Madinah, armed horsemen of Quraysh pursued and surrounded him in the desert.",
+        "bn": "তিনি যখন হিজরতের উদ্দেশ্যে উটের ওপর মালপত্র তুলে রওনা হলেন, কুরাইশদের একদল সশস্ত্র অশ্বারোহী মরুভূমিতে তাঁর পথ রোধ করল।",
+        "words": [
+          {
+            "en": "When he migrated to Madinah",
+            "bn": "যখন তিনি মদিনায় হিজরত করলেন"
+          },
+          {
+            "en": "armed horsemen pursued him",
+            "bn": "সশস্ত্র অশ্বারোহীরা তাঁকে ধাওয়া করল"
+          },
+          {
+            "en": "surrounded in the desert",
+            "bn": "মরুভূমিতে ঘিরে ফেলল"
+          }
+        ]
       },
       {
-        "en": "They use an internal magnetic compass and circadian sun sensors located inside their tiny antennae to maintain an exact heading.",
-        "bn": "তারা নিজেদের অ্যান্টেনার ভেতর লুকিয়ে থাকা এক জৈবিক কম্পাস এবং সূর্যের আলো দেখে সঠিক পথ চিনে এগিয়ে যায়।"
+        "en": "They shouted: 'You arrived in Makkah as a penniless beggar; do you think we will let you leave with all your wealth? By Allah, you shall never leave!'",
+        "bn": "তারা চিৎকার করে বলল: 'তুই কপর্দকহীন ভিখারী হয়ে মক্কায় এসেছিলি; তুই কি মনে করেছিস সমস্ত সম্পদ নিয়ে চলে যাবি? আল্লাহর শপথ, তা হতে দেওয়া হবে না!'",
+        "words": [
+          {
+            "en": "You arrived as a beggar",
+            "bn": "তুই ভিখারী হয়ে এসেছিলি"
+          },
+          {
+            "en": "leave with all your wealth",
+            "bn": "সমস্ত সম্পদ নিয়ে চলে যাবি"
+          },
+          {
+            "en": "By Allah you shall not leave",
+            "bn": "আল্লাহর কসম তোকে যেতে দেব না"
+          }
+        ]
       },
       {
-        "en": "What makes this migration utterly miraculous is that none of the butterflies making the trip have ever been to Mexico before.",
-        "bn": "সবচেয়ে অলৌকিক বিষয় হলো, এই দীর্ঘ যাত্রায় উড়ে চলা কোনো প্রজাপতিই এর আগে কখনো মেক্সিকোতে যায়নি।"
+        "en": "Standing atop a mound with his bow strung, Suhaib asked: 'If I surrender all my buried gold and silver to you, will you let me proceed?'",
+        "bn": "ধনুক হাতে এক টিলার ওপর দাঁড়িয়ে সুহাইব বললেন: 'আমি যদি মক্কায় লুকানো আমার সমস্ত সোনা-রূপা তোমাদের দিয়ে দিই, তবে কি আমাকে যেতে দেবে?'",
+        "words": [
+          {
+            "en": "Standing with bow strung",
+            "bn": "ধনুকে তীর পরিয়ে দাঁড়িয়ে"
+          },
+          {
+            "en": "If I surrender my gold",
+            "bn": "আমি যদি আমার স্বর্ণ সমর্পণ করি"
+          },
+          {
+            "en": "will you let me proceed",
+            "bn": "তোমরা কি আমাকে যেতে দেবে"
+          }
+        ]
       },
       {
-        "en": "They are the fourth generation descended from the ancestors who flew north the previous spring.",
-        "bn": "তারা হলো আগের বসন্তে উত্তরে উড়ে যাওয়া পূর্বপুরুষদের চতুর্থ প্রজন্মের বংশধর!"
+        "en": "Greedily agreeing, they took his detailed directions and seized all his riches, while Suhaib walked forward on foot happily toward Madinah.",
+        "bn": "লোভে পড়ে তারা রাজি হলো এবং মক্কার ঠিকানায় গিয়ে তাঁর সমস্ত ধনসম্পদ লুটে নিল, আর সুহাইব নিঃস্ব হলেও আনন্দভরা অন্তরে পায়ে হেঁটে মদিনার পথে চললেন।",
+        "words": [
+          {
+            "en": "Greedily agreeing",
+            "bn": "লোভভরে রাজি হয়ে"
+          },
+          {
+            "en": "seized all his riches",
+            "bn": "তাঁর সমস্ত ধন কেড়ে নিল"
+          },
+          {
+            "en": "walked forward happily",
+            "bn": "আনন্দে এগিয়ে চললেন"
+          }
+        ]
       },
       {
-        "en": "Yet, guided purely by genetic memory, they land upon the very same pine and fir trees that their great-grandparents occupied.",
-        "bn": "তবুও রক্তে লুকিয়ে থাকা গোপন নির্দেশনায় তারা মেক্সিকোর ঠিক সেই একই পাইন গাছের ডালে গিয়ে বসে যেখানে তাদের পূর্বপুরুষরা বসেছিল।"
+        "en": "When he arrived in Quba, the Prophet saw him coming and rejoiced, proclaiming: 'The trade has been profitable, O Abu Yahya! The trade has been profitable!'",
+        "bn": "তিনি যখন কুবায় পৌঁছালেন, রাসুলুল্লাহ ﷺ তাঁকে দেখে আনন্দে ঘোষণা করলেন: 'হে আবু ইয়াহইয়া! তোমার ব্যবসা লাভজনক হয়েছে! তোমার বাণিজ্য সফল হয়েছে!'",
+        "words": [
+          {
+            "en": "When he arrived in Quba",
+            "bn": "তিনি যখন কুবায় পৌঁছালেন"
+          },
+          {
+            "en": "the Prophet rejoiced",
+            "bn": "নবীজি আনন্দিত হলেন"
+          },
+          {
+            "en": "The trade has been profitable",
+            "bn": "ব্যবসা লাভজনক হয়েছে"
+          },
+          {
+            "en": "O Abu Yahya",
+            "bn": "হে আবু ইয়াহইয়া"
+          }
+        ]
       },
       {
-        "en": "The resilience and inherited wisdom woven into the fabric of life shows that nature's genius surpasses all human comprehension.",
-        "bn": "প্রকৃতির এই অপার সহ্যশক্তি এবং রক্তের ভেতর বয়ে চলা প্রজ্ঞা আমাদের স্মরণ করিয়ে দেয় যে সৃষ্টির রহস্য মানব বুদ্ধিরও অগম্য।"
+        "en": "Allah revealed concerning Suhaib: 'And of the people is he who sells himself, seeking the pleasure of Allah; and Allah is Most Kind to His servants.'",
+        "bn": "সুহাইবের শানে আল্লাহ পবিত্র কুরআনে আয়াত অবতীর্ণ করলেন: 'আর মানুষের মধ্যে এমনও ব্যক্তি আছে যে আল্লাহর সন্তুষ্টির জন্য নিজেকে উৎসর্গ করে; আর আল্লাহ তাঁর বান্দাদের প্রতি পরম দয়ার্দ্র।'",
+        "words": [
+          {
+            "en": "Allah revealed concerning him",
+            "bn": "আল্লাহ তাঁর ব্যাপারে নাযিল করলেন"
+          },
+          {
+            "en": "he who sells himself",
+            "bn": "যে নিজেকে বিক্রি করে দেয়"
+          },
+          {
+            "en": "seeking the pleasure of Allah",
+            "bn": "আল্লাহর সন্তুষ্টির অন্বেষণে"
+          },
+          {
+            "en": "Allah is Most Kind",
+            "bn": "আল্লাহ পরম দয়ালু"
+          }
+        ]
       }
     ]
   }

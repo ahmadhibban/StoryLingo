@@ -1,1126 +1,3637 @@
 [
   {
-    "id": "bio-newton-apple",
-    "title": "Isaac Newton and the Falling Apple",
-    "titleBn": "আইজ্যাক নিউটন এবং আপেল পড়ার গল্প",
-    "author": "Historical Biography",
+    "id": "prophet-adam-creation",
+    "title": "The Creation of Prophet Adam and the Divine Honor",
+    "titleBn": "হযরত আদম (আ.)-এর সৃষ্টি ও মর্যাদার অলৌকিক সূচনা",
+    "author": "Quranic Narrative (Surah Al-Baqarah)",
     "level": "Intermediate",
-    "category": "Inspiring Biography",
-    "coverEmoji": "🍎",
-    "summary": "How a curious young thinker observed a simple falling fruit and uncovered the universal law of gravity.",
-    "summaryBn": "কীভাবে এক কৌতূহলী তরুণ গাছ থেকে ফল পড়া দেখে পুরো মহাবিশ্বের মহাকর্ষ সূত্র আবিষ্কার করেছিলেন।",
+    "levelColor": "emerald",
+    "category": "Stories of the Prophets",
+    "coverEmoji": "🌍",
+    "summary": "The wondrous creation of the first human being, the bestowal of knowledge of all names, and the angelic prostration commanded by Allah.",
+    "summaryBn": "প্রথম মানব হযরত আদম (আ.)-এর সৃষ্টি, সমস্ত বস্তুর নাম ও জ্ঞানের মহিমা এবং আল্লাহর নির্দেশে ফেরেশতাদের সিজদার ঐতিহাসিক ঘটনা।",
     "sentences": [
       {
-        "en": "In the summer of 1665, a young Cambridge student named Isaac Newton returned to his quiet family farm.",
-        "bn": "১৬৬৫ সালের গ্রীষ্মে কেমব্রিজের এক তরুণ ছাত্র আইজ্যাক নিউটন তাঁর নিরিবিলি পারিবারিক খামারে ফিরে আসেন।"
+        "en": "Before the dawn of human history, Almighty Allah announced to the noble angels that He was placing a vicegerent on earth.",
+        "bn": "মানব ইতিহাসের সূচনার পূর্বে সর্বশক্তিমান আল্লাহ সম্মানিত ফেরেশতাদের জানালেন যে তিনি পৃথিবীতে একজন প্রতিনিধি প্রেরণ করতে যাচ্ছেন।",
+        "words": [
+          {
+            "en": "Before",
+            "bn": "পূর্বে"
+          },
+          {
+            "en": "the dawn",
+            "bn": "সূচনা / উষালগ্ন"
+          },
+          {
+            "en": "of human history",
+            "bn": "মানব ইতিহাসের"
+          },
+          {
+            "en": "Almighty Allah",
+            "bn": "সর্বশক্তিমান আল্লাহ"
+          },
+          {
+            "en": "announced",
+            "bn": "ঘোষণা করলেন / জানালেন"
+          },
+          {
+            "en": "to the noble angels",
+            "bn": "সম্মানিত ফেরেশতাদের নিকট"
+          },
+          {
+            "en": "that He was placing",
+            "bn": "যে তিনি স্থাপন করছেন"
+          },
+          {
+            "en": "a vicegerent",
+            "bn": "একজন প্রতিনিধি / খলিফা"
+          },
+          {
+            "en": "on earth",
+            "bn": "পৃথিবীতে"
+          }
+        ]
       },
       {
-        "en": "A terrible plague had spread across England, forcing universities to close their doors.",
-        "bn": "ইংল্যান্ডজুড়ে এক ভয়াবহ মহামারি ছড়িয়ে পড়েছিল, যার কারণে সব বিশ্ববিদ্যালয় বন্ধ ঘোষণা করা হয়।"
+        "en": "The angels humbly inquired whether this creation would shed blood while they constantly glorified Allah's perfection.",
+        "bn": "ফেরেশতারা বিনীতভাবে জানতে চাইলেন এমন কোনো সৃষ্টি পাঠানো হবে কি না যারা রক্তপাত ঘটাবে, অথচ তারা সর্বদা আল্লাহর পবিত্রতা ঘোষণা করে।",
+        "words": [
+          {
+            "en": "The angels",
+            "bn": "ফেরেশতারা"
+          },
+          {
+            "en": "humbly inquired",
+            "bn": "বিনীতভাবে জানতে চাইলেন"
+          },
+          {
+            "en": "whether this creation",
+            "bn": "এই সৃষ্টি কি না"
+          },
+          {
+            "en": "would shed blood",
+            "bn": "রক্তপাত ঘটাবে"
+          },
+          {
+            "en": "while they",
+            "bn": "যখন তারা"
+          },
+          {
+            "en": "constantly glorified",
+            "bn": "অবিরাম মহিমা ঘোষণা করে"
+          },
+          {
+            "en": "Allah's perfection",
+            "bn": "আল্লাহর নিখুঁত পবিত্রতার"
+          }
+        ]
       },
       {
-        "en": "One warm afternoon, Newton sat beneath an apple tree in the garden, thinking about the universe.",
-        "bn": "এক রোদঝলমলে বিকেলে নিউটন বাগানের একটি আপেল গাছের নিচে বসে মহাবিশ্ব নিয়ে গভীর চিন্তায় মগ্ন ছিলেন।"
+        "en": "Allah answered with profound majesty: 'Indeed, I know that which you do not know.'",
+        "bn": "আল্লাহ পরম মর্যাদার সাথে জবাব দিলেন: 'নিশ্চয়ই আমি তা জানি যা তোমরা জানো না।'",
+        "words": [
+          {
+            "en": "Allah answered",
+            "bn": "আল্লাহ জবাব দিলেন"
+          },
+          {
+            "en": "with profound majesty",
+            "bn": "পরম গাম্ভীর্যের সাথে"
+          },
+          {
+            "en": "Indeed",
+            "bn": "নিশ্চয়ই"
+          },
+          {
+            "en": "I know",
+            "bn": "আমি জানি"
+          },
+          {
+            "en": "that which",
+            "bn": "যা কিছু"
+          },
+          {
+            "en": "you do not know",
+            "bn": "তোমরা জানো না"
+          }
+        ]
       },
       {
-        "en": "Suddenly, a ripe apple detached from its branch and dropped straight to the ground beside him.",
-        "bn": "হঠাৎ ডাল থেকে একটি পাকা আপেল খসে তাঁর পাশেই মাটিতে সোজা নেমে পড়ল।"
+        "en": "Allah molded the form of Adam from diverse clays gathered from every corner of the earth.",
+        "bn": "আল্লাহ পৃথিবীর সমস্ত প্রান্ত থেকে সংগৃহীত বিভিন্ন ধরনের মাটির সংমিশ্রণে আদমের দেহ অবয়ব তৈরি করলেন।",
+        "words": [
+          {
+            "en": "Allah molded",
+            "bn": "আল্লাহ রূপ দান করলেন"
+          },
+          {
+            "en": "the form of Adam",
+            "bn": "আদমের দেহাবয়বকে"
+          },
+          {
+            "en": "from diverse clays",
+            "bn": "বিভিন্ন ধরণের মাটি থেকে"
+          },
+          {
+            "en": "gathered",
+            "bn": "সংগৃহীত"
+          },
+          {
+            "en": "from every corner",
+            "bn": "প্রতিটি কোণ থেকে"
+          },
+          {
+            "en": "of the earth",
+            "bn": "পৃথিবীর"
+          }
+        ]
       },
       {
-        "en": "Most people would simply eat the fruit, but Newton asked himself a profound question.",
-        "bn": "সাধারণ যে কেউ হলে হয়তো আপেলটি তুলে খেয়ে ফেলত, কিন্তু নিউটনের মনে এক গভীর প্রশ্নের উদয় হলো।"
+        "en": "When the divine soul was breathed into his noble body, Adam opened his eyes and sneezed.",
+        "bn": "যখন তাঁর সম্মানিত দেহে রূহ ফুঁকে দেওয়া হলো, তখন আদম চোখ মেলে তাকালেন এবং হাঁচি দিলেন।",
+        "words": [
+          {
+            "en": "When",
+            "bn": "যখন"
+          },
+          {
+            "en": "the divine soul",
+            "bn": "পবিত্র রূহ"
+          },
+          {
+            "en": "was breathed into",
+            "bn": "ফুঁকে দেওয়া হলো"
+          },
+          {
+            "en": "his noble body",
+            "bn": "তাঁর সম্মানিত দেহে"
+          },
+          {
+            "en": "Adam opened",
+            "bn": "আদম খুললেন"
+          },
+          {
+            "en": "his eyes",
+            "bn": "তাঁর চোখ দুটি"
+          },
+          {
+            "en": "and sneezed",
+            "bn": "এবং হাঁচি দিলেন"
+          }
+        ]
       },
       {
-        "en": "Why does the apple always fall straight toward the center of the Earth rather than sideways or upward?",
-        "bn": "আপেলটি ডানে-বামে বা উপরের দিকে না গিয়ে সবসময় কেন সোজা পৃথিবীর কেন্দ্রের দিকেই পড়ে?"
+        "en": "His very first spoken words were: 'Alhamdulillah' (All praise belongs to Allah).",
+        "bn": "তাঁর মুখের সর্বপ্রথম উচ্চারিত কথা ছিল: 'আলহামদুলিল্লাহ' (সমস্ত প্রশংসা একমাত্র আল্লাহর)।",
+        "words": [
+          {
+            "en": "His very first",
+            "bn": "তাঁর সর্বপ্রথম"
+          },
+          {
+            "en": "spoken words",
+            "bn": "উচ্চারিত কথা"
+          },
+          {
+            "en": "were",
+            "bn": "ছিল"
+          },
+          {
+            "en": "Alhamdulillah",
+            "bn": "আলহামদুলিল্লাহ"
+          },
+          {
+            "en": "All praise",
+            "bn": "সমস্ত প্রশংসা"
+          },
+          {
+            "en": "belongs to Allah",
+            "bn": "আল্লাহর জন্য"
+          }
+        ]
       },
       {
-        "en": "This single question led him to formulate the universal law of gravitation, explaining why planets orbit the sun.",
-        "bn": "এই একটি সাধারণ প্রশ্নই তাঁকে মহাকর্ষের বিশ্বজনীন সূত্র আবিষ্কারের পথ দেখায়, যা বোঝায় কেন গ্রহগুলো সূর্যের চারদিকে ঘোরে।"
+        "en": "Allah mercifully responded: 'May your Lord have mercy upon you, O Adam.'",
+        "bn": "আল্লাহ পরম দয়ায় প্রত্যুত্তর দিলেন: 'হে আদম, তোমার প্রতিপালক তোমার ওপর দয়া বর্ষণ করুন।'",
+        "words": [
+          {
+            "en": "Allah mercifully",
+            "bn": "আল্লাহ পরম দয়ার সাথে"
+          },
+          {
+            "en": "responded",
+            "bn": "জবাব দিলেন"
+          },
+          {
+            "en": "May your Lord",
+            "bn": "তোমার রব যেন"
+          },
+          {
+            "en": "have mercy upon you",
+            "bn": "তোমার প্রতি রহম করেন"
+          },
+          {
+            "en": "O Adam",
+            "bn": "হে আদম"
+          }
+        ]
       },
       {
-        "en": "Curiosity and deep contemplation can transform the simplest observation into a great scientific breakthrough.",
-        "bn": "কৌতূহল এবং গভীর চিন্তাভাবনা সাধারণ যেকোনো ঘটনাকেও একটি যুগান্তকারী বৈজ্ঞানিক আবিষ্কারে রূপ দিতে পারে।"
+        "en": "Then Almighty Allah directly taught Adam the names and deep natures of all existing things.",
+        "bn": "অতঃপর সর্বশক্তিমান আল্লাহ আদমকে সমস্ত বিদ্যমান বস্তুর নাম ও গভীর তত্ত্ব সরাসরি শিক্ষা দিলেন।",
+        "words": [
+          {
+            "en": "Then",
+            "bn": "এরপর"
+          },
+          {
+            "en": "Almighty Allah",
+            "bn": "সর্বশক্তিমান আল্লাহ"
+          },
+          {
+            "en": "directly taught",
+            "bn": "সরাসরি শিক্ষা দিলেন"
+          },
+          {
+            "en": "Adam",
+            "bn": "আদমকে"
+          },
+          {
+            "en": "the names",
+            "bn": "নামসমূহ"
+          },
+          {
+            "en": "and deep natures",
+            "bn": "ও গভীর তাৎপর্য"
+          },
+          {
+            "en": "of all existing things",
+            "bn": "সমস্ত বিদ্যমান জিনিসের"
+          }
+        ]
+      },
+      {
+        "en": "When Allah presented those creations to the angels, they acknowledged their lack of knowledge beyond what Allah taught them.",
+        "bn": "আল্লাহ যখন সেই সৃষ্টিগুলোকে ফেরেশতাদের সামনে উপস্থাপন করলেন, তারা স্বীকার করলেন আল্লাহ যা শিখিয়েছেন তার বাইরে তাদের কোনো জ্ঞান নেই।",
+        "words": [
+          {
+            "en": "When Allah presented",
+            "bn": "যখন আল্লাহ পেশ করলেন"
+          },
+          {
+            "en": "those creations",
+            "bn": "সেই সৃষ্টিগুলোকে"
+          },
+          {
+            "en": "to the angels",
+            "bn": "ফেরেশতাদের কাছে"
+          },
+          {
+            "en": "they acknowledged",
+            "bn": "তারা স্বীকার করলেন"
+          },
+          {
+            "en": "their lack of knowledge",
+            "bn": "তাদের জ্ঞানের সীমাবদ্ধতা"
+          },
+          {
+            "en": "beyond what",
+            "bn": "তার বাইরে যা"
+          },
+          {
+            "en": "Allah taught them",
+            "bn": "আল্লাহ তাদের শিখিয়েছেন"
+          }
+        ]
+      },
+      {
+        "en": "Adam then effortlessly named every single creation before the assembled host of heaven.",
+        "bn": "তখন আদম জান্নাতের সমবেত ফেরেশতাদের সামনে অতি অনায়াসে প্রতিটি সৃষ্টির নাম এক এক করে বলে দিলেন।",
+        "words": [
+          {
+            "en": "Adam then",
+            "bn": "তখন আদম"
+          },
+          {
+            "en": "effortlessly named",
+            "bn": "অনায়াসে নাম বলে দিলেন"
+          },
+          {
+            "en": "every single creation",
+            "bn": "প্রতিটি একক সৃষ্টির"
+          },
+          {
+            "en": "before",
+            "bn": "সামনে"
+          },
+          {
+            "en": "the assembled host",
+            "bn": "সমবেত দল"
+          },
+          {
+            "en": "of heaven",
+            "bn": "আসমানের"
+          }
+        ]
+      },
+      {
+        "en": "Recognizing humanity's endowed intellect, Allah commanded all angels to prostrate in respect before Adam.",
+        "bn": "মানুষের এই অনন্য বুদ্ধিবৃত্তিক মর্যাদা দেখে আল্লাহ সমস্ত ফেরেশতাদের নির্দেশ দিলেন আদমের প্রতি সম্মানের সিজদা করতে।",
+        "words": [
+          {
+            "en": "Recognizing",
+            "bn": "অনুধাবন করে"
+          },
+          {
+            "en": "humanity's endowed intellect",
+            "bn": "মানুষের প্রদত্ত বুদ্ধি ও জ্ঞান"
+          },
+          {
+            "en": "Allah commanded",
+            "bn": "আল্লাহ নির্দেশ দিলেন"
+          },
+          {
+            "en": "all angels",
+            "bn": "সমস্ত ফেরেশতাদের"
+          },
+          {
+            "en": "to prostrate",
+            "bn": "সিজদা করতে"
+          },
+          {
+            "en": "in respect",
+            "bn": "সম্মান প্রদর্শনার্থে"
+          },
+          {
+            "en": "before Adam",
+            "bn": "আদমের সামনে"
+          }
+        ]
+      },
+      {
+        "en": "Every angel obeyed immediately, except Iblis, who swelled with envious arrogance.",
+        "bn": "প্রত্যেক ফেরেশতা সাথে সাথে অনুগত হয়ে সিজদা করলেন, কেবল ইবলিস ছাড়া, যে হিংসা ও অহংকারে স্ফীত হয়ে উঠেছিল।",
+        "words": [
+          {
+            "en": "Every angel",
+            "bn": "প্রতিটি ফেরেশতা"
+          },
+          {
+            "en": "obeyed immediately",
+            "bn": "তৎক্ষণাৎ মেনে নিলেন"
+          },
+          {
+            "en": "except Iblis",
+            "bn": "ইবলিস ছাড়া"
+          },
+          {
+            "en": "who swelled",
+            "bn": "যে দাম্ভিক হয়ে উঠল"
+          },
+          {
+            "en": "with envious arrogance",
+            "bn": "ঈর্ষাপূর্ণ অহংকারে"
+          }
+        ]
+      },
+      {
+        "en": "Iblis claimed superiority because he was fashioned from fire while Adam was created from clay.",
+        "bn": "ইবলিস দাবি করল সে শ্রেষ্ঠ কারণ তাকে আগুন থেকে তৈরি করা হয়েছে আর আদমকে তৈরি করা হয়েছে মাটি থেকে।",
+        "words": [
+          {
+            "en": "Iblis claimed",
+            "bn": "ইবলিস দাবি করল"
+          },
+          {
+            "en": "superiority",
+            "bn": "শ্রেষ্ঠত্ব"
+          },
+          {
+            "en": "because",
+            "bn": "কারণ"
+          },
+          {
+            "en": "he was fashioned",
+            "bn": "তাকে তৈরি করা হয়েছিল"
+          },
+          {
+            "en": "from fire",
+            "bn": "আগুন থেকে"
+          },
+          {
+            "en": "while Adam",
+            "bn": "যেখানে আদমকে"
+          },
+          {
+            "en": "was created",
+            "bn": "সৃষ্টি করা হয়েছিল"
+          },
+          {
+            "en": "from clay",
+            "bn": "মাটি থেকে"
+          }
+        ]
+      },
+      {
+        "en": "Due to his rebellious pride, Iblis was cast out of Paradise as an outcast until the Day of Resurrection.",
+        "bn": "তার উদ্ধত অহংকারের কারণে ইবলিসকে জান্নাত থেকে বিতাড়িত ও কেয়ামত পর্যন্ত অভিশপ্ত করা হলো।",
+        "words": [
+          {
+            "en": "Due to",
+            "bn": "কারণে"
+          },
+          {
+            "en": "his rebellious pride",
+            "bn": "তার অবাধ্য অহংকারের"
+          },
+          {
+            "en": "Iblis was cast out",
+            "bn": "ইবলিস বিতাড়িত হলো"
+          },
+          {
+            "en": "of Paradise",
+            "bn": "জান্নাত থেকে"
+          },
+          {
+            "en": "as an outcast",
+            "bn": "অভিশপ্ত বিতাড়িত হিসেবে"
+          },
+          {
+            "en": "until the Day",
+            "bn": "সেই দিবস পর্যন্ত"
+          },
+          {
+            "en": "of Resurrection",
+            "bn": "পুনরুত্থানের"
+          }
+        ]
+      },
+      {
+        "en": "This historic event demonstrates that true nobility lies not in lineage or origin, but in humility, knowledge, and obedience to Allah.",
+        "bn": "এই ঐতিহাসিক ঘটনা প্রমাণ করে যে প্রকৃত মর্যাদা কোনো বংশ বা উপাদানে নয়, বরং বিনয়, জ্ঞান ও আল্লাহর আনুগত্যের মধ্যেই নিহিত।",
+        "words": [
+          {
+            "en": "This historic event",
+            "bn": "এই ঐতিহাসিক ঘটনা"
+          },
+          {
+            "en": "demonstrates",
+            "bn": "প্রমাণ করে / দেখিয়ে দেয়"
+          },
+          {
+            "en": "that true nobility",
+            "bn": "যে আসল আভিজাত্য"
+          },
+          {
+            "en": "lies not in lineage",
+            "bn": "বংশে নিহিত নয়"
+          },
+          {
+            "en": "or origin",
+            "bn": "বা উৎপত্তিতে"
+          },
+          {
+            "en": "but in humility",
+            "bn": "বরং বিনয়ে"
+          },
+          {
+            "en": "knowledge",
+            "bn": "জ্ঞানে"
+          },
+          {
+            "en": "and obedience",
+            "bn": "ও আনুগত্যে"
+          },
+          {
+            "en": "to Allah",
+            "bn": "আল্লাহর প্রতি"
+          }
+        ]
       }
     ]
   },
   {
-    "id": "bio-edison-lightbulb",
-    "title": "Thomas Edison and the Thousand Failures",
-    "titleBn": "টমাস এডিসন এবং হাজার ব্যর্থতার পাঠ",
-    "author": "Historical Biography",
+    "id": "prophet-adam-earth",
+    "title": "Prophet Adam and Hawwa: The Divine Test and Descent to Earth",
+    "titleBn": "হযরত আদম ও হাওয়া (আ.): জান্নাতের পরীক্ষা ও পৃথিবীতে আগমন",
+    "author": "Quranic Narrative (Surah Al-A'raf)",
     "level": "Intermediate",
-    "category": "Inspiring Biography",
-    "coverEmoji": "💡",
-    "summary": "Edison demonstrates how patience and perseverance turn countless failed attempts into world-changing success.",
-    "summaryBn": "এডিসন দেখিয়েছেন কীভাবে ধৈর্য এবং নিরলস পরিশ্রম অসংখ্য ব্যর্থতাকেও বিশ্বজয়ী সাফল্যে রূপান্তর করে।",
+    "levelColor": "amber",
+    "category": "Stories of the Prophets",
+    "coverEmoji": "🌱",
+    "summary": "The test in the Garden of Bliss, the deceitful whispering of Iblis, and the sincere repentance that restored divine mercy.",
+    "summaryBn": "জান্নাতের নেয়ামতপূর্ণ উদ্যানের পরীক্ষা, ইবলিসের প্রতারণাপূর্ণ প্রবঞ্চনা এবং অনুতপ্ত তওবার মাধ্যমে আল্লাহর ক্ষমার অনুপম ইতিহাস।",
     "sentences": [
       {
-        "en": "Thomas Edison wanted to invent a practical electric incandescent lamp that could illuminate every home safely.",
-        "bn": "টমাস এডিসন এমন একটি বৈদ্যুতিক বাতি আবিষ্কার করতে চেয়েছিলেন যা প্রতিটি ঘরে নিরাপদে আলো ছড়াতে পারে।"
+        "en": "Adam and his spouse Hawwa lived in the boundless delights of Paradise, where hunger and sorrow did not exist.",
+        "bn": "আদম এবং তাঁর সহধর্মিনী হাওয়া জান্নাতের অফুরন্ত নিয়ামতের মাঝে বাস করতেন, যেখানে কোনো ক্ষুধা বা দুঃখের অস্তিত্ব ছিল না।",
+        "words": [
+          {
+            "en": "Adam and his spouse",
+            "bn": "আদম ও তাঁর স্ত্রী"
+          },
+          {
+            "en": "Hawwa",
+            "bn": "হাওয়া"
+          },
+          {
+            "en": "lived in",
+            "bn": "বাস করতেন"
+          },
+          {
+            "en": "the boundless delights",
+            "bn": "অফুরন্ত আনন্দের মাঝে"
+          },
+          {
+            "en": "of Paradise",
+            "bn": "জান্নাতের"
+          },
+          {
+            "en": "where hunger",
+            "bn": "যেখানে ক্ষুধা"
+          },
+          {
+            "en": "and sorrow",
+            "bn": "ও দুঃখ-কষ্ট"
+          },
+          {
+            "en": "did not exist",
+            "bn": "ছিল না"
+          }
+        ]
       },
       {
-        "en": "Finding the right material for the delicate filament inside the bulb proved to be an enormous challenge.",
-        "bn": "বাল্বের ভিতরের সূক্ষ্ম ফিলামেন্টের জন্য সঠিক উপাদান খুঁজে পাওয়া এক বিশাল চ্যালেঞ্জ হয়ে দাঁড়িয়েছিল।"
+        "en": "Allah granted them permission to eat freely from all trees except for one specific forbidden tree.",
+        "bn": "আল্লাহ তাঁদের একটি নির্দিষ্ট নিষিদ্ধ গাছ ছাড়া জান্নাতের সমস্ত ফল ইচ্ছামতো খাওয়ার অনুমতি দিয়েছিলেন।",
+        "words": [
+          {
+            "en": "Allah granted them",
+            "bn": "আল্লাহ তাঁদের দান করলেন"
+          },
+          {
+            "en": "permission",
+            "bn": "অনুমতি"
+          },
+          {
+            "en": "to eat freely",
+            "bn": "অবাধে খেতে"
+          },
+          {
+            "en": "from all trees",
+            "bn": "সমস্ত গাছ থেকে"
+          },
+          {
+            "en": "except for one",
+            "bn": "একটি ব্যতীত"
+          },
+          {
+            "en": "specific forbidden tree",
+            "bn": "নির্দিষ্ট নিষিদ্ধ গাছ"
+          }
+        ]
       },
       {
-        "en": "His team tested over thousands of different materials, including platinum, bamboo, cotton, and human hair.",
-        "bn": "তাঁর দল প্ল্যাটিনাম, বাঁশ, সুতি সুতো এমনকি মানুষের চুলসহ হাজার হাজার বিভিন্ন উপাদান দিয়ে পরীক্ষা চালিয়েছিল।"
+        "en": "Iblis lurked with burning jealousy, seeking an opportunity to strip them of their honorable garments.",
+        "bn": "ইবলিস তীব্র হিংসা নিয়ে সুযোগের সন্ধানে ওঁত পেতে রইল, যাতে তাঁদের মর্যাদাপূর্ণ জান্নাতী পোশাক খসিয়ে দিতে পারে।",
+        "words": [
+          {
+            "en": "Iblis lurked",
+            "bn": "ইবলিস ওঁত পেতে রইল"
+          },
+          {
+            "en": "with burning jealousy",
+            "bn": "জ্বলন্ত হিংসার সাথে"
+          },
+          {
+            "en": "seeking an opportunity",
+            "bn": "একটি সুযোগের সন্ধানে"
+          },
+          {
+            "en": "to strip them",
+            "bn": "তাঁদের বঞ্চিত করতে"
+          },
+          {
+            "en": "of their honorable garments",
+            "bn": "তাঁদের মর্যাদাপূর্ণ পোশাক থেকে"
+          }
+        ]
       },
       {
-        "en": "Every material they tried burned out in mere minutes, leaving the laboratory in total darkness.",
-        "bn": "প্রতিটি উপাদানই মাত্র কয়েক মিনিটের মধ্যে পুড়ে যেত এবং পুরো গবেষণাগার আবার অন্ধকারে ডুবে যেত।"
+        "en": "He swore deceitful oaths, whispering that eating from the forbidden tree would make them immortal like angels.",
+        "bn": "সে মিথ্যা শপথ করে ফিসফিসিয়ে প্ররোচনা দিল যে নিষিদ্ধ গাছের ফল খেলে তাঁরা ফেরেশতাদের মতো চিরঞ্জীব হয়ে যাবেন।",
+        "words": [
+          {
+            "en": "He swore",
+            "bn": "সে কসম খেল"
+          },
+          {
+            "en": "deceitful oaths",
+            "bn": "প্রতারণামূলক শপথ"
+          },
+          {
+            "en": "whispering",
+            "bn": "কুমন্ত্রণা দিয়ে"
+          },
+          {
+            "en": "that eating",
+            "bn": "যে ফল খাওয়া"
+          },
+          {
+            "en": "from the forbidden tree",
+            "bn": "নিষিদ্ধ গাছ থেকে"
+          },
+          {
+            "en": "would make them",
+            "bn": "তাঁদের বানিয়ে দেবে"
+          },
+          {
+            "en": "immortal",
+            "bn": "অমর / চিরঞ্জীব"
+          },
+          {
+            "en": "like angels",
+            "bn": "ফেরেশতাদের মতো"
+          }
+        ]
       },
       {
-        "en": "A young reporter asked Edison if he felt discouraged after failing more than a thousand times.",
-        "bn": "এক তরুণ সাংবাদিক এডিসনকে জিজ্ঞেস করলেন, হাজার বার ব্যর্থ হওয়ার পর তাঁর কি হতাশা লাগে না?"
+        "en": "Trusting his swearing by Allah's name, they tasted the fruit and immediately became aware of their vulnerability.",
+        "bn": "আল্লাহর নামে শপথ করায় তাকে সরলভাবে বিশ্বাস করে তাঁরা ফলটি আস্বাদন করলেন এবং তৎক্ষণাৎ তাঁদের লজ্জা প্রকাশ পেয়ে গেল।",
+        "words": [
+          {
+            "en": "Trusting",
+            "bn": "বিশ্বাস করে"
+          },
+          {
+            "en": "his swearing",
+            "bn": "তার শপথকে"
+          },
+          {
+            "en": "by Allah's name",
+            "bn": "আল্লাহর নামে"
+          },
+          {
+            "en": "they tasted",
+            "bn": "তাঁরা খেলেন"
+          },
+          {
+            "en": "the fruit",
+            "bn": "ফলটি"
+          },
+          {
+            "en": "and immediately",
+            "bn": "এবং সাথে সাথে"
+          },
+          {
+            "en": "became aware",
+            "bn": "সচেতন হলেন"
+          },
+          {
+            "en": "of their vulnerability",
+            "bn": "তাঁদের উন্মুক্ত অবস্থার বিষয়ে"
+          }
+        ]
       },
       {
-        "en": "Edison smiled and replied, 'I have not failed a thousand times; I have successfully discovered a thousand ways that will not work.'",
-        "bn": "এডিসন হেসে উত্তর দিলেন, 'আমি হাজার বার ব্যর্থ হইনি; বরং আমি সাফল্যের সাথে এমন হাজারটি উপায় খুঁজে পেয়েছি যা কাজ করে না।'"
+        "en": "In deep remorse, they swiftly gathered large leaves from the garden to cover themselves.",
+        "bn": "গভীর অনুশোচনায় তাঁরা জান্নাতের গাছের বড় বড় পাতা দিয়ে নিজেদের লজ্জা ঢাকতে লাগলেন।",
+        "words": [
+          {
+            "en": "In deep remorse",
+            "bn": "গভীর অনুতাপে"
+          },
+          {
+            "en": "they swiftly gathered",
+            "bn": "তাঁরা দ্রুত সংগ্রহ করলেন"
+          },
+          {
+            "en": "large leaves",
+            "bn": "বড় বড় পাতা"
+          },
+          {
+            "en": "from the garden",
+            "bn": "বাগান থেকে"
+          },
+          {
+            "en": "to cover themselves",
+            "bn": "নিজেদের আবৃত করতে"
+          }
+        ]
       },
       {
-        "en": "Eventually, carbonized bamboo filament burned brightly for over forty hours, ushering in a new age of electric light.",
-        "bn": "অবশেষে কার্বনাইজড বাঁশের ফিলামেন্ট একটানা চল্লিশ ঘণ্টারও বেশি সময় আলো ছড়াতে সক্ষম হয় এবং শুরু হয় বৈদ্যুতিক আলোর নতুন যুগ।"
+        "en": "Their Lord called to them gently: 'Did I not forbid you from that tree and warn you that Satan is an open enemy?'",
+        "bn": "তাঁদের প্রতিপালক তাঁদের ভালোবেসে ডাকলেন: 'আমি কি তোমাদের ঐ গাছ থেকে নিষেধ করিনি এবং সতর্ক করিনি যে শয়তান তোমাদের প্রকাশ্য শত্রু?'",
+        "words": [
+          {
+            "en": "Their Lord",
+            "bn": "তাঁদের রব"
+          },
+          {
+            "en": "called to them gently",
+            "bn": "স্নেহের সাথে ডাকলেন"
+          },
+          {
+            "en": "Did I not forbid you",
+            "bn": "আমি কি নিষেধ করিনি"
+          },
+          {
+            "en": "from that tree",
+            "bn": "ঐ গাছটি থেকে"
+          },
+          {
+            "en": "and warn you",
+            "bn": "এবং সতর্ক করিনি"
+          },
+          {
+            "en": "that Satan",
+            "bn": "যে শয়তান"
+          },
+          {
+            "en": "is an open enemy",
+            "bn": "এক প্রকাশ্য শত্রু"
+          }
+        ]
       },
       {
-        "en": "Real failure only occurs when a person decides to stop trying completely.",
-        "bn": "প্রকৃত ব্যর্থতা তখনই ঘটে যখন একজন মানুষ পুরোপুরি চেষ্টা করা ছেড়ে দেয়।"
+        "en": "Unlike the arrogant Iblis who justified his sin, Adam and Hawwa wept bitterly and begged for forgiveness.",
+        "bn": "অহংকারী ইবলিস যেমন তার ভুলের পক্ষে কুযুক্তি দিয়েছিল, তেমন না করে আদম ও হাওয়া কাঁদতে কাঁদতে ক্ষমার ভিক্ষা চাইলেন।",
+        "words": [
+          {
+            "en": "Unlike",
+            "bn": "ভিন্নভাবে / বিপরীত"
+          },
+          {
+            "en": "the arrogant Iblis",
+            "bn": "দাম্ভিক ইবলিসের"
+          },
+          {
+            "en": "who justified",
+            "bn": "যে সাফাই গেয়েছিল"
+          },
+          {
+            "en": "his sin",
+            "bn": "তার পাপের"
+          },
+          {
+            "en": "Adam and Hawwa",
+            "bn": "আদম ও হাওয়া"
+          },
+          {
+            "en": "wept bitterly",
+            "bn": "কাতরভাবে কাঁদলেন"
+          },
+          {
+            "en": "and begged",
+            "bn": "এবং প্রার্থনা করলেন"
+          },
+          {
+            "en": "for forgiveness",
+            "bn": "ক্ষমার জন্য"
+          }
+        ]
+      },
+      {
+        "en": "They cried out the timeless prayer: 'Our Lord! We have wronged ourselves; if You do not forgive us and have mercy upon us, we shall surely be among the losers.'",
+        "bn": "তাঁরা চিরন্তন দোয়া পাঠ করলেন: 'হে আমাদের পালনকর্তা! আমরা নিজেদের প্রতি জুলুম করেছি; আপনি যদি আমাদের ক্ষমা না করেন এবং দয়া না করেন, তবে নিশ্চয়ই আমরা ক্ষতিগ্রস্তদের অন্তর্ভুক্ত হব।'",
+        "words": [
+          {
+            "en": "They cried out",
+            "bn": "তাঁরা আকুল হয়ে বললেন"
+          },
+          {
+            "en": "the timeless prayer",
+            "bn": "চিরন্তন সেই দোয়া"
+          },
+          {
+            "en": "Our Lord",
+            "bn": "হে আমাদের রব"
+          },
+          {
+            "en": "We have wronged ourselves",
+            "bn": "আমরা নিজেদের প্রতি অন্যায় করেছি"
+          },
+          {
+            "en": "if You do not forgive us",
+            "bn": "আপনি যদি আমাদের ক্ষমা না করেন"
+          },
+          {
+            "en": "and have mercy upon us",
+            "bn": "এবং আমাদের ওপর রহম না করেন"
+          },
+          {
+            "en": "we shall surely be",
+            "bn": "আমরা অবশ্যই হব"
+          },
+          {
+            "en": "among the losers",
+            "bn": "ক্ষতিগ্রস্তদের অন্তর্ভুক্ত"
+          }
+        ]
+      },
+      {
+        "en": "Allah taught Adam words of heartfelt repentance and accepted their sincere plea with infinite grace.",
+        "bn": "আল্লাহ আদমকে অন্তর থেকে তওবা করার কিছু অমূল্য বাক্য শিখিয়ে দিলেন এবং পরম করুণায় তাঁদের তওবা কবুল করে নিলেন।",
+        "words": [
+          {
+            "en": "Allah taught",
+            "bn": "আল্লাহ শিখিয়ে দিলেন"
+          },
+          {
+            "en": "Adam",
+            "bn": "আদমকে"
+          },
+          {
+            "en": "words of heartfelt repentance",
+            "bn": "আন্তরিক তওবার কিছু বাক্য"
+          },
+          {
+            "en": "and accepted",
+            "bn": "এবং গ্রহণ করলেন"
+          },
+          {
+            "en": "their sincere plea",
+            "bn": "তাঁদের বিনীত মিনতি"
+          },
+          {
+            "en": "with infinite grace",
+            "bn": "অসীম অনুগ্রহের সাথে"
+          }
+        ]
+      },
+      {
+        "en": "Allah then decreed that humanity would reside on earth for an appointed term to be tested in faith and deed.",
+        "bn": "আল্লাহ তখন নির্ধারণ করলেন মানবজাতি একটি নির্দিষ্ট সময়ের জন্য পৃথিবীতে বাস করবে, যেখানে বিশ্বাস ও সৎকাজের মাধ্যমে তাদের পরীক্ষা হবে।",
+        "words": [
+          {
+            "en": "Allah then decreed",
+            "bn": "আল্লাহ তখন ফয়সালা দিলেন"
+          },
+          {
+            "en": "that humanity",
+            "bn": "যে মানবজাতি"
+          },
+          {
+            "en": "would reside",
+            "bn": "বসবাস করবে"
+          },
+          {
+            "en": "on earth",
+            "bn": "পৃথিবীর বুকে"
+          },
+          {
+            "en": "for an appointed term",
+            "bn": "এক নির্ধারিত মেয়াদের জন্য"
+          },
+          {
+            "en": "to be tested",
+            "bn": "পরীক্ষিত হতে"
+          },
+          {
+            "en": "in faith and deed",
+            "bn": "ঈমান ও সৎকাজে"
+          }
+        ]
+      },
+      {
+        "en": "He promised that whoever follows divine guidance would never experience fear or everlasting sorrow.",
+        "bn": "তিনি প্রতিশ্রুতি দিলেন যে যারাই আল্লাহর পথনির্দেশ অনুসরণ করবে, তাদের কোনো ভয় থাকবে না এবং তারা চিরদুঃখীও হবে না।",
+        "words": [
+          {
+            "en": "He promised",
+            "bn": "তিনি প্রতিশ্রুতি দিলেন"
+          },
+          {
+            "en": "that whoever follows",
+            "bn": "যে কেউ অনুসরণ করবে"
+          },
+          {
+            "en": "divine guidance",
+            "bn": "ঐশী পথনির্দেশ"
+          },
+          {
+            "en": "would never experience",
+            "bn": "কখনই অনুভব করবে না"
+          },
+          {
+            "en": "fear",
+            "bn": "ভয়"
+          },
+          {
+            "en": "or everlasting sorrow",
+            "bn": "কিংবা চিরস্থায়ী দুঃখ"
+          }
+        ]
       }
     ]
   },
   {
-    "id": "bio-abraham-lincoln",
-    "title": "Abraham Lincoln and the Borrowed Book",
-    "titleBn": "আব্রাহাম লিংকন এবং ধার করা বই",
-    "author": "Historical Biography",
+    "id": "prophet-idris-wisdom",
+    "title": "Prophet Idris: The Pioneer of Pen, Astronomy, and Wisdom",
+    "titleBn": "হযরত ইদ্রিস (আ.): কলম, জ্যোতির্বিজ্ঞান ও জ্ঞানের পথিকৃৎ",
+    "author": "Islamic History & Classical Exegesis",
     "level": "Intermediate",
-    "category": "Inspiring Biography",
-    "coverEmoji": "📖",
-    "summary": "A young boy in a humble log cabin works tirelessly to protect his integrity and love for learning.",
-    "summaryBn": "একটি ভাঙাচোরা কাঠের ঘরে বেড়ে ওঠা এক কিশোর কীভাবে নিজের সততা এবং জ্ঞান অর্জনের তীব্র তৃষ্ণা ধরে রেখেছিল।",
-    "sentences": [
-      {
-        "en": "Long before he became President of the United States, young Abraham Lincoln lived in a small log cabin in Indiana.",
-        "bn": "যুক্তরাষ্ট্রের প্রেসিডেন্ট হওয়ার অনেক আগে তরুণ আব্রাহাম লিংকন ইন্ডিয়ানার একটি ছোট কাঠের ঘরে বাস করতেন।"
-      },
-      {
-        "en": "His family was extremely poor, and books were rare treasures that could not easily be purchased.",
-        "bn": "তাঁদের পরিবার ছিল অত্যন্ত দরিদ্র, আর বই ছিল এমন দুর্লভ সম্পদ যা চাইলেই কেনা যেত না।"
-      },
-      {
-        "en": "Abe walked miles through dense forests just to borrow a precious biography of George Washington from a neighbor.",
-        "bn": "এক প্রতিবেশীর কাছ থেকে জর্জ ওয়াশিংটনের অমূল্য জীবনী বইটি ধার করার জন্য লিংকন মাইলের পর মাইল ঘন বন পেরিয়ে হেঁটে যেতেন।"
-      },
-      {
-        "en": "He read by the soft glow of the fireplace late at night after long hours of chopping wood.",
-        "bn": "সারাদিন কাঠ কাটার পর গভীর রাতে তিনি চুলার আগুনের মৃদু আলোতে বসে সেই বই পড়তেন।"
-      },
-      {
-        "en": "One stormy evening, rainwater leaked through a crack in the wooden roof and thoroughly soaked the borrowed book.",
-        "bn": "এক ঝড়ের রাতে কাঠের ছাদের ফাঁক গলে বৃষ্টির পানি পড়ে ধার করা প্রিয় বইটি পুরো ভিজে নষ্ট হয়ে গেল।"
-      },
-      {
-        "en": "Though terrified, young Abe immediately visited the neighbor and honestly admitted what had happened.",
-        "bn": "ভয় পেলেও তরুণ লিংকন তৎক্ষণাৎ প্রতিবেশীর কাছে গিয়ে সততার সাথে সবকিছু খুলে বললেন।"
-      },
-      {
-        "en": "He offered to work hard in the neighbor's cornfield for three full days to repay the cost of the damaged book.",
-        "bn": "ক্ষতিগ্রস্ত বইটির ক্ষতিপূরণ দিতে তিনি প্রতিবেশীর ভুট্টার জমিতে টানা তিন দিন বিনামূল্যে কাজ করার প্রস্তাব দিলেন।"
-      },
-      {
-        "en": "Impressed by the boy's honesty and integrity, the neighbor praised him and allowed him to keep the book forever.",
-        "bn": "ছেলেটির সততা ও নিষ্ঠায় মুগ্ধ হয়ে সেই প্রতিবেশী তাঁর প্রশংসা করলেন এবং বইটি তাঁকে উপহার হিসেবে রেখে দিতে বললেন।"
-      }
-    ]
-  },
-  {
-    "id": "bio-helen-keller",
-    "title": "Helen Keller and the Miracle of Water",
-    "titleBn": "হেলেন কেলার এবং পানির অলৌকিক স্পর্শ",
-    "author": "Historical Biography",
-    "level": "Intermediate",
-    "category": "Inspiring Biography",
-    "coverEmoji": "💧",
-    "summary": "How a dedicated teacher helped a deaf and blind girl unlock the power of language and communication.",
-    "summaryBn": "কীভাবে এক নিবেদিতপ্রাণ শিক্ষিকা অন্ধ ও বধির এক কিশোরীকে ভাষা এবং যোগাযোগের দরজা খুলে দিয়েছিলেন।",
-    "sentences": [
-      {
-        "en": "When Helen Keller was just nineteen months old, a severe illness left her completely blind and deaf.",
-        "bn": "হেলেন কেলারের বয়স যখন মাত্র উনিশ মাস, তখন এক কঠিন অসুখে তিনি চিরতরে অন্ধ ও বধির হয়ে যান।"
-      },
-      {
-        "en": "Unable to see or hear the world around her, she lived in complete darkness and intense frustration.",
-        "bn": "চারপাশের পৃথিবী দেখতে বা শুনতে না পেয়ে তিনি গভীর অন্ধকার এবং তীব্র একাকিত্বে দিন কাটাতে থাকেন।"
-      },
-      {
-        "en": "Everything changed when a compassionate young teacher named Anne Sullivan arrived at her family home.",
-        "bn": "কিন্তু সবকিছু বদলে গেল যখন অ্যান সুলিভান নামের এক স্নেহময়ী তরুণ শিক্ষিকা তাঁদের বাড়িতে এলেন।"
-      },
-      {
-        "en": "Anne patiently spelled out words on Helen's palm using manual sign language, but Helen struggled to understand.",
-        "bn": "অ্যান পরম ধৈর্য নিয়ে হেলেনের হাতের তালুতে সাংকেতিক ভাষায় বিভিন্ন শব্দ লিখে দিতেন, কিন্তু হেলেন তার অর্থ বুঝতে পারতেন না।"
-      },
-      {
-        "en": "One spring day, Anne brought Helen outside to a water pump in the warm sunshine.",
-        "bn": "বসন্তের এক সকালে অ্যান হেলেনকে বাগানের পানির পাম্পের কাছে রোদের মধ্যে নিয়ে গেলেন।"
-      },
-      {
-        "en": "As cool water poured over one hand, Anne rapidly spelled the letters W-A-T-E-R on Helen's other hand.",
-        "bn": "যখন এক হাতে শীতল পানি বয়ে যাচ্ছিল, তখন অ্যান দ্রুত হেলেনের অন্য হাতের তালুতে ডব্লিউ-এ-টি-ই-আর লিখে দিলেন।"
-      },
-      {
-        "en": "Suddenly, a spark of understanding illuminated Helen's mind: that cool, flowing sensation had a specific name.",
-        "bn": "মুহূর্তেই হেলেনের মনে এক বিস্ময়কর উপলব্ধি জেগে উঠল: এই ঠান্ডা বয়ে চলা অনুভূতির একটি নির্দিষ্ট নাম আছে।"
-      },
-      {
-        "en": "That breakthrough opened the gates of knowledge, enabling Helen to eventually write books and inspire millions globally.",
-        "bn": "সেই একটি মুহূর্ত তাঁর জ্ঞানের পথ উন্মুক্ত করে দেয়, যার ফলে হেলেন পরবর্তীতে বই লিখে বিশ্বজুড়ে কোটি মানুষকে অনুপ্রাণিত করতে পেরেছিলেন।"
-      }
-    ]
-  },
-  {
-    "id": "bio-florence-nightingale",
-    "title": "Florence Nightingale: The Lady with the Lamp",
-    "titleBn": "ফ্লোরেন্স নাইটিঙ্গেল: প্রদীপ হাতে সেই সেবিকা",
-    "author": "Historical Biography",
-    "level": "Intermediate",
-    "category": "Inspiring Biography",
-    "coverEmoji": "🕯️",
-    "summary": "A compassionate woman defies high society to bring clean, humane medical care to wounded soldiers.",
-    "summaryBn": "উচ্চবিত্ত সমাজের প্রাচুর্য ছেড়ে এক সহানুভূতিশীল নারী কীভাবে আহত সৈন্যদের মানবিক ও পরিচ্ছন্ন সেবায় জীবন উৎসর্গ করেছিলেন।",
-    "sentences": [
-      {
-        "en": "Florence Nightingale was born into a wealthy British family that expected her to live a comfortable, quiet life.",
-        "bn": "ফ্লোরেন্স নাইটিঙ্গেল এমন এক ধনী ব্রিটিশ পরিবারে জন্ম নিয়েছিলেন যারা চেয়েছিল তিনি একটি আরামদায়ক ও বিলাসী জীবন কাটাবেন।"
-      },
-      {
-        "en": "However, Florence felt a deep moral calling to care for the sick, poor, and suffering.",
-        "bn": "কিন্তু ফ্লোরেন্স মনে মনে অসুস্থ, দরিদ্র এবং অসহায় মানুষদের সেবা করার এক তীব্র টান অনুভব করতেন।"
-      },
-      {
-        "en": "When the Crimean War broke out, reports revealed that wounded soldiers were dying rapidly from dirty military hospitals.",
-        "bn": "ক্রিমিয়ার যুদ্ধ শুরু হলে জানা গেল যে নোংরা সামরিক হাসপাতালের কারণে আহত সেনারা মহামারির মতো মারা যাচ্ছে।"
-      },
-      {
-        "en": "Florence led a courageous team of thirty-eight trained nurses straight to the front-line hospital at Scutari.",
-        "bn": "ফ্লোরেন্স আটত্রিশ জন প্রশিক্ষিত নার্সের এক সাহসী দল নিয়ে সোজা স্কুটারির যুদ্ধক্ষেত্রের হাসপাতালে ছুটে গেলেন।"
-      },
-      {
-        "en": "She scrubbed dirty wards, washed contaminated sheets, and ensured wounded men received fresh, wholesome meals.",
-        "bn": "তিনি নিজে নোংরা ওয়ার্ড পরিষ্কার করলেন, চাদর ধুয়ে দিলেন এবং নিশ্চিত করলেন যাতে আহত সৈনিকরা পুষ্টিকর খাবার পায়।"
-      },
-      {
-        "en": "At night, long after other doctors rested, Florence walked miles through dark wards carrying a small oil lamp.",
-        "bn": "গভীর রাতে অন্য সব চিকিৎসক যখন বিশ্রাম নিতেন, ফ্লোরেন্স হাতে ছোট একটি তেলের প্রদীপ নিয়ে অন্ধকার ওয়ার্ডে রোগীদের দেখতে যেতেন।"
-      },
-      {
-        "en": "Her hygiene reforms dramatically reduced the hospital mortality rate from forty percent to less than two percent.",
-        "bn": "তাঁর এই পরিচ্ছন্নতার নিয়ম হাসপাতালের মৃত্যুর হার চল্লিশ শতাংশ থেকে কমিয়ে দুই শতাংশেরও নিচে নামিয়ে আনে।"
-      },
-      {
-        "en": "She revolutionized modern nursing and showed the world that empathy and sanitation can conquer disease.",
-        "bn": "তিনি আধুনিক নার্সিং সেবায় বিপ্লব ঘটিয়ে বিশ্বকে দেখিয়েছিলেন যে সহানুভূতি এবং পরিচ্ছন্নতা রোগকে পরাজিত করতে পারে।"
-      }
-    ]
-  },
-  {
-    "id": "bio-wright-brothers",
-    "title": "The Wright Brothers and the Dream of Flight",
-    "titleBn": "রাইট ভ্রাতৃদ্বয় এবং আকাশে ওড়ার স্বপ্ন",
-    "author": "Historical Biography",
-    "level": "Intermediate",
-    "category": "Inspiring Biography",
-    "coverEmoji": "✈️",
-    "summary": "Two humble bicycle mechanics solve the ancient puzzle of human flight through patient experimentation.",
-    "summaryBn": "দুই সাধারণ সাইকেল মেকানিক কীভাবে ধৈর্যশীল বৈজ্ঞানিক পরীক্ষার মাধ্যমে মানুষের আকাশে ওড়ার স্বপ্নকে সত্য করেছিলেন।",
-    "sentences": [
-      {
-        "en": "For thousands of years, humans gazed at soaring birds and dreamt of gliding freely across the sky.",
-        "bn": "হাজার হাজার বছর ধরে মানুষ আকাশে ডানা মেলা পাখিদের দেখে নিজেরাও আকাশে ভেসে বেড়ানোর স্বপ্ন দেখত।"
-      },
-      {
-        "en": "Orville and Wilbur Wright were two modest brothers who ran a small bicycle repair shop in Dayton, Ohio.",
-        "bn": "অরভিল এবং উইলবার রাইট ছিলেন ওহিওর ডেটনে একটি সাধারণ সাইকেল মেরামতের দোকান চালানো দুই ভাই।"
-      },
-      {
-        "en": "They used their modest earnings from fixing bicycles to design gliders and build homemade wind tunnels.",
-        "bn": "সাইকেল সারানোর সামান্য আয় দিয়েই তাঁরা গ্লাইডার তৈরি করতেন এবং বাড়িতে নিজস্ব উইন্ড টানেল বানিয়ে গবেষণা করতেন।"
-      },
-      {
-        "en": "Unlike other inventors who focused only on powerful engines, the Wright brothers realized that flight control was paramount.",
-        "bn": "অন্যান্য আবিষ্কারকরা যখন শুধু শক্তিশালী ইঞ্জিনের ওপর জোর দিচ্ছিলেন, রাইট ভাইয়েরা বুঝতে পেরেছিলেন নিয়ন্ত্রণ ব্যবস্থা রক্ষা করাই আসল।"
-      },
-      {
-        "en": "On a cold, windy morning at Kitty Hawk in December 1903, Orville boarded their wooden Flyer aircraft.",
-        "bn": "১৯০৩ সালের ডিসেম্বরের এক শীতের সকালে কিটি হকের বালুকাময় প্রান্তরে অরভিল তাঁদের কাঠের তৈরি 'ফ্লায়ার' বিমানে উঠলেন।"
-      },
-      {
-        "en": "The engine roared, the propellers spun, and the machine lifted twelve feet into the air, flying for twelve historic seconds.",
-        "bn": "ইঞ্জিন গর্জে উঠল, প্রপেলার ঘুরল এবং বিমানটি মাটি থেকে বারো ফুট ওপরে উঠে ঐতিহাসিক বারো সেকেন্ড আকাশে উড়ল।"
-      },
-      {
-        "en": "It was the world's first powered, controlled, and sustained flight of a heavier-than-air craft.",
-        "bn": "বাতাসের চেয়ে ভারী কোনো যন্ত্রের সাহায্যে এটিই ছিল বিশ্বের প্রথম ইঞ্জিনচালিত, নিয়ন্ত্রিত এবং দীর্ঘস্থায়ী উড্ডয়ন।"
-      },
-      {
-        "en": "Their quiet dedication permanently shrunk the globe and opened the era of modern aviation.",
-        "bn": "তাঁদের এই নিরলস সাধনা পুরো বিশ্বকে কাছাকাছি এনে দিয়েছিল এবং আধুনিক বিমান চলাচলের স্বর্ণযুগের সূচনা করেছিল।"
-      }
-    ]
-  },
-  {
-    "id": "bio-archimedes-eureka",
-    "title": "Archimedes and the Golden Crown",
-    "titleBn": "আর্কিমিডিস এবং স্বর্ণের মুকুটের রহস্য",
-    "author": "Historical Biography",
-    "level": "Intermediate",
-    "category": "Inspiring Biography",
-    "coverEmoji": "👑",
-    "summary": "The brilliant Greek thinker solves a royal deception while stepping into a relaxing bath.",
-    "summaryBn": "গ্রিসের সেরা গণিতবিদ কীভাবে স্নান করতে নেমে রাজার মুকুটের ভেজাল ধরার এক চমকপ্রদ উপায় আবিষ্কার করলেন।",
-    "sentences": [
-      {
-        "en": "King Hiero of Syracuse gave a goldsmith a precise weight of pure gold to craft a royal crown.",
-        "bn": "সিরাকিউসের রাজা হিয়ারো এক স্বর্ণকারকে একটি সুন্দর রাজমুকুট তৈরি করার জন্য নির্দিষ্ট ওজনের খাঁটি সোনা দিলেন।"
-      },
-      {
-        "en": "When the crown was delivered, the king suspected the dishonest smith had stolen gold and replaced it with cheap silver.",
-        "bn": "মুকুট হাতে পেয়ে রাজার সন্দেহ হলো যে অসাধু স্বর্ণকার হয়তো কিছুটা সোনা চুরি করে তার জায়গায় সস্তা রূপা মিশিয়েছে।"
-      },
-      {
-        "en": "The king asked the famous mathematician Archimedes to determine the truth without damaging the delicate crown.",
-        "bn": "রাজা বিখ্যাত গণিতবিদ আর্কিমিডিসকে ডেকে বললেন সুন্দর মুকুটটি না ভেঙে এর আসল সত্য বের করে দিতে।"
-      },
-      {
-        "en": "For days, Archimedes pondered the problem deeply, finding no practical way to measure the crown's irregular volume.",
-        "bn": "কয়েক দিন ধরে আর্কিমিডিস গভীর চিন্তায় ডুবে রইলেন, কিন্তু মুকুটের অসম আয়তন মাপার কোনো সহজ উপায় খুঁজে পাচ্ছিলেন না।"
-      },
-      {
-        "en": "One afternoon, he stepped into a stone bathtub filled to the very brim with water.",
-        "bn": "এক বিকেলে তিনি কানায় কানায় পানিতে ভরা একটি পাথরের বাথটাবে স্নান করার জন্য নামলেন।"
-      },
-      {
-        "en": "As his body submerged, water spilled over the sides, exactly equal to the volume of his submerged body.",
-        "bn": "তাঁর শরীর পানিতে ডুবতেই কিছুটা পানি উপচে বাইরে পড়ল, যা ছিল তাঁর নিমজ্জিত শরীরের আয়তনের সমান।"
-      },
-      {
-        "en": "Overcome with excitement, he shouted 'Eureka!' meaning 'I have found it!' and ran through the streets.",
-        "bn": "আনন্দে আত্মহারা হয়ে তিনি 'ইউরেকা!' অর্থাৎ 'আমি পেয়ে গেছি!' বলে চিৎকার করতে করতে প্রাসাদের দিকে ছুটলেন।"
-      },
-      {
-        "en": "By comparing the displaced water of the crown with pure gold, he proved the smith had indeed cheated the king.",
-        "bn": "মুকুটের অপসারিত পানির সাথে খাঁটি সোনার অপসারিত পানি তুলনা করে তিনি প্রমাণ করলেন যে স্বর্ণকার সত্যিই রাজাকে ঠকিয়েছে।"
-      }
-    ]
-  },
-  {
-    "id": "bio-socrates-wisdom",
-    "title": "Socrates and the Art of Questioning",
-    "titleBn": "সক্রেটিস এবং সত্য খোঁজার শিল্প",
-    "author": "Historical Biography",
-    "level": "Intermediate",
-    "category": "Inspiring Biography",
-    "coverEmoji": "🏛️",
-    "summary": "An ancient philosopher teaches Athens that genuine wisdom begins by admitting what one does not know.",
-    "summaryBn": "প্রাচীন এক দার্শনিক পুরো এথেন্সবাসীকে শিখিয়েছিলেন যে প্রকৃত জ্ঞানের শুরু হয় নিজের অজ্ঞতা স্বীকার করার মাধ্যমে।",
-    "sentences": [
-      {
-        "en": "In ancient Athens, a barefoot philosopher named Socrates spent his days conversing in the bustling marketplace.",
-        "bn": "প্রাচীন এথেন্সে খালি পায়ে হাঁটা এক দার্শনিক সক্রেটিস শহরের ব্যস্ত বাজারে ঘুরে মানুষের সাথে কথা বলে দিন কাটাতেন।"
-      },
-      {
-        "en": "He never charged fees, wrote no books, and claimed to have no superior knowledge of his own.",
-        "bn": "তিনি কখনো কারও কাছ থেকে টাকা নিতেন না, কোনো বই লেখেননি এবং কখনো নিজেকে মহাজ্ঞানী বলে দাবি করেননি।"
-      },
-      {
-        "en": "Instead of lecturing people, Socrates asked thoughtful questions that forced listeners to examine their own beliefs.",
-        "bn": "মানুষকে লম্বা উপদেশ দেওয়ার বদলে সক্রেটিস এমন সব বুদ্ধিদীপ্ত প্রশ্ন করতেন যা মানুষকে নিজেদের চিন্তা যাচাই করতে বাধ্য করত।"
-      },
-      {
-        "en": "When the Oracle at Delphi declared Socrates the wisest man in Athens, he was genuinely bewildered.",
-        "bn": "ডেলফির দৈববাণী যখন সক্রেটিসকে এথেন্সের সবচেয়ে জ্ঞানী মানুষ ঘোষণা করল, তখন তিনি অত্যন্ত বিস্মিত হলেন।"
-      },
-      {
-        "en": "He interviewed politicians, poets, and craftsmen, discovering that each assumed they knew everything when they knew little.",
-        "bn": "তিনি রাজনীতিবিদ, কবি এবং কারিগরদের সাথে কথা বলে দেখলেন যে তারা খুব কম জেনেও ভাবত যে তারা সবকিছু জানে।"
-      },
-      {
-        "en": "Socrates concluded, 'I am wiser only because I know that I know nothing.'",
-        "bn": "সক্রেটিস উপলব্ধি করলেন, 'আমি হয়তো তাদের চেয়ে বেশি জ্ঞানী শুধু এই কারণে যে আমি অন্তত জানি যে আমি কিছুই জানি না।'"
-      },
-      {
-        "en": "His conversational method, now called the Socratic Method, remains one of humanity's finest tools for critical thinking.",
-        "bn": "তাঁর এই প্রশ্নোত্তর পদ্ধতি, যা আজ সত্রাটিস পদ্ধতি নামে পরিচিত, যুক্তিপূর্ণ চিন্তাভাবনার অন্যতম সেরা মাধ্যম হিসেবে টিকে আছে।"
-      },
-      {
-        "en": "True wisdom begins with humility and an unyielding desire to seek the truth.",
-        "bn": "প্রকৃত জ্ঞানের শুরু হয় বিনয় এবং সত্য জানার অদম্য আগ্রহের মধ্য দিয়ে।"
-      }
-    ]
-  },
-  {
-    "id": "bio-alexander-diogenes",
-    "title": "Alexander the Great Meets Diogenes",
-    "titleBn": "মহাবীর আলেকজান্ডার এবং দার্শনিক ডায়োজিনিস",
-    "author": "Historical Biography",
-    "level": "Intermediate",
-    "category": "Inspiring Biography",
-    "coverEmoji": "☀️",
-    "summary": "The world's greatest conqueror discovers that true contentment needs no empire or riches.",
-    "summaryBn": "বিশ্বজয়ী এক বীর যোদ্ধা বুঝতে পেরেছিলেন যে অন্তরের শান্তির জন্য কোনো সাম্রাজ্য বা ধনসম্পদের প্রয়োজন নেই।",
-    "sentences": [
-      {
-        "en": "Alexander the Great had conquered vast kingdoms and commanded armies of tens of thousands of warriors.",
-        "bn": "মহাবীর আলেকজান্ডার বিশাল বিশাল রাজ্য জয় করেছিলেন এবং তাঁর অধীনে ছিল হাজার হাজার সাহসী যোদ্ধার সৈন্যদল।"
-      },
-      {
-        "en": "While visiting Corinth, he heard stories of Diogenes, an unconventional philosopher who lived inside a large clay jar.",
-        "bn": "করিন্থ ভ্রমণের সময় তিনি ডায়োজিনিসের কথা শুনলেন, যিনি সব পার্থিব সুখ ত্যাগ করে একটি মাটির বড় পাত্রে বাস করতেন।"
-      },
-      {
-        "en": "Diogenes owned nothing except a simple cloak and a wooden bowl, seeking complete freedom from worldly desires.",
-        "bn": "ডায়োজিনিসের কাছে একটি মোটা চাদর আর কাঠের বাটি ছাড়া আর কিছুই ছিল না; তিনি পার্থিব মোহমুক্ত জীবন চাইতেন।"
-      },
-      {
-        "en": "Curious to meet the famous eccentric, Alexander approached Diogenes as he rested peacefully in the morning sun.",
-        "bn": "এই অদ্ভুত দার্শনিককে দেখার জন্য আলেকজান্ডার এগিয়ে গেলেন, যিনি তখন সকালের মিষ্টি রোদে গা এলিয়ে বসেছিলেন।"
-      },
-      {
-        "en": "Surrounded by glittering soldiers, Alexander announced, 'Ask of me any favor you desire, and it shall be granted.'",
-        "bn": "চকচকে বর্ম পরা সৈন্যদের মাঝে দাঁড়িয়ে আলেকজান্ডার বললেন, 'তুমি আমার কাছে যা চাইবে, আমি তা-ই তোমাকে দেব।'"
-      },
-      {
-        "en": "Without moving, Diogenes calmly replied, 'Only stand a little out of my sun; you are blocking my light.'",
-        "bn": "একটুও না নড়ে শান্ত গলায় ডায়োজিনিস বললেন, 'তাহলে আমার রোদ থেকে একটু সরে দাঁড়ান; আপনি আমার সূর্যের আলো আটকাচ্ছেন।'"
-      },
-      {
-        "en": "The soldiers laughed mockingly, but Alexander silenced them with deep admiration for the philosopher's fearless independence.",
-        "bn": "সৈন্যরা উপহাস করে হাসতে লাগল, কিন্তু সেই দার্শনিকের নির্ভীক স্বনির্ভরতায় মুগ্ধ হয়ে আলেকজান্ডার সবাইকে শান্ত করলেন।"
-      },
-      {
-        "en": "Alexander famously said to his companions, 'If I were not Alexander, I would wish to be Diogenes.'",
-        "bn": "আলেকজান্ডার তাঁর সঙ্গীদের দিকে তাকিয়ে বলেছিলেন, 'আমি যদি আলেকজান্ডার না হতাম, তবে আমি ডায়োজিনিস হতে চাইতাম।'"
-      }
-    ]
-  },
-  {
-    "id": "bio-marie-curie",
-    "title": "Marie Curie's Unwavering Dedication",
-    "titleBn": "মেরি কুরির অবিচল সাধনা",
-    "author": "Historical Biography",
-    "level": "Intermediate",
-    "category": "Inspiring Biography",
-    "coverEmoji": "🔬",
-    "summary": "Working inside a damp shed, a brilliant scientist discovers radium and changes medicine forever.",
-    "summaryBn": "একটি স্যাঁতসেঁতে ভাঙা ঘরে কাজ করে এক প্রতিভাময়ী বিজ্ঞানী কীভাবে রেডিয়াম আবিষ্কার করে চিকিৎসাজগৎ বদলে দিয়েছিলেন।",
-    "sentences": [
-      {
-        "en": "Marie Curie arrived in Paris from Poland with very little money, driven solely by a passionate love for science.",
-        "bn": "মেরি কুরি পোল্যান্ড থেকে প্যারিসে এসেছিলেন প্রায় কোনো টাকা ছাড়া, কেবল বিজ্ঞানের প্রতি গভীর ভালোবাসার টানে।"
-      },
-      {
-        "en": "She endured harsh winters in an unheated attic room, surviving on simple tea and dry bread.",
-        "bn": "তিনি ছাদের এক ঠান্ডা ঘরে কনকনে শীত সহ্য করতেন এবং প্রায়ই শুধু চা আর শুকনো রুটি খেয়ে বেঁচে থাকতেন।"
-      },
-      {
-        "en": "Together with her husband Pierre, Marie investigated mysterious energetic rays emitted by pitchblende ore.",
-        "bn": "স্বামী পিয়েরের সাথে মিলে মেরি পিচব্লেন্ড আকরিক থেকে নির্গত রহস্যময় অদৃশ্য রশ্মি নিয়ে গবেষণা শুরু করলেন।"
-      },
-      {
-        "en": "Without a proper laboratory, they worked for years inside a draughty wooden shed with a leaking glass roof.",
-        "bn": "কোনো উন্নত ল্যাবরেটরি ছাড়াই তাঁরা বছরের পর বছর বাতাস ঢোকা এক ভাঙা কাঠের ঘরে কাজ করে গেছেন।"
-      },
-      {
-        "en": "Marie stirred heavy cauldrons of boiling chemicals all day, breathing acrid dust with relentless determination.",
-        "bn": "মেরি সারাদিন রাসায়নিক পদার্থভর্তি ভারী ডেকচি নাড়াতেন এবং অদম্য সংকল্প নিয়ে বিষাক্ত ধোঁয়া সহ্য করতেন।"
-      },
-      {
-        "en": "From tons of raw rock, she finally isolated a fraction of a gram of a new, glowing element: radium.",
-        "bn": "টন টন পাথরের স্তূপ থেকে তিনি অবশেষে একটি নতুন চমকপ্রদ মৌলিক উপাদান আলাদা করতে সক্ষম হলেন, যার নাম রেডিয়াম।"
-      },
-      {
-        "en": "Her groundbreaking research earned her two Nobel Prizes in two distinct scientific fields: Physics and Chemistry.",
-        "bn": "তাঁর এই যুগান্তকারী গবেষণা তাঁকে পদার্থবিজ্ঞান এবং রসায়ন—দুটি ভিন্ন বিষয়ে দুটি নোবেল পুরস্কার এনে দিয়েছিল।"
-      },
-      {
-        "en": "She never patented her discoveries, willingly gifting radiation science to doctors to treat cancer patients worldwide.",
-        "bn": "তিনি তাঁর আবিষ্কারের কোনো পেটেন্ট করেননি, বরং বিশ্বজুড়ে ক্যানসার চিকিৎসার জন্য নিঃস্বার্থভাবে তা উন্মুক্ত করে দিয়েছিলেন।"
-      }
-    ]
-  },
-  {
-    "id": "bio-benjamin-franklin-kite",
-    "title": "Benjamin Franklin and the Electric Kite",
-    "titleBn": "বেঞ্জামিন ফ্র্যাঙ্কলিন এবং বিদ্যুতের ঘুড়ি",
-    "author": "Historical Biography",
-    "level": "Intermediate",
-    "category": "Inspiring Biography",
-    "coverEmoji": "🪁",
-    "summary": "A daring experiment during a stormy afternoon proves that lightning and electricity are the same force.",
-    "summaryBn": "ঝড়ো বাতাসের এক বিকেলে এক সাহসী পরীক্ষা প্রমাণ করেছিল যে আকাশের বজ্রপাত আর সাধারণ বিদ্যুৎ আসলে একই শক্তি।",
-    "sentences": [
-      {
-        "en": "In the eighteenth century, people viewed terrifying thunderbolts as mysterious heavenly fire.",
-        "bn": "অষ্টাদশ শতাব্দীতে মানুষ আকাশের গর্জন এবং বজ্রপাতকে এক রহস্যময় ঐশ্বরিক আগুন মনে করত।"
-      },
-      {
-        "en": "Benjamin Franklin suspected that lightning was simply electricity on an enormous, natural scale.",
-        "bn": "বেঞ্জামিন ফ্র্যাঙ্কলিনের ধারণা ছিল যে বজ্রপাত আসলে প্রকৃতির বুকে ঘটে যাওয়া বিশাল মাত্রার সাধারণ বিদ্যুৎ।"
-      },
-      {
-        "en": "In June 1752, as dark storm clouds gathered over Philadelphia, Franklin constructed a kite made of fine silk.",
-        "bn": "১৭৫২ সালের জুনে ফিলাডেলফিয়ার আকাশে যখন কালো মেঘ জমল, তখন ফ্র্যাঙ্কলিন রেশমের কাপড় দিয়ে একটি ঘুড়ি বানালেন।"
-      },
-      {
-        "en": "He attached a pointed iron wire to the top of the kite and tied a metal house key to the bottom of the hemp string.",
-        "bn": "ঘুড়ির শীর্ষে তিনি একটি লোহার সূচালো তার লাগালেন এবং সুতোর নিচের প্রান্তে একটি ধাতব চাবি বেঁধে দিলেন।"
-      },
-      {
-        "en": "Standing under a barn shelter to stay dry, he flew the kite high into the heart of the approaching thunderstorm.",
-        "bn": "ভিজে যাওয়া এড়াতে একটি ছাউনির নিচে দাঁড়িয়ে তিনি ঝড়ো বাতাসের ঠিক মাঝখানে ঘুড়িটি উড়িয়ে দিলেন।"
-      },
-      {
-        "en": "When rain soaked the string, loose hemp fibers stood erect like bristling hair on an electrified object.",
-        "bn": "বৃষ্টিতে সুতো ভিজে যেতেই তার আঁশগুলো বিদ্যুতায়িত বস্তুর মতো খাড়া হয়ে দাঁড়িয়ে গেল।"
-      },
-      {
-        "en": "Franklin brought his knuckle close to the key, and a bright electric spark leapt between them with a sharp snap.",
-        "bn": "ফ্র্যাঙ্কলিন তাঁর হাতের আঙুল চাবির কাছে নিতেই একটি উজ্জ্বল বৈদ্যুতিক স্ফুলিঙ্গ চট করে তাঁর হাতে লাফিয়ে পড়ল।"
-      },
-      {
-        "en": "His brave discovery led to the invention of lightning rods, protecting countless cities from devastating fires.",
-        "bn": "তাঁর এই সাহসী আবিষ্কার ভবনে বজ্রনিরোধক দণ্ড ব্যবহারের পথ খুলে দেয়, যা অগ্নিকাণ্ড থেকে শহরগুলোকে রক্ষা করতে শুরু করে।"
-      }
-    ]
-  },
-  {
-    "id": "bio-galileo-telescope",
-    "title": "Galileo and the Secrets of the Night Sky",
-    "titleBn": "গ্যালিলিও এবং রাতের আকাশের রহস্য",
-    "author": "Historical Biography",
-    "level": "Intermediate",
-    "category": "Inspiring Biography",
-    "coverEmoji": "🔭",
-    "summary": "A curious Italian mathematician points a homemade tube toward the stars and changes our view of the cosmos.",
-    "summaryBn": "ইতালির এক বিজ্ঞানী নিজের হাতে তৈরি একটি কাচের নল আকাশের দিকে তাক করে পুরো মহাবিশ্ব সম্পর্কে মানুষের ধারণা বদলে দেন।",
-    "sentences": [
-      {
-        "en": "For centuries, European scholars firmly believed that the Earth remained motionless at the center of the universe.",
-        "bn": "শতাব্দীর পর শতাব্দী ধরে ইউরোপের পণ্ডিতরা বিশ্বাস করতেন যে পৃথিবী স্থির হয়ে মহাবিশ্বের ঠিক কেন্দ্রে অবস্থান করছে।"
-      },
-      {
-        "en": "In 1609, Galileo Galilei heard about a Dutch spyglass that made distant objects appear closer.",
-        "bn": "১৬০৯ সালে গ্যালিলিও গ্যালিলি ডাচদের তৈরি এমন একটি নলের কথা শুনলেন যা দূরের জিনিসকে কাছে দেখায়।"
-      },
-      {
-        "en": "He immediately ground his own glass lenses and built an improved telescope capable of magnifying objects twenty times.",
-        "bn": "তিনি নিজে কাচ ঘষে উন্নত লেন্স তৈরি করলেন এবং একটি দূরবীন বানালেন যা জিনিসকে বিশ গুণ বড় দেখাতে পারত।"
-      },
-      {
-        "en": "Instead of using it for naval defense, Galileo turned his spyglass upward toward the midnight sky.",
-        "bn": "জাহাজের সুরক্ষার কাজে ব্যবহারের বদলে গ্যালিলিও সেই দূরবীনটি রাতের অন্ধকার আকাশের তারাদের দিকে তাক করলেন।"
-      },
-      {
-        "en": "He was astonished to see rugged mountains on the Moon, dark spots on the Sun, and four tiny moons orbiting Jupiter.",
-        "bn": "তিনি চাঁদের বুকে খসখসে পাহাড়, সূর্যের গায়ে কালো দাগ এবং বৃহস্পতি গ্রহকে কেন্দ্র করে চারটি ছোট চাঁদ ঘুরতে দেখে অবাক হলেন।"
-      },
-      {
-        "en": "These celestial observations proved that not everything in the universe revolved around the Earth.",
-        "bn": "মহাকাশের এই দৃশ্যগুলো প্রমাণ করল যে মহাবিশ্বের সবকিছুই পৃথিবীকে কেন্দ্র করে ঘুরছে না।"
-      },
-      {
-        "en": "Though powerful authorities opposed his radical conclusions, Galileo stood courageously by the evidence of his own eyes.",
-        "bn": "ক্ষমতাশালী কর্তৃপক্ষ তাঁর এই ধারণার তীব্র বিরোধিতা করলেও গ্যালিলিও নিজের চোখের দেখা সত্যের পক্ষে অবিচল রইলেন।"
-      },
-      {
-        "en": "His pioneering curiosity laid the foundation for modern observational astronomy and physics.",
-        "bn": "তাঁর এই অনুসন্ধিৎসু মনই আধুনিক পর্যবেক্ষণমূলক জ্যোতির্বিজ্ঞান এবং পদার্থবিজ্ঞানের ভিত্তি স্থাপন করেছিল।"
-      }
-    ]
-  },
-  {
-    "id": "bio-beethoven-ninth",
-    "title": "Beethoven and the Symphony of Silence",
-    "titleBn": "বিথোভেন এবং নিঃশব্দ সুরের মহাকাব্য",
-    "author": "Historical Biography",
-    "level": "Intermediate",
-    "category": "Inspiring Biography",
-    "coverEmoji": "🎼",
-    "summary": "Even after losing his hearing, the great composer hears divine harmonies within his soul and writes his greatest symphony.",
-    "summaryBn": "শ্রবণশক্তি চিরতরে হারানোর পরও কীভাবে এই অমর সুরকার অন্তরের গভীরের সুর দিয়ে সৃষ্টি করেছিলেন পৃথিবীর শ্রেষ্ঠ সিম্ফনি।",
-    "sentences": [
-      {
-        "en": "Ludwig van Beethoven was celebrated across Europe as a musical genius of extraordinary passion.",
-        "bn": "লুডভিগ ফন বিথোভেন তাঁর অসাধারণ আবেগময় সুর সৃষ্টির জন্য পুরো ইউরোপজুড়ে এক মহান সঙ্গীত প্রতিভা হিসেবে সমাদৃত ছিলেন।"
-      },
-      {
-        "en": "In his late twenties, he began hearing a persistent ringing in his ears that slowly stole away his hearing.",
-        "bn": "বিশ বছরের শেষভাগে তিনি কানে এক অদ্ভুত ভোঁ ভোঁ শব্দ শুনতে শুরু করলেন, যা ধীরে ধীরে তাঁর শ্রবণশক্তি কেড়ে নিতে লাগল।"
-      },
-      {
-        "en": "For a musician whose life was built on sound, going completely deaf felt like the cruelest possible tragedy.",
-        "bn": "একজন সুরকার যার জীবন গড়ে উঠেছিল সুরের ওপর, তাঁর জন্য বধির হয়ে যাওয়া ছিল সবচেয়ে নির্মম এক ট্র্যাজেডি।"
-      },
-      {
-        "en": "He contemplated ending his life, but his passionate urge to share the music trapped in his heart kept him alive.",
-        "bn": "তিনি জীবন শেষ করে দেওয়ার কথাও ভেবেছিলেন, কিন্তু অন্তরে জমে থাকা সুর সৃষ্টি করার তাগিদ তাঁকে বাঁচিয়ে রাখল।"
-      },
-      {
-        "en": "Unable to hear outer instruments, Beethoven saw vibrations in his mind and felt the resonance through piano wood.",
-        "bn": "বাইরের কোনো বাদ্যযন্ত্রের আওয়াজ না পেলেও বিথোভেন মনের চোখে কম্পন দেখতেন এবং কাঠের স্পর্শে সুরের অনুরণন বুঝতেন।"
-      },
-      {
-        "en": "In complete silence, he composed his magnificent Ninth Symphony, concluding with the joyous 'Ode to Joy'.",
-        "bn": "সম্পূর্ণ নিঃশব্দতার মধ্যে বসে তিনি তাঁর অবিস্মরণীয় নবম সিম্ফনি রচনা করলেন, যার শেষ অংশে ছিল বিখ্যাত 'ওড টু জয়'।"
-      },
-      {
-        "en": "At its premiere in Vienna, a singer gently turned Beethoven around to see the roaring audience offering thunderous standing ovations.",
-        "bn": "ভিয়েনায় প্রথম মঞ্চায়নের পর এক গায়িকা বিথোভেনের হাত ধরে তাঁকে দর্শকদের দিকে ঘোরালেন, যাতে তিনি দেখতে পান হাজারো মানুষ দাঁড়িয়ে হাততালি দিচ্ছে।"
-      },
-      {
-        "en": "True art is born not merely from our physical senses, but from the invincible spirit of the human soul.",
-        "bn": "প্রকৃত শিল্প কেবল চোখের দেখা বা কানের শোনায় সীমাবদ্ধ নয়, তা মানুষের অন্তরাত্মার অপরাজেয় শক্তি থেকে জন্ম নেয়।"
-      }
-    ]
-  },
-  {
-    "id": "bio-louis-pasteur",
-    "title": "Louis Pasteur and the Invisible World",
-    "titleBn": "লুই পাস্তুর এবং জীবাণুর অদৃশ্য জগৎ",
-    "author": "Historical Biography",
-    "level": "Intermediate",
-    "category": "Inspiring Biography",
-    "coverEmoji": "🧪",
-    "summary": "A dedicated French chemist proves that microscopic organisms cause spoilage and deadly diseases.",
-    "summaryBn": "এক ফরাসি রসায়নবিদ কীভাবে প্রমাণ করলেন যে অদৃশ্য জীবাণুই খাবার নষ্ট হওয়া এবং মরণব্যাধির মূল কারণ।",
-    "sentences": [
-      {
-        "en": "In the nineteenth century, people believed that spoiled milk and rotten meat spontaneously generated maggots and disease out of nowhere.",
-        "bn": "ঊনবিংশ শতাব্দীতে মানুষের ধারণা ছিল যে বাসি দুধ বা পচা মাংসের মধ্যে নিজে থেকেই রোগ এবং জীবাণু জন্ম নেয়।"
-      },
-      {
-        "en": "Louis Pasteur, a meticulous French chemist, suspected that tiny invisible microbes floating in the air were responsible.",
-        "bn": "লুই পাস্তুর নামের এক সতর্ক ফরাসি রসায়নবিদ সন্দেহ করলেন যে বাতাসে ভেসে বেড়ানো অদৃশ্য জীবাণুই এর জন্য দায়ী।"
-      },
-      {
-        "en": "He designed special flasks with curved swan necks that allowed air to enter while trapping airborne dust in the curve.",
-        "bn": "তিনি হাঁসের গলার মতো বাঁকানো নলের বিশেষ কাচের পাত্র তৈরি করলেন যাতে বাতাস ঢুকলেও ধুলাবালি বাঁকেই আটকে থাকে।"
-      },
-      {
-        "en": "The boiled broth inside the curved flasks stayed completely pure and fresh for months without growing mold.",
-        "bn": "সেই বাঁকানো পাত্রের ফুটানো তরল খাবার মাসের পর মাস ধরে একেবারে সতেজ ও জীবাণুমুক্ত রইল।"
-      },
-      {
-        "en": "This elegant experiment conclusively disproved spontaneous generation and established the germ theory of disease.",
-        "bn": "এই নিখুঁত পরীক্ষা প্রমাণ করল যে জীব নিজে থেকে তৈরি হয় না এবং রোগ সৃষ্টি করে এসব অণুজীবই।"
-      },
-      {
-        "en": "Pasteur then invented pasteurization, heating liquids briefly to kill harmful bacteria without ruining their flavor.",
-        "bn": "এরপর পাস্তুর পাস্তুরায়ন পদ্ধতি আবিষ্কার করলেন, যেখানে তরলকে সামান্য গরম করেই ক্ষতিকর জীবাণু মেরে ফেলা যায়।"
-      },
-      {
-        "en": "He went on to develop life-saving vaccines against rabies and anthrax, saving millions of lives worldwide.",
-        "bn": "পরবর্তীতে তিনি জলাতঙ্ক ও অ্যানথ্রাক্সের মতো মরণব্যাধির প্রতিষেধক টিকা আবিষ্কার করে কোটি কোটি মানুষের প্রাণ বাঁচান।"
-      },
-      {
-        "en": "His meticulous laboratory work laid the modern foundation of public health and preventive medicine.",
-        "bn": "গবেষণাগারে তাঁর এই নিরলস কাজই আধুনিক জনস্বাস্থ্য এবং রোগ প্রতিরোধ চিকিৎসার মজবুত ভিত্তি গড়ে তোলে।"
-      }
-    ]
-  },
-  {
-    "id": "bio-kalam-wings",
-    "title": "Dr. APJ Abdul Kalam: From Paperboy to President",
-    "titleBn": "ড. এপিজে আবদুল কালাম: সংবাদপত্র বিক্রেতা থেকে রাষ্ট্রপতি",
-    "author": "Historical Biography",
-    "level": "Intermediate",
-    "category": "Inspiring Biography",
-    "coverEmoji": "🚀",
-    "summary": "A humble boy from a coastal town overcomes poverty through hard work to lead his nation's scientific glory.",
-    "summaryBn": "উপকূলীয় এক গ্রামের দরিদ্র বালক কীভাবে একাগ্র সাধনার মাধ্যমে দেশের শ্রেষ্ঠ বিজ্ঞানী ও রাষ্ট্রপতি হয়েছিলেন।",
-    "sentences": [
-      {
-        "en": "Young Abdul Kalam grew up in the small coastal pilgrim town of Rameswaram in southern India.",
-        "bn": "দক্ষিণ ভারতের রামেশ্বরম নামের এক ছোট্ট উপকূলীয় শহরে সাধারণ এক পরিবারে বেড়ে ওঠেন বালক আবদুল কালাম।"
-      },
-      {
-        "en": "His father owned a modest wooden boat to ferry pilgrims, and the family faced difficult economic struggles.",
-        "bn": "তাঁর বাবার একটি সাধারণ কাঠের নৌকা ছিল যা দিয়ে তিনি তীর্থযাত্রীদের পারাপার করতেন, এবং পরিবারে বেশ টানাটানি ছিল।"
-      },
-      {
-        "en": "To support his elder brother and fund his schooling, young Kalam woke before dawn every day to deliver newspapers.",
-        "bn": "বড় ভাইকে সাহায্য করতে এবং নিজের পড়ার খরচ জোগাতে ছোট্ট কালাম প্রতিদিন ভোর হওয়ার আগেই খবরের কাগজ বিলি করতে বের হতেন।"
-      },
-      {
-        "en": "One day, his fifth-grade teacher took the entire class to the seashore to show them how birds fly by spreading wings.",
-        "bn": "একদিন পঞ্চম শ্রেণির শিক্ষক পুরো ক্লাসের ছাত্রদের সমুদ্রসৈকতে নিয়ে গেলেন পাখিরা কীভাবে ডানা মেলে ওড়ে তা স্বচক্ষে দেখাতে।"
-      },
-      {
-        "en": "That single seaside lesson ignited Kalam's lifelong passion for aerospace engineering and flight technology.",
-        "bn": "সমুদ্রসৈকতের সেই একটি পাঠই কালামের মনে রকেট বিজ্ঞান ও বিমান প্রযুক্তির প্রতি আজীবন ভালোবাসার জন্ম দেয়।"
-      },
-      {
-        "en": "Through disciplined study, he became a visionary space scientist, developing India's premier satellite launch vehicles.",
-        "bn": "কঠোর অধ্যবসায়ের মাধ্যমে তিনি দেশের শীর্ষ বিজ্ঞানী হয়ে ওঠেন এবং মহাকাশ গবেষণায় যুগান্তকারী অবদান রাখেন।"
-      },
-      {
-        "en": "He eventually became the President of India, beloved by millions of young students for his humility and wisdom.",
-        "bn": "পরবর্তীতে তিনি ভারতের রাষ্ট্রপতি নির্বাচিত হন এবং তাঁর বিনয় ও অনুপ্রেরণামূলক বক্তব্যের জন্য কোটি ছাত্রের হৃদয়ে স্থান পান।"
-      },
-      {
-        "en": "He famously reminded youths that dreams are not what you see in sleep; they are the things that prevent you from sleeping.",
-        "bn": "তিনি তরুণদের স্মরণ করিয়ে দিতেন যে স্বপ্ন তা নয় যা তুমি ঘুমিয়ে দেখো; স্বপ্ন হলো সেটাই যা তোমাকে ঘুমাতে দেয় না।"
-      }
-    ]
-  },
-  {
-    "id": "bio-michael-faraday",
-    "title": "Michael Faraday: The Bookbinder's Discovery",
-    "titleBn": "মাইকেল ফ্যারাডে: বই বাঁধাইকারীর অনন্য আবিষ্কার",
-    "author": "Historical Biography",
-    "level": "Intermediate",
-    "category": "Inspiring Biography",
-    "coverEmoji": "⚡",
-    "summary": "Without formal schooling, an apprentice binder reads every volume he sews and discovers electromagnetic induction.",
-    "summaryBn": "প্রাতিষ্ঠানিক শিক্ষা ছাড়াই বই বাঁধাইয়ের এক কিশোর দোকানে পাওয়া বই পড়ে কীভাবে বিদ্যুৎ বিজ্ঞানের জনক হয়েছিলেন।",
-    "sentences": [
-      {
-        "en": "Michael Faraday was born into an impoverished blacksmith's family in London with very little formal schooling.",
-        "bn": "মাইকেল ফ্যারাডে লন্ডনে এক দরিদ্র কামার পরিবারে জন্মগ্রহণ করেন এবং তিনি খুব বেশি প্রাতিষ্ঠানিক শিক্ষা পাননি।"
-      },
-      {
-        "en": "At age fourteen, he was apprenticed to a local bookbinder, spending seven years binding thick educational volumes.",
-        "bn": "চৌদ্দ বছর বয়সে তিনি এক বই বাঁধাইয়ের দোকানে শিক্ষানবিশ হিসেবে যোগ দেন এবং দীর্ঘ সাত বছর বই বাঁধাইয়ের কাজ করেন।"
-      },
-      {
-        "en": "Instead of merely sewing pages, Faraday hungrily read every scientific book and encyclopedia brought to the shop.",
-        "bn": "শুধু পাতা সেলাই করার বদলে ফ্যারাডে দোকানে আসা প্রতিটি বিজ্ঞান বই এবং বিশ্বকোষ গভীর আগ্রহে পড়ে শেষ করতেন।"
-      },
-      {
-        "en": "He saved pocket money to buy cheap glassware, performing basic chemical experiments in his cramped bedroom.",
-        "bn": "তিনি পকেটের সামান্য টাকা জমিয়ে কাচের সাধারণ পাত্র কিনতেন এবং নিজের ছোট ঘরে বসে বিজ্ঞানের পরীক্ষা চালাতেন।"
-      },
-      {
-        "en": "A generous customer gave him tickets to hear the famous chemist Humphry Davy lecture at the Royal Institution.",
-        "bn": "এক দয়ালু গ্রাহক তাঁকে রয়্যাল ইনস্টিটিউশনে বিখ্যাত রসায়নবিদ হামফ্রি ডেভির বক্তৃতা শোনার টিকিট উপহার দিলেন।"
-      },
-      {
-        "en": "Faraday took meticulous notes, bound them beautifully into a leather book, and sent it to Davy requesting an assistant job.",
-        "bn": "ফ্যারাডে সেই বক্তৃতার সুন্দর নোট তৈরি করে চামড়ায় বাঁধাই করে ডেভির কাছে পাঠালেন এবং সহকারী হিসেবে কাজের আবেদন করলেন।"
-      },
-      {
-        "en": "Davy hired him, and Faraday soon discovered electromagnetic induction, inventing the foundational principles of electric motors and generators.",
-        "bn": "ডেভি তাঁকে কাজে নিলেন, আর ফ্যারাডে অল্প দিনেই তড়িৎচৌম্বকীয় আবেশ আবিষ্কার করে বৈদ্যুতিক মোটর ও জেনারেটরের মূল ভিত্তি তৈরি করলেন।"
-      },
-      {
-        "en": "Today, nearly every electric power plant on planet Earth operates upon the principles discovered by this humble bookbinder.",
-        "bn": "আজ পৃথিবীর প্রায় প্রতিটি বিদ্যুৎকেন্দ্রই এই সাধারণ বই বাঁধাইকারীর আবিষ্কৃত সূত্রের ওপর ভিত্তি করে বিদ্যুৎ উৎপাদন করে।"
-      }
-    ]
-  },
-  {
-    "id": "bio-albert-einstein-compass",
-    "title": "Young Einstein and the Mysterious Compass",
-    "titleBn": "কিশোর আইনস্টাইন এবং রহস্যময় কম্পাস",
-    "author": "Historical Biography",
-    "level": "Intermediate",
-    "category": "Inspiring Biography",
-    "coverEmoji": "🧭",
-    "summary": "A simple magnetic needle shown to a sick five-year-old child sparks a lifelong quest to understand the invisible universe.",
-    "summaryBn": "অসুস্থ পাঁচ বছরের এক শিশুর হাতে পাওয়া একটি সাধারণ চৌম্বক কাঁটা কীভাবে মহাবিশ্বের অদৃশ্য শক্তির রহস্য উন্মোচনের পথ তৈরি করেছিল।",
-    "sentences": [
-      {
-        "en": "When Albert Einstein was five years old, he fell ill and had to stay in bed for several days.",
-        "bn": "আলবার্ট আইনস্টাইনের বয়স যখন মাত্র পাঁচ বছর, তখন তিনি অসুস্থ হয়ে বেশ কয়েক দিন বিছানায় শুয়ে রইলেন।"
-      },
-      {
-        "en": "To cheer up the quiet boy, his father brought him a small brass pocket compass.",
-        "bn": "চুপচাপ স্বভাবের ছেলেটির মন ভালো করার জন্য তাঁর বাবা তাঁকে একটি ছোট পিতলের পকেট কম্পাস উপহার দিলেন।"
-      },
-      {
-        "en": "Young Albert was mesmerized as he turned the metallic case in every direction.",
-        "bn": "ছোট্ট আলবার্ট কম্পাসটি হাতে নিয়ে যেদিকেই ঘোরাচ্ছিলেন, এক অদ্ভুত বিস্ময়ে তাকিয়ে রইলেন।"
-      },
-      {
-        "en": "No matter which way he twisted the box, the delicate magnetic needle stubbornly pointed in the same direction toward north.",
-        "bn": "তিনি বাক্সটি যেদিকেই ঘোরান না কেন, সূক্ষ্ম চৌম্বক কাঁটাটি অবিচলভাবে সবসময় একই দিকে অর্থাৎ উত্তরের দিকে মুখ করে থাকত।"
-      },
-      {
-        "en": "Albert realized there had to be something invisible in empty space exerting force upon the needle.",
-        "bn": "আইনস্টাইন বুঝতে পারলেন যে শূন্য স্থানের মাঝে নিশ্চয়ই অদৃশ্য এমন কিছু আছে যা এই কাঁটার ওপর অদৃশ্য বল প্রয়োগ করছে।"
-      },
-      {
-        "en": "That childlike wonder stayed with him forever, creating a deep conviction that nature possesses hidden harmony.",
-        "bn": "শৈশবের সেই বিস্ময়বোধ তাঁর মনে চিরকাল বেঁচে ছিল এবং প্রকৃতির মাঝে লুকিয়ে থাকা গোপন সুর বোঝার আগ্রহ তৈরি করেছিল।"
-      },
-      {
-        "en": "Decades later, he revolutionized human understanding of space, time, light, and gravity through his theory of relativity.",
-        "bn": "কয়েক দশক পরে তিনি তাঁর আপেক্ষিকতা তত্ত্বের মাধ্যমে স্থান, কাল, আলো এবং মহাকর্ষ নিয়ে মানবজাতির চিরন্তন ধারণা বদলে দিয়েছিলেন।"
-      },
-      {
-        "en": "He frequently recalled that the pocket compass was the spark that first ignited his scientific imagination.",
-        "bn": "তিনি প্রায়ই বলতেন যে শৈশবের সেই ছোট্ট পকেট কম্পাসটিই ছিল তাঁর বৈজ্ঞানিক কল্পনাশক্তির প্রথম স্ফুলিঙ্গ।"
-      }
-    ]
-  },
-  {
-    "id": "bio-leonardo-curiosity",
-    "title": "Leonardo da Vinci's Notebooks of Wonder",
-    "titleBn": "লিওনার্দো দা ভিঞ্চির কৌতূহলের খাতা",
-    "author": "Historical Biography",
-    "level": "Intermediate",
-    "category": "Inspiring Biography",
-    "coverEmoji": "🎨",
-    "summary": "The Renaissance genius demonstrates how relentless curiosity about nature makes life an endless masterpiece.",
-    "summaryBn": "রেনেসাঁর এই মহান প্রতিভা দেখিয়েছেন কীভাবে প্রকৃতির প্রতি অন্তহীন কৌতূহল মানুষের জীবনকে এক অপূর্ব শিল্পকর্মে রূপ দেয়।",
-    "sentences": [
-      {
-        "en": "Leonardo da Vinci is celebrated today as the painter of the Mona Lisa and the Last Supper.",
-        "bn": "লিওনার্দো দা ভিঞ্চি আজ মোনালিসা এবং দ্য লাস্ট সাপার ছবির অমর চিত্রশিল্পী হিসেবে বিশ্বজুড়ে পরিচিত।"
-      },
-      {
-        "en": "Yet painting was only a tiny fraction of his boundless, insatiable curiosity about the universe.",
-        "bn": "অথচ ছবি আঁকা ছিল পুরো মহাবিশ্ব সম্পর্কে তাঁর সীমাহীন এবং গভীর কৌতূহলের সামান্য একটি অংশ মাত্র।"
-      },
-      {
-        "en": "He carried a small leather notebook tied to his belt wherever he walked through the hills of Italy.",
-        "bn": "ইতালির পাহাড়ি পথে যেখানেই তিনি হাঁটতেন, কোমরের বেল্টে বাঁধা থাকত একটি ছোট চামড়ার নোটবুক।"
-      },
-      {
-        "en": "He sketched the swirling eddies of flowing water, the wing bones of bats, and the muscles of smiling faces.",
-        "bn": "তিনি বয়ে চলা নদীর পানির ঘূর্ণি, বাদুড়ের ডানার হাড়ের গঠন এবং মানুষের হাসিমুখের পেশি নিখুঁতভাবে এঁকে রাখতেন।"
-      },
-      {
-        "en": "His notebooks contained detailed blueprints for helicopters, armored tanks, diving suits, and robotic knights centuries ahead of his time.",
-        "bn": "তাঁর খাতায় হেলিকপ্টার, সাঁজোয়া ট্যাংক, ডুবুরির পোশাক এবং স্বয়ংক্রিয় রোবটের এমন সব নকশা ছিল যা ছিল তাঁর সময়ের চেয়ে বহু শতক এগিয়ে।"
-      },
-      {
-        "en": "To prevent unauthorized readers from stealing his private ideas, he wrote from right to left using mirror handwriting.",
-        "bn": "অন্য কেউ যাতে তাঁর চিন্তা চুরি করতে না পারে, সেজন্য তিনি ডান থেকে বাম দিকে উল্টো করে আয়নার মতো লিপিতে লিখতেন।"
-      },
-      {
-        "en": "Leonardo believed that everything in nature connects to everything else through hidden mathematical laws.",
-        "bn": "লিওনার্দো বিশ্বাস করতেন যে প্রকৃতির প্রতিটি উপাদানের সাথে অন্য সবকিছুর এক অদৃশ্য ও সুষম যোগসূত্র রয়েছে।"
-      },
-      {
-        "en": "His life proved that true genius is not a genetic accident, but an intense, unquenchable desire to understand the world.",
-        "bn": "তাঁর জীবন প্রমাণ করেছে যে সত্যিকারের প্রতিভা কোনো দৈব ঘটনা নয়, বরং পৃথিবীকে জানার এক দুর্নিবার ও অদম্য ইচ্ছা।"
-      }
-    ]
-  },
-  {
-    "id": "bio-william-shakespeare",
-    "title": "William Shakespeare and the Globe Theatre",
-    "titleBn": "উইলিয়াম শেক্সপিয়র এবং গ্লোব থিয়েটার",
-    "author": "Historical Biography",
-    "level": "Intermediate",
-    "category": "Inspiring Biography",
-    "coverEmoji": "🎭",
-    "summary": "A glove-maker's son from a market town crafts timeless plays that reflect the entire spectrum of human emotion.",
-    "summaryBn": "এক সাধারণ দস্তানা প্রস্তুতকারকের ছেলে কীভাবে এমন সব নাটক লিখেছিলেন যা মানুষের সব অনুভূতির চিরন্তন প্রতিচ্ছবি।",
-    "sentences": [
-      {
-        "en": "William Shakespeare grew up in the quiet market town of Stratford-upon-Avon in rural England.",
-        "bn": "উইলিয়াম শেক্সপিয়র ইংল্যান্ডের প্রত্যন্ত স্ট্র্যাটফোর্ড-আপন-অ্যাভন নামের এক শান্ত শহরে বেড়ে ওঠেন।"
-      },
-      {
-        "en": "His father made leather gloves, and young William never attended a prestigious university.",
-        "bn": "তাঁর বাবা চামড়ার দস্তানা তৈরি করতেন, আর তরুণ উইলিয়াম কোনো বড় বিশ্ববিদ্যালয়ে পড়ার সুযোগ পাননি।"
-      },
-      {
-        "en": "In his twenties, he moved to crowded London, working as an actor and steadily writing original stage plays.",
-        "bn": "বিশ বছর বয়সে তিনি জনাকীর্ণ লন্ডনে চলে যান এবং সেখানে মঞ্চে অভিনয়ের পাশাপাশি মৌলিক নাটক লিখতে শুরু করেন।"
-      },
-      {
-        "en": "Along with his acting company, he built the iconic open-air Globe Theatre beside the River Thames.",
-        "bn": "অভিনয় দলের বন্ধুদের সাথে মিলে তিনি থেমস নদীর তীরে বিখ্যাত উন্মুক্ত 'গ্লোব থিয়েটার' নির্মাণ করেন।"
-      },
-      {
-        "en": "Rich aristocrats sat in roofed wooden galleries, while ordinary laborers stood on the muddy ground around the stage.",
-        "bn": "ধনী অভিজাতরা কাঠের গ্যালারিতে বসতেন, আর সাধারণ খেটে খাওয়া মানুষরা মঞ্চের চারপাশে দাঁড়িয়ে নাটক উপভোগ করত।"
-      },
-      {
-        "en": "Shakespeare wrote tragedies, comedies, and historical dramas that explored love, greed, ambition, and grief.",
-        "bn": "শেক্সপিয়র প্রেম, লোভ, ক্ষমতা ও শোকের অনুভূতি নিয়ে একের পর এক অবিস্মরণীয় ট্র্যাজেডি, কমেডি ও ঐতিহাসিক নাটক লেখেন।"
-      },
-      {
-        "en": "He introduced over a thousand new words and idioms into the English language that are still used every day.",
-        "bn": "তিনি ইংরেজি ভাষায় হাজারেরও বেশি নতুন শব্দ এবং বাগধারা যুক্ত করেছিলেন যা আজ পর্যন্ত মানুষ প্রতিদিন ব্যবহার করে।"
-      },
-      {
-        "en": "His timeless stories prove that deep understanding of human nature outlasts kings, empires, and centuries.",
-        "bn": "তাঁর কালজয়ী নাটকগুলো প্রমাণ করে যে মানবচরিত্রের গভীর উপলব্ধি রাজা, সাম্রাজ্য এবং শতকের পর শতক পেরিয়ে চিরকাল বেঁচে থাকে।"
-      }
-    ]
-  },
-  {
-    "id": "bio-confucius-student",
-    "title": "Confucius and the Weight of Truth",
-    "titleBn": "কনফুসিয়াস এবং সত্যের মর্যাদা",
-    "author": "Historical Biography",
-    "level": "Intermediate",
-    "category": "Inspiring Biography",
+    "levelColor": "cyan",
+    "category": "Stories of the Prophets",
     "coverEmoji": "📜",
-    "summary": "The ancient Chinese sage demonstrates to his disciples that character and integrity matter far more than wealth.",
-    "summaryBn": "প্রাচীন চীনের এই মহান দার্শনিক শিষ্যদের শিখিয়েছিলেন যে ধনসম্পদের চেয়ে মানুষের চরিত্র ও সত্যের মূল্য অনেক বেশি।",
+    "summary": "The remarkable life of Prophet Idris (Enoch), the first man to write with a pen, stitch garments, and ascend to high spiritual honor.",
+    "summaryBn": "প্রথম কলম দিয়ে লেখার প্রবর্তক, পোশাক সেলাইকারী এবং আসমানে উচ্চ মর্যাদায় উন্নীত নবী হযরত ইদ্রিস (আ.)-এর বিস্ময়কর জীবনগাথা।",
     "sentences": [
       {
-        "en": "More than two thousand years ago in ancient China, the philosopher Confucius traveled with a loyal group of students.",
-        "bn": "দুই হাজারেরও বেশি বছর আগে প্রাচীন চীনে দার্শনিক কনফুসিয়াস তাঁর একদল বিশ্বস্ত ছাত্রকে সাথে নিয়ে দেশভ্রমণ করতেন।"
+        "en": "Prophet Idris (AS) lived in the ancient era following Prophet Adam and was renowned for his profound truthfulness.",
+        "bn": "হযরত ইদ্রিস (আ.) আদম (আ.)-এর পরবর্তী প্রাচীন যুগে বাস করতেন এবং তিনি তাঁর অগাধ সত্যবাদিতার জন্য প্রসিদ্ধ ছিলেন।",
+        "words": [
+          {
+            "en": "Prophet Idris",
+            "bn": "নবী ইদ্রিস"
+          },
+          {
+            "en": "lived in",
+            "bn": "বাস করতেন"
+          },
+          {
+            "en": "the ancient era",
+            "bn": "প্রাচীন যুগে"
+          },
+          {
+            "en": "following Prophet Adam",
+            "bn": "নবী আদমের পরে"
+          },
+          {
+            "en": "and was renowned",
+            "bn": "এবং সুপরিচিত ছিলেন"
+          },
+          {
+            "en": "for his profound truthfulness",
+            "bn": "তাঁর গভীর সত্যবাদিতার জন্য"
+          }
+        ]
       },
       {
-        "en": "He taught that rulers must govern through virtue, and ordinary citizens must cultivate self-respect and honesty.",
-        "bn": "তিনি শিক্ষা দিতেন যে শাসকদের সদ্গুণের মাধ্যমে রাজ্য চালানো উচিত এবং সাধারণ মানুষের উচিত আত্মসম্মান ও সততা বজায় রাখা।"
+        "en": "Historical traditions record that he was the very first person in human history to write using a pen.",
+        "bn": "ঐতিহাসিক বর্ণনায় পাওয়া যায় যে তিনি মানব ইতিহাসের সর্বপ্রথম ব্যক্তি যিনি কলম দিয়ে লিখতে শুরু করেছিলেন।",
+        "words": [
+          {
+            "en": "Historical traditions",
+            "bn": "ঐতিহাসিক বর্ণনা"
+          },
+          {
+            "en": "record that",
+            "bn": "উল্লেখ করে যে"
+          },
+          {
+            "en": "he was",
+            "bn": "তিনি ছিলেন"
+          },
+          {
+            "en": "the very first person",
+            "bn": "সর্বপ্রথম ব্যক্তি"
+          },
+          {
+            "en": "in human history",
+            "bn": "মানব ইতিহাসে"
+          },
+          {
+            "en": "to write",
+            "bn": "লিখতে"
+          },
+          {
+            "en": "using a pen",
+            "bn": "কলম ব্যবহার করে"
+          }
+        ]
       },
       {
-        "en": "During a harsh winter travel, the group ran out of food and had to fast for three cold, bitter days.",
-        "bn": "এক শীতের সফরে তাঁদের সব খাবার শেষ হয়ে গেল এবং টানা তিন দিন তাঁদের উপোস থাকতে হলো।"
+        "en": "Before his time, people wore animal skins, but Idris pioneered the crafting and stitching of cloth garments.",
+        "bn": "তাঁর সময়ের আগে মানুষ পশুর চামড়া পরিধান করত, কিন্তু ইদ্রিস (আ.) কাপড় তৈরি ও সেলাই করে পোশাকের সূচনা করেন।",
+        "words": [
+          {
+            "en": "Before his time",
+            "bn": "তাঁর সময়ের আগে"
+          },
+          {
+            "en": "people wore",
+            "bn": "মানুষ পরত"
+          },
+          {
+            "en": "animal skins",
+            "bn": "পশুর চামড়া"
+          },
+          {
+            "en": "but Idris pioneered",
+            "bn": "কিন্তু ইদ্রিস পথপ্রদর্শন করলেন"
+          },
+          {
+            "en": "the crafting",
+            "bn": "তৈরি করতে"
+          },
+          {
+            "en": "and stitching",
+            "bn": "ও সেলাই করতে"
+          },
+          {
+            "en": "of cloth garments",
+            "bn": "কাপড়ের পোশাক"
+          }
+        ]
       },
       {
-        "en": "One disciple named Yan Hui managed to acquire a tiny portion of raw rice and began cooking it in a pot.",
-        "bn": "ইয়ান হুই নামের এক প্রিয় ছাত্র সামান্য চাল জোগাড় করে একটি পাত্রে তা রান্না করতে বসলেন।"
+        "en": "With every stitch of the needle, he gloriously remembered Allah by declaring: 'Subhanallah wa Alhamdulillah'.",
+        "bn": "ছুঁচের প্রতিটি ফোঁড় দেওয়ার সাথে সাথে তিনি বলতেন: 'সুবহানাল্লাহ ওয়ালহামদুলিল্লাহ' বলে আল্লাহর মহিমা স্মরণ করতেন।",
+        "words": [
+          {
+            "en": "With every stitch",
+            "bn": "প্রতিটি ফোঁড়ের সাথে"
+          },
+          {
+            "en": "of the needle",
+            "bn": "ছুঁচের"
+          },
+          {
+            "en": "he gloriously remembered",
+            "bn": "তিনি মহিমান্বিতভাবে স্মরণ করতেন"
+          },
+          {
+            "en": "Allah",
+            "bn": "আল্লাহকে"
+          },
+          {
+            "en": "by declaring",
+            "bn": "উচ্চারণ করে"
+          },
+          {
+            "en": "Subhanallah",
+            "bn": "সুবহানাল্লাহ"
+          },
+          {
+            "en": "wa Alhamdulillah",
+            "bn": "ওয়ালহামদুলিল্লাহ"
+          }
+        ]
       },
       {
-        "en": "Confucius looked through the window and saw Yan Hui secretly take a mouthful of cooked rice before serving.",
-        "bn": "কনফুসিয়াস জানালা দিয়ে দেখতে পেলেন যে ইয়ান হুই পরিবেশন করার আগেই গোপনে পাত্র থেকে এক লোকমা ভাত খেয়ে ফেললেন।"
+        "en": "He studied the movement of celestial bodies, introducing early astronomical knowledge grounded in monotheism.",
+        "bn": "তিনি মহাকাশের গ্রহ-নক্ষত্রের গতিবিধি পর্যবেক্ষণ করতেন এবং তাওহিদের ওপর ভিত্তি করে জ্যোতির্বিজ্ঞানের প্রাথমিক জ্ঞান বিস্তার করেন।",
+        "words": [
+          {
+            "en": "He studied",
+            "bn": "তিনি গবেষণা করতেন"
+          },
+          {
+            "en": "the movement",
+            "bn": "গতিবিধি"
+          },
+          {
+            "en": "of celestial bodies",
+            "bn": "মহাজাগতিক নক্ষত্রমালার"
+          },
+          {
+            "en": "introducing",
+            "bn": "সূচনা করে"
+          },
+          {
+            "en": "early astronomical knowledge",
+            "bn": "প্রাথমিক জ্যোতির্বিজ্ঞান"
+          },
+          {
+            "en": "grounded in monotheism",
+            "bn": "একত্ববাদে প্রতিষ্ঠিত"
+          }
+        ]
       },
       {
-        "en": "Instead of scolding him, Confucius gently asked if the rice was pure enough to offer as an ancestor sacrifice.",
-        "bn": "রেগে বকা দেওয়ার বদলে কনফুসিয়াস শান্তভাবে জিজ্ঞেস করলেন, এই ভাত কি পূর্বপুরুষদের উদ্দেশ্যে নিবেদন করার মতো পবিত্র আছে?"
+        "en": "He tirelessly warned his community against falling into the temptations of arrogance and unlawful bloodshed.",
+        "bn": "তিনি অহংকার ও অন্যায় রক্তপাতের ফাঁদে পা না দেওয়ার জন্য তাঁর সম্প্রদায়কে অক্লান্তভাবে সতর্ক করেছিলেন।",
+        "words": [
+          {
+            "en": "He tirelessly warned",
+            "bn": "তিনি অক্লান্তভাবে সতর্ক করলেন"
+          },
+          {
+            "en": "his community",
+            "bn": "তাঁর সম্প্রদায়কে"
+          },
+          {
+            "en": "against falling into",
+            "bn": "পড়ে যাওয়ার বিরুদ্ধে"
+          },
+          {
+            "en": "the temptations",
+            "bn": "প্রলোভনে"
+          },
+          {
+            "en": "of arrogance",
+            "bn": "অহংকারের"
+          },
+          {
+            "en": "and unlawful bloodshed",
+            "bn": "ও অন্যায় রক্তপাতের"
+          }
+        ]
       },
       {
-        "en": "Yan Hui explained that soot had fallen from the roof into the pot; he ate the dirty rice so it would not be wasted.",
-        "bn": "ইয়ান হুই ব্যাখ্যা করলেন যে ছাদ থেকে সামান্য কালি ভাতে পড়েছিল; অপচয় না করতে তিনি নিজেই সেই অংশটুকু খেয়ে ফেলেছিলেন।"
+        "en": "The Holy Quran honors him with sublime words: 'And mention Idris in the Book; indeed, he was a man of truth and a prophet.'",
+        "bn": "পবিত্র কুরআনে তাঁকে মহিমান্বিত ভাষায় স্মরণ করা হয়েছে: 'এই কিতাবে ইদ্রিসের কথা উল্লেখ করো; নিশ্চয়ই তিনি ছিলেন একজন সত্যনিষ্ঠ নবী।'",
+        "words": [
+          {
+            "en": "The Holy Quran",
+            "bn": "পবিত্র কুরআন"
+          },
+          {
+            "en": "honors him",
+            "bn": "তাঁকে সম্মানিত করেছে"
+          },
+          {
+            "en": "with sublime words",
+            "bn": "মহিমান্বিত বাণীতে"
+          },
+          {
+            "en": "And mention Idris",
+            "bn": "এবং ইদ্রিসের কথা স্মরণ করো"
+          },
+          {
+            "en": "in the Book",
+            "bn": "কিতাবের মধ্যে"
+          },
+          {
+            "en": "indeed he was",
+            "bn": "নিশ্চয় তিনি ছিলেন"
+          },
+          {
+            "en": "a man of truth",
+            "bn": "পরম সত্যবাদী ব্যক্তি"
+          },
+          {
+            "en": "and a prophet",
+            "bn": "এবং একজন নবী"
+          }
+        ]
       },
       {
-        "en": "Confucius bowed respectfully to his student, realizing that true integrity is practiced even when nobody is looking.",
-        "bn": "কনফুসিয়াস শ্রদ্ধার সাথে তাঁর ছাত্রের সামনে মাথা নত করলেন এবং বুঝলেন যে প্রকৃত সততা তা-ই যা কেউ না দেখলেও মানুষ পালন করে।"
+        "en": "Allah elevated him to a lofty spiritual station, raising him high among the heavens.",
+        "bn": "আল্লাহ তাঁকে এক উচ্চ আধ্যাত্মিক মর্যাদায় উন্নীত করেছিলেন এবং আসমানে উচ্চ স্থানে স্থান দিয়েছিলেন।",
+        "words": [
+          {
+            "en": "Allah elevated him",
+            "bn": "আল্লাহ তাঁকে উন্নীত করলেন"
+          },
+          {
+            "en": "to a lofty spiritual station",
+            "bn": "এক উচ্চ আধ্যাত্মিক মর্যাদায়"
+          },
+          {
+            "en": "raising him high",
+            "bn": "তাঁকে উঁচুতে তুলে নিয়ে"
+          },
+          {
+            "en": "among the heavens",
+            "bn": "আকাশমণ্ডলীর মাঝে"
+          }
+        ]
       }
     ]
   },
   {
-    "id": "bio-mahatma-train",
-    "title": "The Lesson of the Dropped Shoe",
-    "titleBn": "ট্রেন থেকে পড়ে যাওয়া জুতো",
-    "author": "Historical Biography",
-    "level": "Intermediate",
-    "category": "Inspiring Biography",
-    "coverEmoji": "👟",
-    "summary": "Mahatma Gandhi acts spontaneously with profound empathy as a crowded passenger train pulls away.",
-    "summaryBn": "চলন্ত ট্রেনে ওঠার মুহূর্তে মহাত্মা গান্ধী কীভাবে তাৎক্ষণিক সহমর্মিতার এক অনন্য দৃষ্টান্ত স্থাপন করেছিলেন।",
+    "id": "prophet-nuh-ark",
+    "title": "Prophet Nuh and the Great Ark of Deliverance",
+    "titleBn": "হযরত নূহ (আ.) ও মহাপ্লাবনের ঐতিহাসিক কিশতী",
+    "author": "Quranic Narrative (Surah Hud & Nuh)",
+    "level": "Advanced",
+    "levelColor": "blue",
+    "category": "Stories of the Prophets",
+    "coverEmoji": "🚢",
+    "summary": "Nine hundred and fifty years of patient calling, the construction of the giant ship upon dry land, and the great deluge that cleansed the earth.",
+    "summaryBn": "সাড়ে নয়শত বছরের অপরিসীম ধৈর্যশীল দাওয়াত, মরুভূমির বুকে বিশাল জাহাজ নির্মাণ এবং মহাপ্লাবনের মাধ্যমে সত্যের বিজয়ের মহাকাব্য।",
     "sentences": [
       {
-        "en": "Mahatma Gandhi was hurrying to board a crowded passenger train at a busy railway station in India.",
-        "bn": "ভারতের এক ব্যস্ত রেলওয়ে স্টেশনে যাত্রীদের ভিড়ের মাঝে মহাত্মা গান্ধী দ্রুত একটি ট্রেনে ওঠার চেষ্টা করছিলেন।"
+        "en": "For nine hundred and fifty years, Prophet Nuh called his nation day and night to worship only Allah.",
+        "bn": "দীর্ঘ সাড়ে নয়শত বছর ধরে হযরত নূহ (আ.) রাত-দিন অক্লান্তভাবে তাঁর জাতিকে একমাত্র আল্লাহর ইবাদতের দিকে ডাকলেন।",
+        "words": [
+          {
+            "en": "For nine hundred and fifty years",
+            "bn": "সাড়ে নয়শত বছর ধরে"
+          },
+          {
+            "en": "Prophet Nuh",
+            "bn": "নবী নূহ"
+          },
+          {
+            "en": "called his nation",
+            "bn": "তাঁর জাতিকে ডাকলেন"
+          },
+          {
+            "en": "day and night",
+            "bn": "দিন ও রাতে"
+          },
+          {
+            "en": "to worship",
+            "bn": "ইবাদত করতে"
+          },
+          {
+            "en": "only Allah",
+            "bn": "কেবলমাত্র আল্লাহর"
+          }
+        ]
       },
       {
-        "en": "As he stepped onto the moving footboard, one of his leather sandals slipped from his foot and fell onto the track.",
-        "bn": "চলন্ত ট্রেনের পাদানিতে পা রাখতেই তাঁর পায়ের একটি চামড়ার চটি খুলে রেললাইনের ওপর পড়ে গেল।"
+        "en": "Instead of listening, the stubborn chieftains placed their fingers in their ears and covered themselves in obstinate pride.",
+        "bn": "কিন্তু উপদেশ শোনার বদলে সেই দাম্ভিক সর্দাররা কানে আঙুল গুঁজে দিত এবং অহংকারে নিজেদের চাদরে ঢেকে রাখত।",
+        "words": [
+          {
+            "en": "Instead of listening",
+            "bn": "শোনার পরিবর্তে"
+          },
+          {
+            "en": "the stubborn chieftains",
+            "bn": "একগুঁয়ে নেতারা"
+          },
+          {
+            "en": "placed their fingers",
+            "bn": "তাদের আঙুল চেপে ধরত"
+          },
+          {
+            "en": "in their ears",
+            "bn": "তাদের কানের ভেতরে"
+          },
+          {
+            "en": "and covered themselves",
+            "bn": "এবং নিজেদের ঢেকে রাখত"
+          },
+          {
+            "en": "in obstinate pride",
+            "bn": "চরম দাম্ভিক অহংকারে"
+          }
+        ]
       },
       {
-        "en": "Because the train was accelerating, Gandhi could not jump down to retrieve the lost sandal safely.",
-        "bn": "ট্রেনের গতি তখন বাড়ছিল, তাই নিরাপদে নেমে গিয়ে পড়ে যাওয়া চটিটি তুলে আনার কোনো উপায় ছিল না।"
+        "en": "They worshiped fabricated idols named Wadd, Suwa, Yaghuth, Ya'uq, and Nasr, refusing to heed the truth.",
+        "bn": "তারা ওয়াদ্দ, সুওয়া, ইয়াগূস, ইয়াঊক ও নাসর নামক মনগড়া মূর্তির উপাসনা করত এবং সত্য মেনে নিতে অস্বীকৃতি জানাত।",
+        "words": [
+          {
+            "en": "They worshiped",
+            "bn": "তারা পূজা করত"
+          },
+          {
+            "en": "fabricated idols",
+            "bn": "মনগড়া মূর্তিগুলোকে"
+          },
+          {
+            "en": "refusing to heed",
+            "bn": "মানতে অস্বীকৃতি জানিয়ে"
+          },
+          {
+            "en": "the truth",
+            "bn": "সত্যকে"
+          }
+        ]
       },
       {
-        "en": "Without a moment of hesitation, Gandhi immediately took off his other sandal and threw it back near the first one.",
-        "bn": "এক মুহূর্তও দেরি না করে গান্ধীজি তৎক্ষণাৎ নিজের পায়ের অন্য চটিটিও খুলে প্রথমটির কাছাকাছি ফেলে দিলেন।"
+        "en": "When all avenues of gentle persuasion were exhausted, Allah commanded Nuh to construct a massive ship under divine guidance.",
+        "bn": "যখন সব ধরণের নম্র উপদেশ বিফলে গেল, তখন আল্লাহ নূহ (আ.)-কে ঐশী নির্দেশনায় এক সুবিশাল জাহাজ তৈরি করার হুকুম দিলেন।",
+        "words": [
+          {
+            "en": "When all avenues",
+            "bn": "যখন সমস্ত পথ"
+          },
+          {
+            "en": "of gentle persuasion",
+            "bn": "নম্র বোঝানোর"
+          },
+          {
+            "en": "were exhausted",
+            "bn": "নিঃশেষ হয়ে গেল"
+          },
+          {
+            "en": "Allah commanded",
+            "bn": "আল্লাহ আদেশ করলেন"
+          },
+          {
+            "en": "Nuh to construct",
+            "bn": "নূহকে নির্মাণ করতে"
+          },
+          {
+            "en": "a massive ship",
+            "bn": "একটি বিশাল জাহাজ"
+          },
+          {
+            "en": "under divine guidance",
+            "bn": "ঐশী তত্ত্বাবধানে"
+          }
+        ]
       },
       {
-        "en": "Surprised fellow passengers on board asked why he had discarded his remaining useful shoe.",
-        "bn": "ট্রেনের ভেতরে থাকা সহযাত্রীরা অবাক হয়ে জিজ্ঞেস করলেন কেন তিনি নিজের ভালো জুতোটিও এভাবে ফেলে দিলেন।"
+        "en": "As he hammered timber in the arid inland hills, passing scoffers mocked him for building a vessel far from water.",
+        "bn": "তিনি যখন শুকনো পাহাড়ি ভূমিতে কাঠের তক্তা জুড়ছিলেন, তখন পথচারী বিদ্রূপকারীরা জলহীন জায়গায় জাহাজ বানাতে দেখে উপহাস করত।",
+        "words": [
+          {
+            "en": "As he hammered timber",
+            "bn": "যখন তিনি কাঠ জোড়া দিচ্ছিলেন"
+          },
+          {
+            "en": "in the arid inland hills",
+            "bn": "শুকনো পাহাড়ি এলাকায়"
+          },
+          {
+            "en": "passing scoffers",
+            "bn": "পথচারী উপহাসকারীরা"
+          },
+          {
+            "en": "mocked him",
+            "bn": "তাঁকে উপহাস করত"
+          },
+          {
+            "en": "for building a vessel",
+            "bn": "জাহাজ নির্মাণের জন্য"
+          },
+          {
+            "en": "far from water",
+            "bn": "পানি থেকে বহু দূরে"
+          }
+        ]
       },
       {
-        "en": "Gandhi smiled warmly and replied, 'A single sandal is completely useless to me now, and useless to whoever finds it.'",
-        "bn": "গান্ধীজি মিষ্টি হেসে উত্তর দিলেন, 'একটি চটি এখন আমার কোনো কাজে আসবে না, আবার যে কুড়িয়ে পাবে তারও কোনো উপকারে লাগবে না।'"
+        "en": "Nuh patiently responded: 'Though you mock us now, soon you will know upon whom a humiliating punishment descends.'",
+        "bn": "নূহ (আ.) ধৈর্যের সাথে উত্তর দিলেন: 'আজ তোমরা আমাদের উপহাস করছ বটে, কিন্তু অতি শীঘ্রই জানতে পারবে কার ওপর লাঞ্ছনাকর শাস্তি নেমে আসে।'",
+        "words": [
+          {
+            "en": "Nuh patiently responded",
+            "bn": "নূহ ধৈর্যের সাথে উত্তর দিলেন"
+          },
+          {
+            "en": "Though you mock us now",
+            "bn": "যদিও তোমরা এখন উপহাস করছ"
+          },
+          {
+            "en": "soon you will know",
+            "bn": "শীঘ্রই তোমরা জানবে"
+          },
+          {
+            "en": "upon whom",
+            "bn": "কার ওপর"
+          },
+          {
+            "en": "a humiliating punishment",
+            "bn": "এক লাঞ্ছনাকর শাস্তি"
+          },
+          {
+            "en": "descends",
+            "bn": "নেমে আসে"
+          }
+        ]
       },
       {
-        "en": "'Now, some poor laborer walking along the tracks will find a complete pair and be able to wear them comfortably.'",
-        "bn": "'কিন্তু এখন রেললাইন ধরে হেঁটে যাওয়া কোনো দরিদ্র মজুর পুরো জোড়া পেয়ে আরামে পায়ে পরতে পারবে।'"
+        "en": "When the appointed decree arrived, water burst forcefully from boiling ovens and torrential rain poured from the heavens.",
+        "bn": "যখন নির্ধারিত ক্ষণ উপস্থিত হলো, তখন চুল্লি ফেটে প্রচণ্ড বেগে পানি উথলে উঠল এবং আকাশ থেকে মুষলধারে বারিধারা নামল।",
+        "words": [
+          {
+            "en": "When the appointed decree",
+            "bn": "যখন নির্ধারিত ফয়সালা"
+          },
+          {
+            "en": "arrived",
+            "bn": "এসে পৌঁছাল"
+          },
+          {
+            "en": "water burst forcefully",
+            "bn": "পানি প্রচণ্ড বেগে বিস্ফোরিত হলো"
+          },
+          {
+            "en": "from boiling ovens",
+            "bn": "উত্তপ্ত চুল্লি থেকে"
+          },
+          {
+            "en": "and torrential rain",
+            "bn": "এবং মুষলধারে বৃষ্টি"
+          },
+          {
+            "en": "poured",
+            "bn": "ঝরতে লাগল"
+          },
+          {
+            "en": "from the heavens",
+            "bn": "আসমান থেকে"
+          }
+        ]
       },
       {
-        "en": "True generosity means considering the welfare of others even in unexpected moments of personal loss.",
-        "bn": "প্রকৃত উদারতা হলো নিজের কোনো ক্ষতি হলেও মুহূর্তের মধ্যে অন্যের কল্যাণের কথা চিন্তা করা।"
+        "en": "Nuh boarded the Ark with the believers and a male-and-female pair of every animal species.",
+        "bn": "নূহ (আ.) সমস্ত মুমিনদের এবং প্রতিটি প্রাণীর এক এক জোড়া নর-মাদী নিয়ে আল্লাহর নামে জাহাজে আরোহণ করলেন।",
+        "words": [
+          {
+            "en": "Nuh boarded",
+            "bn": "নূহ আরোহণ করলেন"
+          },
+          {
+            "en": "the Ark",
+            "bn": "জাহাজে / কিশতীতে"
+          },
+          {
+            "en": "with the believers",
+            "bn": "মুমিনদের সাথে নিয়ে"
+          },
+          {
+            "en": "and a male-and-female pair",
+            "bn": "এবং একজোড়া নর ও মাদী"
+          },
+          {
+            "en": "of every animal species",
+            "bn": "প্রতিটি প্রজাতির প্রাণী থেকে"
+          }
+        ]
+      },
+      {
+        "en": "Mountainous waves surged across the land, swallowing towers, trees, and unrepentant oppressors.",
+        "bn": "পাহাড়সমান বিশালাকার ঢেউ চারদিক গ্রাস করে নিল এবং সমস্ত দালানকোঠা ও উদ্ধত জালিমদের ডুবিয়ে ধ্বংস করে দিল।",
+        "words": [
+          {
+            "en": "Mountainous waves",
+            "bn": "পাহাড়সমান ঢেউগুলো"
+          },
+          {
+            "en": "surged across",
+            "bn": "উত্তাল হয়ে আছড়ে পড়ল"
+          },
+          {
+            "en": "the land",
+            "bn": "জমিনের ওপর"
+          },
+          {
+            "en": "swallowing towers",
+            "bn": "উঁচু ভবনগুলোকে গিলে ফেলে"
+          },
+          {
+            "en": "trees",
+            "bn": "গাছপালা"
+          },
+          {
+            "en": "and unrepentant oppressors",
+            "bn": "এবং অনুতাপহীন জালিমদের"
+          }
+        ]
+      },
+      {
+        "en": "Nuh called out with a broken heart to his rebellious son Kan'an, who foolishly sought refuge on a high mountaintop.",
+        "bn": "নূহ ব্যথিত হৃদয়ে তাঁর অবাধ্য পুত্র কানআনকে ডাকলেন, কিন্তু সে মূর্খের মতো এক উঁচু পাহাড়ের চূড়ায় আশ্রয় নিতে চাইল।",
+        "words": [
+          {
+            "en": "Nuh called out",
+            "bn": "নূহ ডেকে বললেন"
+          },
+          {
+            "en": "with a broken heart",
+            "bn": "ভাঙা হৃদয় নিয়ে"
+          },
+          {
+            "en": "to his rebellious son",
+            "bn": "তাঁর অবাধ্য ছেলেকে"
+          },
+          {
+            "en": "who foolishly sought refuge",
+            "bn": "যে বোকামি করে আশ্রয় চাইল"
+          },
+          {
+            "en": "on a high mountaintop",
+            "bn": "এক উঁচু পাহাড়ের চূড়ায়"
+          }
+        ]
+      },
+      {
+        "en": "A towering wave surged between them, and the son was numbered among the drowned.",
+        "bn": "হঠাৎ তাদের মাঝে এক বিশালাকার ঢেউ বাধা হয়ে দাঁড়াল এবং পুত্রটি নিমেষেই পানিতে ডুবে ধ্বংস হয়ে গেল।",
+        "words": [
+          {
+            "en": "A towering wave",
+            "bn": "একটি বিশাল ঢেউ"
+          },
+          {
+            "en": "surged between them",
+            "bn": "তাদের মাঝে আছড়ে পড়ল"
+          },
+          {
+            "en": "and the son",
+            "bn": "এবং ছেলেটি"
+          },
+          {
+            "en": "was numbered",
+            "bn": "গণ্য হলো"
+          },
+          {
+            "en": "among the drowned",
+            "bn": "ডুবে যাওয়াদের অন্তর্ভুক্ত"
+          }
+        ]
+      },
+      {
+        "en": "Finally, the command came: 'O earth, swallow your water! O sky, withhold!' And the Ark rested peacefully upon Mount Judi.",
+        "bn": "অবশেষে ঐশী আদেশ এলো: 'হে জমিন! তোমার পানি গিলে ফেলো! হে আকাশ! ক্ষান্ত হও!' আর কিশতীটি জুদী পাহাড়ে গিয়ে শান্তভাবে নোঙর করল।",
+        "words": [
+          {
+            "en": "Finally",
+            "bn": "অবশেষে"
+          },
+          {
+            "en": "the command came",
+            "bn": "আদেশ এলো"
+          },
+          {
+            "en": "O earth swallow",
+            "bn": "হে জমিন গিলে ফেলো"
+          },
+          {
+            "en": "your water",
+            "bn": "তোমার পানি"
+          },
+          {
+            "en": "O sky withhold",
+            "bn": "হে আকাশ ক্ষান্ত হও"
+          },
+          {
+            "en": "And the Ark rested",
+            "bn": "এবং জাহাজটি স্থির হলো"
+          },
+          {
+            "en": "peacefully",
+            "bn": "পরম শান্তিতে"
+          },
+          {
+            "en": "upon Mount Judi",
+            "bn": "জুদী পাহাড়ের চূড়ায়"
+          }
+        ]
       }
     ]
   },
   {
-    "id": "bio-charles-darwin",
-    "title": "Darwin and the Living Island of Wonder",
-    "titleBn": "ডারউইন এবং গালাপাগোসের জীবন্ত বিস্ময়",
-    "author": "Historical Biography",
+    "id": "prophet-hud-aad",
+    "title": "Prophet Hud and the Arrogant City of Iram",
+    "titleBn": "হযরত হূদ (আ.) ও অহংকারী আদ জাতির মর্মান্তিক পরিণতি",
+    "author": "Quranic Narrative (Surah Al-Ahqaf & Al-Fajr)",
     "level": "Intermediate",
-    "category": "Inspiring Biography",
-    "coverEmoji": "🐢",
-    "summary": "A five-year voyage aboard HMS Beagle reveals how nature shapes every living creature to fit its environment.",
-    "summaryBn": "এইচএমএস বিগল জাহাজে পাঁচ বছরের সমুদ্রযাত্রা কীভাবে উন্মোচন করল পরিবেশের সাথে জীবের খাপ খাইয়ে নেওয়ার রহস্য।",
+    "levelColor": "rose",
+    "category": "Stories of the Prophets",
+    "coverEmoji": "🏛️",
+    "summary": "The people of Aad possessed unmatched physical strength and built the soaring city of Iram, but rejected the call of Hud and faced a furious shrieking wind.",
+    "summaryBn": "অতুলনীয় শারীরিক শক্তি ও সুউচ্চ স্তম্ভের নগরী ইরামের অধিপতি আদ জাতি যখন নবী হূদ (আ.)-কে প্রত্যাখ্যান করল, তখন তাদের ওপর নেমে এলো এক ভয়াল গর্জনশীল কালবৈশাখী ঝড়।",
     "sentences": [
       {
-        "en": "In 1831, a curious young naturalist named Charles Darwin set sail on a five-year global voyage aboard HMS Beagle.",
-        "bn": "১৮৩১ সালে চার্লস ডারউইন নামের এক তরুণ প্রকৃতিবিদ এইচএমএস বিগল জাহাজে পাঁচ বছরের বিশ্বভ্রমণে বের হলেন।"
+        "en": "The people of Aad lived in the lush sand dunes of Al-Ahqaf, between Yemen and Oman.",
+        "bn": "আদ জাতি ইয়েমেন ও ওমানের মধ্যবর্তী আল-আহকাফের উর্বর বালিয়াড়িতে বসবাস করত।",
+        "words": [
+          {
+            "en": "The people of Aad",
+            "bn": "আদ সম্প্রদায়"
+          },
+          {
+            "en": "lived in",
+            "bn": "বাস করত"
+          },
+          {
+            "en": "the lush sand dunes",
+            "bn": "উর্বর বালিয়াড়িতে"
+          },
+          {
+            "en": "of Al-Ahqaf",
+            "bn": "আল-আহকাফের"
+          },
+          {
+            "en": "between Yemen and Oman",
+            "bn": "ইয়েমেন ও ওমানের মাঝে"
+          }
+        ]
       },
       {
-        "en": "When the ship anchored at the remote Galápagos Islands in the Pacific Ocean, Darwin discovered an astonishing living laboratory.",
-        "bn": "প্রশান্ত মহাসাগরের প্রত্যন্ত গালাপাগোস দ্বীপপুঞ্জে জাহাজ নোঙর করতেই ডারউইন জীবন্ত প্রকৃতির এক বিস্ময়কর জগৎ দেখতে পেলেন।"
+        "en": "Allah blessed them with towering physical stature, incredible strength, and lush flowing gardens.",
+        "bn": "আল্লাহ তাদের দীর্ঘকায় শারীরিক গঠন, অবিশ্বাস্য শক্তি এবং সমৃদ্ধ ঝর্ণাধারার সবুজ বাগান দান করেছিলেন।",
+        "words": [
+          {
+            "en": "Allah blessed them",
+            "bn": "আল্লাহ তাদের অনুগ্রহ করলেন"
+          },
+          {
+            "en": "with towering physical stature",
+            "bn": "বিশাল দীর্ঘ দেহাবয়ব দিয়ে"
+          },
+          {
+            "en": "incredible strength",
+            "bn": "অবিশ্বাস্য শক্তি"
+          },
+          {
+            "en": "and lush flowing gardens",
+            "bn": "ও সতেজ বহমান বাগান"
+          }
+        ]
       },
       {
-        "en": "He noticed that giant tortoises on different islands had distinctly shaped shells suited to their food sources.",
-        "bn": "তিনি লক্ষ্য করলেন যে বিভিন্ন দ্বীপের বিশাল কচ্ছপদের পিঠের খোলস সেখানকার খাবারের ধরণের সাথে পুরোপুরি মানানসই।"
+        "en": "They constructed the legendary city of Iram with soaring pillars unlike any other city created in the land.",
+        "bn": "তারা সুউচ্চ স্তম্ভবিশিষ্ট রূপকথাতুল্য ইরাম নগরী গড়ে তুলেছিল, যার মতো নগরী তখন পৃথিবীতে কোথাও নির্মিত হয়নি।",
+        "words": [
+          {
+            "en": "They constructed",
+            "bn": "তারা নির্মাণ করেছিল"
+          },
+          {
+            "en": "the legendary city",
+            "bn": "সেই বিখ্যাত ঐতিহাসিক নগরী"
+          },
+          {
+            "en": "of Iram",
+            "bn": "ইরামের"
+          },
+          {
+            "en": "with soaring pillars",
+            "bn": "আকাশচুম্বী স্তম্ভবিশিষ্ট"
+          },
+          {
+            "en": "unlike any other city",
+            "bn": "অন্য কোনো শহরের মতো নয়"
+          },
+          {
+            "en": "created in the land",
+            "bn": "যা দুনিয়ায় তৈরি হয়েছিল"
+          }
+        ]
       },
       {
-        "en": "Even more fascinating were the small finch birds, whose beaks varied dramatically from one island to the next.",
-        "bn": "আরও অবাক করা বিষয় ছিল ছোট ফিঞ্চ পাখিরা, যাদের ঠোঁটের আকৃতি এক দ্বীপ থেকে অন্য দ্বীপে সম্পূর্ণ আলাদা ছিল।"
+        "en": "Drunk on power, they boasted arrogantly: 'Who is mightier than us in strength?'",
+        "bn": "ক্ষমতার অহংকারে মত্ত হয়ে তারা দম্ভভরে বলত: 'আমাদের চেয়ে বেশি শক্তিশালী আর কে আছে?'",
+        "words": [
+          {
+            "en": "Drunk on power",
+            "bn": "ক্ষমতার দম্ভে মাতাল হয়ে"
+          },
+          {
+            "en": "they boasted arrogantly",
+            "bn": "তারা অহংকারে আস্ফালন করত"
+          },
+          {
+            "en": "Who is mightier",
+            "bn": "কে বেশি শক্তিশালী"
+          },
+          {
+            "en": "than us",
+            "bn": "আমাদের চেয়ে"
+          },
+          {
+            "en": "in strength",
+            "bn": "শক্তিমত্তায়"
+          }
+        ]
       },
       {
-        "en": "Birds eating tough seeds had thick, sturdy beaks, while birds hunting insects had slender, pointed beaks.",
-        "bn": "যে পাখিরা শক্ত বীজ খেত তাদের ঠোঁট ছিল মোটা ও শক্ত, আর যারা পোকামাকড় খেত তাদের ঠোঁট ছিল সরু ও চোখা।"
+        "en": "Prophet Hud pleaded with them: 'Remember your Creator who gave you this majesty, and cease oppressing the weak.'",
+        "bn": "হযরত হূদ (আ.) তাদের বিনম্র আহ্বান জানিয়ে বললেন: 'তোমাদের সৃষ্টিকর্তাকে ভয় করো যিনি তোমাদের এই প্রাচুর্য দিয়েছেন, আর দুর্বলদের ওপর জুলুম বন্ধ করো।'",
+        "words": [
+          {
+            "en": "Prophet Hud pleaded",
+            "bn": "নবী হূদ বিনতি করলেন"
+          },
+          {
+            "en": "with them",
+            "bn": "তাদের প্রতি"
+          },
+          {
+            "en": "Remember your Creator",
+            "bn": "তোমাদের সৃষ্টিকর্তাকে স্মরণ করো"
+          },
+          {
+            "en": "who gave you",
+            "bn": "যিনি তোমাদের দিয়েছেন"
+          },
+          {
+            "en": "this majesty",
+            "bn": "এই প্রতাপ ও মহিমা"
+          },
+          {
+            "en": "and cease oppressing",
+            "bn": "এবং নিপীড়ন বন্ধ করো"
+          },
+          {
+            "en": "the weak",
+            "bn": "দুর্বলদের"
+          }
+        ]
       },
       {
-        "en": "Darwin realized that species were not static; they gradually adapted over generations to survive in their surroundings.",
-        "bn": "ডারউইন উপলব্ধি করলেন যে প্রাণীরা চিরকাল অপরিবর্তিত থাকে না; বেঁচে থাকার তাগিদে তারা পরিবেশের সাথে মানিয়ে নেয়।"
+        "en": "They rejected him mockingly, demanding that he bring forth the punishment he kept warning them about.",
+        "bn": "তারা তাঁকে বিদ্রূপ করে তাড়িয়ে দিল এবং চ্যালেঞ্জ ছুঁড়ে বলল তিনি যে শাস্তির ভয় দেখান তা যেন এখনই নিয়ে আসেন।",
+        "words": [
+          {
+            "en": "They rejected him",
+            "bn": "তারা তাঁকে প্রত্যাখ্যান করল"
+          },
+          {
+            "en": "mockingly",
+            "bn": "বিদ্রূপের সাথে"
+          },
+          {
+            "en": "demanding that",
+            "bn": "দাবি জানিয়ে যে"
+          },
+          {
+            "en": "he bring forth",
+            "bn": "তিনি যেন নিয়ে আসেন"
+          },
+          {
+            "en": "the punishment",
+            "bn": "সেই শাস্তি"
+          },
+          {
+            "en": "he kept warning about",
+            "bn": "যার ভয় তিনি দেখাতেন"
+          }
+        ]
       },
       {
-        "en": "His groundbreaking book 'On the Origin of Species' completely revolutionized the biological sciences.",
-        "bn": "তাঁর যুগান্তকারী বই 'অন দ্য অরিজিন অব স্পিসিজ' পুরো জীববিজ্ঞানের ধারণাকে আমূল বদলে দিয়েছিল।"
+        "en": "Soon, a dark cloud appeared on the horizon, which the foolish people mistook for a refreshing rainstorm.",
+        "bn": "কিছুদিনের মধ্যে দিগন্তে এক ঘন কালো মেঘের ছায়া দেখা দিল, যাকে নির্বোধ সম্প্রদায় বৃষ্টির সুসংবাদ ভেবে আনন্দ করতে লাগল।",
+        "words": [
+          {
+            "en": "Soon",
+            "bn": "শীঘ্রই"
+          },
+          {
+            "en": "a dark cloud appeared",
+            "bn": "একটি কালো মেঘ ভেসে উঠল"
+          },
+          {
+            "en": "on the horizon",
+            "bn": "দিগন্তের সীমানায়"
+          },
+          {
+            "en": "which the foolish people",
+            "bn": "যাকে সেই নির্বোধ জাতি"
+          },
+          {
+            "en": "mistook for",
+            "bn": "ভুল করে মনে করল"
+          },
+          {
+            "en": "a refreshing rainstorm",
+            "bn": "এক স্বস্তিদায়ক বৃষ্টি"
+          }
+        ]
       },
       {
-        "en": "Careful observation and patient questioning of ordinary natural details can unlock the deepest secrets of life.",
-        "bn": "প্রকৃতির সাধারণ বিষয়ের সূক্ষ্ম পর্যবেক্ষণ এবং গভীর চিন্তাই জীবনের গভীরতম রহস্যকে উন্মোচন করতে পারে।"
+        "en": "Hud declared: 'Nay, this is the very storm you challenged—a furious, freezing wind carrying agonizing retribution.'",
+        "bn": "হূদ (আ.) ঘোষণা করলেন: 'না, বরং এটা সেই জিনিস যা তোমরা চেয়েছিলে—এক ভয়ংকর কনকনে বরফশীতল ঝড় যাতে রয়েছে যন্ত্রণাদায়ক শাস্তি।'",
+        "words": [
+          {
+            "en": "Hud declared",
+            "bn": "হূদ ঘোষণা করলেন"
+          },
+          {
+            "en": "Nay this is",
+            "bn": "না, বরং এটি"
+          },
+          {
+            "en": "the very storm",
+            "bn": "সেই বিধ্বংসী ঝড়"
+          },
+          {
+            "en": "you challenged",
+            "bn": "যার দাবি তোমরা করেছিলে"
+          },
+          {
+            "en": "a furious freezing wind",
+            "bn": "এক প্রচণ্ড কনকনে বাতাস"
+          },
+          {
+            "en": "carrying agonizing retribution",
+            "bn": "যা বহন করছে তীব্র শাস্তি"
+          }
+        ]
+      },
+      {
+        "en": "The terrifying cyclone raged for seven full nights and eight days without ceasing, uprooting men like hollow palm trunks.",
+        "bn": "টানা সাত রাত ও আট দিন ধরে সেই প্রলয়ংকরী ঘূর্ণিঝড় তাণ্ডব চালাল, যা তাদের উপড়ে ফেলা অন্তঃসারশূন্য খেজুর গাছের মতো মাটিতে আছড়ে ফেলল।",
+        "words": [
+          {
+            "en": "The terrifying cyclone",
+            "bn": "সেই ভয়াল ঘূর্ণিঝড়"
+          },
+          {
+            "en": "raged",
+            "bn": "তাণ্ডব চালাল"
+          },
+          {
+            "en": "for seven full nights",
+            "bn": "টানা সাত রাত ধরে"
+          },
+          {
+            "en": "and eight days",
+            "bn": "এবং আট দিন ধরে"
+          },
+          {
+            "en": "without ceasing",
+            "bn": "একটানা বিরতিহীনভাবে"
+          },
+          {
+            "en": "uprooting men",
+            "bn": "মানুষকে উপড়ে ফেলে"
+          },
+          {
+            "en": "like hollow palm trunks",
+            "bn": "ভেতরে ফাঁপা খেজুর গাছের কাণ্ডের মতো"
+          }
+        ]
+      },
+      {
+        "en": "Allah delivered Prophet Hud and the believers, leaving the ruined pillars of Iram as a solemn warning against arrogance.",
+        "bn": "আল্লাহ নবী হূদ ও মুমিনদের নিরাপদে রক্ষা করলেন এবং ইরামের বিধ্বস্ত স্তম্ভগুলোকে অহংকারীদের জন্য এক চিরন্তন সতর্কবার্তা বানিয়ে রেখে দিলেন।",
+        "words": [
+          {
+            "en": "Allah delivered",
+            "bn": "আল্লাহ মুক্তি দিলেন"
+          },
+          {
+            "en": "Prophet Hud",
+            "bn": "নবী হূদকে"
+          },
+          {
+            "en": "and the believers",
+            "bn": "ও মুমিনদের"
+          },
+          {
+            "en": "leaving the ruined pillars",
+            "bn": "বিধ্বস্ত স্তম্ভগুলোকে রেখে দিয়ে"
+          },
+          {
+            "en": "of Iram",
+            "bn": "ইরামের"
+          },
+          {
+            "en": "as a solemn warning",
+            "bn": "এক চরম শিক্ষণীয় নিদর্শন হিসেবে"
+          },
+          {
+            "en": "against arrogance",
+            "bn": "অহংকারের বিরুদ্ধে"
+          }
+        ]
       }
     ]
   },
   {
-    "id": "bio-nelson-mandela-forgiveness",
-    "title": "Nelson Mandela and the Power of Forgiveness",
-    "titleBn": "নেলসন ম্যান্ডেলা এবং ক্ষমার মহাশক্তি",
-    "author": "Historical Biography",
+    "id": "prophet-salih-she-camel",
+    "title": "Prophet Salih and the Miraculous She-Camel of Thamud",
+    "titleBn": "হযরত সালেহ (আ.) ও সামূদ জাতির অলৌকিক উষ্ট্রী",
+    "author": "Quranic Narrative (Surah Ash-Shu'ara & Al-A'raf)",
     "level": "Intermediate",
-    "category": "Inspiring Biography",
-    "coverEmoji": "🕊️",
-    "summary": "After twenty-seven years of unjust imprisonment, a great leader chooses reconciliation instead of vengeance.",
-    "summaryBn": "সাতাশ বছরের অন্যায় কারাবাসের পর এক মহান নেতা প্রতিশোধের বদলে কীভাবে ক্ষমার মাধ্যমে একটি বিভক্ত জাতিকে ঐক্যবদ্ধ করেছিলেন।",
+    "levelColor": "emerald",
+    "category": "Stories of the Prophets",
+    "coverEmoji": "🐪",
+    "summary": "The tribe of Thamud carved palatial homes into sandstone cliffs and demanded a miraculous camel from solid rock, only to transgress and face a shattering blast.",
+    "summaryBn": "পাহাড়ে খোদাই করে প্রাসাদ নির্মাণকারী সামূদ জাতি যখন শক্ত পাথর থেকে অলৌকিক উষ্ট্রীর মুজিজা চেয়েও সীমালঙ্ঘন করল, তখন এক বজ্রনির্ঘোষে তারা নিশ্চিহ্ন হয়ে গেল।",
     "sentences": [
       {
-        "en": "Nelson Mandela spent twenty-seven long, painful years confined in harsh prisons for opposing apartheid in South Africa.",
-        "bn": "দক্ষিণ আফ্রিকার বর্ণবাদের বিরুদ্ধে লড়াই করার কারণে নেলসন ম্যান্ডেলা সাতাশটি দীর্ঘ ও যন্ত্রণাময় বছর কারাগারে কাটিয়েছিলেন।"
+        "en": "The tribe of Thamud were gifted architects who carved magnificent palatial mansions directly into towering stone cliffs.",
+        "bn": "সামূদ জাতি ছিল অসাধারণ ভাস্কর ও স্থপতি, যারা পাহাড়ের বিশাল পাথুরে খাদ কেটে অত্যন্ত নান্দনিক প্রাসাদ নির্মাণ করত।",
+        "words": [
+          {
+            "en": "The tribe of Thamud",
+            "bn": "সামূদ সম্প্রদায়"
+          },
+          {
+            "en": "were gifted architects",
+            "bn": "ছিল দক্ষ স্থপতি"
+          },
+          {
+            "en": "who carved",
+            "bn": "যারা খোদাই করত"
+          },
+          {
+            "en": "magnificent palatial mansions",
+            "bn": "চমৎকার সুরম্য অট্টালিকা"
+          },
+          {
+            "en": "directly into",
+            "bn": "সরাসরি কেটে"
+          },
+          {
+            "en": "towering stone cliffs",
+            "bn": "উঁচু পাথুরে পাহাড়ে"
+          }
+        ]
       },
       {
-        "en": "For eighteen of those years, he was locked in a tiny, damp concrete cell on isolated Robben Island.",
-        "bn": "এর মধ্যে আঠারো বছর তিনি রবেন দ্বীপের একটি স্যাঁতসেঁতে ছোট অন্ধকার কুঠুরিতে একা বন্দি ছিলেন।"
+        "en": "Despite their material prosperity, they fell into grave idolatry and moral decadence.",
+        "bn": "তাদের অতুলনীয় পার্থিব উন্নতি থাকা সত্ত্বেও তারা মূর্তিপূজা এবং নৈতিক অবক্ষয়ের গভীরে তলিয়ে গিয়েছিল।",
+        "words": [
+          {
+            "en": "Despite their",
+            "bn": "সত্ত্বেও তাদের"
+          },
+          {
+            "en": "material prosperity",
+            "bn": "পার্থিব সমৃদ্ধি"
+          },
+          {
+            "en": "they fell into",
+            "bn": "তারা নিমজ্জিত হলো"
+          },
+          {
+            "en": "grave idolatry",
+            "bn": "ভয়ানক মূর্তিপূজায়"
+          },
+          {
+            "en": "and moral decadence",
+            "bn": "ও নৈতিক অবক্ষয়ে"
+          }
+        ]
       },
       {
-        "en": "He performed backbreaking labor in a blinding limestone quarry, enduring mockery and abuse from cruel guards.",
-        "bn": "পাথরের খনিতে তাঁকে হাড়ভাঙা খাটুনি খাটতে হতো এবং নিষ্ঠুর কারারক্ষীদের উপহাস ও নির্যাতন সহ্য করতে হতো।"
+        "en": "Allah appointed Prophet Salih from among their most respected households to guide them back to righteousness.",
+        "bn": "আল্লাহ তাদের সবচেয়ে সম্মানিত বংশের সন্তান হযরত সালেহ (আ.)-কে তাদের সত্যের পথে ফিরিয়ে আনার জন্য নবী মনোনীত করলেন।",
+        "words": [
+          {
+            "en": "Allah appointed",
+            "bn": "আল্লাহ নিয়োজিত করলেন"
+          },
+          {
+            "en": "Prophet Salih",
+            "bn": "নবী সালেহকে"
+          },
+          {
+            "en": "from among",
+            "bn": "মধ্য থেকে"
+          },
+          {
+            "en": "their most respected households",
+            "bn": "তাদের সবচেয়ে সম্ভ্রান্ত পরিবারের"
+          },
+          {
+            "en": "to guide them",
+            "bn": "তাদের পথ দেখাতে"
+          },
+          {
+            "en": "back to righteousness",
+            "bn": "পুনরায় সৎপথের দিকে"
+          }
+        ]
       },
       {
-        "en": "When he was finally released in 1990, the entire world expected him to demand harsh vengeance against his oppressors.",
-        "bn": "১৯৯০ সালে যখন তিনি মুক্তি পেলেন, পুরো বিশ্ব ভেবেছিল যে তিনি হয়তো অত্যাচারীদের বিরুদ্ধে প্রতিশোধ নেওয়ার দাবি তুলবেন।"
+        "en": "To test his truthfulness, the rebellious leaders demanded that a pregnant she-camel emerge from a solid boulder before their eyes.",
+        "bn": "তাঁর সত্যতা পরীক্ষা করার অজুহাতে অবাধ্য নেতারা দাবি জানাল যেন তাদের চোখের সামনেই এক নিরেট পাহাড়ের পাথর ফেটে একটি গর্ভবতী উষ্ট্রী বেরিয়ে আসে।",
+        "words": [
+          {
+            "en": "To test",
+            "bn": "পরীক্ষা করতে"
+          },
+          {
+            "en": "his truthfulness",
+            "bn": "তাঁর সত্যবাদীতা"
+          },
+          {
+            "en": "the rebellious leaders",
+            "bn": "বিদ্রোহী নেতারা"
+          },
+          {
+            "en": "demanded that",
+            "bn": "দাবি জানাল যে"
+          },
+          {
+            "en": "a pregnant she-camel",
+            "bn": "একটি গর্ভবতী উষ্ট্রী"
+          },
+          {
+            "en": "emerge from",
+            "bn": "বেরিয়ে আসুক"
+          },
+          {
+            "en": "a solid boulder",
+            "bn": "একটি নিরেট পাথর থেকে"
+          },
+          {
+            "en": "before their eyes",
+            "bn": "তাদের চোখের সামনে"
+          }
+        ]
       },
       {
-        "en": "Instead, Mandela chose the courageous path of peace, forgiveness, and national reconciliation.",
-        "bn": "কিন্তু ম্যান্ডেলা বেছে নিলেন শান্তি, ক্ষমা এবং সব মানুষকে নিয়ে একসাথে পথ চলার সাহসী এক পথ।"
+        "en": "Salih fervently supplicated Allah, and by divine command, the rock cracked open to reveal a magnificent, living camel.",
+        "bn": "সালেহ (আ.) আল্লাহর কাছে একান্ত প্রার্থনা করলেন, আর ঐশী হুকুমে বিশাল পাথরটি বিদীর্ণ হয়ে এক অপূর্ব জীবন্ত উষ্ট্রী আত্মপ্রকাশ করল।",
+        "words": [
+          {
+            "en": "Salih fervently supplicated",
+            "bn": "সালেহ ব্যাকুলভাবে দোয়া করলেন"
+          },
+          {
+            "en": "Allah",
+            "bn": "আল্লাহর নিকট"
+          },
+          {
+            "en": "and by divine command",
+            "bn": "এবং ঐশী আদেশে"
+          },
+          {
+            "en": "the rock cracked open",
+            "bn": "পাথরটি ফেটে চৌচির হলো"
+          },
+          {
+            "en": "to reveal",
+            "bn": "প্রকাশ করতে"
+          },
+          {
+            "en": "a magnificent living camel",
+            "bn": "একটি অপূর্ব সুন্দর জীবন্ত উট"
+          }
+        ]
       },
       {
-        "en": "He famously declared, 'Resentment is like drinking poison and then hoping it will kill your enemies.'",
-        "bn": "তিনি বলেছিলেন, 'অন্যের প্রতি ঘৃণা পুষে রাখা মানে নিজে বিষ খেয়ে আশা করা যে সেই বিষে শত্রু মারা যাবে।'"
+        "en": "Salih warned them: 'This is Allah's she-camel as a sign; let her graze freely and share the water source equally.'",
+        "bn": "সালেহ তাদের সতর্ক করে বললেন: 'এটি আল্লাহর নিদর্শনস্বরূপ উষ্ট্রী; একে মুক্তভাবে বিচরণ করতে দাও এবং কূপের পানি সমভাবে ভাগ করে নাও।'",
+        "words": [
+          {
+            "en": "Salih warned them",
+            "bn": "সালেহ তাদের সতর্ক করলেন"
+          },
+          {
+            "en": "This is Allah's she-camel",
+            "bn": "এটি আল্লাহর উষ্ট্রী"
+          },
+          {
+            "en": "as a sign",
+            "bn": "একটি নিদর্শন হিসেবে"
+          },
+          {
+            "en": "let her graze freely",
+            "bn": "তাকে মুক্তভাবে চড়তে দাও"
+          },
+          {
+            "en": "and share the water source",
+            "bn": "এবং পানির উৎস ভাগ করে নাও"
+          },
+          {
+            "en": "equally",
+            "bn": "সমানভাবে"
+          }
+        ]
       },
       {
-        "en": "He invited his former prison guards to his presidential inauguration, uniting a fractured nation through love.",
-        "bn": "তিনি তাঁর রাষ্ট্রপতি শপথ অনুষ্ঠানে সাবেক কারারক্ষীদেরও আমন্ত্রণ জানান এবং ভালোবাসার মাধ্যমে বিভক্ত জাতিকে এক করেন।"
+        "en": "The camel drank from the spring on alternate days and produced copious amounts of fresh milk for the entire town.",
+        "bn": "উষ্ট্রীটি একদিন অন্তর ঝর্ণা থেকে পানি পান করত এবং বিনিময়ে পুরো শহরের জন্য বিপুল পরিমাণ সুস্বাদু দুধ প্রদান করত।",
+        "words": [
+          {
+            "en": "The camel drank",
+            "bn": "উষ্ট্রীটি পান করত"
+          },
+          {
+            "en": "from the spring",
+            "bn": "ঝর্ণা থেকে"
+          },
+          {
+            "en": "on alternate days",
+            "bn": "একদিন পর পর"
+          },
+          {
+            "en": "and produced",
+            "bn": "এবং উৎপাদন করত"
+          },
+          {
+            "en": "copious amounts",
+            "bn": "বিপুল পরিমাণ"
+          },
+          {
+            "en": "of fresh milk",
+            "bn": "তাজা দুধ"
+          },
+          {
+            "en": "for the entire town",
+            "bn": "পুরো শহরের জন্য"
+          }
+        ]
       },
       {
-        "en": "Forgiveness is not a sign of weakness; it is the ultimate weapon of the truly strong.",
-        "bn": "ক্ষমা করা কোনো দুর্বলতা নয়; বরং এটি হলো সত্যিকারের শক্তিশালী মানুষের সবচেয়ে বড় শক্তি।"
+        "en": "Yet nine wicked conspirators plotted treason and brutally hamstrung the sacred animal.",
+        "bn": "তবুও সম্প্রদায়ের নয়জন দুরাচার চক্রান্তকারী একজোট হয়ে নির্মমভাবে পবিত্র উষ্ট্রীটির পা কেটে হত্যা করল।",
+        "words": [
+          {
+            "en": "Yet",
+            "bn": "তথাপি"
+          },
+          {
+            "en": "nine wicked conspirators",
+            "bn": "নয়জন দুষ্কৃতকারী ষড়যন্ত্রকারী"
+          },
+          {
+            "en": "plotted treason",
+            "bn": "বিশ্বাসঘাতকতার চক্রান্ত করল"
+          },
+          {
+            "en": "and brutally hamstrung",
+            "bn": "এবং নিষ্ঠুরভাবে পা কেটে দিল"
+          },
+          {
+            "en": "the sacred animal",
+            "bn": "পবিত্র প্রাণীটির"
+          }
+        ]
+      },
+      {
+        "en": "Salih grieved and announced: 'Enjoy your homes for three days only—this is a promise that will not be denied.'",
+        "bn": "সালেহ শোকার্ত হয়ে জানালেন: 'তোমাদের ঘরে মাত্র তিন দিন অবকাশ নাও—এটি এমন এক অঙ্গীকার যা কখনো মিথ্যা হবে না।'",
+        "words": [
+          {
+            "en": "Salih grieved",
+            "bn": "সালেহ ব্যথিত হলেন"
+          },
+          {
+            "en": "and announced",
+            "bn": "এবং জানিয়ে দিলেন"
+          },
+          {
+            "en": "Enjoy your homes",
+            "bn": "তোমাদের ঘরে সময় কাটিয়ে নাও"
+          },
+          {
+            "en": "for three days only",
+            "bn": "কেবল তিন দিনের জন্য"
+          },
+          {
+            "en": "this is a promise",
+            "bn": "এটি এক ওয়াদা"
+          },
+          {
+            "en": "that will not be denied",
+            "bn": "যা মিথ্যা হওয়ার নয়"
+          }
+        ]
+      },
+      {
+        "en": "On the fourth morning, a catastrophic seismic blast tore from the sky, freezing the oppressors lifeless in their carved cliff dwellings.",
+        "bn": "চতুর্থ দিন প্রভাতে আসমান থেকে এক বিকট বজ্রনাদ নেমে এলো, যা সেই জালিমদের তাদের পাহাড়ি প্রাসাদের ভেতরেই উপুড় হয়ে মৃত অবস্থায় ফেলে রাখল।",
+        "words": [
+          {
+            "en": "On the fourth morning",
+            "bn": "চতুর্থ দিন সকালে"
+          },
+          {
+            "en": "a catastrophic seismic blast",
+            "bn": "এক ভয়াবহ প্রলয়ঙ্করী বজ্রনাদ"
+          },
+          {
+            "en": "tore from the sky",
+            "bn": "আকাশ বিদীর্ণ করে নামল"
+          },
+          {
+            "en": "freezing the oppressors",
+            "bn": "জালিমদের নিথর করে দিয়ে"
+          },
+          {
+            "en": "lifeless",
+            "bn": "প্রাণহীন অবস্থায়"
+          },
+          {
+            "en": "in their carved cliff dwellings",
+            "bn": "তাদের পাহাড়ি খোদাই করা প্রাসাদে"
+          }
+        ]
       }
     ]
   },
   {
-    "id": "bio-alexander-fleming-penicillin",
-    "title": "Alexander Fleming and the Forgotten Dish",
-    "titleBn": "আলেকজান্ডার ফ্লেমিং এবং ভুলে যাওয়া পাত্রের আবিষ্কার",
-    "author": "Historical Biography",
+    "id": "prophet-ibrahim-fire",
+    "title": "Prophet Ibrahim and the Miraculous Cool Fire",
+    "titleBn": "হযরত ইব্রাহিম (আ.) ও অলৌকিক শীতল অগ্নিকুণ্ড",
+    "author": "Quranic Narrative (Surah Al-Anbiya)",
     "level": "Intermediate",
-    "category": "Inspiring Biography",
-    "coverEmoji": "💊",
-    "summary": "An untidy lab bench leads to the accidental discovery of penicillin, saving hundreds of millions from infection.",
-    "summaryBn": "একটি অপরিচ্ছন্ন টেবিলের অসাবধানতা কীভাবে পেনিসিলিন আবিষ্কারের মাধ্যমে কোটি কোটি মানুষের জীবন বাঁচিয়েছিল।",
+    "levelColor": "indigo",
+    "category": "Stories of the Prophets",
+    "coverEmoji": "🔥",
+    "summary": "The courageous stand of young Prophet Ibrahim against idol worship in ancient Babylon, and the divine miracle where Allah commanded the roaring fire to become cool and peaceful.",
+    "summaryBn": "প্রাচীন ব্যাবিলনে মূর্তিপূজার বিরুদ্ধে তরুণ নবী ইব্রাহিম (আ.)-এর নির্ভীক অবস্থান এবং মহান আল্লাহর সেই অনুপম অলৌকিক নিদর্শন, যেখানে তিনি প্রজ্বলিত অগ্নিকুণ্ডকে পরম শীতল ও শান্তিময় হওয়ার আদেশ দিয়েছিলেন।",
     "sentences": [
       {
-        "en": "In September 1928, Dr. Alexander Fleming returned to his London laboratory after a two-week family vacation.",
-        "bn": "১৯২৮ সালের সেপ্টেম্বরে ডক্টর আলেকজান্ডার ফ্লেমিং দুই সপ্তাহের পারিবারিক ছুটি কাটিয়ে লন্ডনের ল্যাবরেটরিতে ফিরলেন।"
+        "en": "In ancient Babylon, the people were deeply immersed in worshiping idols sculpted from stone and wood.",
+        "bn": "প্রাচীন ব্যাবিলনে মানুষ পাথর ও কাঠ খোদাই করে তৈরি মূর্তিপূজায় গভীরভাবে নিমজ্জিত ছিল।",
+        "words": [
+          {
+            "en": "In ancient",
+            "bn": "প্রাচীন"
+          },
+          {
+            "en": "Babylon",
+            "bn": "ব্যাবিলনে"
+          },
+          {
+            "en": "the people",
+            "bn": "মানুষ / জনগণ"
+          },
+          {
+            "en": "were deeply",
+            "bn": "গভীরভাবে ছিল"
+          },
+          {
+            "en": "immersed",
+            "bn": "নিমজ্জিত / মগ্ন"
+          },
+          {
+            "en": "in worshiping",
+            "bn": "পূজা করতে"
+          },
+          {
+            "en": "idols",
+            "bn": "মূর্তিগুলোকে"
+          },
+          {
+            "en": "sculpted",
+            "bn": "খোদাই করা"
+          },
+          {
+            "en": "from stone",
+            "bn": "পাথর থেকে"
+          },
+          {
+            "en": "and wood",
+            "bn": "এবং কাঠ থেকে"
+          }
+        ]
       },
       {
-        "en": "Before leaving, he had stacked several glass petri dishes containing infectious staphylococcus bacteria near an open window.",
-        "bn": "ছুটিতে যাওয়ার আগে তিনি জানালার কাছে কাচের পাত্রে ক্ষতিকর ব্যাকটেরিয়ার কিছু নমুনা রেখে গিয়েছিলেন।"
+        "en": "Young Ibrahim possessed a radiant mind and questioned how lifeless statues could benefit or harm anyone.",
+        "bn": "তরুণ ইব্রাহিমের একটি উজ্জ্বল দূরদর্শী মন ছিল এবং তিনি প্রশ্ন তুলেছিলেন কীভাবে প্রাণহীন মূর্তি কারও উপকার বা ক্ষতি করতে পারে।",
+        "words": [
+          {
+            "en": "Young",
+            "bn": "তরুণ"
+          },
+          {
+            "en": "Ibrahim",
+            "bn": "ইব্রাহিম"
+          },
+          {
+            "en": "possessed",
+            "bn": "অধিকারী ছিলেন"
+          },
+          {
+            "en": "a radiant mind",
+            "bn": "এক উজ্জ্বল মনের"
+          },
+          {
+            "en": "and questioned",
+            "bn": "এবং প্রশ্ন তুলেছিলেন"
+          },
+          {
+            "en": "how",
+            "bn": "কীভাবে"
+          },
+          {
+            "en": "lifeless",
+            "bn": "প্রাণহীন"
+          },
+          {
+            "en": "statues",
+            "bn": "মূর্তিগুলো"
+          },
+          {
+            "en": "could benefit",
+            "bn": "উপকার করতে পারে"
+          },
+          {
+            "en": "or harm",
+            "bn": "বা ক্ষতি করতে"
+          },
+          {
+            "en": "anyone",
+            "bn": "কাউকে"
+          }
+        ]
       },
       {
-        "en": "While sorting through the discarded dishes, he noticed something unusual on one contaminated culture plate.",
-        "bn": "ফিরে এসে পাত্রগুলো পরিষ্কার করার সময় তিনি একটি পাত্রের মধ্যে এক অদ্ভুত জিনিস লক্ষ্য করলেন।"
+        "en": "He shattered the false idols in the great temple, leaving only the largest statue intact with an axe around its neck.",
+        "bn": "তিনি মন্দিরের সমস্ত মিথ্যা মূর্তি গুঁড়িয়ে দিলেন, কেবল সবচেয়ে বড় মূর্তিটির গলায় কুড়াল ঝুলিয়ে অক্ষত রাখলেন।",
+        "words": [
+          {
+            "en": "He shattered",
+            "bn": "তিনি ভেঙে গুঁড়িয়ে দিলেন"
+          },
+          {
+            "en": "the false idols",
+            "bn": "মিথ্যা মূর্তিগুলোকে"
+          },
+          {
+            "en": "in the great temple",
+            "bn": "বিশাল মন্দিরে"
+          },
+          {
+            "en": "leaving only",
+            "bn": "কেবলমাত্র রেখে দিয়ে"
+          },
+          {
+            "en": "the largest statue",
+            "bn": "সবচেয়ে বড় মূর্তিটিকে"
+          },
+          {
+            "en": "intact",
+            "bn": "অক্ষত অবস্থায়"
+          },
+          {
+            "en": "with an axe",
+            "bn": "একটি কুড়াল সহ"
+          },
+          {
+            "en": "around its neck",
+            "bn": "তার গলার চারপাশে"
+          }
+        ]
       },
       {
-        "en": "A common green mold had accidentally blown in from the street and started growing in the center of the dish.",
-        "bn": "রাস্তা থেকে বাতাসে উড়ে আসা এক টুকরো সাধারণ সবুজ ছত্রাক সেই পাত্রের ঠিক মাঝখানে জন্মেছিল।"
+        "en": "Furious at his defiance, King Nimrod ordered a mammoth furnace to be fueled with wood for weeks.",
+        "bn": "তাঁর এই নির্ভীক জবাবে ক্ষিপ্ত হয়ে রাজা নমরুদ সপ্তাহের পর সপ্তাহ কাঠ জ্বালিয়ে এক সুবিশাল অগ্নিকুণ্ড প্রস্তুতের নির্দেশ দিল।",
+        "words": [
+          {
+            "en": "Furious at his defiance",
+            "bn": "তাঁর নির্ভীকতায় ক্ষিপ্ত হয়ে"
+          },
+          {
+            "en": "King Nimrod",
+            "bn": "রাজা নমরুদ"
+          },
+          {
+            "en": "ordered",
+            "bn": "আদেশ দিল"
+          },
+          {
+            "en": "a mammoth furnace",
+            "bn": "এক দানবীয় অগ্নিকুণ্ড"
+          },
+          {
+            "en": "to be fueled",
+            "bn": "জ্বালানি দিয়ে প্রস্তুত করতে"
+          },
+          {
+            "en": "with wood",
+            "bn": "কাঠ দ্বারা"
+          },
+          {
+            "en": "for weeks",
+            "bn": "কয়েক সপ্তাহব্যাপী"
+          }
+        ]
       },
       {
-        "en": "Curiously, all the dangerous bacteria immediately surrounding the mold had dissolved into clear, dead rings.",
-        "bn": "সবচেয়ে আশ্চর্যের বিষয় হলো, ছত্রাকের চারপাশের সব মারাত্মক ব্যাকটেরিয়া পুরোপুরি মরে গিয়ে একটি পরিষ্কার বলয় তৈরি হয়েছিল।"
+        "en": "Because the radiant heat was so intense, they cast Ibrahim into the flames using a colossal catapult.",
+        "bn": "যেহেতু আগুনের উত্তাপ ছিল অত্যন্ত তীব্র, তাই তারা এক বিশালাকার নিক্ষেপণযন্ত্র ব্যবহার করে ইব্রাহিমকে আগুনের মধ্যে ছুঁড়ে মারল।",
+        "words": [
+          {
+            "en": "Because",
+            "bn": "যেহেতু"
+          },
+          {
+            "en": "the radiant heat",
+            "bn": "উত্তাপের তেজ"
+          },
+          {
+            "en": "was so intense",
+            "bn": "এত তীব্র ছিল"
+          },
+          {
+            "en": "they cast Ibrahim",
+            "bn": "তারা ইব্রাহিমকে নিক্ষেপ করল"
+          },
+          {
+            "en": "into the flames",
+            "bn": "অগ্নিশিখার মাঝে"
+          },
+          {
+            "en": "using a colossal catapult",
+            "bn": "এক সুবিশাল নিক্ষেপণযন্ত্রের মাধ্যমে"
+          }
+        ]
       },
       {
-        "en": "Instead of tossing the spoiled sample into the trash, Fleming carefully examined the mysterious mold juice.",
-        "bn": "নষ্ট পাত্রটি ফেলে দেওয়ার বদলে ফ্লেমিং গভীর মনোযোগ দিয়ে সেই ছত্রাকের রস পরীক্ষা করতে শুরু করলেন।"
+        "en": "In mid-air, Angel Jibril offered assistance, but Ibrahim placed complete trust solely in his Creator.",
+        "bn": "বাতাসের মাঝে ফেরেশতা জিব্রাইল (আ.) সাহায্য করতে চাইলেন, কিন্তু ইব্রাহিম সম্পূর্ণ ভরসা রাখলেন একমাত্র তাঁর রবের ওপর।",
+        "words": [
+          {
+            "en": "In mid-air",
+            "bn": "শূন্যে থাকাকালে"
+          },
+          {
+            "en": "Angel Jibril",
+            "bn": "ফেরেশতা জিব্রাইল"
+          },
+          {
+            "en": "offered assistance",
+            "bn": "সাহায্যের প্রস্তাব দিলেন"
+          },
+          {
+            "en": "but Ibrahim placed",
+            "bn": "কিন্তু ইব্রাহিম স্থাপন করলেন"
+          },
+          {
+            "en": "complete trust",
+            "bn": "পূর্ণ তাওয়াক্কুল ও বিশ্বাস"
+          },
+          {
+            "en": "solely in his Creator",
+            "bn": "একমাত্র তাঁর সৃষ্টিকর্তার ওপর"
+          }
+        ]
       },
       {
-        "en": "He discovered that the mold, Penicillium notatum, produced a powerful antibacterial substance that he named penicillin.",
-        "bn": "তিনি দেখলেন যে এই ছত্রাক থেকে এক শক্তিশালী জীবাণুনাশক উপাদান তৈরি হচ্ছে, যার নাম তিনি দিলেন পেনিসিলিন।"
+        "en": "Almighty Allah commanded: 'O fire! Be coolness and safety for Ibrahim!'",
+        "bn": "মহান আল্লাহ নির্দেশ দিলেন: 'হে আগুন! তুমি ইব্রাহিমের জন্য শীতল ও শান্তিময় হয়ে যাও!'",
+        "words": [
+          {
+            "en": "Almighty Allah commanded",
+            "bn": "আল্লাহ আদেশ করলেন"
+          },
+          {
+            "en": "O fire",
+            "bn": "হে আগুন"
+          },
+          {
+            "en": "Be coolness",
+            "bn": "শীতল হও"
+          },
+          {
+            "en": "and safety",
+            "bn": "এবং শান্তিদায়ক / নিরাপদ"
+          },
+          {
+            "en": "for Ibrahim",
+            "bn": "ইব্রাহিমের জন্য"
+          }
+        ]
       },
       {
-        "en": "Penicillin became the world's first true antibiotic, transforming medicine and saving countless lives from lethal infections.",
-        "bn": "পেনিসিলিন বিশ্বের প্রথম অ্যান্টিবায়োটিক হয়ে চিকিৎসাবিজ্ঞানে বিপ্লব আনে এবং মরণব্যাধি থেকে কোটি মানুষের প্রাণ বাঁচায়।"
+        "en": "The terrifying fire transformed into a fragrant rose garden, burning away only the bonds on his hands.",
+        "bn": "সেই বিধ্বংসী আগুন এক সুবাসিত গোলাপের বাগানে পরিণত হলো এবং কেবল তাঁর হাতের বাঁধনটুকু পুড়িয়ে দিল।",
+        "words": [
+          {
+            "en": "The terrifying fire",
+            "bn": "ভয়ংকর আগুনটি"
+          },
+          {
+            "en": "transformed into",
+            "bn": "রূপান্তরিত হলো"
+          },
+          {
+            "en": "a fragrant rose garden",
+            "bn": "এক সুবাসিত গোলাপ বাগানে"
+          },
+          {
+            "en": "burning away",
+            "bn": "পুড়িয়ে দিয়ে"
+          },
+          {
+            "en": "only the bonds",
+            "bn": "কেবল বাঁধনগুলোকে"
+          },
+          {
+            "en": "on his hands",
+            "bn": "তাঁর হাতের ওপর"
+          }
+        ]
+      },
+      {
+        "en": "Ibrahim walked out unharmed, proving that divine protection surpasses all human tyrannies.",
+        "bn": "ইব্রাহিম অক্ষত অবস্থায় হেঁটে বের হয়ে এলেন এবং প্রমাণ করলেন যে আল্লাহর হেফাজত দুনিয়ার সমস্ত জালিম শক্তির ঊর্ধ্বে।",
+        "words": [
+          {
+            "en": "Ibrahim walked out",
+            "bn": "ইব্রাহিম হেঁটে বের হলেন"
+          },
+          {
+            "en": "unharmed",
+            "bn": "সম্পূর্ণ অক্ষত অবস্থায়"
+          },
+          {
+            "en": "proving that",
+            "bn": "প্রমাণ করে যে"
+          },
+          {
+            "en": "divine protection",
+            "bn": "আল্লাহর ঐশী হেফাজত"
+          },
+          {
+            "en": "surpasses",
+            "bn": "ঊর্ধ্বে অবস্থান করে"
+          },
+          {
+            "en": "all human tyrannies",
+            "bn": "মানুষের সমস্ত জুলুমের"
+          }
+        ]
       }
     ]
   },
   {
-    "id": "bio-steve-jobs-calligraphy",
-    "title": "Steve Jobs: Connecting the Dots",
-    "titleBn": "স্টিভ জবস: জীবনের প্রতিটি বিন্দুর সংযোগ",
-    "author": "Historical Biography",
+    "id": "prophet-ibrahim-sacrifice",
+    "title": "The Supreme Sacrifice of Ibrahim and Ismail",
+    "titleBn": "হযরত ইব্রাহিম ও ইসমাইল (আ.)-এর মহান কুরবানী",
+    "author": "Quranic Narrative (Surah As-Saffat)",
     "level": "Intermediate",
-    "category": "Inspiring Biography",
-    "coverEmoji": "💻",
-    "summary": "How dropping out of college and taking a random calligraphy class shaped modern personal computers.",
-    "summaryBn": "কলেজ ছেড়ে দিয়ে শখের বশে করা সুন্দর হস্তলিপির ক্লাস কীভাবে আধুনিক পার্সোনাল কম্পিউটারের চেহারা বদলে দিয়েছিল।",
+    "levelColor": "amber",
+    "category": "Stories of the Prophets",
+    "coverEmoji": "🐑",
+    "summary": "The ultimate test of absolute devotion: when an aging prophet was tested with sacrificing his beloved son, and Allah redeemed him with a noble sacrifice.",
+    "summaryBn": "আল্লাহর প্রতি চরম আনুগত্যের পরীক্ষা: বার্ধক্যে প্রাপ্ত প্রিয় সন্তানকে কুরবানী করার স্বপ্ন এবং মহান আল্লাহ কর্তৃক জান্নাতী দুম্বা দিয়ে সেই আত্মত্যাগের কবুলিয়াত।",
     "sentences": [
       {
-        "en": "After only six months at Reed College, young Steve Jobs decided to drop out because tuition was draining his working-class parents' savings.",
-        "bn": "রিড কলেজে মাত্র ছয় মাস পড়ার পর তরুণ স্টিভ জবস পড়াশোনা ছেড়ে দিলেন, কারণ তাঁর দরিদ্র পালক-পিতামাতার সব সঞ্চয় শেষ হয়ে যাচ্ছিল।"
+        "en": "After decades of patient yearning in his elderly years, Allah blessed Prophet Ibrahim with a gentle, noble son named Ismail.",
+        "bn": "বার্ধক্যের বহু বছরের ধৈর্য ও দোয়ার পর আল্লাহ হযরত ইব্রাহিমকে ইসমাইল নামক এক ধৈর্যশীল পুত্রসন্তান দান করলেন।",
+        "words": [
+          {
+            "en": "After decades",
+            "bn": "কয়েক দশক পর"
+          },
+          {
+            "en": "of patient yearning",
+            "bn": "ধৈর্যশীল প্রতীক্ষার"
+          },
+          {
+            "en": "in his elderly years",
+            "bn": "তাঁর বার্ধক্যের দিনগুলোতে"
+          },
+          {
+            "en": "Allah blessed",
+            "bn": "আল্লাহ পুরস্কৃত করলেন"
+          },
+          {
+            "en": "Prophet Ibrahim",
+            "bn": "নবী ইব্রাহিমকে"
+          },
+          {
+            "en": "with a gentle noble son",
+            "bn": "এক ভদ্র ও মহান পুত্র দ্বারা"
+          },
+          {
+            "en": "named Ismail",
+            "bn": "যার নাম ছিল ইসমাইল"
+          }
+        ]
       },
       {
-        "en": "He stayed on campus as an informal auditor, sleeping on friends' floors and returning empty soda bottles for food money.",
-        "bn": "তবে তিনি ক্যাম্পাসেই থেকে গেলেন, বন্ধুদের ঘরের মেঝেতে ঘুমাতেন এবং খাবারের টাকার জন্য খালি বোতল বিক্রি করতেন।"
+        "en": "When the boy reached an age to walk and strive alongside him, Ibrahim saw a recurring vision in his sleep.",
+        "bn": "সন্তান যখন পিতার সাথে কাজকর্ম করার বয়সে পৌঁছাল, তখন ইব্রাহিম স্বপ্নে এক ঐশী আদেশ প্রত্যক্ষ করলেন।",
+        "words": [
+          {
+            "en": "When the boy reached",
+            "bn": "যখন ছেলেটি পৌঁছাল"
+          },
+          {
+            "en": "an age to walk",
+            "bn": "চলাফেরা করার বয়সে"
+          },
+          {
+            "en": "and strive alongside him",
+            "bn": "এবং তাঁর পাশে কাজ করতে"
+          },
+          {
+            "en": "Ibrahim saw",
+            "bn": "ইব্রাহিম দেখলেন"
+          },
+          {
+            "en": "a recurring vision",
+            "bn": "বারবার আসা এক স্বপ্ন"
+          },
+          {
+            "en": "in his sleep",
+            "bn": "তাঁর ঘুমের মাঝে"
+          }
+        ]
       },
       {
-        "en": "Free from required curriculum courses, he decided to take a specialized class on beautiful calligraphy.",
-        "bn": "বাধ্যতামূলক ক্লাসের কোনো চাপ না থাকায় তিনি শখের বশে সুন্দর হস্তলিপি বা ক্যালিগ্রাফির একটি ক্লাসে ভর্তি হলেন।"
+        "en": "He approached his beloved son and said: 'O my dear child! I have seen in a dream that I must offer you in sacrifice; what is your view?'",
+        "bn": "তিনি স্নেহের পুত্রের কাছে গিয়ে বললেন: 'হে আমার প্রিয় সন্তান! আমি স্বপ্নে দেখেছি যে আমি তোমাকে কুরবানী করছি; বলো তোমার মতামত কী?'",
+        "words": [
+          {
+            "en": "He approached",
+            "bn": "তিনি এগিয়ে গেলেন"
+          },
+          {
+            "en": "his beloved son",
+            "bn": "তাঁর প্রিয় পুত্রের দিকে"
+          },
+          {
+            "en": "and said",
+            "bn": "এবং বললেন"
+          },
+          {
+            "en": "O my dear child",
+            "bn": "হে আমার প্রিয় সন্তান"
+          },
+          {
+            "en": "I have seen in a dream",
+            "bn": "আমি স্বপ্নে দেখেছি"
+          },
+          {
+            "en": "that I must offer you",
+            "bn": "যে আমি তোমাকে পেশ করছি"
+          },
+          {
+            "en": "in sacrifice",
+            "bn": "কুরবানীতে"
+          },
+          {
+            "en": "what is your view",
+            "bn": "তোমার অভিমত কী"
+          }
+        ]
       },
       {
-        "en": "He learned about serif and sans-serif typefaces, proportional letter spacing, and the art of elegant typography.",
-        "bn": "সেখানে তিনি বিভিন্ন ধরণের অক্ষরের গঠন, ফন্টের সৌন্দর্য এবং নান্দনিক টাইপোগ্রাফির কলাকৌশল শিখলেন।"
+        "en": "Without a moment's hesitation, young Ismail replied: 'O my father! Do as you are commanded; you will find me, God willing, among the patient.'",
+        "bn": "এক মুহূর্তের দ্বিধা না করে তরুণ ইসমাইল জবাব দিলেন: 'হে আমার পিতা! আপনাকে যা আদেশ করা হয়েছে আপনি তা-ই করুন; ইনশাআল্লাহ আপনি আমাকে ধৈর্যশীলদের মধ্যেই পাবেন।'",
+        "words": [
+          {
+            "en": "Without a moment's hesitation",
+            "bn": "এক মুহূর্তের দ্বিধা ছাড়াই"
+          },
+          {
+            "en": "young Ismail replied",
+            "bn": "তরুণ ইসমাইল উত্তর দিলেন"
+          },
+          {
+            "en": "O my father",
+            "bn": "হে আমার আব্বাজান"
+          },
+          {
+            "en": "Do as you are commanded",
+            "bn": "আপনাকে যা হুকুম করা হয়েছে তা করুন"
+          },
+          {
+            "en": "you will find me",
+            "bn": "আপনি আমাকে পাবেন"
+          },
+          {
+            "en": "God willing",
+            "bn": "আল্লাহ চাইলে (ইনশাআল্লাহ)"
+          },
+          {
+            "en": "among the patient",
+            "bn": "ধৈর্যশীলদের অন্তর্ভুক্ত"
+          }
+        ]
       },
       {
-        "en": "At the time, calligraphy seemed to have zero practical application for his future career or financial prospects.",
-        "bn": "সেই সময়ে মনে হয়েছিল এই ক্যালিগ্রাফির শিক্ষা তাঁর ভবিষ্যৎ কর্মজীবনে বিন্দুমাত্র কোনো কাজে আসবে না।"
+        "en": "Together they journeyed to the arid hills of Mina, entirely resigned to the sovereign will of Allah.",
+        "bn": "তাঁরা উভয়েই মিনার নির্জন প্রান্তরে যাত্রা করলেন এবং সম্পূর্ণরূপে আল্লাহর সিদ্ধান্তের কাছে নিজেদের সমর্পণ করলেন।",
+        "words": [
+          {
+            "en": "Together they journeyed",
+            "bn": "একসাথে তাঁরা যাত্রা করলেন"
+          },
+          {
+            "en": "to the arid hills",
+            "bn": "অনুর্বর পাহাড়ি এলাকায়"
+          },
+          {
+            "en": "of Mina",
+            "bn": "মিনার"
+          },
+          {
+            "en": "entirely resigned",
+            "bn": "সম্পূর্ণরূপে সমর্পিত হয়ে"
+          },
+          {
+            "en": "to the sovereign will",
+            "bn": "সার্বভৌম ইচ্ছার প্রতি"
+          },
+          {
+            "en": "of Allah",
+            "bn": "আল্লাহর"
+          }
+        ]
       },
       {
-        "en": "Ten years later, when designing the original Macintosh computer, Jobs incorporated those very typography principles into the operating system.",
-        "bn": "দশ বছর পরে প্রথম ম্যাকিনটোশ কম্পিউটার ডিজাইন করার সময় জবস সেই ক্লাসের সুন্দর ফন্টগুলো কম্পিউটারের মধ্যে যুক্ত করলেন।"
+        "en": "Satan attempted to whisper doubt to both father and son, but they cast stones at him, driving him away in disgrace.",
+        "bn": "শয়তান পিতা ও পুত্র উভয়ের মনে সংশয়ের কুমন্ত্রণা দিতে চেষ্টা করল, কিন্তু তাঁরা তাকে পাথর নিক্ষেপ করে অপদস্থ করে তাড়িয়ে দিলেন।",
+        "words": [
+          {
+            "en": "Satan attempted",
+            "bn": "শয়তান চেষ্টা করল"
+          },
+          {
+            "en": "to whisper doubt",
+            "bn": "সংশয় সৃষ্টি করতে"
+          },
+          {
+            "en": "to both father and son",
+            "bn": "পিতা ও পুত্র উভয়ের মনে"
+          },
+          {
+            "en": "but they cast stones",
+            "bn": "কিন্তু তাঁরা পাথর ছুঁড়লেন"
+          },
+          {
+            "en": "at him",
+            "bn": "তার দিকে"
+          },
+          {
+            "en": "driving him away",
+            "bn": "তাকে তাড়িয়ে দিয়ে"
+          },
+          {
+            "en": "in disgrace",
+            "bn": "চরম অপমানে"
+          }
+        ]
       },
       {
-        "en": "The Mac became the first personal computer with gorgeous proportional typography and elegant desktop fonts.",
-        "bn": "ম্যাকই হয়ে উঠল পৃথিবীর প্রথম ব্যক্তিগত কম্পিউটার যার স্ক্রিনে চমৎকার ও নিখুঁত অক্ষরের টাইপোগ্রাফি দেখা যেত।"
+        "en": "When Ibrahim laid his son down upon his forehead and prepared the blade, the supreme trial was accomplished.",
+        "bn": "যখন ইব্রাহিম তাঁর সন্তানকে মাটির ওপর উপুড় করে শোয়ালেন এবং ছুরি চালালেন, তখন আনুগত্যের সর্বোচ্চ পরীক্ষা পূর্ণ হয়ে গেল।",
+        "words": [
+          {
+            "en": "When Ibrahim laid",
+            "bn": "যখন ইব্রাহিম শোয়ালেন"
+          },
+          {
+            "en": "his son down",
+            "bn": "তাঁর ছেলেকে নিচে"
+          },
+          {
+            "en": "upon his forehead",
+            "bn": "তার কপালকে মাটিতে রেখে"
+          },
+          {
+            "en": "and prepared the blade",
+            "bn": "এবং ধারালো ছুরি প্রস্তুত করলেন"
+          },
+          {
+            "en": "the supreme trial",
+            "bn": "সেই মহত্তম পরীক্ষা"
+          },
+          {
+            "en": "was accomplished",
+            "bn": "সফলভাবে উত্তীর্ণ হলো"
+          }
+        ]
       },
       {
-        "en": "Jobs famously observed that you cannot connect the dots looking forward; you can only connect them looking backward.",
-        "bn": "জবস সুন্দর একটি কথা বলেছিলেন: ভবিষ্যতের দিকে তাকিয়ে জীবনের বিন্দুগুলোকে মেলানো যায় না; কেবল অতীতের দিকে ফিরে তাকালেই তাদের মিল খুঁজে পাওয়া যায়।"
+        "en": "A divine voice called out: 'O Ibrahim! You have fulfilled the vision! Thus do We reward the doers of good.'",
+        "bn": "ঐশী আওয়াজ প্রতিধ্বনিত হলো: 'হে ইব্রাহিম! তুমি সত্যই স্বপ্নকে বাস্তবায়িত করেছ! নিশ্চয়ই আমি সৎকর্মশীলদের এভাবেই প্রতিদান দিয়ে থাকি।'",
+        "words": [
+          {
+            "en": "A divine voice called out",
+            "bn": "এক ঐশী কণ্ঠ ডেকে বলল"
+          },
+          {
+            "en": "O Ibrahim",
+            "bn": "হে ইব্রাহিম"
+          },
+          {
+            "en": "You have fulfilled",
+            "bn": "তুমি পূরণ করেছ"
+          },
+          {
+            "en": "the vision",
+            "bn": "সেই স্বপ্নকে"
+          },
+          {
+            "en": "Thus do We reward",
+            "bn": "এভাবেই আমি পুরস্কৃত করি"
+          },
+          {
+            "en": "the doers of good",
+            "bn": "সৎকর্মশীলদের"
+          }
+        ]
+      },
+      {
+        "en": "Allah miraculously replaced Ismail with a noble horned ram from Paradise, establishing the sacred tradition of Eid al-Adha.",
+        "bn": "আল্লাহ অলৌকিকভাবে ইসমাইলের পরিবর্তে জান্নাত থেকে এক সুন্দর দুম্বা পাঠিয়ে কুরবানী কবুল করলেন, যা ঈদুল আজহার অমর ইতিহাস হয়ে রইল।",
+        "words": [
+          {
+            "en": "Allah miraculously replaced",
+            "bn": "আল্লাহ অলৌকিকভাবে প্রতিস্থাপন করলেন"
+          },
+          {
+            "en": "Ismail with a noble ram",
+            "bn": "ইসমাইলের বদলে এক সম্মানিত দুম্বা"
+          },
+          {
+            "en": "from Paradise",
+            "bn": "জান্নাত থেকে"
+          },
+          {
+            "en": "establishing",
+            "bn": "প্রতিষ্ঠা করে"
+          },
+          {
+            "en": "the sacred tradition",
+            "bn": "পবিত্র সুন্নাহ / ঐতিহ্য"
+          },
+          {
+            "en": "of Eid al-Adha",
+            "bn": "ঈদুল আজহার"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "prophet-ismail-zamzam",
+    "title": "Baby Ismail, Mother Hajar, and the Well of Zamzam",
+    "titleBn": "শিশু ইসমাইল, মা হাজেরা ও জমজম কূপের অলৌকিক প্রকাশ",
+    "author": "Authentic Hadith (Sahih Bukhari)",
+    "level": "Intermediate",
+    "levelColor": "cyan",
+    "category": "Stories of the Prophets",
+    "coverEmoji": "💧",
+    "summary": "Mother Hajar's unwavering faith in the barren valley of Makkah, her desperate search between Safa and Marwah, and the spring that quenches millions across centuries.",
+    "summaryBn": "জনমানবহীন মক্কার মরুময় উপত্যকায় মা হাজেরার অবিচল ঈমান, সাফা ও মারওয়ার মাঝে পানির সন্ধানে ব্যাকুল দৌড় এবং অলৌকিক জমজম কূপের অভ্যুদয়।",
+    "sentences": [
+      {
+        "en": "Under divine instruction, Prophet Ibrahim escorted his wife Hajar and infant son Ismail into the desolate valley of Makkah.",
+        "bn": "ঐশী আদেশে হযরত ইব্রাহিম তাঁর স্ত্রী হাজেরা ও দুগ্ধপোষ্য শিশু ইসমাইলকে মক্কার জনমানবহীন রুক্ষ উপত্যকায় নিয়ে আসলেন।",
+        "words": [
+          {
+            "en": "Under divine instruction",
+            "bn": "ঐশী নির্দেশে"
+          },
+          {
+            "en": "Prophet Ibrahim escorted",
+            "bn": "নবী ইব্রাহিম নিয়ে আসলেন"
+          },
+          {
+            "en": "his wife Hajar",
+            "bn": "তাঁর স্ত্রী হাজেরাকে"
+          },
+          {
+            "en": "and infant son Ismail",
+            "bn": "ও শিশু পুত্র ইসমাইলকে"
+          },
+          {
+            "en": "into the desolate valley",
+            "bn": "সেই জনশূন্য উপত্যকায়"
+          },
+          {
+            "en": "of Makkah",
+            "bn": "মক্কার"
+          }
+        ]
+      },
+      {
+        "en": "The arid land possessed neither trees nor vegetation, nor a single drop of flowing water.",
+        "bn": "সেই শুষ্ক মরুভূমিতে না ছিল কোনো বৃক্ষরাজি, না ছিল কোনো খাদ্য কিংবা বহমান পানির ফোঁটা।",
+        "words": [
+          {
+            "en": "The arid land",
+            "bn": "সেই শুষ্ক ভূমি"
+          },
+          {
+            "en": "possessed neither trees",
+            "bn": "না কোনো গাছের অধিকারী ছিল"
+          },
+          {
+            "en": "nor vegetation",
+            "bn": "না কোনো শস্যশ্যামলতার"
+          },
+          {
+            "en": "nor a single drop",
+            "bn": "কিংবা এক ফোঁটাও না"
+          },
+          {
+            "en": "of flowing water",
+            "bn": "বহমান পানির"
+          }
+        ]
+      },
+      {
+        "en": "When Ibrahim turned to depart, Hajar asked: 'Has Allah commanded you to do this?'",
+        "bn": "ইব্রাহিম যখন ফিরে যাওয়ার জন্য পা বাড়ালেন, তখন হাজেরা ব্যাকুল হয়ে জিজ্ঞেস করলেন: 'আল্লাহ কি আপনাকে এর নির্দেশ দিয়েছেন?'",
+        "words": [
+          {
+            "en": "When Ibrahim turned",
+            "bn": "যখন ইব্রাহিম ঘুরলেন"
+          },
+          {
+            "en": "to depart",
+            "bn": "রওনা হতে"
+          },
+          {
+            "en": "Hajar asked",
+            "bn": "হাজেরা জিজ্ঞেস করলেন"
+          },
+          {
+            "en": "Has Allah commanded you",
+            "bn": "আল্লাহ কি আপনাকে আদেশ করেছেন"
+          },
+          {
+            "en": "to do this",
+            "bn": "এমনটি করতে"
+          }
+        ]
+      },
+      {
+        "en": "Upon hearing his quiet affirmative answer, she declared with sublime trust: 'Then He will never abandon us.'",
+        "bn": "ইব্রাহিমের সম্মতিসূচক জবাব শুনে তিনি পরম নির্ভরতায় ঘোষণা করলেন: 'তাহলে আল্লাহ কখনই আমাদের ধ্বংস হতে দেবেন না।'",
+        "words": [
+          {
+            "en": "Upon hearing",
+            "bn": "শোনার পর"
+          },
+          {
+            "en": "his quiet affirmative answer",
+            "bn": "তাঁর শান্ত ইতিবাচক উত্তর"
+          },
+          {
+            "en": "she declared",
+            "bn": "তিনি ঘোষণা করলেন"
+          },
+          {
+            "en": "with sublime trust",
+            "bn": "অসীম বিশ্বাসের সাথে"
+          },
+          {
+            "en": "Then He will never",
+            "bn": "তাহলে তিনি কখনই না"
+          },
+          {
+            "en": "abandon us",
+            "bn": "আমাদের অসহায় ছেড়ে দেবেন"
+          }
+        ]
+      },
+      {
+        "en": "Soon the modest waterskin was emptied, and baby Ismail began crying from severe thirst.",
+        "bn": "শীঘ্রই তাঁদের সাথে থাকা সামান্য মশকের পানি ফুরিয়ে গেল এবং তৃষ্ণার্ত শিশু ইসমাইল পিপাসায় কাঁদতে শুরু করল।",
+        "words": [
+          {
+            "en": "Soon",
+            "bn": "অচিরেই"
+          },
+          {
+            "en": "the modest waterskin",
+            "bn": "সামান্য পানির পাত্রটি"
+          },
+          {
+            "en": "was emptied",
+            "bn": "খালি হয়ে গেল"
+          },
+          {
+            "en": "and baby Ismail",
+            "bn": "এবং শিশু ইসমাইল"
+          },
+          {
+            "en": "began crying",
+            "bn": "কাঁদতে লাগল"
+          },
+          {
+            "en": "from severe thirst",
+            "bn": "তীব্র তৃষ্ণার কারণে"
+          }
+        ]
+      },
+      {
+        "en": "Driven by maternal agony, Hajar climbed Mount Safa scanning the horizon for any passing caravan.",
+        "bn": "মাতৃহৃদয়ের ব্যথায় ব্যাকুল হয়ে হাজেরা সাফা পাহাড়ে উঠলেন, যদি কোনো দূরগামী কাফেলার সন্ধান মেলে।",
+        "words": [
+          {
+            "en": "Driven by",
+            "bn": "তাড়িত হয়ে"
+          },
+          {
+            "en": "maternal agony",
+            "bn": "মাতৃহৃদয়ের কষ্টে"
+          },
+          {
+            "en": "Hajar climbed",
+            "bn": "হাজেরা উঠলেন"
+          },
+          {
+            "en": "Mount Safa",
+            "bn": "সাফা পাহাড়ে"
+          },
+          {
+            "en": "scanning the horizon",
+            "bn": "দিগন্তের পানে তাকিয়ে"
+          },
+          {
+            "en": "for any passing caravan",
+            "bn": "কোনো পথচারী কাফেলার খোঁজে"
+          }
+        ]
+      },
+      {
+        "en": "Seeing nobody, she hastened across the scorching valley to Mount Marwah, repeating the journey seven times.",
+        "bn": "কাউকে না দেখতে পেয়ে তিনি উত্তপ্ত উপত্যকার পথ ধরে মারওয়া পাহাড়ে দৌড়ে গেলেন এবং এভাবে সাতবার আসা-যাওয়া করলেন।",
+        "words": [
+          {
+            "en": "Seeing nobody",
+            "bn": "কাউকে না দেখতে পেয়ে"
+          },
+          {
+            "en": "she hastened",
+            "bn": "তিনি দ্রুত হেঁটে গেলেন"
+          },
+          {
+            "en": "across the scorching valley",
+            "bn": "উত্তপ্ত উপত্যকা পেরিয়ে"
+          },
+          {
+            "en": "to Mount Marwah",
+            "bn": "মারওয়া পাহাড়ের দিকে"
+          },
+          {
+            "en": "repeating the journey",
+            "bn": "যাত্রার পুনরাবৃত্তি করে"
+          },
+          {
+            "en": "seven times",
+            "bn": "সাতবার"
+          }
+        ]
+      },
+      {
+        "en": "Her desperate endeavor became an eternal rite of pilgrimage, commemorated by millions in the Sa'i of Hajj.",
+        "bn": "সন্তানের প্রতি তাঁর এই আত্মত্যাগ হজের সাঈ-এর মাধ্যমে কোটি কোটি মুমিনের জন্য চিরন্তন এক ফরজ ইবাদত হিসেবে স্থায়ী রূপ পেল।",
+        "words": [
+          {
+            "en": "Her desperate endeavor",
+            "bn": "তাঁর এই ব্যাকুল প্রচেষ্টা"
+          },
+          {
+            "en": "became an eternal rite",
+            "bn": "চিরন্তন এক বিধান হলো"
+          },
+          {
+            "en": "of pilgrimage",
+            "bn": "হজের"
+          },
+          {
+            "en": "commemorated by millions",
+            "bn": "লাখো কোটি মানুষের মাধ্যমে পালিত"
+          },
+          {
+            "en": "in the Sa'i of Hajj",
+            "bn": "হজের সাঈ-এর মধ্যে"
+          }
+        ]
+      },
+      {
+        "en": "Suddenly, Angel Jibril struck the dry earth near the kicking feet of baby Ismail with his wing.",
+        "bn": "হঠাৎ ফেরেশতা জিব্রাইল (আ.) শিশু ইসমাইলের ছটফট করা পায়ের কাছে ডানা দিয়ে আঘাত করলেন।",
+        "words": [
+          {
+            "en": "Suddenly",
+            "bn": "হঠাৎ"
+          },
+          {
+            "en": "Angel Jibril struck",
+            "bn": "ফেরেশতা জিব্রাইল আঘাত করলেন"
+          },
+          {
+            "en": "the dry earth",
+            "bn": "শুকনো জমিনে"
+          },
+          {
+            "en": "near the kicking feet",
+            "bn": "নড়াচড়া করা পায়ের কাছে"
+          },
+          {
+            "en": "of baby Ismail",
+            "bn": "শিশু ইসমাইলের"
+          },
+          {
+            "en": "with his wing",
+            "bn": "তাঁর ডানা দিয়ে"
+          }
+        ]
+      },
+      {
+        "en": "A pure, sweet fountain gushed forth abundantly, and Hajar cried: 'Zamzam! Zamzam!' (Stop flowing and gather!)",
+        "bn": "সাথে সাথে সেখান থেকে সুপেয় পানির এক অবিরাম ফোয়ারা উথলে উঠল, আর মা হাজেরা বাঁধ দিয়ে বললেন: 'জমজম! জমজম!' (থামো, জমা হও!)",
+        "words": [
+          {
+            "en": "A pure sweet fountain",
+            "bn": "এক বিশুদ্ধ মিষ্টি ঝর্ণা"
+          },
+          {
+            "en": "gushed forth",
+            "bn": "উথলে উঠল"
+          },
+          {
+            "en": "abundantly",
+            "bn": "বিপুল প্রাচুর্যে"
+          },
+          {
+            "en": "and Hajar cried",
+            "bn": "এবং হাজেরা ডেকে বললেন"
+          },
+          {
+            "en": "Zamzam",
+            "bn": "জমজম"
+          },
+          {
+            "en": "Stop flowing and gather",
+            "bn": "থামো এবং পাত্রে জমা হও"
+          }
+        ]
+      },
+      {
+        "en": "That miraculous well continues to satisfy millions of thirsty pilgrims until this very day.",
+        "bn": "সেই অলৌকিক কূপের বরকতময় পানি আজ পর্যন্ত শত কোটি তৃষ্ণার্ত মানুষকে পরিতৃপ্ত করে চলেছে।",
+        "words": [
+          {
+            "en": "That miraculous well",
+            "bn": "সেই অলৌকিক কূপটি"
+          },
+          {
+            "en": "continues to satisfy",
+            "bn": "তৃপ্ত করে চলেছে"
+          },
+          {
+            "en": "millions of thirsty pilgrims",
+            "bn": "লাখো তৃষ্ণার্ত হজ পালনকারীকে"
+          },
+          {
+            "en": "until this very day",
+            "bn": "আজকের এই দিন পর্যন্ত"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "prophet-ibrahim-kaba",
+    "title": "The Rebuilding of the Sacred Kaaba by Ibrahim and Ismail",
+    "titleBn": "হযরত ইব্রাহিম ও ইসমাইল (আ.) কর্তৃক পবিত্র কাবা গৃহ নির্মাণ",
+    "author": "Quranic Narrative (Surah Al-Baqarah)",
+    "level": "Intermediate",
+    "levelColor": "emerald",
+    "category": "Stories of the Prophets",
+    "coverEmoji": "🕋",
+    "summary": "The divine commission to raise the foundations of the House of Allah, the Maqam Ibrahim, and the universal call to pilgrimage.",
+    "summaryBn": "আল্লাহর ঘর কাবার ভিত্তিপ্রস্তর স্থাপন, মাকামে ইব্রাহিম এবং সারা বিশ্বের মানুষকে হজের সুমহান আহ্বানের অনুপম ইতিহাস।",
+    "sentences": [
+      {
+        "en": "When Ismail grew into a noble young man, Allah commanded Ibrahim to build the House of God in Makkah.",
+        "bn": "ইসমাইল যখন এক চরিত্রবান যুবকে পরিণত হলেন, তখন আল্লাহ ইব্রাহিমকে মক্কায় আল্লাহর পবিত্র গৃহ নির্মাণের নির্দেশ দিলেন।",
+        "words": [
+          {
+            "en": "When Ismail grew",
+            "bn": "যখন ইসমাইল বড় হলেন"
+          },
+          {
+            "en": "into a noble young man",
+            "bn": "এক মহান যুবকে"
+          },
+          {
+            "en": "Allah commanded",
+            "bn": "আল্লাহ আদেশ করলেন"
+          },
+          {
+            "en": "Ibrahim to build",
+            "bn": "ইব্রাহিমকে নির্মাণ করতে"
+          },
+          {
+            "en": "the House of God",
+            "bn": "আল্লাহর ঘর কাবা"
+          },
+          {
+            "en": "in Makkah",
+            "bn": "মক্কায়"
+          }
+        ]
+      },
+      {
+        "en": "Together, father and son raised the ancient foundations using stones carried from nearby hills.",
+        "bn": "পিতা ও পুত্র একসাথে আশেপাশের পাহাড় থেকে পাথর বহন করে কাবার আদি ভিত্তিপ্রস্তর উত্তোলন করতে লাগলেন।",
+        "words": [
+          {
+            "en": "Together",
+            "bn": "একসাথে"
+          },
+          {
+            "en": "father and son",
+            "bn": "পিতা ও পুত্র"
+          },
+          {
+            "en": "raised",
+            "bn": "উত্তোলন করলেন"
+          },
+          {
+            "en": "the ancient foundations",
+            "bn": "সেই প্রাচীন ভিত্তি"
+          },
+          {
+            "en": "using stones",
+            "bn": "পাথর ব্যবহার করে"
+          },
+          {
+            "en": "carried from nearby hills",
+            "bn": "নিকটস্থ পাহাড় থেকে বয়ে আনা"
+          }
+        ]
+      },
+      {
+        "en": "As the walls grew higher, Ibrahim stood on a stone block which softened under his feet, leaving his footprints preserved as Maqam Ibrahim.",
+        "bn": "দেয়াল যখন উঁচুতে উঠল, তখন ইব্রাহিম একটি পাথরের ওপর দাঁড়ালেন যা নরম হয়ে তাঁর পদচিহ্নকে স্থায়ী রূপ দিল—যা আজ মাকামে ইব্রাহিম হিসেবে পরিচিত।",
+        "words": [
+          {
+            "en": "As the walls grew higher",
+            "bn": "দেয়াল যখন উঁচু হতে লাগল"
+          },
+          {
+            "en": "Ibrahim stood",
+            "bn": "ইব্রাহিম দাঁড়ালেন"
+          },
+          {
+            "en": "on a stone block",
+            "bn": "একটি পাথরের খণ্ডের ওপর"
+          },
+          {
+            "en": "which softened",
+            "bn": "যা নরম হয়ে গিয়েছিল"
+          },
+          {
+            "en": "under his feet",
+            "bn": "তাঁর পায়ের নিচে"
+          },
+          {
+            "en": "leaving his footprints",
+            "bn": "তাঁর পদচিহ্ন রেখে দিয়ে"
+          },
+          {
+            "en": "preserved as Maqam Ibrahim",
+            "bn": "মাকামে ইব্রাহিম হিসেবে সংরক্ষিত"
+          }
+        ]
+      },
+      {
+        "en": "With every placed stone, they prayed: 'Our Lord! Accept this from us; indeed, You are the All-Hearing, the All-Knowing.'",
+        "bn": "প্রতিটি পাথর গাঁথার সাথে সাথে তাঁরা দোয়া করছিলেন: 'হে আমাদের পালনকর্তা! আমাদের থেকে এই খেদমত কবুল করুন; নিশ্চয়ই আপনি সর্বশ্রোতা, সর্বজ্ঞাত।'",
+        "words": [
+          {
+            "en": "With every placed stone",
+            "bn": "প্রতিটি পাথর রাখার সাথে"
+          },
+          {
+            "en": "they prayed",
+            "bn": "তাঁরা দোয়া করলেন"
+          },
+          {
+            "en": "Our Lord",
+            "bn": "হে আমাদের রব"
+          },
+          {
+            "en": "Accept this from us",
+            "bn": "আমাদের থেকে এটি কবুল করুন"
+          },
+          {
+            "en": "indeed You are",
+            "bn": "নিশ্চয় আপনি"
+          },
+          {
+            "en": "the All-Hearing",
+            "bn": "সর্বশ্রোতা"
+          },
+          {
+            "en": "the All-Knowing",
+            "bn": "সর্বজ্ঞ"
+          }
+        ]
+      },
+      {
+        "en": "Angel Jibril brought the radiant celestial Black Stone (Al-Hajar Al-Aswad) to mark the corner of circumambulation.",
+        "bn": "ফেরেশতা জিব্রাইল (আ.) তাওয়াফের কোণ চিহ্নিত করতে জান্নাত থেকে এক শুভ্র নূরের পাথর (হাজরে আসওয়াদ) নিয়ে আসলেন।",
+        "words": [
+          {
+            "en": "Angel Jibril brought",
+            "bn": "ফেরেশতা জিব্রাইল নিয়ে আসলেন"
+          },
+          {
+            "en": "the radiant celestial stone",
+            "bn": "জান্নাতী নূরের পাথর"
+          },
+          {
+            "en": "Al-Hajar Al-Aswad",
+            "bn": "হাজরে আসওয়াদ"
+          },
+          {
+            "en": "to mark the corner",
+            "bn": "কোণ চিহ্নিত করতে"
+          },
+          {
+            "en": "of circumambulation",
+            "bn": "তাওয়াফ করার"
+          }
+        ]
+      },
+      {
+        "en": "Allah then commanded Ibrahim: 'And proclaim to the people the Hajj; they will come to you on foot and on every lean camel from every distant pass.'",
+        "bn": "আল্লাহ অতঃপর ইব্রাহিমকে নির্দেশ দিলেন: 'মানুষের মাঝে হজের সাধারণ ঘোষণা দাও; তারা দূরদূরান্তের পথ অতিক্রম করে পায়ে হেঁটে ও ক্লান্ত উটের পিঠে চড়ে তোমার কাছে আসবে।'",
+        "words": [
+          {
+            "en": "Allah then commanded",
+            "bn": "আল্লাহ তখন আদেশ করলেন"
+          },
+          {
+            "en": "Ibrahim",
+            "bn": "ইব্রাহিমকে"
+          },
+          {
+            "en": "And proclaim to the people",
+            "bn": "এবং মানুষের মাঝে ঘোষণা করো"
+          },
+          {
+            "en": "the Hajj",
+            "bn": "হজের"
+          },
+          {
+            "en": "they will come to you",
+            "bn": "তারা তোমার কাছে আসবে"
+          },
+          {
+            "en": "on foot",
+            "bn": "পায়ে হেঁটে"
+          },
+          {
+            "en": "and on every lean camel",
+            "bn": "এবং প্রতিটি হালকা উটের পিঠে"
+          },
+          {
+            "en": "from every distant pass",
+            "bn": "প্রতিটি দূরবর্তী গিরিপথ থেকে"
+          }
+        ]
+      },
+      {
+        "en": "Ibrahim climbed the mountaintop and called out, and Allah caused his voice to reach the souls of believers across all ages.",
+        "bn": "ইব্রাহিম পাহাড়ের চূড়ায় দাঁড়িয়ে আওয়াজ তুললেন, আর আল্লাহ তাঁর সেই আহ্বান কিয়ামত পর্যন্ত অনাগত সমস্ত মুমিনের অন্তরে পৌঁছে দিলেন।",
+        "words": [
+          {
+            "en": "Ibrahim climbed",
+            "bn": "ইব্রাহিম উঠলেন"
+          },
+          {
+            "en": "the mountaintop",
+            "bn": "পাহাড়ের চূড়ায়"
+          },
+          {
+            "en": "and called out",
+            "bn": "এবং আওয়াজ তুললেন"
+          },
+          {
+            "en": "and Allah caused",
+            "bn": "এবং আল্লাহ পৌঁছে দিলেন"
+          },
+          {
+            "en": "his voice to reach",
+            "bn": "তাঁর কণ্ঠস্বর পৌঁছাতে"
+          },
+          {
+            "en": "the souls of believers",
+            "bn": "মুমিনদের আত্মায়"
+          },
+          {
+            "en": "across all ages",
+            "bn": "সমস্ত যুগের"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "prophet-lut-sodom",
+    "title": "Prophet Lut and the Deliverance from Corruption",
+    "titleBn": "হযরত লূত (আ.) ও পাপাচারী জাতির চরম শিক্ষণীয় পরিণতি",
+    "author": "Quranic Narrative (Surah Hud & Al-Hijr)",
+    "level": "Intermediate",
+    "levelColor": "rose",
+    "category": "Stories of the Prophets",
+    "coverEmoji": "⚡",
+    "summary": "Prophet Lut's struggle against shameless vices in the twin cities of Sodom and Gomorrah, the arrival of angel emissaries, and the overturning of the corrupt cities.",
+    "summaryBn": "সাদুম ও আমুরা নগরীর চরম অশ্লীলতার বিরুদ্ধে হযরত লূত (আ.)-এর সংগ্রাম, মানববেশে ফেরেশতাদের আগমন এবং পাপাচারীদের উল্টে যাওয়া নগরীর ওপর পাথরের বৃষ্টি।",
+    "sentences": [
+      {
+        "en": "Prophet Lut, nephew of Prophet Ibrahim, was sent to the prosperous cities of Sodom and Gomorrah near the Dead Sea.",
+        "bn": "হযরত ইব্রাহিমের ভাতিজা হযরত লূত (আ.)-কে মৃত সাগরের নিকটবর্তী সাদুম ও আমুরা নগরীর সমৃদ্ধ জনপদে পাঠানো হয়েছিল।",
+        "words": [
+          {
+            "en": "Prophet Lut",
+            "bn": "নবী লূত"
+          },
+          {
+            "en": "nephew of Prophet Ibrahim",
+            "bn": "নবী ইব্রাহিমের ভাতিজা"
+          },
+          {
+            "en": "was sent to",
+            "bn": "প্রেরিত হয়েছিলেন"
+          },
+          {
+            "en": "the prosperous cities",
+            "bn": "সমৃদ্ধ নগরীগুলোতে"
+          },
+          {
+            "en": "of Sodom and Gomorrah",
+            "bn": "সাদুম ও আমুরার"
+          },
+          {
+            "en": "near the Dead Sea",
+            "bn": "মৃত সাগরের সন্নিকটে"
+          }
+        ]
+      },
+      {
+        "en": "The people engaged in unprecedented immoralities, robbing wayfarers and practicing open lewdness in their assemblies.",
+        "bn": "সেখানকার মানুষ নজিরবিহীন নোংরামিতে লিপ্ত ছিল, তারা পথিকদের সর্বস্ব লুট করত এবং প্রকাশ্য আসরে অশ্লীলতার চর্চা করত।",
+        "words": [
+          {
+            "en": "The people engaged",
+            "bn": "মানুষ লিপ্ত ছিল"
+          },
+          {
+            "en": "in unprecedented immoralities",
+            "bn": "নজিরবিহীন অশ্লীলতায়"
+          },
+          {
+            "en": "robbing wayfarers",
+            "bn": "পথিকদের পথ রোধ করে লুটতরাজ করত"
+          },
+          {
+            "en": "and practicing",
+            "bn": "এবং অনুশীলন করত"
+          },
+          {
+            "en": "open lewdness",
+            "bn": "প্রকাশ্য নির্লজ্জতা"
+          },
+          {
+            "en": "in their assemblies",
+            "bn": "তাদের প্রকাশ্য মজলিসে"
+          }
+        ]
+      },
+      {
+        "en": "Lut pleaded with them day after day: 'Do you not fear Allah? I am a trustworthy messenger to you.'",
+        "bn": "লূত দিনের পর দিন তাদের বোঝালেন: 'তোমরা কি আল্লাহকে ভয় করবে না? আমি তোমাদের জন্য এক বিশ্বস্ত প্রেরিত রাসুল।'",
+        "words": [
+          {
+            "en": "Lut pleaded",
+            "bn": "লূত বিনতি করলেন"
+          },
+          {
+            "en": "day after day",
+            "bn": "দিনের পর দিন"
+          },
+          {
+            "en": "Do you not fear Allah",
+            "bn": "তোমরা কি আল্লাহকে ভয় করবে না"
+          },
+          {
+            "en": "I am a trustworthy messenger",
+            "bn": "আমি এক বিশ্বস্ত রাসুল"
+          },
+          {
+            "en": "to you",
+            "bn": "তোমাদের নিকট"
+          }
+        ]
+      },
+      {
+        "en": "Their only response was to threaten him with exile: 'Expel Lut's family from your town; indeed, they are people who keep themselves pure!'",
+        "bn": "তাদের একমাত্র জবাব ছিল দেশত্যাগের হুমকি: 'লূতের পরিবারকে শহর থেকে বের করে দাও; তারা নাকি এমন লোক যারা নিজেদের বড় পবিত্র রাখতে চায়!'",
+        "words": [
+          {
+            "en": "Their only response",
+            "bn": "তাদের একমাত্র জবাব ছিল"
+          },
+          {
+            "en": "was to threaten him",
+            "bn": "তাঁকে হুমকি দেওয়া"
+          },
+          {
+            "en": "with exile",
+            "bn": "দেশান্তরের মাধ্যমে"
+          },
+          {
+            "en": "Expel Lut's family",
+            "bn": "লূতের পরিবারকে বের করে দাও"
+          },
+          {
+            "en": "from your town",
+            "bn": "তোমাদের শহর থেকে"
+          },
+          {
+            "en": "they are people",
+            "bn": "তারা এমন লোক"
+          },
+          {
+            "en": "who keep themselves pure",
+            "bn": "যারা নিজেদের পবিত্র রাখে"
+          }
+        ]
+      },
+      {
+        "en": "Eventually, noble angels descended in the guise of handsome young guests to visit Lut's residence.",
+        "bn": "অবশেষে সম্মানিত ফেরেশতারা সুদর্শন যুবকের বেশে অতিথি হয়ে লূতের আবাসে উপস্থিত হলেন।",
+        "words": [
+          {
+            "en": "Eventually",
+            "bn": "অবশেষে"
+          },
+          {
+            "en": "noble angels descended",
+            "bn": "সম্মানিত ফেরেশতারা অবতীর্ণ হলেন"
+          },
+          {
+            "en": "in the guise",
+            "bn": "বেশ ধারণ করে"
+          },
+          {
+            "en": "of handsome young guests",
+            "bn": "সুদর্শন যুবক মেহমানদের"
+          },
+          {
+            "en": "to visit Lut's residence",
+            "bn": "লূতের ঘরে উপস্থিত হতে"
+          }
+        ]
+      },
+      {
+        "en": "When the corrupt mob rushed to violate the guests, the angels revealed their celestial nature and blinded the attackers.",
+        "bn": "পাপী জনতা যখন মেহমানদের লাঞ্ছিত করার উদ্দেশ্যে ছুটে এলো, তখন ফেরেশতারা তাঁদের পরিচয় প্রকাশ করলেন এবং আক্রমণকারীদের অন্ধ করে দিলেন।",
+        "words": [
+          {
+            "en": "When the corrupt mob",
+            "bn": "যখন সেই দুরাচার জনতা"
+          },
+          {
+            "en": "rushed to violate",
+            "bn": "লাঞ্ছিত করতে ছুটে এলো"
+          },
+          {
+            "en": "the guests",
+            "bn": "মেহমানদের"
+          },
+          {
+            "en": "the angels revealed",
+            "bn": "ফেরেশতারা প্রকাশ করলেন"
+          },
+          {
+            "en": "their celestial nature",
+            "bn": "তাঁদের ঐশী রূপ"
+          },
+          {
+            "en": "and blinded",
+            "bn": "এবং অন্ধ করে দিলেন"
+          },
+          {
+            "en": "the attackers",
+            "bn": "হামলাকারীদের"
+          }
+        ]
+      },
+      {
+        "en": "The angels instructed Lut to depart with his family before dawn, without any of them looking back.",
+        "bn": "ফেরেশতারা লূতকে নির্দেশ দিলেন যেন রাতের শেষভাগে তিনি তাঁর পরিবারসহ শহর ত্যাগ করেন এবং কেউ যেন পেছনে ফিরে না তাকায়।",
+        "words": [
+          {
+            "en": "The angels instructed",
+            "bn": "ফেরেশতারা নির্দেশ দিলেন"
+          },
+          {
+            "en": "Lut to depart",
+            "bn": "লূতকে রওনা হতে"
+          },
+          {
+            "en": "with his family",
+            "bn": "তাঁর পরিবারসহ"
+          },
+          {
+            "en": "before dawn",
+            "bn": "ভোর হওয়ার পূর্বে"
+          },
+          {
+            "en": "without any of them",
+            "bn": "তাদের কেউ ছাড়া"
+          },
+          {
+            "en": "looking back",
+            "bn": "পেছনে তাকানো"
+          }
+        ]
+      },
+      {
+        "en": "At sunrise, an earth-shattering blast struck, turning the cities upside down and raining baked brimstones marked by the Lord.",
+        "bn": "সূর্যোদয়ের সময় এক ভয়ংকর বিস্ফোরণ ঘটল, যা পুরো শহরকে উল্টে দিল এবং তাদের ওপর প্রভুর চিহ্নিত পোড়া মাটির পাথরবৃষ্টি বর্ষণ করল।",
+        "words": [
+          {
+            "en": "At sunrise",
+            "bn": "সূর্যোদয়ের সময়"
+          },
+          {
+            "en": "an earth-shattering blast struck",
+            "bn": "এক মাটি কাঁপানো বিস্ফোরণ আঘাত হানল"
+          },
+          {
+            "en": "turning the cities upside down",
+            "bn": "শহরগুলোকে সম্পূর্ণ উল্টে দিয়ে"
+          },
+          {
+            "en": "and raining baked brimstones",
+            "bn": "এবং পোড়ামাটির পাথরবৃষ্টি বর্ষণ করে"
+          },
+          {
+            "en": "marked by the Lord",
+            "bn": "প্রভুর পক্ষ থেকে চিহ্নিত"
+          }
+        ]
       }
     ]
   }

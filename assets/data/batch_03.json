@@ -1,856 +1,2461 @@
 [
   {
-    "id": "wit-birbal-khichdi",
-    "title": "Birbal's Cooking Pot and the Cold Lake",
-    "titleBn": "বীরবলের খিচুড়ি এবং শীতের হ্রদ",
-    "author": "Mughal Wit",
+    "id": "prophet-musa-burning-bush",
+    "title": "Prophet Musa and the Miraculous Voice at Mount Tur",
+    "titleBn": "তূর পাহাড়ে হযরত মূসা (আ.) ও আল্লাহর সাথে কথোপকথন",
+    "author": "Quranic Narrative (Surah Ta-Ha & Al-Qasas)",
     "level": "Intermediate",
-    "category": "Wit & Wisdom",
-    "coverEmoji": "🍲",
-    "summary": "Birbal uses a distant pot over a tiny fire to teach Emperor Akbar a lesson about promises and warmth.",
-    "summaryBn": "অনেক উঁচুতে হাঁড়ি ঝুলিয়ে বীরবল সম্রাট আকবরকে এক দরিদ্র মানুষের প্রতি সুবিচার করার শিক্ষা দিয়েছিলেন।",
+    "levelColor": "amber",
+    "category": "Stories of the Prophets",
+    "coverEmoji": "🔥",
+    "summary": "Traveling through the cold Sinai night with his family, Musa spots a fire upon Mount Tur, removes his sandals on sacred ground, and speaks directly with Allah.",
+    "summaryBn": "সিনাইয়ের কনকনে শীতে আগুনের খোঁজে তূর পাহাড়ে গমন, পবিত্র উপত্যকা তুয়া-তে জুতা খুলে দাঁড়ানো এবং সর্বশক্তিমান আল্লাহর সাথে সরাসরি বাক্যালাপের অমর ঘটনা।",
     "sentences": [
       {
-        "en": "On a freezing winter night in Agra, Emperor Akbar challenged a poor washerman named Dinu to stand neck-deep in the palace lake till dawn.",
-        "bn": "আগ্রার এক কনকনে শীতের রাতে সম্রাট আকবর দিনু নামের এক গরিব ধোপাকে ভোর পর্যন্ত রাজপ্রাসাদের বরফশীতল হ্রদে গলা সমান পানিতে দাঁড়িয়ে থাকার চ্যালেঞ্জ দিলেন।"
+        "en": "After spending ten years in Madyan, Prophet Musa journeyed with his family through the freezing darkness of the Sinai desert.",
+        "bn": "মাদইয়ানে দশ বছর অবস্থানের পর হযরত মূসা (আ.) তাঁর পরিবার নিয়ে সিনাই মরুভূমির কনকনে অন্ধকারের মধ্য দিয়ে যাত্রা করছিলেন।",
+        "words": [
+          {
+            "en": "After spending ten years",
+            "bn": "দশ বছর কাটানোর পর"
+          },
+          {
+            "en": "in Madyan",
+            "bn": "মাদইয়ানে"
+          },
+          {
+            "en": "Prophet Musa journeyed",
+            "bn": "নবী মূসা যাত্রা করলেন"
+          },
+          {
+            "en": "with his family",
+            "bn": "তাঁর পরিবারকে নিয়ে"
+          },
+          {
+            "en": "through the freezing darkness",
+            "bn": "কনকনে অন্ধকারের মধ্য দিয়ে"
+          },
+          {
+            "en": "of the Sinai desert",
+            "bn": "সিনাই মরুভূমির"
+          }
+        ]
       },
       {
-        "en": "Desperate for money to feed his starving family, the shivering man endured the icy waters all night, gazing at a distant palace lantern.",
-        "bn": "পরিবারের মুখে খাবার তুলে দেওয়ার তাগিদে লোকটি সারারাত কাঁপতে কাঁপতে পানিতে দাঁড়িয়ে দূরের প্রাসাদের বাতির দিকে তাকিয়ে শক্তি জোগাল।"
+        "en": "As shivering winds chilled them, Musa perceived a radiant fire burning upon the slope of Mount Tur.",
+        "bn": "যখন কনকনে বাতাসে তারা শীতে কাঁপছিলেন, তখন মূসা তূর পাহাড়ের ঢালে এক উজ্জ্বল আলোকরশ্মির আগুন দেখতে পেলেন।",
+        "words": [
+          {
+            "en": "As shivering winds",
+            "bn": "যখন কাঁপানো বাতাস"
+          },
+          {
+            "en": "chilled them",
+            "bn": "তাদের শীতল করে দিল"
+          },
+          {
+            "en": "Musa perceived",
+            "bn": "মূসা দেখতে পেলেন"
+          },
+          {
+            "en": "a radiant fire",
+            "bn": "এক উজ্জ্বল আলোকময় আগুন"
+          },
+          {
+            "en": "burning upon the slope",
+            "bn": "পাহাড়ের ঢালে জ্বলছে"
+          },
+          {
+            "en": "of Mount Tur",
+            "bn": "তূর পাহাড়ের"
+          }
+        ]
       },
       {
-        "en": "When Dinu claimed his reward, Akbar cruelly refused, claiming the distant palace light had provided him warmth.",
-        "bn": "সকালে দিনু পুরস্কার চাইতে এলে আকবর অন্যায়ভাবে বললেন যে প্রাসাদের বাতির উত্তাপ পেয়েই সে বেঁচে ছিল, তাই কোনো পুরস্কার পাবে না।"
+        "en": "He told his family: 'Stay here; indeed, I perceive a fire; perhaps I may bring you a burning ember or find guidance at the fire.'",
+        "bn": "তিনি পরিবারকে বললেন: 'তোমরা এখানে অপেক্ষা করো; আমি আগুন দেখতে পেয়েছি; হয়তো সেখান থেকে জ্বলন্ত কাঠখণ্ড আনতে পারব কিংবা পথের দিশা পাব।'",
+        "words": [
+          {
+            "en": "He told his family",
+            "bn": "তিনি পরিবারকে বললেন"
+          },
+          {
+            "en": "Stay here",
+            "bn": "তোমরা এখানে থাকো"
+          },
+          {
+            "en": "indeed I perceive a fire",
+            "bn": "নিশ্চয়ই আমি আগুন দেখেছি"
+          },
+          {
+            "en": "perhaps I may bring you",
+            "bn": "হয়তো আমি তোমাদের জন্য নিয়ে আসব"
+          },
+          {
+            "en": "a burning ember",
+            "bn": "একখণ্ড জ্বলন্ত কাঠ"
+          },
+          {
+            "en": "or find guidance",
+            "bn": "অথবা পথের সন্ধান পাব"
+          }
+        ]
       },
       {
-        "en": "Deeply saddened by the injustice, Birbal stayed away from the royal court the following morning.",
-        "bn": "এই অবিচারে ব্যথিত হয়ে বীরবল পরদিন সকাল থেকে রাজদরবারে যাওয়া বন্ধ করে দিলেন।"
+        "en": "When he reached the illuminated green bush, he was amazed to find that the fire burned brilliantly without consuming a single leaf.",
+        "bn": "তিনি যখন আলোকময় সবুজ ঝোপের কাছে পৌঁছালেন, তখন সবিস্ময়ে দেখলেন আগুনটি উজ্জ্বলভাবে জ্বলছে অথচ গাছের একটি পাতাও পুড়ছে না।",
+        "words": [
+          {
+            "en": "When he reached",
+            "bn": "যখন তিনি পৌঁছালেন"
+          },
+          {
+            "en": "the illuminated green bush",
+            "bn": "সেই আলোকিত সবুজ ঝোপের কাছে"
+          },
+          {
+            "en": "he was amazed to find",
+            "bn": "তিনি অবাক হয়ে দেখলেন"
+          },
+          {
+            "en": "that the fire burned brilliantly",
+            "bn": "যে আগুনটি উজ্জ্বল হয়ে জ্বলছে"
+          },
+          {
+            "en": "without consuming",
+            "bn": "পুড়িয়ে ছাই না করে"
+          },
+          {
+            "en": "a single leaf",
+            "bn": "একটি পাতাও"
+          }
+        ]
       },
       {
-        "en": "Akbar visited Birbal's garden and found him sitting beside a tiny fire on the ground, with a cooking pot hung six feet up on a tall branch.",
-        "bn": "আকবর বীরবলের বাগানে গিয়ে দেখলেন মাটিতে সামান্য একটু আগুন জ্বলছে আর ছয় ফুট উঁচুতে ডালের সাথে রান্নার হাঁড়ি ঝুলিয়ে রাখা হয়েছে।"
+        "en": "Suddenly, a majestic voice echoed through the sacred valley of Tuwa: 'O Musa! Indeed, I am your Lord! Remove your sandals, for you are in the holy valley!'",
+        "bn": "হঠাৎ পবিত্র তুয়া উপত্যকায় এক গম্ভীর ঐশী বাণী প্রতিধ্বনিত হলো: 'হে মূসা! নিশ্চয়ই আমি তোমার পালনকর্তা! তোমার জুতা খুলে ফেলো, কারণ তুমি এক পবিত্র উপত্যকায় আছো!'",
+        "words": [
+          {
+            "en": "Suddenly",
+            "bn": "হঠাৎ"
+          },
+          {
+            "en": "a majestic voice echoed",
+            "bn": "এক মহিমান্বিত আওয়াজ প্রতিধ্বনিত হলো"
+          },
+          {
+            "en": "through the sacred valley",
+            "bn": "পবিত্র উপত্যকার মাঝে"
+          },
+          {
+            "en": "of Tuwa",
+            "bn": "তুয়ার"
+          },
+          {
+            "en": "O Musa",
+            "bn": "হে মূসা"
+          },
+          {
+            "en": "Indeed I am your Lord",
+            "bn": "নিশ্চয়ই আমি তোমার রব"
+          },
+          {
+            "en": "Remove your sandals",
+            "bn": "তোমার জুতো খুলে ফেলো"
+          },
+          {
+            "en": "for you are in the holy valley",
+            "bn": "কেননা তুমি এক পবিত্র উপত্যকায় আছো"
+          }
+        ]
       },
       {
-        "en": "Akbar laughed and asked, 'How can the heat from that tiny fire possibly reach a pot hanging so high in the air?'",
-        "bn": "আকবর হেসে বললেন, 'মাটির এইটুকু আগুনের উত্তাপ অত উঁচুতে ঝোলানো হাঁড়িতে কীভাবে পৌঁছাবে?' "
+        "en": "Trembling in profound awe, Musa cast off his shoes as Allah announced: 'And I have chosen you, so listen to what is revealed.'",
+        "bn": "গভীর ভক্তিতে কাঁপতে কাঁপতে মূসা জুতো খুলে ফেললেন, আর আল্লাহ ঘোষণা করলেন: 'আমি তোমাকে নবুওয়াতের জন্য বেছে নিয়েছি, অতএব যা ওহী করা হচ্ছে তা মনোযোগ দিয়ে শোনো।'",
+        "words": [
+          {
+            "en": "Trembling in profound awe",
+            "bn": "গভীর ভক্তিতে কাঁপতে কাঁপতে"
+          },
+          {
+            "en": "Musa cast off his shoes",
+            "bn": "মূসা জুতো খুলে ফেললেন"
+          },
+          {
+            "en": "as Allah announced",
+            "bn": "যেমনটি আল্লাহ ঘোষণা করলেন"
+          },
+          {
+            "en": "And I have chosen you",
+            "bn": "এবং আমি তোমাকে মনোনীত করেছি"
+          },
+          {
+            "en": "so listen",
+            "bn": "অতএব মনোযোগ দিয়ে শোনো"
+          },
+          {
+            "en": "to what is revealed",
+            "bn": "যা ওহী করা হচ্ছে"
+          }
+        ]
       },
       {
-        "en": "Birbal bowed and replied, 'Sire, if the distant light of your palace could warm a man in an icy lake, this fire will cook my rice.'",
-        "bn": "বীরবল মাথা নুয়ে বললেন, 'মহামান্য, প্রাসাদের দূরের বাতি যদি বরফ হ্রদের মানুষকে উষ্ণতা দিতে পারে, তবে এই আগুনও আমার খিচুড়ি রাঁধতে পারবে।'"
+        "en": "Allah asked: 'And what is that in your right hand, O Musa?'",
+        "bn": "আল্লাহ জিজ্ঞেস করলেন: 'হে মূসা, তোমার ডান হাতে ওটা কী?'",
+        "words": [
+          {
+            "en": "Allah asked",
+            "bn": "আল্লাহ জিজ্ঞেস করলেন"
+          },
+          {
+            "en": "And what is that",
+            "bn": "আর ওটা কী"
+          },
+          {
+            "en": "in your right hand",
+            "bn": "তোমার ডান হাতে"
+          },
+          {
+            "en": "O Musa",
+            "bn": "হে মূসা"
+          }
+        ]
       },
       {
-        "en": "Realizing his foolishness and cruelty, Akbar immediately rewarded the poor washerman with two thousand gold coins.",
-        "bn": "নিজের ভুল ও অবিচার বুঝতে পেরে সম্রাট আকবর তৎক্ষণাৎ সেই গরিব ধোপাকে ডেকে এনে দুই হাজার স্বর্ণমুদ্রায় পুরস্কৃত করলেন।"
+        "en": "He replied: 'It is my staff; I lean upon it, and bring down leaves for my sheep, and I have other uses for it.'",
+        "bn": "তিনি উত্তর দিলেন: 'এটা আমার লাঠি; আমি এতে ভর দিই, এর দ্বারা মেষপালের জন্য গাছের পাতা ঝাড়াই এবং এতে আমার অন্যান্য প্রয়োজনও মেটে।'",
+        "words": [
+          {
+            "en": "He replied",
+            "bn": "তিনি উত্তর দিলেন"
+          },
+          {
+            "en": "It is my staff",
+            "bn": "এটি আমার লাঠি"
+          },
+          {
+            "en": "I lean upon it",
+            "bn": "আমি এতে ভর দিয়ে চলি"
+          },
+          {
+            "en": "and bring down leaves",
+            "bn": "এবং গাছের পাতা পেড়ে নিই"
+          },
+          {
+            "en": "for my sheep",
+            "bn": "আমার মেষপালের জন্য"
+          },
+          {
+            "en": "and I have other uses",
+            "bn": "এবং আমার অন্যান্য উপকারও হয়"
+          }
+        ]
+      },
+      {
+        "en": "Allah commanded him to cast it down, and it instantly turned into a massive, swift serpent.",
+        "bn": "আল্লাহ তাঁকে লাঠিটি মাটিতে নিক্ষেপ করতে বললেন, আর নিক্ষেপ করতেই তা এক সুবিশাল ক্ষিপ্রগতি অজগরে রূপান্তরিত হলো।",
+        "words": [
+          {
+            "en": "Allah commanded him",
+            "bn": "আল্লাহ তাঁকে আদেশ করলেন"
+          },
+          {
+            "en": "to cast it down",
+            "bn": "তা নিচে ফেলে দিতে"
+          },
+          {
+            "en": "and it instantly turned",
+            "bn": "এবং তা সাথে সাথে রূপ নিল"
+          },
+          {
+            "en": "into a massive swift serpent",
+            "bn": "এক বিশাল ও দ্রুতগামী সাপে"
+          }
+        ]
+      },
+      {
+        "en": "Allah comforted him: 'Seize it and fear not; We will restore it to its former state.'",
+        "bn": "আল্লাহ তাঁকে অভয় দিয়ে বললেন: 'ওকে ধরো এবং ভয় পেয়ো না; আমি এটিকে পুনরায় আগের লাঠির রূপ ফিরিয়ে দেব।'",
+        "words": [
+          {
+            "en": "Allah comforted him",
+            "bn": "আল্লাহ তাঁকে সান্ত্বনা দিলেন"
+          },
+          {
+            "en": "Seize it and fear not",
+            "bn": "ওটা ধরো এবং ভয় পেয়ো না"
+          },
+          {
+            "en": "We will restore it",
+            "bn": "আমি একে ফিরিয়ে দেব"
+          },
+          {
+            "en": "to its former state",
+            "bn": "এর পূর্বাবস্থায়"
+          }
+        ]
+      },
+      {
+        "en": "Allah also made his hand draw forth from under his armpit shining brightly with celestial white light without any blemish.",
+        "bn": "আল্লাহ তাঁর হাতকে বগলের নিচে রেখে বের করার নির্দেশ দিলেন, যা কোনো রোগ ছাড়াই চাঁদের মতো শুভ্র আলোয় ঝলমল করে উঠল।",
+        "words": [
+          {
+            "en": "Allah also made his hand",
+            "bn": "আল্লাহ তাঁর হাতকেও করলেন"
+          },
+          {
+            "en": "draw forth",
+            "bn": "বেরিয়ে আসা"
+          },
+          {
+            "en": "from under his armpit",
+            "bn": "তাঁর বগলের নিচ থেকে"
+          },
+          {
+            "en": "shining brightly",
+            "bn": "উজ্জ্বল আলোয় দীপ্তিময়"
+          },
+          {
+            "en": "with celestial white light",
+            "bn": "শুভ্র নূরানী আলো নিয়ে"
+          },
+          {
+            "en": "without any blemish",
+            "bn": "কোনো প্রকার ত্রুটি ছাড়াই"
+          }
+        ]
+      },
+      {
+        "en": "Equipped with these two cosmic signs, Musa was commissioned to go unto Pharaoh the tyrant and demand the freedom of Bani Israel.",
+        "bn": "এই দুটি সুস্পষ্ট অলৌকিক মুজিজা দিয়ে মূসাকে স্বৈরাচারী ফেরাউনের দরবারে গিয়ে বনী ইসরাঈলকে মুক্ত করার নির্দেশ দেওয়া হলো।",
+        "words": [
+          {
+            "en": "Equipped with these signs",
+            "bn": "এই নিদর্শনগুলো নিয়ে"
+          },
+          {
+            "en": "Musa was commissioned",
+            "bn": "মূসা আদিষ্ট হলেন"
+          },
+          {
+            "en": "to go unto Pharaoh the tyrant",
+            "bn": "জালিম ফেরাউনের কাছে যেতে"
+          },
+          {
+            "en": "and demand the freedom",
+            "bn": "এবং মুক্তির দাবি জানাতে"
+          },
+          {
+            "en": "of Bani Israel",
+            "bn": "বনী ইসরাঈলের"
+          }
+        ]
       }
     ]
   },
   {
-    "id": "wit-birbal-crows-capital",
-    "title": "Counting the Crows in the Capital",
-    "titleBn": "রাজধানীর কাক গণনার উপায়",
-    "author": "Mughal Wit",
+    "id": "prophet-musa-pharaoh",
+    "title": "Prophet Musa Challenging Pharaoh's Sorcerers",
+    "titleBn": "ফেরাউনের দরবারে হযরত মূসা (আ.) ও জাদুকরদের ঈমান",
+    "author": "Quranic Narrative (Surah Al-A'raf & Ta-Ha)",
     "level": "Intermediate",
-    "category": "Wit & Wisdom",
-    "coverEmoji": "🐦",
-    "summary": "Emperor Akbar asks an impossible census question, and Birbal delivers a witty answer no courtier can dispute.",
-    "summaryBn": "সম্রাট আকবরের এক অসম্ভব ধাঁধার এমন বুদ্ধিদীপ্ত উত্তর বীরবল দিয়েছিলেন যার কোনো প্রতিবাদ কারও জানা ছিল না।",
+    "levelColor": "rose",
+    "category": "Stories of the Prophets",
+    "coverEmoji": "🐍",
+    "summary": "Musa enters the royal court of the Nile, confronts Pharaoh's finest magicians on the Day of Festival, and witnesses the magicians prostrate to the Lord of the Worlds.",
+    "summaryBn": "উৎসবের দিনে মিশরের রাজকীয় দরবারে সেরা জাদুকরদের মুখোমুখি হওয়া, মূসার লাঠি কর্তৃক জাদুর রশি গিলে ফেলা এবং জাদুকরদের সত্য মেনে সিজদায় লুটিয়ে পড়ার ইতিহাস।",
     "sentences": [
       {
-        "en": "One pleasant morning, Emperor Akbar was walking in the palace terrace overlooking the sprawling city of Agra.",
-        "bn": "এক সুন্দর সকালে সম্রাট আকবর প্রাসাদের ছাদে হাঁটছিলেন এবং নিচে তাকিয়ে পুরো আগ্রা শহর দেখছিলেন।"
+        "en": "Accompanied by his eloquent brother Harun, Prophet Musa strode into the grand palace of Pharaoh.",
+        "bn": "তাঁর বাগ্মী ভাই হযরত হারুন (আ.)-কে সাথে নিয়ে হযরত মূসা দৃঢ় পদক্ষেপে ফেরাউনের সুবিশাল রাজদরবারে প্রবেশ করলেন।",
+        "words": [
+          {
+            "en": "Accompanied by",
+            "bn": "সাথে নিয়ে"
+          },
+          {
+            "en": "his eloquent brother Harun",
+            "bn": "তাঁর মিষ্টভাষী ভাই হারুনকে"
+          },
+          {
+            "en": "Prophet Musa strode",
+            "bn": "নবী মূসা হেঁটে গেলেন"
+          },
+          {
+            "en": "into the grand palace",
+            "bn": "সেই সুরম্য রাজপ্রাসাদে"
+          },
+          {
+            "en": "of Pharaoh",
+            "bn": "ফেরাউনের"
+          }
+        ]
       },
       {
-        "en": "Noticing countless crows fluttering across the rooftops, Akbar decided to test the wits of his royal courtiers.",
-        "bn": "ছাদের ওপর অসংখ্য কাকের ওড়াউড়ি দেখে সম্রাটের মনে হলো দরবারের পণ্ডিতদের একটু বুদ্ধি পরীক্ষা নেওয়া যাক।"
+        "en": "They announced: 'Indeed, we are messengers from the Lord of the worlds; release with us the Children of Israel.'",
+        "bn": "তাঁরা ঘোষণা করলেন: 'নিশ্চয়ই আমরা বিশ্বজাহানের রবের প্রেরিত রাসুল; আমাদের সাথে বনী ইসরাঈলকে মুক্ত করে দাও।'",
+        "words": [
+          {
+            "en": "They announced",
+            "bn": "তাঁরা ঘোষণা করলেন"
+          },
+          {
+            "en": "Indeed we are messengers",
+            "bn": "নিশ্চয়ই আমরা রাসুল"
+          },
+          {
+            "en": "from the Lord of the worlds",
+            "bn": "বিশ্বজাহানের পালনকর্তার পক্ষ থেকে"
+          },
+          {
+            "en": "release with us",
+            "bn": "আমাদের সাথে মুক্তি দাও"
+          },
+          {
+            "en": "the Children of Israel",
+            "bn": "বনী ইসরাঈলকে"
+          }
+        ]
       },
       {
-        "en": "At court, Akbar announced: 'Can anyone among my learned ministers tell me the exact number of crows living in our imperial capital?'",
-        "bn": "দরবারে বসে আকবর প্রশ্ন করলেন: 'আমার জ্ঞানী মন্ত্রীদের মধ্যে কেউ কি বলতে পারেন আমাদের এই রাজধানীতে ঠিক কতগুলো কাক বাস করে?'"
+        "en": "Pharaoh haughtily accused Musa of sorcery and summoned thousands of master magicians from across Egypt for a public showdown.",
+        "bn": "ফেরাউন দাম্ভিকতার সাথে মূসাকে জাদুকর আখ্যা দিল এবং প্রকাশ্য মোকাবিলার জন্য সমগ্র মিশর থেকে সেরা জাদুকরদের তলব করল।",
+        "words": [
+          {
+            "en": "Pharaoh haughtily accused",
+            "bn": "ফেরাউন অহংকার করে অভিযুক্ত করল"
+          },
+          {
+            "en": "Musa of sorcery",
+            "bn": "মূসাকে জাদুকর বলে"
+          },
+          {
+            "en": "and summoned thousands",
+            "bn": "এবং হাজার হাজার ডেকে আনল"
+          },
+          {
+            "en": "of master magicians",
+            "bn": "দক্ষ জাদুকরদের"
+          },
+          {
+            "en": "from across Egypt",
+            "bn": "সমগ্র মিশরের বুক থেকে"
+          },
+          {
+            "en": "for a public showdown",
+            "bn": "এক প্রকাশ্য প্রতিযোগিতার জন্য"
+          }
+        ]
       },
       {
-        "en": "The courtiers sat in stunned silence, scratching their heads at the utterly impossible question.",
-        "bn": "এমন অসম্ভব প্রশ্ন শুনে সব মন্ত্রীরা মাথায় হাত দিয়ে চুপচাপ বসে রইল, কারও মুখে কোনো কথা সরল না।"
+        "en": "On the grand Day of Festival, a vast multitude gathered in the royal plaza beneath the desert sun.",
+        "bn": "উৎসবের সেই বিশেষ দিনে মরুভূমির রোদের নিচে রাজকীয় ময়দানে লক্ষ লক্ষ মানুষ সমবেত হলো।",
+        "words": [
+          {
+            "en": "On the grand Day of Festival",
+            "bn": "উৎসবের সেই মহান দিনে"
+          },
+          {
+            "en": "a vast multitude gathered",
+            "bn": "এক বিশাল জনসমুদ্র জড়ো হলো"
+          },
+          {
+            "en": "in the royal plaza",
+            "bn": "রাজকীয় চত্বরে"
+          },
+          {
+            "en": "beneath the desert sun",
+            "bn": "মরুর প্রখর রোদের নিচে"
+          }
+        ]
       },
       {
-        "en": "Birbal stepped forward with a confident smile and boldly declared: 'Your Majesty, there are exactly ninety-five thousand, four hundred and sixty-three crows.'",
-        "bn": "বীরবল মিষ্টি এক চিলতে হাসি নিয়ে এগিয়ে এসে বললেন: 'মহামান্য সম্রাট, আমাদের শহরে ঠিক পঁচানব্বই হাজার চারশত তেষট্টিটি কাক আছে।'"
+        "en": "The sorcerers cast down their thick ropes and staffs, bewitching the eyes of the crowd so that they appeared like writhing snakes.",
+        "bn": "জাদুকররা তাদের শক্ত রশি ও লাঠিগুলো মাটিতে নিক্ষেপ করল এবং চোখের ভেলকি দিয়ে দেখাল যেন সেগুলো জীবন্ত সাপের মতো কিলবিল করছে।",
+        "words": [
+          {
+            "en": "The sorcerers cast down",
+            "bn": "জাদুকররা ছুঁড়ে মারল"
+          },
+          {
+            "en": "their thick ropes and staffs",
+            "bn": "তাদের মোটা দড়ি ও লাঠিগুলো"
+          },
+          {
+            "en": "bewitching the eyes",
+            "bn": "চোখে ধাঁধাঁ সৃষ্টি করে"
+          },
+          {
+            "en": "of the crowd",
+            "bn": "জনতার"
+          },
+          {
+            "en": "so that they appeared",
+            "bn": "যাতে সেগুলো মনে হলো"
+          },
+          {
+            "en": "like writhing snakes",
+            "bn": "কিলবিল করা সাপের মতো"
+          }
+        ]
       },
       {
-        "en": "Akbar raised an eyebrow and challenged: 'And what if a recount shows there are fewer or more crows than your count?'",
-        "bn": "আকবর ভুরু কুঁচকে বললেন: 'আর যদি গণনা করে দেখা যায় তোমার সংখ্যার চেয়ে কাক কম বা বেশি হয়েছে?'"
+        "en": "Musa felt an inner apprehension, but Allah inspired him: 'Fear not! You are the superior one; cast down that which is in your right hand!'",
+        "bn": "মূসা মনে কিছুটা শঙ্কা অনুভব করলেন, কিন্তু আল্লাহ ওহী পাঠালেন: 'ভয় পেয়ো না! তুমিই বিজয়ী হবে; তোমার ডান হাতে যা আছে তা নিক্ষেপ করো!'",
+        "words": [
+          {
+            "en": "Musa felt apprehension",
+            "bn": "মূসা ভয় অনুভব করলেন"
+          },
+          {
+            "en": "but Allah inspired him",
+            "bn": "কিন্তু আল্লাহ তাঁকে অভয় দিলেন"
+          },
+          {
+            "en": "Fear not",
+            "bn": "ভয় পেয়ো না"
+          },
+          {
+            "en": "You are the superior one",
+            "bn": "তুমিই বিজয়ী হবে"
+          },
+          {
+            "en": "cast down",
+            "bn": "নিক্ষেপ করো"
+          },
+          {
+            "en": "that which is in your right hand",
+            "bn": "যা তোমার ডান হাতে রয়েছে"
+          }
+        ]
       },
       {
-        "en": "Birbal replied smoothly, 'If there are more, their relatives from neighboring cities have come to visit; if fewer, our crows have gone on holiday to visit cousins.'",
-        "bn": "বীরবল শান্তভাবে বললেন, 'যদি বেশি হয় তবে পাশের শহর থেকে তাদের আত্মীয়রা বেড়াতে এসেছে; আর কম হলে আমাদের কাকেরা তাদের বন্ধুদের দেখতে বেড়াতে গেছে!'"
+        "en": "Musa threw down his wooden staff, and it instantaneously became a real living dragon-serpent that devoured every single illusion of the magicians.",
+        "bn": "মূসা তাঁর কাঠের লাঠিটি ছুঁড়ে মারলেন, আর তা মুহূর্তেই এক বাস্তব ভয়াল অজগরে রূপ নিয়ে জাদুকরদের সমস্ত ভেলকিবাজি গিলে ফেলল।",
+        "words": [
+          {
+            "en": "Musa threw down his staff",
+            "bn": "মূসা তাঁর লাঠি নিক্ষেপ করলেন"
+          },
+          {
+            "en": "it instantaneously became",
+            "bn": "তা সাথে সাথে পরিণত হলো"
+          },
+          {
+            "en": "a real living dragon-serpent",
+            "bn": "এক বাস্তব জীবন্ত অজগরে"
+          },
+          {
+            "en": "that devoured",
+            "bn": "যা গিলে ফেলল"
+          },
+          {
+            "en": "every single illusion",
+            "bn": "প্রতিটি কৃত্রিম ভেলকিবাজি"
+          },
+          {
+            "en": "of the magicians",
+            "bn": "জাদুকরদের"
+          }
+        ]
       },
       {
-        "en": "Akbar roared with laughter at Birbal's unmatched wit and presented him with a precious diamond ring.",
-        "bn": "বীরবলের এমন চতুর রসিকতা শুনে আকবর প্রাণখুলে হেসে উঠলেন এবং নিজের আঙুল থেকে একটি বহুমূল্য হীরার আংটি উপহার দিলেন।"
+        "en": "Realizing this was not trickery but undeniable divine reality, the sorcerers fell down in prostration, declaring: 'We believe in the Lord of Aaron and Moses!'",
+        "bn": "এটি যে কোনো হাতের জাদু নয় বরং সুস্পষ্ট ঐশী মুজিজা তা বুঝতে পেরে জাদুকররা সাথে সাথে সিজদায় লুটিয়ে পড়ল এবং বলল: 'আমরা হারুন ও মূসার রবের প্রতি ঈমান আনলাম!'",
+        "words": [
+          {
+            "en": "Realizing this was divine reality",
+            "bn": "এটি ঐশী সত্য বুঝতে পেরে"
+          },
+          {
+            "en": "the sorcerers fell down",
+            "bn": "জাদুকররা লুটিয়ে পড়ল"
+          },
+          {
+            "en": "in prostration",
+            "bn": "সিজদায়"
+          },
+          {
+            "en": "declaring",
+            "bn": "ঘোষণা করে"
+          },
+          {
+            "en": "We believe",
+            "bn": "আমরা ঈমান আনলাম"
+          },
+          {
+            "en": "in the Lord of Aaron and Moses",
+            "bn": "হারুন ও মূসার রবের প্রতি"
+          }
+        ]
+      },
+      {
+        "en": "Though Pharaoh threatened to crucify them on date-palm trunks, their newfound faith remained completely unbreakable.",
+        "bn": "যদিও ফেরাউন তাদের হাত-পা কেটে খেজুর গাছে ঝুলিয়ে হত্যার হুমকি দিল, তবুও সত্যের আলোয় আলোকিত তাদের ঈমান বিন্দুমাত্র টলল না।",
+        "words": [
+          {
+            "en": "Though Pharaoh threatened",
+            "bn": "যদিও ফেরাউন হুমকি দিল"
+          },
+          {
+            "en": "to crucify them",
+            "bn": "তাদের শূলে চড়াতে"
+          },
+          {
+            "en": "on date-palm trunks",
+            "bn": "খেজুর গাছের কাণ্ডে"
+          },
+          {
+            "en": "their newfound faith",
+            "bn": "তাদের সদ্য পাওয়া ঈমান"
+          },
+          {
+            "en": "remained completely unbreakable",
+            "bn": "সম্পূর্ণ অবিচল ও অটুট রইল"
+          }
+        ]
       }
     ]
   },
   {
-    "id": "wit-birbal-line-short",
-    "title": "Making the Line Shorter Without Touching",
-    "titleBn": "না ছুঁয়ে রেখা ছোট করার কৌশল",
-    "author": "Mughal Wit",
+    "id": "prophet-musa-red-sea",
+    "title": "The Parting of the Red Sea and Deliverance of Bani Israel",
+    "titleBn": "লোহিত সাগরের বক্ষে অলৌকিক পথ ও ফেরাউনের পতন",
+    "author": "Quranic Narrative (Surah Ash-Shu'ara & Yunus)",
     "level": "Intermediate",
-    "category": "Wit & Wisdom",
-    "coverEmoji": "✏️",
-    "summary": "A simple chalk mark on the floor proves that elevating oneself is better than trying to diminish others.",
-    "summaryBn": "মেঝেতে আঁকা একটি রেখা দেখিয়ে বীরবল শিখিয়েছিলেন অন্যকে খাটো না করে নিজেকে বড় করাই শ্রেষ্ঠত্ব।",
+    "levelColor": "blue",
+    "category": "Stories of the Prophets",
+    "coverEmoji": "🌊",
+    "summary": "Trapped between the raging Red Sea ahead and Pharaoh's iron army behind, Musa strikes the water with his staff, opening twelve dry avenues of salvation.",
+    "summaryBn": "সামনে অতল লোহিত সাগর আর পেছনে ফেরাউনের অস্ত্রশস্ত্রে সজ্জিত বাহিনী—এমন সংকটময় মুহূর্তে মূসার লাঠির আঘাতে সাগরের বুক চিরে ১২টি শুকনো পথ তৈরি হওয়ার অলৌকিক ইতিহাস।",
     "sentences": [
       {
-        "en": "Emperor Akbar drew a straight chalk line across the marble floor of the royal court with his own hand.",
-        "bn": "সম্রাট আকবর নিজের হাতে রাজদরবারের মার্বেল মেঝের ওপর খড়িমাটি দিয়ে সোজা একটি লম্বা দাগ টানলেন।"
+        "en": "Under cover of darkness, Prophet Musa led the oppressed Children of Israel out of Egypt toward the eastern coast.",
+        "bn": "রাতের অন্ধকারে হযরত মূসা (আ.) অত্যাচারিত বনী ইসরাঈলকে সঙ্গে নিয়ে মিশরের সীমানা পেরিয়ে পূর্ব উপকূলের দিকে যাত্রা করলেন।",
+        "words": [
+          {
+            "en": "Under cover of darkness",
+            "bn": "রাতের অন্ধকারের আশ্রয়ে"
+          },
+          {
+            "en": "Prophet Musa led",
+            "bn": "নবী মূসা নেতৃত্ব দিয়ে নিয়ে গেলেন"
+          },
+          {
+            "en": "the oppressed Children of Israel",
+            "bn": "নিপীড়িত বনী ইসরাঈলকে"
+          },
+          {
+            "en": "out of Egypt",
+            "bn": "মিশর থেকে বের করে"
+          },
+          {
+            "en": "toward the eastern coast",
+            "bn": "পূর্ব উপকূলের দিকে"
+          }
+        ]
       },
       {
-        "en": "Turning to his ministers, Akbar commanded: 'Make this line shorter without erasing, rubbing, or touching it in any way.'",
-        "bn": "মন্ত্রীদের দিকে ফিরে সম্রাট হুকুম দিলেন: 'এই দাগটির কোনো অংশ না মুছে, না ঘষে বা কোনোভাবে না ছুঁয়ে এটিকে ছোট করে দেখাও।'"
+        "en": "At daybreak, Pharaoh mobilized his armored chariots and cavalry to recapture his runaway workforce.",
+        "bn": "ভোর হতেই ফেরাউন তার সম্পূর্ণ সাঁজোয়া রথ ও অশ্বারোহী বাহিনীকে একত্র করে তাদের পিছু ধাওয়া করল।",
+        "words": [
+          {
+            "en": "At daybreak",
+            "bn": "ভোরবেলায়"
+          },
+          {
+            "en": "Pharaoh mobilized",
+            "bn": "ফেরাউন সমবেত করল"
+          },
+          {
+            "en": "his armored chariots",
+            "bn": "তার সাঁজোয়া রথগুলো"
+          },
+          {
+            "en": "and cavalry",
+            "bn": "ও অশ্বারোহী সেনাদল"
+          },
+          {
+            "en": "to recapture",
+            "bn": "পুনরায় বন্দি করতে"
+          },
+          {
+            "en": "his runaway workforce",
+            "bn": "পলায়নরত শ্রমিকদের"
+          }
+        ]
       },
       {
-        "en": "Each minister stepped up, looked at the white line, and shook his head in complete bewilderment.",
-        "bn": "প্রতিটি মন্ত্রী একে একে এগিয়ে এসে দাগটির দিকে তাকাল এবং হতাশায় মাথা নেড়ে হার মানল।"
+        "en": "When the Israelites saw the deep sea ahead and the gleaming iron spears behind, panic spread: 'Indeed, we are overtaken!'",
+        "bn": "বনী ইসরাঈল যখন সামনে অতল সাগর আর পেছনে চকচকে বর্শা হাতে শত্রু বাহিনীকে দেখল, তখন তারা আতঙ্কে চিৎকার করে উঠল: 'আমরা তো ধরা পড়ে গেলাম!'",
+        "words": [
+          {
+            "en": "When the Israelites saw",
+            "bn": "যখন বনী ইসরাঈল দেখল"
+          },
+          {
+            "en": "the deep sea ahead",
+            "bn": "সামনে গভীর সমুদ্র"
+          },
+          {
+            "en": "and the gleaming iron spears behind",
+            "bn": "এবং পেছনে চকচকে লোহার বর্শা"
+          },
+          {
+            "en": "panic spread",
+            "bn": "আতঙ্ক ছড়িয়ে পড়ল"
+          },
+          {
+            "en": "Indeed we are overtaken",
+            "bn": "নিশ্চয়ই আমরা ধরা পড়ে গেলাম"
+          }
+        ]
       },
       {
-        "en": "Some proposed covering part of it with a silk rug, but Akbar insisted the line must remain completely visible.",
-        "bn": "কেউ কেউ দাগটির একপাশ রেশমি গালিচা দিয়ে ঢেকে দেওয়ার কথা বলল, কিন্তু আকবর বললেন রেখাটি পুরোপুরি দৃশ্যমান থাকতে হবে।"
+        "en": "With serene certainty, Musa declared: 'Nay, never! Indeed, with me is my Lord; He will surely guide me!'",
+        "bn": "প্রশান্ত অন্তরে অবিচল থেকে মূসা ঘোষণা করলেন: 'কখনই নয়! নিশ্চয়ই আমার সাথে আমার পালনকর্তা আছেন; তিনি অবশ্যই আমাকে পথ দেখাবেন!'",
+        "words": [
+          {
+            "en": "With serene certainty",
+            "bn": "দৃঢ় প্রত্যয় ও শান্তির সাথে"
+          },
+          {
+            "en": "Musa declared",
+            "bn": "মূসা ঘোষণা করলেন"
+          },
+          {
+            "en": "Nay never",
+            "bn": "কখনই নয়"
+          },
+          {
+            "en": "Indeed with me is my Lord",
+            "bn": "নিশ্চয়ই আমার সাথে আমার রব আছেন"
+          },
+          {
+            "en": "He will surely guide me",
+            "bn": "তিনি অবশ্যই আমাকে পথ দেখাবেন"
+          }
+        ]
       },
       {
-        "en": "Birbal smiled, took a piece of chalk, and stepped calmly up to the Emperor's line.",
-        "bn": "বীরবল হাসলেন, এক টুকরো খড়ি হাতে তুলে নিলেন এবং শান্ত পায়ে সম্রাটের আঁকা রেখার কাছে এগিয়ে গেলেন।"
+        "en": "Allah commanded: 'Strike the sea with your staff!' And the water parted into twelve dry highways flanked by towering walls of liquid glass.",
+        "bn": "আল্লাহ নির্দেশ দিলেন: 'তোমার লাঠি দিয়ে সাগরে আঘাত করো!' সাথে সাথে সাগর বিদীর্ণ হয়ে ১২টি শুকনো পথে রূপ নিল, যার দুপাশে পানি পর্বতের মতো খাড়া হয়ে দাঁড়িয়ে রইল।",
+        "words": [
+          {
+            "en": "Allah commanded",
+            "bn": "আল্লাহ আদেশ করলেন"
+          },
+          {
+            "en": "Strike the sea",
+            "bn": "সাগরে আঘাত করো"
+          },
+          {
+            "en": "with your staff",
+            "bn": "তোমার লাঠি দিয়ে"
+          },
+          {
+            "en": "the water parted",
+            "bn": "পানি বিভক্ত হয়ে গেল"
+          },
+          {
+            "en": "into twelve dry highways",
+            "bn": "বারোটি শুকনো রাজপথে"
+          },
+          {
+            "en": "flanked by towering walls",
+            "bn": "পাহাড়সমান প্রাচীর দিয়ে ঘেরা"
+          }
+        ]
       },
       {
-        "en": "Right alongside Akbar's mark, Birbal drew another chalk line that was noticeably longer and thicker.",
-        "bn": "আকবরের রেখাটির ঠিক পাশেই বীরবল আরও লম্বা এবং মোটা আরেকটি দাগ এঁকে দিলেন।"
+        "en": "The believers crossed the seabed safely, feeling dry land beneath their hurried footsteps.",
+        "bn": "মুমিনরা সাগরের তলদেশ দিয়ে অনায়াসে ও নিরাপদে হেঁটে ওপারে পৌঁছে গেল।",
+        "words": [
+          {
+            "en": "The believers crossed",
+            "bn": "মুমিনরা পার হয়ে গেল"
+          },
+          {
+            "en": "the seabed safely",
+            "bn": "সাগরের তলদেশ নিরাপদে"
+          },
+          {
+            "en": "feeling dry land",
+            "bn": "শুকনো মাটির স্পর্শ পেয়ে"
+          },
+          {
+            "en": "beneath their hurried footsteps",
+            "bn": "তাদের দ্রুতগামী পদতলে"
+          }
+        ]
       },
       {
-        "en": "He stepped back and said, 'Look, Your Majesty, without touching your line, it is now clearly the shorter of the two.'",
-        "bn": "তিনি পিছিয়ে এসে বললেন, 'দেখুন জাঁহাপনা, আপনার রেখায় হাত না দিয়েই সেটি এখন অন্যটির তুলনায় ছোট হয়ে গেছে।'"
+        "en": "Blind in his hubris, Pharaoh drove his armies into the parted corridor to annihilate them.",
+        "bn": "অহংকারে অন্ধ হয়ে ফেরাউন তার সম্পূর্ণ সৈন্যবাহিনী নিয়ে সেই সাগরের বিভক্ত পথের ভেতর ঢুকে পড়ল।",
+        "words": [
+          {
+            "en": "Blind in his hubris",
+            "bn": "অহমিকায় অন্ধ হয়ে"
+          },
+          {
+            "en": "Pharaoh drove his armies",
+            "bn": "ফেরাউন তার বাহিনীকে তাড়া করল"
+          },
+          {
+            "en": "into the parted corridor",
+            "bn": "সাগরের চেরা পথের ভেতর"
+          },
+          {
+            "en": "to annihilate them",
+            "bn": "তাদের ধ্বংস করে দিতে"
+          }
+        ]
       },
       {
-        "en": "The entire assembly applauded the wise moral: to surpass others, focus on expanding your own excellence rather than diminishing theirs.",
-        "bn": "পুরো দরবার করতালি দিয়ে উঠল এই শিক্ষায় যে, অন্যের ক্ষতি না করে নিজের যোগ্যতাকে বড় করাই হলো এগিয়ে যাওয়ার শ্রেষ্ঠ উপায়।"
+        "en": "Once the last believer stepped ashore, the towering walls of water crashed down, drowning Pharaoh and his legions beneath colossal waves.",
+        "bn": "সর্বশেষ মুমিন যখন তীরে পা রাখল, তখন পাহাড়সমান পানি চারদিক থেকে আছড়ে পড়ল এবং ফেরাউন ও তার অহংকারী সেনাদল সাগরের অতলে চিরতরে ডুবে গেল।",
+        "words": [
+          {
+            "en": "Once the last believer stepped ashore",
+            "bn": "শেষ মুমিন তীরে পৌঁছাতেই"
+          },
+          {
+            "en": "the towering walls of water crashed down",
+            "bn": "পাহাড়সমান পানি আছড়ে পড়ল"
+          },
+          {
+            "en": "drowning Pharaoh",
+            "bn": "ফেরাউনকে ডুবিয়ে দিয়ে"
+          },
+          {
+            "en": "and his legions",
+            "bn": "ও তার সেনাদলকে"
+          },
+          {
+            "en": "beneath colossal waves",
+            "bn": "উত্তাল ঢেউয়ের অতল গহ্বরে"
+          }
+        ]
+      },
+      {
+        "en": "Allah preserved Pharaoh's lifeless body as a historical sign for all future generations to witness the fate of tyranny.",
+        "bn": "আল্লাহ পরবর্তী প্রজন্মের জন্য ফেরাউনের নিথর দেহকে সংরক্ষিত করে রাখলেন, যাতে অত্যাচারীদের চরম পরিণতি যুগ যুগ ধরে প্রত্যক্ষ করা যায়।",
+        "words": [
+          {
+            "en": "Allah preserved",
+            "bn": "আল্লাহ সংরক্ষিত রাখলেন"
+          },
+          {
+            "en": "Pharaoh's lifeless body",
+            "bn": "ফেরাউনের প্রাণহীন দেহটিকে"
+          },
+          {
+            "en": "as a historical sign",
+            "bn": "এক ঐতিহাসিক নিদর্শন হিসেবে"
+          },
+          {
+            "en": "for all future generations",
+            "bn": "ভবিষ্যতের সমস্ত প্রজন্মের জন্য"
+          },
+          {
+            "en": "to witness the fate of tyranny",
+            "bn": "জালিমদের করুণ পরিণতি দেখতে"
+          }
+        ]
       }
     ]
   },
   {
-    "id": "wit-birbal-pot-milk",
-    "title": "The Well of Milk and Water",
-    "titleBn": "দুধের বদলে পানির পুকুর",
-    "author": "Mughal Wit",
+    "id": "prophet-musa-khidr",
+    "title": "The Spiritual Journey of Prophet Musa and Al-Khidr",
+    "titleBn": "হযরত মূসা ও খিযির (আ.)-এর রহস্যময় আধ্যাত্মিক সফর",
+    "author": "Quranic Narrative (Surah Al-Kahf)",
     "level": "Intermediate",
-    "category": "Wit & Wisdom",
-    "coverEmoji": "🥛",
-    "summary": "When everyone assumes someone else will do the right thing, collective duty fails completely.",
-    "summaryBn": "যখন সবাই ভাবে অন্য কেউ দায়িত্ব পালন করবে, তখন কীভাবে সামগ্রিক সততা পুরোপুরি নষ্ট হয়ে যায়।",
+    "levelColor": "cyan",
+    "category": "Stories of the Prophets",
+    "coverEmoji": "⛵",
+    "summary": "Seeking higher divine knowledge, Musa journeys to the junction of the two seas to accompany the mysterious servant Al-Khidr through three perplexing trials.",
+    "summaryBn": "ঐশী রহস্যের গভীর জ্ঞানার্জনে দুই সমুদ্রের সঙ্গমস্থলে গমন, রহস্যময় বান্দা হযরত খিযির (আ.)-এর সান্নিধ্য এবং আপাতদৃষ্টিতে বিস্ময়কর তিনটি ঘটনার পেছনের তাৎপর্য।",
     "sentences": [
       {
-        "en": "Emperor Akbar wanted to test the civic honesty and sense of communal responsibility among his city's citizens.",
-        "bn": "সম্রাট আকবর তাঁর নগরবাসীর সততা এবং সামাজিক দায়িত্ববোধ কতটা গভীর তা যাচাই করতে চাইলেন।"
+        "en": "When asked who was the most knowledgeable on earth, Musa answered that he was, so Allah directed him to seek a more learned servant at the meeting of the two seas.",
+        "bn": "যখন জিজ্ঞেস করা হলো পৃথিবীতে সবচেয়ে জ্ঞানী কে, মূসা বললেন তিনি নিজে; তখন আল্লাহ তাঁকে দুই সাগরের মিলনস্থলে থাকা এক বিশেষ জ্ঞানবান বান্দার কাছে যেতে নির্দেশ দিলেন।",
+        "words": [
+          {
+            "en": "When asked",
+            "bn": "যখন প্রশ্ন করা হলো"
+          },
+          {
+            "en": "who was the most knowledgeable",
+            "bn": "কে সবচেয়ে জ্ঞানী ব্যক্তি"
+          },
+          {
+            "en": "Musa answered",
+            "bn": "মূসা উত্তর দিলেন"
+          },
+          {
+            "en": "so Allah directed him",
+            "bn": "তখন আল্লাহ তাঁকে নির্দেশ দিলেন"
+          },
+          {
+            "en": "to seek a more learned servant",
+            "bn": "আরও প্রজ্ঞাবান বান্দার সন্ধান করতে"
+          },
+          {
+            "en": "at the meeting of the two seas",
+            "bn": "দুই সাগরের মিলনস্থলে"
+          }
+        ]
       },
       {
-        "en": "He issued a royal decree ordering every household in the capital to pour one jug of fresh milk into an empty public stone reservoir under the cover of night.",
-        "bn": "তিনি হুকুম জারি করলেন যে রাতের অন্ধকারে শহরের প্রতিটি পরিবারকে সাধারণের এক পাথরের জলাধারে এক ঘটি করে খাঁটি দুধ ঢেলে আসতে হবে।"
+        "en": "Carrying a roasted fish that miraculously sprang to life and slipped into the ocean, Musa recognized the promised sign and met Al-Khidr.",
+        "bn": "পাথেয় হিসেবে নেওয়া একটি ভুনা মাছ অলৌকিকভাবে জীবিত হয়ে সাগরে ঝাঁপিয়ে পড়ায় মূসা প্রতিশ্রুত নিদর্শন চিনতে পারলেন এবং হযরত খিযিরের সাক্ষাৎ পেলেন।",
+        "words": [
+          {
+            "en": "Carrying a roasted fish",
+            "bn": "একটি ভুনা মাছ সাথে নিয়ে"
+          },
+          {
+            "en": "that miraculously sprang to life",
+            "bn": "যা অলৌকিকভাবে জীবিত হলো"
+          },
+          {
+            "en": "and slipped into the ocean",
+            "bn": "এবং সাগরে সাঁতরে চলে গেল"
+          },
+          {
+            "en": "Musa recognized the sign",
+            "bn": "মূসা নিদর্শনটি চিনতে পারলেন"
+          },
+          {
+            "en": "and met Al-Khidr",
+            "bn": "এবং খিযিরের সাক্ষাৎ পেলেন"
+          }
+        ]
       },
       {
-        "en": "The next morning, the milk in the pool was to be distributed to orphans and the poorest families of the empire.",
-        "bn": "পরদিন সকালে সেই দুধ অনাথ ও দরিদ্র পরিবারগুলোর মাঝে সমানভাবে বিতরণ করার পরিকল্পনা ছিল।"
+        "en": "Al-Khidr cautioned him: 'Indeed, you will never be able to have patience with me, for how can you be patient over what you do not comprehend?'",
+        "bn": "খিযির (আ.) তাঁকে সতর্ক করলেন: 'নিশ্চয়ই আপনি আমার সাথে ধৈর্য ধরতে পারবেন না, কারণ যে বিষয়ের রহস্য আপনার জানা নেই সে বিষয়ে আপনি কীভাবে ধৈর্য রাখবেন?'",
+        "words": [
+          {
+            "en": "Al-Khidr cautioned him",
+            "bn": "খিযির তাঁকে সতর্ক করলেন"
+          },
+          {
+            "en": "Indeed you will never be able",
+            "bn": "নিশ্চয়ই আপনি কখনই পারবেন না"
+          },
+          {
+            "en": "to have patience with me",
+            "bn": "আমার সাথে ধৈর্য ধারণ করতে"
+          },
+          {
+            "en": "for how can you be patient",
+            "bn": "কেননা আপনি কীভাবে ধৈর্য ধরবেন"
+          },
+          {
+            "en": "over what you do not comprehend",
+            "bn": "যে বিষয়ের জ্ঞান আপনার আয়ত্তে নেই"
+          }
+        ]
       },
       {
-        "en": "One citizen thought to himself: 'In the dark of night when thousands pour rich white milk, who will notice if I quietly pour a jug of plain water instead?'",
-        "bn": "এক নাগরিক মনে মনে ভাবল: 'রাতের আঁধারে হাজার হাজার মানুষ খাঁটি দুধ ঢালবে, তার মাঝে আমি চুপিচুপি এক ঘটি পানি ঢাললে কে-ই বা ধরতে পারবে?'"
+        "en": "Musa promised complete obedience, agreeing not to ask questions about any action until Khidr explained it first.",
+        "bn": "মূসা পূর্ণ আনুগত্যের ওয়াদা করলেন এবং একমত হলেন যে খিযির নিজে ব্যাখ্যা না দেওয়া পর্যন্ত তিনি কোনো বিষয়ে কোনো প্রশ্ন করবেন না।",
+        "words": [
+          {
+            "en": "Musa promised complete obedience",
+            "bn": "মূসা পূর্ণ আনুগত্যের প্রতিশ্রুতি দিলেন"
+          },
+          {
+            "en": "agreeing not to ask questions",
+            "bn": "কোনো প্রশ্ন না করতে একমত হয়ে"
+          },
+          {
+            "en": "about any action",
+            "bn": "যেকোনো কাজের বিষয়ে"
+          },
+          {
+            "en": "until Khidr explained it first",
+            "bn": "যতক্ষণ না খিযির নিজে তার ব্যাখ্যা দেন"
+          }
+        ]
       },
       {
-        "en": "He slipped out at midnight and emptied his jug of water into the cavernous reservoir without making a sound.",
-        "bn": "গভীর রাতে সে গোপনে গিয়ে কোনো আওয়াজ না করে জলাধারে তার এক ঘটি পানি ঢেলে দিয়ে বাড়ি ফিরে এলো।"
+        "en": "Boarding a boat whose owners gave them free passage, Khidr took an adze and damaged the floor planks, causing Musa to protest in dismay.",
+        "bn": "এক নৌকায় ওঠার পর—যার মালিকরা তাঁদের বিনা ভাড়ায় পার করছিল—খিযির একটি কুড়াল দিয়ে নৌকার তক্তা ফুটো করে দিলেন, যা দেখে মূসা প্রতিবাদ করে উঠলেন।",
+        "words": [
+          {
+            "en": "Boarding a boat",
+            "bn": "একটি নৌকায় চড়ে"
+          },
+          {
+            "en": "whose owners gave free passage",
+            "bn": "যার মালিকরা বিনা ভাড়ায় তুলেছিল"
+          },
+          {
+            "en": "Khidr took an adze",
+            "bn": "খিযির একটি বাটাল নিলেন"
+          },
+          {
+            "en": "and damaged the floor planks",
+            "bn": "এবং নৌকার তক্তা ফুটো করে দিলেন"
+          },
+          {
+            "en": "causing Musa to protest",
+            "bn": "যা দেখে মূসা প্রতিবাদ করলেন"
+          }
+        ]
       },
       {
-        "en": "At sunrise, Emperor Akbar and Birbal arrived with gold ladles to inspect the royal reservoir.",
-        "bn": "সূর্য উঠতেই সম্রাট আকবর এবং বীরবল সোনার হাতা হাতে নিয়ে জলাধার পরিদর্শন করতে এলেন।"
+        "en": "Next, meeting a young boy among children, Khidr took his life, prompting Musa to cry out against slaying an innocent soul.",
+        "bn": "এরপর কিছু বালকের সাথে খেলছিল এমন এক নিষ্পাপ শিশুকে খিযির হত্যা করলেন, যা দেখে মূসা এক নিরপরাধ প্রাণের হত্যার বিরুদ্ধে তীব্র প্রতিবাদ জানালেন।",
+        "words": [
+          {
+            "en": "Next meeting a young boy",
+            "bn": "এরপর এক বালকের দেখা পেয়ে"
+          },
+          {
+            "en": "Khidr took his life",
+            "bn": "খিযির তার প্রাণ নিলেন"
+          },
+          {
+            "en": "prompting Musa to cry out",
+            "bn": "যা মূসাকে আর্তনাদ করে তুলতে বাধ্য করল"
+          },
+          {
+            "en": "against slaying an innocent soul",
+            "bn": "এক নিষ্পাপ প্রাণ হত্যার বিরুদ্ধে"
+          }
+        ]
       },
       {
-        "en": "To the Emperor's utter disbelief, the entire massive pool was filled with one hundred percent pure water—not a single drop of milk.",
-        "bn": "সম্রাট হতবাক হয়ে দেখলেন যে পুরো বিশাল জলাধারটি শুধু পানিতে টইটুম্বুর—তাতে এক ফোঁটাও দুধের চিহ্ন নেই!"
+        "en": "Finally, arriving at a hostile town that refused them food, Khidr repaired a crumbling wall without asking for wages.",
+        "bn": "অবশেষে এক নিষ্ঠুর শহরে পৌঁছে—যারা তাঁদের কোনো খাবার দিতে অস্বীকার করল—খিযির সেখানকার এক হেলে পড়া দেয়াল কোনো পারিশ্রমিক ছাড়াই মেরামত করে দিলেন।",
+        "words": [
+          {
+            "en": "Finally arriving at a hostile town",
+            "bn": "অবশেষে এক কৃপণ শহরে পৌঁছে"
+          },
+          {
+            "en": "that refused them food",
+            "bn": "যারা তাঁদের আহার দিতে অস্বীকৃতি জানাল"
+          },
+          {
+            "en": "Khidr repaired a crumbling wall",
+            "bn": "খিযির এক ভাঙা দেয়াল মেরামত করলেন"
+          },
+          {
+            "en": "without asking for wages",
+            "bn": "কোনো পারিশ্রমিক চাওয়া ছাড়াই"
+          }
+        ]
       },
       {
-        "en": "Every single citizen had reasoned identically, proving that widespread complacency and evasion of duty destroy the common good.",
-        "bn": "শহরের প্রতিটি মানুষই ঠিক একই রকম চালাকি করেছিল, যা প্রমাণ করে যে প্রত্যেকে দায়িত্ব এড়ালে সমাজের কোনো মহৎ কাজই সফল হতে পারে না।"
+        "en": "Khidr declared: 'This is the parting between me and you; now I will inform you of the wisdom behind that which you could not bear patiently.'",
+        "bn": "খিযির বললেন: 'এটাই আমার ও আপনার মাঝে বিচ্ছেদ; এবার আমি আপনাকে সেই ঘটনাগুলোর আসল রহস্য জানিয়ে দিচ্ছি যার ওপর আপনি ধৈর্য রাখতে পারেননি।'",
+        "words": [
+          {
+            "en": "Khidr declared",
+            "bn": "খিযির ঘোষণা করলেন"
+          },
+          {
+            "en": "This is the parting",
+            "bn": "এটাই হলো বিচ্ছেদ"
+          },
+          {
+            "en": "between me and you",
+            "bn": "আমার এবং আপনার মাঝে"
+          },
+          {
+            "en": "now I will inform you",
+            "bn": "এখন আমি আপনাকে জানিয়ে দেব"
+          },
+          {
+            "en": "of the wisdom behind",
+            "bn": "পেছনের অন্তর্নিহিত প্রজ্ঞা"
+          },
+          {
+            "en": "that which you could not bear",
+            "bn": "যা আপনি ধৈর্য ধরতে পারেননি"
+          }
+        ]
+      },
+      {
+        "en": "He explained that a tyrant king was seizing every intact boat, so damaging the ship protected the poor fishermen's livelihood.",
+        "bn": "তিনি ব্যাখ্যা করলেন এক জালিম রাজা সমস্ত ভালো নৌকা ছিনতাই করছিল, তাই নৌকায় ত্রুটি সৃষ্টি করে তিনি গরিব জেলেদের জীবিকা রক্ষা করেছিলেন।",
+        "words": [
+          {
+            "en": "He explained that",
+            "bn": "তিনি বুঝিয়ে বললেন যে"
+          },
+          {
+            "en": "a tyrant king",
+            "bn": "এক অত্যাচারী রাজা"
+          },
+          {
+            "en": "was seizing every intact boat",
+            "bn": "প্রতিটি ভালো নৌকা ছিনতাই করছিল"
+          },
+          {
+            "en": "so damaging the ship",
+            "bn": "তাই নৌকায় খুঁত তৈরি করে"
+          },
+          {
+            "en": "protected the poor fishermen",
+            "bn": "তিনি গরিব জেলেদের জীবিকা রক্ষা করলেন"
+          }
+        ]
+      },
+      {
+        "en": "The boy was destined to tyrannize his righteous parents with disbelief, so Allah replaced him with a loving, righteous child.",
+        "bn": "সেই বালকটি বড় হয়ে তার দ্বীনদার পিতা-মাতাকে অবাধ্যতা ও কুফরিতে নিমজ্জিত করত, তাই আল্লাহ তার পরিবর্তে এক পবিত্র সন্তান দান করবেন।",
+        "words": [
+          {
+            "en": "The boy was destined",
+            "bn": "বালকটির নিয়তি ছিল"
+          },
+          {
+            "en": "to tyrannize his righteous parents",
+            "bn": "তার পুণ্যবান পিতা-মাতাকে কষ্ট দেওয়া"
+          },
+          {
+            "en": "with disbelief",
+            "bn": "কুফরি ও অবাধ্যতা দিয়ে"
+          },
+          {
+            "en": "so Allah replaced him",
+            "bn": "তাই আল্লাহ তাকে প্রতিস্থাপন করলেন"
+          },
+          {
+            "en": "with a righteous child",
+            "bn": "এক নেককার সন্তানের মাধ্যমে"
+          }
+        ]
+      },
+      {
+        "en": "The wall concealed a treasure belonging to two orphan boys whose father was righteous, and Allah preserved it until their maturity.",
+        "bn": "আর দেয়ালটির নিচে দুজন এতিম শিশুর গুপ্তধন লুকানো ছিল যাদের পিতা ছিলেন একজন সৎকর্মশীল মানুষ, তাই আল্লাহ চেয়েছিলেন তারা বড় হয়ে যেন তা পায়।",
+        "words": [
+          {
+            "en": "The wall concealed a treasure",
+            "bn": "দেয়ালটি এক গুপ্তধন লুকিয়ে রেখেছিল"
+          },
+          {
+            "en": "belonging to two orphan boys",
+            "bn": "দুটি এতিম বালকের জন্য"
+          },
+          {
+            "en": "whose father was righteous",
+            "bn": "যাদের পিতা ছিলেন সৎকর্মশীল"
+          },
+          {
+            "en": "and Allah preserved it",
+            "bn": "এবং আল্লাহ তা রক্ষা করলেন"
+          },
+          {
+            "en": "until their maturity",
+            "bn": "তাদের সাবালক হওয়া পর্যন্ত"
+          }
+        ]
       }
     ]
   },
   {
-    "id": "wit-birbal-lost-ring",
-    "title": "The Straw in the Thief's Beard",
-    "titleBn": "চোরের দাড়িতে খড়",
-    "author": "Mughal Wit",
+    "id": "prophet-harun-support",
+    "title": "Prophet Harun: The Eloquent Brother and Prophet",
+    "titleBn": "হযরত হারুন (আ.): সত্যের সহযাত্রী ও বাগ্মী নবী",
+    "author": "Quranic Narrative (Surah Ta-Ha & Al-A'raf)",
     "level": "Intermediate",
-    "category": "Wit & Wisdom",
-    "coverEmoji": "💍",
-    "summary": "Birbal uses the psychology of a guilty conscience to trap a thief among eight trusted servants.",
-    "summaryBn": "অপরাধীর মনের লুকানো অপরাধবোধের সুযোগ নিয়ে বীরবল কীভাবে আটজন চাকরের মধ্য থেকে আসল চোরকে ধরেছিলেন।",
+    "levelColor": "emerald",
+    "category": "Stories of the Prophets",
+    "coverEmoji": "🤝",
+    "summary": "Musa's prayer for a loyal partner in prophecy, Harun's eloquent speech, and his difficult trial defending monotheism against the golden calf while Musa was on Mount Sinai.",
+    "summaryBn": "মূসার দোয়ায় নবুওয়াত লাভকারী সহোদর ভাই হারুনের বাগ্মীতা, তূর পাহাড়ে মূসার গমনের পর সামেরীর স্বর্ণের বাছুরের ফেতনার বিরুদ্ধে তাওহিদের অতন্দ্র প্রহরা।",
     "sentences": [
       {
-        "en": "A wealthy merchant visited Emperor Akbar in distress, reporting that a priceless ruby ring had been stolen from his private chamber.",
-        "bn": "এক ধনী ব্যবসায়ী ব্যাকুল হয়ে আকবরের দরবারে এসে জানালেন যে তাঁর শোবার ঘর থেকে একটি অমূল্য রত্নের আংটি চুরি হয়ে গেছে।"
+        "en": "When commissioned to face Pharaoh, Musa prayed to Allah: 'And appoint for me a minister from my family: Aaron, my brother; increase through him my strength.'",
+        "bn": "ফেরাউনের মুখোমুখি হওয়ার আদেশ পেয়ে মূসা আল্লাহর কাছে দোয়া করলেন: 'আমার পরিবারের মধ্য থেকে আমার ভাই হারুনকে আমার সহযোগী বানিয়ে দিন; তাঁর দ্বারা আমার শক্তি বৃদ্ধি করুন।'",
+        "words": [
+          {
+            "en": "When commissioned",
+            "bn": "যখন দায়িত্ব দেওয়া হলো"
+          },
+          {
+            "en": "to face Pharaoh",
+            "bn": "ফেরাউনের মুখোমুখি হতে"
+          },
+          {
+            "en": "Musa prayed to Allah",
+            "bn": "মূসা আল্লাহর কাছে দোয়া করলেন"
+          },
+          {
+            "en": "And appoint for me a minister",
+            "bn": "এবং আমার জন্য একজন সাহায্যকারী নির্ধারণ করুন"
+          },
+          {
+            "en": "Aaron my brother",
+            "bn": "আমার ভাই হারুনকে"
+          },
+          {
+            "en": "increase through him my strength",
+            "bn": "তাঁর মাধ্যমে আমার শক্তি সুদৃঢ় করুন"
+          }
+        ]
       },
       {
-        "en": "The merchant suspected one of his eight trusted household servants, as only they had access to his bedroom.",
-        "bn": "ব্যবসায়ীর সন্দেহ হলো তাঁর আটজন বিশ্বস্ত পরিচারকদের মধ্যেই কেউ একজন এই কাজ করেছে, কারণ কেবল তারাই সেই ঘরে ঢুকতে পারত।"
+        "en": "Allah answered Musa's heartfelt plea, conferring the mantle of prophethood upon Harun as a sign of supreme divine grace.",
+        "bn": "আল্লাহ মূসার আন্তরিক দোয়া কবুল করলেন এবং পরম অনুগ্রহের নিদর্শনস্বরূপ হারুনকেও নবুওয়াতের মর্যাদায় ভূষিত করলেন।",
+        "words": [
+          {
+            "en": "Allah answered Musa's plea",
+            "bn": "আল্লাহ মূসার প্রার্থনা কবুল করলেন"
+          },
+          {
+            "en": "conferring the mantle",
+            "bn": "মর্যাদায় অভিষিক্ত করে"
+          },
+          {
+            "en": "of prophethood",
+            "bn": "নবুওয়াতের"
+          },
+          {
+            "en": "upon Harun",
+            "bn": "হারুনের ওপর"
+          },
+          {
+            "en": "as a sign of divine grace",
+            "bn": "ঐশী করুণার নিদর্শন হিসেবে"
+          }
+        ]
       },
       {
-        "en": "Birbal summoned all eight servants to the court, and each servant loudly swore upon his honor that he was innocent.",
-        "bn": "বীরবল সেই আটজন পরিচারককে দরবারে ডেকে পাঠালেন এবং প্রত্যেকেই নিজের নামে শপথ করে বলল যে সে নির্দোষ।"
+        "en": "Harun stood shoulder to shoulder with Musa before Pharaoh's throne, articulating divine monotheism with unmatched eloquence.",
+        "bn": "হারুন ফেরাউনের রাজদরবারে মূসার কাঁধে কাঁধ মিলিয়ে দাঁড়ালেন এবং অসাধারণ বাগ্মিতার সাথে তাওহিদের বাণী উপস্থাপন করলেন।",
+        "words": [
+          {
+            "en": "Harun stood shoulder to shoulder",
+            "bn": "হারুন কাঁধে কাঁধ মিলিয়ে দাঁড়ালেন"
+          },
+          {
+            "en": "with Musa",
+            "bn": "মূসার সাথে"
+          },
+          {
+            "en": "before Pharaoh's throne",
+            "bn": "ফেরাউনের সিংহাসনের সামনে"
+          },
+          {
+            "en": "articulating monotheism",
+            "bn": "একত্ববাদকে স্পষ্টভাবে ব্যক্ত করে"
+          },
+          {
+            "en": "with unmatched eloquence",
+            "bn": "অনবদ্য বাগ্মিতার সাথে"
+          }
+        ]
       },
       {
-        "en": "Birbal gave each servant a wooden stick of identical length, telling them they were enchanted sticks from Persia.",
-        "bn": "বীরবল সবার হাতে সমান মাপের একটি করে কাঠের লাঠি দিয়ে বললেন এগুলো হলো পারস্যের জাদুকরী লাঠি।"
+        "en": "When Musa departed to Mount Sinai for forty nights to receive the Torah, he entrusted Harun with leadership over Bani Israel.",
+        "bn": "মূসা যখন তাওরাত গ্রহণের জন্য চল্লিশ রাতের উদ্দেশ্যে তূর পাহাড়ে গেলেন, তখন তিনি হারুনের ওপর বনী ইসরাঈলের নেতৃত্বের ভার অর্পণ করলেন।",
+        "words": [
+          {
+            "en": "When Musa departed",
+            "bn": "যখন মূসা রওনা হলেন"
+          },
+          {
+            "en": "to Mount Sinai",
+            "bn": "তূর পাহাড়ের দিকে"
+          },
+          {
+            "en": "for forty nights",
+            "bn": "চল্লিশটি রাতের জন্য"
+          },
+          {
+            "en": "to receive the Torah",
+            "bn": "তাওরাত কিতাব গ্রহণ করতে"
+          },
+          {
+            "en": "he entrusted Harun",
+            "bn": "তিনি হারুনকে দায়িত্ব দিলেন"
+          },
+          {
+            "en": "with leadership over Bani Israel",
+            "bn": "বনী ইসরাঈলের নেতৃত্বের"
+          }
+        ]
       },
       {
-        "en": "'Whoever is the guilty thief,' Birbal declared, 'his stick will miraculously grow two inches longer overnight by morning.'",
-        "bn": "বীরবল ঘোষণা করলেন, 'যে আসল চোর, কাল সকাল হতে হতে তার লাঠিটি অলৌকিকভাবে দুই ইঞ্চি লম্বা হয়ে যাবে।'"
+        "en": "In Musa's absence, a seditious man named Samiri melted stolen gold ornaments into a golden calf that produced a hollow lowing sound.",
+        "bn": "মূসার অনুপস্থিতিতে সামেরী নামক এক ফিতনাবাজ লোক স্বর্ণালংকার গলিয়ে একটি বাছুর তৈরি করল, যা থেকে অদ্ভুত এক গর্জন ধ্বনি বের হতো।",
+        "words": [
+          {
+            "en": "In Musa's absence",
+            "bn": "মূসার অনুপস্থিতিতে"
+          },
+          {
+            "en": "a seditious man named Samiri",
+            "bn": "সামেরী নামক এক ফিতনাবাজ লোক"
+          },
+          {
+            "en": "melted stolen gold ornaments",
+            "bn": "স্বর্ণের গহনা গলিয়ে ফেলল"
+          },
+          {
+            "en": "into a golden calf",
+            "bn": "একটি স্বর্ণের বাছুরে"
+          },
+          {
+            "en": "that produced a lowing sound",
+            "bn": "যা থেকে এক গর্জন শব্দ বের হতো"
+          }
+        ]
       },
       {
-        "en": "That night, terrified of being exposed, the real thief secretly took a knife and shaved two inches off his stick.",
-        "bn": "সেদিন রাতে ধরা পড়ে যাওয়ার ভয়ে আসল চোর গোপনে ছুরি দিয়ে নিজের লাঠিটি থেকে দুই ইঞ্চি কেটে ছোট করে রাখল।"
+        "en": "Harun vehemently opposed the idolaters, warning: 'O my people! You are only being tested by this; indeed, your Lord is the Most Merciful, so follow me and obey my command!'",
+        "bn": "হারুন মূর্তিপূজারীদের তীব্র বিরোধিতা করে বললেন: 'হে আমার সম্প্রদায়! তোমরা তো এর দ্বারা ফেতনায় পড়েছ; নিশ্চয়ই তোমাদের রব পরম দয়ালু আল্লাহ, অতএব আমার অনুসরণ করো এবং আমার কথা মান্য করো!'",
+        "words": [
+          {
+            "en": "Harun vehemently opposed",
+            "bn": "হারুন তীব্র প্রতিরোধ করলেন"
+          },
+          {
+            "en": "the idolaters",
+            "bn": "মূর্তিপূজারীদের"
+          },
+          {
+            "en": "warning",
+            "bn": "সতর্ক করে দিয়ে"
+          },
+          {
+            "en": "You are tested by this",
+            "bn": "তোমরা এর মাধ্যমে পরীক্ষায় পড়েছ"
+          },
+          {
+            "en": "your Lord is the Most Merciful",
+            "bn": "তোমাদের রব হলেন পরম দয়ালু"
+          },
+          {
+            "en": "so follow me",
+            "bn": "অতএব আমার অনুসরণ করো"
+          },
+          {
+            "en": "and obey my command",
+            "bn": "এবং আমার নির্দেশ মেনে চলো"
+          }
+        ]
       },
       {
-        "en": "The next morning, Birbal inspected the sticks and instantly pointed at the servant whose stick was two inches shorter than all the others.",
-        "bn": "পরদিন সকালে লাঠিগুলো মেপে দেখেই বীরবল সেই চোরকে আঙুল দিয়ে দেখিয়ে দিলেন যার লাঠিটি অন্য সবার চেয়ে দুই ইঞ্চি ছোট ছিল!"
+        "en": "When Musa returned in righteous anger, Harun explained with tearful dignity how he prioritized unity to prevent a permanent civil schism.",
+        "bn": "মূসা যখন ক্ষোভে ফিরে এসে কৈফিয়ত চাইলেন, তখন হারুন অত্যন্ত বিনম্রতার সাথে জানালেন কীভাবে তিনি জাতির মাঝে চিরস্থায়ী গৃহযুদ্ধ ও বিভেদ এড়াতে চেষ্টা করেছিলেন।",
+        "words": [
+          {
+            "en": "When Musa returned in anger",
+            "bn": "মূসা যখন ক্ষোভে ফিরে এলেন"
+          },
+          {
+            "en": "Harun explained",
+            "bn": "হারুন বুঝিয়ে বললেন"
+          },
+          {
+            "en": "with tearful dignity",
+            "bn": "অশ্রুসজল মর্যাদার সাথে"
+          },
+          {
+            "en": "how he prioritized unity",
+            "bn": "কীভাবে তিনি ঐক্যকে প্রাধান্য দিয়েছিলেন"
+          },
+          {
+            "en": "to prevent a permanent schism",
+            "bn": "স্থায়ী বিভেদ প্রতিরোধ করার জন্য"
+          }
+        ]
       },
       {
-        "en": "A guilty mind always betrays itself through unnecessary fear and desperate attempts at concealment.",
-        "bn": "অপরাধীর মন নিজের অতিরিক্ত ভয় এবং অপরাধ ঢাকার বোকামিপূর্ণ চেষ্টার কারণেই নিজেকে সবার সামনে ফাঁস করে দেয়।"
+        "en": "Musa prayed for forgiveness for himself and his brother, reaffirming Harun's exalted place among the greatest prophets of Allah.",
+        "bn": "মূসা তাঁর নিজের জন্য এবং তাঁর ভাইয়ের জন্য মাগফিরাতের দোয়া করলেন, যা আল্লাহর শ্রেষ্ঠ নবীদের মাঝে হারুনের সুউচ্চ মর্যাদাকে প্রতিষ্ঠিত করল।",
+        "words": [
+          {
+            "en": "Musa prayed for forgiveness",
+            "bn": "মূসা ক্ষমার দোয়া করলেন"
+          },
+          {
+            "en": "for himself and his brother",
+            "bn": "নিজের এবং তাঁর ভাইয়ের জন্য"
+          },
+          {
+            "en": "reaffirming Harun's place",
+            "bn": "হারুনের মর্যাদাকে সুদৃঢ় করে"
+          },
+          {
+            "en": "among the greatest prophets",
+            "bn": "শ্রেষ্ঠ নবীদের অন্তর্ভুক্ত হিসেবে"
+          }
+        ]
       }
     ]
   },
   {
-    "id": "wit-gopal-sweet-brinjal",
-    "title": "Gopal Bhar and the King's Eggplant",
-    "titleBn": "গোপাল ভাঁড় ও বেগুনের প্রশংসা",
-    "author": "Bengali Folklore",
+    "id": "prophet-dawud-goliath",
+    "title": "Young Dawud and the Defeat of the Tyrant Goliath",
+    "titleBn": "জালুতের বিরুদ্ধে তরুণ দাউদ (আ.)-এর ঐতিহাসিক বিজয়",
+    "author": "Quranic Narrative (Surah Al-Baqarah)",
     "level": "Intermediate",
-    "category": "Wit & Wisdom",
-    "coverEmoji": "🍆",
-    "summary": "The clever Bengali court jester shows Maharaja Krishnachandra the difference between loyal service and flattery.",
-    "summaryBn": "রাজা কৃষ্ণচন্দ্রকে গোপাল ভাঁড় মজার ছলে বুঝিয়ে দিয়েছিলেন যে তোষামোদকারীর কোনো নিজস্ব মতামত থাকে না।",
+    "levelColor": "amber",
+    "category": "Stories of the Prophets",
+    "coverEmoji": "⚔️",
+    "summary": "Facing the terrifying giant warrior Jalut (Goliath) and his iron-clad army, young shepherd Dawud steps forward armed only with faith, a slingshot, and five smooth stones.",
+    "summaryBn": "জালুতের সুবিশাল দানবীয় বাহিনীর বিরুদ্ধে মাত্র একটি গুলতি ও অবিচল ঈমান নিয়ে তরুণ রাখাল দাউদ (আ.)-এর ঐতিহাসিক জয় এবং সত্যের শক্তির মহাবিজয়।",
     "sentences": [
       {
-        "en": "Maharaja Krishnachandra of Nadia loved dining on delicious fried eggplants prepared by the royal cooks.",
-        "bn": "নদিয়ার রাজা কৃষ্ণচন্দ্র রাজকীয় বাবুর্চির হাতে তৈরি মুচমুচে বেগুনভাজা খেতে দারুণ পছন্দ করতেন।"
+        "en": "The armies of King Talut marched to confront the fearsome Philistine champion Jalut (Goliath) and his ferocious forces.",
+        "bn": "তালুত বাদশাহর অনুগত মুমিন বাহিনী ভয়ংকর ফিলিস্তিনি বীর জালুত এবং তার দুর্ধর্ষ বাহিনীর মুখোমুখি হওয়ার জন্য ময়দানে উপনীত হলো।",
+        "words": [
+          {
+            "en": "The armies of King Talut",
+            "bn": "বাদশাহ তালুতের বাহিনী"
+          },
+          {
+            "en": "marched to confront",
+            "bn": "মুখোমুখি হতে এগিয়ে গেল"
+          },
+          {
+            "en": "the fearsome champion Jalut",
+            "bn": "ভয়ংকর বীর জালুতের"
+          },
+          {
+            "en": "and his ferocious forces",
+            "bn": "ও তার হিংস্র সৈন্যদের"
+          }
+        ]
       },
       {
-        "en": "One afternoon at dinner, the king remarked, 'Gopal, eggplant is surely the king of vegetables! It has a royal crown and melts like butter.'",
-        "bn": "একদিন দুপুরে খেতে বসে রাজা বললেন, 'গোপাল, বেগুনই হলো সবজির রাজা! মাথায় তার কেমন সুন্দর রাজমুকুট আর খেতেও মাখনের মতো নরম।'"
+        "en": "Goliath, an enormous giant encased in heavy iron armor, stepped into the valley bellowing a challenge for single combat.",
+        "bn": "লোহার ভারী বর্ম পরিহিত দানবীয় আকৃতির জালুত উপত্যকার মাঝে এসে একক যুদ্ধের জন্য হুংকার দিয়ে আহ্বান জানাল।",
+        "words": [
+          {
+            "en": "Goliath an enormous giant",
+            "bn": "দানবীয় আকৃতির জালুত"
+          },
+          {
+            "en": "encased in heavy armor",
+            "bn": "ভারী লোহার বর্মে আবৃত"
+          },
+          {
+            "en": "stepped into the valley",
+            "bn": "উপত্যকায় নেমে এলো"
+          },
+          {
+            "en": "bellowing a challenge",
+            "bn": "একক যুদ্ধের হুংকার দিয়ে"
+          },
+          {
+            "en": "for single combat",
+            "bn": "দ্বৈরথ যুদ্ধের জন্য"
+          }
+        ]
       },
       {
-        "en": "Gopal Bhar smiled and added lavish praise, calling the vegetable a divine gift that cured every illness.",
-        "bn": "গোপাল ভাঁড় একগাল হেসে বেগুনের প্রশংসায় পঞ্চমুখ হয়ে বলল এটি নাকি স্বর্গের এমন উপহার যা সব রোগ সারিয়ে দেয়!"
+        "en": "Terror paralyzed the soldiers, but a youthful shepherd named Dawud, who had come only to bring rations to his brothers, volunteered to fight.",
+        "bn": "ভয়ে সাধারণ সৈন্যরা নিথর হয়ে গেল, কিন্তু তরুণ রাখাল দাউদ—যিনি শুধু তাঁর ভাইদের জন্য খাবার নিয়ে এসেছিলেন—স্বেচ্ছায় জালুতের মোকাবিলা করতে এগিয়ে এলেন।",
+        "words": [
+          {
+            "en": "Terror paralyzed the soldiers",
+            "bn": "ভয় সৈন্যদের স্তব্ধ করে দিল"
+          },
+          {
+            "en": "but a youthful shepherd",
+            "bn": "কিন্তু এক তরুণ রাখাল"
+          },
+          {
+            "en": "named Dawud",
+            "bn": "যার নাম ছিল দাউদ"
+          },
+          {
+            "en": "who had come to bring rations",
+            "bn": "যিনি এসেছিলেন খাবার দিতে"
+          },
+          {
+            "en": "volunteered to fight",
+            "bn": "যুদ্ধ করতে এগিয়ে এলেন"
+          }
+        ]
       },
       {
-        "en": "A few days later, after eating too many fried eggplants, the king suffered from acute indigestion and severe stomach pain.",
-        "bn": "কয়েক দিন পর বেশি বেগুন খেয়ে রাজার পেটে প্রচণ্ড গ্যাস ও পেটব্যথা শুরু হলো।"
+        "en": "King Talut offered Dawud his royal armor and sword, but the boy found them too heavy and chose instead his wooden staff and slingshot.",
+        "bn": "বাদশাহ তালুত দাউদকে নিজের রাজকীয় বর্ম ও তলোয়ার দিতে চাইলেন, কিন্তু দাউদ সেগুলো ভারী মনে করে কেবল তাঁর লাঠি ও গুলতিটি বেছে নিলেন।",
+        "words": [
+          {
+            "en": "King Talut offered his armor",
+            "bn": "বাদশাহ তালুত তাঁর বর্ম দিলেন"
+          },
+          {
+            "en": "and sword",
+            "bn": "এবং তলোয়ার"
+          },
+          {
+            "en": "the boy found them heavy",
+            "bn": "বালকটি ভারী মনে করলেন"
+          },
+          {
+            "en": "and chose instead his staff",
+            "bn": "এবং বেছে নিলেন তাঁর লাঠি"
+          },
+          {
+            "en": "and slingshot",
+            "bn": "ও গুলতি"
+          }
+        ]
       },
       {
-        "en": "Groaning in agony, the king cursed, 'Eggplant is the most vile, worthless, poisonous weed on planet Earth!'",
-        "bn": "যন্ত্রণায় কাতরাতে কাতরাতে রাজা চিৎকার করে বললেন, 'বেগুন হলো পৃথিবীর সবচেয়ে নিকৃষ্ট, বিষাক্ত ও বাজে এক আবর্জনা!'"
+        "en": "Dawud selected five smooth stones from the dried stream bed and advanced toward the mocking giant.",
+        "bn": "দাউদ শুকনো নদীর তলদেশ থেকে পাঁচটি মসৃণ পাথর তুলে নিলেন এবং বিদ্রূপকারী অহংকারী দানবের দিকে এগিয়ে গেলেন।",
+        "words": [
+          {
+            "en": "Dawud selected five stones",
+            "bn": "দাউদ পাঁচটি পাথর বাছাই করলেন"
+          },
+          {
+            "en": "from the dried stream bed",
+            "bn": "শুকনো নদীর তলদেশ থেকে"
+          },
+          {
+            "en": "and advanced",
+            "bn": "এবং এগিয়ে গেলেন"
+          },
+          {
+            "en": "toward the mocking giant",
+            "bn": "বিদ্রূপকারী দানবের দিকে"
+          }
+        ]
       },
       {
-        "en": "Gopal nodded vigorously and agreed, 'You are completely right, Your Highness! Its very name means 'begun'—devoid of all virtues!'",
-        "bn": "গোপাল মাথা নেড়ে সাথে সাথে সায় দিয়ে বলল, 'একদম খাঁটি কথা মহারাজ! নামের মধ্যেই তো রয়েছে 'বেগুন'—যার কোনো গুণই নেই!'"
+        "en": "Goliath laughed contemptuously: 'Am I a dog that you come at me with sticks?'",
+        "bn": "জালুত তাচ্ছিল্যভরে হেসে বলল: 'আমি কি কোনো কুকুর যে তুই আমার দিকে লাঠি নিয়ে আসছিস?'",
+        "words": [
+          {
+            "en": "Goliath laughed contemptuously",
+            "bn": "জালুত উপহাস করে হাসল"
+          },
+          {
+            "en": "Am I a dog",
+            "bn": "আমি কি একটা কুকুর"
+          },
+          {
+            "en": "that you come at me",
+            "bn": "যে তুই আমার দিকে আসছিস"
+          },
+          {
+            "en": "with sticks",
+            "bn": "লাঠি হাতে করে"
+          }
+        ]
       },
       {
-        "en": "The king frowned and said, 'Just last week you were singing its praises to the heavens! Why change your tune now?'",
-        "bn": "রাজা ভুরু কুঁচকে বললেন, 'গত সপ্তাহেই তো তুমি এর প্রশংসায় আকাশ মাথায় তুলেছিলে! আজ আবার উল্টো কথা বলছ কেন?'"
+        "en": "Dawud proclaimed boldly: 'You come against me with sword and spear, but I come against you in the Name of the Lord of Hosts!'",
+        "bn": "দাউদ নির্ভীক কণ্ঠে ঘোষণা করলেন: 'তুই আমার বিরুদ্ধে তলোয়ার আর বর্শা নিয়ে এসেছিস, আর আমি তোর বিরুদ্ধে এসেছি নিখিল জাহানের পালনকর্তা আল্লাহর নামে!'",
+        "words": [
+          {
+            "en": "Dawud proclaimed boldly",
+            "bn": "দাউদ সাহসের সাথে বললেন"
+          },
+          {
+            "en": "You come with sword and spear",
+            "bn": "তুই তলোয়ার আর বর্শা নিয়ে এসেছিস"
+          },
+          {
+            "en": "but I come against you",
+            "bn": "কিন্তু আমি তোর বিরুদ্ধে এসেছি"
+          },
+          {
+            "en": "in the Name of the Lord",
+            "bn": "আল্লাহর মহান নামে"
+          }
+        ]
       },
       {
-        "en": "Gopal replied with a wink: 'Maharaja, I am the humble servant of the King, not the servant of the eggplant!'",
-        "bn": "গোপাল চোখ টিপে হেসে উত্তর দিল: 'মহারাজ, আমি তো আপনার চাকরি করি, বেগুনের চাকরি তো আর করি না!'"
+        "en": "Placing a stone in his leather pouch, Dawud whirled the sling and launched it with pinpoint precision directly into Goliath's forehead.",
+        "bn": "চামড়ার গুলতিতে পাথর রেখে দাউদ তা প্রবল বেগে ঘুরিয়ে সজোরে নিক্ষেপ করলেন, যা সরাসরি গিয়ে জালুতের কপালের বর্মের ফাঁকে আঘাত করল।",
+        "words": [
+          {
+            "en": "Placing a stone in the pouch",
+            "bn": "গুলতিতে পাথর রেখে"
+          },
+          {
+            "en": "Dawud whirled the sling",
+            "bn": "দাউদ গুলতি ঘোরালেন"
+          },
+          {
+            "en": "and launched it with precision",
+            "bn": "এবং অব্যর্থ নিশানা সহকারে ছুঁড়লেন"
+          },
+          {
+            "en": "directly into Goliath's forehead",
+            "bn": "সরাসরি জালুতের কপালের মাঝে"
+          }
+        ]
+      },
+      {
+        "en": "The stone fractured the tyrant's skull, and Goliath collapsed forward like a felled cedar tree.",
+        "bn": "পাথরটি সেই জালিমের মাথার খুলি বিদীর্ণ করে দিল এবং জালুত এক উপড়ে পড়া বিশাল গাছের মতো মাটিতে মুখ থুবড়ে পড়ল।",
+        "words": [
+          {
+            "en": "The stone fractured the skull",
+            "bn": "পাথরটি মাথার খুলি চূর্ণ করল"
+          },
+          {
+            "en": "and Goliath collapsed forward",
+            "bn": "এবং জালুত সামনে মুখ থুবড়ে পড়ল"
+          },
+          {
+            "en": "like a felled cedar tree",
+            "bn": "একটি কেটে ফেলা বিশাল গাছের মতো"
+          }
+        ]
+      },
+      {
+        "en": "Allah granted Dawud sovereignty and wisdom, declaring in the Quran: 'And by Allah's will they defeated them, and David slew Goliath.'",
+        "bn": "আল্লাহ দাউদকে বিশাল রাজত্ব ও প্রজ্ঞা দান করলেন এবং কুরআনে ঘোষণা করলেন: 'আল্লাহর হুকুমে তারা তাদের পরাজিত করল এবং দাউদ জালুতকে হত্যা করল।'",
+        "words": [
+          {
+            "en": "Allah granted Dawud sovereignty",
+            "bn": "আল্লাহ দাউদকে রাজত্ব দান করলেন"
+          },
+          {
+            "en": "and wisdom",
+            "bn": "এবং হিকমত ও প্রজ্ঞা"
+          },
+          {
+            "en": "And by Allah's will",
+            "bn": "এবং আল্লাহর ইচ্ছায়"
+          },
+          {
+            "en": "they defeated them",
+            "bn": "তারা তাদের পরাজিত করল"
+          },
+          {
+            "en": "and David slew Goliath",
+            "bn": "এবং দাউদ জালুতকে হত্যা করল"
+          }
+        ]
       }
     ]
   },
   {
-    "id": "wit-gopal-blanket-debt",
-    "title": "Gopal Bhar and the Cold Blanket Debt",
-    "titleBn": "গোপাল ভাঁড় ও শীতের কাঁথার ধার শোধ",
-    "author": "Bengali Folklore",
+    "id": "prophet-dawud-psalms",
+    "title": "Prophet Dawud: Melodious Psalms and Just Governance",
+    "titleBn": "হযরত দাউদ (আ.)-এর জাবুর তেলাওয়াত ও অলৌকিক নরম লোহা",
+    "author": "Quranic Narrative (Surah Saba & Sad)",
     "level": "Intermediate",
-    "category": "Wit & Wisdom",
-    "coverEmoji": "🧵",
-    "summary": "Gopal outwits an arrogant moneylender who demanded interest on a torn winter blanket.",
-    "summaryBn": "পুরনো ছেঁড়া কাঁথার অযৌক্তিক সুদ দাবি করা এক লোভী মহাজনকে গোপাল কীভাবে উচিত শিক্ষা দিয়েছিলেন।",
+    "levelColor": "rose",
+    "category": "Stories of the Prophets",
+    "coverEmoji": "📖",
+    "summary": "Allah softens iron like clay in Dawud's hands, making him the pioneer of chainmail armor, while mountains and birds echo his beautiful recitation of the Zabur.",
+    "summaryBn": "হযরত দাউদের হাতে লোহা মোমের মতো নরম হওয়ার অলৌকিক মুজিজা, লোহার যুদ্ধবর্মের সূচনা এবং তাঁর সুমধুর জাবুর তেলাওয়াতে পাহাড় ও পাখিদের মাতোয়ারা হওয়ার ইতিহাস।",
     "sentences": [
       {
-        "en": "A greedy village moneylender had loaned Gopal Bhar an old, tattered cotton quilt during a harsh winter.",
-        "bn": "এক লোভী মহাজন শীতের দিনে গোপাল ভাঁড়কে ব্যবহারের জন্য পুরনো এক ছেঁড়া সুতির কাঁথা ধার দিয়েছিল।"
+        "en": "Almighty Allah endowed Prophet Dawud with a voice of such celestial sweetness that whenever he recited the Zabur (Psalms), wild birds paused in mid-flight.",
+        "bn": "সর্বশক্তিমান আল্লাহ হযরত দাউদ (আ.)-কে এমন এক সুমধুর কণ্ঠ দান করেছিলেন যে তিনি যখন জাবুর তেলাওয়াত করতেন, তখন বন্য পাখিরা আকাশে ওড়া থামিয়ে নেমে আসত।",
+        "words": [
+          {
+            "en": "Allah endowed Dawud",
+            "bn": "আল্লাহ দাউদকে দান করলেন"
+          },
+          {
+            "en": "with a voice of celestial sweetness",
+            "bn": "এক স্বর্গীয় মিষ্টি সুরের কণ্ঠ"
+          },
+          {
+            "en": "whenever he recited the Zabur",
+            "bn": "যখনই তিনি জাবুর কিতাব পাঠ করতেন"
+          },
+          {
+            "en": "wild birds paused",
+            "bn": "বুনো পাখিরা থেমে যেত"
+          },
+          {
+            "en": "in mid-flight",
+            "bn": "আকাশে ওড়ার মাঝে"
+          }
+        ]
       },
       {
-        "en": "When spring arrived, the usurer demanded five times the value of the blanket as outrageous rental interest.",
-        "bn": "বসন্ত আসতেই মহাজন কাঁথার আসল দামের চেয়ে পাঁচ গুণ বেশি টাকা সুদ হিসেবে দাবি করে বসল।"
+        "en": "Towering mountain ranges echoed his glorious praises of Allah, joining him in morning and evening hymns.",
+        "bn": "বিশাল পর্বতমালা তাঁর সাথে সুর মিলিয়ে সকাল-সন্ধ্যায় মহান আল্লাহর পবিত্র তাসবীহ ও প্রশংসায় প্রতিধ্বনিত হতো।",
+        "words": [
+          {
+            "en": "Towering mountain ranges",
+            "bn": "বিশাল পর্বতমালা"
+          },
+          {
+            "en": "echoed his glorious praises",
+            "bn": "তাঁর প্রশংসা প্রতিধ্বনিত করত"
+          },
+          {
+            "en": "joining him",
+            "bn": "তাঁর সাথে যোগ দিয়ে"
+          },
+          {
+            "en": "in morning and evening hymns",
+            "bn": "সকাল ও সন্ধ্যার প্রশংসাগীতিতে"
+          }
+        ]
       },
       {
-        "en": "The moneylender dragged Gopal before Maharaja Krishnachandra's court to complain that Gopal refused to pay.",
-        "bn": "মহাজন গোপালকে জোর করে রাজা কৃষ্ণচন্দ্রের দরবারে হাজির করল নালিশ জানাতে যে গোপাল টাকা দিচ্ছে না।"
+        "en": "Allah blessed him with a unique physical miracle: softening rigid iron in his bare hands just like pliable wax or damp clay.",
+        "bn": "আল্লাহ তাঁকে এক অনন্য অলৌকিক মুজিজা দান করলেন: নিরেট শক্ত লোহাকে তিনি খালি হাতে মোম বা কাদার মতো অনায়াসে বাঁকাতে পারতেন।",
+        "words": [
+          {
+            "en": "Allah blessed him",
+            "bn": "আল্লাহ তাঁকে ধন্য করলেন"
+          },
+          {
+            "en": "with a unique physical miracle",
+            "bn": "এক অনন্য শারীরিক মুজিজা দিয়ে"
+          },
+          {
+            "en": "softening rigid iron",
+            "bn": "শক্ত লোহাকে নরম করে"
+          },
+          {
+            "en": "in his bare hands",
+            "bn": "তাঁর খালি হাতে"
+          },
+          {
+            "en": "just like pliable wax",
+            "bn": "ঠিক নরম মোমের মতো"
+          }
+        ]
       },
       {
-        "en": "Gopal stepped forward wearing the quilt, which was riddled with dozens of large gaping holes.",
-        "bn": "গোপাল সেই কাঁথাটি গায়ে জড়িয়ে রাজদরবারে দাঁড়াল, যাতে ছিল ডজন ডজন বড় বড় গোল গোল ফুটো।"
+        "en": "He utilized this gift to pioneer interlocking chainmail armor, designing lightweight protective coats for soldiers.",
+        "bn": "তিনি এই নিয়ামতকে কাজে লাগিয়ে লোহার আংটাযুক্ত হালকা অথচ অভেদ্য যুদ্ধবর্ম উদ্ভাবন করলেন, যা সেনাদের জীবন রক্ষা করত।",
+        "words": [
+          {
+            "en": "He utilized this gift",
+            "bn": "তিনি এই উপহার কাজে লাগালেন"
+          },
+          {
+            "en": "to pioneer chainmail armor",
+            "bn": "লোহার যুদ্ধবর্মের সূচনা করতে"
+          },
+          {
+            "en": "designing lightweight protective coats",
+            "bn": "হালকা সুরক্ষামূলক পোশাক তৈরি করে"
+          },
+          {
+            "en": "for soldiers",
+            "bn": "সৈন্যদের জন্য"
+          }
+        ]
       },
       {
-        "en": "Gopal addressed the court: 'Maharaja, I am deeply grateful for this blanket, but it came with fifty holes that let freezing wind through all night.'",
-        "bn": "গোপাল রাজাকে বলল: 'মহারাজ, কাঁথাটির জন্য আমি কৃতজ্ঞ, কিন্তু এতে ছিল পঞ্চাশটি ফুটো যা দিয়ে সারারাত বরফশীতল হাওয়া ঢুকত।'"
+        "en": "Though he was sovereign ruler of a great empire, he refused to eat from the state treasury, eating only from the honest labor of his hands.",
+        "bn": "যদিও তিনি এক বিশাল সাম্রাজ্যের অধিপতি ছিলেন, তবুও রাষ্ট্রীয় কোষাগার থেকে কিছুই নিতেন না; তিনি নিজের হাতের উপার্জিত হালাল রুজি ভক্ষণ করতেন।",
+        "words": [
+          {
+            "en": "Though he was sovereign ruler",
+            "bn": "যদিও তিনি ছিলেন সার্বভৌম শাসক"
+          },
+          {
+            "en": "of a great empire",
+            "bn": "এক সুবিশাল সাম্রাজ্যের"
+          },
+          {
+            "en": "he refused to eat from treasury",
+            "bn": "তিনি সরকারি তহবিল থেকে খাওয়া বর্জন করলেন"
+          },
+          {
+            "en": "eating only from honest labor",
+            "bn": "শুধুমাত্র সৎ শ্রমের রুজি খেয়ে"
+          },
+          {
+            "en": "of his hands",
+            "bn": "তাঁর নিজের হাতের"
+          }
+        ]
       },
       {
-        "en": "'For every cold draft that entered one hole, another draft left through another hole, keeping the cold completely balanced!'",
-        "bn": "'এক ফুটো দিয়ে যতখানি ঠান্ডা হাওয়া ঢুকত, অন্য ফুটো দিয়ে ঠিক ততখানি বেরিয়ে যেত, ফলে ঠান্ডার ভারসাম্য সমান থাকত!'"
+        "en": "He fasted alternate days and divided the night into thirds, sleeping half and standing in devout prayer for the other half.",
+        "bn": "তিনি একদিন পর পর নফল রোজা রাখতেন এবং রাতের অর্ধাংশ ঘুমাতেন ও বাকী অংশ আল্লাহর সামনে একাগ্র নামাজে দাঁড়িয়ে কাটিয়ে দিতেন।",
+        "words": [
+          {
+            "en": "He fasted alternate days",
+            "bn": "তিনি একদিন পর পর রোজা রাখতেন"
+          },
+          {
+            "en": "and divided the night",
+            "bn": "এবং রাতকে ভাগ করতেন"
+          },
+          {
+            "en": "sleeping half",
+            "bn": "অর্ধেক সময় ঘুমিয়ে"
+          },
+          {
+            "en": "and standing in prayer",
+            "bn": "এবং নামাজে দাঁড়িয়ে থেকে"
+          }
+        ]
       },
       {
-        "en": "'Since the blanket neither warmed me nor chilled me, the interest owed by me to him equals the cold owed by him to me!'",
-        "bn": "'যেহেতু কাঁথাটি আমাকে গরমও করেনি আবার ঠান্ডাও করেনি, তাই আমার পাওনা সুদ আর তাঁর পাওনা শীত কাটাকাটি হয়ে গেছে!'"
-      },
-      {
-        "en": "The Maharaja burst into laughter, threw the greedy moneylender out of court, and gifted Gopal a brand-new wool shawl.",
-        "bn": "মহারাজ হো হো করে হেসে উঠলেন, লোভী মহাজনকে তাড়িয়ে দিলেন এবং গোপালকে একটি সুন্দর নতুন পশমি শাল উপহার দিলেন।"
+        "en": "His exemplary life unified supreme political authority with profound spiritual ascetism and justice.",
+        "bn": "তাঁর এই মহান জীবন রাজনৈতিক ক্ষমতার সাথে গভীর আধ্যাত্মিক সাধনা ও ইনসাফের এক নিখুঁত মেলবন্ধন রচনা করেছিল।",
+        "words": [
+          {
+            "en": "His exemplary life",
+            "bn": "তাঁর অনুকরণীয় জীবন"
+          },
+          {
+            "en": "unified political authority",
+            "bn": "রাজনৈতিক ক্ষমতাকে একীভূত করল"
+          },
+          {
+            "en": "with spiritual ascetism",
+            "bn": "আধ্যাত্মিক নির্লোভ সাধনার সাথে"
+          },
+          {
+            "en": "and justice",
+            "bn": "এবং ন্যায়বিচারের সাথে"
+          }
+        ]
       }
     ]
   },
   {
-    "id": "wit-tenali-horse-painting",
-    "title": "Tenali Raman Paints a Horse",
-    "titleBn": "তেনালী রামন এবং কাল্পনিক ঘোড়ার ছবি",
-    "author": "Indian Wit",
+    "id": "prophet-sulaiman-winds",
+    "title": "Prophet Sulaiman and Dominion over Winds and Jinn",
+    "titleBn": "হযরত সুলাইমান (আ.) ও বায়ু-জিনের ওপর অলৌকিক কর্তৃত্ব",
+    "author": "Quranic Narrative (Surah Saba & Sad)",
     "level": "Intermediate",
-    "category": "Wit & Wisdom",
-    "coverEmoji": "🎨",
-    "summary": "Tenali uses an artist's own pretentious logic to win a bet against King Krishnadevaraya.",
-    "summaryBn": "এক দাম্ভিক শিল্পীর অদ্ভুত যুক্তির জবাব দিয়ে তেনালী রামন কীভাবে রাজাকে তাক লাগিয়ে দিয়েছিলেন।",
+    "levelColor": "cyan",
+    "category": "Stories of the Prophets",
+    "coverEmoji": "🌪️",
+    "summary": "King Sulaiman inherits Dawud's wisdom, supplicating for a kingdom unmatched by anyone thereafter, commanding swift winds, obedient jinn, and molten brass springs.",
+    "summaryBn": "হযরত সুলাইমান (আ.)-এর সেই বিশেষ দোয়া যার মাধ্যমে তিনি এমন এক সাম্রাজ্য লাভ করেছিলেন যা কিয়ামত পর্যন্ত আর কেউ পাবে না—বাতাসের পিঠে ভ্রমণ ও জিনদের আনুগত্য।",
     "sentences": [
       {
-        "en": "A proud royal artist presented a painting to King Krishnadevaraya of Vijayanagara, showing a man riding a horse.",
-        "bn": "বিজয়নগরের রাজা কৃষ্ণদেবরায়ের কাছে এক অহংকারী রাজচিত্রশিল্পী ঘোড়ায় চড়া এক মানুষের ছবি উপহার হিসেবে নিয়ে এলো।"
+        "en": "Prophet Sulaiman, son of Dawud, prayed with sincere devotion: 'My Lord! Forgive me and grant me an empire such as will not belong to anyone after me.'",
+        "bn": "দাউদ তনয় হযরত সুলাইমান (আ.) একনিষ্ঠভাবে দোয়া করলেন: 'হে আমার পালনকর্তা! আমাকে ক্ষমা করুন এবং আমাকে এমন এক সাম্রাজ্য দান করুন যা আমার পরে আর কারও হবে না।'",
+        "words": [
+          {
+            "en": "Prophet Sulaiman son of Dawud",
+            "bn": "দাউদের পুত্র নবী সুলাইমান"
+          },
+          {
+            "en": "prayed with devotion",
+            "bn": "ভক্তির সাথে দোয়া করলেন"
+          },
+          {
+            "en": "My Lord forgive me",
+            "bn": "হে আমার রব আমাকে ক্ষমা করুন"
+          },
+          {
+            "en": "and grant me an empire",
+            "bn": "এবং আমাকে এমন এক সাম্রাজ্য দিন"
+          },
+          {
+            "en": "such as will not belong",
+            "bn": "যা কারও অধিকারে থাকবে না"
+          },
+          {
+            "en": "to anyone after me",
+            "bn": "আমার পরে আর কারও"
+          }
+        ]
       },
       {
-        "en": "The king praised the artwork, but Tenali Raman criticized it, saying: 'You can only see one side of the man; where is the other side?'",
-        "bn": "রাজা ছবির প্রশংসা করলেন, কিন্তু তেনালী রামন বললেন: 'মানুষটির তো শুধু একপাশ দেখা যাচ্ছে; অপর পাশটি কোথায় গেল?'"
+        "en": "Allah answered his supplication, subordinating the mighty winds to his command, blowing smoothly wherever he directed them.",
+        "bn": "আল্লাহ তাঁর প্রার্থনা কবুল করলেন এবং প্রচণ্ড বাতাসকে তাঁর অনুগত করে দিলেন, যা তাঁর নির্দেশে সুকোমলভাবে যেকোনো দিকে বয়ে যেত।",
+        "words": [
+          {
+            "en": "Allah answered his prayer",
+            "bn": "আল্লাহ তাঁর দোয়া কবুল করলেন"
+          },
+          {
+            "en": "subordinating the winds",
+            "bn": "বাতাসকে অধীনস্থ করে"
+          },
+          {
+            "en": "to his command",
+            "bn": "তাঁর আদেশের প্রতি"
+          },
+          {
+            "en": "blowing smoothly",
+            "bn": "শান্তভাবে প্রবাহিত হয়ে"
+          },
+          {
+            "en": "wherever he directed them",
+            "bn": "যেখানেই তিনি নির্দেশ দিতেন"
+          }
+        ]
       },
       {
-        "en": "The painter sneered, 'A great artist leaves missing details to the viewer's imagination! Fools cannot appreciate fine art.'",
-        "bn": "শিল্পী ব্যঙ্গ করে বলল, 'একজন মহান শিল্পী বাকি অংশ দর্শকের কল্পনার ওপর ছেড়ে দেন! মূর্খরা শিল্পের মর্ম বুঝবে না।'"
+        "en": "A single morning's journey upon the wind covered a distance of a full month, and the evening's journey covered a month as well.",
+        "bn": "বাতাসের পিঠে চড়ে সকালের এক যাত্রায় তিনি এক মাসের পথ অতিক্রম করতেন এবং বিকেলের যাত্রাতেও এক মাসের পথ পাড়ি দিতেন।",
+        "words": [
+          {
+            "en": "A single morning's journey",
+            "bn": "সকালের এক বেলার সফর"
+          },
+          {
+            "en": "covered a full month's distance",
+            "bn": "এক মাসের দূরত্বের সমান হতো"
+          },
+          {
+            "en": "and the evening's journey",
+            "bn": "এবং সন্ধ্যার সফরও"
+          },
+          {
+            "en": "covered a month as well",
+            "bn": "এক মাসের পথ অতিক্রম করত"
+          }
+        ]
       },
       {
-        "en": "The king challenged Tenali to produce a better painting within one month or face banishment from court.",
-        "bn": "রাজা তখন তেনালীকে চ্যালেঞ্জ দিলেন এক মাসের মধ্যে এর চেয়ে ভালো ছবি এঁকে দেখাতে, নইলে দরবার থেকে বহিষ্কার করা হবে।"
+        "en": "Allah also caused a miraculous spring of molten brass to gush forth abundantly from the earth for his engineering projects.",
+        "bn": "আল্লাহ তাঁর বিভিন্ন স্থাপত্য ও নির্মাণকাজের সুবিধার জন্য জমিন থেকে গলিত তামার এক অবিরাম ঝর্ণাধারা প্রবাহিত করলেন।",
+        "words": [
+          {
+            "en": "Allah also caused",
+            "bn": "আল্লাহ আরও প্রবাহিত করলেন"
+          },
+          {
+            "en": "a spring of molten brass",
+            "bn": "গলিত তামার এক ঝর্ণা"
+          },
+          {
+            "en": "to gush forth abundantly",
+            "bn": "প্রচুর পরিমাণে উথলে উঠতে"
+          },
+          {
+            "en": "for his engineering projects",
+            "bn": "তাঁর স্থাপত্য ও নির্মাণকাজের জন্য"
+          }
+        ]
       },
       {
-        "en": "A month later, Tenali arrived with a large canvas covered in black cloth and placed it before the assembled court.",
-        "bn": "এক মাস পর তেনালী কালো কাপড়ে ঢাকা বিশাল এক ক্যানভাস নিয়ে এসে দরবারের মাঝখানে রাখলেন।"
+        "en": "Legions of jinn were subjugated to his authority, constructing towering sanctuary arches, sculptures, basins as large as reservoirs, and secure cauldrons.",
+        "bn": "জিনদের বাহিনীকে তাঁর অধীনে করে দেওয়া হয়েছিল, যারা তাঁর নির্দেশে সুরম্য মসজিদ, বিশাল জলাধারের মতো পাত্র এবং বিশালাকার ডেকচি তৈরি করত।",
+        "words": [
+          {
+            "en": "Legions of jinn",
+            "bn": "জিনদের বড় বড় দল"
+          },
+          {
+            "en": "were subjugated to him",
+            "bn": "তাঁর অনুগত ছিল"
+          },
+          {
+            "en": "constructing sanctuary arches",
+            "bn": "সুরম্য মেহরাব নির্মাণ করত"
+          },
+          {
+            "en": "basins as large as reservoirs",
+            "bn": "হাওরের মতো বিশালাকার পাত্র"
+          },
+          {
+            "en": "and secure cauldrons",
+            "bn": "এবং স্থায়ী বিশালাকার ডেগ"
+          }
+        ]
       },
       {
-        "en": "When the cloth was removed, the canvas was completely blank except for a few curved brush strokes at the very edge resembling a horse's tail.",
-        "bn": "কাপড় সরাতেই দেখা গেল পুরো ক্যানভাসটি একদম সাদা, কেবল এক কোণায় ঘোড়ার লেজের মতো সামান্য কয়েকটি রেখা আঁকা রয়েছে!"
+        "en": "Under his supervision, the grand Sanctuary of Al-Aqsa (Bayt al-Maqdis) in Jerusalem was rebuilt to breathtaking glory.",
+        "bn": "তাঁরই প্রত্যক্ষ তত্ত্বাবধানে জেরুজালেমের পবিত্র মসজিদুল আকসা (বাইতুল মুকাদ্দাস) এক অভূতপূর্ব মহিমায় পুনর্নির্মিত হয়েছিল।",
+        "words": [
+          {
+            "en": "Under his supervision",
+            "bn": "তাঁর তত্ত্বাবধানে"
+          },
+          {
+            "en": "the grand Sanctuary",
+            "bn": "পবিত্র সুমহান মসজিদ"
+          },
+          {
+            "en": "of Al-Aqsa",
+            "bn": "আল-আকসার"
+          },
+          {
+            "en": "in Jerusalem",
+            "bn": "জেরুজালেমের"
+          },
+          {
+            "en": "was rebuilt",
+            "bn": "পুনর্নির্মিত হলো"
+          },
+          {
+            "en": "to breathtaking glory",
+            "bn": "নজরকাড়া ঐশ্বর্য ও মর্যাদায়"
+          }
+        ]
       },
       {
-        "en": "When the furious king demanded an explanation, Tenali smiled: 'Your Majesty, this is a magnificent black stallion eating lush grass off-canvas; you must imagine the rest!'",
-        "bn": "ক্ষিপ্ত রাজা কৈফিয়ত চাইতেই তেনালী হেসে বললেন: 'মহারাজ, এটি এক কালো ঘোড়া যা ক্যানভাসের বাইরের ঘাস খাচ্ছে; বাকিটা আপনাকে কল্পনা করে নিতে হবে!'"
-      },
-      {
-        "en": "Recognizing Tenali's clever use of the painter's own arrogant words, the king laughed heartily and rewarded him with a bag of gold.",
-        "bn": "সেই দাম্ভিক শিল্পীর যুক্তির সুন্দর জবাব দেখে রাজা প্রাণখুলে হেসে উঠলেন এবং তেনালীকে এক থলি স্বর্ণমুদ্রায় পুরস্কৃত করলেন।"
+        "en": "Despite his unprecedented power, Sulaiman remained profoundly humble, constantly reminding his soul to give thanks to the Almighty.",
+        "bn": "এই অতুলনীয় ক্ষমতার অধিকারী হয়েও সুলাইমান পরম বিনম্র ছিলেন এবং সর্বদা নিজের আত্মাকে আল্লাহর কৃতজ্ঞতা প্রকাশের উপদেশ দিতেন।",
+        "words": [
+          {
+            "en": "Despite his power",
+            "bn": "তাঁর ক্ষমতা সত্ত্বেও"
+          },
+          {
+            "en": "Sulaiman remained humble",
+            "bn": "সুলাইমান বিনীত ছিলেন"
+          },
+          {
+            "en": "constantly reminding his soul",
+            "bn": "সর্বদা নিজের আত্মাকে স্মরণ করিয়ে দিয়ে"
+          },
+          {
+            "en": "to give thanks",
+            "bn": "শুকরিয়া আদায় করতে"
+          },
+          {
+            "en": "to the Almighty",
+            "bn": "মহান আল্লাহর প্রতি"
+          }
+        ]
       }
     ]
   },
   {
-    "id": "wit-tenali-thieves-well",
-    "title": "Tenali Raman Waters the Garden with Thieves",
-    "titleBn": "চোরদের দিয়ে বাগানে পানি সেচ",
-    "author": "Indian Wit",
+    "id": "prophet-sulaiman-ants",
+    "title": "Prophet Sulaiman Smiling at the Warning of the Queen Ant",
+    "titleBn": "পিঁপড়ার সতর্কতা ও হযরত সুলাইমান (আ.)-এর কৃতজ্ঞতা",
+    "author": "Quranic Narrative (Surah An-Naml)",
     "level": "Intermediate",
-    "category": "Wit & Wisdom",
-    "coverEmoji": "🌱",
-    "summary": "Tenali discovers burglars lurking in his backyard and tricks them into doing heavy agricultural labor all night.",
-    "summaryBn": "বাড়িতে চোর ঢুকতে দেখে তেনালী রামন এমন বুদ্ধি খাটালেন যে চোরেরা সারারাত তাঁর পুরো বাগানে পানি ঢালল।",
+    "levelColor": "emerald",
+    "category": "Stories of the Prophets",
+    "coverEmoji": "🐜",
+    "summary": "Marching with his colossal army of men, jinn, and birds, Sulaiman understands the tiny ant's frantic warning and turns to Allah in tearful gratitude.",
+    "summaryBn": "মানুষ, জিন ও পাখির সমন্বয়ে গঠিত বিশাল সৈন্যবাহিনী নিয়ে চলার পথে ছোট্ট এক পিঁপড়ার আর্তনাদ বুঝতে পারা এবং আল্লাহর নিয়ামতের কৃতজ্ঞতায় সুলাইমানের অপূর্ব দোয়া।",
     "sentences": [
       {
-        "en": "One warm summer evening, Tenali Raman spotted two suspicious thieves hiding among the bushes in his backyard garden.",
-        "bn": "এক গরমের সন্ধ্যায় তেনালী রামন দেখলেন দুই চোর তাঁর বাড়ির পেছনের বাগানের ঝোপের আড়ালে লুকিয়ে আছে।"
+        "en": "Allah endowed Prophet Sulaiman with the miraculous ability to understand the complex speech of birds, beasts, and insects.",
+        "bn": "আল্লাহ হযরত সুলাইমান (আ.)-কে পশুপাখি ও কীটপতঙ্গের ভাষা বোঝার এক অনন্য অলৌকিক ক্ষমতা দান করেছিলেন।",
+        "words": [
+          {
+            "en": "Allah endowed Sulaiman",
+            "bn": "আল্লাহ সুলাইমানকে ভূষিত করলেন"
+          },
+          {
+            "en": "with the miraculous ability",
+            "bn": "অলৌকিক ক্ষমতা দিয়ে"
+          },
+          {
+            "en": "to understand complex speech",
+            "bn": "জটিল ভাষা বুঝতে"
+          },
+          {
+            "en": "of birds beasts and insects",
+            "bn": "পাখি, বন্যপশু ও কীটপতঙ্গের"
+          }
+        ]
       },
       {
-        "en": "Instead of shouting for guards, he casually walked inside and spoke in a loud voice to his wife: 'Dearest, robbers are loose in the city.'",
-        "bn": "চিৎকার করে পাহারাদার ডাকার বদলে তিনি ঘরে ঢুকে স্ত্রীকে বেশ জোরে জোরে বললেন: 'শুনছ, শহরে নাকি ডাকাত পড়েছে।'"
+        "en": "One day, his majestic army composed of disciplined columns of men, jinn, and birds marched across a desert valley.",
+        "bn": "একদিন মানুষ, জিন ও পাখিদের সমন্বয়ে গঠিত তাঁর সুশৃঙ্খল বিশাল সৈন্যদল এক মরু উপত্যকা অতিক্রম করছিল।",
+        "words": [
+          {
+            "en": "One day his majestic army",
+            "bn": "একদিন তাঁর সুবিশাল বাহিনী"
+          },
+          {
+            "en": "composed of columns",
+            "bn": "সারি সারি দলে বিভক্ত"
+          },
+          {
+            "en": "of men jinn and birds",
+            "bn": "মানুষ, জিন ও পাখিদের"
+          },
+          {
+            "en": "marched across a valley",
+            "bn": "এক উপত্যকা অতিক্রম করল"
+          }
+        ]
       },
       {
-        "en": "'We must hide all our gold ornaments and silver utensils inside our heavy iron chest and drop it into the deep well for safekeeping.'",
-        "bn": "'আমাদের সব সোনার গয়না আর রূপার বাসনকোসন এই ভারী লোহার সিন্দুকে ভরে গভীর কুয়োর পানিতে লুকিয়ে রাখতে হবে।'"
+        "en": "As the ground trembled beneath thousands of marching feet, a female ant noticed the advancing host.",
+        "bn": "হাজার হাজার সৈন্যের পদভারে যখন মাটি কেঁপে উঠছিল, তখন এক ক্ষুদে রানী পিঁপড়া সেই ধেয়ে আসা বাহিনীকে লক্ষ্য করল।",
+        "words": [
+          {
+            "en": "As the ground trembled",
+            "bn": "মাটি যখন কেঁপে উঠল"
+          },
+          {
+            "en": "beneath thousands of feet",
+            "bn": "হাজারো পদতলে"
+          },
+          {
+            "en": "a female ant noticed",
+            "bn": "এক রানী পিঁপড়া দেখতে পেল"
+          },
+          {
+            "en": "the advancing host",
+            "bn": "সামনে এগিয়ে আসা বাহিনীকে"
+          }
+        ]
       },
       {
-        "en": "Tenali and his wife filled an old iron chest with heavy boulders and dragged it noisily outside, splashing it into the stone well.",
-        "bn": "তেনালী আর তাঁর স্ত্রী সিন্দুকটিতে ভারী ভারী পাথর ভরে টানতে টানতে বাইরে এনে ধপাস করে কুয়োর পানির মধ্যে ফেলে দিলেন।"
+        "en": "She cried out in warning: 'O ants! Enter your dwellings, lest Solomon and his hosts crush you unwittingly!'",
+        "bn": "সে আর্তনাদ করে সতর্ক করল: 'হে পিঁপড়ার দল! তোমরা তোমাদের গর্তে ঢুকে যাও, পাছে সুলাইমান ও তাঁর সৈন্যরা না জেনে তোমাদের পদপিষ্ট করে ফেলে!'",
+        "words": [
+          {
+            "en": "She cried out in warning",
+            "bn": "সে সতর্ক করে চিৎকার করল"
+          },
+          {
+            "en": "O ants",
+            "bn": "হে পিঁপড়ারা"
+          },
+          {
+            "en": "Enter your dwellings",
+            "bn": "তোমাদের বাসস্থানে ঢুকে পড়ো"
+          },
+          {
+            "en": "lest Solomon and his hosts",
+            "bn": "পাছে সুলাইমান ও তাঁর বাহিনী"
+          },
+          {
+            "en": "crush you unwittingly",
+            "bn": "তোমাদের না জেনে পিষে ফেলে"
+          }
+        ]
       },
       {
-        "en": "Overjoyed by their luck, the eavesdropping thieves waited for the household to sleep, then began drawing buckets of water to empty the well.",
-        "bn": "আড়ি পেতে এই কথা শুনে খুশিতে গদগদ চোরেরা সবাই ঘুমিয়ে পড়ার পর কুয়ো থেকে বালতি বালতি পানি তুলে খালি করতে লাগল।"
+        "en": "Hearing her small voice from afar, Sulaiman halted the entire army and smiled broadly in joyful amusement.",
+        "bn": "দূর থেকে সেই ছোট্ট ক্ষুদ্রাকার প্রাণীর ফরিয়াদ শুনতে পেয়ে সুলাইমান পুরো সেনাবাহিনীকে থামিয়ে দিলেন এবং মুচকি হেসে উঠলেন।",
+        "words": [
+          {
+            "en": "Hearing her small voice",
+            "bn": "তাঁর ছোট্ট কণ্ঠ শুনতে পেয়ে"
+          },
+          {
+            "en": "from afar",
+            "bn": "দূর থেকে"
+          },
+          {
+            "en": "Sulaiman halted the army",
+            "bn": "সুলাইমান বাহিনীকে থামালেন"
+          },
+          {
+            "en": "and smiled broadly",
+            "bn": "এবং পরম স্নেহে হাসলেন"
+          }
+        ]
       },
       {
-        "en": "All night long, the thieves hauled hundreds of heavy buckets, unintentionally channeling fresh water throughout all of Tenali's dry vegetable patches.",
-        "bn": "সারারাত ধরে চোরেরা শত শত বালতি পানি তুলল এবং সেই পানি বয়ে গিয়ে তেনালীর শুকনো সবজির ক্ষেত পুরোপুরি সেচ হয়ে গেল।"
+        "en": "Tears of gratitude welled in his eyes as he raised his hands in prayer: 'My Lord! Inspire me to always be thankful for Your favor which You have bestowed upon me and my parents.'",
+        "bn": "কৃতজ্ঞতার অশ্রু তাঁর চোখ বেয়ে ঝরে পড়ল এবং তিনি দোয়া করলেন: 'হে আমার প্রতিপালক! আমাকে তৌফিক দিন যেন আমি আপনার সেই নিয়ামতের শুকরিয়া আদায় করতে পারি যা আপনি আমাকে ও আমার পিতা-মাতাকে দিয়েছেন।'",
+        "words": [
+          {
+            "en": "Tears of gratitude welled",
+            "bn": "কৃতজ্ঞতার অশ্রু উপচে পড়ল"
+          },
+          {
+            "en": "in his eyes",
+            "bn": "তাঁর চোখ দুটিতে"
+          },
+          {
+            "en": "My Lord inspire me",
+            "bn": "হে আমার রব আমাকে প্রেরণা দিন"
+          },
+          {
+            "en": "to be thankful",
+            "bn": "কৃতজ্ঞতা প্রকাশ করতে"
+          },
+          {
+            "en": "for Your favor",
+            "bn": "আপনার নিয়ামতের জন্য"
+          },
+          {
+            "en": "bestowed upon me and my parents",
+            "bn": "যা আমাকে ও আমার পিতা-মাতাকে দিয়েছেন"
+          }
+        ]
       },
       {
-        "en": "At dawn, when the water level finally dropped, the exhausted thieves dragged out the chest, only to find it stuffed with worthless stones.",
-        "bn": "ভোরবেলা পানি কমতেই ক্লান্ত-বিধ্বস্ত চোরেরা সিন্দুকটি টেনে তুলল এবং খুলে দেখল ভেতরে শুধু বড় বড় নুড়িপাথর ভরা।"
-      },
-      {
-        "en": "Tenali stepped out with a smile and thanked them warmly for watering his mango saplings and brinjal beds for free.",
-        "bn": "তেনালী তখন হাসিমুখে সামনে এসে বিনামূল্যে তাঁর আমগাছ আর বেগুনের জমিতে পানি সেচ দেওয়ার জন্য চোরদের মিষ্টি ধন্যবাদ জানালেন!"
+        "en": "He requested to be included among Allah's righteous servants, demonstrating that true kingship protects even the smallest of creatures.",
+        "bn": "তিনি আল্লাহর নেককার বান্দাদের অন্তর্ভুক্ত হওয়ার প্রার্থনা করলেন এবং দেখিয়ে দিলেন যে খাঁটি ইনসাফ ছোট্ট এক পিঁপড়ার নিরাপত্তাও সুনিশ্চিত করে।",
+        "words": [
+          {
+            "en": "He requested to be included",
+            "bn": "তিনি শামিল হতে চাইলেন"
+          },
+          {
+            "en": "among righteous servants",
+            "bn": "নেককার বান্দাদের মাঝে"
+          },
+          {
+            "en": "demonstrating that true kingship",
+            "bn": "প্রমাণ করে যে আসল রাজধর্ম"
+          },
+          {
+            "en": "protects even the smallest",
+            "bn": "ক্ষুদ্রতম প্রাণীকেও নিরাপত্তা দেয়"
+          },
+          {
+            "en": "of creatures",
+            "bn": "সৃষ্টিজগতের"
+          }
+        ]
       }
     ]
   },
   {
-    "id": "wit-nasruddin-lost-key",
-    "title": "Mullah Nasruddin Searches Under the Streetlamp",
-    "titleBn": "মোল্লা নাসিরুদ্দিন এবং আলোর নিচে চাবি খোঁজা",
-    "author": "Sufi Wisdom",
+    "id": "prophet-sulaiman-sheba",
+    "title": "The Letters of Sulaiman and Queen Bilqis of Sheba",
+    "titleBn": "রাণী বিলকিস, হুদহুদ পাখি ও সুলাইমান (আ.)-এর রাজদরবার",
+    "author": "Quranic Narrative (Surah An-Naml)",
     "level": "Intermediate",
-    "category": "Wit & Wisdom",
-    "coverEmoji": "🏮",
-    "summary": "A famous Sufi parable showing how foolish human beings seek truth where it is convenient rather than where it was lost.",
-    "summaryBn": "সুফি লোককাহিনির এক অমর গল্প যা দেখায় মানুষ কীভাবে আসল জায়গায় না খুঁজে যেখানে সহজ সেখানে সমাধান খোঁজে।",
+    "levelColor": "rose",
+    "category": "Stories of the Prophets",
+    "coverEmoji": "👑",
+    "summary": "The intelligent hoopoe bird discovers a sun-worshiping kingdom in Yemen ruled by Queen Bilqis, leading to letters of monotheism and the miraculous transportation of her throne.",
+    "summaryBn": "হুদহুদ পাখির মাধ্যমে ইয়েমেনের সুর্যপূজারি সাবা রাজ্যের খবর লাভ, রাণী বিলকিসের প্রতি তাওহিদের পত্র প্রেরণ এবং চোখের পলকে তাঁর রাজসিংহাসন উপস্থিত করার মুজিজা।",
     "sentences": [
       {
-        "en": "Late one evening, neighbors found Mullah Nasruddin down on his hands and knees beneath a bright streetlamp, searching frantically in the dirt.",
-        "bn": "এক রাতে প্রতিবেশীরা দেখল মোল্লা নাসিরুদ্দিন রাস্তার এক উজ্জ্বল ল্যাম্পপোস্টের নিচে মাটিতে হামাগুড়ি দিয়ে পাগলের মতো কী যেন খুঁজছেন।"
-      },
-      {
-        "en": "A concerned neighbor knelt beside him and asked, 'Mullah, what have you lost?'",
-        "bn": "এক প্রতিবেশী পাশে বসে জিজ্ঞেস করল, 'মোল্লা সাহেব, আপনার কী হারিয়েছে?'"
-      },
-      {
-        "en": "Nasruddin wiped his brow and replied, 'I have lost the iron key to my front door.'",
-        "bn": "নাসিরুদ্দিন কপাল মুছে বললেন, 'আমার ঘরের সদর দরজার লোহার চাবিটা হারিয়ে গেছে।'"
-      },
-      {
-        "en": "The neighbor joined the search, and soon half a dozen townspeople were crawling on the cobblestones looking for the missing key.",
-        "bn": "প্রতিবেশীও খোঁজা শুরু করল, আর কিছুক্ষণের মধ্যেই পাড়ার বেশ কয়েকজন মানুষ এসে চাবি খুঁজতে রাস্তায় হামাগুড়ি দিতে লাগল।"
-      },
-      {
-        "en": "After an hour of fruitless searching, someone asked: 'Mullah, where exactly did the key drop?'",
-        "bn": "এক ঘণ্টা খোঁজাখুঁজির পরও যখন কিছু মিলল না, একজন জিজ্ঞেস করল: 'মোল্লা সাহেব, চাবিটা ঠিক কোথায় পড়েছিল?'"
-      },
-      {
-        "en": "Nasruddin pointed toward his distant house and said, 'Oh, I dropped it inside my dark cellar.'",
-        "bn": "নাসিরুদ্দিন দূরের তাঁর বাড়ির দিকে আঙুল তুলে বললেন, 'ওহ, ওটা তো আমার ঘরের অন্ধকার মাটির নিচে পড়েছিল।'"
-      },
-      {
-        "en": "The angry neighbors shouted, 'Then why on earth are you searching out here in the street?'",
-        "bn": "ক্ষুব্ধ প্রতিবেশীরা রেগে গিয়ে চেঁচিয়ে উঠল, 'তাহলে আপনি বাড়ির ভেতর না খুঁজে এখানে রাস্তায় খুঁজছেন কেন?'"
-      },
-      {
-        "en": "Nasruddin replied calmly: 'Because it is pitch black in my cellar, but out here there is such wonderful bright light!'",
-        "bn": "নাসিরুদ্দিন শান্তভাবে বললেন: 'কারণ আমার ঘরের ভেতর ঘুটঘুটে অন্ধকার, আর এখানে কত সুন্দর পরিষ্কার আলো!'"
-      }
-    ]
-  },
-  {
-    "id": "wit-nasruddin-coat-soup",
-    "title": "Mullah Nasruddin: Feed My Fine Fur Coat",
-    "titleBn": "আমার দামি কোটকে স্যুপ খাওয়াও",
-    "author": "Sufi Wisdom",
-    "level": "Intermediate",
-    "category": "Wit & Wisdom",
-    "coverEmoji": "🧥",
-    "summary": "Nasruddin exposes societal hypocrisy by literally pouring soup over his expensive silk robe at a feast.",
-    "summaryBn": "অভিজাত এক ভোজে নিজের দামি পোশাকে স্যুপ ঢেলে দিয়ে নাসিরুদ্দিন সমাজের ঠুনকো লোকদেখানো রূপ উন্মোচন করেছিলেন।",
-    "sentences": [
-      {
-        "en": "Mullah Nasruddin was invited to a lavish banquet at the mansion of a wealthy nobleman in the city.",
-        "bn": "শহরের এক ধনী জমিদারের বাড়িতে আয়োজিত জমকালো এক রাজকীয় ভোজে মোল্লা নাসিরুদ্দিনকে আমন্ত্রণ জানানো হলো।"
-      },
-      {
-        "en": "Having just finished working in his garden, Nasruddin arrived wearing his ordinary, patched cotton tunic and muddy sandals.",
-        "bn": "বাগানের কাজ শেষ করেই তিনি সোজা সেই বাড়িতে চলে এলেন নিজের পুরনো তালি দেওয়া জামা আর ধুলোমাখা চটি পরে।"
-      },
-      {
-        "en": "The snobbish servants ignored him, guests avoided eye contact, and he was seated in the coldest corner without receiving any food.",
-        "bn": "অহংকারী চাকরেরা তাঁকে পাত্তা দিল না, অতিথিরা মুখ ফিরিয়ে নিল এবং তাঁকে ঘরের এক কোণায় বসিয়ে রাখা হলো যেখানে কোনো খাবার পৌঁছাল না।"
-      },
-      {
-        "en": "Nasruddin quietly excused himself, walked home, washed up, and put on a magnificent fur-trimmed silk robe and gold turban.",
-        "bn": "নাসিরুদ্দিন কাউকে কিছু না বলে বাড়ি ফিরে গেলেন, গোসল করলেন এবং একটি জমকালো পশমি রেশমি জোব্বা ও সোনার পাগড়ি পরে এলেন।"
-      },
-      {
-        "en": "When he returned, the host rushed to greet him at the gate, bowings respectfully and leading him to the head of the banquet table.",
-        "bn": "এবার ফিরতেই স্বয়ং গৃহকর্তা দরজায় এসে তাঁকে মাথা নুয়ে অভিবাদন জানালেন এবং প্রধান অতিথির আসনে বসালেন।"
-      },
-      {
-        "en": "When a steaming bowl of fragrant lamb soup was placed before him, Nasruddin dipped the silk sleeves of his robe directly into the broth.",
-        "bn": "যখন গরম ও সুস্বাদু মাংসের স্যুপ পরিবেশন করা হলো, নাসিরুদ্দিন নিজের জামার রেশমি আস্তিন সোজা বাটির স্যুপের মধ্যে চুবিয়ে দিলেন।"
-      },
-      {
-        "en": "He patted the fur collar and murmured, 'Eat, my fine coat, eat! This hospitality is clearly meant for you, not for me.'",
-        "bn": "তিনি কোটের পশম ছুঁয়ে বললেন, 'খাও, আমার প্রিয় কোট, খাও! এই খাতির-যত্ন তো স্পষ্টতই তোমার জন্য করা হয়েছে, আমার জন্য নয়।'"
-      },
-      {
-        "en": "The shamefaced host apologized deeply, learning never to judge a person's worth by the clothes on their back.",
-        "bn": "লজ্জিত গৃহকর্তা হাত জোড় করে ক্ষমা চাইলেন এবং বুঝলেন যে পোশাক দেখে কখনো মানুষের আসল মর্যাদা বিচার করতে নেই।"
-      }
-    ]
-  },
-  {
-    "id": "wit-nasruddin-smell-sound",
-    "title": "Paying for the Smell of Soup",
-    "titleBn": "স্যুপের সুবাসের দাম মেটানো",
-    "author": "Sufi Wisdom",
-    "level": "Intermediate",
-    "category": "Wit & Wisdom",
-    "coverEmoji": "🪙",
-    "summary": "Nasruddin delivers poetic justice when a stingy restaurant owner charges a beggar for sniffing cooking food.",
-    "summaryBn": "এক কৃপণ রেস্তোরাঁ মালিক খাবারের ঘ্রাণ নেওয়ার অপরাধে ভিখারির কাছে টাকা চাইলে নাসিরুদ্দিন উপযুক্ত বিচার করেছিলেন।",
-    "sentences": [
-      {
-        "en": "A penniless traveler stood outside a fancy restaurant on a cold afternoon, holding a hard crust of dry bread.",
-        "bn": "এক শীতে এক নিঃস্ব পথিক এক নামিদামি রেস্তোরাঁর বাইরে দাঁড়িয়ে হাতে ধরা এক টুকরো শুকনো শক্ত রুটি নিয়ে ভাবছিল।"
-      },
-      {
-        "en": "He held the dry crust over a steaming pot of boiling soup near the kitchen window, letting the fragrant vapor soften his meal.",
-        "bn": "সে জানালার কাছে ফুটতে থাকা সুস্বাদু স্যুপের ধোঁয়ার ওপর রুটিটি ধরল যাতে সুবাস মেখে খাবারটি কিছুটা নরম হয়।"
-      },
-      {
-        "en": "The greedy restaurant owner seized the poor man by the collar, demanding ten silver coins as payment for inhaling his soup's aroma.",
-        "bn": "লোভী রেস্তোরাঁ মালিক তখনই লোকটির কলার চেপে ধরল এবং তাঁর স্যুপের সুবাস নেওয়ার অপরাধে দশটি রৌপ্যমুদ্রা দাবি করল।"
-      },
-      {
-        "en": "The case was brought before Mullah Nasruddin, who was serving as the local village magistrate that day.",
-        "bn": "বিচারটি নিয়ে যাওয়া হলো মোল্লা নাসিরুদ্দিনের আদালতে, যিনি সেদিন এলাকার বিচারকের আসনে বসেছিলেন।"
-      },
-      {
-        "en": "Nasruddin listened solemnly, then asked the poor traveler for his small pouch containing a few copper coins.",
-        "bn": "নাসিরুদ্দিন গম্ভীর হয়ে সব শুনলেন, তারপর সেই গরিব পথিকের কাছ থেকে সামান্য কয়েকটি তামার পয়সাভর্তি থলিটি নিলেন।"
-      },
-      {
-        "en": "Holding the coin pouch right next to the restaurant owner's ear, Nasruddin shook it vigorously so the coins jingled loudly.",
-        "bn": "থলিটি রেস্তোরাঁ মালিকের কানের কাছে নিয়ে গিয়ে নাসিরুদ্দিন জোরে জোরে নাড়াতে লাগলেন যাতে পয়সার টুংটাং শব্দ শোনা যায়।"
-      },
-      {
-        "en": "'Did you hear that lovely sound clearly?' Nasruddin asked the puzzled innkeeper.",
-        "bn": "'তুমি কি পয়সার চমৎকার শব্দ শুনতে পেয়েছ?' অবাক হয়ে থাকা মালিককে নাসিরুদ্দিন জিজ্ঞেস করলেন।"
-      },
-      {
-        "en": "'Yes, magistrate,' replied the innkeeper, to which Nasruddin declared: 'The sound of money is the exact, lawful payment for the smell of food!'",
-        "bn": "'হ্যাঁ হুজুর,' মালিক উত্তর দিতেই নাসিরুদ্দিন রায় দিলেন: 'তাহলে শোনো, খাবারের সুবাসের ন্যায্য মূল্য হলো পয়সার টুংটাং আওয়াজ!'"
-      }
-    ]
-  },
-  {
-    "id": "wit-zen-cup-tea",
-    "title": "A Cup of Tea: Empty Your Mind",
-    "titleBn": "এক কাপ চা: নিজের মন খালি করো",
-    "author": "Zen Parable",
-    "level": "Intermediate",
-    "category": "Wit & Wisdom",
-    "coverEmoji": "🍵",
-    "summary": "A university professor visits a Zen master seeking enlightenment, only to learn that pride blocks all new knowledge.",
-    "summaryBn": "এক অহংকারী অধ্যাপক এক জেন গুরুর কাছে এসে শিখলেন যে নিজের ধারণা দিয়ে মন ভরা থাকলে নতুন জ্ঞান গ্রহণ করা যায় না।",
-    "sentences": [
-      {
-        "en": "A prestigious university professor visited a renowned Zen master named Nan-in to inquire about spiritual enlightenment.",
-        "bn": "এক বিখ্যাত বিশ্ববিদ্যালয়ের অধ্যাপক জেন গুরু নান-ইনের কাছে এসে আত্মিক জ্ঞান ও বোধোদয় সম্পর্কে জানতে চাইলেন।"
-      },
-      {
-        "en": "While the master sat in quiet contemplation, the professor talked continuously, boasting of his own philosophy and publications.",
-        "bn": "গুরু যখন শান্তভাবে বসেছিলেন, সেই অধ্যাপক সমানে কথা বলেই যাচ্ছিলেন এবং নিজের দর্শন ও বইয়ের গর্ব করতে লাগলেন।"
-      },
-      {
-        "en": "Nan-in quietly prepared hot green tea and began pouring it into the professor's porcelain cup.",
-        "bn": "নান-ইন চুপচাপ গরম গ্রিন টি তৈরি করলেন এবং অধ্যাপকের চিনামাটির কাপে চা ঢালতে শুরু করলেন।"
-      },
-      {
-        "en": "The cup filled quickly to the rim, but Nan-in kept pouring, letting boiling tea spill over the saucer and onto the floor.",
-        "bn": "কাপটি কানায় কানায় ভরে গেল, কিন্তু গুরু ঢালা বন্ধ করলেন না; ফুটন্ত চা উপচে পিরিচ ছাপিয়ে মেঝেতে পড়তে লাগল।"
-      },
-      {
-        "en": "The professor watched the overflow until he could no longer restrain himself: 'Stop! It is full! No more will go in!'",
-        "bn": "চা উপচে পড়া দেখে অধ্যাপক আর থাকতে না পেরে চেঁচিয়ে উঠলেন: 'থামুন! কাপ ভরে গেছে! এতে আর এক ফোঁটাও ধরবে না!'"
-      },
-      {
-        "en": "Nan-in stopped pouring, smiled serenely, and said: 'Like this cup, your mind is full of your own opinions, pride, and preconceptions.'",
-        "bn": "নান-ইন কেতলি নামিয়ে শান্ত হাসিতে বললেন: 'এই কাপটির মতোই আপনার মনও আপনার নিজের অহংকার, মতবাদ ও ধারণায় কানায় কানায় পূর্ণ।'"
-      },
-      {
-        "en": "'How can I show you the wisdom of Zen unless you first empty your cup?'",
-        "bn": "'যদি আপনি নিজের কাপটি আগে খালি না করেন, তবে আমি কীভাবে আপনাকে জ্ঞানের নতুন পথ দেখাব?'"
-      },
-      {
-        "en": "True learning requires the humility to let go of our rigid certainties so that deeper wisdom may enter.",
-        "bn": "নতুন জ্ঞান অর্জনের জন্য নিজের একগুঁয়েমি ও অহংকার ঝেড়ে ফেলে মনকে সবসময় উন্মুক্ত রাখতে হয়।"
-      }
-    ]
-  },
-  {
-    "id": "wit-zen-heavy-burden",
-    "title": "Two Monks and the Muddy Maiden",
-    "titleBn": "দুই সন্ন্যাসী এবং কাদায় পড়া তরুণী",
-    "author": "Zen Parable",
-    "level": "Intermediate",
-    "category": "Wit & Wisdom",
-    "coverEmoji": "🌧️",
-    "summary": "One monk carries a person across a muddy puddle; the other monk carries the resentment for miles.",
-    "summaryBn": "এক সন্ন্যাসী কাদায় পড়া নারীকে কোলে তুলে পার করে দিলেন, আর অন্যজন মনে মনে সেই ক্ষোভ বয়ে বেড়ালেন মাইলের পর মাইল।",
-    "sentences": [
-      {
-        "en": "Two Buddhist monks, senior Tanzan and junior Ekido, were walking along a muddy dirt road during a heavy rainstorm.",
-        "bn": "এক তুমুল বৃষ্টির পর কাদাভরা রাস্তা দিয়ে হেঁটে যাচ্ছিলেন দুই বৌদ্ধ সন্ন্যাসী, বয়োজ্যেষ্ঠ তানজান এবং তরুণ একিদো।"
-      },
-      {
-        "en": "Near an intersection, they met a lovely young woman dressed in an exquisite silk kimono, unable to cross a deep muddy puddle without ruining her clothes.",
-        "bn": "এক মোড়ের কাছে এসে তাঁরা দেখলেন সুন্দর রেশমি পোশাক পরা এক তরুণী দাঁড়িয়ে কাঁদছে, কারণ কাদার গভীর জল পার হলে তার দামি জামা নষ্ট হয়ে যাবে।"
-      },
-      {
-        "en": "Without hesitation, Tanzan said cheerfully, 'Come along, young lady,' lifted her in his arms, and carried her across to dry ground.",
-        "bn": "এক মুহূর্ত না ভেবে তানজান হাসিমুখে বললেন, 'এসো মা,' এবং মেয়েটিকে কোলে তুলে কাদা পার করে শুকনো মাটিতে নামিয়ে দিলেন।"
-      },
-      {
-        "en": "Ekido was deeply shocked, as monastic vows strictly forbade touching women under any circumstances.",
-        "bn": "একিদো এতে চরম ধাক্কা খেলেন, কারণ সন্ন্যাসীদের কোনো অবস্থাতেই নারী স্পর্শ করা কঠোরভাবে নিষিদ্ধ ছিল।"
-      },
-      {
-        "en": "For five long hours of walking in the rain, Ekido brooded in gloomy, angry silence.",
-        "bn": "বৃষ্টির মধ্যে পরবর্তী পাঁচ ঘণ্টা হাঁটার পুরোটা সময় একিদো মনে মনে প্রচণ্ড ক্ষোভ ও বিরক্তিতে গুমরে মরতে লাগলেন।"
-      },
-      {
-        "en": "Finally, when they reached their temple at nightfall, Ekido burst out: 'Brother Tanzan, we are monks! How could you carry that beautiful girl in your arms?'",
-        "bn": "অবশেষে রাতে মন্দিরে পৌঁছে একিদো আর থাকতে না পেরে ফেটে পড়লেন: 'ভাই তানজান, আমরা সন্ন্যাসী! আপনি কীভাবে ওই মেয়েটিকে কোলে তুলে নিলেন?'"
-      },
-      {
-        "en": "Tanzan looked at his companion with gentle surprise and laughed: 'I set that girl down five hours ago by the puddle; why are you still carrying her in your mind?'",
-        "bn": "তানজান অবাক হয়ে শান্তভাবে হাসলেন: 'আমি তো সেই মেয়েটিকে পাঁচ ঘণ্টা আগেই কাদার পারে নামিয়ে দিয়ে এসেছি; তুমি এখনো তাকে মনের ভেতর বয়ে নিয়ে বেড়াচ্ছ কেন?'"
-      },
-      {
-        "en": "Right action acts with pure compassion in the moment, without clinging to bitterness or rigid judgment afterward.",
-        "bn": "সঠিক কাজ হলো প্রয়োজনে খাঁটি মনে সাহায্য করা, সেই কাজের অহংকার বা ক্ষোভ মনে পুষে না রাখা।"
-      }
-    ]
-  },
-  {
-    "id": "wit-zen-maybe-so",
-    "title": "The Old Farmer and the Wild Horse: Maybe So",
-    "titleBn": "বৃদ্ধ কৃষক এবং বুনো ঘোড়া: ভালো কি মন্দ?",
-    "author": "Zen Parable",
-    "level": "Intermediate",
-    "category": "Wit & Wisdom",
-    "coverEmoji": "🐎",
-    "summary": "An old frontier farmer reminds his neighbors that no human can judge whether an event is truly fortunate or disastrous.",
-    "summaryBn": "জীবনের ভালো-মন্দ কীভাবে মুহূর্তে উল্টে যেতে পারে তা নিয়ে প্রাচীন এক জেন কৃষকের শান্ত প্রজ্ঞার গল্প।",
-    "sentences": [
-      {
-        "en": "An elderly farmer lived on the wild borderlands with his only son and a single beloved horse.",
-        "bn": "এক প্রত্যন্ত পাহাড়ি সীমান্তে এক বৃদ্ধ কৃষক তাঁর একমাত্র ছেলে এবং একটিমাত্র ঘোড়াকে নিয়ে বাস করতেন।"
-      },
-      {
-        "en": "One day, the horse broke free from its wooden stall and galloped away into the hills.",
-        "bn": "একদিন ঘোড়াটি কাঠের খোঁয়াড় ভেঙে পাহাড়ি বনের দিকে দৌড়ে পালিয়ে গেল।"
-      },
-      {
-        "en": "Neighbors gathered to sympathize, crying, 'What terrible bad luck you have suffered!'",
-        "bn": "প্রতিবেশীরা এসে সান্ত্বনা দিয়ে বলতে লাগল, 'আহ্! তোমার কপালে কী নির্মম দুর্ভাগ্য নেমে এলো!'"
-      },
-      {
-        "en": "The calm farmer shrugged his shoulders and replied simply: 'Good luck, bad luck, who knows? Maybe so.'",
-        "bn": "শান্ত স্বভাবের কৃষক কাঁধ ঝাঁকিয়ে শুধু বললেন: 'ভালো ভাগ্য না মন্দ ভাগ্য, কে জানে? হতেও পারে।'"
-      },
-      {
-        "en": "A week later, the horse returned, leading a herd of seven wild, magnificent stallions back into the corral.",
-        "bn": "এক সপ্তাহ পর সেই ঘোড়াটি ফিরে এলো, সাথে করে নিয়ে এলো সাতটি বুনো ও শক্তিশালী সুন্দর ঘোড়ার এক দল।"
-      },
-      {
-        "en": "The neighbors cheered enthusiastically, 'What incredible good fortune you have!', but the farmer again replied: 'Maybe so.'",
-        "bn": "প্রতিবেশীরা এবার উল্লাস করে বলল, 'তোমার কী দুর্দান্ত সৌভাগ্য!', কিন্তু কৃষক আগের মতোই বললেন: 'হতেও পারে।'"
-      },
-      {
-        "en": "The next day, while attempting to train one of the fierce wild stallions, the farmer's son fell and broke his leg badly.",
-        "bn": "পরদিন সেই বুনো ঘোড়াগুলোর একটিকে বশ মানাতে গিয়ে কৃষকের ছেলে পড়ে গিয়ে মারাত্মকভাবে পা ভেঙে ফেলল।"
-      },
-      {
-        "en": "Soon after, an imperial army marched through drafting every able-bodied young man for a bloody war, sparing only the injured boy.",
-        "bn": "কিছুদিন পরেই রাজকীয় সৈন্যদল এসে যুদ্ধের জন্য সব সুস্থ যুবককে জোর করে তুলে নিয়ে গেল, শুধু সেই পা ভাঙা ছেলেটি প্রাণে বেঁচে গেল।"
-      }
-    ]
-  },
-  {
-    "id": "wit-chanakya-poisoned-thorn",
-    "title": "Chanakya and the Root of the Thorn",
-    "titleBn": "চাণক্য এবং কাঁটার শেকড় উপড়ে ফেলা",
-    "author": "Historical Legend",
-    "level": "Intermediate",
-    "category": "Wit & Wisdom",
-    "coverEmoji": "🌾",
-    "summary": "The great political philosopher teaches that problems must be eradicated at their root rather than patched on the surface.",
-    "summaryBn": "মহান কূটনীতিবিদ চাণক্য শিখিয়েছিলেন যে কোনো বিপদকে কেবল এড়িয়ে না গিয়ে তার মূল থেকে উপড়ে ফেলতে হয়।",
-    "sentences": [
-      {
-        "en": "Chanakya, the brilliant ancient scholar who later guided Chandragupta Maurya to establish a united empire, walked across a rugged field.",
-        "bn": "প্রাচীন ভারতের মহান পণ্ডিত চাণক্য, যিনি পরবর্তীতে চন্দ্রগুপ্ত মৌর্যকে দিয়ে এক বিশাল সাম্রাজ্য গড়ে তুলেছিলেন, একদিন এক রুক্ষ মাঠ দিয়ে হাঁটছিলেন।"
-      },
-      {
-        "en": "A sharp, venomous thorn from a wild bramble pierced deeply through his thin leather sandal into his bare foot.",
-        "bn": "হঠাৎ বুনো ঝোপের এক বিষাক্ত তীক্ষ্ণ কাঁটা তাঁর পাতলা চটি ভেদ করে পায়ের তলায় গভীরভাবে ফুটে গেল।"
-      },
-      {
-        "en": "Instead of limping along or cursing in vain, Chanakya sat down and patiently extracted the bloody thorn.",
-        "bn": "ব্যথায় চেঁচামেচি না করে চাণক্য শান্তভাবে বসে পা থেকে সেই রক্তাক্ত কাঁটাটি টেনে বের করলেন।"
-      },
-      {
-        "en": "He borrowed an axe, dug up the bush from its deepest roots, burned the branches, and poured sour buttermilk over the scorched soil.",
-        "bn": "এরপর তিনি কুড়াল এনে কাঁটাগাছটি শেকড়সহ উপড়ে ফেললেন, ডালাপালা পুড়িয়ে দিলেন এবং পোড়া মাটিতে টক ঘোল ঢেলে দিলেন।"
-      },
-      {
-        "en": "A passing traveler watched in bewilderment and asked why he had gone to such extreme lengths over an ordinary weed.",
-        "bn": "পথচলতি এক পথিক অবাক হয়ে দাঁড়িয়ে জিজ্ঞেস করল একটি সামান্য আগাছার জন্য তিনি কেন এত কাঠখড় পোড়ালেন।"
-      },
-      {
-        "en": "Chanakya looked up and explained: 'If you merely cut the top of a thorny bush, it grows back thicker to prick other travelers tomorrow.'",
-        "bn": "চাণক্য তাকিয়ে বললেন: 'যদি তুমি কেবল ওপরের ডাল কেটে দাও, তবে তা আরও শক্ত হয়ে গজাবে এবং কাল অন্য কারও পায়ে ফুটবে।'"
-      },
-      {
-        "en": "'By destroying its roots completely and souring the ground, I ensure this menace can never hurt another living soul.'",
-        "bn": "'শেকড়সুদ্ধ উপড়ে মাটিতে টক ঢেলে দিলে সেখানে আর কোনোদিন কাঁটাগাছ জন্মাবে না এবং কেউ বিপদে পড়বে না।'"
-      },
-      {
-        "en": "True solutions address the root causes of our challenges rather than merely suppressing the outer symptoms.",
-        "bn": "প্রকৃত সমাধান হলো সমস্যার বাহ্যিক লক্ষণ না দেখে তার গভীরে থাকা মূল কারণকে চিরতরে নির্মূল করা।"
-      }
-    ]
-  },
-  {
-    "id": "wit-zen-thief-moon",
-    "title": "Ryokan and the Stolen Moon",
-    "titleBn": "সন্ন্যাসী রিয়োকান এবং চুরি হওয়া চাঁদের আলো",
-    "author": "Zen Parable",
-    "level": "Intermediate",
-    "category": "Wit & Wisdom",
-    "coverEmoji": "🌙",
-    "summary": "A peaceful hermit catches a thief in his empty hut and gifts him his only cloak with pure warmth.",
-    "summaryBn": "কুটিরে চোর ঢুকতে দেখে এক নিঃস্ব জেন সন্ন্যাসী নিজের শেষ সম্বল চাদরটি উপহার দিয়ে চোরকে এক গভীর পাঠ শিখিয়েছিলেন।",
-    "sentences": [
-      {
-        "en": "Ryokan, a gentle Zen hermit poet, lived in a tiny thatched hut at the foot of a quiet mountain in Japan.",
-        "bn": "জাপানের এক শান্ত পাহাড়ের কোলে ছোট এক খড়ের কুটিরে বাস করতেন বিনম্র জেন সন্ন্যাসী ও কবি রিয়োকান।"
-      },
-      {
-        "en": "He owned nothing of monetary value, sleeping on a straw mat and eating boiled wild herbs from a wooden bowl.",
-        "bn": "তাঁর কাছে কোনো মূল্যবান পার্থিব ধন ছিল না; খড়ের চাটাইয়ে ঘুমাতেন এবং কাঠের বাটিতে বুনো পাতা সেদ্ধ করে খেতেন।"
-      },
-      {
-        "en": "One night, while Ryokan was out walking beneath the pines, a thief slipped into the humble hut looking for treasure.",
-        "bn": "এক রাতে রিয়োকান যখন পাইন বনের নিচে হাঁটছিলেন, এক চোর কিছু চুরির আশায় সেই কুটিরে গোপনে ঢুকল।"
-      },
-      {
-        "en": "The thief searched every corner, turning over mats, but found absolutely nothing worth taking.",
-        "bn": "চোর ঘরের প্রতিটি কোণ তন্নতন্ন করে খুঁজল, চাটাই ওল্টাল, কিন্তু নেওয়ার মতো কিছুই পেল না।"
-      },
-      {
-        "en": "Just as the disappointed thief prepared to slip away empty-handed, Ryokan returned and caught him by surprise.",
-        "bn": "হতাশ হয়ে চোর যখন খালি হাতে পালিয়ে যেতে চাইল, তখনই রিয়োকান ঘরে ফিরে এলেন এবং চোরকে মুখোমুখি দেখে ফেললেন।"
-      },
-      {
-        "en": "Instead of shouting for help or striking him, Ryokan bowed respectfully and said: 'You have come a long way to visit me; you must not leave empty-handed.'",
-        "bn": "চেঁচামেচি না করে রিয়োকান অত্যন্ত শ্রদ্ধার সাথে মাথা নত করে বললেন: 'তুমি কষ্ট করে অনেক দূর থেকে আমার সাথে দেখা করতে এসেছ; তোমাকে খালি হাতে ফিরতে দেওয়া যায় না।'"
-      },
-      {
-        "en": "Ryokan stripped off his own coarse wool robe, pressed it into the trembling thief's hands, and gently sent him on his way.",
-        "bn": "রিয়োকান নিজের গায়ের একমাত্র পশমি চাদরটি খুলে কাঁপতে থাকা চোরের হাতে তুলে দিলেন এবং মিষ্টি হাসিমুখে তাকে বিদায় জানালেন।"
-      },
-      {
-        "en": "Sitting naked by his open window, Ryokan looked up at the glowing night sky and whispered: 'Poor fellow; I wish I could have given him this beautiful moon.'",
-        "bn": "উন্মুক্ত জানালার পাশে বসে আকাশের দিকে তাকিয়ে রিয়োকান ফিসফিস করে বললেন: 'আহা বেচারা! আমার যদি সাধ্য থাকত, তবে আকাশের এই অপূর্ব সুন্দর চাঁদটাও আমি তাকে উপহার দিতাম!'"
-      }
-    ]
-  },
-  {
-    "id": "wit-persian-three-fishes",
-    "title": "The Three Fishes of the Mountain Lake",
-    "titleBn": "পাহাড়ি হ্রদের তিন মাছের গল্প",
-    "author": "Persian Wisdom",
-    "level": "Intermediate",
-    "category": "Wit & Wisdom",
-    "coverEmoji": "🐟",
-    "summary": "Three fishes face an approaching net: the wise acts early, the clever thinks fast, and the lazy perishes.",
-    "summaryBn": "জেলেদের জালের মুখে তিন মাছের ভাগ্য: যে দূরদর্শী সে আগেই বাঁচল, যে চতুর সে উপস্থিত বুদ্ধিতে রক্ষা পেল, আর অলস প্রাণ হারাল।",
-    "sentences": [
-      {
-        "en": "In a secluded mountain lake, three large fishes lived together in peace: one was wise, the second was clever, and the third was foolish and lazy.",
-        "bn": "এক পাহাড়ি হ্রদে তিনটি বড় মাছ শান্তিতে বাস করত: প্রথমটি ছিল দূরদর্শী ও জ্ঞানী, দ্বিতীয়টি ছিল উপস্থিত বুদ্ধিমান, আর তৃতীয়টি ছিল অলস ও নির্বোধ।"
-      },
-      {
-        "en": "One evening, two fishermen with heavy hemp nets walked along the bank, discussing returning at dawn to drain the pool and catch every fish.",
-        "bn": "এক সন্ধ্যায় ভারী জাল নিয়ে দুই জেলে হ্রদের পাড় দিয়ে হেঁটে যাওয়ার সময় কথা বলল যে পরদিন সকালে তারা সব পানি সেচে মাছ ধরবে।"
-      },
-      {
-        "en": "Overhearing the threat, the wise fish did not hesitate; it swam through a narrow outlet connecting to the vast river and escaped to safety that very night.",
-        "bn": "বিপদের কথা শুনেই দূরদর্শী মাছটি এক মুহূর্তও দেরি না করে নদীর সাথে যুক্ত সরু নালা দিয়ে সাঁতরে সেই রাতেই গভীর নিরাপদ পানিতে চলে গেল।"
-      },
-      {
-        "en": "The second clever fish waited until morning, but when the fishermen dammed the stream, it floated belly-up on the surface, pretending to be dead.",
-        "bn": "দ্বিতীয় চতুর মাছটি সকাল হওয়া পর্যন্ত অপেক্ষা করল, কিন্তু যখন জেলেরা বাঁধ দিল তখন সে পেটের ওপর ভেসে মড়ার মতো ভান করে রইল।"
-      },
-      {
-        "en": "Believing it was already spoiled and rotten, the fishermen picked it up and carelessly tossed it into the open river behind them.",
-        "bn": "মাছটি পচে গেছে ভেবে জেলেরা সেটিকে হাত দিয়ে তুলে অবহেলায় পেছনের বড় নদীতে ছুড়ে ফেলে দিল, আর সে সাঁতরে বেঁচে গেল।"
-      },
-      {
-        "en": "The third foolish fish swam frantically in circles, panicked, and made no effort to think until it was trapped tightly in the dragnet.",
-        "bn": "তৃতীয় অলস মাছটি ভয়ে ছোটাছুটি করতে লাগল, কোনো বুদ্ধি খাটাল না এবং শেষ পর্যন্ত জালের ফাঁদে আটকা পড়ে প্রাণ হারাল।"
-      },
-      {
-        "en": "Forethought prevents disaster, quick wit escapes sudden traps, but foolish procrastination leads to inevitable ruin.",
-        "bn": "আগাম সতর্কতা বিপদ এড়ায়, উপস্থিত বুদ্ধি আকস্মিক ফাঁদ থেকে বাঁচায়, কিন্তু গড়িমসি আর অলসতা মানুষকে ধ্বংসের মুখে ফেলে।"
-      },
-      {
-        "en": "He who foresees approaching trouble acts before the doors of opportunity are sealed shut forever.",
-        "bn": "যে ব্যক্তি আসন্ন বিপদ আগে থেকেই দেখতে পায়, সে সুযোগের দরজা বন্ধ হওয়ার আগেই উপযুক্ত পদক্ষেপ গ্রহণ করে।"
-      }
-    ]
-  },
-  {
-    "id": "wit-pancha-clever-carpenter",
-    "title": "The Clever Carpenter and the Greedy Monkey",
-    "titleBn": "কাঠুরে ও লোভী বানরের পরিণতি",
-    "author": "Panchatantra",
-    "level": "Intermediate",
-    "category": "Wit & Wisdom",
-    "coverEmoji": "🪵",
-    "summary": "A curious monkey meddles in a carpenter's timber wedge and learns a painful lesson about minding one's business.",
-    "summaryBn": "অন্যের কাজে অযথা নাক গলাতে গিয়ে এক কৌতূহলী বানর কীভাবে এক কঠিন ও যন্ত্রণাদায়ক শাস্তির মুখে পড়েছিল।",
-    "sentences": [
-      {
-        "en": "A skilled carpenter was building a temple outside the village, sawing a massive timber log in half down the center.",
-        "bn": "এক দক্ষ কাঠমিস্ত্রি গ্রামের বাইরে একটি মন্দিরের কাজ করছিলেন এবং তিনি একটি বিশাল কাঠের গুঁড়ি মাঝখান দিয়ে চিরে দুই ভাগ করছিলেন।"
-      },
-      {
-        "en": "To keep the split open while he went home for lunch, he drove a sturdy wooden wedge firmly into the cleft.",
-        "bn": "দুপুরে খেতে যাওয়ার সময় চেরা অংশটি যাতে আটকে না যায়, সেজন্য তিনি কাঠের ফাঁকের ভেতর শক্ত একটি গোঁজ গুঁজে রেখে গেলেন।"
-      },
-      {
-        "en": "A band of mischievous monkeys living in the surrounding trees swung down to explore the unfinished timber workshop.",
-        "bn": "আশেপাশের গাছের একদল দুরন্ত বানর তখন লাফিয়ে নেমে এসে কাঠমিস্ত্রির ফেলে যাওয়া জিনিসপত্র নিয়ে ঘাঁটাঘাঁটি শুরু করল।"
-      },
-      {
-        "en": "One overly curious monkey climbed atop the split log and sat down right over the cleft, with its tail dangling inside the opening.",
-        "bn": "একটি অতি কৌতূহলী বানর চেরা গুঁড়ির ওপরে গিয়ে বসল এবং অসাবধানতাবশত তার লেজটি কাঠের ফাঁকের মধ্যে ঝুলিয়ে দিল।"
-      },
-      {
-        "en": "Curious to see what held the heavy timber apart, the monkey grasped the wooden wedge and began yanking it with both hands.",
-        "bn": "কীসের কারণে কাঠটি ফাঁক হয়ে আছে তা দেখতে বানরটি কাঠের গোঁজটি দুই হাতে ধরে জোরে জোরে টানতে লাগল।"
-      },
-      {
-        "en": "With a sudden squeak, the wedge flew out of the cleft, and the massive log snapped shut with thunderous force.",
-        "bn": "হঠাৎ হ্যাঁচকা টানে গোঁজটি খুলে এলো এবং বিশাল কাঠের গুঁড়িটি বিকট শব্দে একসাথে বন্ধ হয়ে গেল।"
-      },
-      {
-        "en": "The monkey's tail was trapped tight as a vise in the crushed wood, leaving it howling in agony until the carpenter returned.",
-        "bn": "কাঠের ফাঁকে বানরটির লেজ এমন শক্তভাবে আটকে গেল যে কাঠুরে ফিরে না আসা পর্যন্ত সে যন্ত্রণায় চিৎকার করতে লাগল।"
-      },
-      {
-        "en": "Meddling in matters that are not your business always brings unexpected peril and self-inflicted sorrow.",
-        "bn": "যে বিষয়ে নিজের কোনো জ্ঞান বা কাজ নেই, সেখানে অযথা নাক গলাতে গেলে অনিবার্য বিপদ ও দুঃখ ডেকে আনতে হয়।"
+        "en": "During a routine inspection of his airborne scout birds, Sulaiman noticed the absence of the loyal hoopoe (Hudhud).",
+        "bn": "পাখিদের সেনাবহর পরিদর্শনের সময় হযরত সুলাইমান (আ.) লক্ষ্য করলেন বিশ্বস্ত হুদহুদ পাখিটি উপস্থিত নেই।",
+        "words": [
+          {
+            "en": "During a routine inspection",
+            "bn": "নিয়মিত পরিদর্শনের সময়"
+          },
+          {
+            "en": "of scout birds",
+            "bn": "সন্ধানী পাখিদের"
+          },
+          {
+            "en": "Sulaiman noticed the absence",
+            "bn": "সুলাইমান অনুপস্থিতি দেখলেন"
+          },
+          {
+            "en": "of the loyal hoopoe",
+            "bn": "বিশ্বস্ত হুদহুদ পাখির"
+          }
+        ]
+      },
+      {
+        "en": "Soon the bird arrived out of breath with astonishing news: 'I have encompassed that which you have not encompassed, bringing certain news from Sheba in Yemen!'",
+        "bn": "কিছুক্ষণ পর হুদহুদ পাখি দ্রুত উড়ে এসে হাঁপাতে হাঁপাতে বলল: 'আমি এমন এক তথ্য নিয়ে এসেছি যা আপনি জানেন না; আমি ইয়েমেনের সাবা রাজ্য থেকে নিশ্চিত খবর এনেছি!'",
+        "words": [
+          {
+            "en": "Soon the bird arrived",
+            "bn": "শীঘ্রই পাখিটি পৌঁছাল"
+          },
+          {
+            "en": "with astonishing news",
+            "bn": "বিস্ময়কর সংবাদ নিয়ে"
+          },
+          {
+            "en": "I bring certain news",
+            "bn": "আমি অকাট্য খবর এনেছি"
+          },
+          {
+            "en": "from Sheba in Yemen",
+            "bn": "ইয়েমেনের সাবা রাজ্য থেকে"
+          }
+        ]
+      },
+      {
+        "en": "The bird reported that a magnificent queen ruled over them with a glorious throne, but she and her people prostrated to the sun instead of Allah.",
+        "bn": "পাখিটি জানাল এক মহীয়সী রাণী তাদের শাসন করে যার এক সুবিশাল রাজসিংহাসন রয়েছে, কিন্তু তারা আল্লাহর বদলে সূর্যের পূজা করে।",
+        "words": [
+          {
+            "en": "The bird reported",
+            "bn": "পাখিটি জানাল"
+          },
+          {
+            "en": "that a queen ruled over them",
+            "bn": "যে এক রাণী তাদের শাসন করে"
+          },
+          {
+            "en": "with a glorious throne",
+            "bn": "এক সুবিশাল সিংহাসন সহ"
+          },
+          {
+            "en": "prostrating to the sun",
+            "bn": "সূর্যের সিজদা করে"
+          },
+          {
+            "en": "instead of Allah",
+            "bn": "আল্লাহর পরিবর্তে"
+          }
+        ]
+      },
+      {
+        "en": "Sulaiman dispatched the hoopoe with a royal missive: 'In the Name of Allah, the Most Compassionate, the Most Merciful; be not haughty against me, but come to me in submission.'",
+        "bn": "সুলাইমান হুদহুদের মাধ্যমে এক পত্র পাঠালেন: 'পরম করুণাময় দয়ালু আল্লাহর নামে; আমার বিরুদ্ধে অহংকার কোরো না, বরং অনুগত হয়ে আত্মসমর্পণ করে আমার কাছে এসো।'",
+        "words": [
+          {
+            "en": "Sulaiman dispatched the bird",
+            "bn": "সুলাইমান পাখিটিকে পাঠালেন"
+          },
+          {
+            "en": "with a royal missive",
+            "bn": "এক রাজকীয় চিঠি সহ"
+          },
+          {
+            "en": "In the Name of Allah",
+            "bn": "আল্লাহর নামে"
+          },
+          {
+            "en": "the Most Compassionate",
+            "bn": "পরম করুণাময়"
+          },
+          {
+            "en": "be not haughty against me",
+            "bn": "আমার বিরুদ্ধে অহংকার কোরো না"
+          },
+          {
+            "en": "but come to me in submission",
+            "bn": "বরং আত্মসমর্পণ করে আমার কাছে এসো"
+          }
+        ]
+      },
+      {
+        "en": "Queen Bilqis consulted her generals and decided to send extravagant golden gifts to test whether Sulaiman was a worldly conqueror or a true prophet.",
+        "bn": "রাণী বিলকিস তাঁর মন্ত্রীদের সাথে পরামর্শ করে সুলাইমানের কাছে বহু মূল্যবান স্বর্ণালংকার উপহার পাঠালেন, তিনি নিছক রাজা নাকি আল্লাহর নবী তা পরীক্ষা করতে।",
+        "words": [
+          {
+            "en": "Queen Bilqis consulted her generals",
+            "bn": "রাণী বিলকিস মন্ত্রীদের পরামর্শ নিলেন"
+          },
+          {
+            "en": "sending extravagant gifts",
+            "bn": "বিপুল উপহারসামগ্রী পাঠিয়ে"
+          },
+          {
+            "en": "to test whether Sulaiman",
+            "bn": "সুলাইমানকে পরীক্ষা করতে"
+          },
+          {
+            "en": "was a true prophet",
+            "bn": "তিনি এক সত্য নবী কি না"
+          }
+        ]
+      },
+      {
+        "en": "Sulaiman rejected the gold with noble disdain: 'Do you provide me with wealth, when that which Allah has given me is far superior to what He gave you?'",
+        "bn": "সুলাইমান সেই পার্থিব উপহার ফিরিয়ে দিয়ে বললেন: 'তোমরা কি ধনসম্পদ দিয়ে আমাকে প্রলুব্ধ করতে চাও? আল্লাহ আমাকে যা দিয়েছেন তা তোমাদের সমস্ত সম্পদের চেয়ে বহুগুণ শ্রেষ্ঠ!'",
+        "words": [
+          {
+            "en": "Sulaiman rejected the gold",
+            "bn": "সুলাইমান স্বর্ণের উপহার প্রত্যাখ্যান করলেন"
+          },
+          {
+            "en": "with noble disdain",
+            "bn": "মর্যাদাপূর্ণ আত্মসম্মানে"
+          },
+          {
+            "en": "Do you provide me with wealth",
+            "bn": "তোমরা কি আমাকে সম্পদ দিয়ে সাহায্য করছ"
+          },
+          {
+            "en": "when what Allah gave me",
+            "bn": "যেখানে আল্লাহ আমাকে যা দিয়েছেন"
+          },
+          {
+            "en": "is far superior",
+            "bn": "তা বহুগুণ শ্রেষ্ঠ"
+          }
+        ]
+      },
+      {
+        "en": "Before the Queen's caravan arrived, a knowledgeable scholar blessed with scripture said: 'I will bring her throne to you in the blink of an eye!'",
+        "bn": "রাণীর কাফেলা পৌঁছানোর আগেই ঐশী কিতাবের গভীর জ্ঞানের অধিকারী এক মহামনীষী বললেন: 'আপনার চোখের পলক ফেলার আগেই আমি তাঁর সিংহাসন আপনার সামনে এনে দেব!'",
+        "words": [
+          {
+            "en": "Before the caravan arrived",
+            "bn": "কাফেলা পৌঁছানোর পূর্বেই"
+          },
+          {
+            "en": "a knowledgeable scholar said",
+            "bn": "এক প্রজ্ঞাবান জ্ঞানী ব্যক্তি বললেন"
+          },
+          {
+            "en": "I will bring her throne",
+            "bn": "আমি তাঁর সিংহাসন এনে দেব"
+          },
+          {
+            "en": "in the blink of an eye",
+            "bn": "চোখের পলক ফেলার মধ্যে"
+          }
+        ]
+      },
+      {
+        "en": "Instantly the throne materialized before Sulaiman, who said: 'This is from the grace of my Lord, to test whether I am grateful or ungrateful.'",
+        "bn": "মুহূর্তেই সিংহাসনটি সুলাইমানের সামনে হাজির হলো, আর তিনি বললেন: 'এ আমার প্রতিপালকের বিশেষ অনুগ্রহ, তিনি আমাকে পরীক্ষা করছেন আমি শোকর করি নাকি অকৃতজ্ঞ হই।'",
+        "words": [
+          {
+            "en": "Instantly the throne materialized",
+            "bn": "সাথে সাথে সিংহাসনটি দৃশ্যমান হলো"
+          },
+          {
+            "en": "This is from the grace of my Lord",
+            "bn": "এ আমার রবের অনুগ্রহ"
+          },
+          {
+            "en": "to test whether I am grateful",
+            "bn": "পরীক্ষা করতে আমি কৃতজ্ঞ কি না"
+          },
+          {
+            "en": "or ungrateful",
+            "bn": "নাকি অকৃতজ্ঞ"
+          }
+        ]
+      },
+      {
+        "en": "When Bilqis arrived and entered his palace paved with transparent crystal over flowing water, she mistook it for a deep pool and lifted her hem.",
+        "bn": "বিলকিস যখন এসে কাঁচের তৈরি স্বচ্ছ মেঝেতে পা রাখলেন যার নিচে জলধারা বইছিল, তিনি গভীর পানির পুকুর মনে করে নিজের কাপড় উঠিয়ে ফেললেন।",
+        "words": [
+          {
+            "en": "When Bilqis arrived",
+            "bn": "বিলকিস যখন পৌঁছালেন"
+          },
+          {
+            "en": "palace paved with crystal",
+            "bn": "স্বচ্ছ কাঁচের রাজপ্রাসাদ"
+          },
+          {
+            "en": "over flowing water",
+            "bn": "বহমান পানির ওপর"
+          },
+          {
+            "en": "she mistook it for a deep pool",
+            "bn": "তিনি একে গভীর জলাশয় ভেবে ভুল করলেন"
+          },
+          {
+            "en": "and lifted her hem",
+            "bn": "এবং তাঁর কাপড়ের কিনারা তুললেন"
+          }
+        ]
+      },
+      {
+        "en": "Overwhelmed by this sublime wisdom, Queen Bilqis surrendered her heart: 'My Lord! Indeed, I have wronged myself, and I submit with Solomon to Allah, the Lord of all worlds!'",
+        "bn": "এই প্রজ্ঞা দেখে রাণী বিলকিস ঈমান আনলেন: 'হে আমার প্রতিপালক! আমি নিজের ওপর জুলুম করেছিলাম; আজ আমি সুলাইমানের সাথে নিখিল জাহানের রব আল্লাহর কাছে আত্মসমর্পণ করলাম!'",
+        "words": [
+          {
+            "en": "Queen Bilqis surrendered",
+            "bn": "রাণী বিলকিস সমর্পণ করলেন"
+          },
+          {
+            "en": "My Lord I wronged myself",
+            "bn": "হে আমার রব আমি নিজের ওপর জুলুম করেছি"
+          },
+          {
+            "en": "and I submit with Solomon",
+            "bn": "এবং আমি সুলাইমানের সাথে আত্মসমর্পণ করলাম"
+          },
+          {
+            "en": "to Allah",
+            "bn": "আল্লাহর নিকট"
+          },
+          {
+            "en": "the Lord of all worlds",
+            "bn": "বিশ্বজাহানের পালনকর্তা"
+          }
+        ]
       }
     ]
   }

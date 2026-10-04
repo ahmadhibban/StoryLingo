@@ -5,3 +5,4 @@ gen/
 *.unsigned.apk
 __pycache__/
 *.pyc
+assets/legacy_short_fables/

@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
-  <title>StoryLingo - 1000 Bilingual English Stories</title>
+  <title>StoryLingo - 100 Grand Bilingual Islamic Stories</title>
   <link rel="manifest" href="manifest.json">
   <meta name="author" content="Ahmad Hibban">
   <meta name="theme-color" content="#4f46e5">
@@ -151,14 +151,14 @@
           <span>All Stories</span>
         </button>
         <div id="headerCatalogLabel" class="flex items-center space-x-2">
-          <span class="text-sm font-bold tracking-wide text-white">English Stories</span>
+          <span class="text-sm font-bold tracking-wide text-white">100 Islamic Stories</span>
         </div>
       </div>
 
       <!-- Right: Story count in library -->
       <div>
         <span id="catalogCountBadge" class="text-xs font-semibold px-2.5 py-0.5 rounded-full bg-slate-900 text-indigo-400 border border-slate-800">
-          60 Stories
+          100 Stories
         </span>
       </div>
 
@@ -169,7 +169,28 @@
   <main class="flex-1 max-w-3xl w-full mx-auto p-4 pb-28">
 
     <!-- VIEW 1: STORY CATALOG -->
-    <section id="viewCatalog" class="space-y-3.5">
+    <section id="viewCatalog" class="space-y-4">
+      
+      <!-- Search & Category Filter Pills -->
+      <div class="space-y-2.5">
+        <!-- Search Input -->
+        <div class="relative">
+          <input id="searchInput" type="text" oninput="app.onSearch(this.value)" placeholder="Search stories by English or বাংলা..." class="w-full pl-9 pr-4 py-2.5 bg-slate-900/80 border border-slate-800 rounded-xl text-sm text-slate-200 placeholder-slate-500 focus:outline-none focus:border-indigo-500 transition-colors">
+          <svg class="w-4 h-4 text-slate-500 absolute left-3 top-3.5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z"></path>
+          </svg>
+        </div>
+
+        <!-- Filter Pills Bar -->
+        <div class="flex items-center gap-1.5 overflow-x-auto pb-1 text-xs font-semibold">
+          <button onclick="app.setCategory('All')" id="pill-All" class="cat-pill shrink-0 px-3 py-1.5 rounded-xl bg-indigo-600 text-white border border-indigo-500/50 shadow-sm transition-all">All (100)</button>
+          <button onclick="app.setCategory('Stories of the Prophets')" id="pill-Prophets" class="cat-pill shrink-0 px-3 py-1.5 rounded-xl bg-slate-900 text-slate-400 hover:text-slate-200 border border-slate-800 transition-all">Prophets (35)</button>
+          <button onclick="app.setCategory('Noble Companions')" id="pill-Companions" class="cat-pill shrink-0 px-3 py-1.5 rounded-xl bg-slate-900 text-slate-400 hover:text-slate-200 border border-slate-800 transition-all">Companions (30)</button>
+          <button onclick="app.setCategory('Quranic Chronicles')" id="pill-Quranic" class="cat-pill shrink-0 px-3 py-1.5 rounded-xl bg-slate-900 text-slate-400 hover:text-slate-200 border border-slate-800 transition-all">Quranic & Hadith (20)</button>
+          <button onclick="app.setCategory('Islamic Golden Age')" id="pill-GoldenAge" class="cat-pill shrink-0 px-3 py-1.5 rounded-xl bg-slate-900 text-slate-400 hover:text-slate-200 border border-slate-800 transition-all">Golden Age (15)</button>
+        </div>
+      </div>
+
       <div id="storiesList" class="grid grid-cols-1 md:grid-cols-2 gap-3.5">
         <!-- Dynamically populated -->
       </div>
@@ -278,6 +299,8 @@
         this.clickedWordEl = null;
         this.catalogPage = 1;
         this.catalogPageSize = 24;
+        this.activeCategory = 'All';
+        this.searchQuery = '';
 
         this.init();
       }
@@ -312,12 +335,13 @@
           }
         });
 
-        // Progressive smooth scrolling for large libraries (1000+ stories)
+        // Progressive smooth scrolling for large libraries
         window.addEventListener('scroll', () => {
           const catalog = document.getElementById('viewCatalog');
           if (catalog && !catalog.classList.contains('hidden')) {
             if ((window.innerHeight + window.scrollY) >= document.body.offsetHeight - 600) {
-              if (typeof STORIES_DATA !== 'undefined' && (this.catalogPage * this.catalogPageSize) < STORIES_DATA.length) {
+              const filtered = this.getFilteredStories();
+              if ((this.catalogPage * this.catalogPageSize) < filtered.length) {
                 this.catalogPage++;
                 this.renderCatalog(false);
               }
@@ -326,13 +350,52 @@
         });
       }
 
+      onSearch(val) {
+        this.searchQuery = (val || '').toLowerCase().trim();
+        this.renderCatalog(true);
+      }
+
+      setCategory(cat) {
+        this.activeCategory = cat;
+        document.querySelectorAll('.cat-pill').forEach(btn => {
+          btn.className = 'cat-pill shrink-0 px-3 py-1.5 rounded-xl bg-slate-900 text-slate-400 hover:text-slate-200 border border-slate-800 transition-all';
+        });
+        const idMap = {
+          'All': 'pill-All',
+          'Stories of the Prophets': 'pill-Prophets',
+          'Noble Companions': 'pill-Companions',
+          'Quranic Chronicles': 'pill-Quranic',
+          'Islamic Golden Age': 'pill-GoldenAge'
+        };
+        const activeBtn = document.getElementById(idMap[cat]);
+        if (activeBtn) {
+          activeBtn.className = 'cat-pill shrink-0 px-3 py-1.5 rounded-xl bg-indigo-600 text-white border border-indigo-500/50 shadow-sm transition-all';
+        }
+        this.renderCatalog(true);
+      }
+
+      getFilteredStories() {
+        if (typeof STORIES_DATA === 'undefined') return [];
+        return STORIES_DATA.filter(story => {
+          const matchCat = this.activeCategory === 'All' || story.category === this.activeCategory;
+          if (!matchCat) return false;
+          if (!this.searchQuery) return true;
+          const q = this.searchQuery;
+          const matchEn = (story.title || '').toLowerCase().includes(q) || (story.summary || '').toLowerCase().includes(q);
+          const matchBn = (story.titleBn || '').toLowerCase().includes(q) || (story.summaryBn || '').toLowerCase().includes(q);
+          return matchEn || matchBn;
+        });
+      }
+
       renderCatalog(reset = true) {
         const list = document.getElementById('storiesList');
         if (!list) return;
 
+        const filtered = this.getFilteredStories();
+
         const countBadge = document.getElementById('catalogCountBadge');
-        if (countBadge && typeof STORIES_DATA !== 'undefined') {
-          countBadge.innerText = `${STORIES_DATA.length} Stories`;
+        if (countBadge) {
+          countBadge.innerText = `${filtered.length} Stories`;
         }
 
         if (reset) {
@@ -341,27 +404,40 @@
           list.innerHTML = '';
         }
 
-        if (typeof STORIES_DATA === 'undefined') return;
+        if (filtered.length === 0) {
+          list.innerHTML = `
+            <div class="col-span-full py-12 text-center text-slate-500 space-y-2">
+              <span class="text-3xl">🔍</span>
+              <p class="text-sm">No stories found matching your search</p>
+            </div>
+          `;
+          return;
+        }
 
         const startIndex = (this.catalogPage - 1) * this.catalogPageSize;
-        const pageItems = STORIES_DATA.slice(startIndex, startIndex + this.catalogPageSize);
+        const pageItems = filtered.slice(startIndex, startIndex + this.catalogPageSize);
 
         const html = pageItems.map(story => `
           <div onclick="app.openStory('${story.id}')" class="group cursor-pointer p-4 rounded-2xl bg-slate-900/60 hover:bg-slate-900 border border-slate-800/80 hover:border-indigo-500/40 transition-all duration-200 shadow-md hover:shadow-indigo-500/10 flex flex-col justify-between">
             <div>
               <div class="flex items-start justify-between mb-2">
                 <span class="text-3xl">${story.coverEmoji || '📖'}</span>
-                <span class="px-2 py-0.5 rounded-md text-[11px] font-medium bg-slate-800/80 text-slate-300">
-                  ${story.sentences.length} sentences
-                </span>
+                <div class="flex items-center gap-1.5">
+                  <span class="px-2 py-0.5 rounded-md text-[10px] font-semibold bg-indigo-950/80 text-indigo-300 border border-indigo-800/60">
+                    ${story.category || 'Islamic Story'}
+                  </span>
+                  <span class="px-2 py-0.5 rounded-md text-[10px] font-medium bg-slate-800/80 text-slate-300">
+                    ${story.sentences.length} sentences
+                  </span>
+                </div>
               </div>
               <h4 class="text-base font-bold text-white group-hover:text-indigo-300 transition-colors">${story.title}</h4>
               <p class="text-base md:text-lg font-bold text-indigo-300 font-bn mb-1.5 tracking-wide">${story.titleBn || ''}</p>
-              <p class="text-xs md:text-sm text-slate-300 line-clamp-2 leading-relaxed">${story.summary || (story.sentences[0] ? story.sentences[0].en : '')}</p>
+              <p class="text-xs md:text-sm text-slate-300 line-clamp-2 leading-relaxed">${story.summaryBn || story.summary || (story.sentences[0] ? story.sentences[0].bn : '')}</p>
             </div>
             <div class="flex items-center justify-between mt-3 pt-2.5 border-t border-slate-800/60 text-[11px] text-slate-500">
-              <span>${story.author || 'StoryLingo'}</span>
-              <span class="text-indigo-400 font-semibold">Read Story</span>
+              <span class="truncate max-w-[200px]">${story.author || 'Authentic Islamic Tradition'}</span>
+              <span class="text-indigo-400 font-semibold shrink-0">Read Story</span>
             </div>
           </div>
         `).join('');
@@ -459,6 +535,26 @@
                   <p id="bn-trans-${idx}" class="text-base md:text-lg font-semibold font-bn text-emerald-300/90 leading-relaxed tracking-wide pt-1 transition-all duration-300 ${isStudyMode ? 'blur-sm select-none hover:blur-none' : ''}" onclick="${isStudyMode ? `event.stopPropagation(); app.revealTranslation(${idx})` : ''}">
                     ${item.bn}
                   </p>
+                  ` : ''}
+
+                  <!-- Word-by-Word Meaning (ভাবার্থের নীচে ওয়ার্ড বাই ওয়ার্ড অর্থ) -->
+                  ${item.words && item.words.length ? `
+                  <div class="mt-3 pt-2.5 border-t border-slate-800/80">
+                    <div class="flex items-center gap-1.5 mb-2">
+                      <span class="text-[10px] font-bold uppercase tracking-wider text-indigo-400 bg-indigo-950/70 border border-indigo-800/50 px-2 py-0.5 rounded-md flex items-center gap-1.5 shadow-sm">
+                        <svg class="w-3 h-3 text-indigo-400" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 6.253v13m0-13C10.832 5.477 9.246 5 7.5 5S4.168 5.477 3 6.253v13C4.168 18.477 5.754 18 7.5 18s3.332.477 4.5 1.253m0-13C13.168 5.477 14.754 5 16.5 5c1.747 0 3.332.477 4.5 1.253v13C19.832 18.477 18.247 18 16.5 18c-1.746 0-3.332.477-4.5 1.253"/></svg>
+                        Word-by-Word Meaning (ওয়ার্ড বাই ওয়ার্ড অর্থ)
+                      </span>
+                    </div>
+                    <div class="flex flex-wrap gap-1.5">
+                      ${item.words.map(w => `
+                        <div onclick="event.stopPropagation(); app.speakWord('${w.en.replace(/[^a-zA-Z]/g, '')}', this)" class="inline-flex flex-col px-2.5 py-1 rounded-xl bg-slate-800/70 hover:bg-slate-700/80 border border-slate-700/50 hover:border-indigo-500/60 transition-all cursor-pointer shadow-sm group/w">
+                          <span class="text-xs font-bold text-indigo-300 group-hover/w:text-indigo-200 transition-colors">${w.en}</span>
+                          <span class="text-[11px] font-medium text-emerald-400 font-bn leading-tight">${w.bn}</span>
+                        </div>
+                      `).join('')}
+                    </div>
+                  </div>
                   ` : ''}
                 </div>
 

@@ -1,636 +1,2341 @@
 [
   {
-    "id": "mystery-holmes-red-headed-league",
-    "title": "Sherlock Holmes: The Red-Headed League",
-    "titleBn": "শার্লক হোমস: লাল চুলের সমিতি",
-    "author": "Sir Arthur Conan Doyle",
+    "id": "hadith-repentant-man-99",
+    "title": "The Man Who Killed Ninety-Nine Souls and Divine Mercy",
+    "titleBn": "নিরানব্বই খুনের পর তাওবাকারী ব্যক্তি ও আল্লাহর অসীম রহমত",
+    "author": "Authentic Hadith (Sahih al-Bukhari & Sahih Muslim)",
     "level": "Intermediate",
-    "category": "Mystery & Detective",
-    "coverEmoji": "🔍",
-    "summary": "Sherlock Holmes uncovers an audacious bank heist hidden behind a bizarre newspaper advertisement for red-haired men.",
-    "summaryBn": "লাল চুলের মানুষদের জন্য অদ্ভুত বিজ্ঞাপনের আড়ালে গোপনে চলা দুর্ধর্ষ ব্যাংক ডাকাতির রহস্য উন্মোচন করেন শার্লক হোমস।",
+    "levelColor": "emerald",
+    "category": "Quranic Chronicles",
+    "coverEmoji": "🕊️",
+    "summary": "A burdened man from Bani Isra'il who had taken ninety-nine lives sought repentance; upon hearing words of despair he killed a monk, yet a true scholar guided him toward hope, and Allah's mercy embraced him in death.",
+    "summaryBn": "বনি ইসরাঈলের এক ব্যক্তি নিরানব্বই জনকে হত্যা করে অনুতপ্ত হয়ে ক্ষমার পথ খুঁজছিল; হতাশাজনক উত্তরের পর সে এক পাদ্রীকে হত্যা করে ১০০ পূর্ণ করে, কিন্তু এক প্রকৃত আলেমের পরামর্শে নেককারদের ভূমির উদ্দেশ্যে যাত্রা করতেই আল্লাহর রহমতে ক্ষমা লাভ করে।",
     "sentences": [
       {
-        "en": "A pawnbroker named Jabez Wilson visited 221B Baker Street, asking Sherlock Holmes to explain the sudden disappearance of a well-paying job.",
-        "bn": "জাবেজ উইলসন নামের এক বন্ধকী কারবারি শার্লক হোমসের বেকার স্ট্রিটের ফ্ল্যাটে এসে এক অদ্ভুত চাকরি হঠাৎ উধাও হয়ে যাওয়ার কারণ জানতে চাইল।"
+        "en": "In ancient times, a man among the Children of Israel committed grave sins until he had unlawfully killed ninety-nine people.",
+        "bn": "প্রাচীন যুগে বনি ইসরাঈলের এক লোক গুরুতর পাপে লিপ্ত ছিল এবং সে অন্যায়ভাবে নিরানব্বই জন মানুষকে হত্যা করেছিল।",
+        "words": [
+          {
+            "en": "In ancient times",
+            "bn": "প্রাচীন যুগে"
+          },
+          {
+            "en": "Children of Israel",
+            "bn": "বনি ইসরাঈল"
+          },
+          {
+            "en": "committed grave sins",
+            "bn": "মারাত্মক পাপে লিপ্ত হয়েছিল"
+          },
+          {
+            "en": "unlawfully killed",
+            "bn": "অন্যায়ভাবে হত্যা করেছিল"
+          },
+          {
+            "en": "ninety-nine people",
+            "bn": "নিরানব্বই জন মানুষ"
+          }
+        ]
       },
       {
-        "en": "Wilson had been hired by a mysterious league solely because of his fiery red hair, earning four pounds a week just to copy the Encyclopedia Britannica.",
-        "bn": "উইলসনকে শুধুমাত্র তার গাঢ় লাল চুলের খাতিরে এক অদ্ভুত সমিতি নিয়োগ দিয়েছিল, যেখানে বিশ্বকোষের পাতা নকল করার জন্য সপ্তাহে চার পাউন্ড দেওয়া হতো।"
+        "en": "Deep sorrow and fear of divine judgment eventually gripped his conscience, compelling him to search for redemption.",
+        "bn": "অবশেষে গভীর অনুশোচনা এবং পরকালের আজাবের ভয় তার বিবেককে নাড়া দিল এবং সে ক্ষমার পথ খুঁজতে বাধ্য হলো।",
+        "words": [
+          {
+            "en": "Deep sorrow and fear",
+            "bn": "গভীর অনুশোচনা ও ভয়"
+          },
+          {
+            "en": "divine judgment",
+            "bn": "ঐশী বিচার / পরকালের শাস্তি"
+          },
+          {
+            "en": "gripped his conscience",
+            "bn": "তার বিবেককে নাড়া দিল"
+          },
+          {
+            "en": "search for redemption",
+            "bn": "ক্ষমা ও মুক্তির অনুসন্ধান করা"
+          }
+        ]
       },
       {
-        "en": "However, after eight weeks of tedious copying, a handwritten cardboard notice announced that the Red-Headed League was permanently dissolved.",
-        "bn": "কিন্তু আট সপ্তাহ ধরে নীরসভাবে নকল করার পর হঠাৎ দরজায় ঝোলানো একটি নোটিশে জানানো হলো যে লাল চুলের সমিতি বন্ধ হয়ে গেছে।"
+        "en": "He asked the townspeople to direct him to the most learned worshipper on earth.",
+        "bn": "সে শহরের লোকদের কাছে পৃথিবীর সবচেয়ে বড় ইবাদতকারী ব্যক্তির সন্ধান জানতে চাইল।",
+        "words": [
+          {
+            "en": "He asked the townspeople",
+            "bn": "সে শহরের লোকদের জিজ্ঞাসা করল"
+          },
+          {
+            "en": "direct him",
+            "bn": "তাকে পথ দেখাতে"
+          },
+          {
+            "en": "most learned worshipper",
+            "bn": "সর্বশ্রেষ্ঠ ইবাদতগুজার ব্যক্তি"
+          }
+        ]
       },
       {
-        "en": "Holmes tapped his wooden pipe thoughtfully, immediately realizing that someone had crafted the ridiculous job merely to keep Wilson out of his pawnshop.",
-        "bn": "হোমস তার কাঠের পাইপে টোকা দিয়ে বুঝলেন, উইলসনকে তার দোকান থেকে দূরে রাখার উদ্দেশ্যেই কেউ এত অদ্ভুত সাজানো চাকরির ফাঁদ পেতেছিল।"
+        "en": "They guided him to a secluded hermit monk, whom the man questioned: 'I have murdered ninety-nine souls; is there any repentance left for me?'",
+        "bn": "লোকেরা তাকে এক নির্জনবাসী পাদ্রীর সন্ধান দিল; লোকটি তাকে জিজ্ঞাসা করল, 'আমি নিরানব্বই জন মানুষকে হত্যা করেছি; আমার তাওবার কি কোনো সুযোগ আছে?'",
+        "words": [
+          {
+            "en": "guided him to a secluded monk",
+            "bn": "এক নির্জনবাসী পাদ্রীর কাছে পাঠাল"
+          },
+          {
+            "en": "murdered ninety-nine souls",
+            "bn": "নিরানব্বই জন মানুষ হত্যা করেছি"
+          },
+          {
+            "en": "is there any repentance left",
+            "bn": "তাওবার কি কোনো সুযোগ বাকি আছে"
+          }
+        ]
       },
       {
-        "en": "Investigating the pawnshop cellar, Holmes noticed that the shop assistant's knees were heavily stained with fresh cellar clay.",
-        "bn": "উইলসনের দোকানের ভূগর্ভস্থ সেলারে তল্লাশি চালিয়ে হোমস লক্ষ্য করলেন তার সহকারীর প্যান্টের হাঁটুতে সদ্য খোঁড়া ভেজা কাদা লেগে রয়েছে।"
+        "en": "Lacking true wisdom, the monk harshly replied, 'No, your transgressions are too monstrous for forgiveness.'",
+        "bn": "প্রকৃত এলেমহীন পাদ্রীটি রূঢ়ভাবে উত্তর দিল, 'না, তোমার পাপ এতটাই জঘন্য যে তা ক্ষমার অযোগ্য।'",
+        "words": [
+          {
+            "en": "Lacking true wisdom",
+            "bn": "প্রকৃত প্রজ্ঞার অভাবে"
+          },
+          {
+            "en": "harshly replied",
+            "bn": "কঠোরভাবে উত্তর দিল"
+          },
+          {
+            "en": "transgressions are too monstrous",
+            "bn": "পাপগুলো অতিমাত্রায় মারাত্মক"
+          }
+        ]
       },
       {
-        "en": "The observant detective deduced that the assistant was secretly digging an underground tunnel directly into the vault of the neighboring city bank.",
-        "bn": "তীক্ষ্ণবুদ্ধি গোয়েন্দা বুঝতে পারলেন সহকারীটি আসলে মাটির নিচ দিয়ে পাশের সিটি ব্যাংকের ভোল্ট লক্ষ্য করে একটি গোপন সুড়ঙ্গ খুঁড়ছিল।"
+        "en": "Overcome with despair and blinding wrath, the man drew his weapon and struck the monk down, completing his tally to one hundred victims.",
+        "bn": "হতাশা ও প্রচণ্ড ক্ষোভে অন্ধ হয়ে লোকটি নিজের অস্ত্র বের করল এবং ওই পাদ্রীকে হত্যা করে তার নিহতের সংখ্যা একশত পূর্ণ করল।",
+        "words": [
+          {
+            "en": "Overcome with despair",
+            "bn": "হতাশায় নিমজ্জিত হয়ে"
+          },
+          {
+            "en": "blinding wrath",
+            "bn": "অন্ধ ক্রোধে"
+          },
+          {
+            "en": "struck the monk down",
+            "bn": "পাদ্রীকে হত্যা করল"
+          },
+          {
+            "en": "completing tally to one hundred",
+            "bn": "একশতে সংখ্যা পূর্ণ করল"
+          }
+        ]
       },
       {
-        "en": "That midnight, Holmes and Doctor Watson concealed themselves in the dark bank cellar alongside the city police inspector.",
-        "bn": "সেই মধ্যরাতে পুলিশ ইন্সপেক্টরকে সাথে নিয়ে হোমস ও ডক্টর ওয়াটসন ব্যাংকের অন্ধকার মাটির নিচের ভোল্টে লুকিয়ে ওত পেতে রইলেন।"
+        "en": "Yet the spark of remorse refused to extinguish within his heart, and he renewed his search for someone of genuine knowledge.",
+        "bn": "তবুও তার হৃদয়ে অনুশোচনার বহ্নিশিখা নিভে গেল না এবং সে একজন খাঁটি জ্ঞানবান আলেমের খোঁজে আবার বের হলো।",
+        "words": [
+          {
+            "en": "spark of remorse",
+            "bn": "অনুশোচনার স্ফুলিঙ্গ"
+          },
+          {
+            "en": "refused to extinguish",
+            "bn": "নিভে যেতে অস্বীকার করল"
+          },
+          {
+            "en": "renewed his search",
+            "bn": "তার খোঁজ পুনরায় শুরু করল"
+          },
+          {
+            "en": "genuine knowledge",
+            "bn": "খাঁটি এলেম ও জ্ঞান"
+          }
+        ]
       },
       {
-        "en": "When a stone slab slid aside and the notorious criminal John Clay stepped into the beam of their lantern, Holmes swiftly seized him by the collar.",
-        "bn": "মেঝের পাথরের স্ল্যাব সরে গিয়ে যখন কুখ্যাত চোর জন ক্লে লণ্ঠনের আলোয় পা রাখল, হোমস বিদ্যুৎগতিতে তার কলার চেপে ধরলেন।"
+        "en": "He met an illuminated Islamic scholar who declared, 'Who could ever stand between an earnest soul and the boundless mercy of Allah?'",
+        "bn": "সে একজন আলোকিত আলেমের সাথে সাক্ষাৎ পেল, যিনি বললেন, 'একনিষ্ঠ বান্দা ও আল্লাহর অসীম রহমতের মাঝে প্রাচীর তোলার সাধ্য কার আছে?'",
+        "words": [
+          {
+            "en": "illuminated Islamic scholar",
+            "bn": "এক প্রজ্ঞাবান আলেম"
+          },
+          {
+            "en": "stand between",
+            "bn": "মাঝখানে বাধা হয়ে দাঁড়ানো"
+          },
+          {
+            "en": "earnest soul",
+            "bn": "একনিষ্ঠ আত্মা"
+          },
+          {
+            "en": "boundless mercy",
+            "bn": "অসীম দয়া ও করুণা"
+          }
+        ]
+      },
+      {
+        "en": "The scholar instructed him to abandon his corrupt village and migrate to a righteous town where people worshipped Allah in truth.",
+        "bn": "আলেম তাকে তার পাপাচারপূর্ণ গ্রাম ত্যাগ করে সৎলোকদের এক জনপদে হিজরত করার নির্দেশ দিলেন, যেখানে মানুষ সত্যের সাথে আল্লাহর ইবাদত করে।",
+        "words": [
+          {
+            "en": "abandon corrupt village",
+            "bn": "পাপের গ্রাম ত্যাগ করতে"
+          },
+          {
+            "en": "migrate to righteous town",
+            "bn": "নেককারদের জনপদে হিজরত করতে"
+          },
+          {
+            "en": "worshipped Allah in truth",
+            "bn": "সত্যনিষ্ঠভাবে আল্লাহর ইবাদত করত"
+          }
+        ]
+      },
+      {
+        "en": "Setting out upon the path with resolute sincerity, the man walked until death overtook him midway across the wilderness.",
+        "bn": "দৃঢ় আন্তরিকতা নিয়ে পথ চলতে চলতে মরুভূমির মাঝামাঝি পৌঁছাতেই মৃত্যুর দূত তার সামনে উপস্থিত হলো।",
+        "words": [
+          {
+            "en": "Setting out with sincerity",
+            "bn": "আন্তরিকতার সাথে রওনা দিয়ে"
+          },
+          {
+            "en": "death overtook him",
+            "bn": "মৃত্যু তাকে গ্রাস করল"
+          },
+          {
+            "en": "midway across wilderness",
+            "bn": "মরুপ্রান্তরের মধ্যপথে"
+          }
+        ]
+      },
+      {
+        "en": "As he breathed his last, he strained his dying chest toward the city of righteousness.",
+        "bn": "শেষ নিঃশ্বাস ত্যাগের মুহূর্তে সে সাধ্যমতো নিজের বক্ষকে সৎলোকদের শহরের দিকে ঝুঁকিয়ে দিল।",
+        "words": [
+          {
+            "en": "breathed his last",
+            "bn": "শেষ নিঃশ্বাস ত্যাগ করল"
+          },
+          {
+            "en": "strained his dying chest",
+            "bn": "নিজের মুমূর্ষু বুক ঝুঁকিয়ে দিল"
+          },
+          {
+            "en": "city of righteousness",
+            "bn": "সৎলোকদের নগরী"
+          }
+        ]
+      },
+      {
+        "en": "The angels of mercy and the angels of punishment descended, disputing over who possessed the right to claim his soul.",
+        "bn": "রহমতের ফেরেশতা এবং শাস্তির ফেরেশতারা অবতরণ করে তার আত্মা গ্রহণ করা নিয়ে পরস্পরে বিতর্ক করতে লাগলেন।",
+        "words": [
+          {
+            "en": "angels of mercy",
+            "bn": "রহমতের ফেরেশতা"
+          },
+          {
+            "en": "angels of punishment",
+            "bn": "শাস্তির ফেরেশতা"
+          },
+          {
+            "en": "disputing over his soul",
+            "bn": "তার আত্মা দাবি নিয়ে বিতর্ক করছিলেন"
+          }
+        ]
+      },
+      {
+        "en": "Allah sent an angel in human form to judge between them, ordering: 'Measure the distance to both towns; whichever is closer, he belongs to its folk.'",
+        "bn": "আল্লাহ মানববেশে এক ফেরেশতা প্রেরণ করলেন মীমাংসার জন্য, যিনি বললেন: 'উভয় জনপদের দূরত্ব মেপে দেখো; যে জনপদটির সে বেশি কাছে, সে সেখানের অধিবাসী হিসেবে গণ্য হবে।'",
+        "words": [
+          {
+            "en": "sent an angel to judge",
+            "bn": "মীমাংসা করতে ফেরেশতা পাঠালেন"
+          },
+          {
+            "en": "Measure the distance",
+            "bn": "দূরত্ব পরিমাপ করো"
+          },
+          {
+            "en": "whichever is closer",
+            "bn": "যেটি অধিক নিকটবর্তী হবে"
+          },
+          {
+            "en": "belongs to its folk",
+            "bn": "তার লোকদের দলভুক্ত হবে"
+          }
+        ]
+      },
+      {
+        "en": "By divine decree, the earth contracted, and they found him closer to the land of repentance by merely a single handspan.",
+        "bn": "আল্লাহর কুদরতে জমিন সংকুচিত হলো এবং পরিমাপ করে দেখা গেল সে তাওবাকারীদের ভূমির মাত্র এক বিঘত বেশি কাছাকাছি ছিল।",
+        "words": [
+          {
+            "en": "By divine decree",
+            "bn": "আল্লাহর হুকুমে"
+          },
+          {
+            "en": "earth contracted",
+            "bn": "জমিন সংকুচিত হলো"
+          },
+          {
+            "en": "land of repentance",
+            "bn": "তাওবাকারীদের জনপদ"
+          },
+          {
+            "en": "single handspan",
+            "bn": "মাত্র এক বিঘত"
+          }
+        ]
+      },
+      {
+        "en": "The angels of mercy joyfully received his soul, proving that no sin is beyond the reach of sincere repentance.",
+        "bn": "রহমতের ফেরেশতারা পরম আনন্দে তার রুহ কবজ করলেন, যা প্রমাণ করে খাঁটি তাওবার সামনে কোনো পাপই ক্ষমার বাইরে নয়।",
+        "words": [
+          {
+            "en": "joyfully received his soul",
+            "bn": "আনন্দে তার আত্মা গ্রহণ করলেন"
+          },
+          {
+            "en": "beyond the reach",
+            "bn": "নাগালের বাইরে"
+          },
+          {
+            "en": "sincere repentance",
+            "bn": "খাঁটি তাওবা ও ক্ষমা প্রার্থনা"
+          }
+        ]
       }
     ]
   },
   {
-    "id": "mystery-holmes-speckled-band",
-    "title": "Sherlock Holmes: The Adventure of the Speckled Band",
-    "titleBn": "শার্লক হোমস: তিলকিত ফিতার রহস্য",
-    "author": "Sir Arthur Conan Doyle",
+    "id": "hadith-jurayj-monk",
+    "title": "Jurayj the Devout Monk and the Infant's Testimony",
+    "titleBn": "ইবাদতগুজার জুরাইজ ও নিষ্পাপ শিশুর জবানবন্দি",
+    "author": "Authentic Hadith (Sahih al-Bukhari & Sahih Muslim)",
     "level": "Intermediate",
-    "category": "Mystery & Detective",
-    "coverEmoji": "🐍",
-    "summary": "A terrified young woman seeks Holmes's help to investigate her twin sister's dying words about a speckled band.",
-    "summaryBn": "মৃত্যুর মুখে যমজ বোনের বলা অদ্ভুত শেষ কথা 'তিলকিত ফিতা'র রহস্য ভেদে হোমসের দ্বারস্থ হন এক ভীত যুবতী।",
+    "levelColor": "sky",
+    "category": "Quranic Chronicles",
+    "coverEmoji": "🏛️",
+    "summary": "Jurayj was an ascetic who prioritized his voluntary prayer over answering his mother's call; after she supplicated in sorrow, he was framed for adultery, only for an infant to miraculously clear his honor.",
+    "summaryBn": "জুরাইজ ছিলেন বনি ইসরাঈলের এক সাধক, যিনি নফল সালাতের কারণে মায়ের ডাকে সাড়া দেননি; মায়ের ব্যথিত দুয়ার পর তিনি ব্যভিচারের অপবাদের মুখোমুখি হন, কিন্তু এক দুধের শিশুর অলৌকিক সাক্ষ্য তার নির্দোষিতা প্রমাণ করে।",
     "sentences": [
       {
-        "en": "Helen Stoner arrived at Baker Street shivering from sheer terror, desperate to solve the mysterious death of her twin sister Julia.",
-        "bn": "হেলেন স্টোনার চরম ভয়ে কাঁপতে কাঁপতে বেকার স্ট্রিটে উপস্থিত হলেন, তার যমজ বোন জুলিয়ার রহস্যজনক মৃত্যুর কিনারা করার আশায়।"
+        "en": "Jurayj was an upright worshipper who built a secluded hermitage to dedicate his days to continuous prayer and remembrance.",
+        "bn": "জুরাইজ ছিলেন একজন নিষ্ঠাবান ইবাদতকারী, যিনি দিনরাত নামাজ ও জিকিরে মগ্ন থাকার জন্য একটি নির্জন ইবাদতখানা তৈরি করেছিলেন।",
+        "words": [
+          {
+            "en": "upright worshipper",
+            "bn": "নিষ্ঠাবান ইবাদতকারী"
+          },
+          {
+            "en": "secluded hermitage",
+            "bn": "নির্জন ইবাদতখানা"
+          },
+          {
+            "en": "continuous prayer",
+            "bn": "নিরবচ্ছিন্ন সালাত"
+          },
+          {
+            "en": "remembrance",
+            "bn": "আল্লাহর স্মরণ / জিকির"
+          }
+        ]
       },
       {
-        "en": "Before dying in agonizing convulsions two years earlier, Julia had whispered her final cryptic words: 'It was the band! The speckled band!'",
-        "bn": "দুই বছর আগে চরম যন্ত্রণায় মৃত্যুর কোলে ঢলে পড়ার ঠিক আগে জুলিয়া ফিসফিস করে বলে গিয়েছিল: 'ওটা ছিল একটা ফিতা! একটা তিলকিত ফিতা!'"
+        "en": "One afternoon, his elderly mother arrived at his door and called out tenderly: 'O Jurayj, speak to me!'",
+        "bn": "এক অপরাহ্ণে তার বৃদ্ধা মা কুটিরের দরজায় এসে স্নেহভরে ডাকলেন: 'হে জুরাইজ, আমার সাথে কথা বলো!'",
+        "words": [
+          {
+            "en": "elderly mother arrived",
+            "bn": "বৃদ্ধা মা উপস্থিত হলেন"
+          },
+          {
+            "en": "called out tenderly",
+            "bn": "স্নেহভরে ডেকে উঠলেন"
+          },
+          {
+            "en": "speak to me",
+            "bn": "আমার সাথে কথা বলো"
+          }
+        ]
       },
       {
-        "en": "Helen explained that their violent stepfather, Dr. Roylott, kept exotic Indian predators and forced her to sleep in Julia's former bedroom.",
-        "bn": "হেলেন জানালেন তাদের উগ্র স্বভাবের সৎপিতা ডক্টর রয়লট ভারতে কাটানো জীবনের বুনো জন্তু পুষতেন এবং সম্প্রতি হেলেনকে জুলিয়ার সেই ঘরে ঘুমাতে বাধ্য করেছেন।"
+        "en": "Caught between performing his optional prayer and answering his mother, he hesitated in his heart and chose to remain standing in prayer.",
+        "bn": "নফল সালাত চালিয়ে যাওয়া এবং মায়ের ডাকে সাড়া দেওয়ার দোলাচলে পড়ে তিনি সালাতেই মগ্ন থাকা বেছে নিলেন।",
+        "words": [
+          {
+            "en": "Caught between optional prayer",
+            "bn": "নফল সালাতের মাঝে পড়ে"
+          },
+          {
+            "en": "answering his mother",
+            "bn": "মায়ের ডাকে সাড়া দেওয়া"
+          },
+          {
+            "en": "hesitated in his heart",
+            "bn": "মনে মনে দ্বিধায় পড়লেন"
+          }
+        ]
       },
       {
-        "en": "Holmes inspected the bedchamber and uncovered an odd ventilator leading only to Roylott's room and a dummy bell-rope attached to no bell.",
-        "bn": "হোমস ঘরটি পরীক্ষা করে দেখলেন যে দেয়ালে থাকা ভেন্টিলেটরটি রয়লটের ঘরের সাথে যুক্ত এবং একটি ভুয়ো ঘণ্টার দড়ি কোনো ঘণ্টার সাথেই বাঁধা নেই।"
+        "en": "His mother called him three days in succession without reply, until she prayed in heartbreak: 'O Allah, do not take his life until he gazes upon the faces of fallen women.'",
+        "bn": "টানা তিন দিন মা তাকে ডেকেও জবাব না পেয়ে ব্যথিত হৃদয়ে দোয়া করলেন: 'হে আল্লাহ, কোনো ব্যভিচারিণী নারীর মুখে না তাকানো পর্যন্ত যেন তার মৃত্যু না হয়।'",
+        "words": [
+          {
+            "en": "three days in succession",
+            "bn": "টানা তিন দিন"
+          },
+          {
+            "en": "prayed in heartbreak",
+            "bn": "ব্যথিত হৃদয়ে বদদোয়া করলেন"
+          },
+          {
+            "en": "faces of fallen women",
+            "bn": "পতিতা নারীদের মুখ"
+          }
+        ]
       },
       {
-        "en": "Furthermore, the bed was permanently bolted to the floor, ensuring it could never be moved away from the ventilator overhead.",
-        "bn": "এমনকি শোবার খাটটি মেঝেতে নাটবল্টু দিয়ে শক্ত করে আটকানো ছিল, যাতে ভেন্টিলেটরের নিচে থেকে খাটটি কোনোভাবেই সরানো না যায়।"
+        "en": "The people of the town envied Jurayj's pristine reputation, and an alluring woman vowed she would seduce him.",
+        "bn": "শহরের কিছু লোক জুরাইজের নির্মল সুনামে ঈর্ষান্বিত ছিল এবং এক রূপবতী ভ্রষ্টা নারী প্রতিজ্ঞা করল যে সে জুরাইজকে প্রলুব্ধ করবে।",
+        "words": [
+          {
+            "en": "envied pristine reputation",
+            "bn": "নির্মল সম্মানে ঈর্ষা করত"
+          },
+          {
+            "en": "alluring woman",
+            "bn": "এক মোহনীয় নারী"
+          },
+          {
+            "en": "vowed to seduce him",
+            "bn": "তাকে বিপথগামী করার পণ করল"
+          }
+        ]
       },
       {
-        "en": "Waiting in total darkness that night, Holmes and Watson heard a faint metallic hiss followed by a gentle rustling sound through the wall.",
-        "bn": "সে রাতে নিশ্ছিদ্র অন্ধকারে বসে অপেক্ষা করার সময় হোমস ও ওয়াটসন দেয়ালে মৃদু ধাতব হিসহিস শব্দ এবং কোনো কিছুর সরসর আওয়াজ শুনলেন।"
+        "en": "She entered his hermitage offering herself, but Jurayj turned his eyes away and drove her out in disgust.",
+        "bn": "সে তার ইবাদতখানায় ঢুকে কুপ্রস্তাব দিল, কিন্তু জুরাইজ চোখ ফিরিয়ে নিলেন এবং ঘৃণাভরে তাকে তাড়িয়ে দিলেন।",
+        "words": [
+          {
+            "en": "offering herself",
+            "bn": "নিজেকে সমর্পণ করে"
+          },
+          {
+            "en": "turned his eyes away",
+            "bn": "চোখ ফিরিয়ে নিলেন"
+          },
+          {
+            "en": "drove her out in disgust",
+            "bn": "ঘৃণাভরে তাকে বের করে দিলেন"
+          }
+        ]
       },
       {
-        "en": "Holmes struck a match and vigorously lashed with his cane at the bell-rope, where a lethal swamp adder was slithering down.",
-        "bn": "হোমস দেয়াশলাই জ্বেলে বেতের ছড়ি দিয়ে ঘণ্টার দড়িতে প্রচণ্ড আঘাত করলেন, যেখান দিয়ে এক মারাত্মক বিষধর ভারতীয় সাপ নেমে আসছিল।"
+        "en": "Spurned, the woman had relations with a passing shepherd and gave birth to an illegitimate child, brazenly declaring Jurayj was the father.",
+        "bn": "প্রত্যাখ্যাত হয়ে নারীটি এক মেষপালকের সাথে পাপাচারে লিপ্ত হয়ে সন্তান প্রসব করল এবং প্রকাশ্যভাবে রটিয়ে দিল যে জুরাইজই এই শিশুর পিতা।",
+        "words": [
+          {
+            "en": "Spurned",
+            "bn": "প্রত্যাখ্যাত হয়ে"
+          },
+          {
+            "en": "passing shepherd",
+            "bn": "পথচারী মেষপালক"
+          },
+          {
+            "en": "illegitimate child",
+            "bn": "জারজ সন্তান"
+          },
+          {
+            "en": "brazenly declaring",
+            "bn": "নির্লজ্জভাবে ঘোষণা দিল"
+          }
+        ]
       },
       {
-        "en": "Enraged by the blows, the venomous serpent retreated through the ventilator and bit Dr. Roylott, delivering instant poetic justice.",
-        "bn": "আঘাতে ক্ষিপ্ত হয়ে বিষাক্ত সাপটি ভেন্টিলেটর দিয়ে উল্টো ঘরে ফিরে গিয়ে ডক্টর রয়লটকেই দংশন করল এবং পাপীর উপযুক্ত বিচার হলো।"
+        "en": "An enraged mob stormed Jurayj's cell with axes and ropes, demolishing the walls and dragging him into public humiliation.",
+        "bn": "ক্রুদ্ধ জনতা কুড়াল ও দড়ি নিয়ে জুরাইজের আশ্রমে চড়াও হলো, দেয়াল ভেঙে গুঁড়িয়ে দিল এবং তাকে জনসমক্ষে অপমানজনকভাবে টেনে আনল।",
+        "words": [
+          {
+            "en": "enraged mob stormed",
+            "bn": "ক্ষুব্ধ জনতা আক্রমণ করল"
+          },
+          {
+            "en": "demolishing the walls",
+            "bn": "দেয়ালগুলো ভেঙে চুরমার করল"
+          },
+          {
+            "en": "public humiliation",
+            "bn": "জনসম্মুখে অপদস্থকরণ"
+          }
+        ]
+      },
+      {
+        "en": "Jurayj calmly performed ablution, stood to offer two cycles of prayer, and walked over to the newborn wrapped in blankets.",
+        "bn": "জুরাইজ শান্তভাবে অজু করলেন, দুই রাকাত সালাত আদায় করলেন এবং কাপড়ে মোড়ানো সদ্যোজাত শিশুর কাছে এগিয়ে গেলেন।",
+        "words": [
+          {
+            "en": "calmly performed ablution",
+            "bn": "শান্তভাবে অজু করলেন"
+          },
+          {
+            "en": "two cycles of prayer",
+            "bn": "দুই রাকাত সালাত"
+          },
+          {
+            "en": "newborn wrapped in blankets",
+            "bn": "কাপড়ে জড়ানো নবজাতক"
+          }
+        ]
+      },
+      {
+        "en": "He gently tapped the baby's stomach and asked, 'O infant, who is your real father?'",
+        "bn": "তিনি পরম মমতায় শিশুটির পেটে আঙুল ছুঁইয়ে প্রশ্ন করলেন, 'হে শিশু, তোমার আসল পিতা কে?'",
+        "words": [
+          {
+            "en": "gently tapped",
+            "bn": "মৃদুভাবে স্পর্শ করলেন"
+          },
+          {
+            "en": "baby's stomach",
+            "bn": "শিশুর পেট"
+          },
+          {
+            "en": "who is your real father",
+            "bn": "তোমার আসল বাবা কে"
+          }
+        ]
+      },
+      {
+        "en": "By Allah's permission, the newborn spoke with perfect clarity: 'My father is the shepherd.'",
+        "bn": "আল্লাহর কুদরতে দুধের শিশুটি স্পষ্ট ভাষায় কথা বলে উঠল: 'আমার পিতা হলো ওই রাখাল।'",
+        "words": [
+          {
+            "en": "By Allah's permission",
+            "bn": "আল্লাহর হুকুমে"
+          },
+          {
+            "en": "spoke with perfect clarity",
+            "bn": "স্পষ্ট বাক্যে কথা বলল"
+          },
+          {
+            "en": "the shepherd",
+            "bn": "সেই রাখাল"
+          }
+        ]
+      },
+      {
+        "en": "The humbled villagers fell to their knees in remorse, begging to rebuild his prayer sanctuary out of pure gold.",
+        "bn": "লজ্জিত গ্রামবাসীরা অনুতপ্ত হয়ে পায়ে লুটিয়ে পড়ল এবং জুরাইজের ইবাদতখানা খাঁটি সোনা দিয়ে পুনর্নির্মাণ করার আরজি জানাল।",
+        "words": [
+          {
+            "en": "humbled villagers",
+            "bn": "লজ্জিত গ্রামবাসীরা"
+          },
+          {
+            "en": "fell to their knees",
+            "bn": "হাঁটু গেড়ে বসে পড়ল"
+          },
+          {
+            "en": "pure gold",
+            "bn": "খাঁটি স্বর্ণ"
+          }
+        ]
+      },
+      {
+        "en": "Jurayj refused and replied, 'Rebuild it with plain mud as it was, for earthly glamour holds no value in the sight of Allah.'",
+        "bn": "জুরাইজ অস্বীকৃতি জানিয়ে বললেন, 'আগের মতোই এটি সাধারণ কাদা-মাটি দিয়ে গড়ে তোলো, কারণ পার্থিব চাকচিক্যের কোনো মূল্য আল্লাহর কাছে নেই।'",
+        "words": [
+          {
+            "en": "Jurayj refused",
+            "bn": "জুরাইজ প্রত্যাখ্যান করলেন"
+          },
+          {
+            "en": "plain mud as it was",
+            "bn": "আগের মতো সাধারণ কাদা-মাটি"
+          },
+          {
+            "en": "earthly glamour holds no value",
+            "bn": "পার্থিব চাকচিক্যের কোনো মূল্য নেই"
+          }
+        ]
       }
     ]
   },
   {
-    "id": "mystery-holmes-blue-carbuncle",
-    "title": "Sherlock Holmes: The Blue Carbuncle",
-    "titleBn": "শার্লক হোমস: নীলকান্ত মণি",
-    "author": "Sir Arthur Conan Doyle",
+    "id": "hadith-three-tested-wealth",
+    "title": "The Leper, the Bald Man, and the Blind Man",
+    "titleBn": "কুষ্ঠরোগী, টাকওয়ালা ও অন্ধ ব্যক্তির পরীক্ষা",
+    "author": "Authentic Hadith (Sahih al-Bukhari & Sahih Muslim)",
     "level": "Intermediate",
-    "category": "Mystery & Detective",
-    "coverEmoji": "💎",
-    "summary": "A precious stolen gemstone discovered inside the belly of a Christmas goose leads Holmes on an ingenious London chase.",
-    "summaryBn": "বড়দিনের একটি রাজহাঁসের পেটের ভেতর থেকে উদ্ধার হওয়া মহামূল্যবান নীলকান্ত মণির সূত্র ধরে অসাধারণ তদন্ত চালান হোমস।",
+    "levelColor": "amber",
+    "category": "Quranic Chronicles",
+    "coverEmoji": "⚖️",
+    "summary": "Three distressed men were healed and granted immense herds of livestock by an angel; when the angel returned in beggar's disguise to test their gratitude, only the blind man honored Allah's blessing.",
+    "summaryBn": "বনি ইসরাঈলের তিনজন ব্যক্তি—কুষ্ঠরোগী, টাকপড়া ও অন্ধ—ফেরেশতার ছোঁয়ায় রোগমুক্তি ও বিপুল পশুসম্পদ পায়; পরবর্তীতে ছদ্মবেশে ফেরেশতা যখন দান চাইলেন, তখন প্রথম দুজন অকৃতজ্ঞ হয়ে তা ফিরিয়ে দিল এবং কেবল অন্ধ ব্যক্তি কৃতজ্ঞতা বজায় রাখল।",
     "sentences": [
       {
-        "en": "On the morning after Christmas, commissionaire Peterson brought Holmes a battered felt hat and a plump Christmas goose dropped during a street scuffle.",
-        "bn": "বড়দিনের পরদিন সকালে দারোয়ান পিটারসন রাস্তার এক মারামারিতে ফেলে যাওয়া একটি ছেঁড়া টুপি ও একটি মোটাসোটা রাজহাঁস নিয়ে হোমসের কাছে এলো।"
+        "en": "Allah resolved to test three suffering men among the Children of Israel: a leper, a bald man, and a blind man.",
+        "bn": "আল্লাহ বনি ইসরাঈলের তিনজন বিপদগ্রস্ত মানুষকে পরীক্ষা করার ইচ্ছা করলেন: একজন কুষ্ঠরোগী, একজন টাকপড়া ব্যক্তি এবং একজন দৃষ্টিহীন মানুষ।",
+        "words": [
+          {
+            "en": "resolved to test",
+            "bn": "পরীক্ষা করার সংকল্প করলেন"
+          },
+          {
+            "en": "suffering men",
+            "bn": "কষ্টগ্রস্ত মানুষ"
+          },
+          {
+            "en": "leper, bald man, blind man",
+            "bn": "কুষ্ঠরোগী, টাকপড়া ও অন্ধ"
+          }
+        ]
       },
       {
-        "en": "While cleaning the goose for dinner, Peterson's wife made an astonishing discovery: the Countess of Morcar's stolen blue carbuncle was nestled inside its crop.",
-        "bn": "রাতের খাবারের জন্য হাঁসটি কাটার সময় পিটারসনের স্ত্রী হাঁসের গলার থলিতে কাউন্টেস অফ মরকারের চুরি যাওয়া মহামূল্যবান নীলকান্ত মণিটি দেখতে পেলেন।"
+        "en": "An angel in human disguise visited the leper and asked, 'What blessing do you desire most?'",
+        "bn": "মানুষের বেশে এক ফেরেশতা কুষ্ঠরোগীর কাছে এসে জিজ্ঞাসা করলেন, 'তোমার সবচেয়ে বড় চাওয়া কী?'",
+        "words": [
+          {
+            "en": "angel in human disguise",
+            "bn": "মানুষের বেশে এক ফেরেশতা"
+          },
+          {
+            "en": "visited the leper",
+            "bn": "কুষ্ঠরোগীর কাছে গেলেন"
+          },
+          {
+            "en": "What blessing do you desire",
+            "bn": "তুমি কোন নিয়ামত সবচেয়ে বেশি চাও"
+          }
+        ]
       },
       {
-        "en": "The newspapers had offered a staggering thousand-pound reward for the gem, and an innocent plumber was already locked in jail for the crime.",
-        "bn": "মণিটি উদ্ধারের জন্য পত্রিকায় এক হাজার পাউন্ডের বিরাট পুরস্কার ঘোষণা করা হয়েছিল এবং এক নির্দোষ প্লাম্বারকে সন্দেহের বশে জেলে পোরা হয়েছিল।"
+        "en": "The man lamented, 'A beautiful complexion and healthy skin, for people shun me in disgust.'",
+        "bn": "লোকটি আক্ষেপ করে বলল, 'সুন্দর গায়ের রং ও নিখুঁত চামড়া, কারণ মানুষ আমাকে দেখে ঘৃণাভরে দূরে সরে যায়।'",
+        "words": [
+          {
+            "en": "beautiful complexion",
+            "bn": "সুন্দর রূপ ও গায়ের রং"
+          },
+          {
+            "en": "healthy skin",
+            "bn": "সুস্থ ত্বক"
+          },
+          {
+            "en": "people shun me in disgust",
+            "bn": "মানুষ ঘৃণায় আমাকে এড়িয়ে চলে"
+          }
+        ]
       },
       {
-        "en": "Holmes scrutinized the old hat through a magnifying glass, deducing the owner's intellectual decline, domestic troubles, and recent financial ruin.",
-        "bn": "হোমস আতশ কাচ দিয়ে ছেঁড়া টুপিটি পরীক্ষা করে মালিকের অতীত মেধা, পারিবারিক টানাপোড়েন এবং সাম্প্রতিক চরম আর্থিক দুরবস্থার বিবরণ তুলে ধরলেন।"
+        "en": "The angel wiped his skin, restoring flawless radiant flesh, and gifted him a pregnant she-camel that soon multiplied into an entire valley of camels.",
+        "bn": "ফেরেশতা তার শরীরে হাত বুলালেন, অমনি তার চামড়া উজ্জ্বল ও সুন্দর হয়ে গেল এবং তাকে একটি গর্ভবতী উট দেওয়া হলো যা দ্রুত বংশবৃদ্ধি করে উপত্যকা পূর্ণ করল।",
+        "words": [
+          {
+            "en": "wiped his skin",
+            "bn": "তার ত্বকে হাত বুলালেন"
+          },
+          {
+            "en": "flawless radiant flesh",
+            "bn": "নিখুঁত উজ্জ্বল ত্বক"
+          },
+          {
+            "en": "pregnant she-camel",
+            "bn": "গর্ভবতী উষ্ট্রী"
+          },
+          {
+            "en": "valley of camels",
+            "bn": "উটের এক বিশাল উপত্যকা"
+          }
+        ]
       },
       {
-        "en": "Tracing the goose merchant through the bustling stalls of Covent Garden, Holmes encountered a nervous hotel attendant named James Ryder.",
-        "bn": "হাঁসটির বিক্রেতার সন্ধানে কোভেন্ট গার্ডেনের ভিড় বাজারে গিয়ে হোমস জেমস রাইডার নামের এক ভীত ও অস্থির হোটেল কর্মচারীর মুখোমুখি হলেন।"
+        "en": "Next, the angel visited the bald man, cured his scalp with lush hair, and granted him a pregnant cow which filled pastures with cattle.",
+        "bn": "এরপর ফেরেশতা টাকপড়া লোকটির কাছে গেলেন, তার মাথায় সুন্দর ঘন চুল দিলেন এবং তাকে একটি গর্ভবতী গাভী দিলেন যা দিয়ে চারণভূমি গরুতে ভরে গেল।",
+        "words": [
+          {
+            "en": "cured his scalp",
+            "bn": "তার মাথায় নিরাময় দিলেন"
+          },
+          {
+            "en": "lush hair",
+            "bn": "ঘন সুন্দর চুল"
+          },
+          {
+            "en": "pregnant cow",
+            "bn": "গর্ভবতী গাভী"
+          },
+          {
+            "en": "pastures with cattle",
+            "bn": "গরুতে ভরা চারণভূমি"
+          }
+        ]
       },
       {
-        "en": "Ryder broke down in tears, confessing that he had stolen the jewel and shoved it down the throat of his sister's goose to smuggle it away safely.",
-        "bn": "রাইডার কান্নায় ভেঙে পড়ে স্বীকার করল যে সে-ই মণিটি চুরি করে নিরাপদে পাচারের উদ্দেশ্যে তার বোনের খামারের একটি হাঁসের গলায় জোর করে ঢুকিয়ে দিয়েছিল।"
+        "en": "Finally, the angel touched the blind man's eyes, miraculously returning his vision, and bestowed upon him a pregnant sheep.",
+        "bn": "সবশেষে ফেরেশতা অন্ধ ব্যক্তির চোখের ওপর হাত রাখলেন, অলৌকিকভাবে তার দৃষ্টিশক্তি ফিরে এলো এবং তাকে একটি গর্ভবতী দুম্বা উপহার দেওয়া হলো।",
+        "words": [
+          {
+            "en": "touched blind man's eyes",
+            "bn": "অন্ধের চোখে হাত রাখলেন"
+          },
+          {
+            "en": "miraculously returning vision",
+            "bn": "অলৌকিকভাবে দৃষ্টি ফিরিয়ে দিয়ে"
+          },
+          {
+            "en": "pregnant sheep",
+            "bn": "গর্ভবতী ভেড়া"
+          }
+        ]
       },
       {
-        "en": "Because it was the season of forgiveness, Holmes chose not to condemn the weeping young man, allowing him to flee while exonerating the wrongly accused plumber.",
-        "bn": "যেহেতু এটি বড়দিনের ক্ষমার মৌসুম ছিল, হোমস কান্নারত যুবকটিকে জেলে না পাঠিয়ে দেশ ছেড়ে চলে যাওয়ার সুযোগ দিলেন এবং নিরাপরাধ প্লাম্বারকে মুক্ত করলেন।"
+        "en": "Years passed, and all three men grew immensely wealthy with expansive herds of livestock.",
+        "bn": "কয়েক বছর কেটে গেল এবং তিনজন ব্যক্তিই বিপুল পশুসম্পদের মালিক হয়ে বিত্তশালী হয়ে উঠল।",
+        "words": [
+          {
+            "en": "Years passed",
+            "bn": "কয়েক বছর কেটে গেল"
+          },
+          {
+            "en": "immensely wealthy",
+            "bn": "প্রচুর ধনবান"
+          },
+          {
+            "en": "expansive herds",
+            "bn": "বিশাল পশুর পাল"
+          }
+        ]
+      },
+      {
+        "en": "The angel returned in the form of a ragged, destitute traveler to test their gratitude.",
+        "bn": "তাদের কৃতজ্ঞতা পরীক্ষা করার জন্য ফেরেশতা জীর্ণশীর্ণ এক নিঃস্ব মুসাফিরের বেশে ফিরে এলেন।",
+        "words": [
+          {
+            "en": "ragged destitute traveler",
+            "bn": "ছিন্নবস্ত্র পরিহিত নিঃস্ব মুসাফির"
+          },
+          {
+            "en": "test their gratitude",
+            "bn": "তাদের কৃতজ্ঞতা পরীক্ষা করতে"
+          }
+        ]
+      },
+      {
+        "en": "The former leper denied the traveler any charity, claiming he had inherited his immense wealth through his own noble lineage.",
+        "bn": "সাবেক কুষ্ঠরোগী মুসাফিরকে কোনো সাহায্য দিতে অস্বীকার করল এবং মিথ্যা দাবি করল যে সে এই বিপুল ধনসম্পদ পৈতৃক সূত্রে পেয়েছে।",
+        "words": [
+          {
+            "en": "denied charity",
+            "bn": "দান করতে অস্বীকার করল"
+          },
+          {
+            "en": "inherited wealth",
+            "bn": "উত্তরাধিকার সূত্রে পাওয়া সম্পদ"
+          },
+          {
+            "en": "noble lineage",
+            "bn": "অভিজাত বংশমর্যাদা"
+          }
+        ]
+      },
+      {
+        "en": "The former bald man likewise refused with arrogance, forgetting the wretched state from which Allah had delivered him.",
+        "bn": "টাকপড়া ব্যক্তিটিও একইভাবে অহংকার করে সাহায্য ফিরিয়ে দিল, ভুলে গেল সেই করুণ অবস্থার কথা যেখান থেকে আল্লাহ তাকে উদ্ধার করেছিলেন।",
+        "words": [
+          {
+            "en": "refused with arrogance",
+            "bn": "অহংকারের সাথে প্রত্যাখ্যান করল"
+          },
+          {
+            "en": "wretched state",
+            "bn": "করুণ ও শোচনীয় অবস্থা"
+          },
+          {
+            "en": "delivered him",
+            "bn": "তাকে মুক্তি দিয়েছিলেন"
+          }
+        ]
+      },
+      {
+        "en": "The angel proclaimed upon both: 'May Allah return you to the poverty and illness in which you once wallowed!'",
+        "bn": "ফেরেশতা উভয়ের জন্য বললেন: 'আল্লাহ যেন তোমাদের সেই পূর্বের দারিদ্র্য ও ব্যাধিতে ফিরিয়ে দেন যাতে তোমরা নিমজ্জিত ছিলে!'",
+        "words": [
+          {
+            "en": "proclaimed upon both",
+            "bn": "উভয়ের উদ্দেশ্যে ঘোষণা করলেন"
+          },
+          {
+            "en": "poverty and illness",
+            "bn": "দারিদ্র্য ও অসুস্থতা"
+          },
+          {
+            "en": "wallowed",
+            "bn": "নিমজ্জিত ছিলে"
+          }
+        ]
+      },
+      {
+        "en": "When the angel approached the blind man, he wept and said: 'I was blind, and Allah restored my sight; take whatever sheep you wish, for by Allah, I will hold nothing back from you today.'",
+        "bn": "ফেরেশতা যখন সাবেক অন্ধ ব্যক্তির কাছে গেলেন, সে অশ্রুসজল চোখে বলল: 'আমি অন্ধ ছিলাম, আল্লাহ আমাকে দৃষ্টি ফিরিয়ে দিয়েছেন; তোমার যতগুলো দুম্বা ইচ্ছা নিয়ে নাও, আল্লাহর কসম, আজ আমি তোমাকে কিছুই আটকে রাখব না।'",
+        "words": [
+          {
+            "en": "restored my sight",
+            "bn": "আমার দৃষ্টি ফিরিয়ে দিয়েছেন"
+          },
+          {
+            "en": "take whatever you wish",
+            "bn": "তোমার যা ইচ্ছা নিয়ে নাও"
+          },
+          {
+            "en": "hold nothing back",
+            "bn": "কিছুই আটকে রাখব না"
+          }
+        ]
+      },
+      {
+        "en": "The angel smiled and revealed: 'Keep your wealth, for Allah is well pleased with you and displeased with your two companions.'",
+        "bn": "ফেরেশতা মুচকি হেসে প্রকাশ করলেন: 'তোমার সম্পদ তোমার কাছেই রাখো, আল্লাহ তোমার ওপর সন্তুষ্ট হয়েছেন এবং তোমার অপর দুই সঙ্গীর ওপর ক্রুদ্ধ হয়েছেন।'",
+        "words": [
+          {
+            "en": "Keep your wealth",
+            "bn": "তোমার সম্পদ তোমার কাছে রাখো"
+          },
+          {
+            "en": "well pleased with you",
+            "bn": "তোমার প্রতি সন্তুষ্ট হয়েছেন"
+          },
+          {
+            "en": "displeased with companions",
+            "bn": "তোমার সঙ্গীদের ওপর অসন্তুষ্ট হয়েছেন"
+          }
+        ]
       }
     ]
   },
   {
-    "id": "mystery-holmes-silver-blaze",
-    "title": "Sherlock Holmes: The Curious Incident of Silver Blaze",
-    "titleBn": "শার্লক হোমস: রেসের ঘোড়া সিলভার ব্লেজ",
-    "author": "Sir Arthur Conan Doyle",
-    "level": "Intermediate",
-    "category": "Mystery & Detective",
-    "coverEmoji": "🐎",
-    "summary": "Sherlock Holmes solves the disappearance of a champion racehorse using the curious clue of a dog that did nothing in the night.",
-    "summaryBn": "রাতে পাহারাদার কুকুরের নিস্তব্ধ থাকার অদ্ভুত সূত্র ব্যবহার করে চ্যাম্পিয়ন রেসের ঘোড়া চুরির কিনারা করেন শার্লক হোমস।",
+    "id": "hadith-thirsty-dog-forgiveness",
+    "title": "The Sinner and the Thirsty Dog at the Well",
+    "titleBn": "তৃষ্ণার্ত কুকুরকে পানি পান করিয়ে পাপীর ক্ষমাপ্রাপ্তি",
+    "author": "Authentic Hadith (Sahih al-Bukhari & Sahih Muslim)",
+    "level": "Beginner",
+    "levelColor": "teal",
+    "category": "Quranic Chronicles",
+    "coverEmoji": "💧",
+    "summary": "A weary traveler climbed down into a deep desert well to quench his thirst; upon emerging, he noticed a dying dog licking wet dirt, and moved by compassion, risked the climb to save the beast, earning Allah's total forgiveness.",
+    "summaryBn": "মরুভূমির এক ক্লান্ত মুসাফির গভীর কূপে নেমে নিজের তৃষ্ণা মেটাল; উপরে উঠে সে তৃষ্ণায় কাতর এক কুকুরকে ভেজা মাটি চাটতে দেখে দয়ার্দ্র হলো এবং চামড়ার মোজায় পানি তুলে এনে কুকুরটিকে বাঁচাল, যার বিনিময়ে আল্লাহ তার সমস্ত পাপ ক্ষমা করে দিলেন।",
     "sentences": [
       {
-        "en": "The favorite racehorse for the Wessex Cup, Silver Blaze, vanished without a trace from the Dartmoor stables, and its trainer was found murdered on the moor.",
-        "bn": "ওয়েসেক্স কাপের সেরা দৌড়ের ঘোড়া সিলভার ব্লেজ ডার্টমুরের আস্তাবল থেকে উধাও হয়ে গেল এবং তার প্রশিক্ষককে মাঠের মাঝে মৃত অবস্থায় পাওয়া গেল।"
+        "en": "A lone traveler walked across the scorching desert sands beneath the blazing sun until his throat burned with unbearable thirst.",
+        "bn": "প্রখর রোদের নিচে জ্বলন্ত মরুভূমির বালির ওপর দিয়ে এক নিঃসঙ্গ মুসাফির পথ চলছিল, শেষ পর্যন্ত প্রচণ্ড পিপাসায় তার গলা শুকিয়ে কাঠ হয়ে গেল।",
+        "words": [
+          {
+            "en": "scorching desert sands",
+            "bn": "জ্বলন্ত মরুভূমির বালুকণা"
+          },
+          {
+            "en": "blazing sun",
+            "bn": "প্রখর সূর্য"
+          },
+          {
+            "en": "throat burned with thirst",
+            "bn": "পিপাসায় গলা শুকিয়ে গেল"
+          }
+        ]
       },
       {
-        "en": "Inspector Gregory of Scotland Yard arrested an outsider found wandering nearby, assuming the case was open and shut.",
-        "bn": "স্কটল্যান্ড ইয়ার্ডের পরিদর্শক গ্রেগরি কাছাকাছি ঘোরাফেরা করা এক বহিরাগতকে গ্রেপ্তার করে ভেবেছিলেন মামলাটির সহজ সমাধান হয়ে গেছে।"
+        "en": "By divine grace, he discovered an ancient stone well sunken deep into the arid earth.",
+        "bn": "আল্লাহর মেহেরবানিতে সে শুষ্ক মাটির গভীরে তৈরি প্রাচীন পাথরের এক পাতকূপ খুঁজে পেল।",
+        "words": [
+          {
+            "en": "By divine grace",
+            "bn": "আল্লাহর মেহেরবানিতে"
+          },
+          {
+            "en": "ancient stone well",
+            "bn": "প্রাচীন পাথরের তৈরি কূপ"
+          },
+          {
+            "en": "arid earth",
+            "bn": "শুষ্ক মাটি"
+          }
+        ]
       },
       {
-        "en": "Holmes drew Gregory's attention to a profound psychological clue: the curious incident of the watch guard dog in the night-time.",
-        "bn": "হোমস পরিদর্শকের দৃষ্টি আকর্ষণ করলেন এক গভীর মনস্তাত্ত্বিক সূত্রের দিকে: রাতের বেলা আস্তাবলের পাহারাদার কুকুরের অদ্ভুত নীরব আচরণ।"
+        "en": "Because there was no bucket or rope, he gripped the jagged stones and climbed down the perilous shaft to drink until he was satisfied.",
+        "bn": "সেখানে কোনো বালতি বা দড়ি না থাকায় সে ধারালো পাথর আঁকড়ে বিপজ্জনক খাড়া কূপের গভীরে নেমে পড়ল এবং তৃপ্তি সহকারে পানি পান করল।",
+        "words": [
+          {
+            "en": "no bucket or rope",
+            "bn": "কোনো বালতি বা দড়ি ছিল না"
+          },
+          {
+            "en": "gripped jagged stones",
+            "bn": "ধারালো পাথর আঁকড়ে ধরল"
+          },
+          {
+            "en": "climbed down perilous shaft",
+            "bn": "বিপজ্জনক খাড়া কূপে নেমে পড়ল"
+          },
+          {
+            "en": "drink until satisfied",
+            "bn": "তৃপ্তিভরে পান করল"
+          }
+        ]
       },
       {
-        "en": "When the inspector puzzled that the dog did nothing at all, Holmes smiled and remarked that its silence proved the intruder was someone familiar to the household.",
-        "bn": "ইন্সপেক্টর যখন অবাক হয়ে বললেন কুকুরটি তো কোনো আওয়াজই করেনি, হোমস হেসে বললেন কুকুরের এই নীরবতাই প্রমাণ করে রাতের আগন্তুক ঘরেরই চেনা কেউ ছিল।"
+        "en": "Climbing back to the surface, he was startled to see a wretched dog panting heavily and eating moist dust from extreme thirst.",
+        "bn": "উপরে উঠে এসে সে হতভম্ব হয়ে দেখল একটি দুর্বল কুকুর হাঁপাচ্ছে এবং তীব্র পিপাসায় ভেজা মাটি ও ধুলো চাটছে।",
+        "words": [
+          {
+            "en": "Climbing back to surface",
+            "bn": "উপরে উঠে এসে"
+          },
+          {
+            "en": "wretched dog panting",
+            "bn": "দুর্বল কুকুর হাঁপাচ্ছে"
+          },
+          {
+            "en": "eating moist dust",
+            "bn": "ভেজা ধুলো চাটছে"
+          },
+          {
+            "en": "extreme thirst",
+            "bn": "তীব্র পিপাসা"
+          }
+        ]
       },
       {
-        "en": "Examining the dead trainer's possessions, Holmes found a surgical cataract knife and a heavy bill for an expensive silk dress addressed under an alias.",
-        "bn": "মৃত প্রশিক্ষকের পকেট তল্লাশি করে হোমস চোখের অস্ত্রোপচারের বিশেষ ছুরি এবং অন্য এক মহিলার নামে কেনা অত্যন্ত দামি রেশমি পোশাকের বিল খুঁজে পেলেন।"
+        "en": "The man said to himself in profound sympathy: 'This poor creature is suffering from the exact agony of thirst that I just endured.'",
+        "bn": "লোকটি গভীর মায়ায় নিজের মনে বলল: 'এই অবলা প্রাণীটি ঠিক সেই পিপাসার যন্ত্রণায় কাতরাচ্ছে যা আমি একটু আগেই সহ্য করছিলাম।'",
+        "words": [
+          {
+            "en": "profound sympathy",
+            "bn": "গভীর সহমর্মিতা ও মায়া"
+          },
+          {
+            "en": "poor creature",
+            "bn": "অসহায় প্রাণী"
+          },
+          {
+            "en": "agony of thirst",
+            "bn": "পিপাসার তীব্র যন্ত্রণা"
+          }
+        ]
       },
       {
-        "en": "Holmes deduced that the greedy trainer had tried to make a tiny nick on the horse's tendon to rig the race, but the frightened animal struck him dead with its hoof.",
-        "bn": "হোমস প্রমাণ করলেন লোভে পড়ে প্রশিক্ষক নিজেই ঘোড়াটির পায়ের রগ সামান্য কেটে রেসে কারচুপি করতে চেয়েছিল, কিন্তু ভীত ঘোড়াটি লাথি মেরে তাকে হত্যা করে।"
+        "en": "Without hesitation, he descended into the treacherous well once more.",
+        "bn": "কোনো দ্বিধা ছাড়াই সে পুনরায় ওই বিপজ্জনক কূপে নেমে গেল।",
+        "words": [
+          {
+            "en": "Without hesitation",
+            "bn": "কোনো দ্বিধা ছাড়া"
+          },
+          {
+            "en": "descended into well",
+            "bn": "কূপের মধ্যে নামল"
+          },
+          {
+            "en": "treacherous well",
+            "bn": "বিপজ্জনক কূপ"
+          }
+        ]
       },
       {
-        "en": "Holmes found Silver Blaze safely hidden with another trainer and revealed the majestic stallion on race day, where it galloped triumphantly to victory.",
-        "bn": "হোমস পার্শ্ববর্তী এক আস্তাবলে লুকিয়ে রাখা সিলভার ব্লেজকে উদ্ধার করেন এবং রেসের দিন মাঠে এনে এক অবিস্মরণীয় জয় উপহার দেন।"
+        "en": "Having no vessel, he removed his sturdy leather boot, filled it to the brim with fresh water, and held it tightly between his teeth.",
+        "bn": "পানি তোলার কোনো পাত্র না থাকায় সে নিজের চামড়ার মোজা বা জুতো খুলে পানি দিয়ে কানায় কানায় পূর্ণ করল এবং তা দাঁতে চেপে ধরল।",
+        "words": [
+          {
+            "en": "removed sturdy leather boot",
+            "bn": "মজবুত চামড়ার মোজা খুলল"
+          },
+          {
+            "en": "filled to the brim",
+            "bn": "কানায় কানায় পূর্ণ করল"
+          },
+          {
+            "en": "held between teeth",
+            "bn": "দাঁত দিয়ে চেপে ধরল"
+          }
+        ]
+      },
+      {
+        "en": "He scaled the steep stone wall with both hands, risking a fatal fall to bring the water up.",
+        "bn": "পানি উপরে তুলে আনতে গিয়ে নিচে পড়ে মারা যাওয়ার ঝুঁকি নিয়ে সে দুই হাত দিয়ে খাড়া পাথুরে দেয়াল বেয়ে উঠল।",
+        "words": [
+          {
+            "en": "scaled steep stone wall",
+            "bn": "খাড়া পাথুরে দেয়াল বেয়ে উঠল"
+          },
+          {
+            "en": "risking fatal fall",
+            "bn": "প্রাণঘাতী পতনের ঝুঁকি নিয়ে"
+          }
+        ]
+      },
+      {
+        "en": "He placed the filled boot before the trembling animal and allowed it to drink greedily until its strength returned.",
+        "bn": "সে পানিভরা জুতোটি কাঁপতে থাকা প্রাণীটির সামনে রাখল এবং তৃষ্ণা মিটিয়ে সবল না হওয়া পর্যন্ত তাকে তৃপ্তিভরে পান করতে দিল।",
+        "words": [
+          {
+            "en": "trembling animal",
+            "bn": "কাঁপতে থাকা প্রাণী"
+          },
+          {
+            "en": "drink greedily",
+            "bn": "তৃপ্ত হয়ে পান করা"
+          },
+          {
+            "en": "strength returned",
+            "bn": "শক্তি ফিরে পেল"
+          }
+        ]
+      },
+      {
+        "en": "Allah appreciated his sincere act of pure mercy, accepted his deed, and forgave every sin he had ever committed.",
+        "bn": "আল্লাহ তার এই খাঁটি করুণাময় কাজকে কবুল করে নিলেন এবং তার জীবনের সমস্ত পাপ ক্ষমা করে দিলেন।",
+        "words": [
+          {
+            "en": "sincere act of pure mercy",
+            "bn": "খাঁটি সহমর্মিতার আমল"
+          },
+          {
+            "en": "accepted his deed",
+            "bn": "তার আমল কবুল করলেন"
+          },
+          {
+            "en": "forgave every sin",
+            "bn": "সমস্ত পাপ ক্ষমা করে দিলেন"
+          }
+        ]
+      },
+      {
+        "en": "When the Companions asked, 'O Messenger of Allah, is there truly a reward for serving animals?', he replied: 'In every living being with a moist liver, there is a reward.'",
+        "bn": "সাহাবিরা যখন জিজ্ঞাসা করলেন, 'হে আল্লাহর রাসুল, পশুদের সেবা করলেও কি সওয়াব আছে?', তিনি বললেন: 'প্রত্যেক আর্দ্র কলিজাধারী প্রাণীর সেবায় সওয়াব রয়েছে।'",
+        "words": [
+          {
+            "en": "reward for serving animals",
+            "bn": "পশুদের সেবায় সওয়াব"
+          },
+          {
+            "en": "every living being",
+            "bn": "প্রত্যেক জীবন্ত প্রাণী"
+          },
+          {
+            "en": "moist liver",
+            "bn": "আর্দ্র কলিজা / সজীব প্রাণ"
+          }
+        ]
       }
     ]
   },
   {
-    "id": "mystery-holmes-scandal-bohemia",
-    "title": "Sherlock Holmes: A Scandal in Bohemia",
-    "titleBn": "শার্লক হোমস: বোহেমিয়ার কেলেঙ্কারি ও আইরিন অ্যাডলার",
-    "author": "Sir Arthur Conan Doyle",
+    "id": "quranic-ashab-al-fil",
+    "title": "The Year of the Elephant and the Divine Flocks",
+    "titleBn": "হস্তীবাহিনীর ঘটনা ও ঝাঁকে ঝাঁকে আবাবিল পাখি",
+    "author": "Surah Al-Fil (Quran 105) & Sirah Ibn Hisham",
     "level": "Intermediate",
-    "category": "Mystery & Detective",
-    "coverEmoji": "🎭",
-    "summary": "Sherlock Holmes matches wits with Irene Adler, the brilliant opera singer who famously outmaneuvered the master detective.",
-    "summaryBn": "বিখ্যাত অপেরা গায়িকা আইরিন অ্যাডলারের বুদ্ধিদীপ্ত কৌশলে স্বয়ং শার্লক হোমসের হার মানার রোমাঞ্চকর উপাখ্যান।",
+    "levelColor": "purple",
+    "category": "Quranic Chronicles",
+    "coverEmoji": "🐘",
+    "summary": "Abraha marched toward Makkah with a terrifying army and mighty war elephants to demolish the Holy Kaaba, but Allah sent miraculous flocks of birds bearing baked clay stones to obliterate the proud invaders.",
+    "summaryBn": "ইয়েমেনের শাসক আবরাহা পবিত্র কাবা ঘর ধ্বংস করার অশুভ উদ্দেশ্যে বিশাল যুদ্ধহস্তী ও সৈন্য নিয়ে মক্কার দিকে অগ্রসর হয়েছিল; কিন্তু আল্লাহ ঝাঁকে ঝাঁকে আবাবিল পাখি পাঠিয়ে পোড়ামাটির কঙ্কর নিক্ষেপ করে অহংকারী বাহিনীকে ধ্বংসপ্রাপ্ত খড়কুটোয় পরিণত করেন।",
     "sentences": [
       {
-        "en": "The hereditary King of Bohemia visited Sherlock Holmes in deep disguise, desperate to recover a compromising photograph held by an opera singer named Irene Adler.",
-        "bn": "বোহেমিয়ার যুবরাজ ছদ্মবেশে শার্লক হোমসের কাছে এসে অনুরোধ করলেন অপেরা গায়িকা আইরিন অ্যাডলারের কাছে থাকা একটি গোপনীয় ছবি উদ্ধার করে দিতে।"
+        "en": "Abraha al-Ashram, the viceroy of Yemen, constructed a magnificent cathedral named Al-Qullays to divert Arab pilgrims away from the Kaaba.",
+        "bn": "ইয়েমেনের গভর্নর আবরাহা আল-আশরাম 'আল-কুল্লাইস' নামে এক সুরম্য গির্জা নির্মাণ করেছিল যাতে আরব তীর্থযাত্রীদের পবিত্র কাবা থেকে সেখানে ঘুরিয়ে নেওয়া যায়।",
+        "words": [
+          {
+            "en": "viceroy of Yemen",
+            "bn": "ইয়েমেনের গভর্নর"
+          },
+          {
+            "en": "magnificent cathedral",
+            "bn": "সুরম্য গির্জা"
+          },
+          {
+            "en": "divert Arab pilgrims",
+            "bn": "আরব তীর্থযাত্রীদের ফিরিয়ে দিতে"
+          },
+          {
+            "en": "away from the Kaaba",
+            "bn": "কাবা ঘর থেকে দূরে"
+          }
+        ]
       },
       {
-        "en": "If revealed, the photograph showing the prince with the American singer would shatter his impending royal marriage into pieces.",
-        "bn": "ছবিটি ফাঁস হলে এক অভিজাত রাজকন্যার সাথে যুবরাজের আসন্ন বিয়ের সম্বন্ধ চিরতরে ভেঙে ধূলিসাৎ হয়ে যেত।"
+        "en": "When an Arab defiled the opulent building in indignation, Abraha swore an arrogant oath to march on Makkah and tear the Kaaba down stone by stone.",
+        "bn": "এক ক্ষুব্ধ আরব ব্যক্তি যখন সেই বিলাসবহুল ভবনে মলত্যাগ করে অপবিত্র করল, আবরাহা অহংকার করে শপথ নিল যে সে মক্কায় গিয়ে কাবাকে ইট-পাথর আলাদা করে ধ্বংস করবে।",
+        "words": [
+          {
+            "en": "defiled opulent building",
+            "bn": "বিলাসবহুল ভবন অপবিত্র করল"
+          },
+          {
+            "en": "swore an arrogant oath",
+            "bn": "অহংকারের সাথে শপথ নিল"
+          },
+          {
+            "en": "tear the Kaaba down",
+            "bn": "কাবা ঘর গুঁড়িয়ে দিতে"
+          },
+          {
+            "en": "stone by stone",
+            "bn": "পাথরে পাথরে বিচ্ছিন্ন করে"
+          }
+        ]
       },
       {
-        "en": "Holmes disguised himself as a ragged clergyman and arranged a fake street scuffle outside Adler's luxurious villa.",
-        "bn": "হোমস এক নিরীহ বৃদ্ধ ধর্মযাজকের ছদ্মবেশ ধারণ করলেন এবং অ্যাডলারের বাড়ির সামনে একটি সাজানো মারামারির আয়োজন করলেন।"
+        "en": "He assembled a colossal army equipped with towering armor and led by Mahmud, a gigantic armored war elephant.",
+        "bn": "সে লৌহবর্মে সজ্জিত এক বিশাল সেনাবাহিনী প্রস্তুত করল, যার অগ্রভাগে ছিল 'মাহমুদ' নামের এক অতিকায় যুদ্ধহস্তী।",
+        "words": [
+          {
+            "en": "assembled colossal army",
+            "bn": "এক বিশাল বাহিনী জড়ো করল"
+          },
+          {
+            "en": "towering armor",
+            "bn": "উঁচু বর্ম"
+          },
+          {
+            "en": "gigantic war elephant",
+            "bn": "বিশাল যুদ্ধহস্তী"
+          }
+        ]
       },
       {
-        "en": "Carried inside her parlor as an injured bystander, Holmes signaled Watson to toss a smoking plumber's flare through the open window and shout 'Fire!'",
-        "bn": "আহত পথচারী সেজে ঘরের ভেতরে প্রবেশ করার পর হোমসের ইশারায় ওয়াটসন জানালা দিয়ে ধোঁয়া তৈরি করা পটকা ফেলে চিৎকার করে উঠল: 'আগুন! আগুন!'"
+        "en": "As the army neared Makkah, Abraha confiscated two hundred camels belonging to Abdul Muttalib, the chief of Quraysh and grandfather of the Prophet ﷺ.",
+        "bn": "বাহিনী যখন মক্কার নিকটে এলো, আবরাহা কুরাইশ নেতা এবং রাসুলুল্লাহ ﷺ-এর দাদা আবদুল মুত্তালিবের দুইশত উট লুট করে নিল।",
+        "words": [
+          {
+            "en": "army neared Makkah",
+            "bn": "বাহিনী মক্কার সন্নিকটে এলো"
+          },
+          {
+            "en": "confiscated two hundred camels",
+            "bn": "দুইশত উট বাজেয়াপ্ত করল"
+          },
+          {
+            "en": "chief of Quraysh",
+            "bn": "কুরাইশদের সরদার"
+          }
+        ]
       },
       {
-        "en": "Instinctively, Irene Adler rushed straight to a secret sliding panel in the wall to safeguard her most precious possession.",
-        "bn": "প্রাণে বেঁচে থাকার আদিম তাড়নায় আইরিন অ্যাডলার কালবিলম্ব না করে দেয়ালের গোপন তাকের দিকে ছুটে গেল তার সবচেয়ে দামি সম্পদ বাঁচাতে।"
+        "en": "Abdul Muttalib confronted Abraha demanding his camels back, saying: 'I am the owner of the camels, but this House has a Lord who will surely protect it.'",
+        "bn": "আবদুল মুত্তালিব আবরাহার দরবারে গিয়ে নিজের উটগুলো ফেরত চাইলেন এবং বললেন: 'আমি উটের মালিক, আর এই ঘরের একজন মহান রব আছেন যিনি একে রক্ষা করবেন।'",
+        "words": [
+          {
+            "en": "confronted Abraha",
+            "bn": "আবরাহার মুখোমুখি হলেন"
+          },
+          {
+            "en": "owner of the camels",
+            "bn": "উটগুলোর মালিক"
+          },
+          {
+            "en": "House has a Lord",
+            "bn": "এই ঘরের একজন রব আছেন"
+          },
+          {
+            "en": "surely protect it",
+            "bn": "নিশ্চয়ই একে রক্ষা করবেন"
+          }
+        ]
       },
       {
-        "en": "Holmes saw the hiding place and withdrew calmly, planning to return the following morning with the king to confiscate the photo.",
-        "bn": "হোমস ছবির আসল আস্তানা দেখে নিয়ে শান্তভাবে বেরিয়ে এলেন, সকালে যুবরাজকে সাথে নিয়ে ছবিটি আনুষ্ঠানিকভাবে উদ্ধারের পরিকল্পনা করে।"
+        "en": "The Quraysh evacuated the valley, climbing the mountains surrounding Makkah to witness what divine retribution would unfold.",
+        "bn": "কুরাইশরা মক্কার উপত্যকা খালি করে আশেপাশের পাহাড়ে আশ্রয় নিল, দেখার জন্য কী ঐশী শাস্তি তাদের ওপর নেমে আসে।",
+        "words": [
+          {
+            "en": "evacuated the valley",
+            "bn": "উপত্যকা খালি করল"
+          },
+          {
+            "en": "climbing the mountains",
+            "bn": "পাহাড়ে আরোহণ করে"
+          },
+          {
+            "en": "divine retribution",
+            "bn": "ঐশী শাস্তি"
+          }
+        ]
       },
       {
-        "en": "However, by dawn, Irene Adler had fled England with her new husband, leaving behind a letter praising Holmes's brilliance and promising never to harm the king.",
-        "bn": "কিন্তু ভোর হতেই আইরিন তার স্বামীকে নিয়ে ইংল্যান্ড ত্যাগ করে চলে গেল, হোমসের বুদ্ধির প্রশংসা করে যুবরাজকে কোনো ক্ষতি না করার প্রতিজ্ঞাপত্র রেখে।"
+        "en": "When Abraha ordered the elephant Mahmud to charge into the sanctuary, the beast knelt down on its knees and refused to advance a single pace.",
+        "bn": "আবরাহা যখন হাতি মাহমুদকে পবিত্র কাবার দিকে অগ্রসর হওয়ার নির্দেশ দিল, হাতিটি হাঁটু গেড়ে মাটিতে বসে পড়ল এবং এক পা-ও এগোতে অস্বীকৃতি জানাল।",
+        "words": [
+          {
+            "en": "ordered to charge",
+            "bn": "আক্রমণ করার নির্দেশ দিল"
+          },
+          {
+            "en": "knelt down on knees",
+            "bn": "হাঁটু গেড়ে বসে পড়ল"
+          },
+          {
+            "en": "refused to advance",
+            "bn": "অগ্রসর হতে অস্বীকার করল"
+          }
+        ]
       },
       {
-        "en": "Ever after, Sherlock Holmes referred to Irene Adler with profound admiration, remembering her forever simply as 'the Woman.'",
-        "bn": "এর পর থেকে শার্লক হোমস গভীর শ্রদ্ধার সাথে আইরিন অ্যাডলারকে স্মরণ করতেন এবং সবসময় তাকে কেবল 'সেই নারী' বলে অভিহিত করতেন।"
+        "en": "Whenever they turned the elephant toward Yemen or Syria, it ran eagerly, but whenever turned toward the Kaaba, it dropped motionless.",
+        "bn": "হাতিটিকে যখনই ইয়েমেন বা সিরিয়ার দিকে মুখ করানো হতো সে দৌড়ে যেত, কিন্তু কাবার দিকে ফেরালেই নিশ্চল হয়ে বসে পড়ত।",
+        "words": [
+          {
+            "en": "ran eagerly",
+            "bn": "আগ্রহের সাথে দৌড়াত"
+          },
+          {
+            "en": "turned toward Kaaba",
+            "bn": "কাবার দিকে ফেরালে"
+          },
+          {
+            "en": "dropped motionless",
+            "bn": "নিশ্চল হয়ে বসে পড়ত"
+          }
+        ]
+      },
+      {
+        "en": "Suddenly, dark skies over the Red Sea filled with enormous flocks of swallow-like birds known as Ababil.",
+        "bn": "হঠাৎ লোহিত সাগরের দিক থেকে আসা কালো মেঘের মতো আকাশে ঝাঁকে ঝাঁকে 'আবাবিল' পাখির দল আবির্ভূত হলো।",
+        "words": [
+          {
+            "en": "dark skies",
+            "bn": "কালো আকাশ"
+          },
+          {
+            "en": "enormous flocks of birds",
+            "bn": "পাখির বিশাল ঝাঁক"
+          },
+          {
+            "en": "known as Ababil",
+            "bn": "আবাবিল নামে পরিচিত"
+          }
+        ]
+      },
+      {
+        "en": "Each tiny bird carried three pellets of baked clay stone—one in its beak and two clutched firmly within its claws.",
+        "bn": "প্রতিটি ছোট পাখি পোড়ামাটির তিনটি করে কঙ্কর বহন করছিল—একটি তার চঞ্চুতে এবং দুটি তার দুই পায়ে শক্তভাবে ধরা।",
+        "words": [
+          {
+            "en": "pellets of baked clay",
+            "bn": "পোড়ামাটির কঙ্কর / পাথর"
+          },
+          {
+            "en": "in its beak",
+            "bn": "তার ঠোঁটে"
+          },
+          {
+            "en": "clutched within claws",
+            "bn": "পাঞ্জায় আঁকড়ে ধরে"
+          }
+        ]
+      },
+      {
+        "en": "The birds dropped their lethal stones from the heavens, piercing the armor and bodies of Abraha's soldiers like fiery bullets.",
+        "bn": "পাখিগুলো আকাশ থেকে সেই মারাত্মক কঙ্কর নিক্ষেপ করল, যা আগ্নেয়াস্ত্রের বুলেটের মতো আবরাহার সেনাদের বর্ম ও শরীর ভেদ করে চলে গেল।",
+        "words": [
+          {
+            "en": "dropped lethal stones",
+            "bn": "মারাত্মক পাথর ফেলল"
+          },
+          {
+            "en": "piercing armor and bodies",
+            "bn": "বর্ম ও দেহ ভেদ করে"
+          },
+          {
+            "en": "fiery bullets",
+            "bn": "অগ্নিবাণের মতো"
+          }
+        ]
+      },
+      {
+        "en": "Panic shattered their ranks, and the arrogant army was transformed into hollow chewed stalks of straw, as described in the Quran.",
+        "bn": "সেনাবাহিনীতে চরম ত্রাস সৃষ্টি হলো এবং কোরআনের বর্ণনামতে অহংকারী দলটি চিবিয়ে খাওয়া খড়কুটোয় পরিণত হলো।",
+        "words": [
+          {
+            "en": "Panic shattered ranks",
+            "bn": "আতঙ্কে শৃঙ্খল চুরমার হলো"
+          },
+          {
+            "en": "transformed",
+            "bn": "রূপান্তরিত হলো"
+          },
+          {
+            "en": "chewed stalks of straw",
+            "bn": "ভক্ষিত ও চিবানো ভুষি/খড়কুটো"
+          }
+        ]
+      },
+      {
+        "en": "Abraha fled in agonizing torment with his flesh disintegrating piece by piece until he perished in Sana'a, preserving the Kaaba for the dawn of Islam.",
+        "bn": "আবরাহা যন্ত্রণাদায়ক অবস্থায় পালাতে থাকল এবং খসে পড়া মাংসপিণ্ড নিয়ে সানায় গিয়ে মারা গেল; আর পবিত্র কাবা সংরক্ষিত রইল ইসলামের শুভ সূচনার জন্য।",
+        "words": [
+          {
+            "en": "agonizing torment",
+            "bn": "যন্ত্রণাদায়ক আযাব"
+          },
+          {
+            "en": "flesh disintegrating",
+            "bn": "মাংস খসে পড়ছিল"
+          },
+          {
+            "en": "preserving the Kaaba",
+            "bn": "কাবা ঘরকে সুরক্ষিত রেখে"
+          }
+        ]
       }
     ]
   },
   {
-    "id": "mystery-poe-purloined-letter",
-    "title": "The Purloined Letter",
-    "titleBn": "এডগার অ্যালান পো: চুরি যাওয়া চিঠি",
-    "author": "Edgar Allan Poe",
-    "level": "Intermediate",
-    "category": "Mystery & Detective",
-    "coverEmoji": "✉️",
-    "summary": "C. Auguste Dupin demonstrates the art of psychological reasoning by locating a stolen letter in plain sight.",
-    "summaryBn": "অগাস্ট ডুপাঁ কীভাবে মনস্তাত্ত্বিক বিশ্লেষণের মাধ্যমে সবার চোখের সামনে খোলামেলা রাখা একটি চুরি যাওয়া চিঠি উদ্ধার করেছিলেন।",
+    "id": "quranic-queen-sheba-throne",
+    "title": "The Miracle of Transporting Queen Bilqis's Throne",
+    "titleBn": "রানি বিলকিসের সিংহাসন নিমেষে হাজির করার মোজেজা",
+    "author": "Surah An-Naml (Quran 27:38-44)",
+    "level": "Advanced",
+    "levelColor": "amber",
+    "category": "Quranic Chronicles",
+    "coverEmoji": "👑",
+    "summary": "When Queen Bilqis journeyed from Yemen to submit to King Sulaiman, Sulaiman requested her magnificent jewel-encrusted throne to be brought instantly; a righteous man blessed with knowledge of the Book delivered it in the blink of an eye.",
+    "summaryBn": "রানি বিলকিস যখন আত্মসমর্পণ করতে ইয়েমেন থেকে সুলাইমান (আ.)-এর দরবারে আসছিলেন, সুলাইমান তার রত্নখচিত সিংহাসনটি চোখের পলকে হাজির করার আহ্বান জানান; কিতাবের বিশেষ এলেমধারী এক নেককার ব্যক্তি পলকের মধ্যেই তা দরবারে হাজির করেন।",
     "sentences": [
       {
-        "en": "The Prefect of the Paris Police consulted the analytical investigator C. Auguste Dupin regarding a scandalous royal letter stolen by a powerful government minister.",
-        "bn": "প্যারিস পুলিশ প্রধান দক্ষ বিশ্লেষক সি. অগাস্ট ডুপাঁর কাছে এসে এক উচ্চপদস্থ মন্ত্রীর চুরি করা একটি রাজকীয় চিঠির ব্যাপারে পরামর্শ চাইলেন।"
+        "en": "Upon receiving the elegant and authoritative letter from Prophet Sulaiman, Queen Bilqis of Sheba realized worldly armies could never resist his power.",
+        "bn": "নবী সুলাইমান (আ.)-এর মার্জিত ও প্রভাবশালী চিঠি পেয়ে শেবার রানি বিলকিস বুঝতে পারলেন যে কোনো পার্থিব বাহিনী তার ক্ষমতার মোকাবিলা করতে পারবে না।",
+        "words": [
+          {
+            "en": "authoritative letter",
+            "bn": "প্রভাবশালী চিঠি"
+          },
+          {
+            "en": "Queen Bilqis of Sheba",
+            "bn": "শেবার রানি বিলকিস"
+          },
+          {
+            "en": "worldly armies",
+            "bn": "পার্থিব সৈন্যবাহিনী"
+          },
+          {
+            "en": "could never resist",
+            "bn": "কখনই প্রতিহত করতে পারবে না"
+          }
+        ]
       },
       {
-        "en": "The minister was blackmailing an aristocratic lady, and recovering the letter was vital for state tranquility.",
-        "bn": "সেই মন্ত্রী চিঠিটি দেখিয়ে এক সম্ভ্রান্ত মহিলাকে ব্ল্যাকমেইল করছিল এবং দেশের রাজনৈতিক শান্তির জন্য চিঠিটি উদ্ধার করা অপরিহার্য ছিল।"
+        "en": "She departed from Yemen at the head of a massive caravan to present herself at his royal court in Jerusalem.",
+        "bn": "তিনি জেরুজালেমে সুলাইমানের রাজদরবারে উপস্থিত হওয়ার জন্য এক বিশাল কাফেলা নিয়ে ইয়েমেন থেকে রওনা হলেন।",
+        "words": [
+          {
+            "en": "head of massive caravan",
+            "bn": "বিশাল কাফেলার অগ্রভাগে"
+          },
+          {
+            "en": "royal court in Jerusalem",
+            "bn": "জেরুজালেমের রাজদরবার"
+          }
+        ]
       },
       {
-        "en": "For three months, the police had searched the minister's residence with microscopic precision, probing furniture cushions, hollow chair legs, and under wallpaper without finding anything.",
-        "bn": "তিন মাস ধরে পুলিশ অতিক্ষুদ্র বিবরণে মন্ত্রীর বাড়ি তছনছ করেছিল; চেয়ারের পায়া, গদির ভেতর, দেয়ালের কাগজের নিচে খুঁজেও কিছুই পেল না।"
+        "en": "Sulaiman addressed his assembly of men and jinn: 'O chiefs, which of you can bring me her grand throne before they arrive in submission?'",
+        "bn": "সুলাইমান তার মানুষ ও জিনদের পরিষদকে ডেকে বললেন: 'হে পারিষদবর্গ, তারা অনুগত হয়ে আমার কাছে পৌঁছানোর আগেই তোমাদের মধ্যে কে তার সিংহাসনটি আমার কাছে এনে দিতে পারো?'",
+        "words": [
+          {
+            "en": "addressed his assembly",
+            "bn": "তার পরিষদকে সম্বোধন করলেন"
+          },
+          {
+            "en": "bring me her grand throne",
+            "bn": "তার বিশাল সিংহাসনটি এনে দাও"
+          },
+          {
+            "en": "arrive in submission",
+            "bn": "অনুগত হয়ে উপস্থিত হওয়া"
+          }
+        ]
       },
       {
-        "en": "Dupin explained that the police failed because they assumed the thief would hide the document in an intricate hiding spot suitable only for ordinary minds.",
-        "bn": "ডুপাঁ বোঝালেন যে পুলিশের ব্যর্থতার কারণ হলো তারা ধরে নিয়েছিল চোর একজন সাধারণ মানুষের মতো কোনো জটিল বা গভীর গোপন জায়গায় চিঠি লুকোবে।"
+        "en": "A ferocious and powerful Ifrit from among the jinn boasted, 'I will bring it to you before you rise from your council seat, for I am strong and trustworthy.'",
+        "bn": "জিনদের মধ্য থেকে এক শক্তিশালী ও পরাক্রমশালী ইফরিত গর্জন করে বলল, 'আপনি আপনার দরবার থেকে ওঠার আগেই আমি তা এনে দেব, এবং আমি নিশ্চয়ই ক্ষমতাবান ও বিশ্বস্ত।'",
+        "words": [
+          {
+            "en": "powerful Ifrit",
+            "bn": "শক্তিশালী ইফরিত (দৈত্যাকার জিন)"
+          },
+          {
+            "en": "rise from council seat",
+            "bn": "দরবারের আসন থেকে ওঠার আগে"
+          },
+          {
+            "en": "strong and trustworthy",
+            "bn": "শক্তিশালী ও বিশ্বস্ত"
+          }
+        ]
       },
       {
-        "en": "Visiting the minister under the pretense of poor eyesight, Dupin wore green spectacles to scan the study unobtrusively.",
-        "bn": "চোখের সমস্যার বাহানা দিয়ে সবুজ চশমা পরে মন্ত্রীর ঘরে হাজির হয়ে ডুপাঁ নিজের দৃষ্টি গোপন রেখে পুরো ঘরটি নিরীক্ষণ করলেন।"
+        "en": "However, a faithful servant endowed with profound knowledge of the Scripture spoke up: 'I will bring it to you before your gaze returns to you in the blink of an eye.'",
+        "bn": "কিন্তু আসমানি কিতাবের গভীর জ্ঞানের অধিকারী এক পুণ্যবান ব্যক্তি বলে উঠল: 'আপনার চোখের পলক ফেলার আগেই আমি তা আপনার সামনে হাজির করে দেব।'",
+        "words": [
+          {
+            "en": "endowed with knowledge",
+            "bn": "জ্ঞানে ভূষিত"
+          },
+          {
+            "en": "knowledge of Scripture",
+            "bn": "কিতাবের গভীর জ্ঞান"
+          },
+          {
+            "en": "blink of an eye",
+            "bn": "চোখের এক পলকে"
+          }
+        ]
       },
       {
-        "en": "He immediately spotted a crumpled, soiled envelope dangling casually from a cheap ribbon on the mantelpiece, right in front of everyone's eyes.",
-        "bn": "তিনি সাথে সাথেই দেখলেন একটি দুমড়ানো-মোচড়ানো ময়লা খাম ফায়ারপ্লেসের ওপর ঝুলন্ত ফিতায় সবার চোখের সামনে খোলামেলাভাবে রাখা আছে।"
+        "en": "Before Sulaiman could even close his eyelid, the colossal golden throne studded with pearls and emeralds stood firmly resting before him.",
+        "bn": "সুলাইমান চোখের পলক ফেলার আগেই মুক্তো ও পান্না খচিত সেই বিশালাকার স্বর্ণসিংহাসনটি তার সামনে দৃশ্যমান হয়ে দাঁড়িয়ে রইল।",
+        "words": [
+          {
+            "en": "close his eyelid",
+            "bn": "চোখের পলক ফেলা"
+          },
+          {
+            "en": "colossal golden throne",
+            "bn": "বিশাল স্বর্ণসিংহাসন"
+          },
+          {
+            "en": "studded with pearls",
+            "bn": "মুক্তা খচিত"
+          },
+          {
+            "en": "stood firmly resting",
+            "bn": "স্থিরভাবে দৃশ্যমান হলো"
+          }
+        ]
       },
       {
-        "en": "The minister had turned the letter inside out, restamped it with a new seal, and left it entirely unhidden to disarm suspicion.",
-        "bn": "মন্ত্রী আসলে চিঠিটি উল্টো করে ভাঁজ করে, নতুন সিল মেরে এতটাই অবহেলাভরে রেখেছিল যাতে কারোরই কোনো সন্দেহ না জাগে।"
+        "en": "Seeing this extraordinary miracle, Sulaiman declared: 'This is from the grace of my Lord, to test whether I am grateful or ungrateful.'",
+        "bn": "এই অসাধারণ মোজেজা দেখে সুলাইমান বিনম্রভাবে বললেন: 'এটি আমার প্রতিপালকের অনুগ্রহ, তিনি পরীক্ষা করছেন আমি কৃতজ্ঞতা প্রকাশ করি নাকি অকৃতজ্ঞ হই।'",
+        "words": [
+          {
+            "en": "extraordinary miracle",
+            "bn": "অসাধারণ মোজেজা"
+          },
+          {
+            "en": "grace of my Lord",
+            "bn": "আমার রবের অনুগ্রহ"
+          },
+          {
+            "en": "grateful or ungrateful",
+            "bn": "কৃতজ্ঞ নাকি অকৃতজ্ঞ"
+          }
+        ]
       },
       {
-        "en": "The next day, Dupin staged a distraction outside the window, swapped the document with a perfect replica, and delivered the true letter to the police.",
-        "bn": "পরদিন বাইরে এক সাজানো গোলমাল তৈরি করে ডুপাঁ পলকের মধ্যে চিঠিটি হুবহু এক নকল কাগজ দিয়ে বদলে নিয়ে পুলিশের হাতে আসল চিঠি তুলে দেন।"
+        "en": "Sulaiman ordered slight alterations to the throne's jewels to test whether the queen would recognize her own possession.",
+        "bn": "সুলাইমান সিংহাসনের রত্নরাজিতে সামান্য রদবদল করার আদেশ দিলেন, দেখতে যে রানি তার নিজের সম্পদ চিনতে পারেন কি না।",
+        "words": [
+          {
+            "en": "slight alterations",
+            "bn": "সামান্য রদবদল"
+          },
+          {
+            "en": "recognize own possession",
+            "bn": "নিজের সম্পদ চিনতে পারা"
+          }
+        ]
+      },
+      {
+        "en": "When Bilqis arrived and was asked if her throne resembled this, she astutely replied: 'It is as though it were the very same!'",
+        "bn": "বিলকিস যখন পৌঁছালেন এবং তাকে জিজ্ঞাসা করা হলো এটি কি তার সিংহাসনের মতো, তিনি বুদ্ধিমত্তার সাথে জবাব দিলেন: 'এটি যেন হুবহু সেটাই!'",
+        "words": [
+          {
+            "en": "astutely replied",
+            "bn": "বুদ্ধিমত্তার সাথে উত্তর দিলেন"
+          },
+          {
+            "en": "as though the very same",
+            "bn": "যেন হুবহু সেটাই"
+          }
+        ]
+      },
+      {
+        "en": "She was then invited to enter the majestic palace paved with transparent crystal over flowing water, which she mistook for a deep pool and lifted her hem.",
+        "bn": "এরপর তাকে প্রবাহিত পানির ওপর নির্মিত স্বচ্ছ স্ফটিকের রাজপ্রাসাদে প্রবেশ করতে বলা হলো; তিনি একে গভীর জলাশয় মনে করে তার পোশাকের প্রান্ত তুলে ধরলেন।",
+        "words": [
+          {
+            "en": "transparent crystal",
+            "bn": "স্বচ্ছ স্ফটিক"
+          },
+          {
+            "en": "flowing water",
+            "bn": "প্রবাহিত পানি"
+          },
+          {
+            "en": "mistook for deep pool",
+            "bn": "গভীর জলাশয় মনে করলেন"
+          },
+          {
+            "en": "lifted her hem",
+            "bn": "পোশাকের প্রান্ত তুলে ধরলেন"
+          }
+        ]
+      },
+      {
+        "en": "Sulaiman gently clarified that it was polished glass, whereupon Bilqis renounced idolatry and surrendered her soul to Allah, Lord of the worlds.",
+        "bn": "সুলাইমান বুঝিয়ে বললেন এটি মসৃণ কাচের মেঝে; তখন বিলকিস সূর্যপূজা পরিত্যাগ করলেন এবং সমগ্র জাহানের প্রতিপালক আল্লাহর কাছে আত্মসমর্পণ করলেন।",
+        "words": [
+          {
+            "en": "polished glass",
+            "bn": "মসৃণ কাচ"
+          },
+          {
+            "en": "renounced idolatry",
+            "bn": "মূর্তিপূজা ত্যাগ করলেন"
+          },
+          {
+            "en": "surrendered her soul",
+            "bn": "আত্মসমর্পণ করলেন"
+          }
+        ]
       }
     ]
   },
   {
-    "id": "mystery-poe-rue-morgue",
-    "title": "The Murders in the Rue Morgue",
-    "titleBn": "এডগার অ্যালান পো: রু মর্গ-এর হত্যাকাণ্ড",
-    "author": "Edgar Allan Poe",
-    "level": "Intermediate",
-    "category": "Mystery & Detective",
-    "coverEmoji": "🩸",
-    "summary": "The world's first fictional detective solves a seemingly impossible locked-room double homicide in Paris.",
-    "summaryBn": "বিশ্ব সাহিত্যের সর্বপ্রথম কাল্পনিক গোয়েন্দা অগাস্ট ডুপাঁ কীভাবে প্যারিসের এক বদ্ধ ঘরে ঘটে যাওয়া রোমহর্ষক জোড়া খুনের সমাধান করেছিলেন।",
+    "id": "hadith-man-lost-camel",
+    "title": "The Desert Traveler and the Joy of Allah over Repentance",
+    "titleBn": "মরুভূমিতে হারানো উট ও তাওবায় আল্লাহর আনন্দ",
+    "author": "Authentic Hadith (Sahih Muslim & Sahih al-Bukhari)",
+    "level": "Beginner",
+    "levelColor": "green",
+    "category": "Quranic Chronicles",
+    "coverEmoji": "🐪",
+    "summary": "A traveler loses his mount bearing all his water and food in a lethal desert and awaits death beneath a tree; upon awakening, his mount stands before him, illustrating how intensely Allah rejoices when a servant returns in repentance.",
+    "summaryBn": "মরুভূমিতে পথ চলতে গিয়ে এক মুসাফির তার উট হারিয়ে ফেলে যার পিঠে ছিল সমস্ত খাবার ও পানি; নিরাশ হয়ে গাছের ছায়ায় মৃত্যুর প্রতীক্ষায় ঘুমানোর পর চোখ খুলতেই সে উটটিকে অক্ষত অবস্থায় সামনে দেখতে পায়; নবীজি ﷺ বর্ণনা করেন তাওবাকারীর প্রতি আল্লাহ এর চেয়েও অধিক আনন্দিত হন।",
     "sentences": [
       {
-        "en": "Paris was paralyzed with horror after Madame L'Espanaye and her daughter were brutally murdered inside a fourth-story apartment on the Rue Morgue.",
-        "bn": "রু মর্গের চারতলার এক ফ্ল্যাটে মাদাম লেস্পানায়ে ও তার মেয়ের নারকীয় হত্যাকাণ্ডের খবরে পুরো প্যারিস শহর আতঙ্কে স্তব্ধ হয়ে গেল।"
+        "en": "A traveler was trekking through a vast, barren desert wasteland where no water springs existed and no human soul walked.",
+        "bn": "এক মুসাফির এক বিশাল ও নির্জন মরুপ্রান্তর পাড়ি দিচ্ছিল, যেখানে কোনো পানির ঝর্ণা ছিল না এবং কোনো মানুষের পদচিহ্নও ছিল না।",
+        "words": [
+          {
+            "en": "vast barren wasteland",
+            "bn": "বিশাল ও জনমানবহীন প্রান্তর"
+          },
+          {
+            "en": "no water springs",
+            "bn": "কোনো পানির ঝর্ণা নেই"
+          },
+          {
+            "en": "no human soul",
+            "bn": "কোনো মানবসন্তান নেই"
+          }
+        ]
       },
       {
-        "en": "The apartment door was locked firmly from the inside, the windows were barred, and no valuables appeared to have been stolen.",
-        "bn": "ঘরের দরজা ভেতর থেকে শক্ত করে খিল দেওয়া ছিল, জানালাগুলো বন্ধ ছিল এবং ঘরের কোনো মূল্যবান জিনিসও চুরি যায়নি।"
+        "en": "He dismounted under the meager shade of a solitary tree to rest his exhausted limbs and fell into a deep slumber.",
+        "bn": "ক্লান্ত-শ্রান্ত শরীর জুড়াতে সে একাকী এক গাছের সামান্য ছায়ায় নেমে পড়ল এবং গভীর ঘুমে নিমগ্ন হয়ে গেল।",
+        "words": [
+          {
+            "en": "meager shade",
+            "bn": "সামান্য ছায়া"
+          },
+          {
+            "en": "solitary tree",
+            "bn": "একাকী এক গাছ"
+          },
+          {
+            "en": "exhausted limbs",
+            "bn": "ক্লান্ত শরীর"
+          },
+          {
+            "en": "deep slumber",
+            "bn": "গভীর ঘুম"
+          }
+        ]
       },
       {
-        "en": "Witnesses who hurried to the scene testified hearing two voices arguing: one a French speaker, and another shrill voice speaking an unrecognizable foreign language.",
-        "bn": "চিৎকার শুনে ছুটে আসা প্রত্যক্ষদর্শীরা বলল তারা দুটি ভিন্ন কণ্ঠের তর্ক শুনেছে: একজন ফরাসি ভাষায় কথা বলছিল, আর অন্য কর্কশ কণ্ঠের ভাষা কেউ চিনতে পারেনি।"
+        "en": "When he awakened, he was horrified to discover that his camel had wandered off into the dunes.",
+        "bn": "ঘুম ভাঙার পর সে আতঙ্কে দেখতে পেল যে তার উটটি মরুভূমির বালিয়াড়ির মধ্যে কোথাও হারিয়ে গেছে।",
+        "words": [
+          {
+            "en": "horrified to discover",
+            "bn": "আতঙ্কের সাথে দেখতে পেল"
+          },
+          {
+            "en": "camel had wandered off",
+            "bn": "উটটি দূরে চলে গেছে"
+          },
+          {
+            "en": "into the dunes",
+            "bn": "বালিয়াড়ির গভীরে"
+          }
+        ]
       },
       {
-        "en": "C. Auguste Dupin secured permission to examine the crime scene, refusing to believe in supernatural explanations or insoluble locked rooms.",
-        "bn": "সি. অগাস্ট ডুপাঁ ঘটনাস্থল পরীক্ষা করার বিশেষ অনুমতি নিলেন, কারণ তিনি অলৌকিক রহস্য বা সমাধানহীন বদ্ধ ঘরের তত্ত্বে বিশ্বাসী ছিলেন না।"
+        "en": "Strapped to the camel's saddle were his only water-skin, all his provisions of food, and his entire means of survival.",
+        "bn": "সেই উটের জিনের সাথে বাঁধা ছিল তার একমাত্র পানির মশকর, সমস্ত খাবার এবং বেঁচে থাকার একমাত্র সম্বল।",
+        "words": [
+          {
+            "en": "Strapped to camel's saddle",
+            "bn": "উটের পিঠে বাঁধা ছিল"
+          },
+          {
+            "en": "provisions of food",
+            "bn": "খাদ্যসামগ্রী"
+          },
+          {
+            "en": "means of survival",
+            "bn": "বেঁচে থাকার উপায়"
+          }
+        ]
       },
       {
-        "en": "He discovered that a window latch had a concealed spring mechanism that automatically relocked whenever the window swung shut.",
-        "bn": "তিনি আবিষ্কার করলেন জানালার হাতলে একটি লুকোনো স্প্রিং ছিল, যা জানালাটি সজোরে বন্ধ হলেই নিজ থেকে খিল এঁটে যেত।"
+        "en": "He searched frantically over sand dunes until the blistering heat drained every ounce of his remaining stamina.",
+        "bn": "সে বালিয়াড়ির পর বালিয়াড়ি পাগলের মতো খুঁজতে লাগল, যতক্ষণ না মরুভূমির প্রচণ্ড তাপ তার শেষ শক্তিবিন্দু পর্যন্ত শুষে নিল।",
+        "words": [
+          {
+            "en": "searched frantically",
+            "bn": "উন্মাদের মতো খুঁজছিল"
+          },
+          {
+            "en": "blistering heat",
+            "bn": "দাবদাহ / প্রচণ্ড উত্তাপ"
+          },
+          {
+            "en": "remaining stamina",
+            "bn": "অবশিষ্ট শক্তি"
+          }
+        ]
       },
       {
-        "en": "Examining the monstrous finger marks on the victim's throat and tufts of non-human hair, Dupin realized the killer was not human.",
-        "bn": "নিহতের গলায় রক্তমাখা নখের দাগ ও অনাবৃত পশুর লোম পরীক্ষা করে ডুপাঁ নিশ্চিত হলেন যে খুনি কোনো মানুষ হতেই পারে না।"
+        "en": "Convinced that certain death awaited him, he returned to the tree, lay down upon the sand, and covered his face to await his end.",
+        "bn": "মৃত্যু অবধারিত বুঝতে পেরে সে গাছের নিচে ফিরে এলো, বালির ওপর শুয়ে নিজের মুখ ঢেকে অন্তিম সময়ের প্রতীক্ষা করতে লাগল।",
+        "words": [
+          {
+            "en": "certain death awaited",
+            "bn": "নিশ্চিত মৃত্যু অপেক্ষা করছিল"
+          },
+          {
+            "en": "lay down upon the sand",
+            "bn": "বালির ওপর শুয়ে পড়ল"
+          },
+          {
+            "en": "await his end",
+            "bn": "মৃত্যুর অপেক্ষা করতে লাগল"
+          }
+        ]
       },
       {
-        "en": "Dupin placed an advertisement for a lost ourang-outang, which lured a nervous sailor who confessed that his escaped pet ape had committed the carnage in wild panic.",
-        "bn": "ডুপাঁ পত্রিকায় হারিয়ে যাওয়া ওরাংওটাংয়ের বিজ্ঞপ্তি দিয়ে এক খালাসিকে খুঁজে বের করলেন, যে স্বীকার করল তার খাঁচাচ্যুত বনমানুষটিই ভয়ে দিগ্বিদিক জ্ঞান হারিয়ে এই কাণ্ড ঘটিয়েছে।"
+        "en": "While lying in despair, he opened his eyes and suddenly saw his camel standing right beside him with its reins dangling within reach.",
+        "bn": "হতাশায় নিমজ্জিত থাকা অবস্থায় হঠাৎ চোখ খুলতেই সে দেখল তার উটটি তার পাশেই দাঁড়িয়ে আছে এবং তার লাগাম হাত বাড়ালেই ছোঁয়া যাচ্ছে।",
+        "words": [
+          {
+            "en": "lying in despair",
+            "bn": "হতাশায় শুয়ে থাকা অবস্থায়"
+          },
+          {
+            "en": "reins dangling",
+            "bn": "লাগাম ঝুলছে"
+          },
+          {
+            "en": "within reach",
+            "bn": "নাগালের ভেতরে"
+          }
+        ]
+      },
+      {
+        "en": "He grabbed the halter in overwhelming jubilation, feeling life flood back into his veins.",
+        "bn": "অতিরিক্ত আনন্দে আত্মহারা হয়ে সে উটের রশি চেপে ধরল এবং অনুভব করল তার দেহে নতুন জীবন ফিরে এসেছে।",
+        "words": [
+          {
+            "en": "grabbed the halter",
+            "bn": "উটের লাগাম ধরে ফেলল"
+          },
+          {
+            "en": "overwhelming jubilation",
+            "bn": "অসীম আনন্দোল্লাস"
+          },
+          {
+            "en": "life flood back",
+            "bn": "জীবন ফিরে এলো"
+          }
+        ]
+      },
+      {
+        "en": "In his dizzying ecstasy, his tongue slipped as he cried out: 'O Allah, You are my slave and I am Your lord!'",
+        "bn": "আনন্দের আতিশয্যে বিভ্রান্ত হয়ে তার মুখ ফসকে বের হয়ে গেল: 'হে আল্লাহ! আপনি আমার বান্দা আর আমি আপনার রব!'",
+        "words": [
+          {
+            "en": "dizzying ecstasy",
+            "bn": "আনন্দের আতিশয্যে"
+          },
+          {
+            "en": "tongue slipped",
+            "bn": "জিহ্বা ফসকে গেল / ভুল করল"
+          },
+          {
+            "en": "cried out",
+            "bn": "চিৎকার করে বলল"
+          }
+        ]
+      },
+      {
+        "en": "Prophet Muhammad ﷺ explained: 'By Allah, Allah is more delighted by the repentance of His servant than this traveler was over his lost camel.'",
+        "bn": "নবী করিম ﷺ ব্যাখ্যা করলেন: 'আল্লাহর কসম, মরুভূমিতে হারানো উট ফিরে পেয়ে এই মুসাফির যতটা খুশি হয়েছিল, কোনো বান্দা তাওবা করলে আল্লাহ তার চেয়েও বেশি আনন্দিত হন।'",
+        "words": [
+          {
+            "en": "more delighted",
+            "bn": "অধিক আনন্দিত"
+          },
+          {
+            "en": "repentance of His servant",
+            "bn": "তাঁর বান্দার তাওবা"
+          },
+          {
+            "en": "lost camel",
+            "bn": "হারিয়ে যাওয়া উট"
+          }
+        ]
       }
     ]
   },
   {
-    "id": "mystery-father-brown-invisible-man",
-    "title": "Father Brown: The Invisible Man",
-    "titleBn": "ফাদার ব্রাউন: অদৃশ্য মানব",
-    "author": "G. K. Chesterton",
+    "id": "quranic-talut-jalut",
+    "title": "King Talut and the Test of the River",
+    "titleBn": "তালুত, জালুত ও নদীর পানির কঠিন পরীক্ষা",
+    "author": "Surah Al-Baqarah (Quran 2:246-251)",
     "level": "Intermediate",
-    "category": "Mystery & Detective",
-    "coverEmoji": "📮",
-    "summary": "Father Brown solves a baffling assassination where four guards swear that not a single soul entered the victim's building.",
-    "summaryBn": "চারজন পাহারাদার শপথ করে বলল কেউ ভবনে ঢোকেনি, অথচ ভেতরে খুন হয়ে গেল; ফাদার ব্রাউন উন্মোচন করলেন আসল সত্য।",
+    "levelColor": "blue",
+    "category": "Quranic Chronicles",
+    "coverEmoji": "🌊",
+    "summary": "When King Talut marched with the Israelites against the fearsome tyrant Jalut, soldiers were tested by a quenching river; the few who exercised restraint marched forward with faith, and youthful Dawud vanquished the giant.",
+    "summaryBn": "জালুতের অত্যাচারী বাহিনীর বিরুদ্ধে যুদ্ধের উদ্দেশ্যে যাত্রা করার সময় বাদশাহ তালুত তাঁর বাহিনীকে নদীর পানি পানের মাধ্যমে পরীক্ষা করেন; অধিকাংশ লোক অতিরিক্ত পান করে অযোগ্য হয়ে পড়ে এবং স্বল্পসংখ্যক বিশ্বাসী ঈমানের শক্তিতে অবিচল থেকে বিজয় অর্জন করেন।",
     "sentences": [
       {
-        "en": "An eccentric inventor named Isidore Smythe received chilling written threats promising that he would be murdered precisely at midnight.",
-        "bn": "আইসিডোর স্মাইথ নামের এক অদ্ভুত আবিষ্কারক রক্তে লেখা উড়ো চিঠি পেলেন যাতে স্পষ্ট বলা ছিল ঠিক মধ্যরাতে তাকে খুন করা হবে।"
+        "en": "After Prophet Musa, the Children of Israel asked their prophet to appoint a righteous king to lead them into battle against their oppressors.",
+        "bn": "মুসা (আ.)-এর পরবর্তীকালে বনি ইসরাঈল তাদের নবীর কাছে আবেদন করল যেন অত্যাচারীদের বিরুদ্ধে লড়াই পরিচালনার জন্য এক সৎ বাদশাহ নিযুক্ত করা হয়।",
+        "words": [
+          {
+            "en": "appoint a righteous king",
+            "bn": "এক সৎ বাদশাহ নিযুক্ত করা"
+          },
+          {
+            "en": "lead into battle",
+            "bn": "যুদ্ধে নেতৃত্ব দেওয়া"
+          },
+          {
+            "en": "against oppressors",
+            "bn": "অত্যাচারীদের বিরুদ্ধে"
+          }
+        ]
       },
       {
-        "en": "Terrified for his life, Smythe posted two sturdy police constables and a loyal shopkeeper outside the only entrance of his snowy apartment building.",
-        "bn": "প্রাণভয়ে ভীত হয়ে স্মাইথ তার বরফে ঢাকা অ্যাপার্টমেন্ট ভবনের একমাত্র প্রবেশপথে দুজন পুলিশ ও এক বিশ্বস্ত দোকানদারকে পাহারায় রাখলেন।"
+        "en": "Allah chose Talut, a humble man blessed with immense physical stature and profound wisdom, as their rightful sovereign.",
+        "bn": "আল্লাহ তালুতকে মনোনীত করলেন, যিনি ছিলেন সাধারণ ঘরের কিন্তু অসাধারণ শারীরিক শক্তি ও প্রজ্ঞায় ভূষিত এক দূরদর্শী নেতা।",
+        "words": [
+          {
+            "en": "immense physical stature",
+            "bn": "বিশাল দৈহিক শক্তি"
+          },
+          {
+            "en": "profound wisdom",
+            "bn": "গভীর প্রজ্ঞা ও জ্ঞান"
+          },
+          {
+            "en": "rightful sovereign",
+            "bn": "ন্যায্য বাদশাহ/শাসক"
+          }
+        ]
       },
       {
-        "en": "Despite the vigilance of three men staring relentlessly at the doorstep in the pristine snow, Smythe was found stabbed through the heart inside his locked study.",
-        "bn": "নিখুঁত বরফের ওপর দরজায় তিনজন প্রহরীর অপলক দৃষ্টি থাকা সত্ত্বেও, স্মাইথকে তার তালাবদ্ধ ঘরের মধ্যে বুকে ছুরি বিদ্ধ অবস্থায় মৃত পাওয়া গেল।"
+        "en": "As the sacred Ark of the Covenant was miraculously returned by angels, Talut marched out with a massive army across the sweltering plains.",
+        "bn": "ফেরেশতারা অলৌকিকভাবে পবিত্র 'তাবুত' (সিন্দুক) বয়ে নিয়ে এলে তালুত এক বিশাল সৈন্যদল নিয়ে তপ্ত মরুপ্রান্তরে যাত্রা শুরু করলেন।",
+        "words": [
+          {
+            "en": "Ark of the Covenant",
+            "bn": "তাবুত / অঙ্গীকারের পবিত্র সিন্দুক"
+          },
+          {
+            "en": "miraculously returned",
+            "bn": "অলৌকিকভাবে ফিরে এলো"
+          },
+          {
+            "en": "sweltering plains",
+            "bn": "তপ্ত প্রান্তর"
+          }
+        ]
       },
       {
-        "en": "Every guard insisted under heavy interrogation that absolutely nobody, not a living soul, had crossed the threshold during that fateful hour.",
-        "bn": "প্রত্যেক প্রহরী জেরার মুখে দৃঢ়ভাবে দাবি করল যে সেই নির্দিষ্ট সময়ে কোনো জীবিত মানুষ সেই চৌকাঠ মাড়ায়নি।"
+        "en": "Talut warned his parched soldiers: 'Allah will test you with a river; whoever drinks freely from it is not of my army, except he who scoops a single handful.'",
+        "bn": "তালুত তৃষ্ণার্ত সৈন্যদের সতর্ক করে বললেন: 'আল্লাহ এক নদী দ্বারা তোমাদের পরীক্ষা করবেন; যে পেট ভরে পানি পান করবে সে আমার দলভুক্ত নয়, কেবল যে এক আঁজলা পানি পান করবে সে ছাড়া।'",
+        "words": [
+          {
+            "en": "test you with a river",
+            "bn": "এক নদী দিয়ে তোমাদের পরীক্ষা করবেন"
+          },
+          {
+            "en": "drinks freely",
+            "bn": "পেট ভরে পান করে"
+          },
+          {
+            "en": "single handful",
+            "bn": "এক আঁজলা পানি"
+          }
+        ]
       },
       {
-        "en": "Father Brown, the humble Catholic priest in a baggy black coat, gently examined the fresh footprints stamped into the pristine snow outside.",
-        "bn": "ঢিলেঢালা কালো কোট পরা বিনম্র ক্যাথলিক পাদ্রি ফাদার ব্রাউন বাইরের টাটকা বরফে আঁকা পায়ের ছাপগুলো শান্তভাবে পর্যবেক্ষণ করলেন।"
+        "en": "When they reached the refreshing waters, the majority yielded to weakness and drank uncontrollably, while only a small steadfast band showed restraint.",
+        "bn": "যখন তারা শীতল নদীর তীরে পৌঁছাল, অধিকাংশ লোক আত্মসংযম হারিয়ে আকণ্ঠ পান করল এবং কেবল অল্পসংখ্যক দৃঢ়চিত্ত সৈন্য নিজেদের নিয়ন্ত্রণে রাখল।",
+        "words": [
+          {
+            "en": "yielded to weakness",
+            "bn": "দুর্বলতার কাছে নতি স্বীকার করল"
+          },
+          {
+            "en": "drank uncontrollably",
+            "bn": "বেপরোয়াভাবে পান করল"
+          },
+          {
+            "en": "small steadfast band",
+            "bn": "ক্ষুদ্র অবিচল দল"
+          }
+        ]
       },
       {
-        "en": "Brown asked softly: 'Did anyone notice the postman who brought the evening mail bags?'",
-        "bn": "ফাদার ব্রাউন মৃদু হেসে জানতে চাইলেন: 'আচ্ছা, সন্ধ্যার চিঠির বস্তা নিয়ে যে ডাকপিয়নটি ঢুকেছিল, তাকে কি কেউ লক্ষ্য করেছিলে?'"
+        "en": "Those who overdrank lost all courage and lamented: 'We have no strength today against Goliath and his armored hosts!'",
+        "bn": "যারা অতিরিক্ত পানি পান করেছিল তারা সাহস হারিয়ে বিলাপ করল: 'আজ জালুত ও তার বিশাল বাহিনীর বিরুদ্ধে দাঁড়ানোর মতো শক্তি আমাদের নেই!'",
+        "words": [
+          {
+            "en": "lost all courage",
+            "bn": "সব সাহস হারিয়ে ফেলল"
+          },
+          {
+            "en": "against Goliath",
+            "bn": "জালুতের বিরুদ্ধে"
+          },
+          {
+            "en": "armored hosts",
+            "bn": "সজ্জিত সৈন্যদল"
+          }
+        ]
       },
       {
-        "en": "The guards were stunned; they had looked right at the uniform postman without mentally registering his presence, treating him as socially invisible.",
-        "bn": "প্রহরীরা হতভম্ব হয়ে গেল; তারা পোশাক পরা ডাকপিয়নকে ঠিকই দেখেছিল, কিন্তু সামাজিক অভ্যাসের কারণে তাকে কোনো 'আগন্তুক' হিসেবে মনে রাখেনি।"
+        "en": "The faithful minority replied with unwavering trust: 'How often has a small company overcome a huge host by the permission of Allah!'",
+        "bn": "কিন্তু ঈমানদার স্বল্পসংখ্যক মুমিন দৃঢ় বিশ্বাসের সাথে বলল: 'আল্লাহর হুকুমে কত ক্ষুদ্র দল বিশাল পরাক্রমশালী দলের ওপর বিজয়ী হয়েছে!'",
+        "words": [
+          {
+            "en": "faithful minority",
+            "bn": "মুমিনদের ক্ষুদ্র দলটি"
+          },
+          {
+            "en": "unwavering trust",
+            "bn": "অবিচল ভরসা"
+          },
+          {
+            "en": "small company overcome huge host",
+            "bn": "ক্ষুদ্র দল বড় দলকে পরাজিত করেছে"
+          }
+        ]
       },
       {
-        "en": "The vengeful killer had worn a postman's coat, murdered the inventor, and casually walked away carrying the heavy corpse concealed inside his oversized canvas mail sack.",
-        "bn": "প্রতিশোধপরায়ণ খুনি আসলে ডাকপিয়নের বেশ ধরে এসেছিল, স্মাইথকে খুন করে তার ভারী মৃতদেহ বড় চিঠির থলিতে ভরে সবার চোখের সামনে দিয়ে চলে গিয়েছিল।"
+        "en": "The terrifying champion Jalut stepped forward into the valley, clad in iron and mocking the ranks of the believers.",
+        "bn": "ভয়ংকর দৈত্যাকৃতি যোদ্ধা জালুত লৌহবর্মে সজ্জিত হয়ে উপত্যকায় এগিয়ে এলো এবং মুমিনদের বাহিনীকে উপহাস করতে লাগল।",
+        "words": [
+          {
+            "en": "terrifying champion",
+            "bn": "ভয়ংকর মল্লযোদ্ধা"
+          },
+          {
+            "en": "clad in iron",
+            "bn": "লৌহবর্মে সজ্জিত"
+          },
+          {
+            "en": "mocking the ranks",
+            "bn": "সারিবদ্ধ সৈন্যদের উপহাস করছিল"
+          }
+        ]
+      },
+      {
+        "en": "Youthful Dawud stepped out from the ranks with only his shepherd's staff, sling, and smooth river stones.",
+        "bn": "তখন তরুণ দাউদ (আ.) কেবল রাখালের লাঠি, একটি গুলতি এবং নদী থেকে কুড়ানো মসৃণ পাথর নিয়ে ময়দানে বেরিয়ে এলেন।",
+        "words": [
+          {
+            "en": "shepherd's staff",
+            "bn": "রাখালের লাঠি"
+          },
+          {
+            "en": "sling",
+            "bn": "গুলতি বা পাথর নিক্ষেপক"
+          },
+          {
+            "en": "smooth river stones",
+            "bn": "নদীর মসৃণ পাথর"
+          }
+        ]
+      },
+      {
+        "en": "With the name of Allah, Dawud slung a single stone that struck Jalut directly between the eyes, crashing the tyrant lifeless to the ground.",
+        "bn": "আল্লাহর নাম নিয়ে দাউদ গুলতি থেকে পাথর ছুড়লেন যা সরাসরি জালুতের কপালে আঘাত করল এবং জালুত মুখ থুবড়ে মাটিতে আছড়ে পড়ে প্রাণ হারাল।",
+        "words": [
+          {
+            "en": "slung a single stone",
+            "bn": "একটি পাথর ছুড়লেন"
+          },
+          {
+            "en": "between the eyes",
+            "bn": "দুই চোখের মাঝে"
+          },
+          {
+            "en": "crashing the tyrant lifeless",
+            "bn": "জালিমকে নিথর করে আছড়ে ফেলল"
+          }
+        ]
+      },
+      {
+        "en": "The enemy forces fled in disarray, proving that true triumph belongs solely to steadfast faith and obedience.",
+        "bn": "শত্রুবাহিনী ছত্রভঙ্গ হয়ে পালিয়ে গেল, যা প্রমাণ করল প্রকৃত বিজয় একমাত্র অবিচল ঈমান ও আনুগত্যের মাধ্যমেই অর্জিত হয়।",
+        "words": [
+          {
+            "en": "fled in disarray",
+            "bn": "ছত্রভঙ্গ হয়ে পালিয়ে গেল"
+          },
+          {
+            "en": "true triumph",
+            "bn": "প্রকৃত বিজয়"
+          },
+          {
+            "en": "steadfast faith and obedience",
+            "bn": "দৃঢ় ঈমান ও আনুগত্য"
+          }
+        ]
       }
     ]
   },
   {
-    "id": "mystery-father-brown-blue-cross",
-    "title": "Father Brown: The Blue Cross",
-    "titleBn": "ফাদার ব্রাউন: নীল ক্রুশ",
-    "author": "G. K. Chesterton",
-    "level": "Intermediate",
-    "category": "Mystery & Detective",
-    "coverEmoji": "✝️",
-    "summary": "A clumsy priest leaves a trail of surreal eccentricities across London to guide the famous French detective Aristide Valentin.",
-    "summaryBn": "বিখ্যাত ফরাসি গোয়েন্দাকে সঠিক পথে রাখার জন্য এক সাদাসিধে পাদ্রি পুরো লন্ডন জুড়ে অদ্ভুত সব কাণ্ড ঘটিয়ে রেখে যান।",
+    "id": "hadith-charity-night",
+    "title": "The Sincere Secret Charity Given by Night",
+    "titleBn": "গভীর রাতে গোপন সদকা ও আল্লাহর অলৌকিক পরিকল্পনা",
+    "author": "Authentic Hadith (Sahih al-Bukhari & Sahih Muslim)",
+    "level": "Beginner",
+    "levelColor": "indigo",
+    "category": "Quranic Chronicles",
+    "coverEmoji": "🌙",
+    "summary": "A sincere man resolved to give secret charity at night, unknowingly giving money to a thief, an adulteress, and a wealthy miser on consecutive nights; when the town gossiped, the divine purpose of each gift was revealed.",
+    "summaryBn": "এক মুখলেস ব্যক্তি রাতের আঁধারে গোপনে সদকা দেওয়ার নিয়ত করল; পর পর তিন রাতে অনিচ্ছাকৃতভাবে সে এক চোর, এক ব্যভিচারিণী এবং এক কৃপণ ধনীর হাতে দান তুলে দিল; পুরো শহরে আলোচনা শুরু হলে তাকে স্বপ্নে এর গভীর কল্যাণময় তাৎপর্য জানিয়ে দেওয়া হলো।",
     "sentences": [
       {
-        "en": "The world-renowned French detective Aristide Valentin arrived in London pursuing Flambeau, the master criminal and king of disguises.",
-        "bn": "বিশ্বখ্যাত ফরাসি গোয়েন্দা আরিস্তিদ ভালেন্তাঁ লন্ডনে পৌঁছালেন ছদ্মবেশের রাজা ও দুর্ধর্ষ চোর ফ্ল্যাম্বোকে পাকড়াও করার উদ্দেশ্যে।"
+        "en": "A pious man vowed to himself: 'Tonight, I will certainly distribute secret charity solely for the pleasure of Allah.'",
+        "bn": "এক পুণ্যবান লোক মনে মনে প্রতিজ্ঞা করল: 'আজ রাতে আমি শুধুমাত্র আল্লাহর সন্তুষ্টির উদ্দেশ্যে গোপনে দান-সদকা করব।'",
+        "words": [
+          {
+            "en": "pious man vowed",
+            "bn": "পুণ্যবান লোক প্রতিজ্ঞা করল"
+          },
+          {
+            "en": "secret charity",
+            "bn": "গোপন সদকা"
+          },
+          {
+            "en": "pleasure of Allah",
+            "bn": "আল্লাহর সন্তুষ্টি"
+          }
+        ]
       },
       {
-        "en": "Valentin learned that Flambeau intended to steal a priceless silver cross set with five sapphire stars, carried by an innocent village priest named Father Brown.",
-        "bn": "ভালেন্তাঁ খবর পেলেন যে ফ্ল্যাম্বোর আসল লক্ষ্য ফাদার ব্রাউন নামের এক সরল গ্রাম্য পাদ্রির কাছে থাকা পাঁচটি নীলকান্ত মণি খচিত দুর্লভ রুপোর ক্রুশ চুরি করা।"
+        "en": "He slipped out in the dark cloak of night and placed a pouch of gold coins into the hands of the first figure he encountered.",
+        "bn": "সে রাতের অন্ধকারের চাদরে বের হলো এবং প্রথম যে ব্যক্তির দেখা পেল তার হাতে এক থলে স্বর্ণমুদ্রা গুঁজে দিল।",
+        "words": [
+          {
+            "en": "cloak of night",
+            "bn": "রাতের অন্ধকার"
+          },
+          {
+            "en": "pouch of gold coins",
+            "bn": "স্বর্ণমুদ্রার থলে"
+          },
+          {
+            "en": "first figure he encountered",
+            "bn": "প্রথম যে ব্যক্তির দেখা পেল"
+          }
+        ]
       },
       {
-        "en": "Following the elusive pair across London, Valentin encountered bizarre scenes: soup splashed on a restaurant wall, sugar and salt swapped, and price tags inverted at a fruit stall.",
-        "bn": "লন্ডনের পথে তাদের পিছু নিয়ে ভালেন্তাঁ একের পর এক অদ্ভুত কাণ্ড দেখলেন: রেস্তোরাঁর দেয়ালে স্যুপ ছিটানো, নুন আর চিনির পাত্র বদলানো, আর ফলের দোকানে দামের রসিদ উল্টাপাল্টা করা।"
+        "en": "By morning, the town buzzed with astonishment as people gossiped: 'Charity was given to a notorious thief last night!'",
+        "bn": "সকাল হতেই শহরে শোরগোল পড়ে গেল এবং মানুষ কানাঘুষা করতে লাগল: 'গত রাতে এক কুখ্যাত চোরকে সদকা দেওয়া হয়েছে!'",
+        "words": [
+          {
+            "en": "buzzed with astonishment",
+            "bn": "বিস্ময়ে শোরগোল উঠল"
+          },
+          {
+            "en": "people gossiped",
+            "bn": "মানুষ কানাঘুষা করতে লাগল"
+          },
+          {
+            "en": "notorious thief",
+            "bn": "কুখ্যাত চোর"
+          }
+        ]
       },
       {
-        "en": "Valentin realized that Father Brown was intentionally creating absurd commotion everywhere he went to leave an unmistakable trail for the authorities.",
-        "bn": "বুদ্ধিমান ভালেন্তাঁ বুঝতে পারলেন যে ফাদার ব্রাউন ইচ্ছা করেই এই আজব কাণ্ডগুলো ঘটিয়ে যাচ্ছেন, যাতে পুলিশ তাকে সহজেই অনুসরণ করতে পারে।"
+        "en": "The man was grieved but prayed: 'O Allah, all praise is Yours; You gave me the chance to give, even if to a thief.'",
+        "bn": "লোকটি কষ্ট পেল কিন্তু দোয়া করল: 'হে আল্লাহ, সকল প্রশংসা আপনার; আপনি আমাকে দানের তৌফিক দিয়েছেন, যদিও তা এক চোরের হাতে পড়েছে।'",
+        "words": [
+          {
+            "en": "was grieved",
+            "bn": "ব্যথিত হলো"
+          },
+          {
+            "en": "all praise is Yours",
+            "bn": "সকল প্রশংসা আপনারই"
+          },
+          {
+            "en": "chance to give",
+            "bn": "দানের সুযোগ"
+          }
+        ]
       },
       {
-        "en": "Deep in a secluded corner of Hampstead Heath at twilight, Flambeau cornered Father Brown and demanded the surrender of the blue cross.",
-        "bn": "গোধূলিলগ্নে হ্যাম্পস্টেড হিথের এক নির্জন গাছের ছায়ায় ফ্ল্যাম্বো ফাদার ব্রাউনকে ঘিরে ধরে সেই অমূল্য নীল ক্রুশটি দাবি করল।"
+        "en": "On the second night, he went out again with charity and unknowingly handed his wealth to an adulteress.",
+        "bn": "দ্বিতীয় রাতে সে আবারও সদকার উদ্দেশ্যে বের হলো এবং না জেনে এক ব্যভিচারিণী নারীর হাতে অর্থ তুলে দিল।",
+        "words": [
+          {
+            "en": "second night",
+            "bn": "দ্বিতীয় রাত"
+          },
+          {
+            "en": "unknowingly handed",
+            "bn": "না জেনে তুলে দিল"
+          },
+          {
+            "en": "an adulteress",
+            "bn": "এক ব্যভিচারিণী নারী"
+          }
+        ]
       },
       {
-        "en": "Father Brown calmly revealed that he had anticipated the theft, sent the true gem by post to Westminster, and placed a harmless substitute into his pocket.",
-        "bn": "ফাদার ব্রাউন শান্তভাবে জানালেন তিনি আগেই চুরির আশঙ্কা বুঝে আসল ক্রুশটি ডাকযোগে ওয়েস্টমিনস্টারে পাঠিয়ে দিয়েছেন এবং নিজের পকেটে একটি নকল খেলনা রেখেছেন।"
+        "en": "The townspeople were scandalized in the morning, chattering: 'How shocking that charity was bestowed upon a fallen woman!'",
+        "bn": "পরদিন সকালে শহরবাসী হতভম্ব হয়ে বলতে লাগল: 'কত বড় বিস্ময়! এক ভ্রষ্টা নারীকে সদকা দেওয়া হয়েছে!'",
+        "words": [
+          {
+            "en": "townspeople were scandalized",
+            "bn": "শহরবাসী হতভম্ব হলো"
+          },
+          {
+            "en": "How shocking",
+            "bn": "কতখানি আশ্চর্যজনক"
+          },
+          {
+            "en": "fallen woman",
+            "bn": "পতিতা বা ভ্রষ্টা নারী"
+          }
+        ]
       },
       {
-        "en": "Before Flambeau could strike, Detective Valentin stepped from the bushes with police officers, forcing the legendary thief to bow in defeat to the humble priest.",
-        "bn": "ফ্ল্যাম্বো কোনো কিছু বুঝে ওঠার আগেই ঝোপের আড়াল থেকে গোয়েন্দা ভালেন্তাঁ পুলিশ নিয়ে বেরিয়ে এলেন এবং পরাক্রমশালী চোর সেই সরল পাদ্রির বুদ্ধির কাছে মাথা নত করল।"
+        "en": "The giver humbled himself once more, saying: 'All praise is to Allah—even if my charity reached an adulteress.'",
+        "bn": "দানকারী ব্যক্তি আবারও বিনম্র হয়ে বলল: 'সমস্ত প্রশংসা আল্লাহর—যদিও আমার সদকা এক ব্যভিচারিণীর কাছে পৌঁছেছে।'",
+        "words": [
+          {
+            "en": "humbled himself",
+            "bn": "নিজেকে বিনয়ী করল"
+          },
+          {
+            "en": "All praise is to Allah",
+            "bn": "সমস্ত প্রশংসা আল্লাহর"
+          }
+        ]
+      },
+      {
+        "en": "On the third night, he set out determined and placed his charity into the palms of a man who turned out to be an exceedingly wealthy miser.",
+        "bn": "তৃতীয় রাতে সে দৃঢ় মনোবল নিয়ে বের হলো এবং এমন এক লোকের হাতে টাকা দিল যে ছিল শহরের চরম কৃপণ এক ধনী ব্যক্তি।",
+        "words": [
+          {
+            "en": "set out determined",
+            "bn": "দৃঢ় প্রত্যয়ে বের হলো"
+          },
+          {
+            "en": "placed into palms",
+            "bn": "হাতের তালুতে রাখল"
+          },
+          {
+            "en": "exceedingly wealthy miser",
+            "bn": "চরম কৃপণ এক ধনী ব্যক্তি"
+          }
+        ]
+      },
+      {
+        "en": "When morning broke, people mocked: 'Incredible! Charity was handed to a man richer than all of us!'",
+        "bn": "সকাল হতেই লোকেরা ব্যঙ্গ করে বলতে লাগল: 'অবিশ্বাস্য! আমাদের সবার চেয়ে বড় ধনীকে সদকা দেওয়া হয়েছে!'",
+        "words": [
+          {
+            "en": "people mocked",
+            "bn": "মানুষ উপহাস করল"
+          },
+          {
+            "en": "Incredible",
+            "bn": "অবিশ্বাস্য"
+          },
+          {
+            "en": "richer than all of us",
+            "bn": "আমাদের সবার চেয়ে ধনী"
+          }
+        ]
+      },
+      {
+        "en": "That night, an angel came to the sincere man in a dream and announced that all three charities had been gloriously accepted by Allah.",
+        "bn": "সে রাতে এক ফেরেশতা স্বপ্নে সেই মুখলেস ব্যক্তির কাছে এসে সুসংবাদ দিলেন যে তার তিনটি সদকাই আল্লাহর কাছে পরম মর্যাদায় কবুল হয়েছে।",
+        "words": [
+          {
+            "en": "came in a dream",
+            "bn": "স্বপ্নে এলেন"
+          },
+          {
+            "en": "gloriously accepted",
+            "bn": "মর্যাদাপূর্ণভাবে কবুল হয়েছে"
+          },
+          {
+            "en": "by Allah",
+            "bn": "আল্লাহর দরবারে"
+          }
+        ]
+      },
+      {
+        "en": "The angel explained: 'Perhaps the thief will now abstain from stealing, the woman may leave her vice, and the wealthy miser might take a lesson to spend his own wealth in charity.'",
+        "bn": "ফেরেশতা বুঝিয়ে বললেন: 'হয়তো চোরটি এই অর্থের কারণে চুরি থেকে বিরত হবে, ভ্রষ্টা নারীটি পাপ পথ ছেড়ে দেবে, আর কৃপণ ধনী লজ্জা পেয়ে নিজের সম্পদ থেকে আল্লাহর রাস্তায় খরচ করতে শিখবে।'",
+        "words": [
+          {
+            "en": "abstain from stealing",
+            "bn": "চুরি থেকে বিরত থাকা"
+          },
+          {
+            "en": "leave her vice",
+            "bn": "পাপকাজ বর্জন করা"
+          },
+          {
+            "en": "take a lesson",
+            "bn": "শিক্ষা গ্রহণ করা"
+          },
+          {
+            "en": "spend wealth in charity",
+            "bn": "সম্পদ দান করা"
+          }
+        ]
       }
     ]
   },
   {
-    "id": "adv-around-world-80-days",
-    "title": "Around the World in Eighty Days",
-    "titleBn": "আশি দিনে বিশ্বভ্রমণ",
-    "author": "Jules Verne",
+    "id": "quranic-maryam-miracle",
+    "title": "Maryam and Miraculous Sustenance in the Sanctuary",
+    "titleBn": "মিহরাবে মারইয়াম (আ.) ও অলৌকিক ফলমূলের রিযিক",
+    "author": "Surah Ali 'Imran (Quran 3:35-37)",
     "level": "Intermediate",
-    "category": "Classic Adventure",
-    "coverEmoji": "🌍",
-    "summary": "Phileas Fogg wagers his fortune on a seemingly impossible journey around the globe, discovering love and mastering time.",
-    "summaryBn": "আশি দিনে বিশ্ব পরিভ্রমণের অসম্ভব বাজিতে নিজের সর্বস্ব বাজি রেখে নতুন প্রেম ও সময়ের গভীর রহস্য জয় করেন ফিলিয়াস ফগ।",
+    "levelColor": "rose",
+    "category": "Quranic Chronicles",
+    "coverEmoji": "🌿",
+    "summary": "Dedicated from birth to the service of the sacred temple, Maryam was sheltered by Prophet Zakariyya; whenever he entered her chamber, he found unseasonable celestial fruits provided directly by Allah.",
+    "summaryBn": "জন্ম থেকেই বায়তুল মুকাদ্দাসের খেদমতের জন্য নিবেদিত ছিলেন মারইয়াম (আ.); নবী যাকারিয়া (আ.) যখনই তার ইবাদতকক্ষে প্রবেশ করতেন, দেখতেন শীতকালে গ্রীষ্মের এবং গ্রীষ্মকালে শীতের সুস্বাদু তাজা ফলমূল যা আল্লাহ সরাসরি জান্নাত থেকে রিযিক হিসেবে পাঠাতেন।",
     "sentences": [
       {
-        "en": "The meticulous English gentleman Phileas Fogg wagered twenty thousand pounds at the Reform Club that he could circle the globe in eighty days.",
-        "bn": "লন্ডনের নিখুঁত নিয়মানুবর্তী ভদ্রলোক ফিলিয়াস ফগ রিফর্ম ক্লাবে বিশ হাজার পাউন্ড বাজি ধরলেন যে তিনি মাত্র আশি দিনে পৃথিবী ঘুরে আসবেন।"
+        "en": "The noble mother of Maryam vowed while pregnant to dedicate the child in her womb entirely to the sanctuary of Allah.",
+        "bn": "মারইয়ামের মহীয়সী মা গর্ভধারণকালে মানত করেছিলেন যে তার গর্ভের সন্তানকে তিনি আল্লাহর ঘরের সেবায় সম্পূর্ণরূপে উৎসর্গ করবেন।",
+        "words": [
+          {
+            "en": "noble mother of Maryam",
+            "bn": "মারইয়ামের মহীয়সী মা"
+          },
+          {
+            "en": "vowed while pregnant",
+            "bn": "গর্ভকালে মানত করেছিলেন"
+          },
+          {
+            "en": "dedicate the child",
+            "bn": "সন্তানকে উৎসর্গ করা"
+          },
+          {
+            "en": "sanctuary of Allah",
+            "bn": "আল্লাহর পবিত্র গৃহ"
+          }
+        ]
       },
       {
-        "en": "Accompanied by his acrobatic French valet Passepartout, Fogg embarked on an epic race using trains, steamships, yachts, and even an elephant.",
-        "bn": "তার চটপটে ফরাসি পরিচারক পাসপাড়তুকে সাথে নিয়ে ফগ ট্রেন, বাষ্পীয় জাহাজ, প্রমোদতরী এমনকি হাতির পিঠে চড়ে মহাযাত্রা শুরু করলেন।"
+        "en": "When she gave birth to a female child, she named her Maryam and prayed for divine protection from Satan the accursed.",
+        "bn": "কন্যাশিশু জন্ম নেওয়ার পর তিনি তার নাম রাখলেন মারইয়াম এবং বিতাড়িত শয়তানের ক্ষতি থেকে তার সুরক্ষার জন্য দোয়া করলেন।",
+        "words": [
+          {
+            "en": "gave birth to female child",
+            "bn": "কন্যা সন্তান প্রসব করলেন"
+          },
+          {
+            "en": "divine protection",
+            "bn": "ঐশী সুরক্ষা"
+          },
+          {
+            "en": "Satan the accursed",
+            "bn": "অভিশপ্ত শয়তান"
+          }
+        ]
       },
       {
-        "en": "While traversing India, they gallantly rescued an Indian princess named Aouda from a tragic sacrificial death.",
-        "bn": "ভারতবর্ষের গভীর অরণ্য অতিক্রম করার সময় তারা আউদা নামের এক সুন্দরী রাজকন্যাকে সতীদাহের করুণ অগ্নিকুণ্ড থেকে জীবন বাজি রেখে উদ্ধার করলেন।"
+        "en": "Prophet Zakariyya assumed guardianship over Maryam, constructing a secluded private prayer chamber for her high within the temple.",
+        "bn": "নবী যাকারিয়া (আ.) মারইয়ামের অভিভাবকত্বের দায়িত্ব গ্রহণ করলেন এবং মসজিদের উঁচুতে তার জন্য একটি নির্জন ইবাদতকক্ষ তৈরি করে দিলেন।",
+        "words": [
+          {
+            "en": "assumed guardianship",
+            "bn": "অভিভাবকত্ব গ্রহণ করলেন"
+          },
+          {
+            "en": "secluded prayer chamber",
+            "bn": "নির্জন ইবাদতকক্ষ / মিহরাব"
+          },
+          {
+            "en": "within the temple",
+            "bn": "মসজিদের ভেতরে"
+          }
+        ]
       },
       {
-        "en": "Meanwhile, an overzealous police detective named Fix trailed Fogg across continents, mistakenly believing Fogg was a notorious bank robber.",
-        "bn": "এদিকে গোয়েন্দা ফিক্স নামের এক নাছোড়বান্দা পুলিশ কর্মকর্তা ব্যাংক ডাকাত ভেবে প্রতিটি মহাদেশে ফগের পেছনে ধাওয়া করে বেড়াল।"
+        "en": "There, young Maryam immersed herself day and night in worship, prostration, and pure contemplation of her Creator.",
+        "bn": "সেখানে মারইয়াম দিনরাত ইবাদত, সিজদা এবং তাঁর রবের পবিত্র স্মরণে নিমগ্ন থাকতেন।",
+        "words": [
+          {
+            "en": "immersed herself day and night",
+            "bn": "দিনরাত নিজেকে নিমগ্ন রাখতেন"
+          },
+          {
+            "en": "worship and prostration",
+            "bn": "ইবাদত ও সিজদা"
+          },
+          {
+            "en": "pure contemplation",
+            "bn": "পবিত্র ধ্যান ও চিন্তা"
+          }
+        ]
       },
       {
-        "en": "After surviving storms on the Pacific Ocean and attacks in the American West, Fogg reached London believing he had arrived five minutes too late.",
-        "bn": "প্রশান্ত মহাসাগরের ঝড় ও আমেরিকার বুনো ডাকাতদের আক্রমণ সামলে ফগ যখন লন্ডনে পৌঁছালেন, তখন ঘড়ি দেখে ভাবলেন তিনি পাঁচ মিনিট দেরিতে পৌঁছে বাজি হেরে গেছেন।"
+        "en": "Every time Zakariyya entered her sanctuary, he was astonished to discover fresh, bountiful fruits that belonged to other seasons.",
+        "bn": "যখনই যাকারিয়া তার মিহরাবে প্রবেশ করতেন, তিনি অসময়ের তাজা এবং সুস্বাদু ফলমূল দেখতে পেয়ে বিস্ময়ে হতবাক হতেন।",
+        "words": [
+          {
+            "en": "entered her sanctuary",
+            "bn": "তার মিহরাবে প্রবেশ করলেন"
+          },
+          {
+            "en": "astonished to discover",
+            "bn": "দেখে বিস্মিত হলেন"
+          },
+          {
+            "en": "bountiful fruits",
+            "bn": "প্রচুর ফলমূল"
+          },
+          {
+            "en": "belonged to other seasons",
+            "bn": "অন্যান্য ঋতুতে যা পাওয়া যায়"
+          }
+        ]
       },
       {
-        "en": "Despairing in his home, Passepartout rushed in to announce that by traveling eastward against the sun, they had gained an entire twenty-four hours.",
-        "bn": "হতাশ হয়ে ঘরে বসে থাকার সময় পাসপাড়তু হন্তদন্ত হয়ে এসে জানাল যে সূর্যের গতির বিপরীতে পূর্ব দিকে ভ্রমণ করার ফলে তারা পুরো একটি দিন অতিরিক্ত পেয়ে গেছেন।"
+        "en": "During scorching summer months, he beheld winter grapes, and during chilly winter days, he found vibrant summer figs and pomegranates.",
+        "bn": "তপ্ত গ্রীষ্মকালে তিনি শীতকালীন আঙুর দেখতেন, আর কনকনে শীতে দেখতেন গ্রীষ্মের সতেজ ডুমুর ও ডালিম।",
+        "words": [
+          {
+            "en": "scorching summer months",
+            "bn": "গ্রীষ্মের তপ্ত মাসগুলো"
+          },
+          {
+            "en": "winter grapes",
+            "bn": "শীতের আঙুর"
+          },
+          {
+            "en": "chilly winter days",
+            "bn": "শীতের কনকনে দিন"
+          },
+          {
+            "en": "figs and pomegranates",
+            "bn": "ডুমুর ও ডালিম"
+          }
+        ]
       },
       {
-        "en": "Fogg walked into the Reform Club at the final second, winning the bet and gaining a devoted wife who loved him dearly.",
-        "bn": "ঠিক শেষ সেকেন্ডে ফগ রিফর্ম ক্লাবের দরজায় পা রেখে বাজিতে জয়ী হলেন এবং একই সাথে পেলেন আউদার মতো এক অকৃত্রিম জীবনসঙ্গিনীকে।"
-      }
-    ]
-  },
-  {
-    "id": "adv-journey-center-earth",
-    "title": "A Journey to the Center of the Earth",
-    "titleBn": "পাতালপুরীর দেশে",
-    "author": "Jules Verne",
-    "level": "Intermediate",
-    "category": "Classic Adventure",
-    "coverEmoji": "🌋",
-    "summary": "Professor Lidenbrock and his nephew Axel descend into an extinct Icelandic volcano, discovering a prehistoric underground universe.",
-    "summaryBn": "আইসল্যান্ডের এক ঘুমন্ত আগ্নেয়গিরির জ্বালামুখ দিয়ে মাটির নিচে নেমে এক আদিম ও বিস্ময়কর জগতের মুখোমুখি হন প্রফেসর লিডেনব্রক।",
-    "sentences": [
-      {
-        "en": "The passionate German geologist Professor Otto Lidenbrock deciphered an ancient runic manuscript written by an Icelandic alchemist.",
-        "bn": "জার্মানির বিদগ্ধ ভূতাত্ত্বিক প্রফেসর অটো লিডেনব্রক আইসল্যান্ডের এক প্রাচীন রসায়নবিদের সাঙ্কেতিক পুঁথি পাঠোদ্ধার করলেন।"
+        "en": "Perplexed, Zakariyya inquired: 'O Maryam, from where did you obtain this sustenance?'",
+        "bn": "বিস্ময়াভিভূত হয়ে যাকারিয়া প্রশ্ন করলেন: 'হে মারইয়াম, তুমি কোথা থেকে এই রিযিক পেলে?'",
+        "words": [
+          {
+            "en": "Perplexed",
+            "bn": "হতবাক ও বিস্মিত হয়ে"
+          },
+          {
+            "en": "from where did you obtain",
+            "bn": "তুমি কোথা থেকে পেয়েছ"
+          },
+          {
+            "en": "sustenance",
+            "bn": "রিযিক / খাদ্যসামগ্রী"
+          }
+        ]
       },
       {
-        "en": "The parchment revealed a secret path descending straight to the center of the Earth through the crater of Mount Snæfellsjökull.",
-        "bn": "সেই পুঁথিতে লেখা ছিল স্ন্যাফেলস আগ্নেয়গিরির জ্বালামুখ দিয়ে পাতালে নামলে সোজা পৃথিবীর কেন্দ্রস্থলে পৌঁছানো সম্ভব।"
+        "en": "Maryam replied with firm certainty: 'It is directly from Allah, for Allah provides sustenance without measure to whomever He wills.'",
+        "bn": "মারইয়াম অবিচল বিশ্বাসের সাথে জবাব দিলেন: 'এটি সরাসরি আল্লাহর পক্ষ থেকে, নিশ্চয়ই আল্লাহ যাকে ইচ্ছা অপরিমিত রিযিক দান করেন।'",
+        "words": [
+          {
+            "en": "firm certainty",
+            "bn": "দৃঢ় প্রত্যয় ও বিশ্বাস"
+          },
+          {
+            "en": "directly from Allah",
+            "bn": "সরাসরি আল্লাহর নিকট থেকে"
+          },
+          {
+            "en": "sustenance without measure",
+            "bn": "হিসাব ছাড়া অবারিত রিযিক"
+          }
+        ]
       },
       {
-        "en": "Joined by his hesitant nephew Axel and an unshakeable eiderdown hunter named Hans, the expedition descended into the pitch-black subterranean depths.",
-        "bn": "তার ভয়ার্ত ভাগ্নে অ্যাক্সেল এবং অবিচল শিকারী হ্যান্সকে সাথে নিয়ে প্রফেসর পাতালের নিকষ কালো অতল গভীরে নেমে গেলেন।"
+        "en": "Witnessing this miracle, Zakariyya was inspired to pray right there for a righteous heir despite his old age and his wife's barrenness.",
+        "bn": "এই অলৌকিক ঘটনা প্রত্যক্ষ করে যাকারিয়া উদ্বুদ্ধ হলেন এবং নিজের চরম বার্ধক্য ও স্ত্রীর বন্ধ্যাত্ব সত্ত্বেও সেখানে দাঁড়িয়েই এক নেককার সন্তানের জন্য দোয়া করলেন।",
+        "words": [
+          {
+            "en": "inspired to pray",
+            "bn": "দোয়া করতে উদ্বুদ্ধ হলেন"
+          },
+          {
+            "en": "righteous heir",
+            "bn": "নেককার উত্তরসূরি"
+          },
+          {
+            "en": "old age and barrenness",
+            "bn": "বার্ধক্য ও বন্ধ্যাত্ব"
+          }
+        ]
       },
       {
-        "en": "Miles beneath the Earth's crust, they encountered an enormous cavern illuminated by electrical luminescence and spanned by a vast underground ocean.",
-        "bn": "ভূত্বকের বহু মাইল গভীরে গিয়ে তারা বৈদ্যুতিক আলোয় উদ্ভাসিত এক বিশাল গুহা এবং তার মাঝে ছড়িয়ে থাকা এক অন্তহীন পাতাল সমুদ্র দেখতে পেলেন।"
-      },
-      {
-        "en": "Sailing on a primitive raft, the explorers watched in awe as giant prehistoric marine reptiles fought a ferocious battle in the waves.",
-        "bn": "কাঠের ভেলায় ভেসে যাওয়ার সময় তারা বিস্ময়ে দেখলেন প্রাগৈতিহাসিক দানবীয় সামুদ্রিক সরীসৃপ ঢেউয়ের মাঝে রক্তক্ষয়ী যুদ্ধে লিপ্ত হয়েছে।"
-      },
-      {
-        "en": "They walked through forests of towering giant mushrooms and even witnessed a gigantic humanoid shepherd herding a flock of mastodons.",
-        "bn": "তারা আকাশচুম্বী বিশালাকার মাশরুমের বনের ভেতর দিয়ে হাঁটলেন এবং এমনকি এক আদিম দানবাকৃতির রাখালকে ম্যামথের পাল চড়াতে দেখলেন।"
-      },
-      {
-        "en": "A violent volcanic eruption finally propelled their raft upward through a magma vent, depositing them safely alive on the slopes of Stromboli in Italy.",
-        "bn": "অবশেষে এক অগ্ন্যুৎপাতের উত্তাল লাভাস্রোত তাদের ভেলাটিকে ওপরের দিকে ঠেলে দিয়ে ইতালির স্ট্রম্বলি আগ্নেয়গিরির ঢালে অক্ষত অবস্থায় ফিরিয়ে দিল।"
-      }
-    ]
-  },
-  {
-    "id": "adv-twenty-thousand-leagues",
-    "title": "Twenty Thousand Leagues Under the Sea",
-    "titleBn": "সাগর তলে বিশ হাজার লিগ",
-    "author": "Jules Verne",
-    "level": "Intermediate",
-    "category": "Classic Adventure",
-    "coverEmoji": "🐙",
-    "summary": "Professor Aronnax is taken captive aboard the Nautilus, witnessing the wonders of the deep under the command of Captain Nemo.",
-    "summaryBn": "ক্যাপ্টেন নিমোর অত্যাধুনিক ডুবোজাহাজ নটিলাসে বন্দি হয়ে সমুদ্রের অতল রহস্য ও মানবসমাজ বর্জিত জীবনের সাক্ষী হন প্রফেসর আরনাক্স।",
-    "sentences": [
-      {
-        "en": "When maritime shipping was terrorized by an unknown colossal sea monster, Professor Pierre Aronnax joined an expedition to hunt the creature down.",
-        "bn": "এক অচেনা দানবীয় সামুদ্রিক প্রাণীর উপদ্রবে বিশ্ববাণিজ্য থমকে গেলে প্রফেসর পিয়ের আরনাক্স সেই দানব শিকারের অভিযানে যোগ দেন।"
-      },
-      {
-        "en": "During a nighttime clash, Aronnax, his servant Conseil, and Canadian harpooner Ned Land were thrown overboard into the black ocean.",
-        "bn": "রাতের বেলা সেই দানবের সাথে সংঘর্ষে আরনাক্স, তার সহকারী কনসিল এবং দক্ষ শিকারী নেড ল্যান্ড ছিটকে উত্তাল কালো সাগরে পড়ে গেলেন।"
-      },
-      {
-        "en": "They discovered to their utter astonishment that the monster was actually an advanced steel submarine named the Nautilus, commanded by Captain Nemo.",
-        "bn": "তারা হতবাক হয়ে আবিষ্কার করলেন যে দানবটি কোনো প্রাণী নয়, বরং ক্যাপ্টেন নিমোর তৈরি অত্যাধুনিক ইস্পাতের ডুবোজাহাজ 'নটিলাস'।"
-      },
-      {
-        "en": "Captain Nemo had severed all ties with human civilization, living entirely off the bounty of the ocean depths in majestic isolation.",
-        "bn": "ক্যাপ্টেন নিমো মানব সমাজের সাথে সমস্ত সম্পর্ক ছিন্ন করে সমুদ্রের বুকে গড়ে তুলেছিলেন এক স্বাধীন ও রহস্যময় জগৎ।"
-      },
-      {
-        "en": "Aboard the Nautilus, the captives explored undersea coral cemeteries, strolled through sunken forests, and walked upon the ruins of lost Atlantis.",
-        "bn": "নটিলাসে চড়ে বন্দিরা সাগরের অতল প্রবাল সমাধিক্ষেত্র, ডুবো অরণ্য এবং এমনকি প্রাচীন আটলান্টিস শহরের ধ্বংসাবশেষ প্রত্যক্ষ করলেন।"
-      },
-      {
-        "en": "They battled monstrous giant squids with axes when the creatures attacked the submarine's propeller off the coast of the Bahamas.",
-        "bn": "বাহামা দ্বীপপুঞ্জের কাছে যখন দানবাকৃতির অক্টোপাস নটিলাসের প্রপেলার আটকে ফেলেছিল, তখন তারা কুঠার হাতে জীবনমরণ যুদ্ধে লিপ্ত হলেন।"
-      },
-      {
-        "en": "Witnessing Nemo's bitter thirst for vengeance as he sank a warship, the captives seized their chance to escape into a wild Arctic whirlpool.",
-        "bn": "নিমোর অন্তহীন ক্ষোভ ও প্রতিশোধের রূপ দেখে তারা এক উত্তাল নরওয়েজীয় ঘূর্ণিস্রোতের মাঝে সুযোগ বুঝে নৌকা নিয়ে পালিয়ে বেঁচে ফিরলেন।"
-      }
-    ]
-  },
-  {
-    "id": "adv-king-solomons-mines",
-    "title": "King Solomon's Mines",
-    "titleBn": "কিং সোলোমনস মাইনস",
-    "author": "H. Rider Haggard",
-    "level": "Intermediate",
-    "category": "Classic Adventure",
-    "coverEmoji": "💎",
-    "summary": "Allan Quatermain leads an expedition through uncharted African deserts and mountains in search of legendary biblical diamonds.",
-    "summaryBn": "অনাবিষ্কৃত আফ্রিকান মরুভূমি ও পাহাড় পেরিয়ে বাইবেলের প্রাচীন হিরের খনি উদ্ধারে দুঃসাহসিক অভিযানে নামেন অ্যালান কোয়াটারমেইন।",
-    "sentences": [
-      {
-        "en": "Veteran elephant hunter Allan Quatermain agreed to guide Sir Henry Curtis across the uncharted African interior to find Curtis's missing brother.",
-        "bn": "অভিজ্ঞ শিকারী অ্যালান কোয়াটারমেইন ব্রিটিশ অভিজাত স্যার হেনরি কার্টিসের হারিয়ে যাওয়া ভাইয়ের খোঁজে দুর্গম আফ্রিকান অরণ্যে পথ দেখাতে রাজি হলেন।"
-      },
-      {
-        "en": "Armed with a three-hundred-year-old map drawn in blood by a dying Portuguese explorer, they aimed for the fabled diamond mines of King Solomon.",
-        "bn": "এক মৃত্যুপথযাত্রী পর্তুগিজ নাবিকের রক্তে আঁকা তিনশত বছরের পুরনো মানচিত্র সম্বল করে তারা কিং সোলোমনের হীরার খনির সন্ধানে রওনা হলেন।"
-      },
-      {
-        "en": "After nearly perishing from extreme thirst in a scorching desert, they crossed freezing mountain peaks known as Sheba's Breasts.",
-        "bn": "তপ্ত মরুভূমির বুক চিরে তৃষ্ণায় প্রায় মরতে বসে তারা বরফে ঢাকা রহস্যময় পর্বতমালা সফলভাবে অতিক্রম করলেন।"
-      },
-      {
-        "en": "On the other side, they encountered the isolated Kukuanas, a fierce warrior kingdom ruled by the tyrannical King Twala and a sinister witch named Gagool.",
-        "bn": "পাহাড়ের ওপারে তারা কুকোয়ানা নামের এক দুর্ধর্ষ যোদ্ধা জাতির দেখা পেলেন, যার শাসক ছিল অত্যাচারী রাজা টাওয়ালা ও এক কুৎসিত ডাইনি গাগুল।"
-      },
-      {
-        "en": "Their loyal servant Umbopa revealed his true birthright as the rightful heir to the throne, sparking an epic civil war for liberation.",
-        "bn": "তাদের বিশ্বস্ত পরিচারক উম্বোপা নিজের আসল পরিচয় প্রকাশ করল যে সে-ই সেই রাজ্যের আসল সিংহাসনের অধিকারী, শুরু হলো স্বাধীনতার মহাযুদ্ধ।"
-      },
-      {
-        "en": "After winning the battle, Gagool led the adventurers deep into a mountain vault overflowing with chests of uncut diamonds before trapping them inside.",
-        "bn": "যুদ্ধে জয়ের পর ডাইনি গাগুল তাদের হিরের পাহাড়ের গোপন গুহায় নিয়ে গিয়ে বিশ্বাসঘাতকতা করে পাথরের ভারী দরজা আটকে দিল।"
-      },
-      {
-        "en": "Struggling in pitch darkness for days, they discovered an underground ventilation shaft and escaped to safety, laden with unimaginable wealth.",
-        "bn": "কয়েক দিন অন্ধকারে মৃত্যুর সাথে লড়াই করে তারা এক লুকোনো বাতাস চলাচলের সুড়ঙ্গ খুঁজে পেয়ে অফুরন্ত হিরে নিয়ে নিরাপদে ফিরে এলেন।"
-      }
-    ]
-  },
-  {
-    "id": "adv-the-lost-world",
-    "title": "The Lost World",
-    "titleBn": "লস্ট ওয়ার্ল্ড: হারিয়ে যাওয়া পৃথিবী",
-    "author": "Sir Arthur Conan Doyle",
-    "level": "Intermediate",
-    "category": "Classic Adventure",
-    "coverEmoji": "🦕",
-    "summary": "Professor Challenger leads an expedition to an isolated South American plateau where living dinosaurs still rule the land.",
-    "summaryBn": "দক্ষিণ আমেরিকার দুর্গম পাহাড়ি মালভূমিতে যেখানে এখনো ডাইনোসররা রাজত্ব করছে, সেখানে দুঃসাহসী অভিযান চালান প্রফেসর চ্যালেঞ্জার।",
-    "sentences": [
-      {
-        "en": "The fiery and eccentric Professor George Edward Challenger astonished the Royal Society of London by claiming that living dinosaurs survived in South America.",
-        "bn": "উগ্র ও একরোখা বিজ্ঞানী প্রফেসর জর্জ এডওয়ার্ড চ্যালেঞ্জার লন্ডনের রয়্যাল সোসাইটিতে দাবি করলেন যে দক্ষিণ আমেরিকার দুর্গম মালভূমিতে এখনো জীবন্ত ডাইনোসর বেঁচে রয়েছে।"
-      },
-      {
-        "en": "To verify his outrageous claim, a team consisting of Challenger, rival Professor Summerlee, sportsman Lord John Roxton, and reporter Edward Malone set sail.",
-        "bn": "এই অবিশ্বাস্য দাবির সত্যতা যাচাই করতে চ্যালেঞ্জার, তার বিরোধী প্রফেসর সামারলি, শিকারী লর্ড জন রক্সটন এবং সাংবাদিক এডওয়ার্ড ম্যালোন আমাজনে রওনা হলেন।"
-      },
-      {
-        "en": "They journeyed up the Amazon tributary and reached an inaccessible volcanic plateau whose towering red cliffs barred all entry from the modern world.",
-        "bn": "আমাজনের উপনদী পেরিয়ে তারা এমন এক লাল পাথরের খাড়া মালভূমিতে পৌঁছালেন যা আধুনিক পৃথিবী থেকে সম্পূর্ণ বিচ্ছিন্ন ছিল।"
-      },
-      {
-        "en": "Felling a tall tree across a perilous chasm, the four men crossed over, only for a treacherous local guide to push the tree down, stranding them above.",
-        "bn": "একটি বিশাল গাছ কেটে গিরিখাতের ওপর সেতু বানিয়ে তারা ওপারে গেলেন, কিন্তু এক বিশ্বাসঘাতক গাইড গাছটি ফেলে দিয়ে তাদের ওখানেই আটকে দিল।"
-      },
-      {
-        "en": "To their terror and wonder, the plateau teemed with Jurassic life: soaring pterodactyls, towering iguanodons, and bloodthirsty carnivorous tyrannosaurs.",
-        "bn": "তাদের ভয় ও বিস্ময়ের মিশ্রণে দেখা গেল সেই মালভূমি জুরাসিক যুগের প্রাণীতে পরিপূর্ণ: ডানা মেলা টেরোডাক্টাইল, দানবীয় ইগুয়ানোডন এবং হিংস্র মাংসাশী ডাইনোসর।"
-      },
-      {
-        "en": "After surviving captured ape-men and prehistoric predators, they discovered a hidden cave passage and climbed safely down to the jungle.",
-        "bn": "বুনো বানর-মানব ও হিংস্র শিকারী প্রাণীদের আক্রমণ সামলে তারা এক গোপন গুহার পথ দিয়ে নিচে নেমে আধুনিক জগতে ফিরে আসার পথ পেলেন।"
-      },
-      {
-        "en": "Back in London, when skeptics mocked their tales, Challenger opened a large crate, unleashing a shrieking live pterodactyl into the astonished auditorium.",
-        "bn": "লন্ডনে ফিরে এসে বিজ্ঞানীরা যখন তাদের কথা উপহাস করল, চ্যালেঞ্জার একটি বড় কাঠের বাক্স খুলে দিলেন, যার ভেতর থেকে এক জীবন্ত ডানা মেলা টেরোডাক্টাইল চিৎকার করে উড়ে এসে পুরো হলঘর স্তব্ধ করে দিল।"
-      }
-    ]
-  },
-  {
-    "id": "adv-the-call-of-the-wild",
-    "title": "The Call of the Wild",
-    "titleBn": "বনের ডাক",
-    "author": "Jack London",
-    "level": "Intermediate",
-    "category": "Classic Adventure",
-    "coverEmoji": "🐺",
-    "summary": "Buck, a pampered dog stolen from California, overcomes brutal sled trails in the Klondike to answer the primordial call of the wilderness.",
-    "summaryBn": "ক্যালিফোর্নিয়ার বিলাসবহুল জীবন ছেড়ে বরফাবৃত ক্লনডাইকের স্লেজ গাড়ির কঠিন বাস্তবতায় বেঁচে থেকে আদিম বুনো ডাকে সাড়া দেয় বাক নামের এক কুকুর।",
-    "sentences": [
-      {
-        "en": "Buck, a magnificent and heavy Saint Bernard-Scotch shepherd mix, lived a pampered life of leisure on a sun-drenched estate in Santa Clara Valley.",
-        "bn": "বাক নামের এক সুঠামদেহী সেন্ট বার্নার্ড জাতের কুকুর ক্যালিফোর্নিয়ার সান্তা ক্লারার রোদঝলমলে এক খামারবাড়িতে পরম সুখে বিলাসবহুল জীবন কাটাত।"
-      },
-      {
-        "en": "During the gold rush frenzy, an indebted gardener secretly stole Buck and sold him to northern dog traders as a heavy-duty sled dog.",
-        "bn": "স্বর্ণ অনুসন্ধানের উন্মাদনার সময় এক ঋণগ্রস্ত মালী বাককে চুরি করে বরফের দেশে স্লেজ গাড়ি টানার জন্য এক দালালের কাছে বিক্রি করে দিল।"
-      },
-      {
-        "en": "Shipped into the freezing Klondike wilderness, Buck learned the harsh 'law of club and fang,' adapting quickly to survive beneath brutal sled drivers.",
-        "bn": "ক্লনডাইকের হাড়কাঁপানো বরফের দেশে পৌঁছে বাক 'লাঠি আর দাঁতের নির্মম নিয়ম' শিখল এবং কঠোর চাবুকের নিচে বেঁচে থাকার কৌশল আয়ত্ত করল।"
-      },
-      {
-        "en": "Under scorching blizzards, Buck pulled heavy mail sleds for thousands of miles, gradually shedding his domesticated softness for raw primitive strength.",
-        "bn": "হিমশীতল তুষারঝড়ের মাঝে হাজার হাজার মাইল ডাকবাহী স্লেজ টেনে বাক তার গৃহপালিত নরম স্বভাব ঝেড়ে ফেলে এক অপরাজেয় বুনো শক্তিতে রূপান্তরিত হলো।"
-      },
-      {
-        "en": "Rescued from abusive prospectors by the compassionate outdoorsman John Thornton, Buck forged a bond of profound, unconditional devotion with his new master.",
-        "bn": "নিষ্ঠুর মালিকদের হাত থেকে দয়ালু জন থর্নটন বাককে উদ্ধার করার পর, দুজনের মধ্যে গড়ে উঠল এক গভীর ও অকৃত্রিম ভালোবাসার সম্পর্ক।"
-      },
-      {
-        "en": "Whenever the forest night fell, Buck listened intently to a mysterious, ancient howling echoing across the snow, feeling an irresistible pull.",
-        "bn": "বনের মাঝে রাত নামলেই বরফের বুক চিরে ভেসে আসা নেকড়েদের প্রাচীন উদাত্ত ডাক শুনে বাকের রক্তের গভীরে এক অজানা বুনো টান জেগে উঠত।"
-      },
-      {
-        "en": "When tragedy struck and Thornton was killed by local tribesmen, Buck avenged his beloved friend and bounded joyfully into the wilderness to run as leader of the wolf pack.",
-        "bn": "যখন শত্রুদের আক্রমণে থর্নটন প্রাণ হারালেন, বাক তার প্রিয় বন্ধুর মৃত্যুর চরম প্রতিশোধ নিল এবং দ্বিধাহীন চিত্তে অরণ্যের মাঝে ঝাঁপিয়ে পড়ে নেকড়ে পালের নেতা হয়ে আদিম জীবনে ফিরে গেল।"
+        "en": "Allah answered Zakariyya's supplication with Prophet Yahya, while Maryam was later chosen above all the women of the world to bear Prophet Isa.",
+        "bn": "আল্লাহ যাকারিয়ার দোয়ার জবাবে নবী ইয়াহইয়াকে দান করলেন, আর মারইয়ামকে পরবর্তী সময়ে সমগ্র জাহানের নারীদের ওপর মর্যাদাবান করে নবী ঈসার জননী হিসেবে মনোনীত করলেন।",
+        "words": [
+          {
+            "en": "answered supplication",
+            "bn": "দোয়া কবুল করলেন"
+          },
+          {
+            "en": "chosen above all women",
+            "bn": "সকল নারীর ওপর মনোনীত করলেন"
+          },
+          {
+            "en": "bear Prophet Isa",
+            "bn": "নবী ঈসাকে গর্ভে ধারণ করতে"
+          }
+        ]
       }
     ]
   }

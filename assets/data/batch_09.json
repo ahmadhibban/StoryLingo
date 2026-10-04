@@ -1,628 +1,2105 @@
 [
   {
-    "id": "myth-prometheus-fire",
-    "title": "Prometheus and the Gift of Fire",
-    "titleBn": "প্রমিথিউস ও অগ্নির উপহার",
-    "author": "Greek Mythology",
+    "id": "hadith-debtor-wood",
+    "title": "The Honest Debtor and the Thousand Dinars in a Log",
+    "titleBn": "কাঠের গুঁড়িতে এক হাজার দিনার ও সততার অনন্য দৃষ্টান্ত",
+    "author": "Authentic Hadith (Sahih al-Bukhari)",
     "level": "Intermediate",
-    "category": "Mythology & Legends",
-    "coverEmoji": "🔥",
-    "summary": "The titan Prometheus defies Zeus to bring sacred fire to shivering mortals, paying the ultimate price on Mount Caucasus.",
-    "summaryBn": "দেবরাজ জিউসের নিষেধাজ্ঞা অমান্য করে মানবজাতির জন্য স্বর্গ থেকে আগুন চুরি করে চরম শাস্তি বরণ করেছিলেন বীর প্রমিথিউস।",
+    "levelColor": "amber",
+    "category": "Quranic Chronicles",
+    "coverEmoji": "🪵",
+    "summary": "A righteous man borrowed one thousand dinars taking Allah as his sole Witness and Guarantor; when stormy seas prevented his travel on the due date, he placed the coins inside a carved piece of wood and cast it into the waves.",
+    "summaryBn": "বনি ইসরাঈলের এক ব্যক্তি আল্লাহকে একমাত্র সাক্ষী ও জামিনদার রেখে এক হাজার দিনার ঋণ নেয়; কিন্তু ঋণ পরিশোধের দিন ঝড়ো আবহাওয়ার কারণে কোনো জাহাজ না পেয়ে সে কাঠের গুঁড়ি কেটে তাতে অর্থ ভরে আল্লাহর ভরসায় সমুদ্রে ভাসিয়ে দেয়।",
     "sentences": [
       {
-        "en": "In the primordial age of the world, mortals lived in damp caves, shivering in the freezing darkness and gnawing on raw roots.",
-        "bn": "সৃষ্টির আদি যুগে মানুষ স্যাঁতসেঁতে গুহায় বাস করত, হিমশীতল অন্ধকারে শীতে কাঁপত আর কাঁচা লতাপাতা চিবিয়ে জীবন কাটাত।"
+        "en": "A man from the Children of Israel requested a wealthy acquaintance to lend him one thousand gold dinars for business.",
+        "bn": "বনি ইসরাঈলের এক ব্যক্তি ব্যবসার উদ্দেশ্যে তার এক পরিচিত ধনী ব্যক্তির কাছে এক হাজার স্বর্ণদিনার ঋণ চাইল।",
+        "words": [
+          {
+            "en": "Children of Israel",
+            "bn": "বনি ইসরাঈল"
+          },
+          {
+            "en": "wealthy acquaintance",
+            "bn": "পরিচিত ধনী ব্যক্তি"
+          },
+          {
+            "en": "lend him",
+            "bn": "তাকে ধার দিতে"
+          },
+          {
+            "en": "thousand gold dinars",
+            "bn": "এক হাজার স্বর্ণমুদ্রা"
+          }
+        ]
       },
       {
-        "en": "The Titan Prometheus looked upon mankind with profound pity, realizing that without the divine spark of fire, humans could never build civilizations.",
-        "bn": "টাইটান প্রমিথিউসের মনে মানুষের জন্য গভীর মায়া হলো; তিনি বুঝলেন স্বর্গীয় আগুনের স্ফুলিঙ্গ ছাড়া মানুষ কখনো সভ্যতা গড়ে তুলতে পারবে না।"
+        "en": "The lender demanded, 'Bring forth witnesses who will testify to this contract.'",
+        "bn": "ঋণদাতা দাবি করল, 'এমন সাক্ষী নিয়ে এসো যারা এই চুক্তির সাক্ষ্য দেবে।'",
+        "words": [
+          {
+            "en": "lender demanded",
+            "bn": "ঋণদাতা দাবি করল"
+          },
+          {
+            "en": "Bring forth witnesses",
+            "bn": "সাক্ষী উপস্থিত করো"
+          },
+          {
+            "en": "testify to contract",
+            "bn": "চুক্তির সাক্ষ্য দেওয়া"
+          }
+        ]
       },
       {
-        "en": "Zeus, the ruthless king of Mount Olympus, strictly forbade sharing heavenly fire, wishing humans to remain weak and subservient.",
-        "bn": "মাউন্ট অলিম্পাসের নির্মম রাজা জিউস স্বর্গের আগুন মানুষকে দিতে কঠোরভাবে নিষেধ করেছিলেন, যাতে মানুষ চিরকাল দুর্বল ও অনুগত হয়ে থাকে।"
+        "en": "The borrower answered with full conviction: 'Allah is sufficient as a Witness.'",
+        "bn": "ঋণগ্রহীতা পূর্ণ বিশ্বাসের সাথে উত্তর দিল: 'সাক্ষী হিসেবে আল্লাহই যথেষ্ট।'",
+        "words": [
+          {
+            "en": "full conviction",
+            "bn": "পূর্ণ বিশ্বাস ও একাগ্রতা"
+          },
+          {
+            "en": "Allah is sufficient",
+            "bn": "আল্লাহই যথেষ্ট"
+          },
+          {
+            "en": "as a Witness",
+            "bn": "সাক্ষী হিসেবে"
+          }
+        ]
       },
       {
-        "en": "Prometheus ascended Olympus secretly, concealed a burning coal inside a hollow fennel stalk, and carried the glowing ember down to mortals.",
-        "bn": "প্রমিথিউস গোপনে অলিম্পাসে উঠে একটি ফাঁপা মৌরিগাছের ডালে জ্বলন্ত অঙ্গার লুকিয়ে নিয়ে মর্ত্যের মানুষের কাছে সেই আগুন পৌঁছে দিলেন।"
+        "en": "The lender asked for a guarantor, to which the man replied: 'Allah is sufficient as a Guarantor.'",
+        "bn": "ঋণদাতা একজন জামিনদার চাইল, উত্তরে লোকটি বলল: 'জামিনদার হিসেবে আল্লাহই যথেষ্ট।'",
+        "words": [
+          {
+            "en": "asked for a guarantor",
+            "bn": "একজন জামিনদার চাইল"
+          },
+          {
+            "en": "as a Guarantor",
+            "bn": "জামিনদার হিসেবে"
+          }
+        ]
       },
       {
-        "en": "With fire, mankind cooked their food, forged strong iron tools, warmed their dwellings, and began their triumphant march into science and art.",
-        "bn": "আগুনের সাহায্যে মানুষ রান্না শিখল, শক্ত লোহার হাতিয়ার তৈরি করল, ঘর উষ্ণ রাখল এবং বিজ্ঞান ও শিল্পকলার বিজয়ী যাত্রা শুরু করল।"
+        "en": "Moved by his sincerity, the lender agreed and handed over the thousand dinars, fixing a precise deadline for repayment.",
+        "bn": "তার আন্তরিকতায় মুগ্ধ হয়ে ঋণদাতা রাজি হলো এবং পরিশোধের একটি নির্দিষ্ট সময়সীমা নির্ধারণ করে এক হাজার দিনার তার হাতে তুলে দিল।",
+        "words": [
+          {
+            "en": "Moved by sincerity",
+            "bn": "আন্তরিকতায় মুগ্ধ হয়ে"
+          },
+          {
+            "en": "handed over dinars",
+            "bn": "দিনারগুলো হস্তান্তর করল"
+          },
+          {
+            "en": "fixing precise deadline",
+            "bn": "নির্দিষ্ট সময়সীমা ধার্য করে"
+          }
+        ]
       },
       {
-        "en": "Enraged by this defiance, Zeus chained Prometheus to the icy crags of Mount Caucasus with unbreakable bronze shackles.",
-        "bn": "এই অবাধ্যতায় ক্রোধে উন্মত্ত হয়ে জিউস ককেশাস পর্বতের বরফঢাকা চূড়ায় অটুট ব্রোঞ্জের শিকল দিয়ে প্রমিথিউসকে বন্দি করে রাখলেন।"
+        "en": "The borrower crossed the sea, traded successfully, and earned a handsome profit.",
+        "bn": "ঋণগ্রহীতা সমুদ্র পাড়ি দিয়ে অন্য শহরে পৌঁছাল, সফলভাবে ব্যবসা করল এবং সুন্দর মুনাফা অর্জন করল।",
+        "words": [
+          {
+            "en": "crossed the sea",
+            "bn": "সমুদ্র পাড়ি দিল"
+          },
+          {
+            "en": "traded successfully",
+            "bn": "সফলভাবে ব্যবসা করল"
+          },
+          {
+            "en": "handsome profit",
+            "bn": "উত্তম মুনাফা"
+          }
+        ]
       },
       {
-        "en": "Every day a giant eagle devoured his liver, yet Prometheus never bowed his head or repented his sacrifice for humanity.",
-        "bn": "প্রতিদিন একটি দানবীয় ঈগল এসে তার যকৃৎ খুবলে খেত, তবুও প্রমিথিউস মানুষের কল্যাণে করা নিজের আত্মত্যাগের জন্য কখনো অনুশোচনা করেননি।"
+        "en": "When the day of settlement arrived, he hurried to the harbor to find a vessel, but violent storms had grounded every ship.",
+        "bn": "যখন ঋণ পরিশোধের দিনটি উপস্থিত হলো, সে জাহাজের সন্ধানে বন্দরে ছুটে গেল, কিন্তু প্রচণ্ড ঝড়ে সমস্ত জাহাজ চলাচল বন্ধ ছিল।",
+        "words": [
+          {
+            "en": "day of settlement arrived",
+            "bn": "পরিশোধের দিন ঘনিয়ে এলো"
+          },
+          {
+            "en": "hurried to the harbor",
+            "bn": "বন্দরে ছুটে গেল"
+          },
+          {
+            "en": "violent storms",
+            "bn": "প্রচণ্ড ঝড়"
+          },
+          {
+            "en": "grounded every ship",
+            "bn": "সব জাহাজ আটকে রেখেছিল"
+          }
+        ]
+      },
+      {
+        "en": "Distressed that he might breach his pledge, the man found a thick piece of timber, hollowed out the center, and sealed the thousand dinars inside along with a letter.",
+        "bn": "প্রতিশ্রুতি ভঙ্গ হওয়ার ভয়ে ব্যাকুল হয়ে লোকটি একটি ভারী কাঠের গুঁড়ি সংগ্রহ করল, এর ভেতরটা খুঁড়ে তাতে এক হাজার দিনার ও একটি চিঠি ভরে মুখ শক্তভাবে বন্ধ করল।",
+        "words": [
+          {
+            "en": "breach his pledge",
+            "bn": "তার প্রতিশ্রুতি ভঙ্গ করা"
+          },
+          {
+            "en": "piece of timber",
+            "bn": "কাঠের গুঁড়ি"
+          },
+          {
+            "en": "hollowed out the center",
+            "bn": "মাঝখানটা খুঁড়ে ফাঁপা করল"
+          },
+          {
+            "en": "sealed inside with a letter",
+            "bn": "চিঠিসহ ভেতরে সিল করল"
+          }
+        ]
+      },
+      {
+        "en": "He stood on the beach, prayed, 'O Allah, You knew that I took You as Witness and Guarantor; deliver this trust safely', and cast the log into the turbulent waves.",
+        "bn": "সে সমুদ্রতীরে দাঁড়িয়ে দোয়া করল, 'হে আল্লাহ, আপনি জানেন আমি আপনাকে সাক্ষী ও জামিন রেখেছিলাম; এই আমানত আপনি পৌঁছে দিন', এবং উত্তাল ঢেউয়ের মাঝে কাঠের গুঁড়িটি ভাসিয়ে দিল।",
+        "words": [
+          {
+            "en": "stood on the beach",
+            "bn": "সমুদ্রসৈকতে দাঁড়াল"
+          },
+          {
+            "en": "took You as Witness",
+            "bn": "আপনাকে সাক্ষী রেখেছিলাম"
+          },
+          {
+            "en": "deliver this trust",
+            "bn": "এই আমানত পৌঁছে দিন"
+          },
+          {
+            "en": "turbulent waves",
+            "bn": "উত্তাল ঢেউ"
+          }
+        ]
+      },
+      {
+        "en": "Across the waters, the creditor walked along the shore looking for a returning ship, saw the floating log, and carried it home for firewood.",
+        "bn": "অপর প্রান্তের তীরে ঋণদাতা জাহাজের অপেক্ষায় পায়চারি করছিল; সে ভাসমান কাঠের গুঁড়িটি দেখতে পেয়ে জ্বালানি কাঠের জন্য তা বাড়িতে নিয়ে গেল।",
+        "words": [
+          {
+            "en": "shore looking for ship",
+            "bn": "তীরে জাহাজের অপেক্ষায়"
+          },
+          {
+            "en": "floating log",
+            "bn": "ভাসমান কাঠের টুকরো"
+          },
+          {
+            "en": "carried it for firewood",
+            "bn": "জ্বালানির জন্য বয়ে আনল"
+          }
+        ]
+      },
+      {
+        "en": "When he sawed the timber open, the shiny gold dinars and the heartfelt letter spilled across his floor.",
+        "bn": "যখন সে কাঠটি চেরাই করল, চকচকে স্বর্ণমুদ্রা এবং আন্তরিক চিঠিটি তার মেঝের ওপর ছড়িয়ে পড়ল।",
+        "words": [
+          {
+            "en": "sawed timber open",
+            "bn": "কাঠ কেটে চেরাই করল"
+          },
+          {
+            "en": "shiny gold dinars",
+            "bn": "চকচকে স্বর্ণমুদ্রা"
+          },
+          {
+            "en": "heartfelt letter",
+            "bn": "আন্তরিক চিঠি"
+          },
+          {
+            "en": "spilled across floor",
+            "bn": "মেঝের ওপর ছড়িয়ে পড়ল"
+          }
+        ]
+      },
+      {
+        "en": "Later, when ships resumed sailing, the debtor arrived in person with another thousand dinars just in case the log had been lost, but the creditor embraced him and confirmed Allah had already delivered his payment.",
+        "bn": "পরবর্তীতে জাহাজ চলাচল শুরু হলে ঋণগ্রহীতা কাঠটি হারিয়ে গেছে ভেবে আরো এক হাজার দিনার নিয়ে হাজির হলো; কিন্তু ঋণদাতা তাকে জড়িয়ে ধরে জানাল যে আল্লাহ আগেই তার ঋণ পরিশোধ করে দিয়েছেন।",
+        "words": [
+          {
+            "en": "arrived in person",
+            "bn": "ব্যক্তিগতভাবে উপস্থিত হলো"
+          },
+          {
+            "en": "another thousand dinars",
+            "bn": "আরও এক হাজার দিনার"
+          },
+          {
+            "en": "embraced him",
+            "bn": "তাকে জড়িয়ে ধরল"
+          },
+          {
+            "en": "already delivered payment",
+            "bn": "ইতিমধ্যেই পরিশোধ পৌঁছে দিয়েছেন"
+          }
+        ]
       }
     ]
   },
   {
-    "id": "myth-daedalus-icarus",
-    "title": "The Wings of Daedalus and Icarus",
-    "titleBn": "ডিডালাস ও ইকারুসের ডানা",
-    "author": "Greek Mythology",
+    "id": "quranic-qarun-treasures",
+    "title": "The Arrogance of Qarun and His Swallowed Treasures",
+    "titleBn": "কারুনের চরম অহংকার ও ভূগর্ভে বিলীন হওয়া ধনভাণ্ডার",
+    "author": "Surah Al-Qasas (Quran 28:76-82)",
     "level": "Intermediate",
-    "category": "Mythology & Legends",
-    "coverEmoji": "🪶",
-    "summary": "An ingenious inventor crafts wax-and-feather wings to escape a Cretan prison, warning his son against reckless pride.",
-    "summaryBn": "ক্রিট দ্বীপের কারাগার থেকে পালাতে মোম ও পালকের ডানা বানান এক দক্ষ কারিগর, কিন্তু অহংকারের বশে ঘটে করুণ পরিণতি।",
+    "levelColor": "rose",
+    "category": "Quranic Chronicles",
+    "coverEmoji": "💎",
+    "summary": "Qarun possessed treasures so vast that the strongest men groaned carrying just their keys; blinded by pride, he claimed his wealth came from his own genius, until Allah commanded the earth to swallow him and his palace whole.",
+    "summaryBn": "কারুনের ধনভাণ্ডার এতটাই অঢেল ছিল যে শুধু এর চাবি বহন করতেই একদল শক্তিশালী লোক ক্লান্ত হয়ে পড়ত; অহংকারে অন্ধ হয়ে সে দাবি করল এসব তার নিজের জ্ঞান ও যোগ্যতার ফল, শেষ পর্যন্ত আল্লাহ জমিনকে নির্দেশ দিলেন তাকে এবং তার প্রাসাদকে গ্রাস করে নিতে।",
     "sentences": [
       {
-        "en": "The brilliant Athenian architect Daedalus and his young son Icarus were imprisoned in a high tower on the island of Crete by King Minos.",
-        "bn": "অ্যাথেন্সের প্রতিভাবান স্থপতি ডিডালাস এবং তার তরুণ পুত্র ইকারুস ক্রিট দ্বীপের এক উঁচু মিনারে রাজা মাইনসের দ্বারা বন্দি ছিলেন।"
+        "en": "Qarun was from the people of Prophet Musa, but he rebelled against them with tyrannical arrogance.",
+        "bn": "কারুন ছিল মুসা (আ.)-এর সম্প্রদায়ের অন্তর্ভুক্ত, কিন্তু সে সীমাহীন অহংকার দেখিয়ে তাদের ওপর অবাধ্যতা ও জুলুম শুরু করল।",
+        "words": [
+          {
+            "en": "people of Musa",
+            "bn": "মুসা (আ.)-এর কওম"
+          },
+          {
+            "en": "rebelled against them",
+            "bn": "তাদের বিরুদ্ধে বিদ্রোহ করল"
+          },
+          {
+            "en": "tyrannical arrogance",
+            "bn": "স্বৈরাচারী অহংকার"
+          }
+        ]
       },
       {
-        "en": "Since the surrounding sea was guarded by royal warships, Daedalus realized that their only path to freedom lay through the open skies.",
-        "bn": "যেহেতু চারপাশের সমুদ্র রাজকীয় যুদ্ধজাহাজে ঘেরা ছিল, ডিডালাস বুঝলেন মুক্তির একমাত্র পথ খোলা রয়েছে নীল আকাশের বুকে।"
+        "en": "Allah had bestowed upon him immense riches, such that the heavy iron keys to his treasure vaults burdened a company of strong men.",
+        "bn": "আল্লাহ তাকে এত বিপুল ধনসম্পদ দান করেছিলেন যে কেবল তার কোষাগারের ভারী চাবিগুলো বহন করতেই একদল বলিষ্ঠ পুরুষের কষ্ট হতো।",
+        "words": [
+          {
+            "en": "immense riches",
+            "bn": "বিপুল ধনসম্পদ"
+          },
+          {
+            "en": "heavy iron keys",
+            "bn": "ভারী লোহার চাবি"
+          },
+          {
+            "en": "treasure vaults",
+            "bn": "ধনভাণ্ডার বা কোষাগার"
+          },
+          {
+            "en": "company of strong men",
+            "bn": "একদল শক্তিশালী পুরুষ"
+          }
+        ]
       },
       {
-        "en": "Gathering fallen seagull feathers, Daedalus threaded them with twine and bound them securely together using melted beeswax.",
-        "bn": "গাঙচিলের ঝরে পড়া পালক কুড়িয়ে নিয়ে ডিডালাস সুতো দিয়ে বাঁধলেন এবং গলানো মোম দিয়ে শক্ত করে জোড়া দিয়ে দুটি জোড়া ডানা তৈরি করলেন।"
+        "en": "Wise elders among his people counseled him: 'Do not exult in pride; seek the Home of the Hereafter and do good as Allah has been good to you.'",
+        "bn": "তার জাতির বিজ্ঞ মুরব্বিরা তাকে উপদেশ দিলেন: 'অহংকারে আনন্দিত হয়ো না; পরকালের শান্তির অনুসন্ধান করো এবং মানুষের সাথে ভালো ব্যবহার করো যেমন আল্লাহ তোমার প্রতি অনুগ্রহ করেছেন।'",
+        "words": [
+          {
+            "en": "Wise elders counseled",
+            "bn": "বিজ্ঞ মুরব্বিরা উপদেশ দিলেন"
+          },
+          {
+            "en": "exult in pride",
+            "bn": "অহংকারে মত্ত হওয়া"
+          },
+          {
+            "en": "Home of the Hereafter",
+            "bn": "আখেরাতের আবাস"
+          },
+          {
+            "en": "do good",
+            "bn": "সৎ আচরণ করো"
+          }
+        ]
       },
       {
-        "en": "Before strapping the magnificent wings to Icarus, Daedalus warned him: 'Fly the middle course; if you fly too low, damp sea spray will weigh down your feathers, and if you fly too high, the blazing sun will melt the wax.'",
-        "bn": "ইকারুসের পিঠে ডানা পরিয়ে দেওয়ার আগে ডিডালাস সাবধান করে বললেন: 'মাঝামাঝি উচ্চতায় উড়বে; বেশি নিচে গেলে সাগরের নোনা জল ডানা ভারী করবে, আর বেশি উঁচুতে উঠলে সূর্যের প্রচণ্ড তাপে মোম গলে যাবে।'"
+        "en": "Qarun sneered contemptuously and boasted, 'I was granted all this exclusively because of the superior knowledge and intellect I possess.'",
+        "bn": "কারুন অবজ্ঞাভরে তাচ্ছিল্য করল এবং বড়াই করে বলল, 'আমার নিজস্ব উচ্চতর জ্ঞান ও মেধার বলেই কেবল আমাকে এই ধনরাশি দেওয়া হয়েছে।'",
+        "words": [
+          {
+            "en": "sneered contemptuously",
+            "bn": "ঘৃণাভরে অবজ্ঞা করল"
+          },
+          {
+            "en": "granted all this",
+            "bn": "এসব দেওয়া হয়েছে"
+          },
+          {
+            "en": "superior knowledge and intellect",
+            "bn": "উচ্চতর জ্ঞান ও মেধা"
+          }
+        ]
       },
       {
-        "en": "Father and son leaped into the air, flapping their artificial wings like giant birds, soaring high above the sparkling Aegean Sea.",
-        "bn": "বাবা ও ছেলে শূন্যে ঝাঁপ দিলেন, বিশালাকার পাখির মতো ডানা ঝাপটে ঝলমলে এজিয়ান সাগরের ওপর দিয়ে মুক্ত আকাশে উড়ে চললেন।"
+        "en": "One day, he paraded before his people in dazzling royal grandeur, draped in lavish silks and surrounded by armed guards.",
+        "bn": "একদিন সে জমকালো রাজকীয় সাজে, রেশমি পোশাক ও সশস্ত্র দেহরক্ষী বেষ্টিত হয়ে জাঁকজমকের সাথে জনতার সামনে আবির্ভূত হলো।",
+        "words": [
+          {
+            "en": "paraded before people",
+            "bn": "জনতার সামনে শোডাউন করল"
+          },
+          {
+            "en": "dazzling royal grandeur",
+            "bn": "চোখ ধাঁধানো রাজকীয় আড়ম্বর"
+          },
+          {
+            "en": "lavish silks",
+            "bn": "বিলাসবহুল রেশম"
+          },
+          {
+            "en": "armed guards",
+            "bn": "সশস্ত্র প্রহরী"
+          }
+        ]
       },
       {
-        "en": "Drunk on the exhilaration of flight, Icarus forgot his father's warning and soared ever higher toward the blazing heavens.",
-        "bn": "উড়ার অদ্ভুত উত্তেজনায় মাতাল হয়ে ইকারুস বাবার সাবধানবাণী ভুলে গেল এবং সূর্যের আলোর দিকে আরো উঁচুতে উঠতে লাগল।"
+        "en": "Those who desired only worldly pleasures sighed with envy, wishing they possessed even a portion of Qarun's vast fortune.",
+        "bn": "পার্থিব সুখের পূজারীরা ঈর্ষার দীর্ঘশ্বাস ফেলে বলতে লাগল, কারুনকে যে প্রাচুর্য দেওয়া হয়েছে তার সামান্য অংশও যদি তাদের থাকত!",
+        "words": [
+          {
+            "en": "worldly pleasures",
+            "bn": "পার্থিব ভোগ-বিলাস"
+          },
+          {
+            "en": "sighed with envy",
+            "bn": "ঈর্ষায় দীর্ঘশ্বাস ফেলল"
+          },
+          {
+            "en": "vast fortune",
+            "bn": "বিশাল ভাগ্য ও সম্পদ"
+          }
+        ]
       },
       {
-        "en": "The scorching heat melted the golden wax, the loose feathers fluttered into the wind, and the tragic youth plunged headlong into the deep blue ocean.",
-        "bn": "সূর্যের তীব্র উত্তাপে সোনালী মোম গলে গেল, পালকগুলো বাতাসে ছড়িয়ে পড়ল এবং সেই দুর্ভাগা তরুণ সোজা সাগরের নীল অতল গভীরে নিমজ্জিত হলো।"
+        "en": "However, those blessed with true knowledge reminded them: 'Woe to you! The spiritual reward of Allah is far better for whoever believes and works righteousness.'",
+        "bn": "তবে যাদের খাঁটি দ্বীনি জ্ঞান দেওয়া হয়েছিল তারা বলল: 'ধিক তোমাদের! যারা ঈমান আনে এবং নেক আমল করে তাদের জন্য আল্লাহর দেওয়া প্রতিদান এর চেয়ে বহুগুণ শ্রেয়।'",
+        "words": [
+          {
+            "en": "true knowledge",
+            "bn": "খাঁটি জ্ঞান"
+          },
+          {
+            "en": "Woe to you",
+            "bn": "তোমাদের জন্য আফসোস / ধিক"
+          },
+          {
+            "en": "spiritual reward",
+            "bn": "আধ্যাত্মিক সওয়াব / প্রতিদান"
+          },
+          {
+            "en": "works righteousness",
+            "bn": "নেক আমল করে"
+          }
+        ]
+      },
+      {
+        "en": "Then, by divine command, the ground beneath Qarun's feet suddenly tore open with a deafening roar.",
+        "bn": "অতঃপর আল্লাহর নির্দেশে এক বিকট গর্জনে কারুনের পায়ের নিচের মাটি আকস্মিকভাবে দুভাগ হয়ে ফেটে গেল।",
+        "words": [
+          {
+            "en": "divine command",
+            "bn": "ঐশী নির্দেশ"
+          },
+          {
+            "en": "beneath his feet",
+            "bn": "তার পায়ের নিচে"
+          },
+          {
+            "en": "tore open",
+            "bn": "ফেটে চৌচির হলো"
+          },
+          {
+            "en": "deafening roar",
+            "bn": "বিকট গর্জন"
+          }
+        ]
+      },
+      {
+        "en": "The earth swallowed him, his towering mansion, and all his gold and silver, pulling them deep into the abyss.",
+        "bn": "জমিন তাকে, তার সুউচ্চ প্রাসাদ এবং সমস্ত সোনা-রূপাকে এক নিমেষে গ্রাস করে পাতালের গভীরে তলিয়ে নিয়ে গেল।",
+        "words": [
+          {
+            "en": "earth swallowed him",
+            "bn": "মাটি তাকে গ্রাস করল"
+          },
+          {
+            "en": "towering mansion",
+            "bn": "সুউচ্চ প্রাসাদ"
+          },
+          {
+            "en": "pulling deep into abyss",
+            "bn": "অতল গহ্বরে টেনে নিয়ে গেল"
+          }
+        ]
+      },
+      {
+        "en": "Neither his bodyguards nor his piled gold could rescue him from the inescapable punishment of Allah.",
+        "bn": "না তার দেহরক্ষীরা, না তার স্তূপীকৃত স্বর্ণভাণ্ডার—কেউই তাকে আল্লাহর অনিবার্য শাস্তি থেকে রক্ষা করতে পারল না।",
+        "words": [
+          {
+            "en": "bodyguards",
+            "bn": "দেহরক্ষীবাহিনী"
+          },
+          {
+            "en": "piled gold",
+            "bn": "স্তূপীকৃত স্বর্ণ"
+          },
+          {
+            "en": "inescapable punishment",
+            "bn": "অনিবার্য শাস্তি"
+          }
+        ]
+      },
+      {
+        "en": "Those who had envied him yesterday awoke praising Allah for sparing them, recognizing that worldly wealth without piety leads to utter destruction.",
+        "bn": "যারা গতকাল তার সম্পদে ঈর্ষা করেছিল, তারা সকালে আল্লাহকে ধন্যবাদ জানাল যে তিনি তাদের রক্ষা করেছেন; তারা বুঝল তাকওয়াহীন সম্পদ কেবল ধ্বংসই বয়ে আনে।",
+        "words": [
+          {
+            "en": "envied him yesterday",
+            "bn": "গতকাল তাকে হিংসা করত"
+          },
+          {
+            "en": "sparing them",
+            "bn": "তাদের রক্ষা করার জন্য"
+          },
+          {
+            "en": "wealth without piety",
+            "bn": "তাকওয়াহীন সম্পদ"
+          },
+          {
+            "en": "utter destruction",
+            "bn": "চরম ধ্বংস ও বিনাশ"
+          }
+        ]
       }
     ]
   },
   {
-    "id": "myth-twelve-labors-hercules",
-    "title": "The Twelve Labors of Hercules",
-    "titleBn": "হারকিউলিসের বারোটি দুঃসাধ্য অভিযান",
-    "author": "Greek Mythology",
-    "level": "Intermediate",
-    "category": "Mythology & Legends",
-    "coverEmoji": "🦁",
-    "summary": "The greatest Greek hero completes twelve seemingly impossible trials to atone for past grief and earn immortality.",
-    "summaryBn": "নিজের অতীতের ভুলের প্রায়শ্চিত্ত করতে বারোটি অসম্ভব পরীক্ষায় অংশ নিয়ে অমরত্ব লাভ করেন গ্রিক বীর হারকিউলিস।",
+    "id": "hadith-woman-cat",
+    "title": "The Woman and the Imprisoned Cat",
+    "titleBn": "একটি বিড়ালকে অনাহারে বন্দি রাখা ও জাহান্নামের শাস্তি",
+    "author": "Authentic Hadith (Sahih al-Bukhari & Sahih Muslim)",
+    "level": "Beginner",
+    "levelColor": "teal",
+    "category": "Quranic Chronicles",
+    "coverEmoji": "🐾",
+    "summary": "The Prophet ﷺ cautioned believers about the severity of cruelty by recounting a woman who confined a cat without food or water until it starved, causing her to enter the Hellfire despite her other deeds.",
+    "summaryBn": "জীবজন্তুর প্রতি নিষ্ঠুরতার ভয়াবহ পরিণতি সম্পর্কে সতর্ক করে রাসুলুল্লাহ ﷺ এক নারীর ঘটনা তুলে ধরেন, যে একটি বিড়ালকে ঘরে আটকে রেখে না খাবার দিয়েছিল, না ছেড়ে দিয়েছিল পোকা-মাকড় খাওয়ার জন্য; ফলে নির্মম অনাহারে বিড়ালটি মারা গেলে ওই নারী জাহান্নামে নিক্ষিপ্ত হয়।",
     "sentences": [
       {
-        "en": "Hercules, born of Zeus with supernatural physical strength, was condemned by the Oracle of Delphi to serve King Eurystheus for twelve years.",
-        "bn": "দেবরাজ জিউসের পুত্র অলৌকিক শক্তির অধিকারী হারকিউলিসকে ডেলফির দৈববাণী অনুযায়ী বারো বছর রাজা ইউরিস্থিউসের অধীনে কঠিন সেবা করতে হয়েছিল।"
+        "en": "The Messenger of Allah ﷺ warned his followers that cruelty toward any vulnerable creature draws the severe wrath of the Creator.",
+        "bn": "রাসুলুল্লাহ ﷺ তাঁর উম্মতকে সতর্ক করেছেন যে কোনো দুর্বল প্রাণীর ওপর নিষ্ঠুরতা প্রদর্শন স্রষ্টার কঠিন ক্রোধ ডেকে আনে।",
+        "words": [
+          {
+            "en": "warned his followers",
+            "bn": "অনুসারীদের সতর্ক করলেন"
+          },
+          {
+            "en": "cruelty toward creature",
+            "bn": "প্রাণীর প্রতি নিষ্ঠুরতা"
+          },
+          {
+            "en": "vulnerable creature",
+            "bn": "দুর্বল বা নিরীহ প্রাণী"
+          },
+          {
+            "en": "severe wrath",
+            "bn": "কঠিন ক্রোধ ও অসন্তোষ"
+          }
+        ]
       },
       {
-        "en": "Eurystheus assigned twelve monstrous tasks designed to defeat and destroy even the mightiest warriors of Greece.",
-        "bn": "ইউরিস্থিউস তাকে এমন বারোটি দানবীয় কাজ দিয়েছিলেন যা গ্রিসের সবচেয়ে পরাক্রমশালী যোদ্ধাদেরও ধ্বংস করার জন্য যথেষ্ট ছিল।"
+        "en": "He related the history of a woman who captured a helpless cat and locked it inside an empty room.",
+        "bn": "তিনি এক নারীর ঘটনা বর্ণনা করলেন, যে একটি অসহায় বিড়াল ধরে একটি শূন্য ঘরের ভেতর বন্দি করে রেখেছিল।",
+        "words": [
+          {
+            "en": "captured helpless cat",
+            "bn": "অসহায় বিড়ালকে বন্দি করল"
+          },
+          {
+            "en": "locked inside empty room",
+            "bn": "শূন্য কক্ষে আটকে রাখল"
+          }
+        ]
       },
       {
-        "en": "First, Hercules strangled the invulnerable Nemean Lion bare-handed and wore its impenetrable pelt as a protective cloak.",
-        "bn": "প্রথম অভিযানে হারকিউলিস কোনো অস্ত্রের সাহায্য ছাড়াই খালি হাতে নেমিয়ান সিংহকে বধ করলেন এবং তার চামড়াকে বর্মের মতো শরীরে জড়িয়ে নিলেন।"
+        "en": "Her heart was devoid of tenderness, and she gave the trapped animal neither food to eat nor clean water to drink.",
+        "bn": "তার হৃদয় দয়া ও কোমলতাশূন্য ছিল; সে বন্দি প্রাণীটিকে না কোনো খাবার দিল, না এক ফোঁটা পরিষ্কার পানি পান করতে দিল।",
+        "words": [
+          {
+            "en": "devoid of tenderness",
+            "bn": "কোমলতা ও দয়াশূন্য"
+          },
+          {
+            "en": "trapped animal",
+            "bn": "আটকে থাকা প্রাণী"
+          },
+          {
+            "en": "neither food nor water",
+            "bn": "না খাবার, না পানি"
+          }
+        ]
       },
       {
-        "en": "Next, he confronted the venomous Hydra of Lerna, cauterizing its neck stumps with burning torches so new serpent heads could not regenerate.",
-        "bn": "এরপর তিনি লার্নার বিষধর হাইড্রার মুখোমুখি হলেন এবং কাটা গলার ডগা মশাল দিয়ে পুড়িয়ে নতুন মাথা গজানো চিরতরে বন্ধ করলেন।"
+        "en": "Nor did she release the creature to roam freely in the fields to feed upon grasshoppers and small insects of the earth.",
+        "bn": "এমনকি সে প্রাণীটিকে বাইরে ছেড়েও দিল না যেন সে স্বাধীনভাবে ঘুরে বেড়িয়ে ঘাসফড়িং ও মাটির পোকামাকড় খেয়ে বাঁচতে পারত।",
+        "words": [
+          {
+            "en": "release to roam freely",
+            "bn": "স্বাধীনভাবে ঘোরার জন্য ছেড়ে দেওয়া"
+          },
+          {
+            "en": "feed upon grasshoppers",
+            "bn": "ঘাসফড়িং খেয়ে বেঁচে থাকা"
+          },
+          {
+            "en": "insects of the earth",
+            "bn": "মাটির কীটপতঙ্গ"
+          }
+        ]
       },
       {
-        "en": "To cleanse the filthy Augean stables in a single day, he diverted the mighty Alpheus and Peneus rivers straight through the livestock yards.",
-        "bn": "একদিনে হাজার হাজার গরুর নোংরা আস্তাবল পরিষ্কার করতে তিনি আলফিয়াস ও পেনিয়াস নদীর পুরো স্রোত ঘুরিয়ে খামারের ভেতর দিয়ে বইয়ে দিলেন।"
+        "en": "Days passed as the helpless cat cried out in agonized mewing, its small body wasting away from starvation and dehydration.",
+        "bn": "দিনের পর দিন কাটতে লাগল আর অসহায় বিড়ালটি ব্যথায় আর্তনাদ করতে লাগল; অনাহার ও পানিশূন্যতায় তার ছোট্ট শরীরটি কঙ্কালসার হয়ে গেল।",
+        "words": [
+          {
+            "en": "agonized mewing",
+            "bn": "যন্ত্রণার আর্তনাদ / মেউ মেউ"
+          },
+          {
+            "en": "wasting away",
+            "bn": "শুকিয়ে কঙ্কালসার হচ্ছিল"
+          },
+          {
+            "en": "starvation and dehydration",
+            "bn": "অনাহার ও পানিশূন্যতা"
+          }
+        ]
       },
       {
-        "en": "For his final and most terrifying trial, Hercules descended into the dark underworld to wrestle and capture Cerberus, the ferocious three-headed hound of Hades.",
-        "bn": "তার শেষ ও সবচেয়ে ভীতিপ্রদ পরীক্ষায় হারকিউলিস পাতালে নেমে নরকের তিন মাথাবিশিষ্ট হিংস্র কুকুর সার্বেরাসকে খালি হাতে পরাস্ত করে ওপরে নিয়ে এলেন।"
+        "en": "Eventually, the tortured animal perished on the cold stone floor in utter misery.",
+        "bn": "অবশেষে চরম দুর্দশার মধ্যে ঠান্ডা পাথুরে মেঝের ওপর সেই নির্যাতিত প্রাণীটি শেষ নিঃশ্বাস ত্যাগ করল।",
+        "words": [
+          {
+            "en": "tortured animal perished",
+            "bn": "নির্যাতিত প্রাণীটি মারা গেল"
+          },
+          {
+            "en": "cold stone floor",
+            "bn": "ঠান্ডা পাথুরে মেঝে"
+          },
+          {
+            "en": "utter misery",
+            "bn": "চরম দুর্ভোগ ও দুর্দশা"
+          }
+        ]
       },
       {
-        "en": "Through unmatched courage and unwavering grit, Hercules fulfilled every impossible labor, earning the eternal reverence of gods and mortals alike.",
-        "bn": "অতুলনীয় বীরত্ব ও দৃঢ় সংকল্পের জোরে হারকিউলিস প্রতিটি অসম্ভব পরীক্ষা সফল করে দেবতা ও মানুষ উভয়ের চিরন্তন শ্রদ্ধা অর্জন করলেন।"
+        "en": "Because she showed no mercy to a creature incapable of pleading for itself, Allah entered her into the Hellfire on account of that cat.",
+        "bn": "যেহেতু সে এমন এক অবলা প্রাণীর ওপর কোনো দয়া দেখায়নি যে নিজের মুখে চাইতে পারত না, তাই আল্লাহ ওই বিড়ালের কারণে তাকে জাহান্নামে প্রবেশ করালেন।",
+        "words": [
+          {
+            "en": "showed no mercy",
+            "bn": "কোনো দয়া দেখায়নি"
+          },
+          {
+            "en": "incapable of pleading",
+            "bn": "মিনতি করতে অপারগ"
+          },
+          {
+            "en": "entered into Hellfire",
+            "bn": "জাহান্নামে প্রবেশ করালেন"
+          },
+          {
+            "en": "on account of that cat",
+            "bn": "সেই বিড়ালের কারণে"
+          }
+        ]
+      },
+      {
+        "en": "The Prophet ﷺ emphasized: 'Those who show mercy will be shown mercy by the Most Merciful; be merciful to those on earth, and the One in the heavens will show mercy to you.'",
+        "bn": "নবী করিম ﷺ জোর দিয়ে বলেন: 'দয়াশীলদের ওপর পরম দয়াময় আল্লাহ দয়া করেন; তোমরা জমিনের অধিবাসীদের প্রতি দয়া করো, তবে আসমানের মালিক তোমাদের প্রতি দয়া করবেন।'",
+        "words": [
+          {
+            "en": "show mercy",
+            "bn": "দয়া প্রদর্শন করা"
+          },
+          {
+            "en": "Most Merciful",
+            "bn": "পরম দয়াময়"
+          },
+          {
+            "en": "those on earth",
+            "bn": "জমিনের সৃষ্টিজগৎ"
+          },
+          {
+            "en": "One in the heavens",
+            "bn": "আসমানের অধিপতি (আল্লাহ)"
+          }
+        ]
       }
     ]
   },
   {
-    "id": "myth-pandoras-box",
-    "title": "Pandora's Box and the Golden Spark of Hope",
-    "titleBn": "প্যান্ডোরার বাক্স ও আশার প্রদীপ",
-    "author": "Greek Mythology",
+    "id": "quranic-people-sabbath",
+    "title": "The People of the Sabbath and the Forbidden Fishing",
+    "titleBn": "আসহাবুস সাবত: শনিবারের নিষেধাজ্ঞা ও বিকৃত পরিণতি",
+    "author": "Surah Al-A'raf (Quran 7:163-166)",
     "level": "Intermediate",
-    "category": "Mythology & Legends",
-    "coverEmoji": "📦",
-    "summary": "Curiosity drives Pandora to unseal a forbidden jar, releasing sorrows into the world while keeping Hope safe within.",
-    "summaryBn": "অদম্য কৌতুহলের বশে নিষিদ্ধ পাত্রের ঢাকনা খুলে পৃথিবীর বুকে দুঃখকষ্ট ছড়িয়ে পড়লেও তলানিতে রয়ে যায় একমাত্র আশার আলো।",
+    "levelColor": "indigo",
+    "category": "Quranic Chronicles",
+    "coverEmoji": "🐟",
+    "summary": "A coastal Israelite town was forbidden from fishing on Saturdays; to test their loyalty, fish surfaced openly on the Sabbath. Greedy residents laid deceptive traps, ignoring the warnings of preachers, until divine punishment transformed them into despised apes.",
+    "summaryBn": "বনি ইসরাঈলের এক সমুদ্র উপকূলীয় জনপদে শনিবার মাছ ধরা নিষিদ্ধ ছিল; তাদের পরীক্ষার জন্য শনিবারে ঝাঁকে ঝাঁকে মাছ ভেসে উঠত। লোভী লোকেরা কূটকৌশলে জাল পেতে মাছ আটকানো শুরু করে এবং উপদেশকারীদের অবহেলা করে, যার ফলে তারা অভিশপ্ত বানরে রূপান্তরিত হয়।",
     "sentences": [
       {
-        "en": "When Zeus decided to punish mankind for accepting the stolen fire, he ordered the god Hephaestus to fashion the first mortal woman, Pandora.",
-        "bn": "চুরি করা আগুন গ্রহণ করার অপরাধে মানবজাতিকে সাজা দিতে দেবরাজ জিউস কারিগর দেবতা হেফেস্টাসকে প্রথম মানবী প্যান্ডোরাকে তৈরির নির্দেশ দিলেন।"
+        "en": "Along the shores of the Red Sea lay an ancient Israelite fishing town whose inhabitants were tested by a strict divine commandment.",
+        "bn": "লোহিত সাগরের উপকূলে বনি ইসরাঈলের এক প্রাচীন মৎস্যজীবী জনপদ ছিল, যাদের অধিবাসীদের এক কঠোর ঐশী আদেশ দিয়ে পরীক্ষা করা হয়েছিল।",
+        "words": [
+          {
+            "en": "shores of the Red Sea",
+            "bn": "লোহিত সাগরের তীর"
+          },
+          {
+            "en": "ancient fishing town",
+            "bn": "প্রাচীন জেলে নগরী"
+          },
+          {
+            "en": "tested by commandment",
+            "bn": "আদেশের দ্বারা পরীক্ষিত"
+          }
+        ]
       },
       {
-        "en": "Each Olympian deity bestowed a divine gift upon her: Aphrodite gave beauty, Hermes gave persuasive speech, and Athena gave fine craftsmanship.",
-        "bn": "অলিম্পাসের দেবতারা তাকে বিভিন্ন উপহার দিলেন: আফ্রোডিতি দিলেন রূপ, হার্মিস দিলেন মিষ্ট ভাষা, আর এথেনা দিলেন শিল্পদক্ষতা।"
+        "en": "Allah ordained Saturday as their Sabbath, a holy day dedicated purely to worship during which all fishing and commerce was forbidden.",
+        "bn": "আল্লাহ শনিবারকে তাদের জন্য 'সাবত' বা বিশ্রামের পবিত্র দিন ধার্য করেছিলেন, যা সম্পূর্ণ ইবাদতের জন্য নির্দিষ্ট ছিল এবং তখন মাছ ধরা ও ব্যবসা নিষিদ্ধ ছিল।",
+        "words": [
+          {
+            "en": "ordained Saturday",
+            "bn": "শনিবার নির্ধারণ করেছিলেন"
+          },
+          {
+            "en": "holy day dedicated to worship",
+            "bn": "ইবাদতের জন্য নিবেদিত পবিত্র দিন"
+          },
+          {
+            "en": "fishing and commerce forbidden",
+            "bn": "মাছ ধরা ও বাণিজ্য নিষিদ্ধ"
+          }
+        ]
       },
       {
-        "en": "As a wedding gift for her marriage to Epimetheus, Zeus presented Pandora with a beautifully carved, sealed earthenware jar.",
-        "bn": "এপিমেথিউসের সাথে প্যান্ডোরার বিয়ের উপহার হিসেবে জিউস সুন্দর নকশা করা একটি মুখবন্ধ মাটির কলসি বা বাক্স উপহার দিলেন।"
+        "en": "As a divine test of their obedience, schools of plump fish surfaced playfully near the shoreline on Saturdays, but vanished completely on all other weekdays.",
+        "bn": "তাদের আনুগত্য পরীক্ষার জন্য শনিবার আসলেই ঝাঁকে ঝাঁকে বড় বড় মাছ তীরে প্রকাশ্যে ভেসে উঠত, কিন্তু সপ্তাহের অন্য দিনগুলোতে একটি মাছও দেখা যেত না।",
+        "words": [
+          {
+            "en": "divine test of obedience",
+            "bn": "আনুগত্যের ঐশী পরীক্ষা"
+          },
+          {
+            "en": "schools of plump fish",
+            "bn": "হৃষ্টপুষ্ট মাছের ঝাঁক"
+          },
+          {
+            "en": "surfaced playfully",
+            "bn": "তীরে খেলাচ্ছলে ভেসে উঠত"
+          },
+          {
+            "en": "vanished completely",
+            "bn": "সম্পূর্ণ অদৃশ্য হয়ে যেত"
+          }
+        ]
       },
       {
-        "en": "The god strictly cautioned them that the vessel must never be opened under any circumstance.",
-        "bn": "দেবতাদের কঠোর নির্দেশ ছিল যে কোনো অবস্থাতেই যেন এই পাত্রটির ঢাকনা কখনো খোলা না হয়।"
+        "en": "Overcome with greed, a deceitful group devised a sly scheme: they dug canals and cast nets on Friday evening, trapping the fish over Saturday, and collecting them on Sunday.",
+        "bn": "লোভে অন্ধ হয়ে একদল চতুর লোক ফন্দি আঁটল: তারা শুক্রবার বিকেলে খাল খনন করে জাল পেতে রাখত, শনিবারে মাছ এসে আটকা পড়ত এবং রবিবারে তারা মাছ সংগ্রহ করত।",
+        "words": [
+          {
+            "en": "Overcome with greed",
+            "bn": "লোভে অন্ধ হয়ে"
+          },
+          {
+            "en": "devised a sly scheme",
+            "bn": "একটি কূটকৌশল আবিষ্কার করল"
+          },
+          {
+            "en": "trapping the fish",
+            "bn": "মাছগুলো ফাঁদে ফেলে"
+          },
+          {
+            "en": "collecting on Sunday",
+            "bn": "রবিবারে সংগ্রহ করে"
+          }
+        ]
       },
       {
-        "en": "For months, Pandora resisted temptation, but the mysterious whisperings inside the jar fueled an overpowering burning curiosity.",
-        "bn": "কয়েকমাস প্যান্ডোরা নিজেকে সংযত রাখলেন, কিন্তু পাত্রের ভেতর থেকে ভেসে আসা অদ্ভুত ফিসফিস আওয়াজ তার অন্তরের কৌতূহল বহুগুণ বাড়িয়ে দিল।"
+        "en": "They rationalized their fraud by claiming, 'We did not cast any nets on the Sabbath day itself!'",
+        "bn": "তারা নিজেদের প্রতারণার সাফাই গেয়ে দাবি করল, 'আমরা তো শনিবারের দিনে কোনো জাল ফেলিনি!'",
+        "words": [
+          {
+            "en": "rationalized fraud",
+            "bn": "প্রতারণার অজুহাত তৈরি করল"
+          },
+          {
+            "en": "cast any nets",
+            "bn": "কোনো জাল ফেলা"
+          },
+          {
+            "en": "Sabbath day itself",
+            "bn": "শনিবারের পবিত্র দিনে"
+          }
+        ]
       },
       {
-        "en": "Unable to contain her inquisitiveness, she gently loosened the golden clasp and lifted the heavy lid just an inch.",
-        "bn": "অবশেষে কৌতূহল ধরে রাখতে না পেরে তিনি বাক্সের সোনালী তালা খুলে ভারী ঢাকনাটি সামান্য এক ইঞ্চি ফাঁক করলেন।"
+        "en": "The community divided into three groups: the brazen transgressors, the righteous who actively warned them, and a silent group who said, 'Why bother admonishing people whom Allah will destroy?'",
+        "bn": "শহরের সমাজ তিন ভাগে বিভক্ত হয়ে গেল: প্রকাশ্য সীমালঙ্ঘনকারী, সৎ লোক যারা তাদের নিষেধ করত, এবং একদল নীরব লোক যারা বলল, 'যাদের আল্লাহ ধ্বংস করবেন তাদের উপদেশ দিয়ে লাভ কী?'",
+        "words": [
+          {
+            "en": "brazen transgressors",
+            "bn": "নির্লজ্জ সীমালঙ্ঘনকারী"
+          },
+          {
+            "en": "actively warned them",
+            "bn": "সক্রিয়ভাবে তাদের সতর্ক করত"
+          },
+          {
+            "en": "silent group",
+            "bn": "নীরব দর্শক দল"
+          },
+          {
+            "en": "Why bother admonishing",
+            "bn": "উপদেশ দেওয়ার ঝামেলা কেন করা"
+          }
+        ]
       },
       {
-        "en": "Immediately, a cloud of dark winged tormentors swarmed into the sky: sickness, jealousy, sorrow, old age, and despair.",
-        "bn": "মুহূর্তের মধ্যে একঝাঁক কালো ডানাওয়ালা অভিশাপ আকাশে ছড়িয়ে পড়ল: রোগ, হিংসা, দুঃখ, বার্ধক্য আর চরম হতাশা।"
+        "en": "The righteous preachers answered: 'To be free from blame before our Lord, and that perhaps they might still take heed and fear Him.'",
+        "bn": "সৎ উপদেশদাতারা উত্তর দিলেন: 'আমাদের প্রতিপালকের সামনে দায়মুক্ত থাকার জন্য, এবং হয়তো তারা আল্লাহর ভয়ে তাওবা করবে সেই আশায়।'",
+        "words": [
+          {
+            "en": "free from blame",
+            "bn": "দায়মুক্ত থাকা"
+          },
+          {
+            "en": "before our Lord",
+            "bn": "আমাদের রবের সামনে"
+          },
+          {
+            "en": "take heed and fear",
+            "bn": "উপদেশ গ্রহণ করা ও ভয় করা"
+          }
+        ]
       },
       {
-        "en": "Weeping in remorse, Pandora slammed the lid shut, trapping only one luminous, gentle creature at the very bottom: Hope.",
-        "bn": "ভয়ে ও অনুশোচনায় কেঁদে ফেলে প্যান্ডোরা দ্রুত ঢাকনা বন্ধ করে দিলেন, পাত্রের তলানিতে বন্দি রয়ে গেল একমাত্র উজ্জ্বল কোমল প্রাণ: 'আশা'।"
+        "en": "When the transgressors arrogantly persisted in their deceitful defiance, a devastating punishment struck overnight.",
+        "bn": "সীমালঙ্ঘনকারীরা যখন উদ্ধতভাবে তাদের প্রতারণামূলক অবাধ্যতায় অটল রইল, তখন গভীর রাতে এক ভয়াবহ শাস্তি তাদের ওপর আঘাত হানল।",
+        "words": [
+          {
+            "en": "arrogantly persisted",
+            "bn": "অহংকারের সাথে অটল রইল"
+          },
+          {
+            "en": "deceitful defiance",
+            "bn": "প্রতারণাপূর্ণ অবাধ্যতা"
+          },
+          {
+            "en": "devastating punishment struck",
+            "bn": "ধ্বংসাত্মক শাস্তি নেমে এলো"
+          }
+        ]
+      },
+      {
+        "en": "Allah delivered those who forbade evil, while the defiant sinners were physically transformed into despised, chattering apes.",
+        "bn": "আল্লাহ অন্যায় থেকে নিষেধকারী নেককারদের রক্ষা করলেন, আর অবাধ্য পাপীদের দৈহিকভাবে নিকৃষ্ট ও লাঞ্ছিত বানরে রূপান্তরিত করে দিলেন।",
+        "words": [
+          {
+            "en": "delivered those who forbade evil",
+            "bn": "অন্যায় প্রতিরোধকারীদের রক্ষা করলেন"
+          },
+          {
+            "en": "defiant sinners",
+            "bn": "অবাধ্য পাপীরা"
+          },
+          {
+            "en": "physically transformed",
+            "bn": "দৈহিকভাবে রূপান্তরিত হলো"
+          },
+          {
+            "en": "despised chattering apes",
+            "bn": "নিকৃষ্ট ও কিচিরমিচির করা বানর"
+          }
+        ]
+      },
+      {
+        "en": "This historic tragedy remains an enduring sign in the Quran, warning that religious legalism and trickery cannot outsmart the divine law.",
+        "bn": "এই ঐতিহাসিক ট্র্যাজেডি কোরআনে এক চিরন্তন নিদর্শন হয়ে রয়েছে, যা হুঁশিয়ার করে দেয় যে কূটকৌশল দিয়ে কখনোই আল্লাহর বিধানকে ধোঁকা দেওয়া যায় না।",
+        "words": [
+          {
+            "en": "enduring sign in Quran",
+            "bn": "কোরআনের এক চিরন্তন নিদর্শন"
+          },
+          {
+            "en": "trickery",
+            "bn": "প্রতারণা ও কূটকৌশল"
+          },
+          {
+            "en": "outsmart divine law",
+            "bn": "আল্লাহর বিধানকে ফাঁকি দেওয়া"
+          }
+        ]
       }
     ]
   },
   {
-    "id": "myth-king-midas-golden-touch",
-    "title": "King Midas and the Golden Touch",
-    "titleBn": "রাজা মিডাস ও স্বর্ণস্পর্শের অভিশাপ",
-    "author": "Greek Mythology",
+    "id": "history-umar-abdul-aziz-justice",
+    "title": "Caliph Umar ibn Abdul Aziz: The Beacon of Justice",
+    "titleBn": "উমর ইবনে আবদুল আজিজ: পঞ্চম খুলাফায়ে রাশেদিনের ইনসাফ",
+    "author": "Tarikh al-Khulafa (Imam As-Suyuti & Ibn Kathir)",
     "level": "Intermediate",
-    "category": "Mythology & Legends",
-    "coverEmoji": "🪙",
-    "summary": "A greedy king asks that everything he touches turn to gold, only to discover that wealth cannot replace bread or love.",
-    "summaryBn": "সবকিছু সোনায় রূপান্তর করার বর চেয়ে চরম বিপদে পড়েন রাজা মিডাস; বুঝতে পারেন সোনা কখনো অন্ন কিংবা ভালোবাসার বিকল্প নয়।",
+    "levelColor": "emerald",
+    "category": "Islamic Golden Age",
+    "coverEmoji": "🕯️",
+    "summary": "Upon being crowned Caliph, Umar ibn Abdul Aziz relinquished royal estates, wept under the immense weight of accountability, abolished hereditary privileges, and established such unmatched economic justice that no poor person could be found to accept Zakat.",
+    "summaryBn": "খলিফা নির্বাচিত হয়ে উমর ইবনে আবদুল আজিজ রাজকীয় বিলাসিতা ত্যাগ করেন, জবাবদিহিতার ভয়ে কান্নায় ভেঙে পড়েন, উমাইয়াদের অবৈধ সম্পত্তি রাষ্ট্রীয় কোষাগারে ফিরিয়ে দেন এবং মাত্র আড়াই বছরে এমন অর্থনৈতিক ন্যায়বিচার কায়েম করেন যে যাকাত নেওয়ার মতো একজন গরিব মানুষও খুঁজে পাওয়া যেত না।",
     "sentences": [
       {
-        "en": "King Midas ruled the wealthy realm of Phrygia, but his heart was consumed by an insatiable hunger for glittering gold.",
-        "bn": "রাজা মিডাস ফ্রিজিয়ার ধনী সাম্রাজ্য শাসন করতেন, কিন্তু তার মন সবসময় চকচকে সোনার এক অতৃপ্ত লোভে আচ্ছন্ন থাকত।"
+        "en": "When Umar ibn Abdul Aziz was unexpectedly proclaimed the eighth Umayyad Caliph in Damascus, he wept openly in dread of standing before Allah.",
+        "bn": "উমর ইবনে আবদুল আজিজ যখন দামেস্কে অপ্রত্যাশিতভাবে উমাইয়া খিলাফতের খলিফা ঘোষিত হলেন, তিনি আল্লাহর সামনে জবাবদিহিতার ভয়ে সবার সামনে কেঁদে ফেললেন।",
+        "words": [
+          {
+            "en": "unexpectedly proclaimed",
+            "bn": "অপ্রত্যাশিতভাবে ঘোষিত হলেন"
+          },
+          {
+            "en": "wept openly",
+            "bn": "সবার সামনে কাঁদলেন"
+          },
+          {
+            "en": "dread of standing",
+            "bn": "হাজির হওয়ার ভয়"
+          },
+          {
+            "en": "before Allah",
+            "bn": "আল্লাহর সামনে"
+          }
+        ]
       },
       {
-        "en": "After Midas showed great hospitality to the satyr Silenus, the wine god Dionysus offered to grant the monarch any single wish.",
-        "bn": "মিডাস দেবতা সিলিনাসের সুন্দর আতিথেয়তা করায় খুশি হয়ে মদের দেবতা ডায়োনিসাস রাজাকে যেকোনো একটি বর চাওয়ার সুযোগ দিলেন।"
+        "en": "He stepped upon the pulpit and addressed the crowd: 'O people, discharge me from this burden and choose another leader', but the masses cried out in unison that they wanted only him.",
+        "bn": "তিনি মিম্বারে দাঁড়িয়ে জনতাকে বললেন: 'হে লোকসকল, আমাকে এই ভারী দায়িত্ব থেকে অব্যাহতি দিয়ে অন্য কাউকে নেতা নির্বাচন করো', কিন্তু সমবেত জনতা একবাক্যে বলে উঠল যে তারা কেবল তাকেই চায়।",
+        "words": [
+          {
+            "en": "stepped upon the pulpit",
+            "bn": "মিম্বারে দাঁড়ালেন"
+          },
+          {
+            "en": "discharge me from burden",
+            "bn": "আমাকে এই বোঝা থেকে মুক্তি দাও"
+          },
+          {
+            "en": "cried out in unison",
+            "bn": "সমস্বরে চিৎকার করে উঠল"
+          }
+        ]
       },
       {
-        "en": "Without hesitation, Midas asked that whatever his flesh touched might immediately transform into solid, shining gold.",
-        "bn": "বিন্দুমাত্র চিন্তা না করে মিডাস বর চাইলেন যে তার শরীর যা কিছু স্পর্শ করবে, তা যেন তৎক্ষণাৎ খাঁটি চকচকে সোনায় পরিণত হয়।"
+        "en": "His very first decree was to auction off all royal thoroughbred horses and silk furnishings, depositing every single dirham directly into the public treasury (Bayt al-Mal).",
+        "bn": "তার প্রথম নির্দেশই ছিল রাজপ্রাসাদের সমস্ত উন্নত জাতের ঘোড়া ও রেশমি সাজসজ্জা নিলামে বিক্রি করে প্রতিটি দিরহাম সোজা বায়তুল মালে জমা দেওয়া।",
+        "words": [
+          {
+            "en": "very first decree",
+            "bn": "একেবারে প্রথম আদেশ"
+          },
+          {
+            "en": "auction off horses",
+            "bn": "ঘোড়াগুলো নিলামে বিক্রি করা"
+          },
+          {
+            "en": "silk furnishings",
+            "bn": "রেশমি আসবাবপত্র"
+          },
+          {
+            "en": "public treasury",
+            "bn": "সরকারি কোষাগার (বায়তুল মাল)"
+          }
+        ]
       },
       {
-        "en": "At first, Midas danced with joy: an oak twig turned to gold in his hand, a pebble became a yellow nugget, and roses in his garden hardened into metallic flowers.",
-        "bn": "প্রথমে মিডাস আনন্দে মেতে উঠলেন: একটি ওক গাছের ডাল সোনায় রূপ নিল, মাটির নুড়ি সোনা হলো, বাগানের গোলাপগুলো শক্ত ধাতব সোনায় পরিণত হলো।"
+        "en": "He requested his noble wife, Fatimah bint Abdul Malik, to donate her inherited family jewelry to the welfare fund, which she willingly did.",
+        "bn": "তিনি তাঁর মহীয়সী স্ত্রী ফাতিমা বিনতে আবদুল মালিককে তার পারিবারিক উত্তরাধিকার সূত্রে পাওয়া সমস্ত স্বর্ণালঙ্কার বায়তুল মালে দান করার অনুরোধ জানান, এবং তিনি তা সানন্দে মেনে নেন।",
+        "words": [
+          {
+            "en": "inherited family jewelry",
+            "bn": "উত্তরাধিকার সূত্রে পাওয়া গহনা"
+          },
+          {
+            "en": "welfare fund",
+            "bn": "জনকল্যাণ তহবিল"
+          },
+          {
+            "en": "willingly did",
+            "bn": "সানন্দে করলেন"
+          }
+        ]
       },
       {
-        "en": "However, horror struck when he sat down for dinner; the freshly baked bread turned into hard metal, and the wine turned into liquid gold in his throat.",
-        "bn": "কিন্তু রাতের খাবারের টেবিলে বসতেই আতঙ্ক নেমে এলো; গরম রুটি স্পর্শ করতেই শক্ত সোনা হয়ে গেল আর পানীয় মুখে দিতেই গলিত সোনা হয়ে গলায় আটকে গেল।"
+        "en": "Umar maintained two candles: one purchased with state funds used solely when reading government documents, and another paid from his own modest pocket for personal reading.",
+        "bn": "উমরের টেবিলে দুটি মোমবাতি থাকত: একটি সরকারি অর্থে কেনা যা কেবল রাষ্ট্রীয় কাজে ব্যবহৃত হতো, এবং অন্যটি তার নিজস্ব উপার্জনে কেনা যা ব্যক্তিগত পড়াশোনায় জ্বালাতেন।",
+        "words": [
+          {
+            "en": "maintained two candles",
+            "bn": "দুটি মোমবাতি রাখতেন"
+          },
+          {
+            "en": "purchased with state funds",
+            "bn": "সরকারি অর্থে কেনা"
+          },
+          {
+            "en": "reading government documents",
+            "bn": "সরকারি নথি পড়ার জন্য"
+          },
+          {
+            "en": "modest pocket",
+            "bn": "নিজের স্বল্প উপার্জন"
+          }
+        ]
       },
       {
-        "en": "When his beloved young daughter ran into the dining room to comfort him, Midas hugged her in desperation, watching in horror as she froze into a lifeless golden statue.",
-        "bn": "তার প্রিয় ছোট্ট মেয়ে যখন বাবাকে সান্ত্বনা দিতে ছুটে এলো, মিডাস তাকে বুকে জড়িয়ে ধরতেই চোখের সামনে সে এক নিষ্প্রাণ সোনার মূর্তিতে রূপান্তরিত হলো।"
+        "en": "Whenever a personal guest arrived while working at night, Umar would blow out the state candle and light his private candle.",
+        "bn": "রাতে রাষ্ট্রীয় কাজ করার সময় কোনো ব্যক্তিগত অতিথি এলে উমর সরকারি মোমবাতিটি নিভিয়ে দিয়ে নিজের মোমবাতিটি জ্বালিয়ে নিতেন।",
+        "words": [
+          {
+            "en": "personal guest arrived",
+            "bn": "ব্যক্তিগত মেহমান এলেন"
+          },
+          {
+            "en": "blow out state candle",
+            "bn": "সরকারি মোমবাতি নিভিয়ে দিতেন"
+          },
+          {
+            "en": "light private candle",
+            "bn": "ব্যক্তিগত মোমবাতি জ্বালাতেন"
+          }
+        ]
       },
       {
-        "en": "Starving and weeping bitterly, Midas begged Dionysus for mercy, washing away his cursed greed in the holy waters of the River Pactolus.",
-        "bn": "অনাহারে ও তীব্র কান্নায় ভেঙে পড়ে মিডাস দেবতার কাছে ক্ষমা চাইলেন এবং প্যাক্টোলাস নদীর পবিত্র জলে গা ধুয়ে অভিশপ্ত লোভের হাত থেকে মুক্তি পেলেন।"
+        "en": "He stripped corrupt governors of their ill-gotten wealth and returned confiscated lands to their rightful Christian, Jewish, and Muslim owners.",
+        "bn": "তিনি দুর্নীতিবাজ শাসকদের অবৈধভাবে অর্জিত সম্পদ কেড়ে নেন এবং বাজেয়াপ্ত জমিগুলো তাদের প্রকৃত খ্রিষ্টান, ইহুদি ও মুসলিম মালিকদের ফিরিয়ে দেন।",
+        "words": [
+          {
+            "en": "stripped corrupt governors",
+            "bn": "দুর্নীতিবাজ গভর্নরদের পদচ্যুত করলেন"
+          },
+          {
+            "en": "ill-gotten wealth",
+            "bn": "অন্যায়ভাবে উপার্জিত সম্পদ"
+          },
+          {
+            "en": "returned confiscated lands",
+            "bn": "বাজেয়াপ্ত জমি ফিরিয়ে দিলেন"
+          },
+          {
+            "en": "rightful owners",
+            "bn": "প্রকৃত মালিকদের"
+          }
+        ]
+      },
+      {
+        "en": "He abolished the oppressive taxes placed unlawfully upon non-Arab converts to Islam, famously rebuking an official: 'Muhammad ﷺ was sent as a guide, not as a tax collector!'",
+        "bn": "তিনি নওমুসলিম অনারবদের ওপর চাপানো অবৈধ কর বাতিল করেন এবং এক রাজকর্মচারীকে কড়া ভাষায় স্মরণ করিয়ে দেন: 'মুহাম্মদ ﷺ পথপ্রদর্শক হিসেবে প্রেরিত হয়েছিলেন, কর আদায়কারী হিসেবে নয়!'",
+        "words": [
+          {
+            "en": "abolished oppressive taxes",
+            "bn": "অত্যাচারী কর বাতিল করলেন"
+          },
+          {
+            "en": "famously rebuking",
+            "bn": "ঐতিহাসিক ধমক দিয়ে"
+          },
+          {
+            "en": "sent as a guide",
+            "bn": "হেদায়েতের পথপ্রদর্শক হিসেবে প্রেরিত"
+          },
+          {
+            "en": "not as a tax collector",
+            "bn": "কর সংগ্রাহক হিসেবে নয়"
+          }
+        ]
+      },
+      {
+        "en": "Within thirty months of his rule, the empire experienced such unprecedented prosperity that governors in North Africa and Iraq could not find a single needy person to accept charity.",
+        "bn": "তার মাত্র আড়াই বছরের শাসনামলে গোটা সাম্রাজ্যে এমন অভূতপূর্ব সমৃদ্ধি এলো যে উত্তর আফ্রিকা ও ইরাকের গভর্নররা যাকাত নেওয়ার মতো একজন অসচ্ছল ব্যক্তিও খুঁজে পেলেন না।",
+        "words": [
+          {
+            "en": "unprecedented prosperity",
+            "bn": "অভূতপূর্ব সমৃদ্ধি ও প্রাচুর্য"
+          },
+          {
+            "en": "governors in North Africa",
+            "bn": "উত্তর আফ্রিকার গভর্নররা"
+          },
+          {
+            "en": "not find a single needy person",
+            "bn": "একজন অভাবী মানুষও পেলেন না"
+          },
+          {
+            "en": "accept charity",
+            "bn": "সদকা বা যাকাত গ্রহণ করতে"
+          }
+        ]
+      },
+      {
+        "en": "He ordered wheat to be scattered atop mountain peaks so that 'no bird shall starve in the lands of the Muslims.'",
+        "bn": "তিনি পাহাড়ের চূড়ায় গম ছড়িয়ে দেওয়ার নির্দেশ দেন যেন 'মুসলিমদের শাসনাধীন ভূখণ্ডে একটি পাখিও না খেয়ে মারা না যায়।'",
+        "words": [
+          {
+            "en": "scattered atop mountain peaks",
+            "bn": "পাহাড়ের চূড়ায় ছড়িয়ে দিতে"
+          },
+          {
+            "en": "no bird shall starve",
+            "bn": "একটি পাখিও যেন না খেয়ে থাকে"
+          },
+          {
+            "en": "lands of the Muslims",
+            "bn": "মুসলিমদের ভূমিতে"
+          }
+        ]
       }
     ]
   },
   {
-    "id": "myth-perseus-medusa",
-    "title": "Perseus and the Gorgon Medusa",
-    "titleBn": "পার্সিউস ও মেডুসার মস্তক",
-    "author": "Greek Mythology",
+    "id": "history-salahuddin-jerusalem",
+    "title": "Sultan Salahuddin Ayyubi and the Compassionate Liberation of Jerusalem",
+    "titleBn": "সুলতান সালাহউদ্দিন আইয়ুবি ও জেরুজালেমের রক্তপাতহীন বিজয়",
+    "author": "Al-Nawadir al-Sultaniyya (Baha al-Din Ibn Shaddad)",
     "level": "Intermediate",
-    "category": "Mythology & Legends",
-    "coverEmoji": "🛡️",
-    "summary": "Guided by gods, Perseus uses a bronze mirror shield to slay the snake-haired monster whose gaze turns men to stone.",
-    "summaryBn": "দেবতাদের প্রদত্ত আয়না-বর্ম ব্যবহার করে যে দানবীর চাহনি মানুষকে পাথরে পরিণত করত, সেই সর্পকেশী মেডুসাকে বধ করেন পার্সিউস।",
+    "levelColor": "rose",
+    "category": "Islamic Golden Age",
+    "coverEmoji": "🏰",
+    "summary": "After crushing the crusader army at Hattin, Sultan Salahuddin liberated Jerusalem without slaughter or revenge, astonishing Christendom by paying ransoms for impoverished captives and ensuring safe passage for all.",
+    "summaryBn": "হিত্তিনের প্রান্তরে ক্রুসেডার বাহিনীকে পরাজিত করার পর সুলতান সালাহউদ্দিন আইয়ুবি রক্তপাত ও প্রতিশোধ ছাড়াই জেরুজালেম জয় করেন; যেখানে ক্রুসেডাররা শত বছর আগে মুসলিমদের গণহত্যা করেছিল, সেখানে তিনি দরিদ্র বন্দিদের মুক্তিপণ নিজের পকেট থেকে পরিশোধ করে মানবতাকে বিস্মিত করেন।",
     "sentences": [
       {
-        "en": "King Polydectes schemed to get rid of the young hero Perseus by challenging him to bring back the severed head of Medusa the Gorgon.",
-        "bn": "রাজা পলিডেক্টেস তরুণ বীর পার্সিউসকে চিরতরে সরিয়ে দেওয়ার কুপরিকল্পনা করে তাকে গর্গন মেডুসার কাটা মাথা নিয়ে আসার চ্যালেঞ্জ ছুড়ে দিল।"
+        "en": "In the blazing heat of 1187, Sultan Salahuddin Ayyubi outmaneuvered and decisively crushed the crusader forces at the Battle of Hattin.",
+        "bn": "১১৮৭ সালের তপ্ত গ্রীস্মে সুলতান সালাহউদ্দিন আইয়ুবি হিত্তিনের ঐতিহাসিক যুদ্ধে ক্রুসেডার বাহিনীকে কৌশলগতভাবে সম্পূর্ণ পরাস্ত করেন।",
+        "words": [
+          {
+            "en": "blazing heat",
+            "bn": "প্রচণ্ড দাবদাহ"
+          },
+          {
+            "en": "decisively crushed",
+            "bn": "চূড়ান্তভাবে পরাস্ত করলেন"
+          },
+          {
+            "en": "crusader forces",
+            "bn": "ক্রুসেডার বাহিনী"
+          },
+          {
+            "en": "Battle of Hattin",
+            "bn": "হিত্তিনের যুদ্ধ"
+          }
+        ]
       },
       {
-        "en": "Medusa was a terrifying creature with living venomous serpents for hair, whose direct gaze instantly transformed any living creature into solid stone.",
-        "bn": "মেডুসা ছিল এক ভয়ানক প্রাণী যার মাথায় চুলের বদলে বিষাক্ত সাপ কিলবিল করত এবং তার চোখের দিকে তাকানো মাত্র যেকোনো জীবন্ত প্রাণী পাথরে পরিণত হতো।"
+        "en": "He then marched south to lay siege to the holy city of Jerusalem, which had languished under European occupation for eighty-eight years.",
+        "bn": "এরপর তিনি জেরুজালেম অবরোধ করার উদ্দেশ্যে দক্ষিণ দিকে অগ্রসর হলেন, যা দীর্ঘ অষ্টআশি বছর ধরে ইউরোপীয়দের দখলে ছিল।",
+        "words": [
+          {
+            "en": "lay siege",
+            "bn": "অবরোধ করতে"
+          },
+          {
+            "en": "holy city of Jerusalem",
+            "bn": "পবিত্র নগরী জেরুজালেম"
+          },
+          {
+            "en": "languished under occupation",
+            "bn": "দখলদারিত্বে ধুঁকছিল"
+          },
+          {
+            "en": "eighty-eight years",
+            "bn": "অষ্টআশি বছর"
+          }
+        ]
       },
       {
-        "en": "Knowing the peril, the goddess Athena gifted Perseus a polished bronze shield, while Hermes provided winged sandals and a razor-sharp sickle.",
-        "bn": "বিপদের গুরুত্ব বুঝে দেবী এথেনা পার্সিউসকে আয়নার মতো চকচকে একটি ব্রোঞ্জের ঢাল দিলেন এবং হার্মিস দিলেন উড়ন্ত চটিজুতো ও ধারালো কাস্তে।"
+        "en": "When the city surrendered, memories of the First Crusade's horrific slaughter—where streets ran ankle-deep with Muslim and Jewish blood—terrified the Christian residents.",
+        "bn": "শহরটি যখন আত্মসমর্পণ করল, প্রথম ক্রুসেডের ভয়ংকর গণহত্যার স্মৃতি—যেখানে মুসলিম ও ইহুদিদের রক্তে রাস্তা গোড়ালি পর্যন্ত ভেসেছিল—খ্রিষ্টান বাসিন্দাদের আতঙ্কিত করে তুলল।",
+        "words": [
+          {
+            "en": "city surrendered",
+            "bn": "শহরটি আত্মসমর্পণ করল"
+          },
+          {
+            "en": "horrific slaughter",
+            "bn": "ভয়াবহ গণহত্যা"
+          },
+          {
+            "en": "ankle-deep with blood",
+            "bn": "গোড়ালি পর্যন্ত রক্তে ভাসা"
+          },
+          {
+            "en": "terrified the residents",
+            "bn": "অধিবাসীদের আতঙ্কগ্রস্ত করল"
+          }
+        ]
       },
       {
-        "en": "Flying silently to the shadowy caverns where the Gorgons slumbered, Perseus carefully avoided looking directly at the terrifying sisters.",
-        "bn": "যে অন্ধকার গুহায় গর্গনরা ঘুমিয়ে ছিল সেখানে উড়ে গিয়ে পার্সিউস অত্যন্ত সাবধানে সেই ভয়ংকর বোনদের দিকে সরাসরি না তাকিয়ে রইলেন।"
+        "en": "Instead of seeking retribution, Salahuddin issued a decree forbidding the harm of any citizen, merchant, woman, or child.",
+        "bn": "কিন্তু প্রতিশোধ নেওয়ার বদলে সালাহউদ্দিন কোনো নাগরিক, ব্যবসায়ী, নারী বা শিশুর সামান্য ক্ষতি করাও কঠোরভাবে নিষিদ্ধ করলেন।",
+        "words": [
+          {
+            "en": "seeking retribution",
+            "bn": "প্রতিশোধ গ্রহণ করা"
+          },
+          {
+            "en": "issued a decree",
+            "bn": "একটি ফরমান জারি করলেন"
+          },
+          {
+            "en": "forbidding harm",
+            "bn": "ক্ষতি করা নিষিদ্ধ করে"
+          }
+        ]
       },
       {
-        "en": "Watching only Medusa's harmless reflection in his polished mirror shield, Perseus struck with precision, severing her serpentine head in a single stroke.",
-        "bn": "চকচকে ঢালের আয়নায় মেডুসার প্রতিবিম্ব দেখে পার্সিউস নিখুঁত নিশানায় আঘাত হেনে এক কোপে তার সাপের মতো মাথাটি কেটে ফেললেন।"
+        "en": "A modest ransom was agreed for prisoners, yet when impoverished families wept unable to pay, Salahuddin and his brother Al-Adil paid thousands of dinars from their own purses to set them free.",
+        "bn": "যুদ্ধবন্দিদের জন্য একটি সামান্য মুক্তিপণ ধার্য করা হলো, কিন্তু দরিদ্র পরিবারগুলো অর্থ না পেয়ে কাঁদলে সালাহউদ্দিন ও তার ভাই আল-আদিল নিজেদের তহবিল থেকে হাজার হাজার দিনার পরিশোধ করে তাদের মুক্ত করে দিলেন।",
+        "words": [
+          {
+            "en": "modest ransom",
+            "bn": "সামান্য মুক্তিপণ"
+          },
+          {
+            "en": "impoverished families",
+            "bn": "দরিদ্র পরিবারগুলো"
+          },
+          {
+            "en": "from their own purses",
+            "bn": "নিজেদের পকেট থেকে"
+          },
+          {
+            "en": "set them free",
+            "bn": "তাদের মুক্ত করে দিলেন"
+          }
+        ]
       },
       {
-        "en": "Stowing the dangerous prize inside a magical pouch, Perseus soared into the sky on his winged sandals, triumphant and unscathed.",
-        "bn": "সেই সাংঘাতিক মাথাটি এক জাদুকরি থলিতে ভরে নিয়ে পার্সিউস উড়ন্ত জুতোর সাহায্যে নিরাপদে আকাশে ডানা মেলে বিজয়ী হয়ে ফিরে এলেন।"
+        "en": "A desperate Christian mother pleaded with Salahuddin after her baby was kidnapped by looters; weeping with compassion, the Sultan halted all business until his cavalry tracked down the infant and restored it to her arms.",
+        "bn": "এক অসহায় খ্রিষ্টান মা এসে আহাজারি করলেন যে দুর্বৃত্তরা তার শিশুকে ছিনতাই করেছে; পরম মমতায় সালাহউদ্দিনের চোখ অশ্রুসজল হয়ে উঠল এবং শিশুটিকে খুঁজে বের করে মায়ের কোলে না ফিরিয়ে দেওয়া পর্যন্ত তিনি সব কাজ স্থগিত রাখলেন।",
+        "words": [
+          {
+            "en": "desperate Christian mother",
+            "bn": "অসহায় খ্রিষ্টান মা"
+          },
+          {
+            "en": "baby was kidnapped",
+            "bn": "শিশু অপহৃত হয়েছিল"
+          },
+          {
+            "en": "weeping with compassion",
+            "bn": "মমতায় অশ্রুসজল হয়ে"
+          },
+          {
+            "en": "halted all business",
+            "bn": "সব কাজকর্ম স্থগিত করলেন"
+          },
+          {
+            "en": "restored to her arms",
+            "bn": "মায়ের কোলে ফিরিয়ে দিলেন"
+          }
+        ]
+      },
+      {
+        "en": "The Patriarch of Jerusalem carried wagonloads of gold and church treasures out of the gates, but Salahuddin refused to confiscate a single coin, honoring his treaty to the letter.",
+        "bn": "জেরুজালেমের পাদ্রী গাড়িভর্তি সোনা ও গির্জার ধনসম্পদ শহর থেকে নিয়ে বের হয়ে গেল, কিন্তু সালাহউদ্দিন চুক্তির মর্যাদা রক্ষা করে একটি মুদ্রাও বাজেয়াপ্ত করতে অস্বীকৃতি জানালেন।",
+        "words": [
+          {
+            "en": "wagonloads of gold",
+            "bn": "গাড়িভর্তি সোনাদানা"
+          },
+          {
+            "en": "church treasures",
+            "bn": "গির্জার মূল্যবান সম্পদ"
+          },
+          {
+            "en": "refused to confiscate",
+            "bn": "বাজেয়াপ্ত করতে অস্বীকার করলেন"
+          },
+          {
+            "en": "honoring treaty",
+            "bn": "চুক্তির প্রতি সম্মান প্রদর্শন করে"
+          }
+        ]
+      },
+      {
+        "en": "Christian knights and pilgrims were provided armed Muslim escorts to guarantee their safe passage to the sea.",
+        "bn": "খ্রিষ্টান যোদ্ধা ও তীর্থযাত্রীদের সমুদ্রে নিরাপদে পৌঁছে দেওয়ার জন্য সশস্ত্র মুসলিম প্রহরীদের একটি দল নিয়োজিত করা হলো।",
+        "words": [
+          {
+            "en": "Christian knights",
+            "bn": "খ্রিষ্টান নাইট যোদ্ধারা"
+          },
+          {
+            "en": "pilgrims",
+            "bn": "তীর্থযাত্রীরা"
+          },
+          {
+            "en": "armed Muslim escorts",
+            "bn": "সশস্ত্র মুসলিম পাহারা"
+          },
+          {
+            "en": "guarantee safe passage",
+            "bn": "নিরাপদ যাত্রা নিশ্চিত করতে"
+          }
+        ]
+      },
+      {
+        "en": "On Friday, the 27th of Rajab, coinciding with the anniversary of Al-Isra wal-Mi'raj, the call to prayer echoed from Al-Aqsa Mosque for the first time in nearly a century.",
+        "bn": "২৭শে রজব শুক্রবার, যা ছিল পবিত্র শবে মেরাজের দিন, দীর্ঘ প্রায় এক শতাব্দী পর আল-আকসা মসজিদ থেকে পুনরায় আজানের সুমধুর ধ্বনি প্রতিধ্বনিত হলো।",
+        "words": [
+          {
+            "en": "call to prayer echoed",
+            "bn": "আজানের ধ্বনি প্রতিধ্বনিত হলো"
+          },
+          {
+            "en": "Al-Aqsa Mosque",
+            "bn": "মসজিদুল আকসা"
+          },
+          {
+            "en": "nearly a century",
+            "bn": "প্রায় এক শতাব্দী পর"
+          }
+        ]
+      },
+      {
+        "en": "Salahuddin's chivalry and nobility won the deep admiration of even his bitterest enemies, setting an everlasting standard for Islamic conduct in war.",
+        "bn": "সালাহউদ্দিনের বীরত্ব, সৌজন্য ও মহত্ত্ব তার চিরশত্রুদের মনেও পরম শ্রদ্ধার জায়গা করে নিল এবং যুদ্ধের ময়দানে ইসলামের অনন্য নীতিমালার এক চিরভাস্বর দৃষ্টান্ত স্থাপন করল।",
+        "words": [
+          {
+            "en": "chivalry and nobility",
+            "bn": "মহানুভবতা ও বীরোচিত চরিত্র"
+          },
+          {
+            "en": "bitterest enemies",
+            "bn": "ঘোরতম শত্রু"
+          },
+          {
+            "en": "everlasting standard",
+            "bn": "চিরন্তন আদর্শ / মাপকাঠি"
+          },
+          {
+            "en": "Islamic conduct in war",
+            "bn": "যুদ্ধে ইসলামি শিষ্টাচার"
+          }
+        ]
       }
     ]
   },
   {
-    "id": "myth-theseus-minotaur",
-    "title": "Theseus and the Minotaur's Labyrinth",
-    "titleBn": "থিসিউস ও গোলকধাঁধার মিনোটর",
-    "author": "Greek Mythology",
+    "id": "history-tariq-gibraltar",
+    "title": "Tariq ibn Ziyad and the Crossing into Andalusia",
+    "titleBn": "তারিক ইবনে জিয়াদ ও আন্দালুসিয়া বিজয়ের গৌরবগাথা",
+    "author": "Nafh al-Tib (Al-Maqqari) & Ibn Khaldun",
     "level": "Intermediate",
-    "category": "Mythology & Legends",
-    "coverEmoji": "🐂",
-    "summary": "A prince ventures into King Minos's underground maze, relying on Ariadne's ball of red thread to escape after slaying the beast.",
-    "summaryBn": "রাজকন্যা আরিয়াডনের লাল সুতোর সাহায্যে অন্ধ গোলকধাঁধায় ঢুকে নরখাদক মিনোটরকে হত্যা করে বেঁচে ফিরেছিলেন রাজকুমার থিসিউস।",
+    "levelColor": "blue",
+    "category": "Islamic Golden Age",
+    "coverEmoji": "⛵",
+    "summary": "In 711 CE, Commander Tariq ibn Ziyad crossed the perilous straits from North Africa to liberate Spain from Visigothic tyranny; landing at the mountain now bearing his name (Gibraltar), he led a small force to victory against overwhelming odds.",
+    "summaryBn": "৭১১ খ্রিষ্টাব্দে সেনাপতি তারিক ইবনে জিয়াদ উত্তর আফ্রিকা থেকে সংকীর্ণ প্রণালী পার হয়ে স্পেনে অবতরণ করেন; সেই পাহাড়ে যার নাম রাখা হয় 'জাবালুত তারিক' (জিব্রাল্টার), সেখানে স্বল্প সৈন্য নিয়ে তিনি ভিসিগথ রাজা রডারিকের বিশালাকার বাহিনীকে পরাজিত করে ইউরোপে ইসলামের স্বর্ণযুগের ভিত্তি স্থাপন করেন।",
     "sentences": [
       {
-        "en": "Every nine years, the city of Athens was forced to send fourteen noble youths to Crete as tribute to be devoured by the Minotaur.",
-        "bn": "প্রতি নয় বছর অন্তর অ্যাথেন্স শহরকে চৌদ্দজন নিষ্পাপ তরুণ-তরুণীকে ক্রিট দ্বীপে পাঠাতে হতো নরখাদক মিনোটরের খোরাক হিসেবে।"
+        "en": "In 711 CE, the Berber commander Tariq ibn Ziyad was dispatched by Musa ibn Nusayr to lead an expedition across the Mediterranean waters into the Iberian Peninsula.",
+        "bn": "৭১১ খ্রিষ্টাব্দে মুসা ইবনে নুসাইর সেনাপতি তারিক ইবনে জিয়াদকে ভূমধ্যসাগর পাড়ি দিয়ে আইবেরিয়ান উপদ্বীপে (স্পেন) অভিযানের নেতৃত্ব দিতে প্রেরণ করেন।",
+        "words": [
+          {
+            "en": "Berber commander",
+            "bn": "বার্বার সেনাপতি"
+          },
+          {
+            "en": "dispatched",
+            "bn": "প্রেরণ করা হলো"
+          },
+          {
+            "en": "lead an expedition",
+            "bn": "এক অভিযানের নেতৃত্ব দিতে"
+          },
+          {
+            "en": "Iberian Peninsula",
+            "bn": "আইবেরিয়ান উপদ্বীপ (স্পেন)"
+          }
+        ]
       },
       {
-        "en": "The Minotaur was a monstrous creature with the head of a raging bull and the muscular body of a man, dwelling deep inside Daedalus's twisting Labyrinth.",
-        "bn": "মিনোটর ছিল ক্ষিপ্ত ষাঁড়ের মাথা এবং পেশিবহুল মানুষের শরীরের অধিকারী এক অদ্ভুত দানব, যে ডিডালাসের তৈরি জটিল গোলকধাঁধায় বাস করত।"
+        "en": "The oppressed populace of Hispania suffered under the brutal feudal tyranny and religious persecution of the Visigothic king, Roderic.",
+        "bn": "স্পেনের নির্যাতিত প্রজারা ভিসিগথ রাজা রডারিকের চরম সামন্ততান্ত্রিক জুলুম ও ধর্মীয় নিপীড়নে দুর্বিষহ জীবনযাপন করছিল।",
+        "words": [
+          {
+            "en": "oppressed populace",
+            "bn": "নির্যাতিত সাধারণ মানুষ"
+          },
+          {
+            "en": "feudal tyranny",
+            "bn": "সামন্ততান্ত্রিক জুলুম"
+          },
+          {
+            "en": "religious persecution",
+            "bn": "ধর্মীয় নিপীড়ন"
+          }
+        ]
       },
       {
-        "en": "Prince Theseus volunteered to go with the doomed tribute, swearing to his father King Aegeus that he would slay the beast and end the cruel tribute.",
-        "bn": "রাজকুমার থিসিউস স্বেচ্ছায় সেই দুর্ভাগাদের দলে যোগ দিলেন এবং পিতা ঈজিয়াসকে কথা দিলেন যে তিনি দানবটিকে হত্যা করে এই নির্মম প্রথা বন্ধ করবেন।"
+        "en": "With an army of only seven thousand courageous warriors, Tariq landed beneath a towering rock that would forever bear his name: Jabal Tariq (Gibraltar).",
+        "bn": "মাত্র সাত হাজার সাহসী যোদ্ধা নিয়ে তারিক এক সুউচ্চ পাথুরে পাহাড়ের পাদদেশে অবতরণ করেন, যা চিরদিনের জন্য তার নাম ধারণ করে পরিচিত হয় 'জাবালুত তারিক' বা জিব্রাল্টার নামে।",
+        "words": [
+          {
+            "en": "courageous warriors",
+            "bn": "সাহসী বীর যোদ্ধারা"
+          },
+          {
+            "en": "towering rock",
+            "bn": "সুউচ্চ পাথুরে পাহাড়"
+          },
+          {
+            "en": "bear his name",
+            "bn": "তার নাম বহন করে"
+          }
+        ]
       },
       {
-        "en": "In Crete, Princess Ariadne fell in love with Theseus and secretly gave him a sharp sword along with a ball of crimson wool thread.",
-        "bn": "ক্রিটে পৌঁছে রাজকুমারী আরিয়াডন থিসিউসের প্রেমে পড়লেন এবং গোপনে তাকে একটি ধারালো তলোয়ার ও এক গোছা লাল পশমি সুতো উপহার দিলেন।"
+        "en": "King Roderic assembled a magnificent host of over one hundred thousand soldiers, marching south on a gilded chariot studded with rubies.",
+        "bn": "রাজা রডারিক এক লক্ষাধিক সেনার এক সুবিশাল বাহিনী প্রস্তুত করল এবং মণিমুক্তা খচিত এক স্বর্ণরথে চড়ে দক্ষিণ দিকে অগ্রসর হলো।",
+        "words": [
+          {
+            "en": "magnificent host",
+            "bn": "বিশাল বাহিনী"
+          },
+          {
+            "en": "gilded chariot",
+            "bn": "স্বর্ণখচিত রথ"
+          },
+          {
+            "en": "studded with rubies",
+            "bn": "চুনি-পান্না খচিত"
+          }
+        ]
       },
       {
-        "en": "Theseus tied one end of the thread to the maze's entrance and carefully unwound the spool as he ventured through the dark, echoing corridors.",
-        "bn": "থিসিউস সুতোর এক প্রান্ত গোলকধাঁধার প্রবেশদ্বারে শক্ত করে বাঁধলেন এবং অন্ধকার সরু গলিপথ দিয়ে এগিয়ে যাওয়ার সাথে সাথে সুতো ছাড়তে লাগলেন।"
+        "en": "Looking at the endless waves behind them and the mighty enemy ahead, Tariq addressed his men with burning eloquence: 'O people! Where can you flee? The sea is behind you, and the enemy is before you!'",
+        "bn": "পেছনে উত্তাল সমুদ্র এবং সামনে বিশাল শত্রুবাহিনী দেখে তারিক তাঁর বাহিনীকে তেজোদীপ্ত কণ্ঠে সম্বোধন করলেন: 'হে লোকসকল! পালাবে কোথায়? পেছনে তোমাদের সমুদ্র আর সামনে তোমাদের শত্রু!'",
+        "words": [
+          {
+            "en": "burning eloquence",
+            "bn": "তেজোদীপ্ত বাগ্মিতা"
+          },
+          {
+            "en": "Where can you flee",
+            "bn": "কোথায় পালাবে তোমরা"
+          },
+          {
+            "en": "sea is behind you",
+            "bn": "পেছনে তোমাদের সমুদ্র"
+          },
+          {
+            "en": "enemy is before you",
+            "bn": "সামনে তোমাদের শত্রু"
+          }
+        ]
       },
       {
-        "en": "Deep in the heart of darkness, Theseus grappled with the roaring Minotaur, using his agile strength and sword to vanquish the monster forever.",
-        "bn": "অন্ধকারের একেবারে কেন্দ্রে পৌঁছে থিসিউস গগনবিদারী গর্জন করা মিনোটরকে জাপটে ধরলেন এবং সাহসিকতার সাথে লড়াই করে তলোয়ার দিয়ে তাকে বধ করলেন।"
+        "en": "He continued: 'By Allah, you have nothing now except truthfulness and steadfast patience; fight as champions seeking either victory or martyrdom!'",
+        "bn": "তিনি আরও বললেন: 'আল্লাহর কসম, এখন সত্যবাদিতা ও অটল ধৈর্য ছাড়া তোমাদের আর কোনো অবলম্বন নেই; তাই বীর বিক্রমে লড়াই করো হয় বিজয়ের জন্য, নয়তো শাহাদাতের জন্য!'",
+        "words": [
+          {
+            "en": "steadfast patience",
+            "bn": "অবিচল ধৈর্য"
+          },
+          {
+            "en": "fight as champions",
+            "bn": "বীরদর্পে যুদ্ধ করো"
+          },
+          {
+            "en": "victory or martyrdom",
+            "bn": "বিজয় কিংবা শাহাদাত"
+          }
+        ]
       },
       {
-        "en": "Following the slender red cord through the pitch-black tunnels, Theseus led his companions safely back to freedom and daylight.",
-        "bn": "এরপর সেই সরু লাল সুতোটি ধরে ধরে অন্ধকার সুড়ঙ্গ বেয়ে থিসিউস তার সঙ্গীদের অক্ষত অবস্থায় মুক্ত বাতাসে আলোর নিচে ফিরিয়ে আনলেন।"
+        "en": "The two armies clashed at the Battle of Guadalete in a thunderous collision that lasted for eight grueling days.",
+        "bn": "গুয়াদালেতের প্রান্তরে দুই বাহিনী এক রক্তক্ষয়ী ও প্রকম্পিত সংঘর্ষে লিপ্ত হলো যা দীর্ঘ আট দিনব্যাপী অব্যাহত রইল।",
+        "words": [
+          {
+            "en": "two armies clashed",
+            "bn": "উভয় বাহিনী মুখোমুখি হলো"
+          },
+          {
+            "en": "Battle of Guadalete",
+            "bn": "গুয়াদালেতের যুদ্ধ"
+          },
+          {
+            "en": "thunderous collision",
+            "bn": "বজ্রনির্ঘোষ সংঘর্ষ"
+          },
+          {
+            "en": "eight grueling days",
+            "bn": "কঠিন আট দিন"
+          }
+        ]
+      },
+      {
+        "en": "Inspired by unshakeable conviction, the Muslim ranks pierced Roderic's lines until the Gothic king vanished in the river and his army dissolved in panic.",
+        "bn": "দৃঢ় ঈমানের শক্তিতে উদ্বুদ্ধ হয়ে মুসলিম সৈন্যরা রডারিকের ব্যূহ ভেদ করে ফেলল, শেষ পর্যন্ত গথিক রাজা নদীতে তলিয়ে নিখোঁজ হলো এবং তার সেনাবাহিনী আতঙ্কে ছত্রভঙ্গ হয়ে গেল।",
+        "words": [
+          {
+            "en": "unshakeable conviction",
+            "bn": "অটল বিশ্বাস"
+          },
+          {
+            "en": "pierced enemy lines",
+            "bn": "শত্রুর ব্যূহ ভেদ করল"
+          },
+          {
+            "en": "vanished in the river",
+            "bn": "নদীতে হারিয়ে গেল"
+          },
+          {
+            "en": "dissolved in panic",
+            "bn": "আতঙ্কে ছত্রভঙ্গ হলো"
+          }
+        ]
+      },
+      {
+        "en": "Tariq swept across the peninsula, liberating cities where Jews and Christians welcomed the Muslims as deliverers from tyranny.",
+        "bn": "তারিক পুরো উপদ্বীপে অগ্রসর হলেন এবং একের পর এক শহর মুক্ত করলেন, যেখানে খ্রিষ্টান ও ইহুদিরা অত্যাচার থেকে মুক্তির দূত হিসেবে মুসলিমদের স্বাগত জানাল।",
+        "words": [
+          {
+            "en": "swept across the peninsula",
+            "bn": "উপদ্বীপে ছড়িয়ে পড়লেন"
+          },
+          {
+            "en": "deliverers from tyranny",
+            "bn": "অত্যাচার থেকে মুক্তিদাতা"
+          }
+        ]
+      },
+      {
+        "en": "This historic crossing inaugurated eight centuries of brilliant Islamic civilization in Al-Andalus, radiating science, art, and harmony across dark medieval Europe.",
+        "bn": "এই ঐতিহাসিক অভিযানের মাধ্যমে আল-আন্দালুসে আটশত বছরের গৌরবময় ইসলামি সভ্যতার সূচনা হয়, যা মধ্যযুগীয় অন্ধকার ইউরোপের বুকে জ্ঞান-বিজ্ঞান, শিল্প ও সহনশীলতার আলো ছড়িয়ে দিয়েছিল।",
+        "words": [
+          {
+            "en": "historic crossing",
+            "bn": "ঐতিহাসিক সাগর অতিক্রম"
+          },
+          {
+            "en": "eight centuries",
+            "bn": "আট শতাব্দী"
+          },
+          {
+            "en": "radiating science and art",
+            "bn": "বিজ্ঞান ও শিল্পের আলোকচ্ছটা ছড়িয়ে"
+          },
+          {
+            "en": "dark medieval Europe",
+            "bn": "অন্ধকার মধ্যযুগীয় ইউরোপ"
+          }
+        ]
       }
     ]
   },
   {
-    "id": "myth-thor-hammer-mjolnir",
-    "title": "Thor and the Stolen Hammer Mjolnir",
-    "titleBn": "থর এবং চুরি যাওয়া হাতুড়ি মিওলনির",
-    "author": "Norse Mythology",
+    "id": "history-abu-hanifa-integrity",
+    "title": "Imam Abu Hanifa: Uncompromising Integrity in Trade and Knowledge",
+    "titleBn": "ইমাম আবু হানিফা: বাণিজ্যের সততা ও ইলমের আপসহীনতা",
+    "author": "Siyar A'lam al-Nubala (Imam Adh-Dhahabi)",
     "level": "Intermediate",
-    "category": "Mythology & Legends",
-    "coverEmoji": "⚡",
-    "summary": "When the giant Thrym steals Mjolnir, Thor must don bridal robes to infiltrate the giants' stronghold and reclaim his weapon.",
-    "summaryBn": "দৈত্য থ্রিম থরের শক্তিশালী হাতুড়ি চুরি করায়, কনের ছদ্মবেশে দৈত্যদের দুর্গে ঢুকে নিজের অস্ত্র পুনরুদ্ধার করেন বজ্রদেবতা থর।",
+    "levelColor": "amber",
+    "category": "Islamic Golden Age",
+    "coverEmoji": "📜",
+    "summary": "The Great Imam Abu Hanifa was not only a pioneer of Islamic jurisprudence but also a master silk merchant; when his partner accidentally sold defective cloth without disclosing the flaw, the Imam gave away the entire shipment's earnings of thirty thousand dirhams in charity.",
+    "summaryBn": "ইমাম আবু হানিফা (রহ.) শুধুমাত্র ইসলামি ফিকহের মহান ইমামই ছিলেন না, বরং এক প্রখ্যাত রেশম ব্যবসায়ীও ছিলেন; একবার তাঁর সহকারী অসাবধানতাবশত কাপড়ের একটি ত্রুটি প্রকাশ না করে পুরো চালান বিক্রি করে ফেললে, ইমাম সন্দেহমুক্ত থাকতে পুরো চালানের ত্রিশ হাজার দিরহামই সদকা করে দেন।",
     "sentences": [
       {
-        "en": "Thor, the mighty Norse god of thunder, awoke one morning in Asgard to find his peerless war hammer Mjolnir missing from his bedside.",
-        "bn": "বজ্রের নর্ডিক দেবতা থর একদিন সকালে আসগার্ডে ঘুম থেকে উঠে দেখলেন তার অপ্রতিদ্বন্দ্বী যুদ্ধহাতুড়ি মিওলনির বিছানার পাশ থেকে গায়েব হয়ে গেছে।"
+        "en": "Imam Abu Hanifa Nu'man ibn Thabit was renowned across Kufa both as a brilliant legal scholar and an exceptionally honest silk merchant.",
+        "bn": "ইমাম আবু হানিফা নু'মান ইবনে সাবিত কুফা নগরীতে যেমন এক অনন্য ফকিহ হিসেবে পরিচিত ছিলেন, তেমনই অত্যন্ত সৎ রেশম ব্যবসায়ী হিসেবেও সমাদৃত ছিলেন।",
+        "words": [
+          {
+            "en": "brilliant legal scholar",
+            "bn": "মেধাবী আইনবিদ / ফকিহ"
+          },
+          {
+            "en": "exceptionally honest",
+            "bn": "অসাধারণ সৎ"
+          },
+          {
+            "en": "silk merchant",
+            "bn": "রেশম কাপড়ের ব্যবসায়ী"
+          }
+        ]
       },
       {
-        "en": "The mischievous trickster Loki flew to the frozen realm of Jotunheim and discovered that the frost giant king Thrym had buried it eight leagues under the earth.",
-        "bn": "ধূর্ত দেবতা লোকি বরফের রাজ্য ইয়োটেনহাইমে উড়ে গিয়ে আবিষ্কার করলেন যে তুষার দৈত্যদের রাজা থ্রিম হাতুড়িটি মাটির আট লিগ গভীরে লুকিয়ে রেখেছে।"
+        "en": "He believed that trading was a sacred duty that demanded absolute transparency, scrupulous fairness, and deep fear of Allah.",
+        "bn": "তিনি বিশ্বাস করতেন ব্যবসা এক পবিত্র দায়িত্ব, যার জন্য পরম স্বচ্ছতা, নিখুঁত ন্যায়পরায়ণতা এবং আল্লাহর গভীর তাকওয়া প্রয়োজন।",
+        "words": [
+          {
+            "en": "sacred duty",
+            "bn": "পবিত্র দায়িত্ব"
+          },
+          {
+            "en": "absolute transparency",
+            "bn": "পরম স্বচ্ছতা"
+          },
+          {
+            "en": "scrupulous fairness",
+            "bn": "নিখুঁত ন্যায়পরায়ণতা"
+          },
+          {
+            "en": "deep fear of Allah",
+            "bn": "আল্লাহর গভীর ভয় / তাকওয়া"
+          }
+        ]
       },
       {
-        "en": "Thrym insolently declared that he would never return the thunder hammer unless the radiant goddess Freyja was delivered to him as his bride.",
-        "bn": "থ্রিম ঔদ্ধত্যের সাথে ঘোষণা করল অপরূপা দেবী ফ্রেইয়াকে বধূ হিসেবে তার হাতে তুলে না দেওয়া পর্যন্ত সে এই হাতুড়ি কিছুতেই ফেরত দেবে না।"
+        "en": "Once, an elderly woman brought a fine silk garment to sell, asking sixty dirhams; recognizing its true worth, Abu Hanifa insisted on paying her four hundred dirhams.",
+        "bn": "একবার এক বৃদ্ধা নারী একটি সুন্দর রেশমি পোশাক বিক্রি করতে এসে ৬০ দিরহাম চাইলেন; কাপড়ের আসল মূল্য বুঝতে পেরে আবু হানিফা তাকে চারশত দিরহাম পরিশোধ করলেন।",
+        "words": [
+          {
+            "en": "fine silk garment",
+            "bn": "উন্নত রেশমি পোশাক"
+          },
+          {
+            "en": "true worth",
+            "bn": "আসল মূল্য"
+          },
+          {
+            "en": "insisted on paying",
+            "bn": "পরিশোধ করার জন্য পীড়াপীড়ি করলেন"
+          }
+        ]
       },
       {
-        "en": "When Freyja indignantly refused, the wise god Heimdall proposed a hilarious scheme: Thor himself must dress in a flowing wedding veil and silk bridal gown.",
-        "bn": "ফ্রেইয়া ঘৃণাভরে তা প্রত্যাখ্যান করলে জ্ঞানী দেবতা হেইমডাল এক অদ্ভুত ফন্দি আঁটলেন: থরকেই কনের সাজে রেশমি পোশাক ও ঘোমটা পরে যেতে হবে।"
+        "en": "On another occasion, he sent a shipment of valuable cloth with his business partner Hafs, warning him that one specific garment contained a concealed defect.",
+        "bn": "আরেকবার তিনি তাঁর ব্যবসায়িক অংশীদার হাফসের মাধ্যমে মূল্যবান কাপড়ের চালান পাঠালেন এবং সতর্ক করলেন যে একটি নির্দিষ্ট পোশাকে গোপন ত্রুটি রয়েছে।",
+        "words": [
+          {
+            "en": "business partner",
+            "bn": "ব্যবসায়িক অংশীদার"
+          },
+          {
+            "en": "valuable cloth",
+            "bn": "মূল্যবান কাপড়"
+          },
+          {
+            "en": "concealed defect",
+            "bn": "লুক্কায়িত ত্রুটি / খুঁত"
+          }
+        ]
       },
       {
-        "en": "Accompanied by Loki disguised as a maidservant, the gigantic bride arrived at Thrym's banquet, devouring an entire ox, eight salmon, and three barrels of mead.",
-        "bn": "দাসী সাজা লোকিকে সাথে নিয়ে সেই বিশাল চেহারার কনে থ্রিমের ভোজসভায় হাজির হয়ে একাই একটি আস্ত ষাঁড়, আটটি স্যামন মাছ ও তিন পিপা মদ সাবাড় করল।"
+        "en": "He strictly instructed: 'When you sell this batch, you must point out this blemish clearly to the buyer.'",
+        "bn": "তিনি কঠোর নির্দেশ দিলেন: 'যখন এই কাপড় বিক্রি করবে, ক্রেতার কাছে এই ত্রুটি অবশ্যই স্পষ্টভাবে তুলে ধরবে।'",
+        "words": [
+          {
+            "en": "strictly instructed",
+            "bn": "কঠোর নির্দেশ দিলেন"
+          },
+          {
+            "en": "point out blemish clearly",
+            "bn": "ত্রুটি স্পষ্টভাবে চিহ্নিত করবে"
+          },
+          {
+            "en": "to the buyer",
+            "bn": "ক্রেতার সামনে"
+          }
+        ]
       },
       {
-        "en": "To sanctify the wedding, King Thrym ordered his servants to lay the heavy hammer Mjolnir gently across the bride's lap.",
-        "bn": "বিয়ের আনুষ্ঠানিকতা সম্পন্ন করতে রাজা থ্রিম তার অনুচরদের হুকুম দিল ভারী হাতুড়ি মিওলনির এনে কনের কোলের ওপর রেখে আশীর্বাদ করতে।"
+        "en": "However, amidst the bustle of the market, Hafs forgot the instruction, sold all the cloth, and failed to record the buyer's identity.",
+        "bn": "কিন্তু বাজারের ব্যস্ততায় হাফস বিষয়টি ভুলে গেলেন, ত্রুটি না জানিয়ে সমস্ত কাপড় বিক্রি করলেন এবং ক্রেতার ঠিকানাও লিখে রাখলেন না।",
+        "words": [
+          {
+            "en": "bustle of the market",
+            "bn": "বাজারের ব্যস্ততা ও কোলাহল"
+          },
+          {
+            "en": "forgot instruction",
+            "bn": "নির্দেশ ভুলে গেলেন"
+          },
+          {
+            "en": "failed to record identity",
+            "bn": "পরিচয় লিপিবদ্ধ করতে পারলেন না"
+          }
+        ]
       },
       {
-        "en": "Thor's fierce laughter shattered the wedding hall as he gripped the familiar iron handle, tearing off his veil and crushing the deceitful giants in glorious thunder.",
-        "bn": "পরিচিত লোহার হাতল ছোঁয়ামাত্রই থরের গর্জন পুরো হলঘর কাঁপিয়ে দিল; ঘোমটা ছিঁড়ে ফেলে তিনি বজ্রের ঝলকানিতে ধূর্ত দৈত্যদের ধূলিসাৎ করে দিলেন।"
+        "en": "When Abu Hanifa learned that the flawed garment had been sold without disclosure, he was overcome with sorrow and trembled with fear of Allah.",
+        "bn": "যখন আবু হানিফা জানলেন যে ত্রুটিপূর্ণ কাপড়টি না জানিয়ে বিক্রি করা হয়েছে, তিনি ব্যথিত হলেন এবং আল্লাহর ভয়ে কেঁপে উঠলেন।",
+        "words": [
+          {
+            "en": "without disclosure",
+            "bn": "না জানিয়ে / গোপন রেখে"
+          },
+          {
+            "en": "overcome with sorrow",
+            "bn": "দুঃখে ভারাক্রান্ত হলেন"
+          },
+          {
+            "en": "trembled with fear",
+            "bn": "ভয়ে কেঁপে উঠলেন"
+          }
+        ]
+      },
+      {
+        "en": "Without a moment's hesitation, the Imam took the entire revenue of the consignment—totaling thirty thousand dirhams—and distributed every coin to the poor.",
+        "bn": "বিন্দুমাত্র দ্বিধা না করে ইমাম ওই পুরো চালানের সম্পূর্ণ বিক্রয়লব্ধ অর্থ—যা মোট ত্রিশ হাজার দিরহাম ছিল—গরিব-মিসকিনদের মাঝে সদকা করে দিলেন।",
+        "words": [
+          {
+            "en": "without hesitation",
+            "bn": "দ্বিধাহীন চিত্তে"
+          },
+          {
+            "en": "entire revenue",
+            "bn": "সম্পূর্ণ আয়"
+          },
+          {
+            "en": "thirty thousand dirhams",
+            "bn": "ত্রিশ হাজার দিরহাম"
+          },
+          {
+            "en": "distributed to the poor",
+            "bn": "দরিদ্রদের মাঝে বিলিয়ে দিলেন"
+          }
+        ]
+      },
+      {
+        "en": "Later in life, the Abbasid Caliph Al-Mansur demanded that Abu Hanifa accept the position of Chief Justice, but the Imam adamantly refused to compromise his principles.",
+        "bn": "জীবনের শেষভাগে আব্বাসীয় খলিফা আল-মনসুর ইমামকে প্রধান বিচারপতির পদ গ্রহণের চাপ দিলেন, কিন্তু ইমাম নিজের নীতি বিসর্জন দিতে কঠোরভাবে অস্বীকার করলেন।",
+        "words": [
+          {
+            "en": "Chief Justice",
+            "bn": "প্রধান বিচারপতি (কাযীউল কুযাত)"
+          },
+          {
+            "en": "adamantly refused",
+            "bn": "দৃঢ়ভাবে প্রত্যাখ্যান করলেন"
+          },
+          {
+            "en": "compromise principles",
+            "bn": "নীতিতে আপস করা"
+          }
+        ]
+      },
+      {
+        "en": "Imprisoned and tortured for his independence, Abu Hanifa chose dungeon chains over becoming a political tool, passing away as an immortal icon of judicial purity.",
+        "bn": "নিজের স্বাধীনতার জন্য তিনি কারাবন্দি ও নির্যাতিত হলেন; রাজনৈতিক ক্রীড়ানক হওয়ার চেয়ে তিনি কারাগারের শিকলকে বেছে নিলেন এবং চিরস্মরণীয় এক আদর্শ রেখে বিদায় নিলেন।",
+        "words": [
+          {
+            "en": "Imprisoned and tortured",
+            "bn": "কারাবন্দি ও নির্যাতিত হলেন"
+          },
+          {
+            "en": "political tool",
+            "bn": "রাজনৈতিক হাতিয়ার"
+          },
+          {
+            "en": "judicial purity",
+            "bn": "বিচারের পবিত্রতা ও সততা"
+          }
+        ]
       }
     ]
   },
   {
-    "id": "myth-odin-well-of-wisdom",
-    "title": "Odin's Eye at Mimir's Well of Wisdom",
-    "titleBn": "ওডিন এবং মিমিয়ারের জ্ঞানের কূয়া",
-    "author": "Norse Mythology",
+    "id": "history-imam-malik-reverence",
+    "title": "Imam Malik: The Revered Scholar of Madinah",
+    "titleBn": "ইমাম মালিক: মদিনার মহান ইমাম ও হাদিসের প্রতি পরম শ্রদ্ধা",
+    "author": "Tartib al-Madarik (Qadi Iyad) & Siyar A'lam al-Nubala",
     "level": "Intermediate",
-    "category": "Mythology & Legends",
-    "coverEmoji": "👁️",
-    "summary": "The Allfather Odin sacrifices his own right eye into the waters of wisdom to comprehend the universe and foresee Ragnarok.",
-    "summaryBn": "মহাজগতের পরম জ্ঞান অর্জন এবং ভবিতব্য জানার জন্য নিজের একটি চোখ উৎসর্গ করেছিলেন সর্বশক্তিমান ওডিন।",
+    "levelColor": "teal",
+    "category": "Islamic Golden Age",
+    "coverEmoji": "🕌",
+    "summary": "Imam Malik ibn Anas, author of Al-Muwatta, resided in the City of the Prophet; out of profound veneration, he never rode a beast in Madinah, performed ablution and donned fine perfumes before narrating a single Hadith, and bore painful scourgings rather than altering sacred rulings.",
+    "summaryBn": "আল-মুয়াত্তা গ্রন্থের সংকলক ইমাম মালিক (রহ.) রাসুলুল্লাহ ﷺ-এর প্রতি পরম শ্রদ্ধাবোধ থেকে পুরো জীবনে মদিনার মাটিতে কখনো সওয়ারির ওপর চড়েননি; হাদিস বর্ণনার পূর্বে গোসল করে সুগন্ধি মেখে বসতেন এবং সত্যের খাতিরে শাসকের চাবুকের আঘাত সহ্য করেও ফতোয়া পরিবর্তন করেননি।",
     "sentences": [
       {
-        "en": "Odin, the Allfather of Asgard, ruled over gods and mortals, yet his restless spirit hungered for ultimate wisdom and understanding of the universe.",
-        "bn": "আসগার্ডের পরম পিতা ওডিন দেবতা ও মর্ত্য শাসন করতেন, কিন্তু তার অশান্ত মন মহাবিশ্বের পরম রহস্য জানার জন্য সবসময় ব্যাকুল ছিল।"
+        "en": "Imam Malik ibn Anas spent his entire life in the illuminated city of Madinah, absorbing the living traditions of the Prophet's companions.",
+        "bn": "ইমাম মালিক ইবনে আনাস তাঁর গোটা জীবন মদিনা মুনাওয়ারায় অতিবাহিত করেন এবং সাহাবিদের জীবন্ত ঐতিহ্য ও সুন্নাহ ধারণ করেন।",
+        "words": [
+          {
+            "en": "entire life",
+            "bn": "গোটা জীবন"
+          },
+          {
+            "en": "illuminated city",
+            "bn": "আলোকিত নগরী (মদিনা)"
+          },
+          {
+            "en": "absorbing living traditions",
+            "bn": "জীবন্ত ঐতিহ্য ধারণ করে"
+          }
+        ]
       },
       {
-        "en": "Beneath the roots of the colossal world tree Yggdrasil flowed Mimir's Well, whose crystalline waters held the secrets of past, present, and future.",
-        "bn": "মহাজাগতিক বৃক্ষ ইগড্রাসিলের শেকড়ের নিচে অবস্থিত ছিল মিমিয়ারের কূয়া, যার স্ফটিকের মতো স্বচ্ছ জলে অতীত, বর্তমান ও ভবিষ্যতের সমস্ত জ্ঞান লুকিয়ে ছিল।"
+        "en": "Throughout his many decades in Madinah, he never mounted a horse or camel, stating: 'I feel ashamed before Allah to tread upon the soil sheltering the Prophet ﷺ with the hooves of a beast.'",
+        "bn": "মদিনার দীর্ঘ দশকে তিনি কখনো ঘোড়া বা উটের পিঠে চড়েননি; তিনি বলতেন: 'যে মাটিতে রাসুলুল্লাহ ﷺ শুয়ে আছেন, পশুর ক্ষুর দিয়ে সেই মাটির ওপর চলতে আমি আল্লাহর কাছে লজ্জা বোধ করি।'",
+        "words": [
+          {
+            "en": "never mounted a horse",
+            "bn": "কখনো ঘোড়ায় চড়েননি"
+          },
+          {
+            "en": "feel ashamed",
+            "bn": "লজ্জা অনুভব করি"
+          },
+          {
+            "en": "sheltering the Prophet",
+            "bn": "নবীজিকে ধারণ করে আছে"
+          },
+          {
+            "en": "hooves of a beast",
+            "bn": "পশুর ক্ষুর"
+          }
+        ]
       },
       {
-        "en": "Odin donned a traveller's cloak and journeyed alone to the subterranean realm to request a single horn of water from the wise guardian Mimir.",
-        "bn": "ওডিন এক সাধারণ পরিব্রাজকের চাদর গায়ে জড়িয়ে পাতালের গভীরে গিয়ে জ্ঞানী প্রহরী মিমিয়ারের কাছে সেই কূয়ার এক পাত্র জল পান করার আবেদন করলেন।"
+        "en": "Whenever students gathered to ask jurisprudence questions, he would answer directly from his seat.",
+        "bn": "যখন ছাত্ররা কোনো ফিকহি মাসআলা জানতে আসত, তিনি স্বাভাবিকভাবে নিজ আসন থেকে জবাব দিতেন।",
+        "words": [
+          {
+            "en": "jurisprudence questions",
+            "bn": "ফিকহি বা আইনি প্রশ্ন"
+          },
+          {
+            "en": "directly from seat",
+            "bn": "সরাসরি আসন থেকে"
+          }
+        ]
       },
       {
-        "en": "Mimir shook his ancient head, declaring: 'The well of insight requires an unbearable price; none may drink without giving something irreplaceable in exchange.'",
-        "bn": "মিমিয়ার তার প্রাচীন মাথা নেড়ে বললেন: 'এই কূয়ার জলের মূল্য অপরিসীম; নিজের অপূরণীয় কোনো অঙ্গ বিসর্জন না দিলে কেউ এখান থেকে এক ফোঁটাও পান করতে পারবে না।'"
+        "en": "However, if someone asked for a Hadith of the Messenger of Allah ﷺ, his complexion changed, and he excused himself to take a full bath.",
+        "bn": "কিন্তু কেউ যদি আল্লাহর রাসুল ﷺ-এর হাদিস জানতে চাইত, তাঁর চেহারার রং পরিবর্তিত হয়ে যেত এবং তিনি পূর্ণ গোসল করার জন্য উঠে যেতেন।",
+        "words": [
+          {
+            "en": "Hadith of the Messenger",
+            "bn": "রাসুলের হাদিস"
+          },
+          {
+            "en": "complexion changed",
+            "bn": "চেহারার রং পরিবর্তিত হতো"
+          },
+          {
+            "en": "full bath",
+            "bn": "পূর্ণাঙ্গ গোসল"
+          }
+        ]
       },
       {
-        "en": "Without flinching or uttering a word of hesitation, Odin plucked out his own right eye and cast it calmly into the deep, swirling waters.",
-        "bn": "বিন্দুমাত্র দ্বিধা না করে কিংবা কোনো শব্দ না করে ওডিন নিজের ডান চোখটি কোটর থেকে উপড়ে নিয়ে শান্তভাবে সেই ঘূর্ণায়মান জলে বিসর্জন দিলেন।"
+        "en": "He would comb his beard, put on his finest pristine robes, apply musk perfume, and sit upon an elevated cushion in total reverence before narrating.",
+        "bn": "তিনি দাড়ি আঁচড়াতেন, সর্বোত্তম শুভ্র পোশাক পরতেন, খাঁটি মেশক সুবাস লাগাতেন এবং পরম শ্রদ্ধায় উঁচু আসনে বসে হাদিস বর্ণনা শুরু করতেন।",
+        "words": [
+          {
+            "en": "finest pristine robes",
+            "bn": "সর্বোত্তম পরিচ্ছন্ন পোশাক"
+          },
+          {
+            "en": "musk perfume",
+            "bn": "মেশক আম্বরের সুগন্ধি"
+          },
+          {
+            "en": "total reverence",
+            "bn": "পরম শ্রদ্ধা ও সম্ভ্রম"
+          }
+        ]
       },
       {
-        "en": "Mimir dipped his horn into the spring and handed it to Odin, who drank deeply of boundless knowledge, prophecy, and cosmic truth.",
-        "bn": "মিমিয়ার শিংয়ের পাত্রে জল তুলে ওডিনের হাতে দিলেন, আর ওডিন সেই জল পান করে লাভ করলেন অনন্ত জ্ঞান, ভবিষ্যৎ দেখার দৃষ্টি ও মহাজাগতিক সত্য।"
+        "en": "During one discourse, a scorpion stung Imam Malik sixteen times under his garments; though his face turned pale with agonizing pain, he refused to interrupt the Prophet's words until he finished.",
+        "bn": "একবার হাদিসের ক্লাসে কাপড়ের ভেতর একটি বিচ্ছু ইমাম মালিককে ষোলো বার দংশন করল; প্রচণ্ড যন্ত্রণায় মুখ ফ্যাকাশে হয়ে গেলেও তিনি হাদিস পাঠ সমাপ্ত না হওয়া পর্যন্ত নড়াচড়া করতে অস্বীকৃতি জানালেন।",
+        "words": [
+          {
+            "en": "scorpion stung",
+            "bn": "বিচ্ছু হুল ফোটাল"
+          },
+          {
+            "en": "sixteen times",
+            "bn": "ষোলো বার"
+          },
+          {
+            "en": "agonizing pain",
+            "bn": "তীব্র যন্ত্রণা"
+          },
+          {
+            "en": "refused to interrupt",
+            "bn": "ব্যাহত করতে চাইলেন না"
+          }
+        ]
       },
       {
-        "en": "Though he walked through eternity with a single eye, Odin possessed a vision far clearer than any living being in all nine realms.",
-        "bn": "যদিও তিনি চিরকালের জন্য একচক্ষু হয়ে রইলেন, তবুও নয়টি ভুবনের যেকোনো প্রাণীর চেয়ে তার অন্তর্চক্ষু বহুগুণ স্পষ্ট ও দূরদর্শী হয়ে উঠল।"
+        "en": "He authored Al-Muwatta, the earliest comprehensive collection of authentic Hadith and Islamic law, verified meticulously over forty years.",
+        "bn": "তিনি রচনা করেন 'আল-মুয়াত্তা', যা ছিল সহিহ হাদিস ও ইসলামি আইনের প্রাচীনতম প্রামাণ্য গ্রন্থ, যা চল্লিশ বছর ধরে নিখুঁতভাবে যাচাই করা হয়েছিল।",
+        "words": [
+          {
+            "en": "authored Al-Muwatta",
+            "bn": "আল-মুয়াত্তা রচনা করেন"
+          },
+          {
+            "en": "authentic Hadith",
+            "bn": "সহিহ হাদিস"
+          },
+          {
+            "en": "verified meticulously",
+            "bn": "নিখুঁতভাবে যাচাইকৃত"
+          }
+        ]
+      },
+      {
+        "en": "When asked questions to which he had no definitive textual proof, he famously answered without embarrassment: 'I do not know.'",
+        "bn": "যে প্রশ্নের কোনো অকাট্য দলীল তাঁর জানা থাকত না, তিনি কোনো দ্বিধা বা সংকোচ ছাড়াই অকপটে বলতেন: 'লা আদরী' (আমি জানি না)।",
+        "words": [
+          {
+            "en": "definitive textual proof",
+            "bn": "অকাট্য টেক্সট বা দলীল"
+          },
+          {
+            "en": "without embarrassment",
+            "bn": "সংকোচহীনভাবে"
+          },
+          {
+            "en": "I do not know",
+            "bn": "আমি জানি না (লা আদরী)"
+          }
+        ]
+      },
+      {
+        "en": "When a governor whipped him to force a retracted legal verdict, his shoulders were dislocated, yet he refused to yield an inch of religious truth.",
+        "bn": "এক গভর্নর যখন ফতোয়া পরিবর্তনের দাবিতে তাঁকে চাবুকপেটা করল এবং তাঁর কাঁধের হাড় স্থানচ্যুত হলো, তখনও তিনি ধর্মীয় সত্য থেকে এক চুলও নড়েননি।",
+        "words": [
+          {
+            "en": "whipped him",
+            "bn": "তাঁকে চাবুক মারল"
+          },
+          {
+            "en": "retracted legal verdict",
+            "bn": "ফতোয়া প্রত্যাহার"
+          },
+          {
+            "en": "shoulders were dislocated",
+            "bn": "কাঁধের হাড় স্থানচ্যুত হলো"
+          },
+          {
+            "en": "refused to yield",
+            "bn": "নতি স্বীকার করতে অস্বীকার করলেন"
+          }
+        ]
+      },
+      {
+        "en": "Imam Malik remains celebrated as 'Imam Dar al-Hijrah'—the monumental beacon of prophetic guidance and intellectual humility.",
+        "bn": "ইমাম মালিক চিরকাল 'ইমামে দারুল হিজরত' হিসেবে স্মরণীয় হয়ে থাকবেন—যিনি ছিলেন সুন্নাহর অতন্দ্র প্রহরী ও বিনম্রতার উজ্জ্বল বাতিঘর।",
+        "words": [
+          {
+            "en": "Imam Dar al-Hijrah",
+            "bn": "ইমামে দারুল হিজরত (মদিনার ইমাম)"
+          },
+          {
+            "en": "prophetic guidance",
+            "bn": "নবীর হেদায়েত"
+          },
+          {
+            "en": "intellectual humility",
+            "bn": "জ্ঞানের বিনম্রতা"
+          }
+        ]
       }
     ]
   },
   {
-    "id": "myth-rustam-sohrab",
-    "title": "Rustam and Sohrab: The Tragedy of the Shahnameh",
-    "titleBn": "রুস্তম ও সোহরাব: শাহনামার বিয়োগান্তক উপাখ্যান",
-    "author": "Ferdowsi (Shahnameh)",
+    "id": "history-imam-shafii-wisdom",
+    "title": "Imam Ash-Shafi'i: Master of Jurisprudence and Eloquence",
+    "titleBn": "ইমাম শাফেয়ী: উসুলুল ফিকহের স্থপতি ও বাগ্মিতার সম্রাট",
+    "author": "Manaqib ash-Shafi'i (Al-Bayhaqi)",
     "level": "Intermediate",
-    "category": "Mythology & Legends",
-    "coverEmoji": "⚔️",
-    "summary": "The greatest champion of Persia unknowingly battles his own heroic son on the desert frontier, ending in heartbreaking tragedy.",
-    "summaryBn": "মরুভূমির সীমান্তে নিজের অজান্তেই বীরপুত্রের মুখোমুখি হন পারস্যের মহাবীর রুস্তম; শেষ পর্যন্ত ঘটে এক হৃদয়বিদারক ট্র্যাজেডি।",
+    "levelColor": "purple",
+    "category": "Islamic Golden Age",
+    "coverEmoji": "🖋️",
+    "summary": "Imam Muhammad ibn Idris ash-Shafi'i memorized the Quran at seven and Al-Muwatta at ten; he established the scientific foundations of Islamic legal theory (Usul al-Fiqh) and exemplified peerless generosity throughout his travels.",
+    "summaryBn": "ইমাম মুহাম্মদ ইবনে ইদরিস আশ-শাফেয়ী (রহ.) মাত্র সাত বছর বয়সে কোরআন এবং দশ বছরে মুয়াত্তা হিফজ করেন; তিনি ফিকহের মূলনীতি বা উসুলুল ফিকহের শাস্ত্র প্রতিষ্ঠা করেন এবং বহুমুখী জ্ঞান ও অকাতরে দানের জন্য ইতিহাসে অমর হয়ে আছেন।",
     "sentences": [
       {
-        "en": "In the epic Shahnameh, Rustam was celebrated across Persia as an invincible warrior whose mighty mace protected the imperial crown.",
-        "bn": "মহাকাব্য শাহনামায় রুস্তম পারস্যের এক অপরাজেয় বীর হিসেবে খ্যাত ছিলেন, যার গদার শক্তিতে সাম্রাজ্যের সিংহাসন সুরক্ষিত থাকত।"
+        "en": "Born an impoverished orphan of noble Qurayshi descent in Gaza, Muhammad ibn Idris ash-Shafi'i was taken to Makkah by his devoted mother.",
+        "bn": "গাজায় সম্ভ্রান্ত কুরাইশ বংশের এক দরিদ্র এতিম হিসেবে জন্মগ্রহণ করার পর মুহাম্মদ ইবনে ইদরিস আশ-শাফেয়ীকে তাঁর মা মক্কায় নিয়ে আসেন।",
+        "words": [
+          {
+            "en": "impoverished orphan",
+            "bn": "দরিদ্র এতিম শিশু"
+          },
+          {
+            "en": "Qurayshi descent",
+            "bn": "কুরাইশ বংশোদ্ভূত"
+          },
+          {
+            "en": "devoted mother",
+            "bn": "উৎসর্গীকৃত মা"
+          }
+        ]
       },
       {
-        "en": "Years after a brief marriage in a distant land, Rustam never knew that his brave wife had given birth to a son named Sohrab, who grew into a peerless champion.",
-        "bn": "দূরদেশে স্বল্পকালীন বিয়ের বহু বছর পর রুস্তম জানতেও পারেননি যে তার ঘরে সোহরাব নামে এক বীর সন্তানের জন্ম হয়েছে, যে বড় হয়ে অজেয় এক যোদ্ধা হয়েছিল।"
+        "en": "Because his mother was too poor to buy paper, the young prodigy wrote his lessons on animal bones, pottery shards, and scraps of palm leaves.",
+        "bn": "কাগজ কেনার মতো আর্থিক সামর্থ্য না থাকায় এই ক্ষুদে বিস্ময় বালক পশুর হাড়, মাটির পাত্রের টুকরো এবং খেজুর পাতার ওপর তাঁর পাঠ লিখে রাখতেন।",
+        "words": [
+          {
+            "en": "young prodigy",
+            "bn": "ক্ষুদে বিস্ময় বালক"
+          },
+          {
+            "en": "animal bones",
+            "bn": "পশুর হাড়"
+          },
+          {
+            "en": "pottery shards",
+            "bn": "মাটির পাত্রের ভাঙা টুকরো"
+          },
+          {
+            "en": "palm leaves",
+            "bn": "খেজুর গাছের পাতা"
+          }
+        ]
       },
       {
-        "en": "Seeking to find his legendary father, Sohrab led the army of Turan against Persia, hoping to unite the two empires under Rustam's benevolent rule.",
-        "bn": "নিজের কিংবদন্তী পিতাকে খুঁজে পাওয়ার আশায় সোহরাব তুরানের সৈন্যবাহিনী নিয়ে পারস্য আক্রমণ করল, পিতাপুত্র মিলে পুরো রাজ্য শাসনের স্বপ্নে।"
+        "en": "Blessed with photographic memory, he memorized the entire Holy Quran by age seven and Imam Malik's massive Al-Muwatta by age ten.",
+        "bn": "অসাধারণ স্মৃতিশক্তির অধিকারী হয়ে তিনি মাত্র সাত বছর বয়সে পবিত্র কোরআন এবং দশ বছর বয়সে ইমাম মালিকের বিশালাকার মুয়াত্তা সম্পূর্ণ মুখস্থ করেন।",
+        "words": [
+          {
+            "en": "photographic memory",
+            "bn": "নিখুঁত স্মৃতিশক্তি"
+          },
+          {
+            "en": "Holy Quran by seven",
+            "bn": "সাত বছরে পবিত্র কোরআন"
+          },
+          {
+            "en": "Al-Muwatta by ten",
+            "bn": "দশ বছরে আল-মুয়াত্তা"
+          }
+        ]
       },
       {
-        "en": "On the dusty battlefield, the two titans met in single combat, each hiding his true name out of pride and warrior honor.",
-        "bn": "ধূলিধূসর যুদ্ধক্ষেত্রে দুই পরাক্রমশালী যোদ্ধা মল্লযুদ্ধে মুখোমুখি হলেন, কিন্তু অহংকার ও যুদ্ধের নিয়মের কারণে কেউই নিজের আসল নাম প্রকাশ করলেন না।"
+        "en": "He lived with the desert Bedouin tribes for years to master the purest classical Arabic vocabulary, grammar, and poetic meters.",
+        "bn": "বিশুদ্ধ আরবি ভাষা, ব্যাকরণ এবং কবিতার ছন্দ রপ্ত করার জন্য তিনি বছরের পর বছর মরুভূমির যাযাবর বেদুইনদের সাথে জীবনযাপন করেন।",
+        "words": [
+          {
+            "en": "Bedouin tribes",
+            "bn": "বেদুইন গোত্র"
+          },
+          {
+            "en": "purest classical Arabic",
+            "bn": "বিশুদ্ধতম ধ্রুপদী আরবি"
+          },
+          {
+            "en": "poetic meters",
+            "bn": "কবিতার ছন্দ"
+          }
+        ]
       },
       {
-        "en": "For three grueling days, they clashed with swords, spears, and wrestling holds until Rustam's experienced strength finally drove a dagger into the youth's chest.",
-        "bn": "টানা তিন দিন তলোয়ার, বর্শা ও কুস্তির প্রচণ্ড লড়াই চলার পর রুস্তমের অভিজ্ঞ শক্তি অবশেষে তরুণ সোহরাবের বুকে তীক্ষ্ণ ছোরা বসিয়ে দিল।"
+        "en": "Later in Egypt, he authored Ar-Risalah, inaugurating the revolutionary science of Usul al-Fiqh (principles of Islamic legal theory).",
+        "bn": "পরবর্তীকালে মিসরে তিনি 'আর-রিসালাহ' রচনা করেন, যার মাধ্যমে তিনি 'উসুলুল ফিকহ' বা ইসলামি আইনের মূলনীতির বৈপ্লবিক শাস্ত্র প্রতিষ্ঠা করেন।",
+        "words": [
+          {
+            "en": "authored Ar-Risalah",
+            "bn": "আর-রিসালাহ গ্রন্থটি রচনা করলেন"
+          },
+          {
+            "en": "revolutionary science",
+            "bn": "বৈপ্লবিক জ্ঞানশাস্ত্র"
+          },
+          {
+            "en": "principles of legal theory",
+            "bn": "আইনশাস্ত্রের মূলনীতি (উসুল)"
+          }
+        ]
       },
       {
-        "en": "Gasping for breath in the dust, the dying youth warned that his father Rustam would avenge his death, showing the onyx amulet bound to his arm.",
-        "bn": "ধুলোয় লুটিয়ে পড়ে মৃত্যুপথযাত্রী যুবক জানাল যে তার পিতা রুস্তম এই খুনের প্রতিশোধ নেবেন এবং বাহুতে বাঁধা পারিবারিক রত্নের তাবিজটি দেখাল।"
+        "en": "He unified the school of textual tradition from Madinah with the school of reasoned opinion from Iraq into an elegant balanced methodology.",
+        "bn": "তিনি মদিনার হাদিসপন্থী ধারা এবং ইরাকের যুক্তিবাদী চিন্তাধারাকে এক মার্জিত ও ভারসাম্যপূর্ণ নীতিমালায় সুসংহত করেন।",
+        "words": [
+          {
+            "en": "textual tradition",
+            "bn": "হাদিসের আক্ষরিক ধারা"
+          },
+          {
+            "en": "reasoned opinion",
+            "bn": "যুক্তিনির্ভর অভিমত (রায়)"
+          },
+          {
+            "en": "balanced methodology",
+            "bn": "ভারসাম্যপূর্ণ মূলনীতি"
+          }
+        ]
       },
       {
-        "en": "Recognizing the very jewel he had given to his wife decades earlier, Rustam collapsed over his dying son, wailing in inconsolable sorrow.",
-        "bn": "বহু বছর আগে স্ত্রীর হাতে তুলে দেওয়া সেই পরিচিত রত্ন দেখে রুস্তম নিজের মৃতপ্রায় ছেলের ওপর আছড়ে পড়ে বুকফাটা আর্তনাদে ভেঙে পড়লেন।"
-      }
-    ]
-  },
-  {
-    "id": "myth-gilgamesh-enkidu",
-    "title": "The Epic of Gilgamesh: The Quest for Immortality",
-    "titleBn": "গিলগামেশের মহাকাব্য ও অমরত্বের সন্ধান",
-    "author": "Mesopotamian Epic",
-    "level": "Intermediate",
-    "category": "Mythology & Legends",
-    "coverEmoji": "🏛️",
-    "summary": "Devastated by the death of his soulmate Enkidu, the mighty King of Uruk wanders to the ends of the Earth seeking to conquer death.",
-    "summaryBn": "প্রিয় বন্ধু এনকিডুর মৃত্যুতে শোকাহত হয়ে উরুকের রাজা গিলগামেশ মৃত্যুকে জয় করার উদ্দেশ্যে পৃথিবীর শেষ সীমানায় যাত্রা করেছিলেন।",
-    "sentences": [
-      {
-        "en": "King Gilgamesh ruled the fortified city of Uruk with two-thirds divine heritage and unmatched strength, yet his arrogance burdened his subjects.",
-        "bn": "দুই-তৃতীয়াংশ দেবত্বের অধিকারী রাজা গিলগামেশ উরুক নগরী শাসন করতেন, কিন্তু তার সীমাহীন অহংকার প্রজাদের জন্য কষ্টের কারণ হয়ে দাঁড়িয়েছিল।"
+        "en": "Imam Ash-Shafi'i divided his nights into three equal parts: the first for writing knowledge, the second for prayer, and the third for sleep.",
+        "bn": "ইমাম শাফেয়ী তাঁর রাতকে তিনটি ভাগে ভাগ করেছিলেন: প্রথম ভাগে এলেম লেখা, দ্বিতীয় ভাগে তাহাজ্জুদের সালাত এবং তৃতীয় ভাগে ঘুম।",
+        "words": [
+          {
+            "en": "divided his nights",
+            "bn": "রাতকে বিভক্ত করতেন"
+          },
+          {
+            "en": "writing knowledge",
+            "bn": "এলেম লিপিবদ্ধ করা"
+          },
+          {
+            "en": "prayer and sleep",
+            "bn": "সালাত ও নিদ্রা"
+          }
+        ]
       },
       {
-        "en": "The gods created the wild man Enkidu to challenge him, but after a fierce wrestling duel, the two warriors became inseparable brothers.",
-        "bn": "তাকে শিক্ষা দিতে দেবতারা বুনো মানুষ এনকিডুকে তৈরি করলেন, কিন্তু তুমুল কুস্তির পর দুজন পরম বন্ধু ও ভাইয়ের মতো একে অপরকে গ্রহণ করলেন।"
+        "en": "Once, when returning from Yemen with a reward of ten thousand dinars, he encountered destitute travelers outside Makkah and gave away every coin before entering the city.",
+        "bn": "একবার ইয়েমেন থেকে দশ হাজার দিনার উপহার নিয়ে ফেরার পথে মক্কার বাইরে অসচ্ছল মুসাফিরদের দেখে শহরে ঢোকার আগেই সব অর্থ তাদের মাঝে বিলিয়ে দেন।",
+        "words": [
+          {
+            "en": "reward of ten thousand dinars",
+            "bn": "দশ হাজার দিনারের পুরস্কার"
+          },
+          {
+            "en": "destitute travelers",
+            "bn": "নিঃস্ব মুসাফির"
+          },
+          {
+            "en": "gave away every coin",
+            "bn": "প্রতিটি মুদ্রা দান করে দিলেন"
+          }
+        ]
       },
       {
-        "en": "Together, they slew the forest demon Humbaba and the heavenly Bull of Heaven, carving their legendary names across the sands of Mesopotamia.",
-        "bn": "তারা একসাথে বনের দানব হুম্বাবাকে বধ করলেন এবং স্বর্গের ষাঁড়কে পরাস্ত করে মেসোপটেমিয়ার বুকে নিজেদের বীরত্বের ইতিহাস লিখে রাখলেন।"
-      },
-      {
-        "en": "When Enkidu fell ill and died by divine decree, Gilgamesh was shattered by the cold inevitability of human mortality.",
-        "bn": "কিন্তু দেবতাদের অভিশাপে যখন এনকিডু অসুস্থ হয়ে মারা গেল, মানুষের নশ্বর মৃত্যুর সত্য গিলগামেশকে সম্পূর্ণ ভেঙে চুরমার করে দিল।"
-      },
-      {
-        "en": "Tearing off his royal robes, the king wandered across burning deserts and crossed the perilous Waters of Death to find Utnapishtim, the survivor of the Great Flood.",
-        "bn": "রাজকীয় পোশাক ছুড়ে ফেলে রাজা তপ্ত মরুভূমি ও মৃত্যুর উত্তাল নদী পার হয়ে মহাপ্লাবনে বেঁচে যাওয়া প্রাচীন অমর পুরুষ উতনাপিশতিমের খোঁজে বের হলেন।"
-      },
-      {
-        "en": "Utnapishtim revealed a prickly water plant from the ocean bed that could restore youthful vitality to mortal men.",
-        "bn": "উতনাপিশতিম সাগরের তলদেশে থাকা এক কাঁটাযুক্ত জাদুকরী উদ্ভিদের কথা জানালেন যা বৃদ্ধ মানুষকে আবার নতুন যৌবন ফিরিয়ে দিতে পারে।"
-      },
-      {
-        "en": "Gilgamesh retrieved the plant, but while he bathed in a cool spring, a water serpent slithered by, ate the plant, and shed its old skin.",
-        "bn": "গিলগামেশ সেই উদ্ভিদ তুলে আনলেন, কিন্তু এক মিষ্টি পানির ঝরনায় স্নান করার সময় এক সাপ এসে পাতাটি খেয়ে ফেলে নিজের পুরনো খোলস বদলে নিল।"
-      },
-      {
-        "en": "Returning empty-handed to Uruk, Gilgamesh looked at the massive baked-brick ramparts he had built, realizing that mortals live on through the good works they leave behind.",
-        "bn": "রিক্ত হস্তে উরুকে ফিরে নিজের গড়া সুউচ্চ প্রাচীরের দিকে তাকিয়ে গিলগামেশ বুঝলেন, মানুষ অমর হয় বেঁচে থেকে নয়, তার রেখে যাওয়া সৎকর্ম ও সৃষ্টির মাধ্যমে।"
-      }
-    ]
-  },
-  {
-    "id": "myth-king-shibi-hawk-dove",
-    "title": "King Shibi, the Hawk, and the Dove",
-    "titleBn": "রাজা শিবি, বাজপাখি ও ঘুঘু",
-    "author": "Mahabharata & Jataka Tales",
-    "level": "Intermediate",
-    "category": "Mythology & Legends",
-    "coverEmoji": "🕊️",
-    "summary": "A righteous monarch carves flesh from his own limbs to protect a trembling dove without starving a hungry hawk.",
-    "summaryBn": "এক ভয়ার্ত ঘুঘুকে রক্ষা করতে ক্ষুধার্ত বাজপাখির পাল্লায় নিজের শরীরের মাংস কেটে তুলে দিয়েছিলেন পরম ধার্মিক রাজা শিবি।",
-    "sentences": [
-      {
-        "en": "King Shibi was renowned throughout ancient India for his uncompromising commitment to justice, compassion, and the protection of those in distress.",
-        "bn": "প্রাচীন ভারতে রাজা শিবি তার পরম ন্যায়পরায়ণতা, করুণা এবং শরণাগতকে রক্ষা করার একনিষ্ঠ প্রতিজ্ঞার জন্য বিখ্যাত ছিলেন।"
-      },
-      {
-        "en": "One afternoon, a trembling dove fluttered into his lap, gasping for breath and seeking refuge from a fierce pursuing hawk.",
-        "bn": "এক বিকেলে একটি কাঁপতে থাকা ঘুঘু উড়ে এসে রাজার কোলে আশ্রয় নিল, এক হিংস্র শিকারী বাজপাখির তাড়া খেয়ে ভয়ে হাঁপাতে হাঁপাতে।"
-      },
-      {
-        "en": "The hawk landed upon the royal parapet and argued: 'O King, that dove is my natural prey ordained by nature; by sheltering it, you are starving me to death.'",
-        "bn": "বাজপাখিটি রাজপ্রাসাদের প্রাচীরে বসে বলল: 'হে রাজন, ওই ঘুঘুটি বিধাতানির্দিষ্ট আমার শিকার; ওকে বাঁচিয়ে আপনি আমাকে না খাইয়ে মারছেন।'"
-      },
-      {
-        "en": "Torn between his duty to protect the refugee and his duty not to harm the hungry predator, Shibi offered any quantity of his own food instead.",
-        "bn": "শরণার্থীকে রক্ষা করা আর ক্ষুধার্ত প্রাণীকে বঞ্চিত না করার মাঝে পড়ে রাজা শিবি তার নিজের ভাণ্ডার থেকে যেকোনো খাবার দেওয়ার প্রস্তাব করলেন।"
-      },
-      {
-        "en": "The hawk replied: 'I eat only fresh warm meat; if you wish to spare the bird, give me an equal weight of flesh carved from your own right thigh.'",
-        "bn": "বাজপাখি বলল: 'আমি কেবল টাটকা মাংস খাই; যদি ওই ঘুঘুকে বাঁচাতে চান, তবে আপনার নিজের ডান উরু থেকে কেটে ওর সমান ওজনের মাংস দিন।'"
-      },
-      {
-        "en": "Without a moment's hesitation, King Shibi ordered scales to be brought, sliced a portion of flesh from his leg, and placed it on the pan opposite the dove.",
-        "bn": "এক মুহূর্তও দেরি না করে রাজা দাঁড়িপাল্লা আনালেন, নিজের পা থেকে মাংসের টুকরো কেটে ঘুঘুর বিপরীত পাল্লায় রাখলেন।"
-      },
-      {
-        "en": "Miraculously, no matter how much flesh Shibi carved, the small dove remained heavier, compelling the bleeding king to step bodily onto the scale himself.",
-        "bn": "অলৌকিকভাবে রাজা যতই মাংস কেটে দেন না কেন ঘুঘুটির পাল্লাই ভারী হয়ে রইল, শেষ পর্যন্ত রক্তাক্ত রাজা নিজেই পাল্লার ওপর গিয়ে দাঁড়ালেন।"
-      },
-      {
-        "en": "At that instant, the hawk and dove transformed into the gods Indra and Agni, showering fragrant petals and blessing the selfless king with eternal glory.",
-        "bn": "সেই মুহূর্তে বাজপাখি ও ঘুঘু দেবতা ইন্দ্র ও অগ্নিতে রূপান্তরিত হলো, তারা ফুলের বৃষ্টি বর্ষণ করে সেই নিঃস্বার্থ রাজার জয়গান গাইলেন।"
-      }
-    ]
-  },
-  {
-    "id": "myth-eklavya-dedication",
-    "title": "Eklavya and the True Meaning of Gurudakshina",
-    "titleBn": "একব্য ও গুরুদক্ষিণা",
-    "author": "Mahabharata Epic",
-    "level": "Intermediate",
-    "category": "Mythology & Legends",
-    "coverEmoji": "🏹",
-    "summary": "A tribal archer masters unparalleled bowmanship through pure devotion to a clay statue of Guru Dronacharya.",
-    "summaryBn": "মাটির মূর্তিকে গুরু মেনে গভীর একাগ্রতায় অপ্রতিদ্বন্দ্বী ধনুর্ধর হয়ে ওঠেন একলব্য, আর হাসিমুখে দান করেন নিজের ডান হাতের বৃদ্ধাঙ্গুলি।",
-    "sentences": [
-      {
-        "en": "Eklavya, a courageous prince of the forest-dwelling Nishada tribe, yearned with all his heart to master the sacred art of archery.",
-        "bn": "নিশাদ উপজাতির সাহসী তরুণ একলব্য ধনুবিদ্যার গভীর জ্ঞান অর্জনের জন্য মনেপ্রাণে তীব্র ব্যাকুল ছিলেন।"
-      },
-      {
-        "en": "He traveled to the royal academy in Hastinapur to seek instruction from Dronacharya, the greatest military preceptor of the era.",
-        "bn": "তিনি হস্তিনাপুরের রাজকীয় শিক্ষালয়ে এসে সেই যুগের সর্বশ্রেষ্ঠ অস্ত্রগুরু দ্রোণাচার্যের কাছে শিষ্যত্ব গ্রহণের প্রার্থনা করলেন।"
-      },
-      {
-        "en": "Bound by duty to teach only the royal princes of the Kuru dynasty, Dronacharya reluctantly declined to accept the humble tribal youth.",
-        "bn": "কুরু রাজবংশের রাজপুত্রদের শেখানোর প্রতিজ্ঞায় আবদ্ধ থাকায় দ্রোণাচার্য অনিচ্ছা সত্ত্বেও এই উপজাতীয় তরুণকে ফিরিয়ে দিলেন।"
-      },
-      {
-        "en": "Undeterred by rejection, Eklavya returned to the deep jungle, sculpted a life-sized clay statue of Dronacharya, and revered it as his living guru.",
-        "bn": "প্রত্যাখ্যানে নিরাশ না হয়ে একলব্য গভীর বনে ফিরে গেলেন, দ্রোণাচার্যের একটি মাটির প্রতিমা গড়ে তাকেই সাক্ষাৎ গুরু হিসেবে সম্মান জানাতে লাগলেন।"
-      },
-      {
-        "en": "Practicing with unshakeable discipline from dawn to dusk before the statue, Eklavya attained archery skills that surpassed even the finest warriors.",
-        "bn": "সেই মূর্তির সামনে ভোর থেকে সন্ধ্যা পর্যন্ত অবিচল নিষ্ঠার সাথে অনুশীলন করে একলব্য এমন অসাধারণ দক্ষতা অর্জন করলেন যা সেরা যোদ্ধাদেরও ছাড়িয়ে গেল।"
-      },
-      {
-        "en": "One day, when a barking dog disturbed his meditation, Eklavya fired seven arrows in a flash, sealing the dog's open mouth without spilling a single drop of blood.",
-        "bn": "একদিন একটি ঘেউ ঘেউ করা কুকুর ধ্যানে বিঘ্ন ঘটালে একলব্য পলকের মধ্যে সাতটি তীর ছুড়ে কুকুরের মুখ এমনভাবে আটকে দিলেন যাতে এক ফোঁটা রক্তও না ঝরে।"
-      },
-      {
-        "en": "Astonished by this impossible feat, Dronacharya recognized the archer's genius, but fearing for Arjuna's vow, he asked for Eklavya's right thumb as payment.",
-        "bn": "এই অবিশ্বাস্য নৈপুণ্য দেখে দ্রোণাচার্য বিস্মিত হলেন, কিন্তু অর্জুনকে দেওয়া প্রতিজ্ঞা রক্ষার জন্য তিনি গুরুদক্ষিণা হিসেবে একলব্যের ডান হাতের বৃদ্ধাঙ্গুলি চেয়ে বসলেন।"
-      },
-      {
-        "en": "Without the slightest grief or anger, Eklavya drew his hunting knife, severed his thumb, and laid it smilingly at the guru's feet, immortalizing his devotion.",
-        "bn": "কোনো ক্ষোভ বা কষ্ট ছাড়াই একলব্য নিজের ছুরি দিয়ে বৃদ্ধাঙ্গুলি কেটে হাসিমুখে গুরুর চরণে উৎসর্গ করলেন, যা তার গুরুর প্রতি ভক্তিকে চিরভাস্বর করে রাখল।"
-      }
-    ]
-  },
-  {
-    "id": "myth-karna-generosity",
-    "title": "Karna: The Sun Prince of Incomparable Charity",
-    "titleBn": "দানবীর কর্ণ ও চরম ত্যাগ",
-    "author": "Mahabharata Epic",
-    "level": "Intermediate",
-    "category": "Mythology & Legends",
-    "coverEmoji": "☀️",
-    "summary": "The warrior Karna cuts away his golden divine armor to fulfill a beggar's request, knowing it will leave him vulnerable to death.",
-    "summaryBn": "মৃত্যুর ঝুঁকি জেনেও এক ব্রাহ্মণের ছদ্মবেশে আসা ইন্দ্রের কাছে হাসিমুখে নিজের শরীরের সাথে জুড়ে থাকা দৈব বর্ম কেটে দান করেন কর্ণ।",
-    "sentences": [
-      {
-        "en": "Karna, born as the secret son of the sun god Surya, came into the mortal world wearing shimmering divine golden armor and earrings fused to his flesh.",
-        "bn": "সূর্যদেবের আশীর্বাদে জন্ম নেওয়া কর্ণ মর্ত্যলোকে এসেছিলেন শরীরে অঙ্গাঙ্গীভাবে জুড়ে থাকা এক অভেদ্য সোনালী বর্ম ও কুণ্ডল নিয়ে।"
-      },
-      {
-        "en": "Throughout his life, Karna was known across the land as Danaveer, swearing that no beggar who approached him during his noon prayers would ever leave empty-handed.",
-        "bn": "সারা জীবন কর্ণ 'দানবীর' নামে পূজিত ছিলেন; তিনি প্রতিজ্ঞা করেছিলেন দুপুরের প্রার্থনাকালে তার কাছে কেউ হাত পাতলে সে কখনো খালি হাতে ফিরবে না।"
-      },
-      {
-        "en": "Before the climactic battle of Kurukshetra, Indra, the king of gods and father of Arjuna, schemed to strip Karna of his impenetrable invulnerability.",
-        "bn": "কুরুক্ষেত্রের চূড়ান্ত যুদ্ধের ঠিক আগে অর্জুনের পিতা দেবরাজ ইন্দ্র কর্ণের সেই অভেদ্য নিরাপত্তা বর্ম ছিনিয়ে নেওয়ার ফন্দি আঁটলেন।"
-      },
-      {
-        "en": "Surya appeared in a dream to warn Karna that Indra would approach in the disguise of an impoverished holy ascetic asking for his celestial armor.",
-        "bn": "সূর্যদেব স্বপ্নে এসে কর্ণকে সাবধান করলেন যে ইন্দ্র একজন দরিদ্র ব্রাহ্মণের ছদ্মবেশ ধরে এসে তার শরীরের সাথে লেগে থাকা বর্মটি দান চাইবেন।"
-      },
-      {
-        "en": "Surya urged him to refuse, because surrendering the armor would seal his fate and make him mortal against Arjuna's arrows.",
-        "bn": "সূর্যদেব তাকে স্পষ্টভাবে নিষেধ করলেন, কারণ সেই বর্ম দান করলে অর্জুনের বাণের বিরুদ্ধে তিনি সম্পূর্ণ অরক্ষিত হয়ে পড়বেন।"
-      },
-      {
-        "en": "Karna replied with serene nobility: 'My life may perish on the battlefield, but the honor of my word and my charity must remain unstained forever.'",
-        "bn": "কর্ণ শান্ত মহত্ত্বের সাথে উত্তর দিলেন: 'রণক্ষেত্রে আমার প্রাণ যেতে পারে, কিন্তু আমার দেওয়া কথার মর্যাদা ও দানের গৌরব চিরকাল নিষ্কলঙ্ক থাকবে।'"
-      },
-      {
-        "en": "When Indra approached at midday, Karna drew his blade, carved the golden armor directly from his bleeding torso, and offered it with folded hands.",
-        "bn": "দুপুরবেলা ইন্দ্র ব্রাহ্মণের বেশে এলে কর্ণ নিজের ধারালো ছুরি দিয়ে রক্তমাখা শরীর থেকে সেই সোনার বর্ম কেটে আলাদা করে জোড়হাতে দান করলেন।"
-      }
-    ]
-  },
-  {
-    "id": "myth-orpheus-eurydice",
-    "title": "Orpheus and Eurydice: The Song of the Underworld",
-    "titleBn": "অর্ফিয়াস ও ইউরিডিসের অমর প্রেম",
-    "author": "Greek Mythology",
-    "level": "Intermediate",
-    "category": "Mythology & Legends",
-    "coverEmoji": "🎵",
-    "summary": "A master musician descends to Hades to reclaim his bride with music, but a fatal backward glance seals her fate in shadow.",
-    "summaryBn": "বীণার সুর দিয়ে নরকের দেবতাকে গলিয়ে স্ত্রীকে ফিরিয়ে আনছিলেন অর্ফিয়াস, কিন্তু শেষ মুহূর্তে পেছনে তাকানোর ভুলে হারালেন চিরতরে।",
-    "sentences": [
-      {
-        "en": "Orpheus, the son of Apollo and the muse Calliope, played the lyre with such enchanting beauty that wild beasts wept and trees leaned closer to listen.",
-        "bn": "অ্যাপোলোর পুত্র অর্ফিয়াস এমন মায়াবী সুরে বীণা বাজাতেন যে বনের হিংস্র পশুরা কেঁদে ফেলত এবং গাছপালা সুর শুনতে নুয়ে পড়ত।"
-      },
-      {
-        "en": "On their wedding day, his radiant bride Eurydice stepped upon a venomous viper in the tall meadow grass and died instantly from its sting.",
-        "bn": "তাদের বিয়ের দিনেই ঘাসের মাঝে থাকা এক বিষাক্ত সাপের কামড়ে অপরূপা নববধূ ইউরিডিসের অকালমৃত্যু ঘটল।"
-      },
-      {
-        "en": "Overwhelmed by grief, Orpheus dared to walk down the dark caverns of the underworld to plead with Hades and Persephone.",
-        "bn": "শোকে উন্মাদ হয়ে অর্ফিয়াস পাতালে নরকের অন্ধকার গুহায় নেমে গেলেন রাজা হেডিস ও পার্সিফোনির কাছে স্ত্রীকে ফেরত চাওয়ার জন্য।"
-      },
-      {
-        "en": "His mournful melodies melted the icy hearts of the rulers of death, and they granted permission for Eurydice to follow him back to the world of light.",
-        "bn": "তার করুণ সুরের মূর্ছনা মৃত্যুর নির্মম দেবতাদের হৃদয়কেও গলিয়ে দিল, তারা অনুমতি দিলেন ইউরিডিস অর্ফিয়াসের পেছন পেছন আলোকের ভুবনে ফিরতে পারবে।"
-      },
-      {
-        "en": "However, Hades imposed one unbending condition: Orpheus must walk ahead and never look back over his shoulder until both had crossed into the sunlight.",
-        "bn": "তবে হেডিস এক কঠোর শর্ত জুড়ে দিলেন: অর্ফিয়াসকে আগে আগে হাঁটতে হবে এবং আলোতে না পৌঁছানো পর্যন্ত কিছুতেই পেছনে তাকানো যাবে না।"
-      },
-      {
-        "en": "They ascended the silent, rocky tunnel; just as Orpheus stepped into the golden daylight, overcome with longing and doubt, he turned his head.",
-        "bn": "তারা পাথুরে অন্ধ পথ দিয়ে ওপরে উঠতে লাগলেন; ঠিক যখন অর্ফিয়াস সূর্যের সোনালী আলোয় পা রাখলেন, ব্যাকুলতা ও সন্দেহে তিনি পেছনে তাকিয়ে বসলেন।"
-      },
-      {
-        "en": "Eurydice was still a few paces within the shadow; she whispered a heartbreaking 'Farewell' and was swept backward forever into the misty abyss.",
-        "bn": "ইউরিডিস তখনও কয়েক কদম ছায়ার মাঝে ছিল; সে কেবল এক হৃদয়বিদারক 'বিদায়' জানিয়ে চিরকালের মতো অন্ধকারের গভীরে মিলিয়ে গেল।"
+        "en": "His contemporary Imam Ahmad ibn Hanbal said of him: 'Ash-Shafi'i was like the sun to the world and good health to mankind.'",
+        "bn": "তাঁর সমসাময়িক ইমাম আহমদ ইবনে হাম্বল তাঁর সম্পর্কে বলতেন: 'শাফেয়ী ছিলেন পৃথিবীর জন্য সূর্যের মতো এবং মানুষের স্বাস্থ্যের মতো।'",
+        "words": [
+          {
+            "en": "contemporary",
+            "bn": "সমসাময়িক"
+          },
+          {
+            "en": "sun to the world",
+            "bn": "পৃথিবীর জন্য সূর্যস্বরূপ"
+          },
+          {
+            "en": "health to mankind",
+            "bn": "মানবজাতির সুস্বাস্থ্য"
+          }
+        ]
       }
     ]
   }
