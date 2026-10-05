@@ -1,1729 +1,2375 @@
 [
   {
-    "id": "companion-ammar-family",
-    "title": "Ammar ibn Yasir and the Honored Family of Martyrs",
-    "titleBn": "হযরত আম্মার ইবনে ইয়াসির (রা.) ও শহীদ পরিবারের আত্মত্যাগ",
-    "author": "Classical Seerah (Ibn Ishaq & Tabaqat Ibn Sa'd)",
-    "level": "Intermediate",
-    "levelColor": "rose",
-    "category": "Noble Companions",
-    "coverEmoji": "🛡️",
-    "summary": "Son of the first martyrs Yasir and Sumayyah, Ammar endures torture under water and fire, receiving divine pardon in the Quran for speaking under duress while his heart is content with faith.",
-    "summaryBn": "প্রথম শহীদ দম্পতি ইয়াসির ও সুমাইয়ার পুত্র আম্মার (রা.)-এর ওপর অকথ্য নির্যাতন, মুখে বাধ্য হয়ে কিছু বললেও অন্তরে ঈমানে পরিপূর্ণ থাকার কারণে কুরআনে অবতীর্ণ ঐশী সান্ত্বনা।",
-    "sentences": [
-      {
-        "en": "Ammar ibn Yasir belonged to the earliest group of vulnerable believers in Makkah who suffered merciless brutality from Quraysh.",
-        "bn": "হযরত আম্মার ইবনে ইয়াসির (রা.) মক্কার সেই প্রথম যুগের অসহায় মুসলিমদের একজন ছিলেন যাঁদের ওপর কুরাইশরা অমানুষিক নির্যাতন চালিয়েছিল।",
-        "words": [
-          {
-            "en": "Ammar belonged to",
-            "bn": "আম্মার অন্তর্ভুক্ত ছিলেন"
-          },
-          {
-            "en": "vulnerable believers",
-            "bn": "অসহায় মুমিনদের"
-          },
-          {
-            "en": "suffered brutality",
-            "bn": "বর্বর নির্যাতন ভোগ করলেন"
-          },
-          {
-            "en": "from Quraysh",
-            "bn": "কুরাইশদের পক্ষ থেকে"
-          }
-        ]
-      },
-      {
-        "en": "He watched both his elderly parents martyred before his eyes: his mother Sumayyah pierced with a spear and his father Yasir succumbing to beatings.",
-        "bn": "তিনি নিজের চোখের সামনে তাঁর বৃদ্ধ পিতা-মাতাকে শহীদ হতে দেখলেন: মা সুমাইয়া বর্শাাঘাতে এবং পিতা ইয়াসির মারধরের যন্ত্রণায় শাহাদাত বরণ করলেন।",
-        "words": [
-          {
-            "en": "Watched parents martyred",
-            "bn": "পিতা-মাতাকে শহীদ হতে দেখলেন"
-          },
-          {
-            "en": "before his eyes",
-            "bn": "নিজের চোখের সামনে"
-          },
-          {
-            "en": "mother pierced with a spear",
-            "bn": "মা বর্শাাঘাতে বিদ্ধ হয়ে"
-          },
-          {
-            "en": "father succumbing to beatings",
-            "bn": "পিতা প্রহারের চোটে প্রাণ হারিয়ে"
-          }
-        ]
-      },
-      {
-        "en": "The torturers repeatedly submerged Ammar's head in water and pressed burning irons to his back until, near death, he spoke words forced upon him.",
-        "bn": "ঘাতকরা আম্মারের মাথা পানিতে ডুবিয়ে রাখত এবং পিঠের ওপর জ্বলন্ত অঙ্গার চেপে ধরত, অবশেষে মৃত্যুর মুখে পড়ে তিনি বাধ্য হয়ে মুখে তাদের মনগড়া কথা বললেন।",
-        "words": [
-          {
-            "en": "Submerged head in water",
-            "bn": "মাথা পানিতে ডুবিয়ে রাখল"
-          },
-          {
-            "en": "pressed burning irons to back",
-            "bn": "পিঠে জ্বলন্ত লোহা চেপে ধরল"
-          },
-          {
-            "en": "near death",
-            "bn": "মৃত্যুর মুখে পতিত হয়ে"
-          },
-          {
-            "en": "spoke words forced upon him",
-            "bn": "বাধ্য হয়ে তাদের কথা বললেন"
-          }
-        ]
-      },
-      {
-        "en": "Weeping in broken anguish, Ammar rushed to the Prophet: 'O Messenger of Allah, I was not released until I spoke ill of you and mentioned their gods with good!'",
-        "bn": "অশ্রুসজল কান্নায় ভেঙে পড়ে আম্মার নবীজির কাছে এসে বললেন: 'ইয়া রাসুলাল্লাহ! আপনার নামে কটূক্তি না করা পর্যন্ত এবং তাদের মূর্তির ভালো কথা না বলা পর্যন্ত ওরা আমাকে ছাড়েনি!'",
-        "words": [
-          {
-            "en": "Weeping in anguish",
-            "bn": "অশ্রুসজল বেদনায় কাঁদতে কাঁদতে"
-          },
-          {
-            "en": "Ammar rushed to the Prophet",
-            "bn": "আম্মার নবীজির কাছে ছুটে গেলেন"
-          },
-          {
-            "en": "I spoke ill of you",
-            "bn": "আমি আপনার ব্যাপারে খারাপ কথা বললাম"
-          },
-          {
-            "en": "and praised their gods",
-            "bn": "এবং তাদের উপাস্যদের প্রশংসা করলাম"
-          }
-        ]
-      },
-      {
-        "en": "The Prophet gently wiped his tears and asked: 'How do you find your heart?' Ammar replied: 'Secure and filled to the brim with faith!'",
-        "bn": "নবীজি পরম স্নেহে তাঁর চোখের পানি মুছে দিয়ে জিজ্ঞেস করলেন: 'তোমার অন্তরের অবস্থা কেমন?' আম্মার উত্তর দিলেন: 'ঈমানের আলোয় কানায় কানায় পূর্ণ ও তৃপ্ত!'",
-        "words": [
-          {
-            "en": "The Prophet wiped his tears",
-            "bn": "নবীজি তাঁর অশ্রু মুছে দিলেন"
-          },
-          {
-            "en": "How do you find your heart",
-            "bn": "তোমার হৃদয়কে কেমন পাচ্ছ"
-          },
-          {
-            "en": "Ammar replied",
-            "bn": "আম্মার উত্তর দিলেন"
-          },
-          {
-            "en": "Secure and filled with faith",
-            "bn": "ঈমানে পরিপূর্ণ ও অবিচল"
-          }
-        ]
-      },
-      {
-        "en": "The Prophet comforted him: 'If they torture you again, repeat what you said.'",
-        "bn": "নবীজি তাঁকে অভয় দিয়ে বললেন: 'ওরা যদি আবার তোমাকে অত্যাচার করে, তবে জীবন বাঁচাতে প্রয়োজনে তুমি আবারও তা-ই বলে দিয়ো।'",
-        "words": [
-          {
-            "en": "The Prophet comforted him",
-            "bn": "নবীজি তাঁকে সান্ত্বনা দিলেন"
-          },
-          {
-            "en": "If they torture you again",
-            "bn": "যদি তারা আবারও নির্যাতন করে"
-          },
-          {
-            "en": "repeat what you said",
-            "bn": "তবে মুখে আবার তা-ই বলো"
-          }
-        ]
-      },
-      {
-        "en": "Allah revealed a divine exemption in Surah An-Nahl, praising those compelled to speak under duress while their hearts remain steadfast in faith.",
-        "bn": "আল্লাহ সূরা আন-নাহলে ওহী নাযিল করলেন, যেখানে বাধ্য হয়ে মুখে কিছু বললেও অন্তরে দৃঢ় ঈমান রাখা মুমিনদের প্রশংসা করা হয়েছে।",
-        "words": [
-          {
-            "en": "Allah revealed divine exemption",
-            "bn": "আল্লাহ ঐশী ছাড় অবতীর্ণ করলেন"
-          },
-          {
-            "en": "in Surah An-Nahl",
-            "bn": "সূরা আন-নাহলে"
-          },
-          {
-            "en": "compelled under duress",
-            "bn": "চাপের মুখে বাধ্য হয়ে"
-          },
-          {
-            "en": "hearts steadfast in faith",
-            "bn": "অন্তর ঈমানে অবিচল থাকা অবস্থায়"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "id": "companion-muadh-yemen",
-    "title": "Mu'adh ibn Jabal: Sent as Teacher and Judge to Yemen",
-    "titleBn": "হযরত মুয়ায ইবনে জাবাল (রা.): ইয়ামেনের গভর্নর ও শিক্ষক",
-    "author": "Authentic Hadith (Sunan Abu Dawud & Tirmidhi)",
+    "id": "chronicle-ashab-kahf",
+    "title": "Ashab al-Kahf: The Companions of the Cave and the Miracle of Three Centuries",
+    "titleBn": "আসহাবে কাহাফ: গুহাবাসী যুবকদের অলৌকিক তিনশত বছরের নিদ্রা",
+    "author": "Ibn Kathir (Tafsir & Chronicles) & Surah Al-Kahf",
     "level": "Intermediate",
     "levelColor": "emerald",
-    "category": "Noble Companions",
-    "coverEmoji": "📜",
-    "summary": "Foremost in understanding halal and haram, young Mu'adh is appointed by the Prophet to teach Yemen, receiving famous jurisprudence instructions as the Prophet walks beside his mount.",
-    "summaryBn": "হালাল ও হারামের সবচেয়ে বড় পণ্ডিত মুয়ায ইবনে জাবাল (রা.)-কে যখন নবীজি ইয়ামেনের গভর্নর ও বিচারক বানিয়ে পাঠালেন, তখন নবীজি নিজে পায়ে হেঁটে তাঁর উটের পাশে পাশে চলে বিদায় দেওয়ার ঐতিহাসিক দৃশ্য।",
-    "sentences": [
-      {
-        "en": "Mu'adh ibn Jabal embraced Islam as an intelligent youth in Madinah and became the supreme expert among the Companions regarding halal and haram.",
-        "bn": "হযরত মুয়ায ইবনে জাবাল (রা.) মদিনার এক বুদ্ধিমান যুবক হিসেবে ইসলাম গ্রহণ করেন এবং সাহাবিদের মাঝে হালাল ও হারামের সবচেয়ে বড় আলেম হিসেবে পরিচিতি পান।",
-        "words": [
-          {
-            "en": "Muadh embraced Islam",
-            "bn": "মুয়ায ইসলাম গ্রহণ করলেন"
-          },
-          {
-            "en": "intelligent youth in Madinah",
-            "bn": "মদিনার বুদ্ধিমান যুবক"
-          },
-          {
-            "en": "expert regarding halal and haram",
-            "bn": "হালাল ও হারামের বিশেষজ্ঞ পণ্ডিত"
-          }
-        ]
-      },
-      {
-        "en": "The Prophet declared: 'The most knowledgeable of my Ummah regarding the lawful and the unlawful is Mu'adh ibn Jabal.'",
-        "bn": "নবীজি ঘোষণা করলেন: 'আমার উম্মতের মাঝে হালাল ও হারামের ব্যাপারে সবচেয়ে বেশি জ্ঞানী ব্যক্তি হলেন মুয়ায ইবনে জাবাল।'",
-        "words": [
-          {
-            "en": "The Prophet declared",
-            "bn": "নবীজি ঘোষণা করলেন"
-          },
-          {
-            "en": "The most knowledgeable of my Ummah",
-            "bn": "আমার উম্মতের সর্বাধিক জ্ঞানী ব্যক্তি"
-          },
-          {
-            "en": "regarding lawful and unlawful",
-            "bn": "হালাল ও হারামের বিষয়ে"
-          },
-          {
-            "en": "is Muadh ibn Jabal",
-            "bn": "হলেন মুয়ায ইবনে জাবাল"
-          }
-        ]
-      },
-      {
-        "en": "When the Prophet appointed him as governor, teacher, and chief justice over Yemen, he questioned him on his judicial methodology.",
-        "bn": "নবীজি যখন তাঁকে ইয়ামেনের গভর্নর, শিক্ষক ও প্রধান বিচারক হিসেবে নিযুক্ত করলেন, তখন বিচারপদ্ধতি নিয়ে তাঁকে কিছু প্রশ্ন করলেন।",
-        "words": [
-          {
-            "en": "Appointed as governor and judge",
-            "bn": "গভর্নর ও বিচারক নিযুক্ত করে"
-          },
-          {
-            "en": "over Yemen",
-            "bn": "ইয়ামেনের ওপর"
-          },
-          {
-            "en": "questioned on methodology",
-            "bn": "পদ্ধতি নিয়ে প্রশ্ন করলেন"
-          }
-        ]
-      },
-      {
-        "en": "Mu'adh explained: 'I will judge by the Book of Allah; if not found, then by the Sunnah of the Messenger; and if not found, I will exercise my reasoned judgment (Ijtihad).'",
-        "bn": "মুয়ায বললেন: 'আমি আল্লাহর কিতাব দিয়ে বিচার করব; না পেলে রাসুলের সুন্নাহ অনুযায়ী করব; আর সেখানেও না পেলে আমি নিজের প্রজ্ঞা দিয়ে ইজতিহাদ করব।'",
-        "words": [
-          {
-            "en": "Judge by Book of Allah",
-            "bn": "আল্লাহর কিতাব দিয়ে বিচার করব"
-          },
-          {
-            "en": "if not found then by Sunnah",
-            "bn": "না পেলে রাসুলের সুন্নাহ দ্বারা"
-          },
-          {
-            "en": "exercise reasoned judgment",
-            "bn": "বিবেকের প্রজ্ঞা দিয়ে ইজতিহাদ করব"
-          }
-        ]
-      },
-      {
-        "en": "Delighted, the Prophet struck Mu'adh's chest approvingly: 'Praise be to Allah who has guided the envoy of Allah's Messenger to that which pleases the Messenger!'",
-        "bn": "নবীজি আনন্দে মুয়াযের বুকে হাত রেখে বললেন: 'সমস্ত প্রশংসা আল্লাহর যিনি তাঁর রাসুলের দূতকে এমন প্রজ্ঞা দিয়েছেন যা তাঁর রাসুলকে সন্তুষ্ট করেছে!'",
-        "words": [
-          {
-            "en": "The Prophet struck his chest",
-            "bn": "নবীজি তাঁর বুকে হাত রাখলেন"
-          },
-          {
-            "en": "Praise be to Allah",
-            "bn": "সমস্ত প্রশংসা আল্লাহর জন্য"
-          },
-          {
-            "en": "guided the envoy",
-            "bn": "যিনি দূতকে পথ দেখিয়েছেন"
-          },
-          {
-            "en": "to that which pleases the Messenger",
-            "bn": "যা রাসুলকে সন্তুষ্ট করে"
-          }
-        ]
-      },
-      {
-        "en": "As Mu'adh mounted his camel to depart, the Prophet walked on foot beside his stirrup, counseling him: 'Make things easy, do not make things difficult; give glad tidings, and do not repel people.'",
-        "bn": "মুয়ায যখন বিদায়ের জন্য উটের পিঠে চড়লেন, নবীজি নিজে পায়ে হেঁটে উটের পাশে পাশে চললেন এবং উপদেশ দিলেন: 'মানুষের জন্য দ্বীনকে সহজ করো, কঠিন কোরো না; সুসংবাদ দাও এবং মানুষকে দূরে ঠেলে দিয়ো না।'",
-        "words": [
-          {
-            "en": "The Prophet walked on foot",
-            "bn": "নবীজি পায়ে হেঁটে চললেন"
-          },
-          {
-            "en": "beside his stirrup",
-            "bn": "তাঁর উটের রেকাবের পাশে"
-          },
-          {
-            "en": "Make things easy",
-            "bn": "কাজগুলোকে সহজ করো"
-          },
-          {
-            "en": "do not make things difficult",
-            "bn": "কঠিন করে তুলো না"
-          },
-          {
-            "en": "give glad tidings",
-            "bn": "সুসংবাদ দান করো"
-          },
-          {
-            "en": "do not repel people",
-            "bn": "মানুষকে দূরে ঠেলে দিয়ো না"
-          }
-        ]
-      },
-      {
-        "en": "The Prophet tearfully noted: 'O Mu'adh, perhaps you will not meet me again after this year, and perhaps you will only pass by my mosque and grave,' causing Mu'adh to weep bitterly.",
-        "bn": "নবীজি অশ্রুসজল নয়নে বললেন: 'হে মুয়ায! এই বছরের পর হয়তো আমার সাথে তোমার আর দেখা হবে না; হয়তো তুমি শুধু আমার মসজিদ আর রওজার পাশ দিয়ে হেঁটে যাবে,' যা শুনে মুয়ায কান্নায় ভেঙে পড়লেন।",
-        "words": [
-          {
-            "en": "The Prophet tearfully noted",
-            "bn": "নবীজি অশ্রুসজল নয়নে বললেন"
-          },
-          {
-            "en": "you will not meet me again",
-            "bn": "আমার সাথে তোমার আর দেখা হবে না"
-          },
-          {
-            "en": "pass by my mosque and grave",
-            "bn": "আমার মসজিদ ও কবরের পাশ দিয়ে যাবে"
-          },
-          {
-            "en": "causing Muadh to weep",
-            "bn": "মুয়াযকে কান্নায় ভেঙে দিয়ে"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "id": "companion-abu-hurairah-memory",
-    "title": "Abu Hurairah: The Devoted Scholar of the Prophet's Traditions",
-    "titleBn": "হযরত আবু হুরায়রা (রা.): হাদিস সংরক্ষণের মহান সাধক",
-    "author": "Authentic Hadith (Sahih Bukhari)",
-    "level": "Intermediate",
-    "levelColor": "cyan",
-    "category": "Noble Companions",
-    "coverEmoji": "📜",
-    "summary": "Living in the shade of the Prophet's Mosque on the Suffah platform, Abu Hurairah endures severe hunger, spreads his cloak for the Prophet's blessing, and memorizes over 5,000 hadiths.",
-    "summaryBn": "আসহাবে সুফফার চত্বরে অনাহারে দিন কাটিয়েও নবীজি ﷺ-এর চাদর বিছানোর দোয়ায় এমন এক অলৌকিক স্মরণশক্তি লাভ করা যার বদৌলতে পাঁচ হাজারেরও বেশি হাদিস নিখুঁতভাবে সংরক্ষণ করেছিলেন।",
-    "sentences": [
-      {
-        "en": "Abu Hurairah, whose real name was Abdur-Rahman ibn Sakhr, arrived from Yemen to embrace Islam in the year of Khaybar.",
-        "bn": "হযরত আবু হুরায়রা (রা.)—যাঁর প্রকৃত নাম ছিল আব্দুর রহমান ইবনে সাখর—খায়বারের বিজয়ের বছর ইয়েমেন থেকে এসে ইসলাম গ্রহণ করেন।",
-        "words": [
-          {
-            "en": "Abu Hurairah real name",
-            "bn": "আবু হুরায়রার আসল নাম"
-          },
-          {
-            "en": "Abdur-Rahman ibn Sakhr",
-            "bn": "আব্দুর রহমান ইবনে সাখর"
-          },
-          {
-            "en": "arrived from Yemen",
-            "bn": "ইয়েমেন থেকে আগমন করলেন"
-          },
-          {
-            "en": "in the year of Khaybar",
-            "bn": "খায়বারের বছরটিতে"
-          }
-        ]
-      },
-      {
-        "en": "Nicknamed Abu Hurairah (Father of the Kitten) by the Prophet because he gently carried a tiny kitten in his sleeve, he devoted his life to continuous knowledge.",
-        "bn": "জামার হাতায় এক ছোট্ট বিড়ালের বাচ্চাকে পরম যত্নে রাখায় নবীজি তাঁকে ভালোবেসে 'আবু হুরায়রা' (বিড়ালছানার পিতা) নামে ডাকতেন।",
-        "words": [
-          {
-            "en": "Nicknamed Abu Hurairah",
-            "bn": "আবু হুরায়রা উপাধি পেলেন"
-          },
-          {
-            "en": "Father of the Kitten",
-            "bn": "বিড়ালছানার পিতা"
-          },
-          {
-            "en": "carried kitten in his sleeve",
-            "bn": "হাতার মাঝে বিড়ালছানা রাখতেন"
-          },
-          {
-            "en": "devoted life to knowledge",
-            "bn": "জীবন উৎসর্গ করলেন জ্ঞানের পথে"
-          }
-        ]
-      },
-      {
-        "en": "He resided among the impoverished dwellers of the Suffah platform inside the Prophet's Mosque, having no business or wealth to distract him.",
-        "bn": "মসজিদে নববীর পেছনের 'সুফফা' চত্বরে তিনি নিঃস্ব সাহাবিদের সাথে থাকতেন, কোনো ব্যবসা বা সম্পদ তাঁকে নবীজির সান্নিধ্য থেকে বিচ্ছিন্ন করতে পারত না।",
-        "words": [
-          {
-            "en": "Resided on the Suffah platform",
-            "bn": "সুফফা চত্বরে বাস করতেন"
-          },
-          {
-            "en": "inside the Prophet's Mosque",
-            "bn": "মসজিদে নববীর ভেতরে"
-          },
-          {
-            "en": "having no wealth to distract him",
-            "bn": "কোনো পার্থিব সম্পদ তাঁকে বাধা দিত না"
-          }
-        ]
-      },
-      {
-        "en": "He endured such intense hunger that he often bound a heavy stone against his stomach to ease the pangs of starvation.",
-        "bn": "তিনি ক্ষুধার এমন তীব্র যন্ত্রণা ভোগ করতেন যে প্রায়ই ক্ষুধার জ্বালা কমাতে পেটে ভারী পাথর বেঁধে রাখতেন।",
-        "words": [
-          {
-            "en": "Endured intense hunger",
-            "bn": "তীব্র ক্ষুধা সহ্য করলেন"
-          },
-          {
-            "en": "bound a stone to stomach",
-            "bn": "পেটে পাথর বেঁধে রাখতেন"
-          },
-          {
-            "en": "to ease starvation",
-            "bn": "ক্ষুধার তীব্রতা কমাতে"
-          }
-        ]
-      },
-      {
-        "en": "Once he complained of forgetting some hadiths, so the Prophet instructed: 'Spread out your cloak!'",
-        "bn": "একদিন তিনি কিছু হাদিস ভুলে যাওয়ার কথা জানালে নবীজি বললেন: 'তোমার চাদরটি মাটিতে মেলে ধরো!'",
-        "words": [
-          {
-            "en": "Complained of forgetting hadiths",
-            "bn": "হাদিস ভুলে যাওয়ার কথা জানালেন"
-          },
-          {
-            "en": "the Prophet instructed",
-            "bn": "নবীজি নির্দেশ দিলেন"
-          },
-          {
-            "en": "Spread out your cloak",
-            "bn": "তোমার চাদরটি মেলে ধরো"
-          }
-        ]
-      },
-      {
-        "en": "The Prophet cupped his blessed hands over the cloak, making supplication, and told him: 'Now gather it to your chest!'",
-        "bn": "নবীজি তাঁর মোবারক দুই হাত দিয়ে সেই চাদরের ওপর দোয়ার ভঙ্গি করলেন এবং বললেন: 'এবার চাদরটি তুলে বুকের সাথে জড়িয়ে নাও!'",
-        "words": [
-          {
-            "en": "The Prophet cupped hands",
-            "bn": "নবীজি অঞ্জলি ভরলেন"
-          },
-          {
-            "en": "making supplication",
-            "bn": "দোয়া করে"
-          },
-          {
-            "en": "gather it to your chest",
-            "bn": "তা তোমার বুকে জড়িয়ে নাও"
-          }
-        ]
-      },
-      {
-        "en": "Abu Hurairah testified: 'By Allah, after that day, I never forgot a single word I heard from the Messenger of Allah!'",
-        "bn": "আবু হুরায়রা সাক্ষ্য দিয়ে বলেন: 'আল্লাহর কসম, সেই দিনের পর থেকে রাসুলুল্লাহ ﷺ-এর মুখ থেকে যা শুনেছি তার একটি শব্দও আমি আর কোনো দিন ভুলিনি!'",
-        "words": [
-          {
-            "en": "Abu Hurairah testified",
-            "bn": "আবু হুরায়রা সাক্ষ্য দিলেন"
-          },
-          {
-            "en": "after that day",
-            "bn": "সেই দিনের পর থেকে"
-          },
-          {
-            "en": "never forgot a single word",
-            "bn": "একটি শব্দও আর ভুলিনি"
-          },
-          {
-            "en": "heard from the Messenger",
-            "bn": "রাসুলের মুখ থেকে যা শুনেছি"
-          }
-        ]
-      },
-      {
-        "en": "He preserved 5,374 hadiths, serving as the greatest repository of prophetic traditions for all human civilization.",
-        "bn": "তিনি ৫,৩৭৪টি হাদিস মুখস্থ করে সংরক্ষণ করেছিলেন এবং কিয়ামত পর্যন্ত মানবজাতির জন্য সুন্নাহর সবচেয়ে বড় ভাণ্ডার হয়ে রইলেন।",
-        "words": [
-          {
-            "en": "Preserved 5,374 hadiths",
-            "bn": "৫৩৭৪টি হাদিস সংরক্ষণ করলেন"
-          },
-          {
-            "en": "greatest repository of traditions",
-            "bn": "হাদিসের সর্বশ্রেষ্ঠ সংগ্রহশালা হিসেবে"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "id": "companion-anas-service",
-    "title": "Anas ibn Malik: Ten Years of Loving Service to the Prophet",
-    "titleBn": "হযরত আনাস ইবনে মালিক (রা.): নবীজির দশ বছরের স্নেহধন্য সেবক",
-    "author": "Authentic Hadith (Sahih Bukhari & Muslim)",
-    "level": "Intermediate",
-    "levelColor": "amber",
-    "category": "Noble Companions",
-    "coverEmoji": "🌱",
-    "summary": "Entrusted to the Prophet at age ten by his mother Umm Sulaym, Anas serves the Messenger for a full decade without ever hearing a harsh word or reprimand.",
-    "summaryBn": "দশ বছর বয়সে মা উম্মে সুলাইম কর্তৃক নবীজির খেদমতে সমর্পিত হওয়া এবং টানা দশ বছর সেবা করার মাঝেও নবীজির মুখ থেকে একটি ধমক বা বিরক্তির শব্দ না শোনার অনুপম ইতিহাস।",
-    "sentences": [
-      {
-        "en": "When the Prophet arrived in Madinah, an Ansari woman named Umm Sulaym brought her ten-year-old son Anas to serve the Messenger of Allah.",
-        "bn": "নবীজি ﷺ যখন মদিনায় এলেন, উম্মে সুলাইম নামক এক আনসারী নারী তাঁর দশ বছরের বালক পুত্র আনাসকে রাসুলুল্লাহর খেদমতের জন্য নিয়ে এলেন।",
-        "words": [
-          {
-            "en": "When Prophet arrived in Madinah",
-            "bn": "নবীজি যখন মদিনায় আসলেন"
-          },
-          {
-            "en": "brought ten-year-old son Anas",
-            "bn": "দশ বছরের পুত্র আনাসকে নিয়ে এলেন"
-          },
-          {
-            "en": "to serve the Messenger",
-            "bn": "রাসুলুল্লাহর খেদমত করার জন্য"
-          }
-        ]
-      },
-      {
-        "en": "She pleaded: 'O Messenger of Allah, everyone has given you gifts; this is my little Anas, accept him to serve you.'",
-        "bn": "তিনি বললেন: 'ইয়া রাসুলাল্লাহ! সবাই আপনাকে উপহার দিয়েছে; আমার এই ছোট্ট আনাস ছাড়া আমার দেওয়ার মতো কিছু নেই, আপনি তাকে আপনার সেবক হিসেবে গ্রহণ করুন।'",
-        "words": [
-          {
-            "en": "Everyone has given gifts",
-            "bn": "সবাই উপহার দিয়েছে"
-          },
-          {
-            "en": "this is my little Anas",
-            "bn": "এ আমার ছোট আনাস"
-          },
-          {
-            "en": "accept him to serve you",
-            "bn": "তাকে আপনার সেবক হিসেবে কবুল করুন"
-          }
-        ]
-      },
-      {
-        "en": "The Prophet accepted him with radiant warmth and prayed: 'O Allah, increase his wealth and his children, and bless him in all that You give him!'",
-        "bn": "নবীজি হাসিমুখে তাঁকে গ্রহণ করলেন এবং প্রাণভরে দোয়া করলেন: 'হে আল্লাহ! আপনি আনাসের ধনসম্পদ ও সন্তানসন্ততি বৃদ্ধি করে দিন এবং তাকে যা কিছু দেবেন তাতে বরকত দিন!'",
-        "words": [
-          {
-            "en": "The Prophet accepted him",
-            "bn": "নবীজি তাঁকে গ্রহণ করলেন"
-          },
-          {
-            "en": "increase his wealth and children",
-            "bn": "তার ধন ও সন্তান বাড়িয়ে দিন"
-          },
-          {
-            "en": "bless him in all You give him",
-            "bn": "তাকে যা দেবেন তাতে বরকত দিন"
-          }
-        ]
-      },
-      {
-        "en": "Anas served the Prophet for ten complete years until the Messenger passed away.",
-        "bn": "আনাস একটানা দীর্ঘ দশ বছর নবীজির ওফাত পর্যন্ত তাঁর একান্ত খেদমতে নিয়োজিত ছিলেন।",
-        "words": [
-          {
-            "en": "Served for ten complete years",
-            "bn": "টানা দশ বছর খেদমত করলেন"
-          },
-          {
-            "en": "until the Messenger passed away",
-            "bn": "নবীজির ইন্তেকাল পর্যন্ত"
-          }
-        ]
-      },
-      {
-        "en": "Anas testified: 'I served the Messenger of Allah for ten years; by Allah, he never once said 'Uff' (an expression of annoyance) to me!'",
-        "bn": "আনাস সাক্ষ্য দিয়ে বলেন: 'আমি দশ বছর আল্লাহর রাসুলের খেদমত করেছি; আল্লাহর কসম, তিনি কোনো দিন আমার ওপর বিরক্ত হয়ে 'উহ' পর্যন্ত বলেননি!'",
-        "words": [
-          {
-            "en": "Anas testified",
-            "bn": "আনাস সাক্ষ্য দিলেন"
-          },
-          {
-            "en": "never once said Uff",
-            "bn": "কখনও 'উহ' শব্দটি বলেননি"
-          },
-          {
-            "en": "an expression of annoyance",
-            "bn": "বিরক্তি প্রকাশের শব্দ"
-          }
-        ]
-      },
-      {
-        "en": "He added: 'He never asked me regarding something I did: 'Why did you do this?' nor regarding something I neglected: 'Why did you not do this?''",
-        "bn": "তিনি আরও বলেন: 'আমি কোনো কাজ করে ফেললে তিনি কখনই বলেননি: 'কেন এটা করলে?' আর কোনো কাজ বাদ পড়ে গেলে বলেননি: 'কেন এটা করলে না?''",
-        "words": [
-          {
-            "en": "Never asked why you did this",
-            "bn": "কখনই জিজ্ঞেস করেননি কেন এটা করলে"
-          },
-          {
-            "en": "nor why did you not do this",
-            "bn": "বা কেন এটা করলে না"
-          }
-        ]
-      },
-      {
-        "en": "By virtue of the Prophet's supplication, Anas lived over a century, buried over a hundred of his own children and grandchildren, and possessed lush date gardens bearing fruit twice a year.",
-        "bn": "নবীজির দোয়ার বরকতে আনাস একশ বছরের বেশি জীবন পেয়েছিলেন, শতাধিক বংশধর দেখে গিয়েছিলেন এবং তাঁর বাগানে বছরে দুইবার মিষ্টি ফল ফলত।",
-        "words": [
-          {
-            "en": "Lived over a century",
-            "bn": "একশ বছরের বেশি বেঁচে রইলেন"
-          },
-          {
-            "en": "buried over a hundred offspring",
-            "bn": "শতাধিক বংশধর প্রত্যক্ষ করলেন"
-          },
-          {
-            "en": "gardens bearing fruit twice a year",
-            "bn": "বাগানে বছরে দুইবার ফল ধরত"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "id": "quranic-ashab-al-kahf",
-    "title": "The Companions of the Cave: Sleeping for Three Centuries",
-    "titleBn": "আসহাবে কাহাফ ও তিন শতাব্দীর অলৌকিক ঘুম",
-    "author": "Quranic Narrative (Surah Al-Kahf)",
-    "level": "Intermediate",
-    "levelColor": "indigo",
-    "category": "Quranic Chronicles",
+    "category": "Quranic & Hadith Chronicles",
     "coverEmoji": "⛰️",
-    "summary": "Fleeing the tyrannical Roman Emperor Decius to preserve monotheism, noble youths take shelter in a mountain cave with their dog, where Allah casts a deep sleep over them for 309 years.",
-    "summaryBn": "জালিম বাদশাহর শিরক থেকে ঈমান বাঁচাতে পাহাড়ি গুহায় আশ্রয় নেওয়া যুবকদল ও তাদের বিশ্বস্ত কুকুর, এবং মহান আল্লাহ কর্তৃক ৩০৯ বছর তাদের অলৌকিক ঘুমে নিমজ্জিত রাখার ইতিহাস।",
+    "summary": "Fleeing the tyrannical Roman emperor Decius who demanded pagan sacrifice on pain of death, a band of monotheistic youths took refuge in a remote mountain cave with their faithful dog; Allah cast them into a miraculous slumber lasting over three hundred solar years, awakening them as an eternal sign of the Resurrection.",
+    "summaryBn": "পৌত্তলিকতায় বাধ্যকারী রোমান স্বৈরাচারী শাসক দেকিয়াসের হাত থেকে নিজেদের ঈমান বাঁচাতে কয়েকজন সম্ভ্রান্ত তরুণ এক বিশ্বস্ত কুকুরসহ নির্জন পাহাড়ের গুহায় আশ্রয় নেন; আল্লাহ তাঁদের ওপর তিনশত নয় বছরের এক অলৌকিক ঘুম চাপিয়ে দেন এবং পরবর্তীতে তাঁদের অক্ষত জাগ্রত করে শেষ বিচারের পুনরুত্থানের জীবন্ত প্রমাণ হিসেবে প্রকাশ করেন।",
     "sentences": [
       {
-        "en": "In ancient Ephesus, a group of noble young aristocrats rejected the compulsory idolatry enforced by the ruthless Roman Emperor Decius.",
-        "bn": "প্রাচীন ইফসাস নগরীতে কিছু অভিজাত যুবক রোমান সম্রাট ডিসিয়াসের চাপিয়ে দেওয়া মূর্তিপূজাকে ঘৃণাভরে প্রত্যাখ্যান করে এক আল্লাহর ঈমানে অটল রইল।",
+        "en": "In the ancient Roman city of Ephesus, the tyrannical pagan emperor Decius enacted a bloodthirsty edict compelling all subjects to sacrifice to state idols under pain of horrific torture and execution.",
+        "bn": "প্রাচীন রোমান শহর ইফেসাসে অত্যাচারী সম্রাট দেকিয়াস এক নিষ্ঠুর রাজকীয় ফরমান জারি করল, যাতে সম্রাটের দেবদেবীর মূর্তির সামনে কোরবানি দিতে বাধ্য করা হলো অন্যথায় নিশ্চিত মৃত্যুদণ্ডের নির্দেশ দেওয়া হলো।",
         "words": [
           {
-            "en": "Noble young aristocrats",
-            "bn": "অভিজাত যুবকদল"
+            "en": "tyrannical pagan emperor",
+            "bn": "স্বৈরাচারী পৌত্তলিক সম্রাট"
           },
           {
-            "en": "rejected compulsory idolatry",
-            "bn": "বাধ্যতামূলক মূর্তিপূজা প্রত্যাখ্যান করল"
+            "en": "bloodthirsty edict",
+            "bn": "রক্তপিপাসু ও নিষ্ঠুর রাজকীয় ফরমান"
           },
           {
-            "en": "enforced by ruthless Emperor Decius",
-            "bn": "নিষ্ঠুর সম্রাট ডিসিয়াসের আরোপিত"
+            "en": "state idols",
+            "bn": "রাষ্ট্রীয় পূজনীয় দেবদেবী বা প্রতিমা"
+          },
+          {
+            "en": "under pain of execution",
+            "bn": "মৃত্যুদণ্ডের চরম হুমকির মুখে"
+          },
+          {
+            "en": "ancient Ephesus",
+            "bn": "প্রাচীন ঐতিহাসিক ইফেসাস নগরী"
           }
         ]
       },
       {
-        "en": "They stood together boldly declaring: 'Our Lord is the Lord of the heavens and the earth; never will we invoke besides Him any deity!'",
-        "bn": "তারা একতাবদ্ধ হয়ে ঘোষণা করল: 'আমাদের রব হলেন আসমান ও জমিনের পালনকর্তা; আমরা কখনই তাঁকে ছাড়া অন্য কোনো উপাস্যকে ডাকব না!'",
+        "en": "A group of elite noble youths refused to prostitute their consciences to stone statues, boldly proclaiming their faith before the monarch: 'Our Lord is the Lord of the heavens and the earth; never will we invoke besides Him any deity!'",
+        "bn": "কয়েকজন সম্ভ্রান্ত রাজপরিবারের তরুণ পাথরের মূর্তির সামনে মাথা নত করতে অস্বীকার করে সম্রাটের মুখের ওপর সাহসের সাথে ঘোষণা করলেন: 'আমাদের রব হলেন আসমান ও জমিনের একমাত্র প্রতিপালক; তিনি ছাড়া অন্য কাউকে আমরা কখনো উপাস্য হিসেবে ডাকব না!'",
         "words": [
           {
-            "en": "Our Lord is the Lord of heavens",
-            "bn": "আমাদের পালনকর্তা আকাশ ও পৃথিবীর রব"
+            "en": "elite noble youths",
+            "bn": "সম্ভ্রান্ত ও অভিজাত যুবকগণ"
           },
           {
-            "en": "never will we invoke besides Him",
-            "bn": "কখনই আমরা তাঁকে ছাড়া কাউকে ডাকব না"
+            "en": "prostitute consciences",
+            "bn": "বিবেক বিসর্জন দেওয়া বা কলুষিত করা"
           },
           {
-            "en": "any deity",
-            "bn": "অন্য কোনো উপাস্যকে"
+            "en": "stone statues",
+            "bn": "পাথরের তৈরি নিষ্প্রাণ মূর্তি"
+          },
+          {
+            "en": "Lord of heavens and earth",
+            "bn": "আসমান ও জমিনের একমাত্র রব"
+          },
+          {
+            "en": "never invoke any deity",
+            "bn": "তিনি ছাড়া কাউকে আহ্বান করব না"
           }
         ]
       },
       {
-        "en": "Threatened with torture and execution, they fled into the mountains, taking refuge within a spacious cave accompanied by their faithful dog.",
-        "bn": "মৃত্যুদণ্ডের মুখোমুখি হয়ে তারা পাহাড়ে পালিয়ে গেল এবং তাদের বিশ্বস্ত কুকুরটিকে সঙ্গে নিয়ে এক প্রশস্ত গুহার গভীরে আশ্রয় নিল।",
+        "en": "Granted a brief reprieve to reconsider their defiance, the young believers packed modest provisions and fled into the rugged mountains, accompanied by a loyal shepherd's dog named Qitmir.",
+        "bn": "সিদ্ধান্ত পুনর্বিবেচনার জন্য কয়েক দিনের সময় পেয়ে এই তরুণ মুমিনরা সামান্য কিছু পাথেয় নিয়ে দুর্গম পাহাড়ের দিকে পালিয়ে গেলেন; পথে 'কিতমীর' নামের এক অনুগত রাখাল কুকুর তাদের সঙ্গী হলো।",
         "words": [
           {
-            "en": "Threatened with execution",
-            "bn": "হত্যার হুমকি পেয়ে"
+            "en": "brief reprieve",
+            "bn": "সামান্য অবকাশ বা কয়েক দিনের সময়"
           },
           {
-            "en": "fled into the mountains",
-            "bn": "পাহাড়ে পালিয়ে গেল"
+            "en": "modest provisions",
+            "bn": "সামান্য খাবার ও রসদ"
           },
           {
-            "en": "taking refuge in a cave",
-            "bn": "এক গুহায় আশ্রয় নিয়ে"
+            "en": "rugged mountains",
+            "bn": "দুর্গম ও রুক্ষ পর্বতমালা"
           },
           {
-            "en": "with their faithful dog",
-            "bn": "তাদের বিশ্বস্ত কুকুরসহ"
+            "en": "loyal shepherd's dog",
+            "bn": "অনুগত বিশ্বস্ত রাখালের কুকুর"
+          },
+          {
+            "en": "fled into exile",
+            "bn": "মর্যাদা রক্ষায় নির্বাসনে পালালেন"
           }
         ]
       },
       {
-        "en": "They prayed: 'Our Lord! Grant us from Yourself mercy and prepare for us from our affair right guidance!'",
-        "bn": "তারা ফরিয়াদ করল: 'হে আমাদের পালনকর্তা! আপনার নিকট থেকে আমাদের ওপর রহমত বর্ষণ করুন এবং আমাদের কাজেকর্মে সঠিক পথ সহজ করে দিন!'",
+        "en": "Discovering a spacious, sheltered mountain cavern, they fell upon their knees in heartfelt supplication: 'Our Lord, grant us from Yourself mercy and prepare for us from our affair right guidance!'",
+        "bn": "পাহাড়ের ভেতরে এক প্রশস্ত ও নিরাপদ গুহা খুঁজে পেয়ে তারা পরম ব্যাকুলতায় সিজদায় লুটিয়ে পড়ে মোনাজাত করলেন: 'হে আমাদের প্রতিপালক! আপনার পক্ষ থেকে আমাদের ওপর বিশেষ রহমত বর্ষণ করুন এবং আমাদের এই কঠিন পরিস্থিতিকে সঠিক পথের অনুকূল করে দিন!'",
         "words": [
           {
-            "en": "Our Lord grant us mercy",
-            "bn": "হে আমাদের রব আমাদের রহমত দিন"
+            "en": "spacious mountain cavern",
+            "bn": "প্রশস্ত ও বিস্তৃত পাহাড়ি গুহা"
           },
           {
-            "en": "from Yourself",
-            "bn": "আপনার পক্ষ থেকে"
+            "en": "fell upon their knees",
+            "bn": "হাঁটু গেড়ে প্রার্থনায় বসলেন"
           },
           {
-            "en": "prepare for us right guidance",
-            "bn": "আমাদের জন্য সঠিক পথ সুগম করুন"
+            "en": "grant us mercy",
+            "bn": "আমাদের ওপর বিশেষ রহমত দান করুন"
+          },
+          {
+            "en": "prepare right guidance",
+            "bn": "আমাদের কাজকে সঠিক সমাধানের পথ করে দিন"
+          },
+          {
+            "en": "heartfelt supplication",
+            "bn": "আন্তরিক আকুল দোয়া"
           }
         ]
       },
       {
-        "en": "Allah sealed their ears and cast a deep celestial slumber over them, while the dog sat stretched out with paws at the cave entrance.",
-        "bn": "আল্লাহ তাদের কানের ওপর পর্দা ফেলে গভীর ঘুমে নিমজ্জিত করলেন, আর কুকুরটি গুহামুখে থাবা মেলে প্রহরীর মতো বসে রইল।",
+        "en": "Allah sealed their ears and cast them into a deep, supernatural slumber, while their faithful hound stretched out its forelegs across the cave threshold, guarding them faithfully.",
+        "bn": "আল্লাহ তাদের কান বন্ধ করে দিয়ে তাদের ওপর এক অলৌকিক গভীর ঘুম চাপিয়ে দিলেন; আর তাদের সেই বিশ্বস্ত কুকুরটি গুহামুখের চৌকাঠে দুই পা ছড়িয়ে প্রহরীর মতো বিশ্বস্ততার সাথে শুয়ে রইল।",
         "words": [
           {
-            "en": "Allah sealed their ears",
-            "bn": "আল্লাহ তাদের কান বন্ধ করলেন"
+            "en": "sealed their ears",
+            "bn": "তাদের কানে পর্দা টেনে দিলেন (ঘুম পাড়ালেন)"
           },
           {
-            "en": "cast deep celestial slumber",
-            "bn": "গভীর শান্তিময় ঘুমে আচ্ছন্ন করলেন"
+            "en": "supernatural slumber",
+            "bn": "অলৌকিক ও অপার্থিব দীর্ঘ ঘুম"
           },
           {
-            "en": "dog stretched out at entrance",
-            "bn": "কুকুরটি প্রবেশদ্বারে পাহারা দিয়ে বসে রইল"
+            "en": "stretched out forelegs",
+            "bn": "সামনের দুই পা প্রসারিত করে রাখল"
+          },
+          {
+            "en": "cave threshold",
+            "bn": "গুহার প্রবেশদ্বার বা চৌকাঠ"
+          },
+          {
+            "en": "guarding faithfully",
+            "bn": "বিশ্বস্ততার সাথে পাহারা দিল"
           }
         ]
       },
       {
-        "en": "For three hundred and nine solar years, the rising sun declined past their cave on the right and set away from them on the left, while Allah turned their bodies side to side.",
-        "bn": "টানা ৩০৯ বছর ধরে সূর্য ওঠার সময় গুহার ডানে হেলে যেত এবং অস্ত যাওয়ার সময় বাঁয়ে চলে যেত, আর আল্লাহ তাদের শরীর অক্ষত রাখতে এপাশ-ওপাশ করাতেন।",
+        "en": "For over three centuries, the sun miraculously tilted away from the cave mouth at dawn and passed by them to the left at dusk, while angels turned their bodies from right to left so that the earth would not decay their flesh.",
+        "bn": "টানা তিন শতাব্দীরও বেশি সময় ধরে অলৌকিকভাবে ভোরের সূর্য গুহামুখের ডান পাশ দিয়ে হেলে উদিত হতো এবং সন্ধ্যার সূর্য বাম পাশ দিয়ে চলে যেত; আর জমিন যেন তাদের শরীর নষ্ট না করে সেজন্য ফেরেশতারা তাদের দেহকে ডানে-বামে পাশ ফেরাতেন।",
         "words": [
           {
-            "en": "For 309 years",
-            "bn": "৩০৯ বছর ধরে"
+            "en": "three centuries",
+            "bn": "তিন শতাব্দী (৩০০ বছরের বেশি)"
           },
           {
-            "en": "sun declined past on right",
-            "bn": "সূর্য ডানপাশে হেলে যেত"
+            "en": "sun tilted away at dawn",
+            "bn": "ভোরের সূর্য হেলে উদিত হতো"
           },
           {
-            "en": "set away on left",
-            "bn": "বাঁপাশে অস্ত যেত"
+            "en": "passed to left at dusk",
+            "bn": "সন্ধ্যায় বাম পাশ দিয়ে অস্ত যেত"
           },
           {
-            "en": "Allah turned bodies side to side",
-            "bn": "আল্লাহ তাদের এপাশ-ওপাশ করাতেন"
+            "en": "turned bodies right and left",
+            "bn": "ডান ও বামে তাদের শরীর পাশ ফেরানো হতো"
+          },
+          {
+            "en": "earth decay flesh",
+            "bn": "মাটি দ্বারা শরীর ক্ষয় বা নষ্ট হওয়া"
           }
         ]
       },
       {
-        "en": "When they finally awoke, they thought they had slept merely a day or part of a day, sending one with silver coins to buy wholesome food.",
-        "bn": "তারা যখন জেগে উঠল, ভেবেছিল হয়তো একদিন বা দিনের কিছু অংশ ঘুমিয়েছে; তাই রূপার মুদ্রা দিয়ে একজনকে খাবার কিনতে বাজারে পাঠাল।",
+        "en": "Anyone gazing into the cave would have been seized by terrifying awe and fled, for the youths appeared awake with unblinking eyes, preserved perfectly in the divine sanctuary.",
+        "bn": "বাইরে থেকে কেউ সেই গুহার দিকে তাকালে ভয়ে শিউরে উঠে পালাত, কারণ এই যুবকদের চোখ খোলা দেখে মনে হতো তারা জাগ্রত অবস্থায় রয়েছে, অথচ আল্লাহর কুদরতে তারা পরম শান্তিতে সংরক্ষিত ছিল।",
         "words": [
           {
-            "en": "When they awoke",
-            "bn": "যখন তারা জেগে উঠল"
+            "en": "seized by terrifying awe",
+            "bn": "চরম আতঙ্ক ও ভয়ে দিশেহারা হতো"
           },
           {
-            "en": "thought slept merely a day",
-            "bn": "ভাবল একদিন মাত্র ঘুমিয়েছে"
+            "en": "fled in terror",
+            "bn": "ভয়ে পালিয়ে যেত"
           },
           {
-            "en": "sent one with silver coins",
-            "bn": "একজনকে রূপার মুদ্রা দিয়ে পাঠাল"
+            "en": "unblinking eyes",
+            "bn": "পলকহীন খোলা চোখ"
           },
           {
-            "en": "to buy wholesome food",
-            "bn": "পবিত্র খাবার কিনে আনতে"
+            "en": "divine sanctuary",
+            "bn": "ঐশী সুরক্ষিত আশ্রয়স্থল"
+          },
+          {
+            "en": "preserved perfectly",
+            "bn": "নিখুঁতভাবে সংরক্ষিত"
           }
         ]
       },
       {
-        "en": "The baker was astonished by the three-century-old antique coin, discovering that the tyrant had long perished and the whole empire was now Christian believers.",
-        "bn": "রুটি বিক্রেতা তিনশত বছরের পুরনো মুদ্রা দেখে তাজ্জব বনে গেল এবং প্রকাশ পেল যে সেই জালিম রাজা শত শত বছর আগেই মরেছে আর সমগ্র রাজ্য এখন মুমিন হয়ে গেছে।",
+        "en": "Awakening after 309 lunar years feeling as though they had slept only a single day or part of a day, they sent one companion into Ephesus with ancient silver coins to purchase pure, lawful food in secret.",
+        "bn": "টানা ৩০৯ চান্দ্র বছর পর ঘুম থেকে জেগে তারা ভাবল তারা হয়তো মাত্র একদিন বা দিনের কিছু অংশ ঘুমিয়েছে; তাই তারা তাদের এক সঙ্গীকে প্রাচীন রৌপ্যমুদ্রাসহ গোপনে বাজারে পাঠিয়ে দিল যেন সে পবিত্র ও হালাল খাবার কিনে আনে।",
         "words": [
           {
-            "en": "Astonished by antique coin",
-            "bn": "পুরনো মুদ্রা দেখে অবাক হলো"
+            "en": "awakening after 309 years",
+            "bn": "৩০৯ চান্দ্র বছর পর জেগে ওঠা"
           },
           {
-            "en": "tyrant had long perished",
-            "bn": "জালিম বহু আগেই ধ্বংস হয়েছিল"
+            "en": "ancient silver coins",
+            "bn": "প্রাচীন আমলের রৌপ্যমুদ্রা"
           },
           {
-            "en": "whole empire was now believers",
-            "bn": "পুরো রাজ্য তখন মুমিনে পরিণত হয়েছিল"
+            "en": "pure lawful food",
+            "bn": "পবিত্র ও হালাল আহার"
+          },
+          {
+            "en": "in secret",
+            "bn": "গোপনে বা অত্যন্ত সতর্কতার সাথে"
+          },
+          {
+            "en": "slept part of a day",
+            "bn": "দিনের কিছু অংশ ঘুমিয়েছি"
           }
         ]
       },
       {
-        "en": "This profound miracle proved beyond doubt that Allah's promise of resurrection from death on the Day of Judgment is indisputable truth.",
-        "bn": "এই মহান অলৌকিক ঘটনা অকাট্যভাবে প্রমাণ করল যে কেয়ামতের দিন কবর থেকে মানুষকে জীবিত করার আল্লাহর ওয়াদা নিশ্চিত সত্য।",
+        "en": "When the baker recognized the antiquated imperial coinage from three centuries earlier, the miracle was unveiled: the tyrannical empire had crumbled, and a monotheistic Christian king now governed the realm.",
+        "bn": "রুটিওয়ালা যখন তিন শতাব্দী আগের প্রাচীন সম্রাটের মোহরযুক্ত মুদ্রা দেখে চিনতে পারল, তখন এই মহাবিস্ময় প্রকাশিত হলো: সেই অত্যাচারী সাম্রাজ্য বহু আগেই ধ্বংস হয়ে গেছে এবং এখন এক একত্ববাদী বাদশাহ রাজ্য শাসন করছেন।",
         "words": [
           {
-            "en": "This miracle proved",
-            "bn": "এই মুজিজা প্রমাণ করল"
+            "en": "antiquated imperial coinage",
+            "bn": "তিন শতাব্দী প্রাচীন রাজকীয় মুদ্রা"
           },
           {
-            "en": "promise of resurrection",
-            "bn": "পুনরুত্থানের ওয়াদা"
+            "en": "miracle was unveiled",
+            "bn": "অলৌকিক মুজিযা প্রকাশিত হলো"
           },
           {
-            "en": "on Day of Judgment",
-            "bn": "কেয়ামতের দিনে"
+            "en": "tyrannical empire crumbled",
+            "bn": "অত্যাচারী সাম্রাজ্য ধূলিসাৎ হয়ে গেছে"
           },
           {
-            "en": "is indisputable truth",
-            "bn": "এক অনস্বীকার্য সত্য"
+            "en": "monotheistic king",
+            "bn": "একত্ববাদী ধার্মিক বাদশাহ"
+          },
+          {
+            "en": "governed the realm",
+            "bn": "রাজ্য শাসন করছিলেন"
+          }
+        ]
+      },
+      {
+        "en": "The righteous monarch and citizens rushed to the cavern to embrace the living saints, after which the youths peacefully surrendered their souls to Allah, leaving their sanctuary as an eternal monument to the truth of bodily resurrection.",
+        "bn": "ধার্মিক রাজা এবং নগরবাসী গুহায় ছুটে গিয়ে এই মহান অলৌকিক বুজুর্গদের শ্রদ্ধাভরে আলিঙ্গন করলেন; এর পরপরই যুবকেরা পরম শান্তিতে আল্লাহর কাছে প্রাণ সঁপে দিলেন, যা শেষ বিচারের দিনে মানুষের পুনরুত্থানের এক চিরন্তন অকাট্য প্রমাণ হয়ে রইল।",
+        "words": [
+          {
+            "en": "righteous monarch",
+            "bn": "ন্যায়পরায়ণ সৎ বাদশাহ"
+          },
+          {
+            "en": "surrendered souls peacefully",
+            "bn": "পরম শান্তিতে রুহ সঁপে দিলেন"
+          },
+          {
+            "en": "eternal monument",
+            "bn": "চিরন্তন ও অমর স্মৃতিচিহ্ন"
+          },
+          {
+            "en": "bodily resurrection",
+            "bn": "শেষ বিচারের দিনে সশরীরে পুনরুত্থান"
+          },
+          {
+            "en": "living saints",
+            "bn": "জীবন্ত পুণ্যবান সাধকগণ"
           }
         ]
       }
     ]
   },
   {
-    "id": "quranic-dhul-qarnayn",
-    "title": "The Just King Dhul-Qarnayn and the Iron Barrier",
-    "titleBn": "ন্যায়পরায়ণ বাদশাহ জুলকারনাইন ও ইয়াজুজ-মাজুজের প্রাচীর",
-    "author": "Quranic Narrative (Surah Al-Kahf)",
+    "id": "chronicle-dhul-qarnayn-barrier",
+    "title": "Dhul-Qarnayn: The Righteous Conqueror and the Iron Barrier",
+    "titleBn": "যুল-কারনাইন: ন্যায়পরায়ণ বাদশাহ ও ইয়াজুজ-মাজুজের লৌহপ্রাচীর",
+    "author": "Ibn Kathir (Stories of the Prophets) & Surah Al-Kahf",
     "level": "Intermediate",
-    "levelColor": "amber",
-    "category": "Quranic Chronicles",
+    "levelColor": "emerald",
+    "category": "Quranic & Hadith Chronicles",
     "coverEmoji": "🧱",
-    "summary": "Granted authority to reach the farthest corners of east and west, the righteous ruler Dhul-Qarnayn constructs a colossal barrier of iron blocks and molten copper against Gog and Magog.",
-    "summaryBn": "পূর্ব ও পশ্চিম দিগন্ত পর্যন্ত রাজত্বকারী পুণ্যবান বাদশাহ জুলকারনাইন কর্তৃক দুর্গম দুই পাহাড়ের মাঝে লোহা ও গলিত তামার সুবিশাল প্রাচীর তৈরি করে ইয়াজুজ ও মাজুজকে আটকে রাখার মহাকাব্য।",
+    "summary": "Endowed with vast imperial power and technology, King Dhul-Qarnayn marched to the furthest setting and rising places of the sun, establishing justice; reaching a mountain pass where savage tribes of Gog and Magog caused devastation, he forged an unbreachable barrier of molten iron and copper that will stand until the end of time.",
+    "summaryBn": "বিপুল সামরিক ক্ষমতা ও প্রযুক্তির অধিকারী ন্যায়পরায়ণ বাদশাহ যুল-কারনাইন সূর্যের অস্তাচল ও উদয়স্থল পর্যন্ত অভিযান পরিচালনা করে ইনসাফ প্রতিষ্ঠা করেন; দুই পর্বতের মধ্যবর্তী উপত্যকায় পৌঁছে তিনি ইয়াজুজ ও মাজুজের ধ্বংসযজ্ঞ থেকে জনগণকে বাঁচাতে গলিত লোহা ও তামার এক দুর্ভেদ্য মহা প্রাচীর নির্মাণ করেন, যা কিয়ামতের পূর্ব পর্যন্ত অক্ষত থাকবে।",
     "sentences": [
       {
-        "en": "Allah endowed the righteous world sovereign Dhul-Qarnayn with immense dominion and provided him with the means to accomplish all undertakings.",
-        "bn": "আল্লাহ পুণ্যবান ন্যায়পরায়ণ বাদশাহ জুলকারনাইনকে বিশাল রাজত্ব দান করেছিলেন এবং যেকোনো উদ্দেশ্য সফল করার সব উপায়-উপকরণ প্রস্তুত করে দিয়েছিলেন।",
+        "en": "Allah granted the righteous king Dhul-Qarnayn vast earthly dominion, providing him with advanced knowledge, engineering skill, and the material means to accomplish all noble endeavors.",
+        "bn": "আল্লাহ তাআলা ন্যায়পরায়ণ বাদশাহ যুল-কারনাইনকে পৃথিবীর এক বিশাল সাম্রাজ্য দান করেছিলেন এবং তাঁকে উন্নত প্রযুক্তি, প্রকৌশল জ্ঞান এবং মহৎ কাজ সম্পন্ন করার যাবতীয় উপায়-উপকরণ প্রদান করেছিলেন।",
         "words": [
           {
-            "en": "Allah endowed Dhul-Qarnayn",
-            "bn": "আল্লাহ জুলকারনাইনকে ভূষিত করলেন"
+            "en": "righteous king",
+            "bn": "ন্যায়পরায়ণ ও সৎ বাদশাহ"
           },
           {
-            "en": "with immense dominion",
-            "bn": "বিশাল কর্তৃত্ব ও রাজত্ব দিয়ে"
+            "en": "vast earthly dominion",
+            "bn": "পৃথিবীর সুবিশাল সাম্রাজ্য"
           },
           {
-            "en": "provided means for all undertakings",
-            "bn": "সব কাজের উপায় সহজ করে দিলেন"
+            "en": "engineering skill",
+            "bn": "প্রকৌশল ও নির্মাণ কৌশল"
+          },
+          {
+            "en": "material means",
+            "bn": "যাবতীয় উপায় ও রসদ"
+          },
+          {
+            "en": "accomplish endeavors",
+            "bn": "মহৎ উদ্দেশ্য সফল করা"
           }
         ]
       },
       {
-        "en": "He marched to the farthest setting of the sun, encountering a community where he established justice without tyranny.",
-        "bn": "তিনি দূরবর্তী সূর্যাস্তের প্রান্ত পর্যন্ত পৌঁছালেন এবং সেখানে এমন এক জাতির সন্ধান পেলেন যেখানে তিনি ইনসাফের সাথে বিচার করলেন।",
+        "en": "Marching west to the setting of the sun, he discovered it setting in a murky spring where an idolatrous nation dwelled; he established scrupulous justice, punishing tyrants while honoring believers.",
+        "bn": "পশ্চিম দিকে সূর্যের অস্তাচল পর্যন্ত যাত্রা করে তিনি দেখলেন সূর্য যেন এক পঙ্কিল জলাশয়ে অস্ত যাচ্ছে, যেখানে এক পৌত্তলিক জাতি বাস করত; তিনি সেখানে কঠোর ন্যায়বিচার প্রতিষ্ঠা করলেন, জালিমদের শাস্তি দিলেন এবং মুমিনদের সম্মান করলেন।",
         "words": [
           {
-            "en": "Marched to setting of sun",
-            "bn": "সূর্যাস্তের শেষ সীমানায় পৌঁছালেন"
+            "en": "marching west",
+            "bn": "পশ্চিম অভিমুখে যাত্রা করলেন"
           },
           {
-            "en": "established justice",
-            "bn": "ন্যায়বিচার কায়েম করলেন"
+            "en": "setting of the sun",
+            "bn": "সূর্যের অস্তাচল বা পশ্চিমের শেষ সীমানা"
           },
           {
-            "en": "without tyranny",
-            "bn": "কোনো জুলুম অত্যাচার ছাড়া"
+            "en": "murky spring",
+            "bn": "পঙ্কিল বা কালো কর্দমাক্ত জলাশয়"
+          },
+          {
+            "en": "scrupulous justice",
+            "bn": "নিখুঁত ও পক্ষপাতহীন ন্যায়বিচার"
+          },
+          {
+            "en": "punishing tyrants",
+            "bn": "অত্যাচারীদের শাস্তি দেওয়া"
           }
         ]
       },
       {
-        "en": "He then traveled eastward to the rising of the sun, reaching a people with no shelter from its intense rays.",
-        "bn": "এরপর তিনি পূর্ব দিগন্তে সূর্যোদয়ের শেষ প্রান্তে পৌঁছালেন, যেখানে মানুষের কোনো আশ্রয় বা ছায়া ছিল না।",
+        "en": "Next, traversing eastward toward the rising of the sun, he reached a primitive desert population who had no shelter or barriers to shield themselves from the blistering solar heat, extending protection and equity to them.",
+        "bn": "এরপর তিনি পূর্ব দিকে সূর্যের উদয়স্থল পর্যন্ত যাত্রা করে এমন এক আদিম মরুবাসী জাতির কাছে পৌঁছালেন যাদের তীব্র রোদের তাপ থেকে বাঁচার মতো কোনো ঘরবাড়ি বা আশ্রয় ছিল না; তিনি তাদের নিরাপত্তা ও ইনসাফ দান করলেন।",
         "words": [
           {
-            "en": "Traveled eastward",
-            "bn": "পূর্বদিকে যাত্রা করলেন"
+            "en": "traversing eastward",
+            "bn": "পূর্ব দিকে অতিক্রম করলেন"
           },
           {
-            "en": "to the rising of sun",
-            "bn": "সূর্যোদয়ের প্রান্তে"
+            "en": "rising of the sun",
+            "bn": "সূর্যের উদয়স্থল"
           },
           {
-            "en": "no shelter from intense rays",
-            "bn": "প্রখর রোদের কোনো ছায়া ছিল না"
+            "en": "primitive population",
+            "bn": "আদিম ও অনুন্নত জনপদ"
+          },
+          {
+            "en": "no shelter or barriers",
+            "bn": "কোনো ছায়া বা আশ্রয়ের আড়ালহীন"
+          },
+          {
+            "en": "blistering solar heat",
+            "bn": "তপ্ত ও প্রখর রৌদ্রের উত্তাপ"
           }
         ]
       },
       {
-        "en": "Following a northern pass between two towering mountain ranges, he met a secluded tribe who barely understood any foreign tongue.",
-        "bn": "এরপর দুই সুবিশাল পর্বতের মধ্যবর্তী গিরিপথে তিনি এমন এক দুর্গম জাতির দেখা পেলেন যারা অন্য কোনো ভাষা বুঝতে পারত না।",
+        "en": "Continuing his northern campaign between two colossal mountain ranges, he encountered an isolated populace who could scarcely comprehend human speech.",
+        "bn": "উত্তর দিকে দুটি বিশাল পর্বত প্রাচীরের মধ্যবর্তী অঞ্চলে অভিযান চালিয়ে তিনি এমন এক বিচ্ছিন্ন জাতির দেখা পেলেন যাদের ভাষা বোঝা প্রায় অসম্ভব ছিল।",
         "words": [
           {
-            "en": "Between two mountain ranges",
-            "bn": "দুটি পর্বতের মধ্যবর্তী স্থানে"
+            "en": "northern campaign",
+            "bn": "উত্তরাঞ্চলীয় ঐতিহাসিক অভিযান"
           },
           {
-            "en": "met a secluded tribe",
-            "bn": "এক বিচ্ছিন্ন সম্প্রদায়ের দেখা পেলেন"
+            "en": "two colossal mountain ranges",
+            "bn": "দুটি বিশালাকার পর্বতমালা"
           },
           {
-            "en": "barely understood foreign tongue",
-            "bn": "অন্যদের ভাষা বুঝতে পারত না"
+            "en": "isolated populace",
+            "bn": "বিচ্ছিন্ন ও অচেনা জনপদ"
+          },
+          {
+            "en": "scarcely comprehend speech",
+            "bn": "ভাষা বা কথা বুঝতে পারছিল না"
+          },
+          {
+            "en": "encountered",
+            "bn": "মুখোমুখি হলেন"
           }
         ]
       },
       {
-        "en": "They begged through interpreters: 'O Dhul-Qarnayn! Indeed, Gog and Magog (Yajuj and Majuj) corrupt the earth; shall we pay you tribute to build a barrier between us and them?'",
-        "bn": "তারা দোভাষীর মাধ্যমে মিনতি করল: 'হে জুলকারনাইন! নিশ্চয়ই ইয়াজুজ ও মাজুজ জমিনে চরম বিপর্যয় সৃষ্টি করছে; আমরা কি আপনাকে কর দেব যাতে আপনি আমাদের মাঝে এক প্রাচীর বানিয়ে দেন?'",
+        "en": "Through interpreters, they pleaded desperately: 'O Dhul-Qarnayn, indeed Gog and Magog (Yajuj and Majuj) are corrupting the earth; shall we pay you tribute so you will construct a barrier between us and them?'",
+        "bn": "দোভাষীর মাধ্যমে তারা ব্যাকুল হয়ে আরজি জানাল: 'হে যুল-কারনাইন! নিশ্চয়ই ইয়াজুজ ও মাজুজ জমিনে চরম ফ্যাসাদ ও ধ্বংসযজ্ঞ চালাচ্ছে; আমরা কি আপনাকে কর দেব যাতে আপনি আমাদের ও তাদের মাঝে একটি মজবুত প্রাচীর বানিয়ে দেন?'",
         "words": [
           {
-            "en": "Gog and Magog corrupt the earth",
-            "bn": "ইয়াজুজ ও মাজুজ বিপর্যয় সৃষ্টি করে"
+            "en": "through interpreters",
+            "bn": "দোভাষীর মাধ্যমে"
           },
           {
-            "en": "shall we pay you tribute",
-            "bn": "আমরা কি আপনাকে কর প্রদান করব"
+            "en": "Gog and Magog (Yajuj and Majuj)",
+            "bn": "ইয়াজুজ ও মাজুজ জাতি"
           },
           {
-            "en": "to build a barrier",
-            "bn": "এক সুদৃঢ় প্রাচীর নির্মাণ করতে"
+            "en": "corrupting the earth",
+            "bn": "পৃথিবীতে ধ্বংসযজ্ঞ ও রক্তপাত চালানো"
+          },
+          {
+            "en": "pay tribute",
+            "bn": "কর বা রাজস্ব প্রদান করা"
+          },
+          {
+            "en": "construct a barrier",
+            "bn": "একটি মজবুত বাঁধ বা প্রাচীর নির্মাণ করা"
           }
         ]
       },
       {
-        "en": "He replied nobly: 'That in which my Lord has established me is better, but assist me with manpower; I will erect a fortified dam between you and them!'",
-        "bn": "তিনি মহানুভবতায় উত্তর দিলেন: 'আমার রব আমাকে যা দিয়েছেন তা-ই উত্তম, তোমরা আমাকে শুধু শারীরিক শ্রম ও সাহায্য দাও; আমি তোমাদের মাঝে এক দুর্ভেদ্য প্রাচীর বানিয়ে দেব!'",
+        "en": "Refusing personal tribute, the noble monarch replied: 'That in which my Lord has established me is better; simply assist me with physical manpower, and I will construct between you and them a fortified rampart.'",
+        "bn": "ব্যক্তিগত কর বা অর্থ নিতে অস্বীকৃতি জানিয়ে সেই মহান বাদশাহ উত্তর দিলেন: 'আমার প্রতিপালক আমাকে যে শক্তি ও প্রাচুর্য দিয়েছেন তা-ই যথেষ্ট; তোমরা শুধু শারীরিক শ্রম ও লোকবল দিয়ে আমাকে সাহায্য করো, আমি তোমাদের ও তাদের মাঝে এক দুর্ভেদ্য প্রাচীর গড়ে তুলব।'",
         "words": [
           {
-            "en": "What my Lord gave is better",
-            "bn": "আমার রব যা দিয়েছেন তা উত্তম"
+            "en": "refusing personal tribute",
+            "bn": "ব্যক্তিগত কর বা অর্থ প্রত্যাখ্যান করলেন"
           },
           {
-            "en": "assist me with manpower",
-            "bn": "আমাকে শারীরিক শ্রম দিয়ে সাহায্য করো"
+            "en": "what my Lord established is better",
+            "bn": "আমার রব যা দিয়েছেন তা-ই উত্তম"
           },
           {
-            "en": "erect a fortified dam",
-            "bn": "এক সুরক্ষিত প্রাচীর নির্মাণ করব"
+            "en": "assist with manpower",
+            "bn": "শারীরিক লোকবল দিয়ে সাহায্য করো"
+          },
+          {
+            "en": "fortified rampart",
+            "bn": "সুদৃঢ় ও দুর্ভেদ্য প্রাচীর"
+          },
+          {
+            "en": "noble monarch",
+            "bn": "মহৎ বাদশাহ"
           }
         ]
       },
       {
-        "en": "He ordered: 'Bring me blocks of iron!' until he leveled the gap between the two mountain cliffs.",
-        "bn": "তিনি নির্দেশ দিলেন: 'আমার কাছে লোহার বিশাল খণ্ডগুলো নিয়ে এসো!' এমনকি তিনি দুই পাহাড়ের মাঝখানের শূন্যস্থান লোহার স্তূপে পূর্ণ করে দিলেন।",
+        "en": "He commanded them to bring massive blocks of iron until the metallic mass filled the chasm level with the two mountain peaks, and ordered bellows to blow until the iron became white-hot like burning fire.",
+        "bn": "তিনি তাদের বিশালাকার লোহার খণ্ড এনে পাহাড়ের গিরিখাতটি দুই চূড়ার সমান উঁচু করে ভরাট করার নির্দেশ দিলেন; এরপর চারপাশ থেকে হাপর দিয়ে বাতাস দিতে বললেন যতক্ষণ না লোহা আগুনের মতো লাল টকটকে হয়ে উঠল।",
         "words": [
           {
-            "en": "Bring me blocks of iron",
-            "bn": "লোহার খণ্ডগুলো নিয়ে এসো"
+            "en": "massive blocks of iron",
+            "bn": "বিশালাকার লোহার খণ্ডসমূহ"
           },
           {
-            "en": "leveled the gap",
-            "bn": "ফাঁকা স্থান সমান করে দিলেন"
+            "en": "level with mountain peaks",
+            "bn": "পাহাড়ের দুই চূড়ার সমান সমতল"
           },
           {
-            "en": "between two mountain cliffs",
-            "bn": "দুই পাহাড়ের শৃঙ্গের মাঝে"
+            "en": "ordered bellows to blow",
+            "bn": "হাপর দিয়ে বাতাস ফুঁকার নির্দেশ দিলেন"
+          },
+          {
+            "en": "white-hot burning fire",
+            "bn": "আগুনের মতো লাল টকটকে উত্তপ্ত লোহা"
+          },
+          {
+            "en": "chasm filled",
+            "bn": "গিরিখাত ভরাট হয়ে গেল"
           }
         ]
       },
       {
-        "en": "He instructed giant bellows to blow upon it until the metal glowed red like fire, then poured cauldrons of molten copper over it.",
-        "bn": "তিনি বিশাল হাপরে বাতাস দিয়ে লোহাকে আগুনের মতো লাল করতে বললেন, অতঃপর তার ওপর ফুটন্ত গলিত তামা ঢেলে দিলেন।",
+        "en": "Then he poured rivers of molten copper (qitr) over the heated structure, creating a seamless, glassy, and completely impenetrable metallic wall that Gog and Magog could neither scale nor pierce.",
+        "bn": "এরপর তিনি সেই উত্তপ্ত লোহার কাঠামোর ওপর গলিত তামার স্রোত ঢেলে দিলেন; ফলে এটি এমন এক মসৃণ, দুর্ভেদ্য ও অটুট ধাতব প্রাচীরে পরিণত হলো যা ইয়াজুজ-মাজুজ টপকাতেও পারবে না এবং ছিদ্রও করতে পারবে না।",
         "words": [
           {
-            "en": "Bellows blow upon it",
-            "bn": "হাপর দিয়ে বাতাস দেওয়া হলো"
+            "en": "molten copper (qitr)",
+            "bn": "গলিত তামা বা ব্রোঞ্জ"
           },
           {
-            "en": "metal glowed red like fire",
-            "bn": "ধাতু আগুনের মতো লাল হলো"
+            "en": "seamless metallic wall",
+            "bn": "জোড়াহীন অখণ্ড ধাতব প্রাচীর"
           },
           {
-            "en": "poured molten copper",
-            "bn": "গলিত তামা ঢেলে দিলেন"
+            "en": "completely impenetrable",
+            "bn": "সম্পূর্ণ দুর্ভেদ্য ও অজেয়"
+          },
+          {
+            "en": "neither scale nor pierce",
+            "bn": "টপকাতেও পারবে না এবং ছিদ্রও করতে পারবে না"
+          },
+          {
+            "en": "architectural masterpiece",
+            "bn": "স্থাপত্যের মহাবিস্ময়"
           }
         ]
       },
       {
-        "en": "The barrier became so smooth and steep that Gog and Magog could neither scale it nor bore a tunnel through it.",
-        "bn": "প্রাচীরটি এতটাই মসৃণ ও শক্ত হলো যে ইয়াজুজ ও মাজুজ না এর ওপর আরোহণ করতে পারল, না এতে কোনো ছিদ্র করতে সক্ষম হলো।",
+        "en": "Standing before the finished marvel, Dhul-Qarnayn declared with exemplary humility: 'This is a mercy from my Lord; but when the promise of my Lord comes to pass, He will level it to dust, and the promise of my Lord is ever true.'",
+        "bn": "প্রাচীর সম্পন্ন হওয়ার পর সেই অলৌকিক সৃষ্টির সামনে দাঁড়িয়ে যুল-কারনাইন পরম বিনয়ে ঘোষণা করলেন: 'এ আমার প্রতিপালকের বিশেষ রহমত; তবে যখন আমার রবের প্রতিশ্রুত কিয়ামতের সময় আসবে, তিনি এটিকে ধূলিসাৎ করে গুঁড়িয়ে দেবেন, আর আমার রবের প্রতিশ্রুতি চিরন্তন সত্য।'",
         "words": [
           {
-            "en": "Barrier became smooth and steep",
-            "bn": "প্রাচীরটি মসৃণ ও খাড়া হলো"
+            "en": "mercy from my Lord",
+            "bn": "আমার রবের পক্ষ থেকে খাস রহমত"
           },
           {
-            "en": "could neither scale it",
-            "bn": "না উপরে চড়তে পারল"
+            "en": "exemplary humility",
+            "bn": "দৃষ্টান্তমূলক অহংকারহীন বিনয়"
           },
           {
-            "en": "nor bore a tunnel",
-            "bn": "না কোনো সুড়ঙ্গ করতে পারল"
-          }
-        ]
-      },
-      {
-        "en": "Dhul-Qarnayn declared with humility: 'This is a mercy from my Lord; but when the promise of my Lord comes, He will level it to dust, for the promise of my Lord is true!'",
-        "bn": "জুলকারনাইন বিনয়ের সাথে বললেন: 'এ আমার প্রতিপালকের এক বিশেষ রহমত; কিন্তু যখন আমার রবের প্রতিশ্রুত ক্ষণ আসবে, তিনি একে ধুলোয় মিশিয়ে দেবেন, আর আমার রবের ওয়াদা অকাট্য সত্য!'",
-        "words": [
-          {
-            "en": "This is a mercy from my Lord",
-            "bn": "এ আমার রবের পক্ষ থেকে রহমত"
+            "en": "promise of my Lord comes",
+            "bn": "আমার রবের প্রতিশ্রুত দিন (কিয়ামত) আসবে"
           },
           {
-            "en": "when promise of my Lord comes",
-            "bn": "যখন আমার রবের ওয়াদা আসবে"
+            "en": "level it to dust",
+            "bn": "মাটির সাথে মিশিয়ে গুঁড়িয়ে দেবেন"
           },
           {
-            "en": "He will level it to dust",
-            "bn": "তিনি একে ধুলোয় চূর্ণ করবেন"
-          },
-          {
-            "en": "promise of my Lord is true",
-            "bn": "আমার রবের ওয়াদা সত্য"
+            "en": "promise is ever true",
+            "bn": "প্রতিশ্রুতি চিরন্তন ও সত্য"
           }
         ]
       }
     ]
   },
   {
-    "id": "quranic-two-gardens",
-    "title": "The Owner of Two Lush Gardens and the Test of Gratitude",
-    "titleBn": "দুই বাগানের গর্বিত মালিক ও অকৃতজ্ঞতার করুণ পরিণতি",
-    "author": "Quranic Narrative (Surah Al-Kahf)",
+    "id": "chronicle-luqman-wisdom",
+    "title": "Luqman al-Hakim: The Precepts of Parental Wisdom and Humility",
+    "titleBn": "লুকমান আল-হাকিম: প্রজ্ঞার উপদেশমালা ও পিতা-পুত্রের অমর কথকতা",
+    "author": "Ibn Kathir (Stories of the Prophets) & Surah Luqman",
     "level": "Intermediate",
-    "levelColor": "rose",
-    "category": "Quranic Chronicles",
-    "coverEmoji": "🍇",
-    "summary": "A parable of two men: one endowed with twin bountiful vineyards lined with date palms who arrogantly boasts of immortality, and a humble believer who warns him to say 'Masha'Allah'.",
-    "summaryBn": "আঙুর ও খেজুরের দুটি সমৃদ্ধ বাগানের অহংকারী মালিক কর্তৃক কিয়ামতকে অস্বীকার করা এবং পুণ্যবান দরিদ্র বন্ধুর 'মাশাআল্লাহ' বলার উপদেশ সত্ত্বেও অকৃতজ্ঞতার কারণে এক রাতে বাগান ধ্বংসের ঘটনা।",
+    "levelColor": "emerald",
+    "category": "Quranic & Hadith Chronicles",
+    "coverEmoji": "🦉",
+    "summary": "An African sage and humble carpenter gifted with extraordinary divine wisdom (hikmah), Luqman imparted timeless moral advice to his beloved son, warning against the cosmic injustice of polytheism, instilling awareness of Allah's omniscience even regarding a mustard seed, and commanding modesty in speech and gait.",
+    "summaryBn": "ঐশী প্রজ্ঞায় ভূষিত আফ্রিকান কৃষ্ণাঙ্গ সাধক ও কাঠমিস্ত্রি লুকমান হাকিম নিজের প্রাণপ্রিয় সন্তানকে এমন কিছু কালজয়ী উপদেশ দিয়েছিলেন যা কোরআনে চিরস্মরণীয়; তিনি শিরকের মহা অবিচার সম্পর্কে সাবধান করেন, সরিষার দানার সমান গোপন আমলের হিসাব সম্পর্কে সজাগ করেন এবং আচরণ ও কথার মধ্যে বিনয় অবলম্বনের নির্দেশ দেন।",
     "sentences": [
       {
-        "en": "The Quran presents the parable of two men, one of whom Allah blessed with two splendid vineyards surrounded by date palms and lush cereal fields.",
-        "bn": "কুরআনে দুই ব্যক্তির দৃষ্টান্ত দেওয়া হয়েছে, যাদের একজনকে আল্লাহ দুটি সুরম্য আঙুর বাগান, খেজুরের সারি ও শস্যক্ষেতের বিপুল প্রাচুর্য দান করেছিলেন।",
+        "en": "Luqman was a humble, pious Nubian carpenter residing in ancient Egypt, endowed by Allah with profound wisdom (hikmah), deep insight, and a remarkably eloquent and measured tongue.",
+        "bn": "লুকমান ছিলেন প্রাচীন মিশরে বসবাসকারী নুবিয়ার এক অত্যন্ত সাদাসিধে ও পুণ্যবান কৃষ্ণাঙ্গ কাঠমিস্ত্রি, যাঁকে আল্লাহ গভীর প্রজ্ঞা (হিকমত), সূক্ষ্ম অন্তর্দৃষ্টি এবং পরিশীলিত ও সংযত ভাষা দান করেছিলেন।",
         "words": [
           {
-            "en": "Quran presents the parable",
-            "bn": "কুরআন এক দৃষ্টান্ত দেয়"
+            "en": "Nubian carpenter",
+            "bn": "নুবিয়ার কৃষ্ণাঙ্গ কাঠমিস্ত্রি"
           },
           {
-            "en": "two splendid vineyards",
-            "bn": "দুটি সুন্দর আঙুর বাগান"
+            "en": "profound wisdom (hikmah)",
+            "bn": "গভীর প্রজ্ঞা ও হিকমত"
           },
           {
-            "en": "surrounded by date palms",
-            "bn": "খেজুরের গাছ দিয়ে ঘেরা"
+            "en": "measured tongue",
+            "bn": "সংযত ও মার্জিত ভাষা"
           },
           {
-            "en": "and lush cereal fields",
-            "bn": "ও সতেজ শস্যক্ষেত"
+            "en": "deep insight",
+            "bn": "গভীর অন্তর্দৃষ্টি"
+          },
+          {
+            "en": "humble and pious",
+            "bn": "বিনম্র ও পরহেজগার"
           }
         ]
       },
       {
-        "en": "A clear river flowed between the two estates, yielding bumper crops without any shortfall.",
-        "bn": "উভয় বাগানের বুক চিরে এক সুপেয় নদী বয়ে যেত এবং কোনো ঘাটতি ছাড়াই তা প্রচুর পরিমাণে ফল দান করত।",
+        "en": "Offered the choice between the immense burdens of prophethood or divine wisdom, Luqman chose wisdom, knowing that grateful servitude to Allah was the highest virtue.",
+        "bn": "নবুয়তের গুরুদায়িত্ব অথবা ঐশী প্রজ্ঞার মধ্যে বেছে নেওয়ার সুযোগ দেওয়া হলে লুকমান প্রজ্ঞাকেই বেছে নিয়েছিলেন, কারণ তিনি জানতেন আল্লাহর একনিষ্ঠ কৃতজ্ঞ বান্দা হওয়াই মানবজীবনের শ্রেষ্ঠ সৌভাগ্য।",
         "words": [
           {
-            "en": "A clear river flowed",
-            "bn": "এক স্বচ্ছ নদী বয়ে যেত"
+            "en": "burdens of prophethood",
+            "bn": "নবুয়তের গুরুদায়িত্ব"
           },
           {
-            "en": "between the two estates",
-            "bn": "দুই বাগানের মাঝখান দিয়ে"
+            "en": "chose divine wisdom",
+            "bn": "ঐশী হিকমত বা প্রজ্ঞা বেছে নিলেন"
           },
           {
-            "en": "yielding bumper crops",
-            "bn": "প্রচুর ফসল উৎপাদন করত"
+            "en": "grateful servitude",
+            "bn": "কৃতজ্ঞতাপূর্ণ দাসত্ব ও আনুগত্য"
           },
           {
-            "en": "without any shortfall",
-            "bn": "কোনো ঘাটতি ছাড়াই"
+            "en": "highest virtue",
+            "bn": "সর্বোচ্চ চারিত্রিক মহত্ত্ব"
+          },
+          {
+            "en": "choice offered",
+            "bn": "পছন্দ করার সুযোগ দেওয়া হলো"
           }
         ]
       },
       {
-        "en": "Swollen with pride, the wealthy owner boasted to his poor companion: 'I am greater than you in wealth and mightier in manpower!'",
-        "bn": "অহংকারে অন্ধ হয়ে ধনী মালিক তার দরিদ্র সঙ্গীকে বলল: 'আমি তোমার চেয়ে সম্পদে বহুগুণ বড় এবং লোকবলে অনেক বেশি শক্তিশালী!'",
+        "en": "Sitting with his beloved son to nurture his soul, Luqman began his counsel with the supreme foundation of monotheism: 'O my son, do not associate anything with Allah; indeed, polytheism is a tremendous injustice.'",
+        "bn": "নিজের প্রিয় সন্তানের আত্মাকে খাঁটি আলোয় গড়ে তুলতে লুকমান তাঁর উপদেশ শুরু করলেন তাওহীদের মৌলিক ভিত্তি দিয়ে: 'হে প্রিয় বৎস! আল্লাহর সাথে কাউকে শরিক করো না; নিশ্চয়ই শিরক হলো এক মহা জুলুম বা চরম অবিচার।'",
         "words": [
           {
-            "en": "Swollen with pride",
-            "bn": "অহংকারে মত্ত হয়ে"
+            "en": "nurture his soul",
+            "bn": "তার আত্মাকে গড়ে তোলা"
           },
           {
-            "en": "boasted to his companion",
-            "bn": "তার সঙ্গীর কাছে দম্ভ করল"
+            "en": "foundation of monotheism",
+            "bn": "তাওহীদ বা একত্ববাদের মূল ভিত্তি"
           },
           {
-            "en": "greater than you in wealth",
-            "bn": "সম্পদে তোমার চেয়ে বড়"
+            "en": "do not associate partners",
+            "bn": "আল্লাহর সাথে কাউকে শরিক কোরো না"
           },
           {
-            "en": "mightier in manpower",
-            "bn": "জনবলে অনেক বেশি শক্তিশালী"
+            "en": "polytheism is injustice",
+            "bn": "শিরক হলো চরম অন্যায় ও মহাপাপ"
+          },
+          {
+            "en": "tremendous injustice (Zulm Azim)",
+            "bn": "মহা জুলুম (জুলমুন আযীম)"
           }
         ]
       },
       {
-        "en": "Entering his garden, he committed wrongdoing against his own soul, declaring: 'I do not think that this will ever perish, nor do I think the Hour of Judgment will occur!'",
-        "bn": "নিজের বাগানে অহংকারে পা দিয়ে সে নিজের ওপর জুলুম করল এবং বলল: 'আমি মনে করি না এই বাগান কোনো দিন ধ্বংস হবে, আর কিয়ামত বলেও কিছু ঘটবে না!'",
+        "en": "He instilled within him acute consciousness of Allah's flawless omniscience: 'O my son, even if an act be the weight of a mustard seed, hidden inside a solid boulder, or somewhere in the heavens or earth, Allah will bring it forth!'",
+        "bn": "তিনি সন্তানের অন্তরে আল্লাহর নিখুঁত জ্ঞানের ভয় জাগ্রত করে বললেন: 'হে আমার ছেলে! কোনো আমল যদি একটি সরিষার দানার সমানও হয় এবং তা যদি শক্ত পাথরের ভেতরে কিংবা আসমান ও জমিনের যেকোনো গোপন কোণেও লুকায়িত থাকে, আল্লাহ তা কিয়ামতের দিন হাজির করবেনই!'",
         "words": [
           {
-            "en": "Entering his garden",
-            "bn": "নিজের বাগানে প্রবেশ করে"
+            "en": "flawless omniscience",
+            "bn": "নিখুঁত ও সর্বজ্ঞ ঐশী জ্ঞান"
           },
           {
-            "en": "wrongdoing against his soul",
-            "bn": "নিজের আত্মার ওপর জুলুম করে"
-          },
-          {
-            "en": "this will ever perish",
-            "bn": "এটি কোনো দিন ধ্বংস হবে"
-          },
-          {
-            "en": "Hour of Judgment will occur",
-            "bn": "কেয়ামত কোনো দিন ঘটবে"
-          }
-        ]
-      },
-      {
-        "en": "His poor, faithful friend admonished him: 'Do you disbelieve in Him who created you from dust, then from a sperm-drop, then fashioned you into a complete man?'",
-        "bn": "তার দরিদ্র মুমিন বন্ধু তাকে স্মরণ করিয়ে দিয়ে বলল: 'তুমি কি সেই রবকে অস্বীকার করছ যিনি তোমাকে মাটি থেকে সৃষ্টি করেছেন, অতঃপর শুক্রবিন্দু থেকে পূর্ণাঙ্গ মানুষ বানিয়েছেন?'",
-        "words": [
-          {
-            "en": "Faithful friend admonished him",
-            "bn": "বিশ্বাসী বন্ধু তাকে সতর্ক করল"
-          },
-          {
-            "en": "Do you disbelieve in Him",
-            "bn": "তুমি কি তাঁকে অস্বীকার করো"
-          },
-          {
-            "en": "created you from dust",
-            "bn": "যিনি মাটি থেকে তোমাকে বানিয়েছেন"
-          },
-          {
-            "en": "fashioned into a man",
-            "bn": "পূর্ণাঙ্গ মানুষ হিসেবে রূপ দিয়েছেন"
-          }
-        ]
-      },
-      {
-        "en": "He urged: 'Why did you not say when entering your garden: 'Masha'Allah! La quwwata illa billah' (What Allah willed! There is no power except through Allah)?'",
-        "bn": "সে পরামর্শ দিল: 'তুমি যখন তোমার বাগানে প্রবেশ করেছিলে তখন কেন বললে না: 'মাশাআল্লাহ! লা কুওয়াতা ইল্লা বিল্লাহ' (আল্লাহ যা চেয়েছেন তা-ই হয়েছে! আল্লাহর সাহায্য ছাড়া কোনো ক্ষমতা নেই)?'",
-        "words": [
-          {
-            "en": "Why did you not say",
-            "bn": "কেন তুমি বললে না"
-          },
-          {
-            "en": "when entering your garden",
-            "bn": "যখন তোমার বাগানে ঢুকলে"
-          },
-          {
-            "en": "Masha'Allah",
-            "bn": "মাশাআল্লাহ"
-          },
-          {
-            "en": "La quwwata illa billah",
-            "bn": "লা কুওয়াতা ইল্লা বিল্লাহ"
-          }
-        ]
-      },
-      {
-        "en": "Suddenly, a devastating calamity struck from the sky while he slept, uprooting the trellises and leaving the lush vines withered to ash.",
-        "bn": "হঠাৎ রাতের আঁধারে আকাশ থেকে এক বিধ্বংসী গজব আঘাত হানল, যা আঙুরের মাচাগুলোকে ধসিয়ে দিল এবং সমস্ত বাগানকে পোড়া ছাইয়ের স্তূপে পরিণত করল।",
-        "words": [
-          {
-            "en": "A calamity struck from the sky",
-            "bn": "আকাশ থেকে এক দুর্যোগ নামল"
-          },
-          {
-            "en": "uprooting the trellises",
-            "bn": "মাচাগুলোকে উপড়ে ফেলে দিয়ে"
-          },
-          {
-            "en": "leaving vines withered to ash",
-            "bn": "আঙুরলতাকে শুকনো ছাইয়ে পরিণত করে"
-          }
-        ]
-      },
-      {
-        "en": "In the morning, the owner stood wringing his hands in helpless grief over all he had invested, crying: 'Oh, I wish I had never associated anyone with my Lord!'",
-        "bn": "সকালে মালিক এসে নিজের বিনিয়োগের ধ্বংসাবশেষ দেখে আফসোসে হাত কচলাতে লাগল এবং বিলাপ করল: 'হায়! আমি যদি আমার রবের সাথে কাউকে শরিক না করতাম!'",
-        "words": [
-          {
-            "en": "Wringing his hands in grief",
-            "bn": "আফসোসে হাত কচলাতে লাগল"
-          },
-          {
-            "en": "over all he invested",
-            "bn": "তার সমস্ত বিনিয়োগের ওপর"
-          },
-          {
-            "en": "I wish I had never associated",
-            "bn": "হায় আমি যদি শরিক না করতাম"
-          },
-          {
-            "en": "with my Lord",
-            "bn": "আমার রবের সাথে"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "id": "quranic-luqman-wisdom",
-    "title": "The Timeless Fatherly Wisdom of Luqman to His Son",
-    "titleBn": "জ্ঞানী হযরত লুকমান (আ.) কর্তৃক পুত্রকে প্রদত্ত অমর উপদেশমালা",
-    "author": "Quranic Narrative (Surah Luqman)",
-    "level": "Intermediate",
-    "levelColor": "amber",
-    "category": "Quranic Chronicles",
-    "coverEmoji": "📜",
-    "summary": "Endowed with extraordinary wisdom from Allah, Luqman counsels his beloved son on pure monotheism, kindness to parents, prayer, humility in walking, and modesty in speech.",
-    "summaryBn": "আল্লাহর পক্ষ থেকে প্রজ্ঞা লাভকারী মহাজ্ঞানী লুকমান কর্তৃক পুত্রকে শিরক বর্জন, পিতা-মাতার সেবা, নামাজ কায়েম, সৎকাজের আদেশ এবং অহংকারমুক্ত বিনম্র আচরণের উপদেশমালা।",
-    "sentences": [
-      {
-        "en": "Allah endowed the sage Luqman with profound wisdom, commanding him to be grateful to Allah for all blessings.",
-        "bn": "আল্লাহ মহাজ্ঞানী লুকমানকে গভীর প্রজ্ঞা দান করেছিলেন এবং সকল নিয়ামতের জন্য আল্লাহর কৃতজ্ঞতা আদায়ের নির্দেশ দিয়েছিলেন।",
-        "words": [
-          {
-            "en": "Allah endowed Luqman",
-            "bn": "আল্লাহ লুকমানকে ভূষিত করলেন"
-          },
-          {
-            "en": "with profound wisdom",
-            "bn": "গভীর প্রজ্ঞা ও হিকমত দিয়ে"
-          },
-          {
-            "en": "commanding him to be grateful",
-            "bn": "তাঁকে কৃতজ্ঞ হতে নির্দেশ দিয়ে"
-          }
-        ]
-      },
-      {
-        "en": "Luqman tenderly advised his son: 'O my dear son! Do not associate anything with Allah; indeed, polytheism is an immense injustice.'",
-        "bn": "লুকমান পরম মমতায় তাঁর পুত্রকে উপদেশ দিলেন: 'হে আমার প্রিয় বৎস! আল্লাহর সাথে কাউকে শরিক কোরো না; নিশ্চয়ই শিরক হলো এক মহা জুলুম।'",
-        "words": [
-          {
-            "en": "Luqman tenderly advised",
-            "bn": "লুকমান স্নেহের সাথে উপদেশ দিলেন"
-          },
-          {
-            "en": "O my dear son",
-            "bn": "হে আমার প্রিয় বৎস"
-          },
-          {
-            "en": "Do not associate with Allah",
-            "bn": "আল্লাহর সাথে শরিক কোরো না"
-          },
-          {
-            "en": "polytheism is an immense injustice",
-            "bn": "শিরক হলো এক চরমতম অন্যায়"
-          }
-        ]
-      },
-      {
-        "en": "He reminded him of Allah's infinite omniscience: 'Even if a deed is the weight of a mustard seed inside a rock, or in the heavens, or in the earth, Allah will bring it forth!'",
-        "bn": "তিনি আল্লাহর নিখুঁত জ্ঞানের কথা স্মরণ করিয়ে দিয়ে বললেন: 'যদি কোনো আমল পাথরের ভেতর, কিংবা আসমানে বা জমিনের গভীরে একটি সরিষার দানার সমানও হয়, আল্লাহ তা কিয়ামতে উপস্থিত করবেন!'",
-        "words": [
-          {
-            "en": "Weight of a mustard seed",
+            "en": "weight of a mustard seed",
             "bn": "একটি সরিষার দানার সমান ওজন"
           },
           {
-            "en": "inside a rock",
-            "bn": "পাথরের গভীরে"
-          },
-          {
-            "en": "or in the heavens or earth",
-            "bn": "কিংবা আসমানে বা জমিনে"
+            "en": "solid boulder",
+            "bn": "শক্ত ও নিরেট পাথর"
           },
           {
             "en": "Allah will bring it forth",
-            "bn": "আল্লাহ তা বের করে আনবেন"
+            "bn": "আল্লাহ তা প্রকাশ ও হাজির করবেন"
+          },
+          {
+            "en": "heavens or earth",
+            "bn": "আসমান কিংবা জমিন"
           }
         ]
       },
       {
-        "en": "He commanded: 'O my son! Establish regular prayer, enjoin what is right, forbid what is wrong, and bear with patience whatever befalls you.'",
-        "bn": "তিনি নির্দেশ দিলেন: 'হে আমার বৎস! নিয়মিত নামাজ কায়েম করো, সৎকাজের আদেশ দাও, অসৎকাজ থেকে নিষেধ করো এবং তোমার ওপর যে বিপদই আসুক না কেন তাতে ধৈর্য ধারণ করো।'",
+        "en": "Commanding religious dedication and social responsibility, he instructed: 'O my son, establish prayer, enjoin what is right, forbid what is wrong, and be patient over what befalls you; indeed, that is of the matters requiring determination.'",
+        "bn": "ধর্মীয় নিষ্ঠা ও সামাজিক দায়িত্বের নির্দেশ দিয়ে তিনি বললেন: 'হে আমার বৎস! নামাজ কায়েম করো, সৎকাজের আদেশ দাও, অসৎকাজ থেকে নিষেধ করো এবং তোমার ওপর আসা বিপদে ধৈর্য ধারণ করো; নিশ্চয়ই এগুলো সুদৃঢ় সংকল্পের কাজ।'",
         "words": [
           {
-            "en": "Establish regular prayer",
-            "bn": "নিয়মিত নামাজ কায়েম করো"
+            "en": "establish prayer",
+            "bn": "নামাজ কায়েম করো"
           },
           {
             "en": "enjoin what is right",
-            "bn": "সৎকাজের আদেশ দাও"
+            "bn": "সৎকাজের আদেশ দেওয়া (আমুর বিল মা'রুফ)"
           },
           {
             "en": "forbid what is wrong",
-            "bn": "অসৎকাজে নিষেধ করো"
+            "bn": "অন্যায় কাজ থেকে বারণ করা (নাহী আনিল মুনকার)"
           },
           {
-            "en": "bear with patience",
-            "bn": "ধৈর্যের সাথে সহ্য করো"
+            "en": "patient over what befalls you",
+            "bn": "বিপদে ধৈর্য ধারণ করা"
+          },
+          {
+            "en": "requiring determination",
+            "bn": "দৃঢ়সংকল্প ও সাহসের কাজ"
           }
         ]
       },
       {
-        "en": "He cautioned against social arrogance: 'And do not turn your cheek away from people in contempt, nor walk upon the earth exultantly; indeed, Allah does not like anyone self-deluded and boastful.'",
-        "bn": "তিনি অহংকারের বিরুদ্ধে সতর্ক করলেন: 'মানুষের দিক থেকে অবজ্ঞায় মুখ ফিরিয়ে নিয়ো না, আর জমিনের বুকে দম্ভভরে চলো না; নিশ্চয়ই আল্লাহ কোনো অহংকারী আত্মগর্বীকে পছন্দ করেন না।'",
+        "en": "He warned against arrogance and snobbery: 'And do not turn your cheek in contempt toward people, nor walk insolently through the earth; indeed, Allah does not love any self-deluded boaster.'",
+        "bn": "অহংকার ও দাম্ভিকতার বিরুদ্ধে সতর্ক করে তিনি বললেন: 'অহংকারে মানুষের দিক থেকে মুখ ফিরিয়ে নিয়ো না, এবং জমিনে উদ্ধতভাবে পদচারণা কোরো না; নিশ্চয়ই আল্লাহ কোনো দাম্ভিক ও অহংকারীকে ভালোবাসেন না।'",
         "words": [
           {
-            "en": "Do not turn cheek in contempt",
-            "bn": "ঘৃণায় মুখ ফিরিয়ে নিয়ো না"
+            "en": "turn cheek in contempt",
+            "bn": "তাচ্ছিল্যভরে মুখ ফিরিয়ে নেওয়া"
           },
           {
-            "en": "nor walk upon earth exultantly",
-            "bn": "জমিনের বুকে অহংকারে চলো না"
+            "en": "walk insolently",
+            "bn": "উদ্ধত ও দাম্ভিক পদক্ষেপে চলা"
           },
           {
-            "en": "Allah does not like boastful",
-            "bn": "আল্লাহ অহংকারীকে ভালোবাসেন না"
+            "en": "self-deluded boaster",
+            "bn": "আত্মমুগ্ধ দাম্ভিক ও অহংকারী"
+          },
+          {
+            "en": "does not love arrogant",
+            "bn": "অহংকারীকে আল্লাহ ভালোবাসেন না"
+          },
+          {
+            "en": "social ethics",
+            "bn": "সামাজিক আদব ও শিষ্টাচার"
           }
         ]
       },
       {
-        "en": "He concluded: 'And be moderate in your pace and lower your voice; indeed, the most disagreeable of sounds is the braying of donkeys.'",
-        "bn": "তিনি পরিসমাপ্তি টানলেন: 'তোমার চলনভঙ্গিতে মধ্যপন্থা অবলম্বন করো এবং তোমার কণ্ঠস্বর নিচু রাখো; নিশ্চয়ই কণ্ঠের মধ্যে সবচেয়ে অপ্রীতিকর হলো গাধার কর্কশ চিৎকার।'",
+        "en": "Finally, prescribing modesty in deportment and speech, Luqman concluded: 'Be moderate in your pace and lower your voice; indeed, the harshest of all sounds is the braying of donkeys.'",
+        "bn": "সর্বশেষে চলাফেরা ও কথার পরিমিতিবোধ শিখিয়ে লুকমান বললেন: 'তোমার চলার গতিতে মধ্যপন্থা অবলম্বন করো এবং তোমার কণ্ঠস্বর নিচু রাখো; নিশ্চয়ই সবচেয়ে কর্কশ ও অপছন্দনীয় আওয়াজ হলো গাধার বিকট ডাক।'",
         "words": [
           {
-            "en": "Be moderate in your pace",
-            "bn": "তোমার চলায় মধ্যপন্থা ধরো"
+            "en": "moderate in pace",
+            "bn": "চলার গতিতে ভারসাম্য বা মধ্যপন্থা"
           },
           {
             "en": "lower your voice",
-            "bn": "তোমার আওয়াজ নিচু করো"
+            "bn": "নিজের কণ্ঠস্বর নিচু ও কোমল রাখা"
           },
           {
-            "en": "most disagreeable sound",
-            "bn": "সবচেয়ে অপ্রীতিকর আওয়াজ"
+            "en": "harshest of all sounds",
+            "bn": "সবচেয়ে অপ্রীতিকর ও কর্কশ আওয়াজ"
           },
           {
-            "en": "is the braying of donkeys",
-            "bn": "হলো গাধার চিৎকার"
+            "en": "braying of donkeys",
+            "bn": "গাধার চিৎকার বা কর্কশ ডাক"
+          },
+          {
+            "en": "prescribing modesty",
+            "bn": "নম্রতা ও বিনয়ের উপদেশ দেওয়া"
           }
         ]
       }
     ]
   },
   {
-    "id": "quranic-ashab-al-ukhdud",
-    "title": "The Boy, the Magician, and Believers of the Blazing Trench",
-    "titleBn": "আসহাবে উখদুদ: সত্যবাদী বালক ও অগ্নিকুণ্ডের মুমিনরা",
-    "author": "Authentic Hadith (Sahih Muslim) & Surah Al-Buruj",
+    "id": "chronicle-ashab-ukhdud",
+    "title": "Ashab al-Ukhdud: The Martyrs of the Trench and the Courageous Boy",
+    "titleBn": "আসহাবে উখদুদ: ঈমানের অমর আত্মত্যাগ ও খাদে জ্বলন্ত আগুনের শহীদগণ",
+    "author": "Ibn Kathir, Sahih Muslim & Surah Al-Buruj",
     "level": "Intermediate",
-    "levelColor": "rose",
-    "category": "Quranic Chronicles",
+    "levelColor": "emerald",
+    "category": "Quranic & Hadith Chronicles",
     "coverEmoji": "🔥",
-    "summary": "Apprenticed to a royal sorcerer, a perceptive boy discovers true faith from a monk, defies a tyrant king through miraculous survival, and converts an entire nation before being martyred in a trench of fire.",
-    "summaryBn": "রাজকীয় জাদুকরের শিষ্য হয়েও এক নির্জন দরবেশের কাছে সত্য দ্বীন লাভ করা বালক, শত চেষ্টাতেও রাজার হাতে নিহত না হয়ে একমাত্র আল্লাহর নামে তীরের আঘাতে শাহাদাত এবং লাখো মানুষের ঈমান গ্রহণের মহাকাব্য।",
+    "summary": "In pre-Islamic Yemen, a young boy trained by both a court magician and a hidden Christian monk chose monotheism; after surviving assassinations from mountains and sea, the boy revealed that the king could only slay him by shooting an arrow in the name of Allah, inspiring an entire city to embrace faith and die in fiery trenches.",
+    "summaryBn": "প্রাচীন ইয়েমেনের এক তরুণ রাজকীয় জাদুকর ও এক গোপন সত্যপন্থী দরবেশের দ্বন্দ্বে একত্ববাদকে সত্য হিসেবে বেছে নেয়; পাহাড় থেকে ফেলে দেওয়া ও সমুদ্রে ডুবিয়ে মারার চেষ্টা থেকে অলৌকিকভাবে বেঁচে গিয়ে সেই বালক রাজাকে আল্লাহর নামে তীর মেরে তাকে বধ করার গোপন উপায় বলে দেয়; এর ফলে পুরো জনপদ ঈমান আনে এবং জ্বলন্ত খাদের আগুনে হাসিমুখে শাহাদাত বরণ করে।",
     "sentences": [
       {
-        "en": "In ancient Yemen, a tyrannical king employed a court sorcerer, who asked for an intelligent boy to train in black magic before he aged.",
-        "bn": "প্রাচীন ইয়েমেনে এক অহংকারী রাজা বাস করত যার এক বৃদ্ধ জাদুকর ছিল; জাদুকর তার মৃত্যুর পূর্বে জাদুবিদ্যা শেখানোর জন্য এক বুদ্ধিমান বালক চেয়ে নিল।",
+        "en": "In ancient Najran in Southern Arabia, an arrogant tyrannical king claimed divinity, employing a cunning royal sorcerer to manipulate and terrorize the illiterate populace.",
+        "bn": "দক্ষিণ আরবের প্রাচীন নাজরানে এক স্বৈরাচারী রাজা নিজেকে খোদা দাবি করত এবং প্রজাদের মনে ভয় ঢুকিয়ে বশে রাখতে এক ধূর্ত রাজকীয় জাদুকরকে ব্যবহার করত।",
         "words": [
           {
-            "en": "Tyrannical king in Yemen",
-            "bn": "ইয়ামেনের এক স্বৈরাচারী রাজা"
+            "en": "ancient Najran",
+            "bn": "প্রাচীন নাজরান অঞ্চল"
           },
           {
-            "en": "employed a court sorcerer",
-            "bn": "দরবারে এক জাদুকর রাখল"
+            "en": "tyrannical king claimed divinity",
+            "bn": "স্বৈরাচারী রাজা খোদায়ী দাবি করল"
           },
           {
-            "en": "asked for an intelligent boy",
-            "bn": "এক বুদ্ধিমান বালক চাইল"
+            "en": "royal sorcerer",
+            "bn": "রাজপ্রাসাদের ধূর্ত জাদুকর"
           },
           {
-            "en": "to train in black magic",
-            "bn": "কালো জাদু শিক্ষা দেওয়ার জন্য"
+            "en": "manipulate and terrorize",
+            "bn": "ভয় দেখিয়ে বশীভূত করে রাখা"
+          },
+          {
+            "en": "illiterate populace",
+            "bn": "অশিক্ষিত সাধারণ প্রজাসাধারণ"
           }
         ]
       },
       {
-        "en": "On his daily walk to the sorcerer, the boy encountered a devout monk living in seclusion and was captivated by his teachings of monotheism.",
-        "bn": "জাদুকরের কাছে যাওয়ার পথে বালকটি এক নিভৃতচারী দরবেশের সন্ধান পেল এবং তাঁর একত্ববাদের সত্য শিক্ষায় গভীরভাবে আকৃষ্ট হয়ে পড়ল।",
+        "en": "Growing old, the magician requested an intelligent apprentice to inherit his occult arts, and the king selected a brilliant youth named Ghulam to master the dark secrets.",
+        "bn": "জাদুকর বৃদ্ধ হয়ে পড়লে তার মায়াবিদ্যা শিখিয়ে যাওয়ার জন্য একজন মেধাবী বালক চাইলে রাজা এক প্রখর বুদ্ধিমান কিশোরকে তার কাছে শিক্ষানবিস হিসেবে পাঠাল।",
         "words": [
           {
-            "en": "Encountered a devout monk",
-            "bn": "এক পুণ্যবান দরবেশের দেখা পেল"
+            "en": "intelligent apprentice",
+            "bn": "মেধাবী শিক্ষানবিস বা ছাত্র"
           },
           {
-            "en": "living in seclusion",
-            "bn": "নিভৃতে বসবাসকারী"
+            "en": "inherit occult arts",
+            "bn": "জাদু ও মায়াবিদ্যার উত্তরাধিকার লাভ"
           },
           {
-            "en": "captivated by monotheism",
-            "bn": "একত্ববাদের শিক্ষায় বিমুগ্ধ হলো"
+            "en": "selected brilliant youth",
+            "bn": "মেধাবী কিশোরকে নির্বাচন করল"
+          },
+          {
+            "en": "dark secrets",
+            "bn": "জাদুর অন্ধকার কুৎসিত রহস্য"
+          },
+          {
+            "en": "growing old",
+            "bn": "বার্ধক্যে উপনীত হওয়া"
           }
         ]
       },
       {
-        "en": "One day, a fearsome beast blocked the highway; the boy picked up a pebble, prayed to the God of the monk, and slew the beast with one throw.",
-        "bn": "একদিন এক ভয়াল হিংস্র প্রাণী মানুষের পথ আটকে দিলে বালকটি একখণ্ড পাথর তুলে দরবেশের রবের নামে দোয়া করে নিক্ষেপ করল এবং প্রাণীটি মারা পড়ল।",
+        "en": "On his daily walk to the palace, the boy encountered a secluded monotheistic hermit who taught him the sublime truth of the one true God, causing the boy's heart to abandon sorcery for faith.",
+        "bn": "প্রাসাদে যাওয়ার পথে বালকটি এক নির্জন কুটিরে থাকা একত্ববাদী দরবেশের দেখা পেল, যিনি তাকে এক সত্য আল্লাহর তাওহীদের শিক্ষা দিলেন; এর ফলে বালকের অন্তর জাদুকে ঘৃণা করে ঈমানের আলোয় উদ্ভাসিত হলো।",
         "words": [
           {
-            "en": "A fearsome beast blocked the road",
-            "bn": "ভয়ংকর এক প্রাণী পথ রোধ করল"
+            "en": "secluded hermit",
+            "bn": "নির্জনবাসী সাধক বা দরবেশ"
           },
           {
-            "en": "the boy picked up a pebble",
-            "bn": "বালকটি একখণ্ড পাথর তুলল"
+            "en": "sublime truth",
+            "bn": "মহান ও অপার্থিব সত্য"
           },
           {
-            "en": "prayed to God of the monk",
-            "bn": "দরবেশের রবের কাছে দোয়া করল"
+            "en": "one true God",
+            "bn": "একমাত্র সত্য প্রতিপালক"
           },
           {
-            "en": "slew the beast with one throw",
-            "bn": "এক আঘাতেই প্রাণীটিকে হত্যা করল"
+            "en": "abandoned sorcery",
+            "bn": "জাদুবিদ্যা চিরতরে ত্যাগ করল"
+          },
+          {
+            "en": "faith",
+            "bn": "নিখাদ বিশ্বাস বা ঈমান"
           }
         ]
       },
       {
-        "en": "The boy began curing the blind and lepers by praying to Allah, making patients promise to believe in the One True God before healing.",
-        "bn": "বালকটি আল্লাহর কাছে দোয়া করে জন্মান্ধ ও কুষ্ঠরোগীদের সুস্থ করতে লাগল, তবে আরোগ্যের পূর্বে সে সবাইকে এক আল্লাহর প্রতি ঈমান আনার শর্ত দিত।",
+        "en": "Testing his spiritual authority, the youth struck down a colossal beast blocking the public highway by hurling a single pebble in the name of Allah, healing the blind and incurable lepers thereafter.",
+        "bn": "আল্লাহর শক্তিমত্তা পরীক্ষার জন্য বালকটি জনপথ আটকে রাখা এক বিশালাকার হিংস্র প্রাণীর ওপর আল্লাহর নামে একটি ছোট পাথর ছুড়ে মারল এবং প্রাণীটি মারা গেল; এরপর সে আল্লাহর নামে জন্মান্ধ ও কুষ্ঠরোগীদের নিরাময় করতে লাগল।",
         "words": [
           {
-            "en": "Curing the blind and lepers",
-            "bn": "অন্ধ ও কুষ্ঠরোগীদের আরোগ্য করল"
+            "en": "colossal beast",
+            "bn": "বিশাল হিংস্র দানবীয় প্রাণী"
           },
           {
-            "en": "praying to Allah",
-            "bn": "আল্লাহর নিকট দোয়া করে"
+            "en": "blocking public highway",
+            "bn": "জনসাধারণের চলাচলের পথ আটকে রাখা"
           },
           {
-            "en": "promise to believe in One God",
-            "bn": "এক আল্লাহর ওপর ঈমানের শর্ত রেখে"
+            "en": "hurled a pebble in Allah's name",
+            "bn": "আল্লাহর নামে পাথর ছুড়ে মারল"
+          },
+          {
+            "en": "healing the blind",
+            "bn": "জন্মান্ধদের দৃষ্টি ফিরিয়ে দেওয়া"
+          },
+          {
+            "en": "incurable lepers",
+            "bn": "দুরারোগ্য কুষ্ঠরোগী"
           }
         ]
       },
       {
-        "en": "When the king discovered the boy's faith, he ordered soldiers to throw him from a mountain cliff, but the mountain shook, tossing the executioners away.",
-        "bn": "রাজা যখন বালকের ঈমানের কথা জানতে পারল, তখন তাকে পাহাড়ের চূড়া থেকে ফেলে দিতে বলল; কিন্তু পাহাড় কেঁপে উঠে প্রহরীরাই নিচে পড়ে গেল।",
+        "en": "When the king discovered that the youth was converting royal courtiers, he had the boy dragged to a towering mountain peak to be cast off, but the boy prayed: 'O Allah, save me from them as You will,' and an earthquake tossed the guards to their deaths.",
+        "bn": "বালকটি রাজদরবারের সভাসদদের ইসলামে দীক্ষিত করছে জানতে পেরে রাজা ক্ষিপ্ত হয়ে তাকে এক খাড়া পাহাড়ের চূড়া থেকে ফেলে দেওয়ার নির্দেশ দিল; কিন্তু বালকটি দোয়া করল: 'হে আল্লাহ! যেভাবে ইচ্ছা আপনি আমাকে এদের থেকে রক্ষা করুন', সাথে সাথে ভূমিকম্পে প্রহরীরা পাহাড় থেকে পড়ে মারা গেল।",
         "words": [
           {
-            "en": "The king discovered the faith",
-            "bn": "রাজা তার ঈমান জানতে পারল"
+            "en": "towering mountain peak",
+            "bn": "উঁচু পাহাড়ের বিপজ্জনক চূড়া"
           },
           {
-            "en": "ordered him thrown from cliff",
-            "bn": "পাহাড় থেকে ফেলে দিতে হুকুম করল"
+            "en": "cast off",
+            "bn": "পাহাড় থেকে নিচে ফেলে দেওয়া"
           },
           {
-            "en": "mountain shook tossing guards",
-            "bn": "পাহাড় কেঁপে প্রহরীদের ফেলে দিল"
+            "en": "save me as You will",
+            "bn": "যেভাবে ইচ্ছা আমাকে রক্ষা করুন"
+          },
+          {
+            "en": "earthquake tossed guards",
+            "bn": "ভূমিকম্পে প্রহরীরা ছিটকে পড়ল"
+          },
+          {
+            "en": "miraculous escape",
+            "bn": "অলৌকিক মুক্তি"
           }
         ]
       },
       {
-        "en": "Next, the king ordered him cast into the deep ocean, but the boat capsized, drowning the soldiers while the boy walked back ashore unharmed.",
-        "bn": "এরপর রাজা তাকে মাঝ সাগরে ডুবিয়ে মারার নির্দেশ দিল; কিন্তু নৌকা উল্টে প্রহরীরা সাগরে ডুবে গেল আর বালকটি অক্ষত অবস্থায় হেঁটে ফিরে এলো।",
+        "en": "Taken out into the deep sea to be drowned, the boy repeated his prayer, causing the boat to capsize and drowning the executioners while he walked peacefully back to court.",
+        "bn": "এরপর তাকে ডুবিয়ে মারার জন্য গভীর সমুদ্রে নিয়ে যাওয়া হলে সে পুনরায় একই দোয়া পাঠ করল; নৌকাটি উল্টে গিয়ে সমস্ত ঘাতক পানিতে ডুবে মরল আর বালকটি নির্বিঘ্নে হেঁটে রাজদরবারে ফিরে এল।",
         "words": [
           {
-            "en": "Ordered cast into ocean",
-            "bn": "সাগরে নিক্ষেপের নির্দেশ দিল"
+            "en": "deep sea to be drowned",
+            "bn": "গভীর সাগরে ডুবিয়ে মারার জন্য"
           },
           {
-            "en": "boat capsized drowning guards",
-            "bn": "নৌকা ডুবে প্রহরীরা মারা গেল"
+            "en": "repeated his prayer",
+            "bn": "দোয়া পুনরায় পাঠ করল"
           },
           {
-            "en": "boy walked back unharmed",
-            "bn": "বালকটি অক্ষত অবস্থায় হেঁটে ফিরে এলো"
+            "en": "boat capsized",
+            "bn": "নৌকা উল্টে গেল"
+          },
+          {
+            "en": "drowning executioners",
+            "bn": "জল্লাদদের সাগরে সলিল সমাধি হলো"
+          },
+          {
+            "en": "walked peacefully back",
+            "bn": "শান্তিপূর্ণভাবে হেঁটে ফিরে এল"
           }
         ]
       },
       {
-        "en": "The boy told the frustrated king: 'You cannot kill me until you assemble all the people in one open plaza and shoot an arrow from my quiver saying: 'In the Name of Allah, the Lord of this boy!''",
-        "bn": "বালকটি হতাশ রাজাকে বলল: 'তুমি আমাকে কখনই মারতে পারবে না যতক্ষণ না সব মানুষকে এক ময়দানে জড়ো করে আমার তূণীর থেকে তীর নিয়ে বলো: 'এই বালকের পালনকর্তা আল্লাহর নামে!''",
+        "en": "The boy then revealed to the frustrated tyrant: 'You will never kill me until you gather the populace in an open plain, tie me to a tree trunk, take an arrow from my quiver, and proclaim: In the name of Allah, Lord of this boy!'",
+        "bn": "বালকটি তখন হতাশ রাজাকে রহস্য উন্মোচন করে বলল: 'খোলা ময়দানে সব প্রজাকে সমবেত করে আমাকে একটি গাছের কাণ্ডে না বাঁধা পর্যন্ত, আমার তূণীর থেকে তীর নিয়ে 'এই বালকের প্রতিপালক আল্লাহর নামে' বলে তীর না ছোড়া পর্যন্ত তুমি আমাকে কখনো হত্যা করতে পারবে না!'",
         "words": [
           {
-            "en": "Assemble all the people",
-            "bn": "সমস্ত মানুষকে একত্র করো"
+            "en": "frustrated tyrant",
+            "bn": "হতাশ ও দিশেহারা স্বৈরাচারী শাসক"
           },
           {
-            "en": "shoot an arrow from my quiver",
-            "bn": "আমার তূণীর থেকে তীর নিক্ষেপ করো"
+            "en": "open plain",
+            "bn": "উন্মুক্ত ময়দান বা প্রান্তর"
           },
           {
-            "en": "In the Name of Allah",
-            "bn": "আল্লাহর নামে"
+            "en": "tie to tree trunk",
+            "bn": "গাছের কাণ্ডের সাথে বাঁধা"
           },
           {
-            "en": "Lord of this boy",
-            "bn": "এই বালকের প্রতিপালক"
+            "en": "In the name of Allah, Lord of this boy",
+            "bn": "এই বালকের রব আল্লাহর নামে"
+          },
+          {
+            "en": "arrow from quiver",
+            "bn": "তূণীর থেকে নেওয়া তীর"
           }
         ]
       },
       {
-        "en": "The king fired the arrow pronouncing the words; the arrow struck the boy's temple and he passed away as a martyr.",
-        "bn": "রাজা সেই বাক্য উচ্চারণ করে তীর ছুঁড়ল; তীরটি বালকের কপালে বিঁধল এবং সে হাসিমুখে শাহাদাত বরণ করল।",
+        "en": "The arrogant monarch executed the instructions exactly; the arrow struck the boy's temple and he fell martyred, upon which the entire assembly roared: 'We believe in the Lord of the boy! We believe in the Lord of the boy!'",
+        "bn": "দাম্ভিক রাজা ঠিক তাই করল; তীরটি গিয়ে বালকের রগ বরাবর বিদ্ধ হলো এবং সে শাহাদাত বরণ করল; এই অলৌকিক দৃশ্য দেখে সমবেত সমগ্র জনতা সমস্বরে গর্জে উঠল: 'আমরা এই বালকের প্রতিপালকের ওপর ঈমান আনলাম! আমরা এই বালকের রবের ওপর ঈমান আনলাম!'",
         "words": [
           {
-            "en": "The king fired the arrow",
-            "bn": "রাজা তীর ছুঁড়ল"
+            "en": "arrow struck temple",
+            "bn": "তীর গিয়ে কানের রগে আঘাত করল"
           },
           {
-            "en": "struck the boy's temple",
-            "bn": "বালকের রগে গিয়ে বিঁধল"
+            "en": "entire assembly roared",
+            "bn": "উপস্থিত সমগ্র জনতা সমস্বরে ঘোষণা করল"
           },
           {
-            "en": "passed away as a martyr",
-            "bn": "শহীদ হয়ে বিদায় নিল"
+            "en": "We believe in Lord of the boy",
+            "bn": "আমরা এই বালকের রবের প্রতি ঈমান আনলাম"
+          },
+          {
+            "en": "mass conversion",
+            "bn": "গণহারে ইসলাম বা ঈমান গ্রহণ"
+          },
+          {
+            "en": "glorious martyrdom",
+            "bn": "মহিমান্বিত শাহাদাত"
           }
         ]
       },
       {
-        "en": "Witnessing the miracle, the entire population shouted in unison: 'We believe in the Lord of the boy!'",
-        "bn": "এই অলৌকিক দৃশ্য দেখে উপস্থিত লক্ষ লক্ষ মানুষ এক বাক্যে চিৎকার করে উঠল: 'আমরা এই বালকের প্রতিপালক আল্লাহর ওপর ঈমান আনলাম!'",
+        "en": "Panicked by this universal conversion, the tyrant dug colossal deep trenches across the city, fueled them with blazing fires, and threw men, women, and infants into the flames for refusing to renounce faith.",
+        "bn": "সবার এই গণ-ঈমান দেখে উন্মত্ত হয়ে অত্যাচারী রাজা শহরের রাস্তায় গভীর খাদ খনন করাল, সেখানে দাউ দাউ করে আগুন জ্বালিয়ে দিল এবং যারা ঈমান ত্যাগ করতে অস্বীকার করল সেই সকল নারী, পুরুষ ও শিশুকে জ্বলন্ত অগ্নিকুণ্ডে নিক্ষেপ করল।",
         "words": [
           {
-            "en": "Witnessing the miracle",
-            "bn": "মুজিজা প্রত্যক্ষ করে"
+            "en": "colossal deep trenches (Ukhdud)",
+            "bn": "বিশাল ও গভীর খাদ (উখদুদ)"
           },
           {
-            "en": "entire population shouted",
-            "bn": "সমগ্র জনতা চিৎকার করে উঠল"
+            "en": "fueled with blazing fires",
+            "bn": "দাউ দাউ করে জ্বলন্ত আগুনে পূর্ণ"
           },
           {
-            "en": "We believe in the Lord of the boy",
-            "bn": "আমরা বালকের রবের প্রতি ঈমান আনলাম"
+            "en": "refusing to renounce faith",
+            "bn": "ঈমান ত্যাগ করতে অস্বীকৃতি জানিয়ে"
+          },
+          {
+            "en": "threw into flames",
+            "bn": "আগুনের লেলিহান শিখায় ফেলে দিল"
+          },
+          {
+            "en": "tyrant panicked",
+            "bn": "স্বৈরাচারী শাসক আতঙ্কিত হলো"
           }
         ]
       },
       {
-        "en": "Furious at losing his authority, the tyrant dug huge trenches filled with roaring fire, burning the believers alive as they chose death over renouncing their Lord.",
-        "bn": "ক্ষমতা হারিয়ে ক্ষিপ্ত রাজা বিশাল পরিখা খনন করে দাউদাউ করে আগুন জ্বালাল এবং সেই মুমিনদের জীবন্ত অগ্নিকুণ্ডে নিক্ষেপ করল, যারা ঈমান ত্যাগের বদলে মৃত্যুকে হাসিমুখে বরণ করে নিল।",
+        "en": "The Quran immortalizes their supreme triumph in Surah Al-Buruj: 'Cursed were the companions of the trench—thereof the fire full of fuel; when they sat by it, witnessing what they were doing to the believers!'",
+        "bn": "পবিত্র কোরআন সূরা বুরুজে তাদের আত্মত্যাগকে চিরন্তন মহিমায় অমর করেছে: 'ধ্বংস হয়েছিল খাদের অধিপতিরা—ইন্ধনপূর্ণ আগুনের কুণ্ডলী; যখন তারা তার পাশে বসে মুমিনদের ওপর যা করছিল তা প্রত্যক্ষ করছিল!'",
         "words": [
           {
-            "en": "Dug huge trenches with fire",
-            "bn": "আগুনে ভরা বিশাল পরিখা খুঁড়ল"
+            "en": "Surah Al-Buruj",
+            "bn": "পবিত্র সূরা বুরুজ"
           },
           {
-            "en": "burning believers alive",
-            "bn": "মুমিনদের জীবন্ত পুড়িয়ে দিল"
+            "en": "companions of the trench",
+            "bn": "খাদ বা অগ্নিকুণ্ডের অধিপতিরা (আসহাবে উখদুদ)"
           },
           {
-            "en": "chose death over renouncing Lord",
-            "bn": "রবকে ত্যাগের চেয়ে মৃত্যুকে বেছে নিল"
+            "en": "fire full of fuel",
+            "bn": "ইন্ধনপূর্ণ উত্তপ্ত আগুন"
+          },
+          {
+            "en": "witnessing what they did",
+            "bn": "মুমিনদের ওপর করা জুলুম প্রত্যক্ষ করছিল"
+          },
+          {
+            "en": "supreme triumph",
+            "bn": "ঈমানের শ্রেষ্ঠ মহাবিজয়"
           }
         ]
       }
     ]
   },
   {
-    "id": "hadith-three-men-cave",
-    "title": "The Three Travellers Trapped in a Cave by a Boulder",
-    "titleBn": "গুহায় পাথরে আটকা পড়া তিন যুবকের নেক আমলের উসিলা",
-    "author": "Authentic Hadith (Sahih Bukhari & Muslim)",
+    "id": "chronicle-ashab-fil",
+    "title": "Ashab al-Fil: The Army of the Elephant and the Swarms of Ababil",
+    "titleBn": "আসহাবে ফীল: হস্তীবাহিনী, আবরাহার ধ্বংস ও ঝাঁকে ঝাঁকে আবাবিল পাখি",
+    "author": "Ibn Ishaq, Ibn Kathir & Surah Al-Fil",
     "level": "Intermediate",
-    "levelColor": "cyan",
-    "category": "Quranic Chronicles",
-    "coverEmoji": "🪨",
-    "summary": "Trapped deep inside a mountain cave by a massive fallen boulder, three righteous men supplicate Allah through their most sincere secret deeds, causing the rock to move and free them.",
-    "summaryBn": "পাহাড়ে ঝড়ের কবলে পড়ে গুহায় আশ্রয় নেওয়ার পর বিশালাকার পাথরে আটকা পড়া তিন যুবকের পিতামাতার সেবা, ব্যভিচার থেকে আত্মরক্ষা ও শ্রমিকের আমানত রক্ষার উসিলায় অলৌকিক মুক্তিলাভের ইতিহাস।",
+    "levelColor": "emerald",
+    "category": "Quranic & Hadith Chronicles",
+    "coverEmoji": "🐘",
+    "summary": "In the Year of the Elephant, the Christian viceroy of Yemen Abraha marched on Makkah with a colossal army and battle elephants to demolish the holy Kaaba; abandoning their homes to the mountains, the Quraysh placed their trust in Allah, who dispatched swarms of small birds bearing baked clay stones that pulverized the invading army into chewed chaff.",
+    "summaryBn": "মহানবীর জন্মবর্ষে ইয়েমেনের খ্রিষ্টান গভর্নর আবরাহা কাবাঘর ধ্বংসের হীন উদ্দেশ্যে বিশালাকার যুদ্ধ-হাতিসহ বিশাল সেনাবাহিনী নিয়ে মক্কার দিকে অগ্রসর হয়; পাহাড়ে আশ্রয় নিয়ে মক্কাবাসী আল্লাহর ওপর ভরসা করে; তখন আল্লাহ আসমান থেকে ঝাঁকে ঝাঁকে আবাবিল পাখি পাঠিয়ে পোড়ামাটির কঙ্কর নিক্ষেপ করে সেই পরাক্রমশালী বাহিনীকে ভক্ষিত খড়ের মতো চূর্ণবিচূর্ণ করে দেন।",
     "sentences": [
       {
-        "en": "Three men of past generations were walking in the mountains when a torrential storm forced them to take shelter inside a dark cave.",
-        "bn": "পূর্ববর্তী যুগের তিনজন পথিক পাহাড়ের মধ্য দিয়ে হেঁটে যাচ্ছিলেন, এমন সময় এক প্রবল ঝড় শুরু হলে তাঁরা আত্মরক্ষার জন্য এক অন্ধকার গুহায় আশ্রয় নিলেন।",
+        "en": "Abraha al-Ashram, the Abyssinian Christian viceroy of Yemen, constructed a magnificent cathedral named Al-Qullays in Sana'a, aiming to redirect all Arabian pilgrimage and commerce away from Makkah.",
+        "bn": "ইয়েমেনে নিযুক্ত হাবশি খ্রিষ্টান গভর্নর আবরাহা আল-আশরাম সানআয় 'আল-কুল্লাইস' নামের এক স্বর্ণখচিত বিশাল গির্জা নির্মাণ করল, যার উদ্দেশ্য ছিল মক্কার কাবার বদলে সমগ্র আরবের তীর্থযাত্রী ও বাণিজ্যকে সানআয় ঘুরিয়ে আনা।",
         "words": [
           {
-            "en": "Three men walking in mountains",
-            "bn": "তিনজন লোক পাহাড়ে হাঁটছিলেন"
+            "en": "Christian viceroy",
+            "bn": "খ্রিষ্টান গভর্নর বা প্রতিনিধি"
           },
           {
-            "en": "torrential storm forced them",
-            "bn": "প্রচণ্ড ঝড় তাঁদের বাধ্য করল"
+            "en": "magnificent cathedral (Al-Qullays)",
+            "bn": "বিশাল ও কারুকার্যময় গির্জা (আল-কুল্লাইস)"
           },
           {
-            "en": "shelter inside a cave",
-            "bn": "এক গুহার ভেতরে আশ্রয় নিতে"
+            "en": "redirect pilgrimage",
+            "bn": "হজ বা তীর্থযাত্রার পথ পরিবর্তন করা"
+          },
+          {
+            "en": "commerce away from Makkah",
+            "bn": "মক্কা থেকে বাণিজ্য ছিনিয়ে নেওয়া"
+          },
+          {
+            "en": "Sana'a",
+            "bn": "ইয়েমেনের রাজধানী সানআ"
           }
         ]
       },
       {
-        "en": "A colossal boulder dislodged from the mountain peak and rolled down, sealing the mouth of the cave completely.",
-        "bn": "পাহাড়ের চূড়া থেকে এক সুবিশাল পাথর খসে নিচে গড়িয়ে পড়ল এবং গুহামুখকে সম্পূর্ণ বন্ধ করে দিল।",
+        "en": "When an offended Arab desecrated the lavish sanctuary with filth, Abraha was enraged and swore a solemn vow to march on Makkah and demolish the sacred Kaaba stone by stone.",
+        "bn": "এক ক্ষুব্ধ আরব ব্যক্তি যখন গোপনে সেই জমকালো গির্জায় ঢুকে মলমূত্র ফেলে অপবিত্র করে দিল, তখন আবরাহা ক্ষোভে ফেটে পড়ল এবং শপথ করল যে সে মক্কায় গিয়ে পবিত্র কাবাঘর পাথর পাথর করে গুঁড়িয়ে দেবে।",
         "words": [
           {
-            "en": "A colossal boulder dislodged",
-            "bn": "এক বিশাল পাথর খসে পড়ল"
+            "en": "desecrated with filth",
+            "bn": "ময়লা-আবর্জনা দিয়ে অপবিত্র করল"
           },
           {
-            "en": "rolled down",
-            "bn": "গড়িয়ে নেমে এলো"
+            "en": "enraged",
+            "bn": "চরম ক্ষিপ্ত ও উন্মাদ"
           },
           {
-            "en": "sealing the cave completely",
-            "bn": "গুহার মুখ সম্পূর্ণরূপে বন্ধ করে দিল"
+            "en": "swore solemn vow",
+            "bn": "কঠোর প্রতিজ্ঞা বা শপথ করল"
+          },
+          {
+            "en": "demolish sacred Kaaba",
+            "bn": "পবিত্র কাবাঘর গুঁড়িয়ে দেওয়া"
+          },
+          {
+            "en": "stone by stone",
+            "bn": "একটি একটি পাথর করে"
           }
         ]
       },
       {
-        "en": "Realizing no human being could hear their cries, they said to one another: 'Nothing can save you from this rock except supplicating Allah through your most sincere good deeds.'",
-        "bn": "মানুষের কোনো সাহায্য পাওয়ার আশা নেই বুঝতে পেরে তাঁরা পরস্পরকে বললেন: 'নিজেদের খাঁটি নেক আমলের উসিলা দিয়ে আল্লাহর কাছে দোয়া করা ছাড়া এই পাথর থেকে বাঁচার কোনো উপায় নেই।'",
+        "en": "Marshaling a massive imperial army spearheaded by colossal African war elephants led by the terrifying giant beast named Mahmud, Abraha swept aside all tribal resistance across the desert.",
+        "bn": "আফ্রিকার দানবাকৃতির যুদ্ধ-হাতি সমৃদ্ধ এক বিশাল সেনাবাহিনী গঠন করে—যার শীর্ষে ছিল 'মাহমুদ' নামের এক অতিকায় হাতি—আবরাহা আরবের সমস্ত গোত্রীয় প্রতিরোধ চূর্ণ করে মক্কার উপকণ্ঠে এসে পৌঁছাল।",
         "words": [
           {
-            "en": "Nothing can save you",
-            "bn": "তোমাদের কোনো কিছুই বাঁচাতে পারবে না"
+            "en": "massive imperial army",
+            "bn": "সাম্রাজ্যের বিশাল সৈন্যবাহিনী"
           },
           {
-            "en": "except supplicating Allah",
-            "bn": "আল্লাহর নিকট দোয়া করা ছাড়া"
+            "en": "African war elephants",
+            "bn": "আফ্রিকার বিশালাকার যুদ্ধ-হাতি"
           },
           {
-            "en": "through sincere good deeds",
-            "bn": "খাঁটি নেক আমলের মাধ্যমে"
+            "en": "Mahmud the giant beast",
+            "bn": "মাহমুদ নামের অতিকায় হাতি"
+          },
+          {
+            "en": "swept aside resistance",
+            "bn": "সমস্ত প্রতিরোধ গুঁড়িয়ে দিল"
+          },
+          {
+            "en": "desert march",
+            "bn": "মরুভূমির পদযাত্রা"
           }
         ]
       },
       {
-        "en": "The first man prayed: 'O Allah! I had elderly parents whom I served milk every night before my own children; when I returned late one evening and found them sleeping, I stood holding the bowl until dawn!'",
-        "bn": "প্রথম ব্যক্তি দোয়া করল: 'হে আল্লাহ! আমার বৃদ্ধ পিতা-মাতা ছিলেন যাঁদের আমি নিজের সন্তানদের আগেও দুধ পান করাতাম; এক রাতে বাড়ি ফিরতে দেরি হয়ে তাঁদের ঘুমন্ত পেয়ে আমি দুধের বাটি হাতে ভোর পর্যন্ত দাঁড়িয়ে রইলাম!'",
+        "en": "Seizing two hundred camels belonging to Abdul-Muttalib, the venerable chieftain of Quraysh went to negotiate solely for his livestock; when Abraha expressed astonishment that he did not plead for the Kaaba, Abdul-Muttalib famously proclaimed: 'I am the master of the camels, and the House has a Lord who will defend it!'",
+        "bn": "আবরাহার বাহিনী কুরাইশ সর্দার আব্দুল মুত্তালিবের দুইশত উট লুট করলে তিনি কেবল উট ফেরত চাইতে গেলেন; আবরাহা বিস্মিত হয়ে জানতে চাইল কেন তিনি কাবার সুরক্ষার কথা বলছেন না, তখন আব্দুল মুত্তালিব সেই অমর বাক্যটি বললেন: 'আমি তো উটের মালিক, আর এই কাবাঘরের একজন মালিক রয়েছেন যিনি নিজেই একে রক্ষা করবেন!'",
         "words": [
           {
-            "en": "I had elderly parents",
-            "bn": "আমার বৃদ্ধ পিতা-মাতা ছিলেন"
+            "en": "seizing camels",
+            "bn": "উট লুট করে নেওয়া"
           },
           {
-            "en": "served milk before children",
-            "bn": "সন্তানদের আগেও দুধ দিতাম"
+            "en": "venerable chieftain",
+            "bn": "সম্মানিত ও শ্রদ্ধেয় গোত্রপ্রধান"
           },
           {
-            "en": "stood holding bowl until dawn",
-            "bn": "বাটি হাতে ভোর পর্যন্ত দাঁড়িয়ে রইলাম"
+            "en": "master of camels",
+            "bn": "উটের আসল মালিক"
+          },
+          {
+            "en": "House has a Lord to defend it",
+            "bn": "এই ঘরের এমন এক রব আছেন যিনি নিজেই এর সুরক্ষা করবেন"
+          },
+          {
+            "en": "negotiate for livestock",
+            "bn": "পশুপাল ফেরত চাইতে যাওয়া"
           }
         ]
       },
       {
-        "en": "He continued: 'O Allah, if I did that seeking Your countenance alone, remove this boulder!' And the stone moved slightly, but not enough to exit.",
-        "bn": "তিনি বললেন: 'হে আল্লাহ! আমি যদি কেবল আপনার সন্তুষ্টির জন্যই তা করে থাকি, তবে আমাদের ওপর থেকে পাথরটি সরিয়ে দিন!' অমনি পাথরটি কিছুটা সরে গেল, তবে বের হওয়ার মতো ফাঁক হলো না।",
+        "en": "Abdul-Muttalib instructed all citizens to evacuate Makkah and seek refuge in the high mountain passes, clinging to the ring of the Kaaba's door in tears and begging Allah to safeguard His sanctuary.",
+        "bn": "আব্দুল মুত্তালিব মক্কাবাসীদের শহর ত্যাগ করে উঁচু পাহাড়ের গিরিপথে আশ্রয় নেওয়ার নির্দেশ দিলেন; তিনি নিজে কাবার দরজার কড়া ধরে অশ্রুসজল নয়নে আল্লাহর কাছে তাঁর পবিত্র ঘর রক্ষার জন্য কাতর মোনাজাত করলেন।",
         "words": [
           {
-            "en": "Seeking Your countenance alone",
-            "bn": "কেবল আপনার সন্তুষ্টির আশায়"
+            "en": "evacuate Makkah",
+            "bn": "মক্কা শহর খালি করে চলে যাওয়া"
           },
           {
-            "en": "remove this boulder",
-            "bn": "পাথরটিকে সরিয়ে দিন"
+            "en": "high mountain passes",
+            "bn": "উঁচু পাহাড়ের গিরিখাত ও চূড়া"
           },
           {
-            "en": "stone moved slightly",
-            "bn": "পাথর সামান্য সরে গেল"
+            "en": "clinging to ring of door",
+            "bn": "কাবার দরজার কড়া ধরে"
+          },
+          {
+            "en": "safeguard His sanctuary",
+            "bn": "তাঁর পবিত্র ঘর রক্ষা করার আরজি"
+          },
+          {
+            "en": "prayed in tears",
+            "bn": "অশ্রুসজল হয়ে প্রার্থনা করলেন"
           }
         ]
       },
       {
-        "en": "The second man prayed: 'O Allah! I passionately loved my cousin, but when poverty compelled her to ask for money, I demanded her honor; yet when she wept and warned me to fear Allah, I abandoned the sin for Your sake!'",
-        "bn": "দ্বিতীয় ব্যক্তি বলল: 'হে আল্লাহ! আমি আমার চাচাতো বোনকে গভীরভাবে ভালোবাসতাম; অভাবের তাড়নায় সে টাকা চাইতে এলে আমি অন্যায়ের শর্ত দিই; কিন্তু সে যখন কেঁদে আল্লাহকে ভয় করতে বলল, আমি আপনার ভয়ে পাপ ত্যাগ করলাম!'",
+        "en": "The following morning, when the army prepared to charge into the valley, the lead elephant Mahmud knelt stubbornly to the ground; beatings, spears, and axes could not compel him to advance an inch toward the Kaaba, though he ran eagerly when directed in any other direction.",
+        "bn": "পরদিন সকালে বাহিনী যখন উপত্যকায় আক্রমণের প্রস্তুতি নিল, তখন প্রধান হাতি মাহমুদ মাটিতে হাঁটু গেড়ে বসে পড়ল; চাবুক, বর্শা বা কুঠারের আঘাত দিয়েও তাকে কাবার দিকে এক ইঞ্চিও সরানো গেল না, অথচ অন্য যেকোনো দিকে ঘোরালে সে দ্রুত ছুটে যেত।",
         "words": [
           {
-            "en": "Loved my cousin passionately",
-            "bn": "চাচাতো বোনকে গভীরভাবে ভালোবাসতাম"
+            "en": "knelt stubbornly",
+            "bn": "অটলভাবে হাঁটু গেড়ে মাটিতে বসে পড়ল"
           },
           {
-            "en": "warned me to fear Allah",
-            "bn": "আমাকে আল্লাহকে ভয় করার সতর্কবার্তা দিল"
+            "en": "beatings and spears",
+            "bn": "প্রহার এবং বর্শার আঘাত"
           },
           {
-            "en": "abandoned sin for Your sake",
-            "bn": "আপনার সন্তুষ্টির জন্য পাপ ত্যাগ করলাম"
+            "en": "advance toward Kaaba",
+            "bn": "কাবার দিকে অগ্রসর হওয়া"
+          },
+          {
+            "en": "ran eagerly in other direction",
+            "bn": "অন্য যেকোনো দিকে আগ্রহ নিয়ে ছুটত"
+          },
+          {
+            "en": "divine paralysis",
+            "bn": "ঐশী কুদরতে নিশ্চল"
           }
         ]
       },
       {
-        "en": "He pleaded: 'If I refrained seeking Your pleasure, relieve us!' And the boulder shifted further, yet they still could not pass.",
-        "bn": "সে বলল: 'আমি যদি আপনার সন্তুষ্টির জন্যই তা বর্জন করে থাকি, তবে আমাদের রক্ষা করুন!' সাথে সাথে পাথরটি আরেকটু সরে গেল, তবুও তারা বের হতে পারল না।",
+        "en": "Suddenly, a darkening shadow swept across the sky from the Red Sea as millions of tiny swallow-like birds known as Ababil swarmed overhead in dense clouds, each carrying three hardened clay stones (Sijjil) in its beak and claws.",
+        "bn": "হঠাৎ লোহিত সাগরের দিক থেকে আকাশ অন্ধকার করে এক ঝাঁক ছায়া নেমে এল; আবাবিল নামের কোটি কোটি ক্ষুদ্র চড়ুইজাতীয় পাখি আকাশ ছেয়ে ফেলল, যাদের প্রত্যেকের ঠোঁটে ও দুই পায়ে পোড়ামাটির কঙ্কর (সিজ্জীল) ধরা ছিল।",
         "words": [
           {
-            "en": "Relieve us",
-            "bn": "আমাদের নিষ্কৃতি দিন"
+            "en": "darkening shadow from Red Sea",
+            "bn": "লোহিত সাগরের দিক থেকে নেমে আসা আঁধার"
           },
           {
-            "en": "boulder shifted further",
-            "bn": "পাথরটি আরও কিছুটা সরল"
+            "en": "swarms of tiny birds (Ababil)",
+            "bn": "ঝাঁকে ঝাঁকে আবাবিল পাখি"
           },
           {
-            "en": "still could not pass",
-            "bn": "তবুও তারা পার হতে পারল না"
+            "en": "dense clouds",
+            "bn": "পাখিদের ঘন মেঘের মতো ঝাঁক"
+          },
+          {
+            "en": "hardened clay stones (Sijjil)",
+            "bn": "পোড়ামাটির শক্ত কঙ্কর (সিজ্জীল)"
+          },
+          {
+            "en": "beak and claws",
+            "bn": "ঠোঁট এবং নখর"
           }
         ]
       },
       {
-        "en": "The third man prayed: 'O Allah! I hired a laborer who left without collecting his wage; I invested his small wage until it multiplied into herds of cows, camels, and sheep, and when he returned years later, I gave him everything!'",
-        "bn": "তৃতীয় ব্যক্তি বলল: 'হে আল্লাহ! আমি এক শ্রমিক রেখেছিলাম যে পারিশ্রমিক না নিয়ে চলে যায়; আমি সেই সামান্য মজুরি ব্যবসায়ে খাটিয়ে গরু, ছাগল ও উটের পালে রূপান্তর করি এবং বহু বছর পর সে এলে আমি সব তাকে দিয়ে দিই!'",
+        "en": "Unleashing a devastating aerial bombardment, the stones pierced through the helmets, armor, flesh, and elephants with supersonic force, liquefying their bodies from within.",
+        "bn": "পাখিরা যখন উপর থেকে সেই কঙ্করগুলো বর্ষণ করতে শুরু করল, সেগুলো তাদের শিরস্ত্রাণ, লোহার বর্ম, শরীর ও বিশালাকার হাতিগুলোকে ভেদ করে এমনভাবে আঘাত করল যে তাদের দেহ ভেতর থেকে গলে যেতে লাগল।",
         "words": [
           {
-            "en": "Hired a laborer",
-            "bn": "এক শ্রমিক নিয়োগ করেছিলাম"
+            "en": "aerial bombardment",
+            "bn": "আকাশ থেকে নিক্ষিপ্ত কঙ্করের আঘাত"
           },
           {
-            "en": "invested his wage",
-            "bn": "তার মজুরি বিনিয়োগ করেছিলাম"
+            "en": "pierced through helmets and armor",
+            "bn": "শিরস্ত্রাণ ও বর্ম ভেদ করে গেল"
           },
           {
-            "en": "multiplied into herds",
-            "bn": "বিশাল পশুপালে রূপান্তরিত হলো"
+            "en": "liquefying bodies",
+            "bn": "দেহ বা মাংস গলিয়ে দিল"
           },
           {
-            "en": "gave him everything",
-            "bn": "তাকে সবকিছু বুঝিয়ে দিলাম"
+            "en": "supersonic force",
+            "bn": "অতিপ্রাকৃতিক তীব্র গতি"
+          },
+          {
+            "en": "devastation",
+            "bn": "ভয়াবহ ধ্বংসযজ্ঞ"
           }
         ]
       },
       {
-        "en": "He concluded: 'If I did that for Your sake, deliver us!' Instantly the boulder rolled away completely, and all three men walked out into the sunlight in joyful gratitude.",
-        "bn": "সে বলল: 'হে আল্লাহ! আমি যদি আপনার সন্তুষ্টির জন্যই তা করে থাকি, তবে আমাদের মুক্তি দিন!' সাথে সাথে পাথরটি পুরোপুরি সরে গেল এবং তিনজনই সূর্যের আলোয় শুকরিয়া আদায় করতে করতে নিরাপদে বেরিয়ে এলেন।",
+        "en": "The mighty army was utterly decimated in moments, reduced to shredded rotting husks like 'eaten straw,' while Abraha fled with his flesh dropping piece by piece until he perished in agony in Sana'a.",
+        "bn": "মুহূর্তের মধ্যে সেই দাম্ভিক পরাক্রমশালী সৈন্যদল চিবিয়ে খাওয়া ভুষি বা খড়ের মতো ছিন্নভিন্ন হয়ে মাটিতে মিশে গেল; আর আবরাহার শরীরের মাংস খসে খসে পড়তে পড়তে সে সানআয় গিয়ে চরম যন্ত্রণায় মৃত্যুবরণ করল।",
         "words": [
           {
-            "en": "Deliver us",
-            "bn": "আমাদের মুক্তি দান করুন"
+            "en": "utterly decimated",
+            "bn": "সম্পূর্ণ নিশ্চিহ্ন ও ধ্বংস"
           },
           {
-            "en": "boulder rolled away completely",
-            "bn": "পাথরটি পুরোপুরি সরে গেল"
+            "en": "eaten straw (Asfin Ma'kul)",
+            "bn": "চিবানো ভুসি বা খড়ের মতো (আসফিম মা'কূল)"
           },
           {
-            "en": "walked out into sunlight",
-            "bn": "সূর্যের আলোয় হেঁটে বের হলেন"
+            "en": "flesh dropping piece by piece",
+            "bn": "অঙ্গপ্রত্যঙ্গ খসে খসে পড়ে যাওয়া"
           },
           {
-            "en": "in joyful gratitude",
-            "bn": "আনন্দের কৃতজ্ঞতায়"
+            "en": "perished in agony",
+            "bn": "চরম যন্ত্রণায় প্রাণত্যাগ করল"
+          },
+          {
+            "en": "Surah Al-Fil",
+            "bn": "পবিত্র সূরা ফীল"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "chronicle-queen-sheba-throne",
+    "title": "Queen of Sheba: Bilqis and the Submission to Monotheism",
+    "titleBn": "রানী বিলকিস: সাবা রাজ্যের সিংহাসন ও সত্যের আলোয় আত্মসমর্পণ",
+    "author": "Ibn Kathir (Stories of the Prophets) & Surah An-Naml",
+    "level": "Intermediate",
+    "levelColor": "emerald",
+    "category": "Quranic & Hadith Chronicles",
+    "coverEmoji": "👑",
+    "summary": "Ruling over the prosperous South Arabian kingdom of Saba where the sun was worshipped, Queen Bilqis tested Prophet Sulaiman with opulent gifts; realizing his incorruptibility and witnessing her magnificent throne transported in the blink of an eye, she recognized divine truth and surrendered to Allah.",
+    "summaryBn": "সূর্যপূজক সমৃদ্ধ দক্ষিণ আরবের সাবা রাজ্যের রানী বিলকিস নবী সুলাইমান (আ.)-কে বশ করতে বিপুল ধনরত্নের নজরানা পাঠান; সুলাইমানের আপসহীন সততা দেখে এবং চোখের পলক ফেলার আগেই নিজের বিশাল সিংহাসন জেরুজালেমে উপস্থিত হওয়ার অলৌকিক দৃশ্য দেখে তিনি সত্য উপলব্ধি করেন এবং এক আল্লাহর প্রতি আত্মসমর্পণ করেন।",
+    "sentences": [
+      {
+        "en": "In the fertile, dam-irrigated southern highlands of Yemen, Queen Bilqis ruled the opulent civilization of Saba (Sheba), possessing an immense army, boundless riches, and a magnificent golden throne encrusted with rubies and emeralds.",
+        "bn": "ইয়েমেনের উর্বর ও বাঁধ-সেচিত দক্ষিণাঞ্চলে রানী বিলকিস সাবা নামক এক সমৃদ্ধ সাম্রাজ্য শাসন করতেন; তাঁর ছিল বিশাল সৈন্যদল, অগাধ ধনসম্পদ এবং পদ্মরাগমণি ও পান্না খচিত এক জমকালো স্বর্ণের রাজসিংহাসন।",
+        "words": [
+          {
+            "en": "opulent civilization of Saba",
+            "bn": "সাবা রাজ্যের ঐশ্বর্যমণ্ডিত সভ্যতা"
+          },
+          {
+            "en": "boundless riches",
+            "bn": "অসীম ধনসম্পদ ও প্রাচুর্য"
+          },
+          {
+            "en": "magnificent golden throne",
+            "bn": "বিশাল ও জমকালো স্বর্ণসিংহাসন"
+          },
+          {
+            "en": "encrusted with rubies and emeralds",
+            "bn": "চুনি ও পান্না খচিত"
+          },
+          {
+            "en": "Queen Bilqis",
+            "bn": "রানী বিলকিস"
+          }
+        ]
+      },
+      {
+        "en": "However, deceived by Satan, the queen and her entire citizenry prostrated to the radiant sun rather than the Creator of light.",
+        "bn": "কিন্তু শয়তানের প্ররোচনায় বিভ্রান্ত হয়ে রানী এবং তাঁর সমগ্র প্রজাবৃন্দ আলোর প্রকৃত স্রষ্টাকে বর্জন করে উজ্জ্বল সূর্যের সামনে সিজদাবনত হতো।",
+        "words": [
+          {
+            "en": "deceived by Satan",
+            "bn": "শয়তানের প্রতারণায় বিভ্রান্ত"
+          },
+          {
+            "en": "prostrated to radiant sun",
+            "bn": "দীপ্তিমান সূর্যের সামনে সিজদাবনত হলো"
+          },
+          {
+            "en": "Creator of light",
+            "bn": "আলোর আসল সৃষ্টিকর্তা আল্লাহ"
+          },
+          {
+            "en": "entire citizenry",
+            "bn": "সমগ্র প্রজাসাধারণ"
+          },
+          {
+            "en": "idolatry",
+            "bn": "পৌত্তলিকতা ও সূর্যপূজা"
+          }
+        ]
+      },
+      {
+        "en": "When the hoopoe bird reported her idolatrous empire to Prophet Sulaiman, the king dispatched a stern diplomatic letter: 'Do not be arrogant toward me, but come to me in submission.'",
+        "bn": "হুদহুদ পাখি যখন সুলাইমান (আ.)-এর দরবারে এই সূর্যপূজক সাম্রাজ্যের খবর দিল, তখন নবীজি এক বলিষ্ঠ শাহী ফরমান পাঠালেন: 'আমার বিরুদ্ধে অহংকার প্রদর্শন কোরো না, বরং আত্মসমর্পণকারী হিসেবে আমার দরবারে হাজির হও।'",
+        "words": [
+          {
+            "en": "hoopoe bird reported",
+            "bn": "হুদহুদ পাখি খবর জানাল"
+          },
+          {
+            "en": "stern diplomatic letter",
+            "bn": "কঠোর কূটনৈতিক শাহী ফরমান"
+          },
+          {
+            "en": "do not be arrogant",
+            "bn": "আমার বিরুদ্ধে দাম্ভিকতা দেখিও না"
+          },
+          {
+            "en": "come in submission",
+            "bn": "অনুগত হয়ে আমার কাছে উপস্থিত হও"
+          },
+          {
+            "en": "Prophet Sulaiman",
+            "bn": "নবী সুলাইমান (আ.)"
+          }
+        ]
+      },
+      {
+        "en": "Prudently avoiding military devastation, the wise queen dispatched envoys bearing mountains of gold and precious jewels to gauge whether Sulaiman was a mere worldly conqueror or a genuine prophet.",
+        "bn": "যুদ্ধের ভয়াবহ রক্তপাত এড়াতে বিচক্ষণ রানী পর্বতসম সোনাদানা ও মণিমুক্তার উপহারসহ দূত পাঠালেন, যাতে বোঝা যায় সুলাইমান কি একজন সাধারণ লোভী বাদশাহ নাকি সত্যিকারে আল্লাহর সত্য নবী।",
+        "words": [
+          {
+            "en": "avoiding military devastation",
+            "bn": "সামরিক সংঘাত ও ধ্বংস এড়াতে"
+          },
+          {
+            "en": "mountains of gold and jewels",
+            "bn": "সোনা ও মূল্যবান মণিমুক্তার স্তূপ"
+          },
+          {
+            "en": "gauge intentions",
+            "bn": "উদ্দেশ্য বা আসল রূপ যাচাই করা"
+          },
+          {
+            "en": "mere worldly conqueror",
+            "bn": "দুনিয়াবী সাধারণ বিজয়ী রাজা"
+          },
+          {
+            "en": "genuine prophet",
+            "bn": "আল্লাহর সত্য নবী"
+          }
+        ]
+      },
+      {
+        "en": "Sulaiman rejected the bribe with righteous indignation, declaring: 'Do you offer me wealth when what Allah has given me is far superior to what He gave you? Return to them; we will surely come against them with hosts they cannot resist!'",
+        "bn": "সুলাইমান অত্যন্ত আত্মমর্যাদার সাথে এই উপহার প্রত্যাখ্যান করে বললেন: 'তোমরা কি আমাকে ধনসম্পদ দিয়ে সাহায্য করতে চাও, অথচ আল্লাহ আমাকে যা দিয়েছেন তা তোমাদের দেওয়া সবকিছুর চেয়ে বহুগুণে শ্রেষ্ঠ? ফিরে যাও তাদের কাছে; আমরা এমন এক অপ্রতিরোধ্য বাহিনী নিয়ে আসছি যার সামনে দাঁড়ানোর ক্ষমতা তাদের নেই!'",
+        "words": [
+          {
+            "en": "rejected bribe with indignation",
+            "bn": "ঘৃণার সাথে উপহারের ঘুষ ফিরিয়ে দিলেন"
+          },
+          {
+            "en": "what Allah gave is far superior",
+            "bn": "আল্লাহ আমাকে যা দিয়েছেন তা বহুগুণে শ্রেষ্ঠ"
+          },
+          {
+            "en": "hosts they cannot resist",
+            "bn": "এমন এক সৈন্যদল যা কেউ প্রতিহত করতে পারে না"
+          },
+          {
+            "en": "return to them",
+            "bn": "তাদের কাছে ফিরে যাও"
+          },
+          {
+            "en": "incorruptible",
+            "bn": "অপ্রলোভনীয় ও নিষ্কলুষ"
+          }
+        ]
+      },
+      {
+        "en": "Realizing his power was backed by the divine, Queen Bilqis assembled her royal retinue and set out personally on the journey toward Jerusalem to negotiate peace.",
+        "bn": "সুলাইমানের পরাক্রম যে সাক্ষাৎ ঐশী শক্তির ওপর প্রতিষ্ঠিত তা বুঝতে পেরে রানী বিলকিস নিজের রাজকীয় বহর নিয়ে আপস ও শান্তির উদ্দেশ্যে নিজেই জেরুজালেমের পথে রওনা হলেন।",
+        "words": [
+          {
+            "en": "power backed by the divine",
+            "bn": "ক্ষমতা সাক্ষাৎ ঐশী শক্তিতে সমর্থিত"
+          },
+          {
+            "en": "royal retinue",
+            "bn": "রাজকীয় সফরসঙ্গীদের বহর"
+          },
+          {
+            "en": "negotiate peace",
+            "bn": "শান্তির আলোচনা করা"
+          },
+          {
+            "en": "journey toward Jerusalem",
+            "bn": "জেরুজালেমের উদ্দেশ্যে ঐতিহাসিক যাত্রা"
+          },
+          {
+            "en": "prudent decision",
+            "bn": "বিচক্ষণ সিদ্ধান্ত"
+          }
+        ]
+      },
+      {
+        "en": "Before her arrival, Sulaiman asked his council who could bring her massive throne; while an Ifrit of the jinn promised to bring it before the king rose from his seat, an elite scholar possessing knowledge of the Scripture brought it across hundreds of leagues in the twinkling of an eye.",
+        "bn": "রানী পৌঁছানোর আগেই সুলাইমান দরবারে জানতে চাইলেন কে রানীর বিশালাকার সিংহাসনটি এখানে আনতে পারবে; এক শক্তিশালী জিন দরবার শেষ হওয়ার আগেই তা আনার প্রতিশ্রুতি দিল, কিন্তু ঐশী কিতাবের বিশেষ জ্ঞানে সমৃদ্ধ এক মহাজ্ঞানী চোখের পলক ফেলার আগেই শত শত মাইল দূর থেকে সেই সিংহাসন হাজির করে দিলেন।",
+        "words": [
+          {
+            "en": "Ifrit of the jinn",
+            "bn": "জিনদের শক্তিশালী এক দৈত্য (ইফরিত)"
+          },
+          {
+            "en": "knowledge of Scripture",
+            "bn": "ঐশী কিতাবের গভীর বিশেষ ইলম"
+          },
+          {
+            "en": "twinkling of an eye",
+            "bn": "চোখের পলক ফেলার সময়"
+          },
+          {
+            "en": "bring massive throne",
+            "bn": "বিশাল সিংহাসন হাজির করা"
+          },
+          {
+            "en": "before rising from seat",
+            "bn": "আসন থেকে উঠে দাঁড়ানোর পূর্বে"
+          }
+        ]
+      },
+      {
+        "en": "Seeing her own throne altered yet instantly recognizable in Sulaiman's palace, Bilqis was awestruck by the sheer reality of divine miracles.",
+        "bn": "সুলাইমানের প্রাসাদে সামান্য পরিবর্তিত অথচ হুবহু নিজের সিংহাসনটি দেখে রানী বিলকিস ঐশী মুজিযার এই অবিশ্বাস্য বাস্তবতায় স্তব্ধ হয়ে গেলেন।",
+        "words": [
+          {
+            "en": "instantly recognizable",
+            "bn": "দেখা মাত্রই চিনে ফেলা"
+          },
+          {
+            "en": "awestruck by reality",
+            "bn": "বাস্তবতা দেখে বিস্ময়ে হতভম্ব"
+          },
+          {
+            "en": "divine miracles",
+            "bn": "ঐশী মুজিযা ও অলৌকিকত্ব"
+          },
+          {
+            "en": "altered throne",
+            "bn": "সামান্য রূপ পরিবর্তন করা সিংহাসন"
+          },
+          {
+            "en": "palace",
+            "bn": "রাজপ্রাসাদ"
+          }
+        ]
+      },
+      {
+        "en": "Invited into the grand hall paved with crystalline glass over shimmering aquatic pools, she lifted her skirts mistaking the floor for deep water, before realizing the pinnacle of architectural wisdom and proclaiming: 'My Lord, indeed I have wronged myself, and I submit with Sulaiman to Allah, Lord of the worlds.'",
+        "bn": "স্বচ্ছ কাঁচের মেঝের নিচে প্রবাহিত পানির রাজকীয় দরবারে প্রবেশের সময় সেটিকে গভীর জলাশয় ভেবে তিনি কাপড় গুটিয়ে নিলেন; এরপর যখন এই অতুলনীয় স্থাপত্য ও প্রজ্ঞার স্বরূপ বুঝলেন, তখন তিনি বিনম্রচিত্তে ঘোষণা করলেন: 'হে আমার রব! আমি এতদিন নিজের ওপর জুলুম করেছি, আর আজ আমি সুলাইমানের সাথে সমগ্র জাহানের প্রতিপালক আল্লাহর নিকট আত্মসমর্পণ করলাম।'",
+        "words": [
+          {
+            "en": "crystalline glass floor",
+            "bn": "স্ফটিকস্বচ্ছ কাঁচের মেঝে"
+          },
+          {
+            "en": "aquatic pools",
+            "bn": "প্রবাহিত পানির স্বচ্ছ জলাধার"
+          },
+          {
+            "en": "mistook floor for deep water",
+            "bn": "মেঝেকে গভীর পানি মনে করে ভুল করলেন"
+          },
+          {
+            "en": "wronged myself",
+            "bn": "নিজের নফসের ওপর জুলুম করেছি"
+          },
+          {
+            "en": "submit to Allah, Lord of the worlds",
+            "bn": "রাব্বুল আলামীন আল্লাহর কাছে আত্মসমর্পণ করলাম"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "chronicle-talut-jalut",
+    "title": "Talut and Jalut: King Saul, the River of Faith, and David's Sling",
+    "titleBn": "তালুত ও জালুত: ঈমানের নদী পারাপার ও কিশোর দাউদের গুলতি",
+    "author": "Ibn Kathir (Stories of the Prophets) & Surah Al-Baqarah",
+    "level": "Intermediate",
+    "levelColor": "emerald",
+    "category": "Quranic & Hadith Chronicles",
+    "coverEmoji": "🌊",
+    "summary": "Appointed king over the Children of Israel by Prophet Samuel, Talut tested his massive army at a river, weeding out those who drank uncontrollably until only 313 steadfast warriors remained; facing Goliath's terrifying giant legions, young David stepped forward with his sling, toppling the tyrant.",
+    "summaryBn": "নবী শামুয়েল কর্তৃক বনী ইসরাইলের বাদশাহ নিযুক্ত হয়ে তালুত এক নদীর পানি পানের মাধ্যমে তাঁর বিশাল বাহিনীকে পরীক্ষা করেন; যারা অতিরিক্ত পানি পান করেছিল তাদের বাদ দিয়ে মাত্র ৩১৩ জন অটল মুমিনকে নিয়ে তিনি অগ্রসর হন; ময়দানে বিশালাকার জালুতের ভয়াবহ বাহিনীর সামনে তরুণ দাউদ (আ.) গুলতি হাতে এগিয়ে এসে জালুতকে বধ করেন।",
+    "sentences": [
+      {
+        "en": "Following the passing of Prophet Moses, the Children of Israel suffered humiliating defeats at the hands of the Philistines, losing their most sacred relic—the Ark of the Covenant (Tabut).",
+        "bn": "নবী মূসা (আ.)-এর ওফাতের পর বনী ইসরাইল ফিলিস্তিনীদের হাতে চরম অপদস্থ পরাজয় বরণ করে এবং তাদের সবচেয়ে পবিত্র নিদর্শন—তাওরাতের বরকতময় 'তাবুত' (সিন্দুক)—হারিয়ে ফেলে।",
+        "words": [
+          {
+            "en": "humiliating defeats",
+            "bn": "লজ্জাজনক ও অপমানজনক পরাজয়"
+          },
+          {
+            "en": "Ark of the Covenant (Tabut)",
+            "bn": "পবিত্র বরকতময় সিন্দুক (তাবুত)"
+          },
+          {
+            "en": "sacred relic",
+            "bn": "পবিত্র ধর্মীয় স্মৃতিচিহ্ন"
+          },
+          {
+            "en": "Children of Israel",
+            "bn": "বনী ইসরাইল জাতি"
+          },
+          {
+            "en": "following Moses",
+            "bn": "মূসা (আ.)-এর পরবর্তী যুগ"
+          }
+        ]
+      },
+      {
+        "en": "Begging their Prophet Samuel to appoint a righteous king to lead them into holy battle, Allah selected Talut (Saul), endowing him with vast stature, physical strength, and immense knowledge.",
+        "bn": "শত্রুদের বিরুদ্ধে লড়াই করার জন্য একজন ন্যায়পরায়ণ সেনাপতি মনোনীত করতে তারা নবী শামুয়েলকে অনুরোধ করলে আল্লাহ তালুতকে নির্বাচিত করলেন এবং তাঁকে দীর্ঘ সুঠাম দেহ, অপরিসীম শক্তি ও প্রজ্ঞায় ভূষিত করলেন।",
+        "words": [
+          {
+            "en": "Prophet Samuel",
+            "bn": "নবী শামুয়েল (আ.)"
+          },
+          {
+            "en": "holy battle",
+            "bn": "পবিত্র ধর্মযুদ্ধ বা জিহাদ"
+          },
+          {
+            "en": "selected Talut (Saul)",
+            "bn": "তালুতকে মনোনীত করলেন"
+          },
+          {
+            "en": "physical strength and knowledge",
+            "bn": "শারীরিক শক্তি এবং জ্ঞানের প্রাচুর্য"
+          },
+          {
+            "en": "endowed",
+            "bn": "ভূষিত করলেন"
+          }
+        ]
+      },
+      {
+        "en": "When skeptics questioned his humble background, angels miraculously carried the lost Ark of the Covenant back to them, serving as a divine seal of his legitimate kingship.",
+        "bn": "আভিজাত্যের অহংকারে বনী ইসরাইল যখন তালুতের নেতৃত্ব নিয়ে প্রশ্ন তুলল, তখন ফেরেশতারা অলৌকিকভাবে হারিয়ে যাওয়া পবিত্র সিন্দুকটি বয়ে এনে তাদের সামনে রাখল, যা তাঁর বৈধ বাদশাহির ঐশী প্রমাণ হিসেবে কাজ করল।",
+        "words": [
+          {
+            "en": "skeptics questioned",
+            "bn": "সন্দেহবাদীরা প্রশ্ন তুলল"
+          },
+          {
+            "en": "angels miraculously carried Ark",
+            "bn": "ফেরেশতারা অলৌকিকভাবে সিন্দুকটি বহন করে আনল"
+          },
+          {
+            "en": "divine seal",
+            "bn": "ঐশী সিলমোহর ও অকাট্য প্রমাণ"
+          },
+          {
+            "en": "legitimate kingship",
+            "bn": "বৈধ ও ন্যায়নীতিনির্ভর রাজত্ব"
+          },
+          {
+            "en": "lost relic returned",
+            "bn": "হারানো সিন্দুক ফিরে এল"
+          }
+        ]
+      },
+      {
+        "en": "Marching a massive host into the desert, King Talut announced a severe spiritual test of obedience: 'Indeed, Allah will test you with a river; whoever drinks from it is not of me, and whoever tastes it not is indeed of me, except one who scoops a single handful.'",
+        "bn": "মরুভূমির মাঝে বিশাল বাহিনী নিয়ে যাত্রা করার সময় বাদশাহ তালুত আনুগত্যের এক কঠিন পরীক্ষা ঘোষণা করলেন: 'নিশ্চয়ই আল্লাহ এক নদী দিয়ে তোমাদের পরীক্ষা করবেন; যে পেট ভরে তার পানি পান করবে সে আমার দলভুক্ত নয়, আর যে তা পান করবে না সে-ই আমার দলের, তবে যে হাতের তালুতে মাত্র এক আঁজলা পানি নেবে সে ছাড়া।'",
+        "words": [
+          {
+            "en": "test of obedience",
+            "bn": "আনুগত্য ও শৃঙ্খলার পরীক্ষা"
+          },
+          {
+            "en": "tested with a river",
+            "bn": "এক নদী দিয়ে তোমাদের পরীক্ষা করা হবে"
+          },
+          {
+            "en": "whoever drinks is not of me",
+            "bn": "যে পান করবে সে আমার অনুসারী নয়"
+          },
+          {
+            "en": "scoops a single handful",
+            "bn": "হাতের তালুতে মাত্র এক আঁজলা পানি তুলে নেয়"
+          },
+          {
+            "en": "spiritual discipline",
+            "bn": "আধ্যাত্মিক আত্মসংযম"
+          }
+        ]
+      },
+      {
+        "en": "Failing the test of discipline, the overwhelming majority plunged their faces into the cool water and drank greedily, their strength draining away while only 313 steadfast believers crossed alongside Talut.",
+        "bn": "আত্মসংযমের এই পরীক্ষায় ব্যর্থ হয়ে সিংহভাগ সৈন্য উপুড় হয়ে নদীর মিষ্টি পানি পেট ভরে গিলতে লাগল; অতিরিক্ত পানি পানে তাদের শক্তি নষ্ট হয়ে গেল, আর মাত্র ৩১৩ জন অটল মুমিন তালুতের সাথে নদী পার হলেন।",
+        "words": [
+          {
+            "en": "failing test of discipline",
+            "bn": "শৃঙ্খলার পরীক্ষায় শোচনীয় ব্যর্থতা"
+          },
+          {
+            "en": "drank greedily",
+            "bn": "লোভাতুর হয়ে পেট ভরে পান করল"
+          },
+          {
+            "en": "strength draining away",
+            "bn": "শারীরিক শক্তি নিঃশেষ হয়ে যাওয়া"
+          },
+          {
+            "en": "only 313 steadfast believers",
+            "bn": "মাত্র ৩১৩ জন অটল ও অবিচল মুমিন"
+          },
+          {
+            "en": "crossed alongside king",
+            "bn": "বাদশাহর সাথে নদী পার হলো"
+          }
+        ]
+      },
+      {
+        "en": "Facing the colossal Philistine legions spearheaded by the terrifying giant Jalut (Goliath), the faint-hearted cried: 'We have no strength today against Goliath and his soldiers!'",
+        "bn": "ভয়ানক দানবাকৃতির জালুতের নেতৃত্বে পরিচালিত ফিলিস্তিনীদের পাহাড়সম সৈন্যবাহিনীর মুখোমুখি হয়ে দুর্বল মনের লোকেরা ভয়ে কেঁদে বলল: 'আজ জালুত এবং তার সেনাবাহিনীর বিরুদ্ধে লড়াই করার কোনো শক্তি আমাদের নেই!'",
+        "words": [
+          {
+            "en": "colossal Philistine legions",
+            "bn": "ফিলিস্তিনী শত্রুসেনাদের বিশাল বাহিনী"
+          },
+          {
+            "en": "terrifying giant Jalut (Goliath)",
+            "bn": "ভীতিকর দানবাকৃতির যোদ্ধা জালুত"
+          },
+          {
+            "en": "faint-hearted cried",
+            "bn": "দুর্বলচিত্তের লোকেরা ভয়ে চিৎকার করল"
+          },
+          {
+            "en": "no strength today",
+            "bn": "আজ আমাদের কোনো ক্ষমতা নেই"
+          },
+          {
+            "en": "confronting army",
+            "bn": "সেনাবাহিনীর মুখোমুখি দাঁড়িয়ে"
+          }
+        ]
+      },
+      {
+        "en": "However, the true believers replied with iconic Quranic fortitude: 'How often a small force has defeated a large force by permission of Allah! And Allah is with the patient.'",
+        "bn": "কিন্তু খাঁটি মুমিনরা কোরআনের সেই কালজয়ী ঈমানী শক্তিতে জবাব দিলেন: 'কতবার এমন হয়েছে যে আল্লাহর হুকুমে একটি ক্ষুদ্র দল এক বিশাল দলকে পরাস্ত করেছে! আর আল্লাহ তো ধৈর্যশীলদের সাথেই আছেন।'",
+        "words": [
+          {
+            "en": "iconic Quranic fortitude",
+            "bn": "কোরআনী ঈমানী দৃঢ়তা ও অবিচল প্রত্যয়"
+          },
+          {
+            "en": "small force defeated large force",
+            "bn": "ক্ষুদ্র দল বিশাল বাহিনীকে পরাজিত করেছে"
+          },
+          {
+            "en": "by permission of Allah",
+            "bn": "আল্লাহর হুকুম ও কুদরতে"
+          },
+          {
+            "en": "Allah is with the patient",
+            "bn": "নিশ্চয়ই আল্লাহ ধৈর্যশীলদের সাথে আছেন"
+          },
+          {
+            "en": "true believers",
+            "bn": "খাঁটি মুমিনগণ"
+          }
+        ]
+      },
+      {
+        "en": "When Goliath stepped forward bellowing arrogant blasphemies, young shepherd boy Dawud stepped into the arena with his sling, launched a smooth stone guided by divine precision, and shattered Goliath's skull, securing a miraculous victory.",
+        "bn": "জালুত যখন অহংকারে কুফরি স্লোগান দিয়ে দ্বৈরথের চ্যালেঞ্জ জানাল, তখন তরুণ রাখাল বালক দাউদ তাঁর গুলতি হাতে ময়দানে এগিয়ে এলেন; আল্লাহর কুদরতে নিখুঁত নিশানায় পাথর ছুড়ে তিনি জালুতের কপাল চূর্ণ করে দিলেন এবং এক অলৌকিক বিজয় এনে দিলেন।",
+        "words": [
+          {
+            "en": "bellowing arrogant blasphemies",
+            "bn": "দাম্ভিক কুফরি হুঙ্কার দেওয়া"
+          },
+          {
+            "en": "stepped into arena",
+            "bn": "রণক্ষেত্রের ময়দানে পা রাখলেন"
+          },
+          {
+            "en": "young shepherd boy Dawud",
+            "bn": "কিশোর রাখাল বালক দাউদ"
+          },
+          {
+            "en": "divine precision",
+            "bn": "ঐশী নিখুঁত নিশানা"
+          },
+          {
+            "en": "shattered Goliath's skull",
+            "bn": "জালুতের কপাল ও মাথার খুলি গুঁড়িয়ে দিল"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "chronicle-maryam-sanctuary",
+    "title": "Maryam in the Sanctuary: The Chaste Maiden and Heavenly Sustenance",
+    "titleBn": "মারইয়াম (আ.): নির্জন মিহরাবে ঐশী আহার ও সতীত্বের শ্রেষ্ঠ প্রতীক",
+    "author": "Ibn Kathir (Stories of the Prophets) & Surah Al-Imran & Maryam",
+    "level": "Intermediate",
+    "levelColor": "emerald",
+    "category": "Quranic & Hadith Chronicles",
+    "coverEmoji": "✨",
+    "summary": "Dedicated before birth by her pious mother Hannah to the service of the holy Temple in Jerusalem, Maryam lived in pristine seclusion; fed with miraculous seasonal fruits from Paradise that amazed Prophet Zakariya, she was purified and chosen above all women of the worlds.",
+    "summaryBn": "জন্মের আগেই পুণ্যবতী মা হান্নাহ কর্তৃক বায়তুল মুকাদ্দাসের খেদমতে ওয়াকফ হওয়া মারইয়াম (আ.) পবিত্র নির্জনতায় জীবনযাপন করতেন; অলৌকিকভাবে জান্নাত থেকে প্রেরিত অসময়ের ফলমূল দেখে স্বয়ং নবী জাকারিয়াও বিস্মিত হয়েছিলেন; মহান আল্লাহ তাঁকে পবিত্র করে বিশ্বজগতের সমস্ত নারীদের ওপরে শ্রেষ্ঠত্ব দান করেছিলেন।",
+    "sentences": [
+      {
+        "en": "Before Maryam was born, her pious mother Hannah, wife of Imran, dedicated the child in her womb exclusively to the perpetual service of the holy sanctuary of Jerusalem (Bayt al-Maqdis).",
+        "bn": "মারইয়ামের জন্মের পূর্বেই তাঁর পুণ্যবতী মা হান্নাহ (ইমরানের স্ত্রী) নিজের গর্ভের সন্তানকে জেরুজালেমের পবিত্র বায়তুল মুকাদ্দাসের আজীবন খেদমতের উদ্দেশ্যে নিঃশর্তভাবে ওয়াকফ করেছিলেন।",
+        "words": [
+          {
+            "en": "dedicated child in womb",
+            "bn": "গর্ভের সন্তানকে আল্লাহর জন্য ওয়াকফ করলেন"
+          },
+          {
+            "en": "perpetual service",
+            "bn": "আজীবন নিরবচ্ছিন্ন খেদমত"
+          },
+          {
+            "en": "holy sanctuary (Bayt al-Maqdis)",
+            "bn": "পবিত্র বায়তুল মুকাদ্দাস"
+          },
+          {
+            "en": "Hannah, wife of Imran",
+            "bn": "হান্নাহ (ইমরানের পুণ্যবতী স্ত্রী)"
+          },
+          {
+            "en": "pious mother",
+            "bn": "নেককার ও ধার্মিক মা"
+          }
+        ]
+      },
+      {
+        "en": "Though she delivered a female child, Allah accepted her offering with gracious acceptance and caused young Maryam to grow in extraordinary purity, virtue, and grace.",
+        "bn": "কন্যা সন্তান জন্ম দেওয়া সত্ত্বেও আল্লাহ পরম সন্তুষ্টির সাথে তার এই মানত কবুল করে নিলেন এবং ছোট্ট মারইয়ামকে এক অনন্য পবিত্রতা, নেককার চরিত্র ও মাধুর্যের সাথে বড় করে তুললেন।",
+        "words": [
+          {
+            "en": "gracious acceptance",
+            "bn": "উত্তমরূপে বা সন্তুষ্টির সাথে কবুল করা"
+          },
+          {
+            "en": "extraordinary purity and grace",
+            "bn": "অসাধারণ পবিত্রতা এবং মাধুর্য"
+          },
+          {
+            "en": "accepted offering",
+            "bn": "উৎসর্গীকৃত মানত কবুল করলেন"
+          },
+          {
+            "en": "delivered a female",
+            "bn": "কন্যা সন্তান জন্ম দিলেন"
+          },
+          {
+            "en": "grow in virtue",
+            "bn": "সততা ও পবিত্রতায় বেড়ে ওঠা"
+          }
+        ]
+      },
+      {
+        "en": "Prophet Zakariya, who was her uncle by marriage, constructed an elevated private chamber (mihrab) for her inside the temple, securing her privacy from worldly intrusion.",
+        "bn": "সম্পর্কে খালু নবী জাকারিয়া (আ.) মসজিদের ভেতরে তাঁর জন্য একটি উঁচু নির্জন কামরা (মিহরাব) তৈরি করে দিলেন, যাতে বাইরের পৃথিবীর কোনো কোলাহল বা অনাকাঙ্ক্ষিত দৃষ্টি সেখানে পৌঁছাতে না পারে।",
+        "words": [
+          {
+            "en": "elevated private chamber (mihrab)",
+            "bn": "উঁচু নিভৃত উপাসনাকক্ষ (মিহরাব)"
+          },
+          {
+            "en": "Prophet Zakariya",
+            "bn": "নবী জাকারিয়া (আ.)"
+          },
+          {
+            "en": "securing privacy",
+            "bn": "পর্দা ও নির্জনতা নিশ্চিত করা"
+          },
+          {
+            "en": "worldly intrusion",
+            "bn": "পার্থিব বিশৃঙ্খলা বা অনুপ্রবেশ"
+          },
+          {
+            "en": "temple sanctuary",
+            "bn": "মসজিদের পবিত্র চত্বর"
+          }
+        ]
+      },
+      {
+        "en": "Maryam immersed herself day and night in continuous prayer, prostration, and glorification, attaining a state of angelic spiritual elevation.",
+        "bn": "মারইয়াম দিন-রাত অবিরাম সালাত, সিজদা ও আল্লাহর তাসবীহ পাঠে নিমগ্ন রইলেন; ফলে তিনি ফেরেশতাসুলভ এক সুউচ্চ আধ্যাত্মিক মর্যাদায় আসীন হলেন।",
+        "words": [
+          {
+            "en": "continuous prayer and prostration",
+            "bn": "অবিরাম নামাজ ও সিজদা"
+          },
+          {
+            "en": "spiritual elevation",
+            "bn": "উচ্চ আধ্যাত্মিক মর্যাদা"
+          },
+          {
+            "en": "angelic state",
+            "bn": "ফেরেশতাসুলভ নিষ্কলুষ অবস্থা"
+          },
+          {
+            "en": "immersed day and night",
+            "bn": "দিন-রাত নিমগ্ন রইলেন"
+          },
+          {
+            "en": "glorification",
+            "bn": "আল্লাহর পবিত্রতা ও মহিমা কীর্তন"
+          }
+        ]
+      },
+      {
+        "en": "Whenever Zakariya entered her locked sanctuary to deliver provisions, he discovered fresh, luscious fruits that belonged to different seasons—summer produce in the dead of winter and winter fruits in midsummer.",
+        "bn": "জাকারিয়া যখনই খাবার পৌঁছে দিতে তালাবদ্ধ কামরায় প্রবেশ করতেন, তিনি সেখানে অসময়ের তাজা সুস্বাদু ফল দেখতে পেতেন—শীতের দিনে গ্রীষ্মের ফল এবং গ্রীষ্মের তপ্ত দিনে শীতকালের মিষ্টি ফল।",
+        "words": [
+          {
+            "en": "locked sanctuary",
+            "bn": "তালাবদ্ধ গোপন কামরা"
+          },
+          {
+            "en": "luscious fruits of different seasons",
+            "bn": "ভিন্ন ভিন্ন ঋতুর সুস্বাদু তাজা ফল"
+          },
+          {
+            "en": "dead of winter",
+            "bn": "কনকনে শীতের মাঝে"
+          },
+          {
+            "en": "midsummer",
+            "bn": "গ্রীষ্মের মাঝামাঝি সময়ে"
+          },
+          {
+            "en": "deliver provisions",
+            "bn": "খাবার বা রসদ পৌঁছে দেওয়া"
+          }
+        ]
+      },
+      {
+        "en": "When Zakariya asked with awe: 'O Maryam, where did this come to you?' she answered with tranquil certainty: 'It is from Allah; indeed, Allah provides sustenance to whom He wills without measure.'",
+        "bn": "জাকারিয়া যখন বিস্ময়ে জিজ্ঞাসা করলেন: 'হে মারইয়াম! কোথা থেকে তোমার কাছে এসব খাবার এল?' মারইয়াম পরম স্থির প্রত্যয়ে বললেন: 'এ তো সরাসরি আল্লাহর পক্ষ থেকে; নিশ্চয়ই আল্লাহ যাকে ইচ্ছা অপরিমিত রিযিক দান করেন।'",
+        "words": [
+          {
+            "en": "asked with awe",
+            "bn": "বিস্ময় ও শ্রদ্ধায় জিজ্ঞাসা করলেন"
+          },
+          {
+            "en": "tranquil certainty",
+            "bn": "প্রশান্ত ও অটল বিশ্বাস"
+          },
+          {
+            "en": "It is from Allah",
+            "bn": "এ সরাসরি আল্লাহর তরফ থেকে"
+          },
+          {
+            "en": "provides without measure",
+            "bn": "হিসাব ছাড়া অফুরন্ত রিযিক দান করেন"
+          },
+          {
+            "en": "sustenance",
+            "bn": "খাদ্য ও রিযিক"
+          }
+        ]
+      },
+      {
+        "en": "Angels descended upon her sanctuary to announce the supreme honor: 'O Maryam, indeed Allah has chosen you, purified you, and chosen you above the women of the worlds!'",
+        "bn": "ফেরেশতারা তাঁর মিহরাবে অবতরণ করে সেই মহিমান্বিত ঐশী ঘোষণা শোনাল: 'হে মারইয়াম! নিশ্চয়ই আল্লাহ আপনাকে মনোনীত করেছেন, আপনাকে পবিত্র করেছেন এবং সমগ্র বিশ্বজগতের নারীদের ওপরে আপনাকে শ্রেষ্ঠত্ব দান করেছেন!'",
+        "words": [
+          {
+            "en": "supreme honor announced",
+            "bn": "সর্বোচ্চ সম্মান ও মর্যাদা ঘোষণা করল"
+          },
+          {
+            "en": "chosen you and purified you",
+            "bn": "আপনাকে মনোনীত ও পবিত্র করেছেন"
+          },
+          {
+            "en": "above women of the worlds",
+            "bn": "বিশ্বজগতের সমস্ত নারীদের ঊর্ধ্বে"
+          },
+          {
+            "en": "angels descended",
+            "bn": "ফেরেশতারা অবতরণ করলেন"
+          },
+          {
+            "en": "Surah Al-Imran",
+            "bn": "পবিত্র সূরা আলে-ইমরান"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "chronicle-qarun-treasures",
+    "title": "Qarun: The Arrogant Tycoon Swallowed by the Earth",
+    "titleBn": "কারুন: সম্পদের অহংকারে অন্ধ ধনী ও মাটির অতলে নিখোঁজের পরিণতি",
+    "author": "Ibn Kathir (Stories of the Prophets) & Surah Al-Qasas",
+    "level": "Intermediate",
+    "levelColor": "emerald",
+    "category": "Quranic & Hadith Chronicles",
+    "coverEmoji": "🪙",
+    "summary": "A cousin of Moses endowed with unimaginable wealth whose treasure keys required a company of strong men to carry, Qarun succumbed to toxic pride, claiming his fortunes were derived solely from his own intellect; defying warnings against corruption, the earth opened its jaws and swallowed him and his magnificent palace whole.",
+    "summaryBn": "নবী মূসা (আ.)-এর জ্ঞাতি ভাই কারুন এত বিপুল ধনসম্পদের মালিক ছিল যে তার রাজকোষের চাবিগুলো বহন করতেই একদল শক্তিশালী পুরুষের প্রয়োজন হতো; অহংকারে অন্ধ হয়ে সে দাবি করে যে নিজের বুদ্ধিবলে সে এই সম্পদ অর্জন করেছে; অবশেষে আল্লাহর গযবে মাটি বিদীর্ণ হয়ে কারুন এবং তার সমস্ত প্রাসাদকে মাটির অতলে চিরতরে গ্রাস করে নেয়।",
+    "sentences": [
+      {
+        "en": "Qarun (Korah) was a prominent, educated member of the Children of Israel who served as an influential official in ancient Egypt, blessed with colossal and unprecedented material wealth.",
+        "bn": "কারুন ছিল বনী ইসরাইল গোত্রের এক অত্যন্ত শিক্ষিত ও প্রভাবশালী ব্যক্তি, যে প্রাচীন মিশরে এক উচ্চপদে আসীন ছিল এবং বিপুল ও নজিরবিহীন ধনসম্পদের মালিক হয়েছিল।",
+        "words": [
+          {
+            "en": "unprecedented material wealth",
+            "bn": "নজিরবিহীন পার্থিব ধনসম্পদ ও প্রাচুর্য"
+          },
+          {
+            "en": "Children of Israel",
+            "bn": "বনী ইসরাইল জাতি"
+          },
+          {
+            "en": "influential official",
+            "bn": "প্রভাবশালী রাজকর্মকর্তা"
+          },
+          {
+            "en": "Qarun (Korah)",
+            "bn": "কারুন"
+          },
+          {
+            "en": "prominent",
+            "bn": "সুপরিচিত ও শীর্ষস্থানীয়"
+          }
+        ]
+      },
+      {
+        "en": "His fortunes were so astronomical that the iron keys to his underground treasure vaults were a burdensome load requiring a company of robust, muscular men just to transport them.",
+        "bn": "তাঁর ধনসম্পদ এত বিপুল ছিল যে তাঁর মাটির নিচের রাজকোষের লোহার চাবিগুলো বহন করতেই একদল বলিষ্ঠ ও শক্তিশালী পুরুষের পুরো দল লাগত।",
+        "words": [
+          {
+            "en": "astronomical fortunes",
+            "bn": "বিপুল ও আকাশচুম্বী ধনদৌলত"
+          },
+          {
+            "en": "iron keys to vaults",
+            "bn": "মাটির নিচের কোষাগারের লোহার চাবিসমূহ"
+          },
+          {
+            "en": "burdensome load",
+            "bn": "ভারী ও কষ্টসাধ্য বোঝা"
+          },
+          {
+            "en": "robust muscular men",
+            "bn": "শক্তিশালী ও সুঠাম দেহের পুরুষদল"
+          },
+          {
+            "en": "transport them",
+            "bn": "সেগুলো বহন করে নিয়ে যাওয়া"
+          }
+        ]
+      },
+      {
+        "en": "Righteous elders of his people admonished him with heartfelt counsel: 'Do not exult proudly; indeed, Allah does not love the exultant! Seek the Home of the Hereafter through what Allah gave you, do good as Allah has done good to you, and do not cause corruption in the land.'",
+        "bn": "তাঁর জাতির পুণ্যবান প্রবীণরা তাকে আন্তরিক উপদেশ দিয়ে বললেন: 'অহংকারে ফেটে পোড়ো না; নিশ্চয়ই আল্লাহ অহংকারী আত্মম্ভরিদের ভালোবাসেন না! আল্লাহ তোমাকে যা দিয়েছেন তা দিয়ে পরকালের মুক্তি সন্ধান করো, মানুষের সাথে দয়া করো যেমন আল্লাহ তোমার প্রতি দয়া করেছেন, এবং জমিনে বিপর্যয় সৃষ্টি কোরো না।'",
+        "words": [
+          {
+            "en": "admonished with counsel",
+            "bn": "উপদেশ দিয়ে সতর্ক করলেন"
+          },
+          {
+            "en": "do not exult proudly",
+            "bn": "অহংকারে আত্মহারা হয়ো না"
+          },
+          {
+            "en": "Home of the Hereafter",
+            "bn": "আখেরাত বা পরকালের চিরন্তন ঘর"
+          },
+          {
+            "en": "do good as Allah did to you",
+            "bn": "অন্যদের সাথে ভালো ব্যবহার করো যেমন আল্লাহ করেছেন"
+          },
+          {
+            "en": "corruption in the land",
+            "bn": "জমিনের বুকে ফ্যাসাদ বা বিশৃঙ্খলা"
+          }
+        ]
+      },
+      {
+        "en": "Infuriated by their moral reminder, Qarun sneered with supreme arrogance: 'I was only given all this wealth because of superior knowledge and intellect that I inherently possess!'",
+        "bn": "এই নৈতিক উপদেশে ক্ষিপ্ত হয়ে কারুন চরম দাম্ভিকতার সাথে উপহাস করে বলল: 'আমার মধ্যে থাকা নিজস্ব মেধা, জ্ঞান এবং বুদ্ধিবলেই আমি এই সমস্ত অগাধ সম্পদের মালিক হয়েছি!'",
+        "words": [
+          {
+            "en": "sneered with arrogance",
+            "bn": "চরম অহংকার নিয়ে উপহাস করল"
+          },
+          {
+            "en": "superior knowledge and intellect",
+            "bn": "আমার নিজস্ব শ্রেষ্ঠ জ্ঞান ও মেধা"
+          },
+          {
+            "en": "inherently possess",
+            "bn": "আমার নিজের ভেতর যা সহজাতভাবে আছে"
+          },
+          {
+            "en": "infuriated by reminder",
+            "bn": "উপদেশ শুনে ক্ষিপ্ত হয়ে"
+          },
+          {
+            "en": "blatant ingratitude",
+            "bn": "চরম অকৃতজ্ঞতা"
+          }
+        ]
+      },
+      {
+        "en": "To flaunt his superiority, he paraded through the city streets in dazzling royal regalia flanked by thousands of armed guards on thoroughbred steeds, causing materialistic onlookers to sigh: 'Oh, would that we had the likes of what Qarun has been given!'",
+        "bn": "নিজের শ্রেষ্ঠত্ব জাহির করতে সে চোখ ধাঁধানো রাজকীয় পোশাকে সজ্জিত হয়ে হাজার হাজার সশস্ত্র প্রহরী ও সুসজ্জিত ঘোড়ার বহর নিয়ে নগরীর রাজপথে মহড়া দিল; তা দেখে দুনিয়ামুখী দুর্বল মানুষেরা দীর্ঘশ্বাস ফেলে বলল: 'হায়! কারুনকে যা দেওয়া হয়েছে আমাদেরও যদি তেমন থাকত!'",
+        "words": [
+          {
+            "en": "flaunt his superiority",
+            "bn": "নিজের শ্রেষ্ঠত্ব প্রদর্শন বা জাহির করা"
+          },
+          {
+            "en": "dazzling royal regalia",
+            "bn": "চোখ ধাঁধানো রাজকীয় পোশাক ও অলঙ্কার"
+          },
+          {
+            "en": "thoroughbred steeds",
+            "bn": "উন্নত জাতের সুসজ্জিত ঘোড়া"
+          },
+          {
+            "en": "materialistic onlookers",
+            "bn": "পার্থিব মোহে অন্ধ দর্শকদল"
+          },
+          {
+            "en": "sighed in envy",
+            "bn": "দীর্ঘশ্বাস ফেলে আকাঙ্ক্ষা করল"
+          }
+        ]
+      },
+      {
+        "en": "However, scholars of divine knowledge retorted: 'Woe to you! The reward of Allah in the Hereafter is far better for whoever believes and does righteousness.'",
+        "bn": "কিন্তু দ্বীনি জ্ঞানে সমৃদ্ধ আলেমরা তাদের তিরস্কার করে বললেন: 'ধিক তোমাদের! যারা ঈমান আনে এবং নেক কাজ করে তাদের জন্য পরকালে আল্লাহর পুরস্কার এর চেয়ে বহুগুণে উৎকৃষ্ট ও শ্রেষ্ঠ।'",
+        "words": [
+          {
+            "en": "scholars of divine knowledge",
+            "bn": "ঐশী জ্ঞানে সমৃদ্ধ আলেমসমাজ"
+          },
+          {
+            "en": "Woe to you",
+            "bn": "তোমাদের জন্য আফসোস বা ধিক্কার"
+          },
+          {
+            "en": "reward of Allah in Hereafter",
+            "bn": "পরকালে মহান আল্লাহর মহা পুরস্কার"
+          },
+          {
+            "en": "retorted",
+            "bn": "পাল্টা জবাব দিলেন"
+          },
+          {
+            "en": "does righteousness",
+            "bn": "সৎকর্মশীল জীবন যাপন করে"
+          }
+        ]
+      },
+      {
+        "en": "When Qarun attempted to frame Prophet Moses with a scandalous false accusation involving a bribed woman, divine retribution struck: the solid earth split open with a terrifying roar, swallowing Qarun, his colossal mansion, and all his treasures into the subterranean abyss.",
+        "bn": "কারুন যখন এক নারীকে টাকা দিয়ে কিনে এনে নবী মূসার বিরুদ্ধে এক মিথ্যা কলঙ্ক রটানোর ষড়যন্ত্র করল, তখনই ঐশী গযব নেমে এল: এক বিকট গর্জনে শক্ত মাটি ফেটে দুই ভাগ হয়ে গেল এবং কারুন, তার সমস্ত রাজপ্রাসাদ ও স্তূপীকৃত ধনসম্পদকে মাটির গভীর অতল গহ্বরে গ্রাস করে নিল।",
+        "words": [
+          {
+            "en": "frame with false accusation",
+            "bn": "মিথ্যা অপবাদ দিয়ে ফাঁসানোর চেষ্টা"
+          },
+          {
+            "en": "bribed woman",
+            "bn": "টাকা দিয়ে কেনা মিথ্যা অপবাদকারী নারী"
+          },
+          {
+            "en": "earth split open with roar",
+            "bn": "মাটি বিকট গর্জনে ফেটে বিদীর্ণ হলো"
+          },
+          {
+            "en": "swallowed into subterranean abyss",
+            "bn": "মাটির গভীর পাতালে গ্রাস করে নিল"
+          },
+          {
+            "en": "divine retribution",
+            "bn": "ঐশী শাস্তি বা গযব"
+          }
+        ]
+      },
+      {
+        "en": "Those who had envied him the previous day woke up trembling in terror, exclaiming: 'Alas, Allah expands provision for whom He wills and restricts it; had Allah not conferred favor upon us, we would surely have been swallowed as well!'",
+        "bn": "আগের দিন যারা তার ঐশ্বর্য দেখে ঈর্ষা করেছিল তারা সকালে ভয়ে কাঁপতে কাঁপতে বলে উঠল: 'হায় আফসোস! আল্লাহই তো যার জন্য ইচ্ছা রিযিক প্রশস্ত করেন এবং যার জন্য ইচ্ছা সংকীর্ণ করেন; আল্লাহ যদি আমাদের ওপর দয়া না করতেন তবে আজ আমাদেরও মাটির নিচে ধসিয়ে দিতেন!'",
+        "words": [
+          {
+            "en": "envied him previous day",
+            "bn": "আগের দিন যার সম্পদে লোভ করেছিল"
+          },
+          {
+            "en": "woke up trembling",
+            "bn": "ভয়ে কাঁপতে কাঁপতে জেগে উঠল"
+          },
+          {
+            "en": "expands and restricts provision",
+            "bn": "রিযিক প্রশস্ত এবং সংকীর্ণ করেন"
+          },
+          {
+            "en": "conferred favor upon us",
+            "bn": "আমাদের ওপর বিশেষ দয়া করেছিলেন"
+          },
+          {
+            "en": "swallowed as well",
+            "bn": "মাটির নিচে আমাদেরও গ্রাস করা হতো"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "chronicle-people-sabbath",
+    "title": "People of the Sabbath: Ashab al-Sabt and the Test of the Fishing Nets",
+    "titleBn": "আসহাবে সাবত: শনিবারের নিষেধাজ্ঞা অমান্য ও বানরে রূপান্তরের করুণ পরিণতি",
+    "author": "Ibn Kathir (Stories of the Prophets) & Surah Al-A'raf",
+    "level": "Intermediate",
+    "levelColor": "emerald",
+    "category": "Quranic & Hadith Chronicles",
+    "coverEmoji": "🐟",
+    "summary": "An ancient coastal Israelite settlement was forbidden by divine law from fishing on Saturdays; Allah tested their piety by causing abundant fish to leap visibly on the Sabbath while vanishing on weekdays; concocting a legal trick to trap fish on Friday, the transgressors were metamorphosed into despised apes.",
+    "summaryBn": "লোহিত সাগরের তীরে অবস্থিত বনী ইসরাইলের এক উপকূলীয় জনপদে শনিবারে মাছ ধরা ঐশী বিধানে নিষিদ্ধ ছিল; আল্লাহ তাদের ঈমান পরীক্ষা করতে শনিবারে ঝাঁকে ঝাঁকে মাছ দৃশ্যমান করে পাঠাতেন আর সপ্তাহের অন্য দিন মাছ ডুব দিত; রবিবারে মাছ সংগ্রহের জন্য তারা শুক্রবারে জাল পেতে রাখত; এই ধূর্ত প্রতারণার কারণে আল্লাহ সেই পাপীদের নিকৃষ্ট বানরে রূপান্তরিত করে দেন।",
+    "sentences": [
+      {
+        "en": "In the ancient coastal settlement of Aylah on the shores of the Red Sea, a community of the Children of Israel lived primarily by maritime commerce and fishing.",
+        "bn": "লোহিত সাগরের উপকূলে অবস্থিত আইলা নামের এক প্রাচীন সমুদ্রতীরবর্তী জনপদে বনী ইসরাইলের একটি সম্প্রদায় মূলত মাছ শিকার ও সমুদ্র বাণিজ্যের ওপর জীবিকা নির্বাহ করত।",
+        "words": [
+          {
+            "en": "coastal settlement of Aylah",
+            "bn": "আইলা নামের উপকূলীয় জনপদ"
+          },
+          {
+            "en": "shores of the Red Sea",
+            "bn": "লোহিত সাগরের শান্ত তীর"
+          },
+          {
+            "en": "maritime commerce",
+            "bn": "সমুদ্রপথে ব্যবসা-বাণিজ্য"
+          },
+          {
+            "en": "Children of Israel",
+            "bn": "বনী ইসরাইল জাতি"
+          },
+          {
+            "en": "fishing",
+            "bn": "মৎস্য শিকার"
+          }
+        ]
+      },
+      {
+        "en": "Under the sacred law of the Torah, the Sabbath (Saturday) was consecrated exclusively for spiritual worship, during which all commercial transactions, physical toil, and fishing were strictly prohibited.",
+        "bn": "তাওরাতের পবিত্র শরিয়ত অনুযায়ী শনিবারের দিনটি (সাবত) একমাত্র আল্লাহর ইবাদতের জন্য নির্ধারিত ছিল; এই দিনে যেকোনো বৈষয়িক কাজ, বাণিজ্য এবং মাছ শিকার করা কঠোরভাবে নিষিদ্ধ ছিল।",
+        "words": [
+          {
+            "en": "law of the Torah",
+            "bn": "তাওরাতের পবিত্র শরিয়ত"
+          },
+          {
+            "en": "Sabbath (Saturday)",
+            "bn": "শনিবারের পবিত্র দিন (সাবত)"
+          },
+          {
+            "en": "consecrated exclusively for worship",
+            "bn": "একমাত্র ইবাদতের জন্য নির্ধারিত"
+          },
+          {
+            "en": "strictly prohibited",
+            "bn": "কঠোরভাবে নিষিদ্ধ বা হারাম"
+          },
+          {
+            "en": "commercial transactions",
+            "bn": "ব্যবসায়িক লেনদেন"
+          }
+        ]
+      },
+      {
+        "en": "To test the sincerity of their faith, Allah orchestrated a supreme trial: on Saturdays, schools of fat, succulent fish breached visibly out of the water near the shore, whereas on all other six days of the week, not a single fish appeared.",
+        "bn": "তাদের ঈমানের খাঁটি রূপ পরীক্ষা করার জন্য আল্লাহ এক অভিনব পরীক্ষা নিলেন: শনিবার এলেই ঝাঁকে ঝাঁকে মোটাতাজা মাছ কূলের কাছে এসে পানির ওপর লাফালাফি করত, আর সপ্তাহের বাকি ছয় দিন সাগরে কোনো মাছের দেখাই মিলত না।",
+        "words": [
+          {
+            "en": "orchestrated supreme trial",
+            "bn": "এক কঠিন পরীক্ষা সংঘটিত করলেন"
+          },
+          {
+            "en": "schools of fish breached visibly",
+            "bn": "মাছের ঝাঁক পানির ওপর প্রকাশ্যে ভেসে উঠত"
+          },
+          {
+            "en": "other six days of week",
+            "bn": "সপ্তাহের অন্য ছয়টি দিন"
+          },
+          {
+            "en": "test sincerity of faith",
+            "bn": "ঈমানের আন্তরিকতা পরীক্ষা করা"
+          },
+          {
+            "en": "not a single fish appeared",
+            "bn": "একটি মাছেরও দেখা মিলত না"
+          }
+        ]
+      },
+      {
+        "en": "Lacking spiritual discipline, greedy fishermen concocted an insidious legal loophole: on Friday afternoons, they dug trenches and cast deep nets, trapping the fish on Saturday, and harvesting the catch on Sunday morning, falsely claiming they never fished on the Sabbath.",
+        "bn": "সবর ও খোদাভীতির অভাবে কিছু লোভী জেলে এক ধূর্ত প্রতারণার কৌশল আঁটল: তারা শুক্রবার বিকেলে গভীর পরিখা ও জাল পেতে রাখত, যাতে শনিবারে আসা মাছ আটকে যায়, আর রবিবার সকালে তারা মাছ সংগ্রহ করে বলত তারা তো শনিবারে মাছ ধরেনি!",
+        "words": [
+          {
+            "en": "insidious legal loophole",
+            "bn": "কপট ও প্রতারণামূলক আইনি ফাঁকফোকর"
+          },
+          {
+            "en": "greedy fishermen",
+            "bn": "লোভাতুর একদল জেলে"
+          },
+          {
+            "en": "dug trenches and cast nets",
+            "bn": "পরিখা খনন করল এবং জাল পাতল"
+          },
+          {
+            "en": "trapping fish on Saturday",
+            "bn": "শনিবারের দিনে মাছ আটকে ফেলা"
+          },
+          {
+            "en": "falsely claiming",
+            "bn": "ভিত্তিহীন মিথ্যা দাবি করা"
+          }
+        ]
+      },
+      {
+        "en": "The community divided into three distinct groups: the corrupt transgressors who engaged in the deceit, a righteous faction who actively admonished them against divine retribution, and an indifferent party who questioned why preach to doomed sinners.",
+        "bn": "সমাজটি তিনটি পরিষ্কার দলে বিভক্ত হয়ে গেল: প্রথম দল যারা এই ধূর্ত পাপকর্মে লিপ্ত হলো, দ্বিতীয় দল পুণ্যবান মুমিন যারা আল্লাহর শাস্তির ভয় দেখিয়ে তাদের বারবার বারণ করল, এবং তৃতীয় দল উদাসীন যারা বলল ধ্বংস হতে চলা পাপীদের নসিহত করে কী লাভ।",
+        "words": [
+          {
+            "en": "three distinct groups",
+            "bn": "তিনটি পৃথক দল"
+          },
+          {
+            "en": "corrupt transgressors",
+            "bn": "সীমালঙ্ঘনকারী প্রতারক পাপিষ্ঠ দল"
+          },
+          {
+            "en": "actively admonished",
+            "bn": "সক্রিয়ভাবে অন্যায়ের প্রতিবাদ ও বারণ করল"
+          },
+          {
+            "en": "indifferent party",
+            "bn": "উদাসীন ও নিষ্ক্রিয় গোষ্ঠী"
+          },
+          {
+            "en": "divine retribution",
+            "bn": "ঐশী শাস্তি বা গযব"
+          }
+        ]
+      },
+      {
+        "en": "The righteous replied: 'To be free from blame before your Lord, and perhaps that they may become conscious of Allah.'",
+        "bn": "প্রতিবাদকারী সৎ দল জবাব দিল: 'আমরা প্রতিবাদ করি যাতে আমাদের রবের সামনে আমরা দায়মুক্ত হতে পারি, এবং হয়তো তারা আল্লাহর ভয়ে পাপ বর্জন করতে পারে।'",
+        "words": [
+          {
+            "en": "free from blame",
+            "bn": "রবের দরবারে দায়িত্বমুক্ত বা নির্দোষ থাকা"
+          },
+          {
+            "en": "conscious of Allah",
+            "bn": "খোদাভীরু বা মুত্তাকী হওয়া"
+          },
+          {
+            "en": "righteous replied",
+            "bn": "সৎকর্মশীলরা জবাব দিল"
+          },
+          {
+            "en": "duty of preaching",
+            "bn": "দাওয়াত ও নসিহত করার দায়িত্ব"
+          },
+          {
+            "en": "moral responsibility",
+            "bn": "নৈতিক দায়বদ্ধতা"
+          }
+        ]
+      },
+      {
+        "en": "When the transgressors arrogantly persisted in their trickery, the righteous community separated themselves by erecting a dividing wall inside the town to avoid the descending wrath.",
+        "bn": "সীমালঙ্ঘনকারীরা যখন একগুঁয়েমি করে তাদের প্রতারণায় অটল রইল, তখন আসন্ন ঐশী গযব থেকে বাঁচতে সৎ ঈমানদারেরা শহরের মাঝখানে প্রাচীর তুলে নিজেদের আলাদা করে ফেললেন।",
+        "words": [
+          {
+            "en": "persisted in trickery",
+            "bn": "প্রতারণা ও অন্যায়ে অবিচল রইল"
+          },
+          {
+            "en": "erecting dividing wall",
+            "bn": "বিভেদকারী দেয়াল নির্মাণ করা"
+          },
+          {
+            "en": "separated themselves",
+            "bn": "নিজেদের সম্পূর্ণ বিচ্ছিন্ন করলেন"
+          },
+          {
+            "en": "descending wrath",
+            "bn": "আসন্ন ঐশী গযব"
+          },
+          {
+            "en": "arrogantly",
+            "bn": "দাম্ভিকতার সাথে"
+          }
+        ]
+      },
+      {
+        "en": "One morning, when eerie silence enveloped the quarters of the transgressors, the righteous looked over the wall and were horrified to discover that Allah had transformed the disobedient sinners into despised, chattering apes.",
+        "bn": "একদিন সকালে যখন পাপীদের এলাকা থেকে কোনো মানুষের সাড়াশব্দ মিলল না, তখন মুমিনরা প্রাচীরের ওপর দিয়ে তাকিয়ে ভয়ে শিউরে উঠে দেখলেন যে অবাধ্যতার শাস্তিস্বরূপ আল্লাহ সেই পাপিষ্ঠদের লাঞ্ছিত ও মুখবিকৃত বানরে রূপান্তরিত করে দিয়েছেন।",
+        "words": [
+          {
+            "en": "eerie silence enveloped",
+            "bn": "ভুতুড়ে নিস্তব্ধতা আচ্ছন্ন করল"
+          },
+          {
+            "en": "looked over the wall",
+            "bn": "দেয়ালের ওপর দিয়ে তাকালেন"
+          },
+          {
+            "en": "horrified to discover",
+            "bn": "দেখে ভয়ে আঁতকে উঠলেন"
+          },
+          {
+            "en": "despised chattering apes",
+            "bn": "লাঞ্ছিত ও ঘৃণিত কিচিরমিচির করা বানর"
+          },
+          {
+            "en": "transformed into apes",
+            "bn": "বানরে রূপান্তরিত করে দিলেন"
+          }
+        ]
+      },
+      {
+        "en": "The Quran records the divine decree: 'Be you apes, despised and rejected!' saving those who forbade evil and destroying the deceivers as a permanent deterrent for all generations.",
+        "bn": "পবিত্র কোরআন সেই ঐশী শাস্তির ফয়সালা ঘোষণা করে: 'তোমরা লাঞ্ছিত ও ঘৃণিত বানর হয়ে যাও!' আল্লাহ সৎকাজে আদেশকারী প্রতিবাদীদের রক্ষা করলেন এবং প্রতারকদের নিশ্চিহ্ন করে চিরকালের জন্য এক শিক্ষণীয় নিদর্শন বানিয়ে দিলেন।",
+        "words": [
+          {
+            "en": "Be apes despised and rejected",
+            "bn": "তোমরা ঘৃণিত বানর হয়ে যাও"
+          },
+          {
+            "en": "saving who forbade evil",
+            "bn": "অন্যায়ের প্রতিবাদকারীদের রক্ষা করলেন"
+          },
+          {
+            "en": "permanent deterrent",
+            "bn": "চিরন্তন শিক্ষণীয় দৃষ্টান্ত"
+          },
+          {
+            "en": "all generations",
+            "bn": "সর্বকালের সকল মানুষের জন্য"
+          },
+          {
+            "en": "Surah Al-A'raf",
+            "bn": "পবিত্র সূরা আরাফ"
           }
         ]
       }

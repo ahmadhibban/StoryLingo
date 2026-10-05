@@ -1,213 +1,373 @@
 [
   {
-    "id": "history-imam-ahmad-trials",
-    "title": "Imam Ahmad ibn Hanbal: Unshakable Defender of the Sunnah",
-    "titleBn": "ইমাম আহমদ ইবনে হাম্বল: মিহনার অগ্নিপরীক্ষা ও অবিচল আদর্শ",
-    "author": "Siyar A'lam al-Nubala (Imam Adh-Dhahabi)",
-    "level": "Intermediate",
-    "levelColor": "rose",
+    "id": "history-imam-shafii-wisdom",
+    "title": "Imam Muhammad ibn Idris al-Shafi'i: Architect of Islamic Legal Theory",
+    "title_bn": "ইমাম মুহাম্মদ ইবনে ইদ্রিস আশ-শাফেয়ী: ফিকহ ও উসুলুল ফিকহের মহান স্থপতি",
+    "summary": "The brilliant jurist of Gaza and Makkah who synthesized the school of hadith with rational jurisprudence and authored ar-Risalah, establishing the principles of Usul al-Fiqh.",
+    "summary_bn": "গাজা ও মক্কার ক্ষুরধার ফকিহ যিনি হাদিস ও যুক্তিনির্ভর ফিকহের অপূর্ব সমন্বয় ঘটান এবং 'আর-রিসালাহ' রচনার মাধ্যমে উসুলুল ফিকহের ভিত্তি স্থাপন করেন।",
     "category": "Islamic Golden Age",
-    "coverEmoji": "⛓️",
-    "summary": "During the Mu'tazilite Inquisition (Al-Mihna), Caliphs attempted to force scholars to declare the Quran was created; Imam Ahmad stood alone in heavy chains, endured brutal public floggings, and preserved orthodox theology without wavering.",
-    "summaryBn": "আব্বাসীয় খলিফাদের আমলে 'মিহনা' বা ধর্মবিশ্বাসের পরীক্ষা চলাকালে আলেমদের জোর করে 'কোরআন সৃষ্টি' এই আকিদা মানাতে বাধ্য করা হয়েছিল; কিন্তু ইমাম আহমদ ইবনে হাম্বল পায়ে ভারী বেড়ি ও চাবুকের নির্মম প্রহার সহ্য করেও কোরআন যে আল্লাহর কালাম সেই সত্যে অটল থেকে সুন্নাহকে রক্ষা করেছিলেন।",
+    "level": "Intermediate",
     "sentences": [
       {
-        "en": "During the reign of Abbasid Caliph Al-Ma'mun, a rationalist theological crisis known as Al-Mihna (the Inquisition) swept through Baghdad.",
-        "bn": "আব্বাসীয় খলিফা আল-মামুনের শাসনামলে বাগদাদ জুড়ে 'মিহনা' বা জোরপূর্বক বিশ্বাস পরীক্ষার এক বৈচারিক সংকট ছড়িয়ে পড়ে।",
+        "en": "Born in Gaza in the year 150 AH—the very year Imam Abu Hanifa passed away—Muhammad ibn Idris al-Shafi'i belonged to the noble Qurayshite lineage of Banu Muttalib.",
+        "bn": "হিজরি ১৫০ সনে গাজায় জন্মগ্রহণকারী মুহাম্মদ ইবনে ইদ্রিস আশ-শাফেয়ী ছিলেন কুরাইশ বংশের বনু মুত্তালিব শাখার এক অভিজাত সন্তান—যে বছর ইমাম আবু হানিফা ইন্তেকাল করেছিলেন।",
         "words": [
           {
-            "en": "reign of Abbasid Caliph",
-            "bn": "আব্বাসীয় খলিফার শাসনকাল"
+            "en": "born in Gaza",
+            "bn": "গাজায় জন্মগ্রহণ করেছিলেন"
           },
           {
-            "en": "theological crisis",
-            "bn": "আকিদাগত বা তাত্ত্বিক সংকট"
+            "en": "noble Qurayshite lineage",
+            "bn": "কুরাইশ বংশের অভিজাত শাখা"
           },
           {
-            "en": "swept through Baghdad",
-            "bn": "বাগদাদ জুড়ে ছড়িয়ে পড়ল"
+            "en": "Banu Muttalib",
+            "bn": "বনু মুত্তালিব গোত্র"
+          },
+          {
+            "en": "passed away",
+            "bn": "ইন্তেকাল করেছিলেন"
           }
         ]
       },
       {
-        "en": "Scholars across the Islamic world were coerced under threat of execution to declare that the Holy Quran was created rather than the uncreated speech of Allah.",
-        "bn": "কোরআন যে আল্লাহর অনাদি কালাম নয় বরং একটি সৃষ্টি—এই ভ্রান্ত মতবাদ স্বীকার করানোর জন্য সমগ্র মুসলিম বিশ্বের আলেমদের মৃত্যুর ভয় দেখিয়ে বাধ্য করা হচ্ছিল।",
+        "en": "Raised as a fatherless orphan in severe poverty in Makkah, his mother encouraged his studies, where he memorized the Holy Quran completely by the age of seven.",
+        "bn": "মক্কার চরম দারিদ্র্যের মাঝে পিতৃহীন এতিম হিসেবে বড় হলেও তাঁর মায়ের গভীর অনুপ্রেরণায় তিনি মাত্র সাত বছর বয়সেই পবিত্র কুরআন সম্পূর্ণ হিফজ করেন।",
         "words": [
           {
-            "en": "coerced under threat",
-            "bn": "ভয়ভীতি দেখিয়ে বাধ্য করা হলো"
+            "en": "fatherless orphan",
+            "bn": "পিতৃহীন এতিম"
           },
           {
-            "en": "Holy Quran was created",
-            "bn": "পবিত্র কোরআন সৃষ্ট"
+            "en": "severe poverty",
+            "bn": "চরম দারিদ্র্য ও অভাব-অনটন"
           },
           {
-            "en": "uncreated speech of Allah",
-            "bn": "আল্লাহর অনাদি বা চিরন্তন কালাম"
+            "en": "mother encouraged",
+            "bn": "মায়ের অনুপ্রেরণা ও উৎসাহ"
+          },
+          {
+            "en": "memorized by age seven",
+            "bn": "সাত বছর বয়সেই হিফজ করলেন"
           }
         ]
       },
       {
-        "en": "While many scholars yielded or practiced dissimulation to save their lives, Imam Ahmad ibn Hanbal resolutely stood as a mountain of fortitude.",
-        "bn": "অনেক আলেম জীবন বাঁচাতে নতি স্বীকার করেন বা কৌশলের আশ্রয় নেন, কিন্তু ইমাম আহমদ ইবনে হাম্বল পাহাড়ের মতো অবিচল ও দৃঢ় হয়ে দাঁড়ালেন।",
+        "en": "Seeking mastery of pure classical Arabic eloquence, young Shafi'i lived for ten years in the desert with the nomadic tribe of Hudhayl, memorizing thousands of lines of archaic poetry.",
+        "bn": "বিশুদ্ধ ধ্রুপদী আরবি ভাষার প্রাঞ্জলতায় পাণ্ডিত্য অর্জনের জন্য তরুণ শাফেয়ী দীর্ঘ দশ বছর মরুভূমির যাযাবর হুজাইল গোত্রের সাথে বাস করেন এবং হাজার হাজার প্রাচীন কবিতা মুখস্থ করেন।",
         "words": [
           {
-            "en": "yielded or practiced dissimulation",
-            "bn": "নতি স্বীকার বা কৌশল করলেন"
+            "en": "classical Arabic eloquence",
+            "bn": "বিশুদ্ধ ধ্রুপদী আরবি সাহিত্য ও বাগ্মীতা"
           },
           {
-            "en": "save their lives",
-            "bn": "জীবন বাঁচাতে"
+            "en": "nomadic tribe of Hudhayl",
+            "bn": "বেদুঈন হুজাইল গোত্র"
           },
           {
-            "en": "mountain of fortitude",
-            "bn": "ধৈর্য ও দৃঢ়তার পর্বত"
+            "en": "archaic poetry",
+            "bn": "প্রাচীন যুগের কবিতা"
+          },
+          {
+            "en": "mastery of language",
+            "bn": "ভাষাগত শ্রেষ্ঠত্ব অর্জন"
           }
         ]
       },
       {
-        "en": "He was dragged to prison in heavy iron shackles that tore into his ankles.",
-        "bn": "তাঁর গোড়ালিতে কেটে বসা ভারী লোহার শিকল পরিয়ে তাঁকে অন্ধকূপে টেনে নিয়ে যাওয়া হলো।",
+        "en": "He then traveled to Madinah and memorized the entirety of al-Muwatta in just nine days before presenting himself as an eager pupil before Imam Malik ibn Anas.",
+        "bn": "এরপর তিনি মদিনায় যান এবং ইমাম মালিক ইবনে আনাসের দরবারে ছাত্র হিসেবে উপস্থিত হওয়ার পূর্বে মাত্র নয় দিনে সম্পূর্ণ 'মুওয়াত্তা' গ্রন্থটি মুখস্থ করে সবাইকে বিস্মিত করেন।",
         "words": [
           {
-            "en": "dragged to prison",
-            "bn": "কারাগারে টেনে নেওয়া হলো"
+            "en": "memorized the entirety",
+            "bn": "সম্পূর্ণ গ্রন্থ মুখস্থ করলেন"
           },
           {
-            "en": "heavy iron shackles",
-            "bn": "ভারী লোহার শিকল / বেড়ি"
+            "en": "al-Muwatta in nine days",
+            "bn": "মাত্র নয় দিনে মুওয়াত্তা"
           },
           {
-            "en": "tore into ankles",
-            "bn": "গোড়ালি ক্ষতবিক্ষত করল"
+            "en": "eager pupil",
+            "bn": "আগ্রহী ও বিনয়ী ছাত্র"
+          },
+          {
+            "en": "Imam Malik ibn Anas",
+            "bn": "ইমাম মালিক ইবনে আনাস"
           }
         ]
       },
       {
-        "en": "Caliph Al-Mu'tasim gathered royal inquisitors and executioners in the palace court, demanding: 'O Ahmad, agree with me even in a whispered word so I may free you!'",
-        "bn": "পরবর্তী খলিফা মুতাসিম রাজপ্রাসাদে জল্লাদ ও বিচারকদের জড়ো করে বললেন: 'হে আহমদ, একটি শব্দে আমার সাথে একমত হও যাতে আমি তোমাকে মুক্তি দিতে পারি!'",
+        "en": "In an era marked by deep intellectual rivalry between the rationalist jurists of Iraq and the traditionalist scholars of Hijaz, Imam Shafi'i forged a magnificent synthesis balancing both approaches.",
+        "bn": "সে যুগে ইরাকের যুক্তিপ্রধান ফকিহ এবং হিজাজের হাদিসপ্রধান আলেমদের মাঝে তীব্র মতপার্থক্যের সময় ইমাম শাফেয়ী উভয় ধারার অপূর্ব সমন্বয় সাধন করে এক ভারসাম্যপূর্ণ পথ উন্মোচন করেন।",
         "words": [
           {
-            "en": "gathered inquisitors",
-            "bn": "তদন্তকারী বিচারকদের জড়ো করলেন"
+            "en": "intellectual rivalry",
+            "bn": "তাত্ত্বিক ও বুদ্ধিবৃত্তিক বিতর্ক"
           },
           {
-            "en": "executioners",
-            "bn": "জল্লাদবাহিনী"
+            "en": "rationalist jurists of Iraq",
+            "bn": "ইরাকের যুক্তিভিত্তিক ফকিহ সম্প্রদায়"
           },
           {
-            "en": "whispered word",
-            "bn": "একটি ফিসফিস করা শব্দে"
+            "en": "traditionalist scholars",
+            "bn": "হাদিসভিত্তিক ঐতিহ্যবাহী আলেমগণ"
           },
           {
-            "en": "free you",
-            "bn": "তোমাকে মুক্ত করতে পারি"
+            "en": "magnificent synthesis",
+            "bn": "অপূর্ব মেলবন্ধন ও ভারসাম্যপূর্ণ সমন্বয়"
           }
         ]
       },
       {
-        "en": "Imam Ahmad calmly replied: 'Give me a single clear proof from the Book of Allah or the Sunnah of His Messenger ﷺ, and I shall gladly accept.'",
-        "bn": "ইমাম আহমদ শান্তভাবে বললেন: 'আল্লাহর কিতাব অথবা তাঁর রাসুল ﷺ-এর সুন্নাহ থেকে একটি স্পষ্ট দলীল আমাকে দেখান, আমি সানন্দে তা মেনে নেব।'",
+        "en": "He authored ar-Risalah, universally recognized as the world's first systematic treatise on Usul al-Fiqh, codifying strict rules for Quranic interpretation, authentic Hadith, consensus, and analogy.",
+        "bn": "তিনি রচনা করেন বিশ্ববিখ্যাত 'আর-রিসালাহ', যা উসুলুল ফিকহ বা ইসলামী আইনতত্ত্বের ওপর পৃথিবীর সর্বপ্রথম নিয়মমাফিক গ্রন্থ হিসেবে স্বীকৃত; যেখানে কুরআন, হাদিস, ইজমা ও কিয়াসের সুনির্দিষ্ট নীতিমালা প্রণয়ন করা হয়।",
         "words": [
           {
-            "en": "calmly replied",
-            "bn": "শান্তভাবে উত্তর দিলেন"
+            "en": "authored ar-Risalah",
+            "bn": "আর-রিসালাহ গ্রন্থ প্রণয়ন করলেন"
           },
           {
-            "en": "single clear proof",
-            "bn": "একটিমাত্র স্পষ্ট দলীল"
+            "en": "systematic treatise",
+            "bn": "নিয়মমাফিক মৌলিক গবেষণামূলক গ্রন্থ"
           },
           {
-            "en": "Book of Allah",
-            "bn": "আল্লাহর কিতাব"
+            "en": "principles of Usul al-Fiqh",
+            "bn": "উসুলুল ফিকহ বা আইনতত্ত্বের মূলনীতি"
           },
           {
-            "en": "gladly accept",
-            "bn": "সানন্দে গ্রহণ করব"
+            "en": "consensus and analogy",
+            "bn": "ইজমা এবং কিয়াস"
           }
         ]
       },
       {
-        "en": "Enraged, the Caliph ordered massive guards to flog him alternately with leather whips soaked in saltwater.",
-        "bn": "ক্রুদ্ধ হয়ে খলিফা বিশালদেহী প্রহরীদের নির্দেশ দিলেন লবণপানিতে ভেজানো চামড়ার চাবুক দিয়ে পালাক্রমে তাঁকে বেত্রাঘাত করতে।",
+        "en": "Later moving to Egypt, he re-evaluated legal rulings in light of new customs and evidence, demonstrating that authentic Islamic scholarship remains intellectually flexible and responsive to real life.",
+        "bn": "পরবর্তী জীবনে মিশরে স্থানান্তরিত হয়ে তিনি নতুন পারিপার্শ্বিক রীতিনীতি ও প্রমাণের আলোকে পূর্বের বহু ফতোয়া পুনর্বিবেচনা করেন, যা প্রমাণ করে যে প্রকৃত ইসলামী জ্ঞান বাস্তবতা ও জীবনের সাথে সামঞ্জস্যপূর্ণ।",
         "words": [
           {
-            "en": "Enraged",
-            "bn": "ক্রুদ্ধ হয়ে"
+            "en": "re-evaluated rulings",
+            "bn": "আইনি সিদ্ধান্ত পুনর্বিবেচনা করলেন"
           },
           {
-            "en": "flog him alternately",
-            "bn": "পালাক্রমে চাবুক মারতে"
+            "en": "new customs and evidence",
+            "bn": "নতুন প্রথা ও প্রামাণ্য দলিল"
           },
           {
-            "en": "leather whips",
-            "bn": "চামড়ার চাবুক"
+            "en": "intellectually flexible",
+            "bn": "জ্ঞানতাত্ত্বিকভাবে গতিশীল ও উদার"
           },
           {
-            "en": "soaked in saltwater",
-            "bn": "লবণপানিতে ভেজানো"
+            "en": "responsive to real life",
+            "bn": "বাস্তব জীবনের সাথে সামঞ্জস্যশীল"
           }
         ]
       },
       {
-        "en": "Even as blood flowed from his shredded back and he slipped in and out of consciousness, his lips continuously recited verses of the Quran.",
-        "bn": "রক্তাক্ত পিঠ থেকে রক্ত ঝরতে ঝরতে যখন তিনি বারবার জ্ঞান হারিয়ে ফেলছিলেন, তখনও তাঁর ঠোঁট দুটি অবিরাম কোরআনের আয়াত তিলাওয়াত করছিল।",
+        "en": "Known for his legendary poetic wisdom and humble debate etiquette, Imam Shafi'i famously proclaimed: 'I never debated anyone except wishing that truth would appear on their tongue rather than mine.'",
+        "bn": "অনুপম কাব্যিক প্রজ্ঞা ও বিনম্র বিতর্কের শিষ্টাচারের জন্য পরিচিত ইমাম শাফেয়ী বলতেন: 'কারো সাথে বিতর্কে বসলে আমি মনেপ্রাণে চাইতাম যেন আমার বদলে অপরপক্ষের মুখ দিয়েই সত্য প্রকাশিত হয়।'",
         "words": [
           {
-            "en": "blood flowed",
-            "bn": "রক্ত প্রবাহিত হচ্ছিল"
+            "en": "poetic wisdom",
+            "bn": "কাব্যিক প্রজ্ঞা ও সারগর্ভ বাণী"
           },
           {
-            "en": "shredded back",
-            "bn": "ক্ষতবিক্ষত পিঠ"
+            "en": "debate etiquette",
+            "bn": "বিতর্কের শিষ্টাচার ও বিনয়"
           },
           {
-            "en": "out of consciousness",
-            "bn": "অজ্ঞান হয়ে যাওয়া"
+            "en": "truth would appear",
+            "bn": "সত্য প্রকাশিত হবে"
           },
           {
-            "en": "continuously recited",
-            "bn": "একটানা তিলাওয়াত করছিল"
+            "en": "humble sincerity",
+            "bn": "বিনম্র নিষ্ঠা ও সততা"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "history-imam-ahmad-trials",
+    "title": "Imam Ahmad ibn Hanbal: The Mihnah and Steadfast Champion of Ahl al-Sunnah",
+    "title_bn": "ইমাম আহমদ ইবনে হাম্বল: মিহনার অগ্নিপরীক্ষায় অবিচল সুন্নাহর অতন্দ্র প্রহরী",
+    "summary": "The venerable hadith master who memorized a million narrations and endured brutal imprisonment and flogging under three caliphs to protect the uncreated nature of the Quran.",
+    "summary_bn": "হাদিস শাস্ত্রের মহান ইমাম যিনি দশ লাখ হাদিস হিফজ করেছিলেন এবং কুরআনের মর্যাদা রক্ষায় তিন খলিফার শাসনামলে নির্মম নির্যাতন সহ্য করেও সত্যে অবিচল ছিলেন।",
+    "category": "Islamic Golden Age",
+    "level": "Intermediate",
+    "sentences": [
+      {
+        "en": "Born in Baghdad in 164 AH, Ahmad ibn Hanbal grew into the most revered traditionist of Islamic history, traveling tirelessly across Iraq, Syria, Yemen, and the Hijaz to record authentic prophetic reports.",
+        "bn": "হিজরি ১৬৪ সনে বাগদাদে জন্মগ্রহণকারী আহমদ ইবনে হাম্বল বিশুদ্ধ হাদিস সংগ্রহের জন্য ইরাক, সিরিয়া, ইয়েমেন এবং হিজাজের পথে পথে অক্লান্ত সফর করে ইতিহাসের অন্যতম শীর্ষ মুহাদ্দিসে পরিণত হন।",
+        "words": [
+          {
+            "en": "born in Baghdad",
+            "bn": "বাগদাদে জন্মগ্রহণ করলেন"
+          },
+          {
+            "en": "revered traditionist",
+            "bn": "সর্বজনশ্রদ্ধেয় হাদিস বিশারদ"
+          },
+          {
+            "en": "traveled tirelessly",
+            "bn": "অক্লান্ত সফর ও অন্বেষণ করলেন"
+          },
+          {
+            "en": "prophetic reports",
+            "bn": "নবীজির বিশুদ্ধ হাদিস ও বর্ণনা"
           }
         ]
       },
       {
-        "en": "After years of enduring prisons and surviving three oppressive Caliphs, the inquisition collapsed, and orthodox Islamic belief was vindicated forever.",
-        "bn": "বছরের পর বছর কারাবাস এবং তিনজন অত্যাচারী শাসকের জুলুম সহ্য করার পর এই মিথ্যা বিচারপ্রক্রিয়া চূর্ণ হয়ে গেল এবং সুন্নাহর সঠিক আকিদা চিরতরে বিজয়ী হলো।",
+        "en": "Endowed with a monumental memory, he memorized nearly one million hadiths, which he meticulously compiled into his monumental compendium, the Musnad of Ahmad, containing over twenty-seven thousand traditions.",
+        "bn": "অনন্য স্মৃতিশক্তির অধিকারী এই ইমাম প্রায় দশ লক্ষ হাদিস মুখস্থ করেছিলেন, যা থেকে সতর্কতার সাথে বাছাই করে সাতাশ হাজারেরও বেশি হাদিস সংবলিত তাঁর অমর গ্রন্থ 'মুসনাদে আহমদ' সংকলন করেন।",
         "words": [
           {
-            "en": "enduring prisons",
-            "bn": "কারাগার সহ্য করে"
+            "en": "monumental memory",
+            "bn": "বিস্ময়কর স্মৃতিশক্তি"
           },
           {
-            "en": "inquisition collapsed",
-            "bn": "মিথ্যা বিচারপদ্ধতি ধসে পড়ল"
+            "en": "one million hadiths",
+            "bn": "দশ লক্ষ হাদিস"
           },
           {
-            "en": "vindicated forever",
-            "bn": "চিরতরে সত্য প্রমাণিত হলো"
+            "en": "Musnad of Ahmad",
+            "bn": "মুসনাদে আহমদ গ্রন্থ"
+          },
+          {
+            "en": "twenty-seven thousand traditions",
+            "bn": "সাতাশ হাজারের বেশি হাদিস"
           }
         ]
       },
       {
-        "en": "Imam Ahmad is revered to this day as Imam Ahl al-Sunnah, the solitary lion whose steadfast courage safeguarded the purity of the Quran.",
-        "bn": "ইমাম আহমদ আজ পর্যন্ত 'ইমামে আহলে সুন্নাহ' হিসেবে শ্রদ্ধার সাথে স্মরণীয়—যিনি ছিলেন সেই একাকী সিংহপুরুষ যার অটল সাহস কোরআনের অবিকৃত সত্যকে রক্ষা করেছিল।",
+        "en": "In 218 AH, Abbasid Caliph Al-Ma'mun embraced the rationalist Mu'tazilite doctrine and instituted the state Inquisition, known as the Mihnah, coercing scholars to confess that the Quran was created.",
+        "bn": "২১৮ হিজরিতে আব্বাসীয় খলিফা আল-মামুন মুতাজিলা মতবাদ গ্রহণ করেন এবং 'মিহনা' নামক রাষ্ট্রীয় নির্যাতন সেল গঠন করে আলেমদের জোরপূর্বক স্বীকার করাতে থাকেন যে কুরআন আল্লাহর সৃষ্ট এক বাণী।",
         "words": [
           {
-            "en": "Imam Ahl al-Sunnah",
-            "bn": "ইমামে আহলে সুন্নাহ"
+            "en": "Mu'tazilite doctrine",
+            "bn": "মুতাজিলা আকিদা ও মতবাদ"
           },
           {
-            "en": "solitary lion",
-            "bn": "একাকী সিংহপুরুষ"
+            "en": "state Inquisition (Mihnah)",
+            "bn": "রাষ্ট্রীয় শুদ্ধি অভিযান বা মিহনা"
           },
           {
-            "en": "steadfast courage",
-            "bn": "অটল সাহস"
+            "en": "coercing scholars",
+            "bn": "আলেমদের জোরজবরদস্তি করা"
           },
           {
-            "en": "safeguarded the purity",
-            "bn": "পবিত্রতা ও বিশুদ্ধতা রক্ষা করেছিলেন"
+            "en": "Quran was created",
+            "bn": "কুরআন সৃষ্টি বা মাখলুক"
+          }
+        ]
+      },
+      {
+        "en": "While many prominent scholars capitulated under threat of death or practiced tactical dissimulation, Imam Ahmad refused to utter a single syllable deviating from the teachings of the Sahabah.",
+        "bn": "বহু প্রখ্যাত আলেম যখন মৃত্যুদণ্ডের ভয়ে কৌশলে নতি স্বীকার করেছিলেন, তখন ইমাম আহমদ সাহাবীদের আকিদা থেকে এক চুল পরিমাণ বিচ্যুত হতে বা কোনো বিভ্রান্তিকর শব্দ উচ্চারণ করতে স্পষ্টভাবে অস্বীকৃতি জানান।",
+        "words": [
+          {
+            "en": "capitulated under threat",
+            "bn": "হুমকির মুখে নতি স্বীকার করল"
+          },
+          {
+            "en": "tactical dissimulation",
+            "bn": "আত্মরক্ষামূলক কৌশল বা তাকিয়া"
+          },
+          {
+            "en": "refused to utter",
+            "bn": "উচ্চারণ করতে অস্বীকার করলেন"
+          },
+          {
+            "en": "teachings of Sahabah",
+            "bn": "সাহাবায়ে কেরামের বিশুদ্ধ আকিদা"
+          }
+        ]
+      },
+      {
+        "en": "Bound in heavy iron chains, he was marched across the scorching desert to face trial before Caliph Al-Mu'tasim and the royal court in Baghdad.",
+        "bn": "ভারী লোহার শিকলে বন্দি করে তপ্ত মরুভূমির ওপর দিয়ে তাঁকে বাগদাদে খলিফা মুতাসিম এবং রাজদরবারের বিচারের কাঠগড়ায় হাজির করা হয়।",
+        "words": [
+          {
+            "en": "heavy iron chains",
+            "bn": "ভারী লোহার বেড়ি ও শিকল"
+          },
+          {
+            "en": "scorching desert",
+            "bn": "তপ্ত ও উত্তপ্ত মরুভূমি"
+          },
+          {
+            "en": "face royal trial",
+            "bn": "রাজকীয় বিচারকের মুখোমুখি হওয়া"
+          },
+          {
+            "en": "Caliph Al-Mu'tasim",
+            "bn": "খলিফা আল-মুতাসিম"
+          }
+        ]
+      },
+      {
+        "en": "Suspended before royal executioners, Imam Ahmad was stripped and savagely whipped with leather cords until he lost consciousness repeatedly, yet whenever revived, he firmly demanded: 'Bring me a single proof from the Book of Allah or the Sunnah of His Messenger!'",
+        "bn": "জল্লাদদের সামনে ঝুলিয়ে চাবুকের পর চাবুক মেরে তাঁকে ক্ষতবিক্ষত করা হয় এবং বারবার জ্ঞান হারালেও চেতনা ফিরলেই তিনি সাহসের সাথে বলতেন: 'আল্লাহর কিতাব বা তাঁর রাসূলের সুন্নাহ থেকে আমাকে একটিমাত্র দলিল দেখাও!'",
+        "words": [
+          {
+            "en": "savagely whipped",
+            "bn": "নির্মমভাবে চাবুক মারা হলো"
+          },
+          {
+            "en": "lost consciousness",
+            "bn": "বারবার সংজ্ঞা হারিয়ে ফেললেন"
+          },
+          {
+            "en": "whenever revived",
+            "bn": "জ্ঞান ফিরে আসতেই"
+          },
+          {
+            "en": "bring a single proof",
+            "bn": "একটিমাত্র শরয়ী প্রমাণ বা দলিল দাও"
+          }
+        ]
+      },
+      {
+        "en": "Imprisoned in solitary confinement for nearly thirty months, his resolute defiance captured the hearts of common Muslims, completely discrediting the state dogma and forcing Caliph Al-Mutawakkil to formally abolish the Inquisition.",
+        "bn": "দীর্ঘ ত্রিশ মাস অন্ধকার প্রকোষ্ঠে বন্দি থেকেও তাঁর এই অবিচল সংগ্রাম সাধারণ মুসলমানদের হৃদয়ে আলোড়ন তোলে, অবশেষে খলিফা মুতাওয়াক্কিলের আমলে এই নিপীড়নমূলক মতবাদ সম্পূর্ণ বাতিল ঘোষিত হয়।",
+        "words": [
+          {
+            "en": "solitary confinement",
+            "bn": "নির্জন অন্ধকার কারাবাস"
+          },
+          {
+            "en": "resolute defiance",
+            "bn": "অবিচল ও সাহসী প্রতিরোধ"
+          },
+          {
+            "en": "discrediting state dogma",
+            "bn": "রাষ্ট্রীয় বিভ্রান্তিকর আকিদা নস্যাৎ"
+          },
+          {
+            "en": "abolish Inquisition",
+            "bn": "মিহনা নির্যাতনের অবসান ঘটানো"
+          }
+        ]
+      },
+      {
+        "en": "When Imam Ahmad passed away in Baghdad in 241 AH, hundreds of thousands of mourners filled the streets in the largest funeral procession the city had ever witnessed, honoring the indomitable Imam of Ahl al-Sunnah.",
+        "bn": "২৪১ হিজরিতে যখন ইমাম আহমদ ইন্তেকাল করেন, তখন বাগদাদের রাজপথে লক্ষ লক্ষ মানুষ অশ্রুসজল চোখে সমবেত হন এবং এটি ছিল ইতিহাসের সর্বকালের অন্যতম বৃহত্তম জানাজা, যা সুন্নাহর এই অকুতোভয় রক্ষককে চিরসম্মানিত করে।",
+        "words": [
+          {
+            "en": "passed away in 241 AH",
+            "bn": "২৪১ হিজরিতে ওফাত বরণ করলেন"
+          },
+          {
+            "en": "largest funeral procession",
+            "bn": "ইতিহাসের বৃহত্তম জানাজা মিছিল"
+          },
+          {
+            "en": "indomitable Imam",
+            "bn": "অকুতোভয় ও অপরাজেয় মহান ইমাম"
+          },
+          {
+            "en": "Ahl al-Sunnah",
+            "bn": "আহলুস সুন্নাহ ওয়াল জামাআত"
           }
         ]
       }
@@ -215,191 +375,186 @@
   },
   {
     "id": "history-harun-rashid-cloud",
-    "title": "Caliph Harun al-Rashid: The Golden Age of Baghdad",
-    "titleBn": "খলিফা হারুনুর রশিদ: বাগদাদের সোনালী যুগ ও জ্ঞানবিপ্লব",
-    "author": "Tarikh Baghdad (Al-Khatib al-Baghdadi)",
-    "level": "Intermediate",
-    "levelColor": "amber",
+    "title": "Caliph Harun al-Rashid: The Golden Age of Baghdad and the House of Wisdom",
+    "title_bn": "খলিফা হারুনুর রশিদ: বাগদাদের সোনালী যুগ এবং বাইতুল হিকমাহ",
+    "summary": "The legendary Abbasid caliph whose prosperous reign fostered global scholarship, built the grand Bayt al-Hikmah library, and commanded a domain spanning three continents.",
+    "summary_bn": "আব্বাসীয় খিলাফতের কিংবদন্তি খলিফা যার সমৃদ্ধ শাসনামলে বিশ্বমানের জ্ঞানচর্চার বিকাশ ঘটে, বিশ্ববিখ্যাত বাইতুল হিকমাহ প্রতিষ্ঠিত হয় এবং যা তিন মহাদেশে বিস্তৃত ছিল।",
     "category": "Islamic Golden Age",
-    "coverEmoji": "☁️",
-    "summary": "Under Caliph Harun al-Rashid, Baghdad flourished as the intellectual and scientific capital of the world; looking up at a passing rain cloud, the Caliph famously noted that wherever its rain fell, its harvest would return to his prosperous realm.",
-    "summaryBn": "খলিফা হারুনুর রশিদের শাসনামলে বাগদাদ পরিণত হয় বিশ্ব জ্ঞান-বিজ্ঞানের প্রাণকেন্দ্রে; আকাশে ভেসে যাওয়া বৃষ্টির মেঘ দেখে খলিফা বলতেন, 'যেখানেই গিয়ে তুমি বৃষ্টি বর্ষণ করো না কেন, তোমার ফসলের কর আমার কাছেই ফিরে আসবে', যা সে যুগের ইসলামি সভ্যতার সুবিশাল প্রাচুর্যের প্রতীক।",
+    "level": "Intermediate",
     "sentences": [
       {
-        "en": "In the eighth century, Caliph Harun al-Rashid ruled an Islamic empire that stretched majestically from the borders of China to the Atlantic shores.",
-        "bn": "অষ্টম শতাব্দীতে খলিফা হারুনুর রশিদ এমন এক সুবিশাল ইসলামি সাম্রাজ্য শাসন করেছিলেন যা চীনের সীমান্ত থেকে আটলান্টিকের তীর পর্যন্ত বিস্তৃত ছিল।",
+        "en": "Ascending the Abbasid throne in 786 CE at the age of twenty-two, Harun al-Rashid governed an immense and prosperous caliphate stretching from North Africa across the Middle East to Central Asia.",
+        "bn": "৭৮৬ খ্রিস্টাব্দে মাত্র বাইশ বছর বয়সে আব্বাসীয় সিংহাসনে আরোহণ করে খলিফা হারুনুর রশিদ উত্তর আফ্রিকা থেকে মধ্যপ্রাচ্য হয়ে মধ্য এশিয়া পর্যন্ত বিস্তৃত সুবিশাল এক সমৃদ্ধ সাম্রাজ্য পরিচালনা করেন।",
         "words": [
           {
-            "en": "eighth century",
-            "bn": "অষ্টম শতাব্দী"
+            "en": "ascending the throne",
+            "bn": "সিংহাসনে আরোহণ করলেন"
           },
           {
-            "en": "stretched majestically",
-            "bn": "মহিমান্বিতভাবে বিস্তৃত ছিল"
+            "en": "immense caliphate",
+            "bn": "সুবিশাল ও পরাক্রমশালী খিলাফত"
           },
           {
-            "en": "borders of China",
-            "bn": "চীনের সীমান্ত"
+            "en": "prosperous reign",
+            "bn": "সমৃদ্ধ ও গৌরবময় শাসনকাল"
           },
           {
-            "en": "Atlantic shores",
-            "bn": "আটলান্টিকের তীর"
+            "en": "stretching across continents",
+            "bn": "মহাদেশজুড়ে বিস্তৃত"
           }
         ]
       },
       {
-        "en": "Baghdad, the round City of Peace, became the undisputed jewel of civilization, bustling with libraries, hospitals, and astronomy observatories.",
-        "bn": "শান্তির গোল নগরী বাগদাদ পরিণত হয়েছিল সভ্যতার এক অনন্য মণিহারে, যা পাঠাগার, হাসপাতাল ও জ্যোতির্বিজ্ঞানের মানমন্দিরে মুখরিত ছিল।",
+        "en": "Baghdad blossomed under his enlightened patronage into the undisputed intellectual and commercial metropolis of the medieval world, home to over one million inhabitants.",
+        "bn": "তাঁর পৃষ্ঠপোষকতায় বাগদাদ দশ লক্ষাধিক মানুষের এক মুখরিত নগরীতে পরিণত হয় এবং মধ্যযুগীয় পৃথিবীর অবিসংবাদিত জ্ঞানচর্চা ও বাণিজ্যের মূল কেন্দ্রবিন্দুতে রূপ নেয়।",
         "words": [
           {
-            "en": "City of Peace",
-            "bn": "শান্তির নগরী (বাগদাদ)"
+            "en": "enlightened patronage",
+            "bn": "জ্ঞানোদ্দীপক পৃষ্ঠপোষকতা"
           },
           {
-            "en": "jewel of civilization",
-            "bn": "সভ্যতার শ্রেষ্ঠ মণিহার"
+            "en": "undisputed metropolis",
+            "bn": "অবিসংবাদিত প্রধান মহানগরী"
           },
           {
-            "en": "astronomy observatories",
-            "bn": "জ্যোতির্বিজ্ঞানের মানমন্দির"
+            "en": "intellectual and commercial",
+            "bn": "বুদ্ধিবৃত্তিক ও বাণিজ্যিক কেন্দ্র"
+          },
+          {
+            "en": "one million inhabitants",
+            "bn": "দশ লক্ষাধিক বাসিন্দা"
           }
         ]
       },
       {
-        "en": "The Caliph expanded the legendary Bayt al-Hikmah (House of Wisdom), where scholars of all faiths gathered to translate human knowledge into Arabic.",
-        "bn": "খলিফা গড়ে তুললেন ঐতিহাসিক 'বায়তুল হিকমাহ' (জ্ঞানগৃহ), যেখানে বিভিন্ন ধর্মের পণ্ডিতরা সমবেত হয়ে মানবজাতির সমস্ত প্রাচীন জ্ঞানকে আরবি ভাষায় অনুবাদ করতেন।",
+        "en": "He laid the foundational groundwork for the Bayt al-Hikmah, or House of Wisdom, bringing together Muslim, Christian, and Jewish scholars to translate masterworks of Greek, Persian, and Sanskrit into Arabic.",
+        "bn": "তিনি প্রতিষ্ঠা করেন বিশ্বখ্যাত 'বাইতুল হিকমাহ' বা জ্ঞানগৃহ, যেখানে মুসলিম, খ্রিষ্টান এবং ইহুদি পণ্ডিতগণ সমবেত হয়ে প্রাচীন গ্রিক, পারস্য এবং সংস্কৃত ভাষার অমূল্য গ্রন্থগুলো আরবিতে অনুবাদ করতেন।",
         "words": [
           {
-            "en": "House of Wisdom",
-            "bn": "বায়তুল হিকমাহ (জ্ঞানগৃহ)"
+            "en": "House of Wisdom (Bayt al-Hikmah)",
+            "bn": "বাইতুল হিকমাহ বা জ্ঞানগৃহ"
           },
           {
-            "en": "scholars of all faiths",
-            "bn": "সকল ধর্মের পণ্ডিতরা"
+            "en": "interfaith scholarship",
+            "bn": "বহুধর্মীয় পণ্ডিতদের যৌথ গবেষণা"
           },
           {
-            "en": "translate human knowledge",
-            "bn": "মানবজাতির জ্ঞান অনুবাদ করা"
+            "en": "translate masterworks",
+            "bn": "অমূল্য গ্রন্থ অনুবাদ করা"
+          },
+          {
+            "en": "Greek, Persian, Sanskrit",
+            "bn": "গ্রিক, পারস্য ও সংস্কৃত ভাষা"
           }
         ]
       },
       {
-        "en": "Translators were famously rewarded with the weight of translated manuscripts in pure gold coins.",
-        "bn": "অনুবাদকদের তাদের অনূদিত পাণ্ডুলিপির সমান ওজনের খাঁটি স্বর্ণমুদ্রা উপহার দিয়ে পুরস্কৃত করা হতো।",
+        "en": "The streets of Baghdad were adorned with public hospitals, astronomical observatories, paper manufacturing mills, and magnificent public gardens irrigated by the Tigris and Euphrates.",
+        "bn": "দজলা ও ফোরাত নদী দ্বারা বিধৌত বাগদাদের নগরী সমৃদ্ধ হয়েছিল উন্নত চিকিৎসালয়, জ্যোতির্বিজ্ঞান মানমন্দির, কাগজ তৈরির কল এবং মনোরম উন্মুক্ত উদ্যানে।",
         "words": [
           {
-            "en": "famously rewarded",
-            "bn": "ঐতিহাসিক পুরস্কার দেওয়া হতো"
+            "en": "public hospitals",
+            "bn": "বিনামূল্যে চিকিৎসা সেবার হাসপাতাল"
           },
           {
-            "en": "weight of manuscripts",
-            "bn": "পাণ্ডুলিপির ওজন"
+            "en": "astronomical observatories",
+            "bn": "জ্যোতির্বিজ্ঞান মানমন্দির"
           },
           {
-            "en": "pure gold coins",
-            "bn": "খাঁটি স্বর্ণমুদ্রা"
+            "en": "paper manufacturing mills",
+            "bn": "কাগজ তৈরির কল কারখানা"
+          },
+          {
+            "en": "irrigated gardens",
+            "bn": "নদীবিধৌত সবুজ মনোরম বাগান"
           }
         ]
       },
       {
-        "en": "One afternoon, gazing at a dark rain cloud drifting across the sky, Harun al-Rashid remarked with awe-inspiring confidence: 'Rain wherever you will, for your harvest will surely come back to me!'",
-        "bn": "এক অপরাহ্ণে আকাশে ভেসে যাওয়া এক কালো মেঘের দিকে তাকিয়ে হারুনুর রশিদ পরম আত্মবিশ্বাসে বলেছিলেন: 'তুমি যেখানে ইচ্ছা সেখানে গিয়ে বর্ষণ করো, তোমার ফসলের রাজস্ব নিশ্চয়ই আমার কাছেই আসবে!'",
+        "en": "Harun maintained sophisticated diplomatic relations with global sovereigns, exchanging opulent gifts and ambassadors with Holy Roman Emperor Charlemagne and the Tang emperors of China.",
+        "bn": "হারুনুর রশিদ পবিত্র রোমান সম্রাট শার্লম্যাগনে এবং চীনের তাং রাজবংশের সাথে উচ্চপর্যায়ের কূটনৈতিক সম্পর্ক রক্ষা করতেন এবং তাঁদের মধ্যে মূল্যবান উপহার ও রাষ্ট্রদূত বিনিময় হতো।",
         "words": [
           {
-            "en": "drifting rain cloud",
-            "bn": "ভেসে চলা বৃষ্টির মেঘ"
+            "en": "diplomatic relations",
+            "bn": "উচ্চপর্যায়ের কূটনৈতিক সম্পর্ক"
           },
           {
-            "en": "awe-inspiring confidence",
-            "bn": "বিস্ময়কর আত্মবিশ্বাস"
+            "en": "global sovereigns",
+            "bn": "বিশ্বের শীর্ষস্থানীয় শাসকবৃন্দ"
           },
           {
-            "en": "harvest will come back",
-            "bn": "ফসল আমার কাছেই ফিরে আসবে"
+            "en": "Emperor Charlemagne",
+            "bn": "রোমান সম্রাট শার্লম্যাগনে"
+          },
+          {
+            "en": "exchanging opulent gifts",
+            "bn": "মূল্যবান উপহার বিনিময়"
           }
         ]
       },
       {
-        "en": "He alternated his years with strict devotion, performing Hajj on foot one year and leading defensive military campaigns the next.",
-        "bn": "তিনি পরম নিষ্ঠায় এক বছর পায়ে হেঁটে হজ পালন করতেন এবং পরবর্তী বছর সীমান্তে প্রতিরক্ষামূলক জিহাদের নেতৃত্ব দিতেন।",
+        "en": "Among the extraordinary gifts sent to Charlemagne's court in Aachen was a complex mechanical water clock made of brass that astounded European observers who had never witnessed automated horology.",
+        "bn": "আখেনের রাজদরবারে শার্লম্যাগনেকে উপহার হিসেবে পাঠানো পিতলের তৈরি এক বিস্ময়কর স্বয়ংক্রিয় পানির ঘড়ি দেখে ইউরোপের দরবার স্তম্ভিত হয়ে যায়, কারণ এর আগে তারা এমন স্বয়ংক্রিয় যন্ত্র দেখেনি।",
         "words": [
           {
-            "en": "alternated his years",
-            "bn": "বছরকে ভাগ করে নিয়েছিলেন"
+            "en": "mechanical water clock",
+            "bn": "স্বয়ংক্রিয় মেকানিক্যাল পানির ঘড়ি"
           },
           {
-            "en": "Hajj on foot",
-            "bn": "পায়ে হেঁটে হজ"
+            "en": "made of brass",
+            "bn": "পিতল দ্বারা নির্মিত"
           },
           {
-            "en": "defensive campaigns",
-            "bn": "প্রতিরক্ষামূলক অভিযান"
+            "en": "astounded European observers",
+            "bn": "ইউরোপীয় পণ্ডিতদের হতবাক করে দিল"
+          },
+          {
+            "en": "automated horology",
+            "bn": "স্বয়ংক্রিয় সময় গণনা বিদ্যা"
           }
         ]
       },
       {
-        "en": "He sent an intricate water-powered brass clock to Holy Roman Emperor Charlemagne, which amazed European courts as a wonder of mechanical mastery.",
-        "bn": "তিনি রোমান সম্রাট শার্লেমাইনকে পানিতে চালিত এক জটিল পিতলের ঘড়ি উপহার পাঠিয়েছিলেন, যা দেখে সমগ্র ইউরোপীয় রাজদরবার যান্ত্রিক বিস্ময়ে স্তব্ধ হয়ে গিয়েছিল।",
+        "en": "Gazing up at a dark passing raincloud from his palace balcony, Harun famously remarked: 'Rain wherever you will, for your agricultural harvest will inevitably return to my treasury!'",
+        "bn": "প্রাসাদের বারান্দায় দাঁড়িয়ে আকাশের এক মেঘখণ্ড দেখে তিনি গর্বভরে নয়, বরং বিশাল সাম্রাজ্যের কৃতজ্ঞতায় বলেছিলেন: 'হে মেঘ, যেখানে খুশি বৃষ্টি বর্ষণ করো, তোমার ফসলের কর শেষ পর্যন্ত আমার কোষাগারেই আসবে!'",
         "words": [
           {
-            "en": "water-powered brass clock",
-            "bn": "পানিশক্তিতে চলা পিতলের ঘড়ি"
+            "en": "gazing at raincloud",
+            "bn": "মেঘখণ্ডের দিকে তাকিয়ে"
           },
           {
-            "en": "Holy Roman Emperor",
-            "bn": "পবিত্র রোমান সম্রাট"
+            "en": "rain wherever you will",
+            "bn": "যেখানে খুশি বৃষ্টি বর্ষণ করো"
           },
           {
-            "en": "amazed European courts",
-            "bn": "ইউরোপীয় দরবারকে হতবাক করেছিল"
+            "en": "agricultural harvest",
+            "bn": "কৃষিজাত শস্য ও ফসল"
           },
           {
-            "en": "mechanical mastery",
-            "bn": "যান্ত্রিক দক্ষতা"
+            "en": "return to my treasury",
+            "bn": "আমার বায়তুলমালেই ফেরত আসবে"
           }
         ]
       },
       {
-        "en": "Despite his peerless authority, Harun al-Rashid wept uncontrollably whenever pious scholars like Fudayl ibn Iyad warned him of the Day of Judgment.",
-        "bn": "এত বিশাল ক্ষমতার মালিক হওয়া সত্ত্বেও ফুযাইল ইবনে ইয়াজের মতো আল্লাহভীরু আলেম যখন তাঁকে কিয়ামতের দিনের শাস্তি স্মরণ করাতেন, খলিফা শিশুর মতো কান্নায় ভেঙে পড়তেন।",
+        "en": "Despite his immense worldly power, the caliph performed the Hajj pilgrimage on foot repeatedly and wept openly whenever pious ascetics reminded him of accountability before the King of Kings.",
+        "bn": "এত অগাধ ক্ষমতা সত্ত্বেও খলিফা বহুবার পায়ে হেঁটে হজের দীর্ঘ পথ পাড়ি দিয়েছেন এবং কোনো আল্লাহভীরু সাধক আল্লাহর সামনে জবাবদিহিতার কথা স্মরণ করিয়ে দিলেই তিনি কান্নায় ভেঙে পড়তেন।",
         "words": [
           {
-            "en": "peerless authority",
-            "bn": "অনন্য ক্ষমতা ও আধিপত্য"
+            "en": "immense worldly power",
+            "bn": "অগাধ পার্থিব ক্ষমতা ও প্রতিপত্তি"
           },
           {
-            "en": "wept uncontrollably",
-            "bn": "অঝোরে কাঁদতেন"
+            "en": "Hajj pilgrimage on foot",
+            "bn": "পায়ে হেঁটে পবিত্র হজ পালন"
           },
           {
-            "en": "pious scholars",
-            "bn": "পরহেজগার আলেম"
+            "en": "wept openly",
+            "bn": "অঝোরে কান্নায় ভেঙে পড়তেন"
           },
           {
-            "en": "Day of Judgment",
-            "bn": "কিয়ামতের দিবস"
-          }
-        ]
-      },
-      {
-        "en": "His glorious reign remains the hallmark of the Islamic Golden Age, proving that political strength and intellectual enlightenment can flourish hand in hand.",
-        "bn": "তাঁর গৌরবোজ্জ্বল শাসনকাল ইসলামি স্বর্ণযুগের শ্রেষ্ঠ প্রতীক হয়ে রয়েছে, যা প্রমাণ করে রাজনৈতিক ক্ষমতা ও বুদ্ধিবৃত্তিক জাগরণ যুগপৎভাবে একসাথে বিকশিত হতে পারে।",
-        "words": [
-          {
-            "en": "glorious reign",
-            "bn": "গৌরবময় শাসনকাল"
-          },
-          {
-            "en": "hallmark",
-            "bn": "শ্রেষ্ঠ প্রতীক / মানদণ্ড"
-          },
-          {
-            "en": "intellectual enlightenment",
-            "bn": "বুদ্ধিবৃত্তিক জাগরণ"
-          },
-          {
-            "en": "flourish hand in hand",
-            "bn": "একসাথে বিকশিত হওয়া"
+            "en": "accountability before God",
+            "bn": "মহান আল্লাহর দরবারে জবাবদিহিতা"
           }
         ]
       }
@@ -407,183 +562,186 @@
   },
   {
     "id": "history-al-khwarizmi-algebra",
-    "title": "Muhammad ibn Musa al-Khwarizmi: The Father of Algebra",
-    "titleBn": "আল-খোয়ারিজমি: বীজগণিত ও অ্যালগরিদমের মহান জনক",
-    "author": "Al-Fihrist (Ibn al-Nadim) & History of Mathematics",
-    "level": "Advanced",
-    "levelColor": "blue",
+    "title": "Muhammad ibn Musa al-Khwarizmi: The Father of Algebra and Algorithms",
+    "title_bn": "মুহাম্মদ ইবনে মুসা আল-খোয়ারিজমি: বীজগণিত ও অ্যালগরিদমের জনক",
+    "summary": "The polymath of the House of Wisdom whose foundational treatises invented algebra, introduced Arabic numerals to the West, and named the modern concept of algorithm.",
+    "summary_bn": "বাইতুল হিকমাহর কালজয়ী বহুবিদ্যাবিশারদ পণ্ডিত যার মৌলিক গবেষণা বীজগণিতের জন্ম দেয়, পাশ্চাত্যকে আধুনিক সংখ্যার সাথে পরিচয় করায় এবং যার নাম থেকে অ্যালগরিদম শব্দের উৎপত্তি।",
     "category": "Islamic Golden Age",
-    "coverEmoji": "📐",
-    "summary": "Working at the House of Wisdom in Baghdad, Al-Khwarizmi authored the revolutionary treatise Al-Jabr, inventing the discipline of algebra to solve practical real-world problems like inheritance distribution and land surveying.",
-    "summaryBn": "বাগদাদের বায়তুল হিকমায় কর্মরত থাকা অবস্থায় গণিতবিদ আল-খোয়ারিজমি রচনা করেন ঐতিহাসিক 'কিতাবুল জাবর', যার মাধ্যমে বিশ্ব পায় বীজগণিত এবং তাঁর নামানুসারেই আজকের কম্পিউটার বিজ্ঞানের মূল ভিত্তি 'অ্যালগরিদম' শব্দটি এসেছে।",
+    "level": "Intermediate",
     "sentences": [
       {
-        "en": "Muhammad ibn Musa al-Khwarizmi was a brilliant mathematician, astronomer, and geographer working at the House of Wisdom in ninth-century Baghdad.",
-        "bn": "মুহাম্মদ ইবনে মুসা আল-খোয়ারিজমি ছিলেন নবম শতাব্দীর বাগদাদের বায়তুল হিকমায় কর্মরত এক অসাধারণ গণিতবিদ, জ্যোতির্বিজ্ঞানী এবং ভূগোলবিদ।",
+        "en": "Born around 780 CE in Khwarizm (modern-day Uzbekistan), Muhammad ibn Musa al-Khwarizmi became the premier scholar and director at the House of Wisdom in Baghdad under Caliph Al-Ma'mun.",
+        "bn": "আনুমানিক ৭৮০ খ্রিস্টাব্দে খাওয়ারিজমে (বর্তমান উজবেকিস্তান) জন্মগ্রহণকারী মুহাম্মদ ইবনে মুসা আল-খোয়ারিজমি বাগদাদের বাইতুল হিকমাহর প্রধান গবেষক ও পরিচালক হিসেবে দায়িত্ব পালন করেন।",
         "words": [
           {
-            "en": "brilliant mathematician",
-            "bn": "মেধাবী গণিতবিদ"
+            "en": "born in Khwarizm",
+            "bn": "খাওয়ারিজমে জন্মগ্রহণ করলেন"
           },
           {
-            "en": "astronomer and geographer",
-            "bn": "জ্যোতির্বিদ ও ভূগোলবিদ"
+            "en": "premier scholar",
+            "bn": "শীর্ষস্থানীয় প্রধান পণ্ডিত"
           },
           {
             "en": "House of Wisdom",
-            "bn": "বায়তুল হিকমাহ"
+            "bn": "বাইতুল হিকমাহ জ্ঞানগৃহ"
+          },
+          {
+            "en": "Caliph Al-Ma'mun",
+            "bn": "খলিফা আল-মামুন"
           }
         ]
       },
       {
-        "en": "Around 820 CE, he authored his groundbreaking treatise titled Al-Kitab al-Mukhtasar fi Hisab al-Jabr wal-Muqabala.",
-        "bn": "প্রায় ৮২০ খ্রিষ্টাব্দে তিনি তাঁর যুগান্তকারী গ্রন্থ 'আল-কিতাব আল-মুখতাসার ফি হিসাবিল জাবর ওয়াল মুকাবালা' রচনা করেন।",
+        "en": "In 820 CE, he published his revolutionary treatise, 'Al-Kitab al-Mukhtasar fi Hisab al-Jabr wal-Muqabala', which established algebra as an independent mathematical discipline.",
+        "bn": "৮২০ খ্রিস্টাব্দে তিনি তাঁর যুগান্তকারী গ্রন্থ 'কিতাবুল মুখতাসার ফি হিসাবিল জাবর ওয়াল মুকাবালা' রচনা করেন, যা বীজগণিতকে গণিতের একটি সম্পূর্ণ স্বাধীন শাখা হিসেবে প্রতিষ্ঠিত করে।",
         "words": [
           {
-            "en": "groundbreaking treatise",
-            "bn": "যুগান্তকারী গ্রন্থ"
+            "en": "revolutionary treatise",
+            "bn": "যুগান্তকারী গবেষণামূলক গ্রন্থ"
           },
           {
-            "en": "authored",
-            "bn": "রচনা করলেন"
+            "en": "al-Jabr wal-Muqabala",
+            "bn": "আল-জাবর ওয়াল মুকাবালা"
           },
           {
-            "en": "Al-Jabr wal-Muqabala",
-            "bn": "আল-জাবর ওয়াল মুকাবালা"
+            "en": "independent discipline",
+            "bn": "স্বাধীন ও স্বয়ংসম্পূর্ণ শাখা"
+          },
+          {
+            "en": "mathematical science",
+            "bn": "গাণিতিক বিজ্ঞান"
           }
         ]
       },
       {
-        "en": "The Arabic word 'Al-Jabr'—meaning the reunion of broken parts—became the root of the modern global term 'Algebra.'",
-        "bn": "আরবি শব্দ 'আল-জাবর'—যার অর্থ বিচ্ছিন্ন অংশ একত্র করা বা সমতাকরণ—পরবর্তীতে বিশ্বজনীন শব্দ 'বীজগণিত' বা 'Algebra'-র উৎপত্তি ঘটায়।",
+        "en": "The Latin transliteration of the word 'al-Jabr' from his book title gave birth to the universal mathematical term 'algebra', meaning the restoration and balancing of broken parts.",
+        "bn": "তাঁর বইয়ের শিরোনামের 'আল-জাবর' শব্দটির ল্যাটিন রূপান্তর থেকেই বিশ্বজুড়ে গাণিতিক পরিভাষা 'অ্যালজেব্রা' বা বীজগণিতের উৎপত্তি, যার অর্থ ভাঙা বা অসম্পূর্ণ অংশকে একত্র করা ও ভারসাম্য আনা।",
         "words": [
           {
-            "en": "reunion of broken parts",
-            "bn": "বিচ্ছিন্ন অংশের একত্রীকরণ"
+            "en": "Latin transliteration",
+            "bn": "ল্যাটিন ভাষার উচ্চারণ ও রূপান্তর"
           },
           {
-            "en": "became the root",
-            "bn": "মূল ভিত্তি হলো"
+            "en": "birth of algebra",
+            "bn": "বীজগণিত শব্দের উৎপত্তি"
           },
           {
-            "en": "modern term Algebra",
-            "bn": "আধুনিক শব্দ অ্যালজেব্রা"
+            "en": "restoration and balancing",
+            "bn": "পুনর্গঠন এবং সমতাবিধান"
+          },
+          {
+            "en": "universal term",
+            "bn": "সর্বজনীন গাণিতিক পরিভাষা"
           }
         ]
       },
       {
-        "en": "Rather than treating numbers merely as geometric shapes, Al-Khwarizmi pioneered systematic methods for solving linear and quadratic equations.",
-        "bn": "সংখ্যাকে কেবল জ্যামিতিক রেখা হিসেবে না দেখে, আল-খোয়ারিজমি রৈখিক ও দ্বিঘাত সমীকরণ সমাধানের সুশৃঙ্খল পদ্ধতি উদ্ভাবন করেন।",
+        "en": "He developed systematic algebraic algorithms to solve linear and quadratic equations, motivated by practical needs such as Islamic inheritance distribution, land surveying, and commercial transactions.",
+        "bn": "তিনি ইসলামী মিরাস বা উত্তরাধিকার বণ্টন, ভূমি জরিপ এবং ব্যবসায়িক হিসাবের মতো ব্যবহারিক সমস্যা সমাধানের উদ্দেশ্যে রৈখিক ও দ্বিঘাত সমীকরণ সমাধানের পদ্ধতি উদ্ভাবন করেন।",
         "words": [
           {
-            "en": "pioneered systematic methods",
-            "bn": "সুশৃঙ্খল পদ্ধতি উদ্ভাবন করলেন"
+            "en": "linear and quadratic equations",
+            "bn": "সরল এবং দ্বিঘাত সমীকরণ"
           },
           {
-            "en": "solving equations",
-            "bn": "সমীকরণ সমাধান"
+            "en": "Islamic inheritance distribution",
+            "bn": "ইসলামী উত্তরাধিকার ও সম্পত্তি বণ্টন"
           },
           {
-            "en": "linear and quadratic",
-            "bn": "রৈখিক ও দ্বিঘাত"
+            "en": "land surveying",
+            "bn": "জমি পরিমাপ ও জরিপ বিদ্যা"
+          },
+          {
+            "en": "commercial transactions",
+            "bn": "বাণিজ্যিক লেনদেন ও হিসাব"
           }
         ]
       },
       {
-        "en": "His motivation was deeply spiritual and practical: to provide fair calculations for complex Islamic inheritance shares (Mirath), commercial contracts, and canal irrigation.",
-        "bn": "তাঁর মূল উদ্দেশ্য ছিল অত্যন্ত বাস্তবমুখী ও আধ্যাত্মিক: কোরআনের জটিল উত্তরাধিকার বণ্টন (মিরাস), বাণিজ্যিক চুক্তি এবং খালের সেচ পরিমাপকে সহজ ও নিখুঁত করা।",
-        "words": [
-          {
-            "en": "deeply spiritual and practical",
-            "bn": "গভীর আধ্যাত্মিক ও বাস্তবসম্মত"
-          },
-          {
-            "en": "inheritance shares (Mirath)",
-            "bn": "উত্তরাধিকার সম্পত্তি বণ্টন (মিরাস)"
-          },
-          {
-            "en": "commercial contracts",
-            "bn": "বাণিজ্যিক চুক্তি"
-          },
-          {
-            "en": "canal irrigation",
-            "bn": "খালের সেচব্যবস্থা"
-          }
-        ]
-      },
-      {
-        "en": "He introduced the Hindu-Arabic decimal numeral system and the foundational concept of zero (Sifr) to the Western world.",
-        "bn": "তিনি দশমিক সংখ্যাপদ্ধতি এবং শূন্যের (সিফর) বৈপ্লবিক ধারণাকে সংকলিত করে তা পশ্চিমা বিশ্বে পরিচিত করেন।",
+        "en": "Through his groundbreaking book on Indian calculation methods, Al-Khwarizmi introduced the Hindu-Arabic decimal numeral system, including the vital concept of zero (sifr), to the Mediterranean and Europe.",
+        "bn": "ভারতীয় গণনা পদ্ধতির ওপর রচিত বইয়ের মাধ্যমে তিনি দশমিক সংখ্যাপদ্ধতি এবং শূন্যের (সিফর) বৈপ্লবিক ধারণাকে ভূমধ্যসাগরীয় অঞ্চল এবং ইউরোপের কাছে পরিচিত করান।",
         "words": [
           {
             "en": "decimal numeral system",
-            "bn": "দশমিক সংখ্যাপদ্ধতি"
+            "bn": "দশমিক সংখ্যা ব্যবস্থা (০-৯)"
           },
           {
-            "en": "concept of zero",
-            "bn": "শূন্যের বৈপ্লবিক ধারণা"
+            "en": "vital concept of zero",
+            "bn": "শূন্যের বৈপ্লবিক ও অপরিহার্য ধারণা"
           },
           {
-            "en": "Western world",
-            "bn": "পশ্চিমা বিশ্ব"
+            "en": "introduced to Europe",
+            "bn": "ইউরোপীয়দের সাথে পরিচয় করালেন"
+          },
+          {
+            "en": "groundbreaking work",
+            "bn": "যুগান্তকারী অমর গ্রন্থ"
           }
         ]
       },
       {
-        "en": "When his mathematical procedures were translated into Latin as 'Algoritmi', his Latinized name gave birth to the word 'Algorithm.'",
-        "bn": "যখন তাঁর গণিতের প্রণালী ল্যাটিনে 'অ্যালগোরিদমি' নামে অনূদিত হলো, তখন তাঁর নাম থেকেই আধুনিক 'অ্যালগরিদম' শব্দের সৃষ্টি হয়।",
+        "en": "His Latinized surname, 'Algoritmi', became the direct linguistic ancestor of the modern word 'algorithm', the fundamental basis of all computer science and software programming today.",
+        "bn": "খোয়ারিজমি নামের ল্যাটিন রূপ 'অ্যালগোরিদমি' থেকেই আধুনিক 'অ্যালগরিদম' শব্দের উৎপত্তি, যা আজকের সমস্ত কম্পিউটার বিজ্ঞান এবং সফটওয়্যার প্রোগ্রামিংয়ের মূল ভিত্তি।",
         "words": [
           {
-            "en": "mathematical procedures",
-            "bn": "গাণিতিক প্রণালী"
+            "en": "Latinized surname",
+            "bn": "ল্যাটিন নাম Algoritmi"
           },
+          {
+            "en": "ancestor of algorithm",
+            "bn": "অ্যালগরিদম শব্দের প্রত্যক্ষ উৎস"
+          },
+          {
+            "en": "computer science",
+            "bn": "আধুনিক কম্পিউটার বিজ্ঞান"
+          },
+          {
+            "en": "software programming",
+            "bn": "সফটওয়্যার প্রোগ্রামিং"
+          }
+        ]
+      },
+      {
+        "en": "In astronomy and geography, he corrected Ptolemy's coordinates and accurately mapped the positions of the sun, moon, and planets, determining the exact Qibla direction towards Makkah.",
+        "bn": "জ্যোতির্বিজ্ঞান ও ভূগোলে তিনি টলেমির মানচিত্র সংশোধন করেন এবং সূর্য, চাঁদ ও গ্রহের অবস্থান নির্ধারণের পাশাপাশি দূরবর্তী অঞ্চল থেকে মক্কার কিবলার সঠিক দিক নির্ণয়ের সূত্র দেন।",
+        "words": [
+          {
+            "en": "astronomy and geography",
+            "bn": "জ্যোতির্বিজ্ঞান এবং ভূগোল"
+          },
+          {
+            "en": "corrected Ptolemy",
+            "bn": "টলেমির স্থানাঙ্ক সংশোধন করলেন"
+          },
+          {
+            "en": "celestial bodies",
+            "bn": "গ্রহ ও নক্ষত্রের গতিপথ"
+          },
+          {
+            "en": "exact Qibla direction",
+            "bn": "মক্কার পবিত্র কিবলার দিক"
+          }
+        ]
+      },
+      {
+        "en": "Al-Khwarizmi's works were translated into Latin by medieval European scholars, revolutionizing European mathematics and sparking the scientific renaissance across the Western world.",
+        "bn": "মধ্যযুগে ইউরোপীয় পণ্ডিতরা তাঁর গ্রন্থগুলো ল্যাটিনে অনুবাদ করেন, যা পশ্চিমা গণিতে বিপ্লব ঘটায় এবং ইউরোপের বৈজ্ঞানিক রেনেসাঁসের পথ সুগম করে।",
+        "words": [
           {
             "en": "translated into Latin",
-            "bn": "ল্যাটিনে অনূদিত হলো"
+            "bn": "ল্যাটিন ভাষায় অনূদিত হলো"
           },
           {
-            "en": "gave birth to Algorithm",
-            "bn": "অ্যালগরিদম শব্দের জন্ম দিল"
-          }
-        ]
-      },
-      {
-        "en": "Every computer program, modern smartphone, and computational search engine today relies upon the algorithmic principles pioneered by this Muslim master.",
-        "bn": "আজকের প্রতিটি কম্পিউটার প্রোগ্রাম, স্মার্টফোন এবং সার্চ ইঞ্জিন এই মুসলিম বিজ্ঞানীর উদ্ভাবিত অ্যালগরিদমের মৌলিক নিয়মের ওপর দাঁড়িয়ে আছে।",
-        "words": [
-          {
-            "en": "computer program",
-            "bn": "কম্পিউটার প্রোগ্রাম"
+            "en": "medieval European scholars",
+            "bn": "মধ্যযুগীয় ইউরোপের অনুবাদকগণ"
           },
           {
-            "en": "computational search engine",
-            "bn": "গণনামূলক সার্চ ইঞ্জিন"
+            "en": "scientific renaissance",
+            "bn": "বিজ্ঞানের নবজাগরণ বা রেনেসাঁস"
           },
           {
-            "en": "algorithmic principles",
-            "bn": "অ্যালগরিদমের মূলনীতি"
-          },
-          {
-            "en": "Muslim master",
-            "bn": "মুসলিম পণ্ডিত / মহারথী"
-          }
-        ]
-      },
-      {
-        "en": "Al-Khwarizmi exemplified how authentic faith in Allah inspires scientific curiosity that benefits all of human civilization for centuries.",
-        "bn": "আল-খোয়ারিজমি দেখিয়ে দিয়ে গেছেন কীভাবে আল্লাহর প্রতি খাঁটি বিশ্বাস বৈজ্ঞানিক গবেষণাকে অনুপ্রাণিত করে যা শত শত বছর ধরে সমগ্র মানবজাতিকে উপকৃত করে।",
-        "words": [
-          {
-            "en": "authentic faith in Allah",
-            "bn": "আল্লাহর প্রতি খাঁটি বিশ্বাস"
-          },
-          {
-            "en": "scientific curiosity",
-            "bn": "বৈজ্ঞানিক অনুসন্ধিৎসা"
-          },
-          {
-            "en": "human civilization",
-            "bn": "মানব সভ্যতা"
+            "en": "revolutionized mathematics",
+            "bn": "গণিতশাস্ত্রে যুগান্তকারী বিপ্লব"
           }
         ]
       }
@@ -591,175 +749,186 @@
   },
   {
     "id": "history-ibn-sina-medicine",
-    "title": "Ibn Sina (Avicenna): The Master of Medicine and Philosophy",
-    "titleBn": "ইবনে সিনা: চিকিৎসাবিজ্ঞানের অবিসংবাদিত রাজপুত্র",
-    "author": "Al-Qanun fi al-Tibb & Tabaqat al-Atibba",
-    "level": "Intermediate",
-    "levelColor": "teal",
+    "title": "Ibn Sina (Avicenna): The Prince of Physicians and the Canon of Medicine",
+    "title_bn": "ইবনে সিনা: চিকিৎসকদের যুবরাজ এবং আল-কানুন ফিত-তিব্ব",
+    "summary": "The brilliant physician and philosopher whose masterpiece, The Canon of Medicine, served as the supreme medical textbook across Europe and the Islamic world for six centuries.",
+    "summary_bn": "কালজয়ী চিকিৎসক ও দার্শনিক যার বিশ্ববিখ্যাত গ্রন্থ 'আল-কানুন ফিত-তিব্ব' দীর্ঘ ছয় শতাব্দী ধরে ইউরোপ এবং মুসলিম বিশ্বে চিকিৎসা বিজ্ঞানের প্রধান পাঠ্যবই হিসেবে সমাদৃত ছিল।",
     "category": "Islamic Golden Age",
-    "coverEmoji": "🩺",
-    "summary": "Recognized in Europe as Avicenna, Ibn Sina synthesized medical knowledge into 'The Canon of Medicine', establishing the foundations of clinical pharmacology, discovering the contagious nature of infectious diseases, and pioneering surgical hygiene.",
-    "summaryBn": "পাশ্চাত্যে 'অ্যাভিসেনা' নামে পরিচিত ইবনে সিনা মাত্র আঠারো বছর বয়সে রাজকীয় চিকিৎসকের মর্যাদা পান; তাঁর রচিত 'আল-কানুন ফিত তিব্ব' টানা ছয়শত বছর ইউরোপ ও প্রাচ্যের বিশ্ববিদ্যালয়গুলোতে চিকিৎসাবিজ্ঞানের মূল পাঠ্যবই ছিল।",
+    "level": "Intermediate",
     "sentences": [
       {
-        "en": "Abu Ali al-Husayn ibn Sina, known in the Western world as Avicenna, was born near Bukhara in 980 CE and emerged as a polymath of immense intellect.",
-        "bn": "আবু আলী আল-হুসাইন ইবনে সিনা, যিনি পশ্চিমা বিশ্বে 'অ্যাভিসেনা' নামে পরিচিত, ৯৮০ খ্রিষ্টাব্দে বোখারার নিকটে জন্মগ্রহণ করেন এবং এক বহুমুখী প্রতিভাবান পণ্ডিত হিসেবে আত্মপ্রকাশ করেন।",
+        "en": "Born in 980 CE near Bukhara, Abu Ali al-Husayn ibn Sina, renowned in the Western world as Avicenna, was a child prodigy who memorized the Quran by age ten and mastered medicine by sixteen.",
+        "bn": "৯৮০ খ্রিস্টাব্দে বোখারার নিকটবর্তী গ্রামে জন্মগ্রহণকারী আবু আলী আল-হুসাইন ইবনে সিনা, পাশ্চাত্যে যিনি অ্যাভিসেনা নামে পরিচিত, দশ বছর বয়সে কুরআন এবং ষোল বছর বয়সে চিকিৎসাবিদ্যায় অসাধারণ পাণ্ডিত্য লাভ করেন।",
         "words": [
           {
-            "en": "polymath of immense intellect",
-            "bn": "অসাধারণ মেধার বহুবিদ্যাবিশারদ"
+            "en": "child prodigy",
+            "bn": "অসাধারণ প্রতিভাধর শিশু"
+          },
+          {
+            "en": "renowned as Avicenna",
+            "bn": "পাশ্চাত্যে অ্যাভিসেনা নামে পরিচিত"
+          },
+          {
+            "en": "mastered medicine at sixteen",
+            "bn": "ষোল বছর বয়সে চিকিৎসাবিদ্যায় পারদর্শী"
           },
           {
             "en": "born near Bukhara",
-            "bn": "বোখারার নিকটে জন্ম"
-          },
-          {
-            "en": "Western world",
-            "bn": "পশ্চিমা বিশ্ব"
+            "bn": "বোখারার নিকট জন্মগ্রহণকারী"
           }
         ]
       },
       {
-        "en": "By the age of ten, he had completely memorized the Holy Quran and mastered classical Arabic literature.",
-        "bn": "মাত্র দশ বছর বয়সেই তিনি পবিত্র কোরআন সম্পূর্ণ মুখস্থ করেন এবং আরবি সাহিত্যে দক্ষতা অর্জন করেন।",
+        "en": "He described medicine as an accessible science and began treating prominent patients free of charge to observe clinical symptoms and discover novel healing methods firsthand.",
+        "bn": "তিনি চিকিৎসাবিদ্যাকে একটি সহজ ও গবেষণাধর্মী বিজ্ঞান হিসেবে বিবেচনা করতেন এবং রোগীদের লক্ষণ ও নতুন নিরাময় পদ্ধতি প্রত্যক্ষ করার জন্য বিনামূল্যে মানুষের চিকিৎসা করতেন।",
         "words": [
           {
-            "en": "completely memorized",
-            "bn": "সম্পূর্ণ মুখস্থ করলেন"
+            "en": "treating free of charge",
+            "bn": "বিনামূল্যে চিকিৎসা প্রদান করা"
           },
           {
-            "en": "classical Arabic literature",
-            "bn": "ধ্রুপদী আরবি সাহিত্য"
+            "en": "observe clinical symptoms",
+            "bn": "রোগের ক্লিনিকাল লক্ষণ পর্যবেক্ষণ"
+          },
+          {
+            "en": "novel healing methods",
+            "bn": "নতুন চিকিৎসা ও নিরাময় পদ্ধতি"
+          },
+          {
+            "en": "firsthand observation",
+            "bn": "সরাসরি অভিজ্ঞতা ও গবেষণা"
           }
         ]
       },
       {
-        "en": "He taught himself medicine by age sixteen, noting that medicine was not as difficult as mathematics, and began treating sick patients free of charge.",
-        "bn": "ষোলো বছর বয়সে তিনি নিজ চেষ্টায় চিকিৎসাবিদ্যা রপ্ত করেন এবং বিনামূল্যে অসুস্থ রোগীদের চিকিৎসা দিতে শুরু করেন।",
+        "en": "At the age of eighteen, he successfully diagnosed and cured the critically ill Samanid Sultan Nuh ibn Mansur, earning unrestricted access to the incomparable royal library of Bukhara.",
+        "bn": "মাত্র আঠারো বছর বয়সে তিনি সামানি সুলতান নুহ ইবনে মনসুরের দুরারোগ্য ব্যাধি শনাক্ত করে নিরাময় করেন, যার ফলে পুরস্কার হিসেবে সুলতানের অমূল্য রাজকীয় পাঠাগারে অবাধ প্রবেশের অধিকার পান।",
         "words": [
           {
-            "en": "taught himself medicine",
-            "bn": "নিজে নিজেই চিকিৎসাবিদ্যা শেখেন"
+            "en": "diagnosed and cured",
+            "bn": "রোগ নির্ণয় ও সফল চিকিৎসা করলেন"
           },
           {
-            "en": "treating sick patients",
-            "bn": "অসুস্থ রোগীদের চিকিৎসা করা"
+            "en": "Samanid Sultan",
+            "bn": "সামানি সুলতান নুহ ইবনে মনসুর"
           },
           {
-            "en": "free of charge",
-            "bn": "বিনা খরচে / বিনামূল্যে"
+            "en": "incomparable royal library",
+            "bn": "অতুলনীয় রাজকীয় সমৃদ্ধ পাঠাগার"
+          },
+          {
+            "en": "unrestricted access",
+            "bn": "অবাধ গবেষণার সুযোগ ও অনুমতি"
           }
         ]
       },
       {
-        "en": "At eighteen, he cured the Samanid Emir of a mysterious ailment that court physicians had failed to treat, earning unrestricted access to the magnificent royal library.",
-        "bn": "আঠারো বছর বয়সে তিনি সামানিদ আমিরকে এক জটিল রোগ থেকে নিরাময় করেন যেখানে রাজচিকিৎসকরা ব্যর্থ হয়েছিল; এর পুরস্কার হিসেবে তিনি রাজকীয় বিশাল পাঠাগারে অবাধ প্রবেশের অনুমতি পান।",
+        "en": "Ibn Sina authored over two hundred treatises across metaphysics, astronomy, geology, and logic, but his enduring masterpiece was 'Al-Qanun fi al-Tibb' (The Canon of Medicine).",
+        "bn": "ইবনে সিনা দর্শন, জ্যোতির্বিজ্ঞান, ভূবিজ্ঞান ও যুক্তিবিদ্যার ওপর দুই শতাধিক গ্রন্থ রচনা করেন, তবে তাঁর সর্বশ্রেষ্ঠ কীর্তি ছিল চিকিৎসা বিজ্ঞানের অমর বিশ্বকোষ 'আল-কানুন ফিত-তিব্ব'।",
         "words": [
           {
-            "en": "mysterious ailment",
-            "bn": "রহস্যময় রোগ বা ব্যাধি"
+            "en": "authored two hundred treatises",
+            "bn": "দুই শতাধিক গ্রন্থ রচনা করলেন"
           },
           {
-            "en": "court physicians failed",
-            "bn": "রাজকীয় চিকিৎসকরা ব্যর্থ হয়েছিল"
+            "en": "metaphysics and astronomy",
+            "bn": "দর্শন এবং জ্যোতির্বিজ্ঞান"
           },
           {
-            "en": "magnificent royal library",
-            "bn": "সুরম্য রাজকীয় পাঠাগার"
+            "en": "enduring masterpiece",
+            "bn": "কালজয়ী সর্বশ্রেষ্ঠ মাস্টারপিস"
+          },
+          {
+            "en": "The Canon of Medicine",
+            "bn": "আল-কানুন ফিত-তিব্ব"
           }
         ]
       },
       {
-        "en": "Whenever a complex scientific or philosophical problem baffled him, he would walk to the mosque, prostrate in prayer, and supplicate until clarity opened in his mind.",
-        "bn": "যখনই কোনো জটিল বৈজ্ঞানিক বা দার্শনিক ধাঁধা তাঁকে দ্বিধায় ফেলত, তিনি মসজিদে যেতেন, সিজদায় লুটিয়ে পড়তেন এবং মনে সমাধান না আসা পর্যন্ত দোয়া করতেন।",
+        "en": "Comprising five exhaustive volumes, the Canon systematically cataloged over seven hundred herbal remedies, established principles of infectious disease transmission, and introduced clinical trials for pharmaceutical drugs.",
+        "bn": "পাঁচটি সুবিশাল খণ্ডে বিভক্ত এই গ্রন্থে সাত শতাধিক ঔষধি উদ্ভিদের বিবরণ, সংক্রামক ব্যাধি ছড়ানোর প্রক্রিয়া এবং ওষুধ ব্যবহারের পূর্বে ক্লিনিকাল পরীক্ষার বৈজ্ঞানিক নিয়মাবলি লিপিবদ্ধ করা হয়।",
         "words": [
           {
-            "en": "philosophical problem baffled",
-            "bn": "দার্শনিক সমস্যা বিভ্রান্ত করত"
+            "en": "exhaustive volumes",
+            "bn": "সুবিস্তৃত ও বিশদ খণ্ডসমূহ"
           },
           {
-            "en": "prostrate in prayer",
-            "bn": "নামাজে সিজদায় যেতেন"
+            "en": "herbal remedies",
+            "bn": "ভেষজ ও উদ্ভিজ্জ ওষুধ"
           },
           {
-            "en": "clarity opened in his mind",
-            "bn": "মনে স্পষ্ট সমাধান উন্মোচিত হতো"
+            "en": "infectious disease transmission",
+            "bn": "সংক্রামক রোগ বিস্তারের প্রক্রিয়া"
+          },
+          {
+            "en": "clinical drug trials",
+            "bn": "ওষুধের ক্লিনিকাল ও পরীক্ষামূলক প্রয়োগ"
           }
         ]
       },
       {
-        "en": "His monumental five-volume encyclopedia, Al-Qanun fi al-Tibb (The Canon of Medicine), became the definitive medical textbook in European universities for six hundred years.",
-        "bn": "তাঁর রচিত পাঁচ খণ্ডের বিশাল বিশ্বকোষ 'আল-কানুন ফিত তিব্ব' (চিকিৎসার কানুন) পরবর্তী ছয়শত বছর ধরে ইউরোপের বিশ্ববিদ্যালয়গুলোতে চিকিৎসাবিজ্ঞানের প্রামাণ্য পাঠ্যবই হিসেবে সমাদৃত ছিল।",
+        "en": "He was the first physician to accurately diagnose meningitis, recognize the contagious nature of pulmonary tuberculosis, and hypothesize that microscopic invisible particles spread disease through air and contaminated water.",
+        "bn": "তিনিই প্রথম মেনিনজাইটিস নির্ভুলভাবে শনাক্ত করেন, যক্ষ্মা রোগের সংক্রামক স্বভাব নির্ণয় করেন এবং ধারণা দেন যে বাতাসে ও দূষিত পানিতে থাকা অদৃশ্য অতিক্ষুদ্র জীবাণুই রোগ ছড়ায়।",
         "words": [
           {
-            "en": "five-volume encyclopedia",
-            "bn": "পাঁচ খণ্ডের বিশ্বকোষ"
+            "en": "diagnose meningitis",
+            "bn": "মেনিনজাইটিস রোগ সফলভাবে নির্ণয়"
           },
           {
-            "en": "definitive medical textbook",
-            "bn": "প্রামাণ্য চিকিৎসাবিষয়ক পাঠ্যবই"
+            "en": "pulmonary tuberculosis",
+            "bn": "ফুসফুসের যক্ষ্মা রোগ"
           },
           {
-            "en": "six hundred years",
-            "bn": "ছয়শত বছর"
-          }
-        ]
-      },
-      {
-        "en": "He discovered that tuberculosis and other contagions spread through airborne particles and contaminated drinking water.",
-        "bn": "তিনি আবিষ্কার করেন যে যক্ষ্মা এবং অন্যান্য সংক্রামক ব্যাধি বাতাস ও দূষিত পানির মাধ্যমে ছড়িয়ে পড়ে।",
-        "words": [
-          {
-            "en": "tuberculosis",
-            "bn": "যক্ষ্মা রোগ"
-          },
-          {
-            "en": "airborne particles",
-            "bn": "বাতাসে ভাসমান ধূলিকণা"
+            "en": "microscopic particles",
+            "bn": "অদৃশ্য অতিক্ষুদ্র জীবাণু বা অণুজীব"
           },
           {
             "en": "contaminated water",
-            "bn": "দূষিত পানি"
+            "bn": "দূষিত পানি ও বাতাস"
           }
         ]
       },
       {
-        "en": "He was the first physician to mandate quarantine periods to isolate epidemics and to recognize psychosomatic connections between emotional health and physical illness.",
-        "bn": "তিনিই প্রথম মহামারী রোধে 'কোয়ারেন্টাইন' বা বিচ্ছিন্নকরণের নিয়ম চালু করেন এবং মানসিক সুস্থতার সাথে শারীরিক সুস্থতার গভীর সম্পর্ক প্রমাণ করেন।",
+        "en": "Translated into Latin by Gerard of Cremona, the Canon became the authoritative medical curriculum at the Universities of Paris, Montpellier, and Padua for more than six hundred years.",
+        "bn": "জেরার্ড অব ক্রেমোনা কর্তৃক ল্যাটিনে অনূদিত হওয়ার পর এই কানুন দীর্ঘ ছয়শত বছর ধরে প্যারিস, মন্টপেলিয়ার ও পাডুয়া বিশ্ববিদ্যালয়ে শীর্ষ পাঠ্যবই হিসেবে বাধ্যতামূলকভাবে পড়ানো হতো।",
         "words": [
           {
-            "en": "mandate quarantine",
-            "bn": "কোয়ারেন্টাইন বাধ্যতামূলক করা"
+            "en": "Gerard of Cremona",
+            "bn": "ল্যাটিন অনুবাদক জেরার্ড অব ক্রেমোনা"
           },
           {
-            "en": "isolate epidemics",
-            "bn": "মহামারী ছড়িয়ে পড়া রোধ করতে"
+            "en": "authoritative curriculum",
+            "bn": "সর্বজনস্বীকৃত প্রধান পাঠ্যক্রম"
           },
           {
-            "en": "emotional health and physical illness",
-            "bn": "মানসিক স্বাস্থ্য ও শারীরিক রোগ"
+            "en": "medieval universities",
+            "bn": "মধ্যযুগীয় ইউরোপের বিশ্ববিদ্যালয়"
+          },
+          {
+            "en": "six hundred years",
+            "bn": "ছয়শত বছরেরও বেশি সময়"
           }
         ]
       },
       {
-        "en": "Ibn Sina proved that scientific medicine and deep faith can illuminate one another, leaving an immortal legacy that shaped the modern hospital system.",
-        "bn": "ইবনে সিনা প্রমাণ করেছিলেন যে বিজ্ঞানভিত্তিক চিকিৎসা ও গভীর ধর্মীয় বিশ্বাস পরস্পরকে আলোকিত করে; তিনি এমন এক অমর অবদান রেখে গেছেন যা আধুনিক হাসপাতাল ব্যবস্থাকে গড়ে তুলেছে।",
+        "en": "Ibn Sina integrated rigorous empirical observation with philosophical inquiry, embodying the pinnacle of Islamic scientific and intellectual curiosity during the Middle Ages.",
+        "bn": "ইবনে সিনা যুক্তি ও দর্শনের সাথে কঠোর বাস্তবসম্মত গবেষণার সমন্বয় ঘটিয়ে মধ্যযুগে ইসলামী বিজ্ঞান ও বুদ্ধিবৃত্তিক উৎকর্ষের সর্বোচ্চ শিখরে আরোহণ করেন।",
         "words": [
           {
-            "en": "scientific medicine",
-            "bn": "বিজ্ঞানভিত্তিক চিকিৎসা"
+            "en": "rigorous empirical observation",
+            "bn": "বাস্তবসম্মত প্রত্যক্ষ পর্যবেক্ষণ ও পরীক্ষা"
           },
           {
-            "en": "deep faith",
-            "bn": "গভীর বিশ্বাস"
+            "en": "philosophical inquiry",
+            "bn": "দার্শনিক অনুসন্ধান ও যুক্তি"
           },
           {
-            "en": "immortal legacy",
-            "bn": "অমর অবদান ও উত্তরাধিকার"
+            "en": "pinnacle of scientific curiosity",
+            "bn": "বিজ্ঞান ও জ্ঞানচর্চার সর্বোচ্চ চূড়া"
           },
           {
-            "en": "modern hospital system",
-            "bn": "আধুনিক হাসপাতাল ব্যবস্থা"
+            "en": "Islamic Golden Age",
+            "bn": "ইসলামের সোনালী যুগ"
           }
         ]
       }
@@ -767,191 +936,186 @@
   },
   {
     "id": "history-sultan-fatih-constantinople",
-    "title": "Sultan Mehmed II: The Conquest of Constantinople",
-    "titleBn": "সুলতান মুহাম্মদ আল-ফাতিহ ও কনস্টান্টিনোপল বিজয়",
-    "author": "Tarikh al-Dawlah al-Aliyya al-Uthmaniyya & Ibn Kemal",
-    "level": "Intermediate",
-    "levelColor": "purple",
+    "title": "Sultan Mehmed II al-Fatih: The Conqueror of Constantinople",
+    "title_bn": "সুলতান মুহাম্মদ আল-ফাতিহ: কনস্টান্টিনোপল বিজয়ী বীর",
+    "summary": "The twenty-one-year-old Ottoman sultan who fulfilled the prophetic prophecy in 1453 by transporting naval ships overland and capturing the legendary Byzantine capital.",
+    "summary_bn": "একুশ বছর বয়সী তরুণ উসমানীয় সুলতান যিনি ১৪৫৩ সালে স্থলভাগের ওপর দিয়ে রণতরী চালিয়ে দুর্ভেদ্য কনস্টান্টিনোপল জয় করেন এবং মহানবীর (সা.) ঐতিহাসিক ভবিষ্যদ্বাণী পূরণ করেন।",
     "category": "Islamic Golden Age",
-    "coverEmoji": "🚩",
-    "summary": "Fulfilling the historic prophecy of Prophet Muhammad ﷺ, the twenty-one-year-old Ottoman Sultan Mehmed II engineered monumental siege engines, dragged naval ships over land into the Golden Horn, and conquered Constantinople in 1453 with magnanimous justice.",
-    "summaryBn": "রাসুলুল্লাহ ﷺ-এর ঐতিহাসিক ভবিষ্যৎবাণী পূর্ণ করে মাত্র একুশ বছর বয়সে উসমানীয় সুলতান মুহাম্মদ আল-ফাতিহ সুবিশাল কামান তৈরি করেন, সমুদ্রের জাহাজ ডাঙা দিয়ে টেনে গোল্ডেন হর্নে নামান এবং ১৪৫৩ সালে ঐতিহাসিক কনস্টান্টিনোপল জয় করে ইনসাফের প্রতীক হন।",
+    "level": "Intermediate",
     "sentences": [
       {
-        "en": "Prophet Muhammad ﷺ famously prophesied: 'Verily, Constantinople shall be conquered; what a wonderful leader is that leader, and what a wonderful army is that army!'",
-        "bn": "রাসুলুল্লাহ ﷺ ভবিষ্যৎবাণী করেছিলেন: 'নিশ্চয়ই কনস্টান্টিনোপল বিজিত হবে; কতই না উত্তম সেই সেনাপতি, আর কতই না চমৎকার সেই সেনাবাহিনী!'",
+        "en": "Ascending the Ottoman throne at Edirne, Sultan Mehmed II was a cultured linguist speaking six languages and a tactical mastermind driven by the prophetic hadith: 'Verily you shall conquer Constantinople; what a wonderful leader will her leader be, and what a wonderful army will that army be!'",
+        "bn": "এদিরনে উসমানীয় সিংহাসনে আরোহণকারী দ্বিতীয় মুহাম্মদ ছিলেন ছয়টি ভাষায় পারদর্শী এক অনন্য রণকৌশলী, যাঁর হৃদয়ে সদা জাগ্রত ছিল নবীজির সেই ভবিষ্যদ্বাণী: 'নিশ্চয়ই তোমরা কনস্টান্টিনোপল জয় করবে; কতই না উত্তম সেই সেনাপতি এবং কতই না উত্তম সেই সেনাদল!'",
         "words": [
           {
-            "en": "famously prophesied",
-            "bn": "ঐতিহাসিক ভবিষ্যৎবাণী করেছিলেন"
+            "en": "Ottoman throne",
+            "bn": "উসমানীয় সাম্রাজ্যের সিংহাসন"
           },
           {
-            "en": "Constantinople shall be conquered",
-            "bn": "কনস্টান্টিনোপল বিজিত হবে"
+            "en": "tactical mastermind",
+            "bn": "অসাধারণ যুদ্ধকৌশলী ও স্থপতি"
           },
           {
-            "en": "wonderful leader",
-            "bn": "কতই না উত্তম সেই সেনাপতি"
+            "en": "prophetic hadith",
+            "bn": "মহানবীর পবিত্র ভবিষ্যদ্বাণী"
           },
           {
-            "en": "wonderful army",
-            "bn": "কতই না চমৎকার সেই সেনাবাহিনী"
+            "en": "wonderful leader and army",
+            "bn": "উত্তম সেনাপতি ও উত্তম সেনাদল"
           }
         ]
       },
       {
-        "en": "For eight centuries, Muslim rulers and warriors yearned to realize this prophetic praise, yet the impenetrable triple-layered walls of Byzantium withstood every siege.",
-        "bn": "আট শতাব্দী ধরে মুসলিম শাসক ও যোদ্ধারা এই হাদিসের মর্যাদা অর্জনের স্বপ্ন দেখেছিলেন, কিন্তু বাইজেন্টাইনদের দুর্ভেদ্য ত্রিস্তরীয় দেয়াল প্রতিটি আক্রমণ প্রতিহত করেছিল।",
+        "en": "For over eleven centuries, Constantinople had stood as the impregnable bastion of the Eastern Roman Empire, shielded by massive triple-layered Theodosian walls and deep sea moats.",
+        "bn": "এক হাজার একশত বছরেরও বেশি সময় ধরে কনস্টান্টিনোপল পূর্ব রোমান বাইজেন্টাইন সাম্রাজ্যের দুর্ভেদ্য ঘাঁটি ছিল, যা তিন স্তরের সুবিশাল থিওডোসিয়ান প্রাচীর এবং গভীর পরিখা দিয়ে সুরক্ষিত ছিল।",
         "words": [
           {
-            "en": "eight centuries",
-            "bn": "আট শতাব্দী"
+            "en": "eleven centuries",
+            "bn": "এগারো শতাব্দীরও বেশি সময়"
           },
           {
-            "en": "yearned to realize",
-            "bn": "বাস্তবায়ন করতে ব্যাকুল ছিলেন"
+            "en": "impregnable bastion",
+            "bn": "দুর্ভেদ্য ও অপরাজেয় দুর্গ"
           },
           {
-            "en": "impenetrable walls",
-            "bn": "দুর্ভেদ্য প্রাচীর"
+            "en": "Byzantine Empire",
+            "bn": "পূর্ব রোমান বাইজেন্টাইন সাম্রাজ্য"
           },
           {
-            "en": "withstood every siege",
-            "bn": "প্রতিটি অবরোধ ব্যর্থ করেছিল"
+            "en": "triple-layered walls",
+            "bn": "তিন স্তরের সুবিশাল প্রতিরক্ষা প্রাচীর"
           }
         ]
       },
       {
-        "en": "In 1453, twenty-one-year-old Ottoman Sultan Mehmed II, fluent in six languages and deeply versed in engineering and Islamic scholarship, resolved to take the fortress city.",
-        "bn": "১৪৫৩ সালে একুশ বছর বয়সী উসমানীয় সুলতান মুহাম্মদ দ্বিতীয় (আল-ফাতিহ), যিনি ছয়টি ভাষায় পারদর্শী এবং প্রকৌশল ও ইসলামি জ্ঞানে গভীর পণ্ডিত ছিলেন, দুর্গনগরীটি জয়ের সংকল্প করলেন।",
+        "en": "Mehmed commissioned Hungarian master engineer Orban to cast the massive 'Basilica' cannon, a super-gun measuring twenty-seven feet long capable of hurling twelve-hundred-pound stone balls against stone fortifications.",
+        "bn": "সুলতান হাঙ্গেরিয়ান প্রকৌশলী আরবানকে দিয়ে 'ব্যাসিলিকা' নামক এক সুবিশাল কামান তৈরি করান, যা সাতাশ ফুট লম্বা ছিল এবং যার সাহায্যে বারোশত পাউন্ড ওজনের পাথুরে গোলা প্রাচীরের ওপর নিক্ষেপ করা যেত।",
         "words": [
           {
-            "en": "twenty-one-year-old",
-            "bn": "একুশ বছর বয়সী"
+            "en": "Hungarian master engineer",
+            "bn": "হাঙ্গেরিয়ান কামান প্রকৌশলী আরবান"
           },
           {
-            "en": "fluent in six languages",
-            "bn": "ছয়টি ভাষায় পারদর্শী"
+            "en": "Basilica cannon",
+            "bn": "ঐতিহাসিক ব্যাসিলিকা মহাকামান"
           },
           {
-            "en": "versed in engineering",
-            "bn": "প্রকৌশলে অভিজ্ঞ"
+            "en": "twenty-seven feet long",
+            "bn": "সাতাশ ফুট লম্বা কামান"
           },
           {
-            "en": "resolved to take",
-            "bn": "বিজয়ের সংকল্প করলেন"
+            "en": "stone fortifications",
+            "bn": "পাথরের দুর্ভেদ্য দুর্গপ্রাচীর"
           }
         ]
       },
       {
-        "en": "He commissioned the construction of massive bronze cannons, including the colossal Urban Bombardier capable of launching twelve-hundred-pound stone boulders.",
-        "bn": "তিনি সুবিশাল ব্রোঞ্জের কামান তৈরি করান, যার মধ্যে ছিল অতিকায় 'আরবান কামানের' মতো অস্ত্র যা বারো শত পাউন্ড ওজনের পাথর ছুড়তে সক্ষম ছিল।",
+        "en": "When Byzantine iron boom chains blocked the mouth of the Golden Horn estuary to Ottoman warships, Mehmed devised an astounding tactical feat that shocked military history.",
+        "bn": "বাইজেন্টাইনরা যখন গোল্ডেন হর্ন প্রণালীর মুখে ভারী লোহার শিকল বেঁধে উসমানীয় রণতরীর প্রবেশপথ বন্ধ করে দিল, তখন সুলতান সামরিক ইতিহাসের এক তাক লাগানো পরিকল্পনা আঁকলেন।",
         "words": [
           {
-            "en": "massive bronze cannons",
-            "bn": "বিশাল ব্রোঞ্জের কামান"
+            "en": "iron boom chains",
+            "bn": "লোহার ভারী ভাসমান শিকল"
           },
           {
-            "en": "colossal bombardier",
-            "bn": "অতিকায় কামান"
+            "en": "Golden Horn estuary",
+            "bn": "গোল্ডেন হর্ন সমুদ্র প্রণালী"
           },
           {
-            "en": "launching stone boulders",
-            "bn": "পাথরের গোলক নিক্ষেপ করা"
+            "en": "astounding tactical feat",
+            "bn": "বিস্ময়কর সামরিক রণকৌশল"
+          },
+          {
+            "en": "blocked warships",
+            "bn": "রণতরীর প্রবেশপথ রুদ্ধ করেছিল"
           }
         ]
       },
       {
-        "en": "When a massive iron chain blocking the Golden Horn prevented his navy from attacking the weaker sea walls, Mehmed executed an astounding feat of engineering.",
-        "bn": "যখন গোল্ডেন হর্ন উপসাগরে ফেলা এক বিশালাকার লোহার শিকল উসমানীয় নৌবহরকে দুর্বল প্রাচীরে আক্রমণ করতে বাধা দিল, সুলতান এক অবিশ্বাস্য প্রকৌশল চমক দেখালেন।",
+        "en": "In a single night, his engineers laid oiled wooden logs over the steep hills of Galata, dragging over seventy galleys and warships overland into the Golden Horn, outflanking the Greek defenders.",
+        "bn": "এক রাতের ব্যবধানে তাঁর বাহিনী গালাতার খাড়া পাহাড়ের ওপর তেল মাখানো কাঠের গুঁড়ি বিছিয়ে স্থলভাগের ওপর দিয়ে সত্তরের বেশি রণতরী টেনে গোল্ডেন হর্নের জলে ভাসিয়ে রোমানদের হতভম্ব করে দেয়।",
         "words": [
           {
-            "en": "massive iron chain",
-            "bn": "বিশাল লোহার শিকল"
+            "en": "oiled wooden logs",
+            "bn": "তেল মাখানো পিচ্ছিল কাঠের গুঁড়ি"
           },
           {
-            "en": "Golden Horn",
-            "bn": "গোল্ডেন হর্ন (উপসাগর)"
+            "en": "hills of Galata",
+            "bn": "গালাতার খাড়া পাহাড়"
           },
           {
-            "en": "astounding feat of engineering",
-            "bn": "অবিশ্বাস্য প্রকৌশল নৈপুণ্য"
+            "en": "warships overland",
+            "bn": "স্থলভাগের ওপর দিয়ে রণতরী পরিবহন"
+          },
+          {
+            "en": "outflanking defenders",
+            "bn": "শত্রুদের হতচকিত ও পরাস্ত করা"
           }
         ]
       },
       {
-        "en": "Overnight, he had dozens of war galleys dragged over greased wooden logs across the hills of Galata and dropped directly into the harbor behind enemy defenses.",
-        "bn": "রাতারাতি তিনি গালাতার পাহাড়ের ওপর দিয়ে চর্বি মাখানো কাঠের তক্তার ওপর দিয়ে টেনে ডজন ডজন যুদ্ধজাহাজকে শত্রুর সুরক্ষিত উপসাগরের পানিতে নামিয়ে দিলেন।",
+        "en": "On the morning of May 29, 1453, after a rigorous fifty-three-day siege, Mehmed ordered the final breach, personally leading the Janissaries as Ottoman troops surged through the fractured Roman walls.",
+        "bn": "১৪৫৩ সালের ২৯ মে সকালে দীর্ঘ তিপ্পান্ন দিনের অবরোধের পর সুলতান চূড়ান্ত আক্রমণের হুকুম দেন এবং প্রাচীর ভেঙে পড়তেই জানিসারি বাহিনীকে সাথে নিয়ে তিনি নিজে বীরদর্পে নগরে প্রবেশ করেন।",
         "words": [
           {
-            "en": "greased wooden logs",
-            "bn": "চর্বি মাখানো কাঠের গুঁড়ি"
+            "en": "May 29, 1453",
+            "bn": "১৪৫৩ সালের ২৯শে মে"
           },
           {
-            "en": "dragged across hills",
-            "bn": "পাহাড়ের ওপর দিয়ে টেনে আনা"
+            "en": "fifty-three-day siege",
+            "bn": "তিপ্পান্ন দিনের রক্তক্ষয়ী অবরোধ"
           },
           {
-            "en": "behind enemy defenses",
-            "bn": "শত্রুর প্রতিরক্ষার পেছনে"
+            "en": "ordered final breach",
+            "bn": "প্রাচীর ভেঙে চূড়ান্ত প্রবেশের আদেশ দিলেন"
+          },
+          {
+            "en": "Ottoman Janissaries",
+            "bn": "উসমানীয় জানিসারি বিশেষ বাহিনী"
           }
         ]
       },
       {
-        "en": "On Tuesday, May 29, 1453, after reciting fervent supplications, the Ottoman army breached the Topkapi gate and raised the banner of Islam above the ramparts.",
-        "bn": "১৪৫৩ সালের ২৯শে মে মঙ্গলবার, আল্লাহর দরবারে কায়মনোবাক্যে দোয়ার পর উসমানীয় বাহিনী তোপকাপি ফটক ভেঙে ভেতরে প্রবেশ করে প্রাচীরের শীর্ষে ইসলামের পতাকা উত্তোলন করল।",
+        "en": "Upon entering the ancient city, Sultan Mehmed al-Fatih dismounted his horse, knelt down to scatter dust over his turban in humble gratitude to God, and guaranteed complete protection to all Christian citizens and churches.",
+        "bn": "নগরে প্রবেশ করেই সুলতান ঘোড়া থেকে নেমে আল্লাহর প্রতি কৃতজ্ঞতায় সিজদা দিয়ে নিজের পাগড়িতে ধুলো মেখে নেন এবং সমস্ত খ্রিষ্টান নাগরিক ও গির্জার পূর্ণ নিরাপত্তা নিশ্চিত করেন।",
         "words": [
           {
-            "en": "reciting fervent supplications",
-            "bn": "ঐকান্তিক দোয়া পাঠ করে"
-          },
-          {
-            "en": "breached the gate",
-            "bn": "ফটক ভেঙে ভেতরে ঢুকল"
-          },
-          {
-            "en": "raised the banner of Islam",
-            "bn": "ইসলামের পতাকা উত্তোলন করল"
-          }
-        ]
-      },
-      {
-        "en": "Entering the city on his white stallion, Sultan Mehmed dismounted at Hagia Sophia, scattered dust upon his turban in humility before Allah, and granted full amnesty to all terrified citizens.",
-        "bn": "সাদা ঘোড়ায় চড়ে নগরীতে প্রবেশ করে সুলতান মুহাম্মদ আয়া সোফিয়ায় নেমে আল্লাহর শুকরিয়ায় নিজের পাগড়ির ওপর বিনম্রভাবে ধুলো মাখেন এবং আতঙ্কিত নগরবাসীকে সাধারণ ক্ষমা ঘোষণা করেন।",
-        "words": [
-          {
-            "en": "white stallion",
-            "bn": "সাদা ঘোড়া"
+            "en": "dismounted horse",
+            "bn": "ঘোড়া থেকে নিচে নেমে এলেন"
           },
           {
             "en": "scattered dust in humility",
-            "bn": "বিনম্রতায় ধুলো ছিটিয়ে দিলেন"
+            "bn": "বিনয়ে পাগড়িতে ধূলি মাখলেন"
           },
           {
-            "en": "granted full amnesty",
-            "bn": "পূর্ণ সাধারণ ক্ষমা ঘোষণা করলেন"
+            "en": "humble gratitude to God",
+            "bn": "আল্লাহর দরবারে বিনম্র শোকরিয়া"
+          },
+          {
+            "en": "guaranteed protection",
+            "bn": "জানমাল ও উপাসনালয়ের নিরাপত্তা দিলেন"
           }
         ]
       },
       {
-        "en": "He safeguarded Christian churches and invited Jewish refugees fleeing European inquisitions to settle peacefully in Istanbul, earning the eternal title 'Al-Fatih' (The Conqueror).",
-        "bn": "তিনি খ্রিষ্টান গির্জাগুলোকে সুরক্ষা দিলেন এবং ইউরোপীয় নিপীড়ন থেকে পালিয়ে আসা ইহুদি শরণার্থীদের ইস্তাম্বুলে শান্তিতে বসবাসের আহ্বান জানালেন; ফলে তিনি ইতিহাসে 'আল-ফাতিহ' (বিজেতা) উপাধিতে অমর হয়ে রইলেন।",
+        "en": "The fall of Constantinople marked the end of the Middle Ages, established the Ottoman Empire as a dominant global superpower, and transformed the historic city into Istanbul, the beating heart of Islamic governance for centuries.",
+        "bn": "কনস্টান্টিনোপল বিজয়ের মাধ্যমে মধ্যযুগের সমাপ্তি ঘটে, উসমানীয় সাম্রাজ্য পরাশক্তিতে পরিণত হয় এবং এই ঐতিহাসিক নগরী 'ইস্তাম্বুল' নামে শতাব্দীর পর শতাব্দী মুসলিম খিলাফতের প্রাণকেন্দ্রে রূপ নেয়।",
         "words": [
           {
-            "en": "safeguarded Christian churches",
-            "bn": "খ্রিষ্টান গির্জাগুলো রক্ষা করলেন"
+            "en": "end of the Middle Ages",
+            "bn": "মধ্যযুগের অবসান ও আধুনিক যুগের সূচনা"
           },
           {
-            "en": "Jewish refugees",
-            "bn": "ইহুদি শরণার্থীরা"
+            "en": "dominant global superpower",
+            "bn": "বিশ্বের অন্যতম প্রধান পরাশক্তি"
           },
           {
-            "en": "settle peacefully",
-            "bn": "শান্তিপূর্ণভাবে বসবাস করতে"
+            "en": "transformed into Istanbul",
+            "bn": "ইস্তাম্বুল নগরীতে রূপান্তর"
           },
           {
-            "en": "Al-Fatih (The Conqueror)",
-            "bn": "আল-ফাতিহ (মহান বিজয়ী)"
+            "en": "beating heart of governance",
+            "bn": "খিলাফতের প্রধান প্রাণকেন্দ্র"
           }
         ]
       }
@@ -959,191 +1123,186 @@
   },
   {
     "id": "history-al-zahrawi-surgery",
-    "title": "Al-Zahrawi: The Father of Modern Surgery",
-    "titleBn": "আল-জাহরাভি: আধুনিক শল্যচিকিৎসা ও সার্জারির রূপকার",
-    "author": "Al-Tasrif li-man 'Ajiza 'an al-Ta'lif",
-    "level": "Intermediate",
-    "levelColor": "emerald",
+    "title": "Abu al-Qasim al-Zahrawi: The Father of Modern Operative Surgery",
+    "title_bn": "আবুল কাসেম আল-জাহরাভি: আধুনিক সার্জারির জনক",
+    "summary": "The Andalusian court physician of Madinat al-Zahra who revolutionized surgical medicine, invented over two hundred surgical instruments, and pioneered the use of catgut sutures.",
+    "summary_bn": "আন্দালুসের বিশ্বখ্যাত সার্জন যিনি আধুনিক সার্জারির বিপ্লব ঘটান, দুই শতাধিক অস্ত্রোপচারের যন্ত্রপাতি আবিষ্কার করেন এবং ক্যাটগাট সুতার উদ্ভাবন করেন।",
     "category": "Islamic Golden Age",
-    "coverEmoji": "🔬",
-    "summary": "In Islamic Cordoba, physician Abu al-Qasim al-Zahrawi wrote 'Al-Tasrif', an illustrated surgical encyclopedia inventing over two hundred surgical instruments—including catgut dissolvable stitches, scalpels, bone saws, and forceps—used to save lives worldwide today.",
-    "summaryBn": "আন্দালুসের কর্ডোভায় আবুল কাসিম আল-জাহরাভি রচনা করেন 'আত-তাসরীফ' নামের এক বিশ্বকোষ, যেখানে তিনি দুই শতাধিক সার্জিক্যাল যন্ত্রপাতি উদ্ভাবন করেন—যার মধ্যে দ্রবণীয় ক্যাটগাট সেলাই, স্ক্যালপেল ও ফরসেপস আজও আধুনিক অপারেশন থিয়েটারে ব্যবহৃত হয়।",
+    "level": "Intermediate",
     "sentences": [
       {
-        "en": "In tenth-century Cordoba, Andalusia, lived Abu al-Qasim Khalaf ibn al-Abbas al-Zahrawi, recognized globally as the undisputed father of modern surgery.",
-        "bn": "দশম শতাব্দীর কর্ডোভায় (আন্দালুস) বাস করতেন আবুল কাসিম খালাফ ইবনে আল-আব্বাস আল-জাহরাভি, যিনি আধুনিক সার্জারির অবিসংবাদিত জনক হিসেবে বিশ্বজুড়ে সমাদৃত।",
+        "en": "Born around 936 CE in Madinat al-Zahra near Cordoba, Abu al-Qasim Khalaf ibn al-Abbas al-Zahrawi, Latinized as Albucasis, served as the chief royal surgeon to Umayyad Caliph Al-Hakam II.",
+        "bn": "৯৩৬ খ্রিস্টাব্দে কর্ডোভার নিকটবর্তী মদিনাতুজ জাহরায় জন্মগ্রহণকারী আবুল কাসেম খালাফ ইবনে আব্বাস আল-জাহরাভি, পাশ্চাত্যে যিনি আলবুকাসিস নামে পরিচিত, উমাইয়া খলিফা দ্বিতীয় আল-হাকামের রাজকীয় প্রধান সার্জন ছিলেন।",
         "words": [
           {
-            "en": "father of modern surgery",
-            "bn": "আধুনিক সার্জারির জনক"
+            "en": "born in Madinat al-Zahra",
+            "bn": "মদিনাতুজ জাহরায় জন্মগ্রহণকারী"
           },
           {
-            "en": "tenth-century Cordoba",
-            "bn": "দশম শতাব্দীর কর্ডোভা"
+            "en": "Latinized as Albucasis",
+            "bn": "পাশ্চাত্যে আলবুকাসিস নামে খ্যাত"
           },
           {
-            "en": "recognized globally",
-            "bn": "বিশ্বজুড়ে স্বীকৃত"
+            "en": "royal surgeon",
+            "bn": "রাজকীয় প্রধান শল্যচিকিৎসক বা সার্জন"
+          },
+          {
+            "en": "Caliph Al-Hakam II",
+            "bn": "উমাইয়া খলিফা দ্বিতীয় আল-হাকাম"
           }
         ]
       },
       {
-        "en": "Serving as court physician to Caliph Abd al-Rahman III, he dedicated fifty years of his life to advancing medical practice and operating upon patients without distinction between rich and poor.",
-        "bn": "খলিফা তৃতীয় আবদুর রহমানের রাজচিকিৎসক হিসেবে দায়িত্ব পালন করার পাশাপাশি তিনি ধনী-দরিদ্রের কোনো ভেদাভেদ না করে পঞ্চাশ বছর ধরে রোগীদের অস্ত্রোপচার ও চিকিৎসায় নিবেদিত ছিলেন।",
+        "en": "Over a clinical career spanning fifty years, he composed 'Kitab al-Tasrif', an enormous thirty-volume medical encyclopedia covering surgery, pharmacology, orthopedics, and ophthalmology.",
+        "bn": "পঞ্চাশ বছরের দীর্ঘ চিকিৎসাজীবনে তিনি 'কিতাবুত তাসরিফ' নামক ত্রিশ খণ্ডের এক সুবিশাল চিকিৎসা বিশ্বকোষ রচনা করেন, যা সার্জারি, ফার্মাকোলজি, অর্থোপেডিকস এবং চক্ষুচিকিৎসায় সমৃদ্ধ ছিল।",
         "words": [
           {
-            "en": "court physician",
-            "bn": "রাজকীয় চিকিৎসক"
+            "en": "career spanning fifty years",
+            "bn": "পঞ্চাশ বছরের কর্মজীবন"
           },
           {
-            "en": "dedicated fifty years",
-            "bn": "পঞ্চাশ বছর উৎসর্গ করলেন"
+            "en": "Kitab al-Tasrif",
+            "bn": "কিতাবুত তাসরিফ চিকিৎসা বিশ্বকোষ"
           },
-          {
-            "en": "without distinction",
-            "bn": "ভেদাভেদ ছাড়া"
-          }
-        ]
-      },
-      {
-        "en": "He authored Al-Tasrif, a massive thirty-volume medical encyclopedia that served as the primary surgical guide throughout Europe for over five hundred years.",
-        "bn": "তিনি রচনা করেন 'আত-তাসরীফ' নামে ত্রিশ খণ্ডের এক সুবিশাল চিকিৎসা বিশ্বকোষ, যা ইউরোপ জুড়ে পাঁচ শতাধিক বছর ধরে শল্যচিকিৎসার মূল ভিত্তিগ্রন্থ হিসেবে ব্যবহৃত হয়েছে।",
-        "words": [
           {
             "en": "thirty-volume encyclopedia",
-            "bn": "ত্রিশ খণ্ডের বিশ্বকোষ"
+            "bn": "ত্রিশ খণ্ডের সুবিশাল বিশ্বকোষ"
           },
           {
-            "en": "primary surgical guide",
-            "bn": "সার্জারির মূল পাঠ্যবই"
-          },
-          {
-            "en": "five hundred years",
-            "bn": "পাঁচ শতাধিক বছর"
+            "en": "surgery and orthopedics",
+            "bn": "সার্জারি ও অস্থিচিকিৎসা বিদ্যা"
           }
         ]
       },
       {
-        "en": "Al-Zahrawi was the first physician in human history to illustrate surgical instruments with detailed sketches and blueprints in his manuscripts.",
-        "bn": "মানব ইতিহাসের প্রথম চিকিৎসক হিসেবে আল-জাহরাভি তাঁর পাণ্ডুলিপিতে সুনির্দিষ্ট স্কেচ ও নকশাসহ দুই শতাধিক শল্যচিকিৎসার যন্ত্রপাতির চিত্র এঁকেছিলেন।",
+        "en": "The final volume of al-Tasrif was the first illustrated surgical textbook in world history, containing detailed hand-drawn diagrams of over two hundred surgical instruments that Zahrawi invented.",
+        "bn": "কিতাবুত তাসরিফের শেষ খণ্ডটি ছিল পৃথিবীর ইতিহাসের সর্বপ্রথম চিত্র সংবলিত সার্জারি গ্রন্থ, যেখানে জাহরাভির নিজের উদ্ভাবিত দুই শতাধিক অস্ত্রোপচারের যন্ত্রপাতির নিখুঁত হাতে আঁকা চিত্র ছিল।",
         "words": [
           {
-            "en": "first in human history",
-            "bn": "মানব ইতিহাসে প্রথম"
+            "en": "first illustrated textbook",
+            "bn": "বিশ্বের সর্বপ্রথম সচিত্র শল্যচিকিৎসা বই"
           },
           {
-            "en": "illustrate surgical instruments",
-            "bn": "সার্জিক্যাল যন্ত্রপাতির চিত্র আঁকা"
+            "en": "hand-drawn diagrams",
+            "bn": "হাতে আঁকা নিখুঁত নকশা ও চিত্র"
           },
           {
-            "en": "detailed sketches and blueprints",
-            "bn": "নিখুঁত স্কেচ ও নকশা"
+            "en": "two hundred instruments",
+            "bn": "দুই শতাধিক অস্ত্রোপচারের যন্ত্রপাতি"
+          },
+          {
+            "en": "invented by Zahrawi",
+            "bn": "জাহরাভি কর্তৃক উদ্ভাবিত"
           }
         ]
       },
       {
-        "en": "He invented over two hundred surgical tools, including the scalpel, surgical needle, bone saw, lithotomy forceps, and speculum.",
-        "bn": "তিনি দুই শতাধিক অস্ত্রোপচার যন্ত্র আবিষ্কার করেন, যার মধ্যে রয়েছে স্ক্যালপেল, অস্ত্রোপচারের সুই, হাড় কাটার করাত, মূত্রনালীর পাথর কাটার ফরসেপ এবং স্পেকুলাম।",
+        "en": "Among his brilliant innovations were the surgical scalpel, bone saws, retractors, vaginal specula, lithotomy forceps for extracting bladder stones, and fine dental scrapers.",
+        "bn": "তাঁর যুগান্তকারী আবিষ্কারগুলোর মধ্যে ছিল উন্নত সার্জিক্যাল স্ক্যালপেল, হাড় কাটার করাত, মূত্রথলির পাথর অপসারণের ফোরসেপস এবং সূক্ষ্ম দন্তচিকিৎসার যন্ত্রপাতি।",
         "words": [
           {
-            "en": "invented surgical tools",
-            "bn": "সার্জিক্যাল সরঞ্জাম উদ্ভাবন করলেন"
+            "en": "surgical scalpel",
+            "bn": "অস্ত্রোপচারের নিখুঁত স্ক্যালপেল বা ছুরি"
           },
           {
-            "en": "scalpel",
-            "bn": "স্ক্যালপেল (অস্ত্রোপচারের ছুরি)"
+            "en": "bone saws and retractors",
+            "bn": "হাড় কাটার করাত ও টিস্যু প্রসারক"
           },
           {
-            "en": "bone saw",
-            "bn": "হাড় কাটার করাত"
+            "en": "bladder stone forceps",
+            "bn": "মূত্রথলির পাথর কাটার বিশেষ সাঁড়াশি"
           },
           {
-            "en": "forceps",
-            "bn": "ফরসেপ বা সাঁড়াশি"
+            "en": "dental scrapers",
+            "bn": "দাঁতের চিকিৎসার যন্ত্রাদি"
           }
         ]
       },
       {
-        "en": "When a monkey accidentally consumed the dried intestines of an animal musical string, Al-Zahrawi noticed that the body naturally absorbed the material without adverse reaction.",
-        "bn": "একবার একটি বানর যখন বাদ্যযন্ত্রের তারে ব্যবহৃত পশুর শুকনা অন্ত্র খেয়ে ফেলল, আল-জাহরাভি খেয়াল করলেন যে শরীর কোনো পার্শ্বপ্রতিক্রিয়া ছাড়াই এই উপাদান শোষণ করে নিয়েছে।",
+        "en": "After accidentally observing a pet monkey ingest the string of an instrument with no ill effects, Zahrawi discovered that twisted sheep intestine (catgut) naturally dissolves inside the human body, pioneering absorbable sutures for internal operations.",
+        "bn": "একটি পোষা বানরের বাদ্যযন্ত্রের তার খেয়ে ফেলার ঘটনা লক্ষ্য করে জাহরাভি আবিষ্কার করেন যে ভেড়ার নাড়ি থেকে তৈরি সুতা (ক্যাটগাট) মানবদেহে প্রাকৃতিকভাবে মিশে যায়, যা অভ্যন্তরীণ অস্ত্রোপচারে দ্রবণীয় সুতার বিপ্লব ঘটায়।",
         "words": [
           {
-            "en": "dried intestines",
-            "bn": "শুকনো অন্ত্র বা নাড়ি"
+            "en": "sheep intestine (catgut)",
+            "bn": "ভেড়ার অন্ত্রের তৈরি ক্যাটগাট সুতা"
           },
           {
-            "en": "musical string",
-            "bn": "বাদ্যযন্ত্রের তার"
+            "en": "naturally dissolves",
+            "bn": "মানবদেহে প্রাকৃতিকভাবে দ্রবীভূত হয়"
           },
           {
-            "en": "naturally absorbed",
-            "bn": "প্রাকৃতিকভাবে শোষণ করে নিল"
+            "en": "absorbable sutures",
+            "bn": "অস্ত্রোপচারের দ্রবণীয় সুতা বা সেলাই"
           },
           {
-            "en": "without adverse reaction",
-            "bn": "কোনো ক্ষতিকর প্রতিক্রিয়া ছাড়া"
+            "en": "internal operations",
+            "bn": "অভ্যন্তরীণ জটিল অস্ত্রোপচার"
           }
         ]
       },
       {
-        "en": "From this astute insight, he invented internal dissolvable stitches made of catgut, a miraculous breakthrough still employed in operating rooms today.",
-        "bn": "এই প্রখর পর্যবেক্ষণ থেকে তিনি শরীরের ভেতরে সেলাই দেওয়ার জন্য প্রাকৃতিকভাবে গলে যাওয়া 'ক্যাটগাট' সুতো উদ্ভাবন করেন, যা আজও আধুনিক অপারেশন থিয়েটারে ব্যবহৃত হয়।",
+        "en": "He was the first surgeon to describe the hereditary nature of hemophilia, perform tracheotomies, develop plaster casts for fractured bones, and advocate surgical cauterization.",
+        "bn": "তিনিই প্রথম রক্তের বংশগত রোগ হিমোফিলিয়ার বৈশিষ্ট্য লিপিবদ্ধ করেন, সফল ট্র্যাকিওটমি সম্পন্ন করেন এবং ভাঙা হাড় জোড়া লাগানোর জন্য প্লাস্টার পদ্ধতির উন্নয়ন করেন।",
         "words": [
           {
-            "en": "astute insight",
-            "bn": "তীক্ষ্ণ পর্যবেক্ষণ"
+            "en": "hereditary hemophilia",
+            "bn": "বংশগত হিমোফিলিয়া রক্তক্ষরণ রোগ"
           },
           {
-            "en": "dissolvable stitches",
-            "bn": "গলে যাওয়া সেলাই"
+            "en": "perform tracheotomy",
+            "bn": "শ্বাসতন্ত্রের ট্র্যাকিওটমি অস্ত্রোপচার"
           },
           {
-            "en": "made of catgut",
-            "bn": "ক্যাটগাট দিয়ে তৈরি"
+            "en": "plaster casts for fractures",
+            "bn": "ভাঙা হাড়ের প্লাস্টার ব্যান্ডেজ"
           },
           {
-            "en": "operating rooms today",
-            "bn": "আজকের অপারেশন থিয়েটারে"
+            "en": "surgical cauterization",
+            "bn": "ক্ষত পোড়ানোর বৈজ্ঞানিক কটারাইজেশন"
           }
         ]
       },
       {
-        "en": "He passionately urged medical students to master human anatomy through dissection, emphasizing: 'He who does not know anatomy will make fatal blunders in surgery.'",
-        "bn": "তিনি চিকিৎসা শিক্ষার্থীদের শবব্যবচ্ছেদের মাধ্যমে মানব শারীরস্থান বা অ্যানাটমিতে দক্ষ হতে জোর দিয়ে বলতেন: 'যে শারীরস্থান জানে না, সে অপারেশনের টেবিলে মারাত্মক ভুল করবে।'",
+        "en": "Zahrawi strongly emphasized ethical bedside manners, instructing his apprentices to treat all patients with paternal affection regardless of their wealth, social station, or religious creed.",
+        "bn": "জাহরাভি চিকিৎসার ক্ষেত্রে নীতি ও মানবিকতার ওপর অত্যন্ত জোর দিতেন এবং শিষ্যদের নির্দেশ দিতেন যে ধনী-দরিদ্র কিংবা ধর্ম নির্বিশেষে সকল রোগীকে পিতার মতো স্নেহ দিয়ে সেবা করতে হবে।",
         "words": [
           {
-            "en": "passionately urged",
-            "bn": "আন্তরিকভাবে তাগিদ দিতেন"
+            "en": "ethical bedside manners",
+            "bn": "চিকিৎসকের নীতিবোধ ও মমত্ববোধ"
           },
           {
-            "en": "human anatomy",
-            "bn": "মানবদেহের শারীরস্থান (অ্যানাটমি)"
+            "en": "paternal affection",
+            "bn": "পিতার ন্যায় আন্তরিক ভালোবাসা ও স্নেহ"
           },
           {
-            "en": "through dissection",
-            "bn": "ব্যবচ্ছেদের মাধ্যমে"
+            "en": "regardless of wealth",
+            "bn": "ধন-সম্পদ বা সামাজিক মর্যাদা নির্বিশেষে"
           },
           {
-            "en": "fatal blunders",
-            "bn": "প্রাণঘাতী ভুলভ্রান্তি"
+            "en": "instructed apprentices",
+            "bn": "মেডিকেলের ছাত্রদের নির্দেশ দিলেন"
           }
         ]
       },
       {
-        "en": "His pioneering work elevated surgery from a despised trade performed by barbers into an honored and rigorous branch of medical science.",
-        "bn": "তাঁর এই বৈপ্লবিক অবদান শল্যচিকিৎসাকে নাপিতদের করা অবহেলিত পেশা থেকে উন্নীত করে চিকিৎসাবিজ্ঞানের এক সম্মানিত ও প্রামাণ্য শাখায় রূপ দেয়।",
+        "en": "Translated into Latin in the twelfth century, al-Tasrif became the cornerstone surgical manual across European medical faculties in Salerno and Montpellier for over five centuries.",
+        "bn": "দ্বাদশ শতাব্দীতে ল্যাটিন ভাষায় অনূদিত হওয়ার পর তাঁর কিতাবুত তাসরিফ টানা পাঁচ শতাব্দী ধরে স্যালার্নো এবং মন্টপেলিয়ারের মতো শীর্ষ ইউরোপীয় মেডিকেল অনুষদে অস্ত্রোপচারের প্রধান নির্দেশিকা ছিল।",
         "words": [
           {
-            "en": "pioneering work",
-            "bn": "যুগান্তকারী কাজ"
+            "en": "twelfth century translation",
+            "bn": "দ্বাদশ শতাব্দীর ল্যাটিন অনুবাদ"
           },
           {
-            "en": "elevated surgery",
-            "bn": "সার্জারিকে মর্যাদায় উন্নীত করলেন"
+            "en": "cornerstone surgical manual",
+            "bn": "সার্জারির প্রধান দিকনির্দেশক মূলবই"
           },
           {
-            "en": "honored and rigorous branch",
-            "bn": "মর্যাদাপূর্ণ ও সূক্ষ্ম জ্ঞানশাখা"
+            "en": "European medical faculties",
+            "bn": "ইউরোপের শীর্ষ মেডিকেল অনুষদসমূহ"
+          },
+          {
+            "en": "over five centuries",
+            "bn": "পাঁচ শতাব্দীরও বেশি সময়"
           }
         ]
       }
@@ -1151,187 +1310,186 @@
   },
   {
     "id": "history-al-biruni-earth",
-    "title": "Abu Rayhan al-Biruni: Measuring Earth's Circumference",
-    "titleBn": "আল-বিরুনী: এক পাহাড়চূড়া থেকে পৃথিবীর ব্যাস পরিমাপের মোজেজা",
-    "author": "Kitab Tahdid Nihayat al-Amakin & Tarikh al-Hind",
-    "level": "Advanced",
-    "levelColor": "blue",
+    "title": "Abu Rayhan al-Biruni: Master of Geodesy and Measuring the Earth",
+    "title_bn": "আবু রায়হান আল-বিরুনি: ভূগণিত এবং পৃথিবীর পরিধি নির্ণয়কারী মহাবিজ্ঞানী",
+    "summary": "The brilliant polymath of Khwarizm and Ghazna who calculated the Earth's radius from a mountain in Nandana with astonishing precision, centuries before modern satellites.",
+    "summary_bn": "খাওয়াওরেজম ও গজনি সাম্রাজ্যের ক্ষুরধার বহুবিদ্যাবিশারদ যিনি নন্দনার পাহাড়ে বসে আধুনিক উপগ্রহের শত শত বছর আগেই পৃথিবীর ব্যাসার্ধ ও পরিধি প্রায় নির্ভুলভাবে নির্ণয় করেন।",
     "category": "Islamic Golden Age",
-    "coverEmoji": "🌍",
-    "summary": "Centuries before modern satellites, genius scholar Abu Rayhan al-Biruni invented a brilliant trigonometric formula standing atop a solitary hill in Punjab to calculate the circumference of the Earth within 99.8% of modern satellite measurements.",
-    "summaryBn": "আধুনিক স্যাটেলাইটের শত শত বছর আগে মুসলিম বিজ্ঞানী আবু রায়হান আল-বিরুনী পাঞ্জাবের নন্দনা পাহাড়ের চূড়ায় দাঁড়িয়ে ত্রিকোণমিতিক সূত্রের সাহায্যে পৃথিবীর পরিধি পরিমাপ করেন, যা বর্তমান আধুনিক উপগ্রহ পরিমাপের সাথে ৯৯.৮% নির্ভুলভাবে মিলে যায়।",
+    "level": "Intermediate",
     "sentences": [
       {
-        "en": "Abu Rayhan al-Biruni, born in Khwarizm in 973 CE, was one of the most encyclopedic minds in the history of human thought.",
-        "bn": "৯৭৩ খ্রিষ্টাব্দে খোয়ারিজমে জন্মগ্রহণকারী আবু রায়হান আল-বিরুনী ছিলেন মানব চিন্তার ইতিহাসে সবচেয়ে বহুমুখী ও বিশ্বকোষীয় পণ্ডিতদের একজন।",
+        "en": "Born in 973 CE in Kath, Khwarizm, Abu Rayhan Muhammad ibn Ahmad al-Biruni was one of the greatest universal scholars in human history, mastering physics, mathematics, geodesy, and comparative religion.",
+        "bn": "৯৭৩ খ্রিস্টাব্দে খাওয়ারেজমের কাথ শহরে জন্মগ্রহণকারী আবু রায়হান মুহাম্মদ ইবনে আহমদ আল-বিরুনি ছিলেন পদার্থবিজ্ঞান, গণিত, ভূগণিত ও তুলনামূলক ধর্মতত্ত্বের অনন্য প্রজ্ঞাবান এক বিশ্ববরেণ্য বিজ্ঞানী।",
         "words": [
-          {
-            "en": "encyclopedic minds",
-            "bn": "বিশ্বকোষীয় জ্ঞানের অধিকারী"
-          },
-          {
-            "en": "history of human thought",
-            "bn": "মানবচিন্তার ইতিহাস"
-          },
           {
             "en": "born in Khwarizm",
-            "bn": "খোয়ারিজমে জন্ম"
+            "bn": "খাওয়ারেজমে জন্মগ্রহণ করেছিলেন"
+          },
+          {
+            "en": "universal scholar",
+            "bn": "বিশ্বমানের সর্ববিদ্যাবিশারদ পণ্ডিত"
+          },
+          {
+            "en": "physics and geodesy",
+            "bn": "পদার্থবিজ্ঞান এবং ভূগণিত বিদ্যা"
+          },
+          {
+            "en": "comparative religion",
+            "bn": "তুলনামূলক ধর্মতত্ত্ব"
           }
         ]
       },
       {
-        "en": "Fluent in Arabic, Persian, Sanskrit, Greek, and Syriac, he authored monumental treatises spanning astronomy, physics, anthropology, and geology.",
-        "bn": "আরবি, ফারসি, সংস্কৃত, গ্রিক এবং সিরিয়াক ভাষায় পারদর্শী হয়ে তিনি জ্যোতির্বিজ্ঞান, পদার্থবিদ্যা, নৃতত্ত্ব এবং ভূতত্ত্বের ওপর প্রামাণ্য গ্রন্থ রচনা করেন।",
+        "en": "Fluent in Arabic, Persian, Hebrew, Syriac, and Sanskrit, he traveled extensively with Sultan Mahmud of Ghazni to northern India, immersing himself directly in Hindu customs and philosophy.",
+        "bn": "আরবি, ফারসি, হিব্রু, সিরিয়াক এবং সংস্কৃত ভাষায় দক্ষ এই বিজ্ঞানী সুলতান মাহমুদ গজনভির সাথে উত্তর ভারতে দীর্ঘ সফর করেন এবং ভারতীয় সমাজ ও দর্শনের গভীর অনুসন্ধান চালান।",
         "words": [
           {
-            "en": "Fluent in languages",
-            "bn": "একাধিক ভাষায় দক্ষ"
+            "en": "fluent in five languages",
+            "bn": "পাঁচটি ভাষায় সাবলীল পাণ্ডিত্য"
           },
           {
-            "en": "monumental treatises",
-            "bn": "অমর গ্রন্থাবলি"
+            "en": "Sultan Mahmud of Ghazni",
+            "bn": "সুলতান মাহমুদ গজনভি"
           },
           {
-            "en": "astronomy and physics",
-            "bn": "জ্যোতির্বিজ্ঞান ও পদার্থবিদ্যা"
+            "en": "traveled to northern India",
+            "bn": "উত্তর ভারতে সফর করলেন"
           },
           {
-            "en": "geology",
-            "bn": "ভূতত্ত্ব"
+            "en": "customs and philosophy",
+            "bn": "সমাজ রীতিনীতি এবং দর্শন"
           }
         ]
       },
       {
-        "en": "Earlier ancient Greek scholars attempted to measure the Earth's circumference by measuring the shadows cast between two distant cities, a method prone to huge travel errors.",
-        "bn": "পূর্বের প্রাচীন গ্রিক পণ্ডিতরা দুটি দূরবর্তী শহরের ছায়ার দৈর্ঘ্য মেপে পৃথিবীর পরিধি মাপার চেষ্টা করেছিলেন, যে পদ্ধতিতে দীর্ঘ ভ্রমণের কারণে বড় ধরনের ভুল হতো।",
+        "en": "He authored 'Kitab Tahqiq ma li-l-Hind', an objective cultural and sociological masterpiece that earned him international acclaim as the world's very first Indologist and anthropologist.",
+        "bn": "তিনি রচনা করেন 'কিতাবু তাহকিক মা লিল হিন্দ', যা ভারতীয় সংস্কৃতির ওপর এক অনন্য বস্তুনিষ্ঠ সমাজবিজ্ঞান গ্রন্থ এবং যার জন্য তিনি বিশ্বের সর্বপ্রথম ভারততত্ত্ববিদ ও নৃবিজ্ঞানী হিসেবে স্বীকৃতি পান।",
         "words": [
           {
-            "en": "measure Earth's circumference",
-            "bn": "পৃথিবীর পরিধি পরিমাপ করা"
+            "en": "Tahqiq ma li-l-Hind",
+            "bn": "তাহকিক মা লিল হিন্দ গ্রন্থ"
           },
           {
-            "en": "shadows cast between cities",
-            "bn": "শহরগুলোর মাঝে ছায়ার পরিমাপ"
+            "en": "objective sociological masterpiece",
+            "bn": "বস্তুনিষ্ঠ সমাজতাত্ত্বিক মাস্টারপিস"
           },
           {
-            "en": "prone to travel errors",
-            "bn": "ভ্রমণজনিত ভুলের ঝুঁকিপূর্ণ"
+            "en": "first Indologist",
+            "bn": "বিশ্বের প্রথম ভারততত্ত্ববিদ"
+          },
+          {
+            "en": "father of anthropology",
+            "bn": "তুলনামূলক নৃবিজ্ঞানের জনক"
           }
         ]
       },
       {
-        "en": "Al-Biruni devised an unprecedented and elegant method requiring only a single mountain overlooking a flat horizon.",
-        "bn": "আল-বিরুনী একটি সম্পূর্ণ নতুন ও অভিনব পদ্ধতি উদ্ভাবন করলেন যার জন্য কেবল একটি পাহাড়ের চূড়া এবং একটি সমতল দিগন্তের প্রয়োজন ছিল।",
+        "en": "While stationed at the hill fortress of Nandana in the Punjab region, al-Biruni developed an ingenious trigonometric method to measure the circumference and radius of the Earth.",
+        "bn": "পাঞ্জাবের নন্দনা পাহাড়ের দুর্গে অবস্থানকালে আল-বিরুনি ত্রিকোণমিতির এক অভিনব গাণিতিক সূত্র ব্যবহার করে পৃথিবীর ব্যাসার্ধ ও সামগ্রিক পরিধি পরিমাপের যুগান্তকারী পদ্ধতি উদ্ভাবন করেন।",
         "words": [
           {
-            "en": "unprecedented and elegant method",
-            "bn": "নজিরবিহীন ও চমকপ্রদ পদ্ধতি"
+            "en": "fortress of Nandana",
+            "bn": "পাঞ্জাবের ঐতিহাসিক নন্দনা দুর্গ"
           },
           {
-            "en": "single mountain",
-            "bn": "একটিমাত্র পাহাড়"
+            "en": "ingenious method",
+            "bn": "অসাধারণ উদ্ভাবনী গাণিতিক পদ্ধতি"
           },
           {
-            "en": "flat horizon",
-            "bn": "সমতল দিগন্তরেখা"
+            "en": "trigonometric calculation",
+            "bn": "ত্রিকোণমিতিক হিসাব-নিকাশ"
+          },
+          {
+            "en": "circumference of Earth",
+            "bn": "পৃথিবীর পরিধি ও গোলকীয় আকার"
           }
         ]
       },
       {
-        "en": "Standing atop the Fort of Nandana in the Punjab region, he measured the height of the hill using an astrolabe and trigonometric sightings.",
-        "bn": "পাঞ্জাবের নন্দনা দুর্গের পাহাড়চূড়ায় দাঁড়িয়ে তিনি অ্যাস্ট্রোল্যাব যন্ত্র এবং ত্রিকোণমিতিক দৃষ্টিপাতের মাধ্যমে প্রথমে পাহাড়ের উচ্চতা নির্ণয় করলেন।",
+        "en": "Instead of relying on arduous flat desert surveys, he measured the angle between the horizon and mountain peak using an astrolabe, applying spherical trigonometry to deduce the planet's curvature.",
+        "bn": "মরুভূমির সমতল ভূমিতে দীর্ঘ ও কষ্টসাধ্য পরিমাপের বদলে তিনি একটি অ্যাস্ট্রোলেব যন্ত্র দিয়ে পাহাড়চূড়া ও দিগন্তের কোণ মেপে গোলকীয় ত্রিকোণমিতির সাহায্যে পৃথিবীর বক্রতা নির্ণয় করেন।",
         "words": [
           {
-            "en": "Fort of Nandana",
-            "bn": "নন্দনা দুর্গ"
+            "en": "measured with astrolabe",
+            "bn": "অ্যাস্ট্রোলেব যন্ত্র দিয়ে কোণ পরিমাপ"
           },
-          {
-            "en": "measured height of the hill",
-            "bn": "পাহাড়ের উচ্চতা পরিমাপ করলেন"
-          },
-          {
-            "en": "using an astrolabe",
-            "bn": "অ্যাস্ট্রোল্যাব ব্যবহার করে"
-          },
-          {
-            "en": "trigonometric sightings",
-            "bn": "ত্রিকোণমিতিক পর্যবেক্ষণ"
-          }
-        ]
-      },
-      {
-        "en": "Next, he measured the angle of the dip of the horizon where the sky seemed to touch the distant plain.",
-        "bn": "এরপর তিনি দিগন্তের অবনতি কোণ (angle of dip) পরিমাপ করলেন, যেখানে আকাশ বহুদূরের সমতল মাটিকে স্পর্শ করেছে বলে মনে হয়।",
-        "words": [
-          {
-            "en": "angle of the dip",
-            "bn": "দিগন্তের অবনতি কোণ"
-          },
-          {
-            "en": "horizon",
-            "bn": "দিগন্তরেখা"
-          },
-          {
-            "en": "distant plain",
-            "bn": "বহুদূরের সমভূমি"
-          }
-        ]
-      },
-      {
-        "en": "Applying advanced spherical trigonometry and algebraic formulas, he calculated the radius of the Earth to be 6,339.6 kilometers.",
-        "bn": "উন্নত গোলকীয় ত্রিকোণমিতি এবং বীজগণিতীয় সূত্র প্রয়োগ করে তিনি পৃথিবীর ব্যাসার্ধ গণনা করলেন ৬,৩৩৯.৬ কিলোমিটার।",
-        "words": [
           {
             "en": "spherical trigonometry",
             "bn": "গোলকীয় ত্রিকোণমিতি"
           },
           {
-            "en": "calculated the radius",
-            "bn": "ব্যাসার্ধ গণনা করলেন"
+            "en": "deduced curvature",
+            "bn": "পৃথিবীর বক্রতা ও পরিধি হিসাব করলেন"
           },
           {
-            "en": "kilometers",
-            "bn": "কিলোমিটার"
+            "en": "horizon and mountain peak",
+            "bn": "দিগন্ত এবং পাহাড়ের শীর্ষবিন্দু"
           }
         ]
       },
       {
-        "en": "Modern space satellites and GPS technology measure the Earth's radius at 6,356.7 kilometers, showing Al-Biruni's ninth-century calculation was accurate to within two-tenths of one percent!",
-        "bn": "আধুনিক মহাকাশ উপগ্রহ ও জিপিএস প্রযুক্তি পৃথিবীর ব্যাসার্ধ পরিমাপ করেছে ৬,৩৫৬.৭ কিলোমিটার; অর্থাৎ হাজার বছর আগে আল-বিরুনীর পরিমাপ ৯৯.৮% নিখুঁত ছিল!",
+        "en": "His calculation concluded that the Earth's radius was 6,339.6 kilometers—a figure within just 0.25 percent of the modern satellite-measured value of 6,356.7 kilometers.",
+        "bn": "তাঁর গণনায় পৃথিবীর ব্যাসার্ধ এসেছিল ৬,৩৩৯.৬ কিলোমিটার—যা আধুনিক কৃত্রিম উপগ্রহ দ্বারা পরিমাপকৃত ৬,৩৫৬.৭ কিলোমিটারের মানের তুলনায় মাত্র ০.২৫ শতাংশের ব্যবধান!",
         "words": [
           {
-            "en": "space satellites and GPS",
-            "bn": "মহাকাশ স্যাটেলাইট ও জিপিএস"
+            "en": "calculated radius",
+            "bn": "হিসাবকৃত ব্যাসার্ধ ৬,৩৩৯.৬ কিমি"
           },
           {
-            "en": "modern measurement",
-            "bn": "আধুনিক পরিমাপ"
+            "en": "modern satellite value",
+            "bn": "আধুনিক স্যাটেলাইটের মান"
           },
           {
-            "en": "accurate within two-tenths",
-            "bn": "শতকরা ০.২ ভাগের ব্যবধানে নির্ভুল"
+            "en": "within 0.25 percent",
+            "bn": "মাত্র ০.২৫% নিখুঁত নির্ভুলতা"
+          },
+          {
+            "en": "astonishing precision",
+            "bn": "বিস্ময়কর ও অবিশ্বাস্য নির্ভুলতা"
           }
         ]
       },
       {
-        "en": "Al-Biruni saw his scientific pursuit as direct obedience to the Quranic call to contemplate the heavens and the earth, writing: 'Knowledge is the absolute pursuit of truth.'",
-        "bn": "আল-বিরুনী তাঁর বৈজ্ঞানিক গবেষণাকে আকাশ ও পৃথিবী নিয়ে চিন্তা করার কোরআনি নির্দেশনার সরাসরি আমল হিসেবে দেখতেন; তিনি বলতেন: 'জ্ঞানের লক্ষ্যই হলো সত্যের অন্বেষণ।'",
+        "en": "Al-Biruni authored over one hundred and forty treatises, correctly theorized that the Indian subcontinent was once submerged under an ancient ocean, and determined the specific gravities of various precious metals.",
+        "bn": "তিনি একশত চল্লিশটিরও বেশি গ্রন্থ রচনা করেন, ভারতীয় উপমহাদেশ যে পূর্বে প্রাচীন সমুদ্রের তলদেশে নিমজ্জিত ছিল তা সঠিকভাবে অনুমান করেন এবং বহু মূল্যবান ধাতুর আপেক্ষিক গুরুত্ব নির্ণয় করেন।",
         "words": [
           {
-            "en": "scientific pursuit",
-            "bn": "বৈজ্ঞানিক সাধনা"
+            "en": "one hundred forty treatises",
+            "bn": "একশত চল্লিশটির বেশি গবেষণাপত্র"
           },
           {
-            "en": "Quranic call to contemplate",
-            "bn": "কোরআনের চিন্তাভাবনার আহ্বান"
+            "en": "submerged under ocean",
+            "bn": "প্রাচীন সমুদ্রের নিচে নিমজ্জিত ছিল"
           },
           {
-            "en": "heavens and earth",
-            "bn": "আকাশমণ্ডলী ও পৃথিবী"
+            "en": "geological theory",
+            "bn": "ভূতাত্ত্বিক গবেষণা ও অনুমান"
           },
           {
-            "en": "absolute pursuit of truth",
-            "bn": "সত্যের পরম অন্বেষণ"
+            "en": "specific gravities of metals",
+            "bn": "বিভিন্ন ধাতুর আপেক্ষিক গুরুত্ব"
+          }
+        ]
+      },
+      {
+        "en": "He dedicated his life to objective scientific verification, asserting that genuine scientific inquiry requires clearing the mind of partisan prejudice, national vanity, and unverified tradition.",
+        "bn": "তিনি বস্তুনিষ্ঠ বৈজ্ঞানিক প্রমাণের জন্য জীবন উৎসর্গ করেন এবং ঘোষণা করেন যে প্রকৃত গবেষণার জন্য অন্ধ পক্ষপাত, জাতীয়তাবাদী অহংকার এবং অপ্রমাণিত লোকগাথা থেকে মনকে সম্পূর্ণ মুক্ত রাখতে হবে।",
+        "words": [
+          {
+            "en": "scientific verification",
+            "bn": "বস্তুনিষ্ঠ বৈজ্ঞানিক যাচাই-বাছাই"
+          },
+          {
+            "en": "partisan prejudice",
+            "bn": "অন্ধ পক্ষপাত ও গোঁড়ামি"
+          },
+          {
+            "en": "national vanity",
+            "bn": "জাতীয়তাবাদী অহংকার"
+          },
+          {
+            "en": "genuine inquiry",
+            "bn": "সত্য ও প্রকৃত জ্ঞানের অনুসন্ধান"
           }
         ]
       }
@@ -1339,187 +1497,186 @@
   },
   {
     "id": "history-al-jazari-clocks",
-    "title": "Ismail al-Jazari: Master of Mechanical Engineering and Automata",
-    "titleBn": "আল-জাজারি: রোবটিক্স ও মেকানিক্যাল ইঞ্জিনিয়ারিংয়ের মহান পিতা",
-    "author": "Al-Jami' bayn al-'Ilm wal-'Amal al-Nafi' fi Sina'at al-Hiyal",
-    "level": "Intermediate",
-    "levelColor": "teal",
+    "title": "Ismail al-Jazari: The Father of Robotics and Mechanical Engineering",
+    "title_bn": "ইসমাইল আল-জাজারি: রোবোটিক্স এবং মেকানিক্যাল ইঞ্জিনিয়ারিংয়ের জনক",
+    "summary": "The chief engineer of the Artuqid palace who invented the crankshaft, programmable musical automata, reciprocating pumps, and the magnificent elephant water clock.",
+    "summary_bn": "আর্তুকিদ প্রাসাদের প্রধান প্রকৌশলী যিনি ক্র্যাঙ্কশ্যাফ্ট, প্রোগ্রামযোগ্য রোবট, স্বয়ংক্রিয় পানির পাম্প এবং জগদ্বিখ্যাত হাতি ঘড়ি আবিষ্কার করে আধুনিক যন্ত্রকৌশলের ভিত্তি গড়েন।",
     "category": "Islamic Golden Age",
-    "coverEmoji": "⚙️",
-    "summary": "Polymath engineer Badi' al-Zaman al-Jazari invented foundational mechanical mechanisms—such as the crankshaft, camshaft, and automatic hydraulic pumps—designing programmable humanoid musical automata and the awe-inspiring Elephant Clock.",
-    "summaryBn": "দ্বাদশ শতাব্দীর প্রখ্যাত প্রকৌশলী বদিউজ্জামাল আল-জাজারি আধুনিক ইঞ্জিনিয়ারিংয়ের মূল ভিত্তি ক্র্যাঙ্কশ্যাফ্ট, ক্যামশ্যাফ্ট ও স্বয়ংক্রিয় হাইড্রোলিক পাম্প আবিষ্কার করেন; তিনি সঙ্গীত পরিবেশনকারী প্রোগ্রামেবল রোবট এবং বিশ্ববিখ্যাত 'হাতি ঘড়ি' নির্মাণ করে রোবটিক্সের জনক হিসেবে স্বীকৃতি পান।",
+    "level": "Intermediate",
     "sentences": [
       {
-        "en": "Badi' al-Zaman Abu al-Izz Ismail ibn al-Razzaz al-Jazari was a twelfth-century polymath and master chief engineer serving the Artuqid court in Diyarbakir.",
-        "bn": "বদিউজ্জামান আবুল ইয ইসমাইল ইবনে আল-রাযযায আল-জাজারি ছিলেন দ্বাদশ শতাব্দীর এক মহান বহুবিদ্যাবিশারদ এবং দিয়্যারবাকিরের প্রধান চিফ মেকানিক্যাল ইঞ্জিনিয়ার।",
+        "en": "Born in 1136 CE in Jazira along the upper Tigris River, Badi' al-Zaman Abu al-Izz Ismail al-Jazari served as chief mechanical engineer at the Artuqid royal palace in Diyarbakir for twenty-five years.",
+        "bn": "১১৩৬ খ্রিস্টাব্দে দজলা নদীর তীরবর্তী জাজিরা অঞ্চলে জন্মগ্রহণকারী বাদিউজ্জামান আবুল ইয ইসমাইল আল-জাজারি দিয়ারের আর্তুকিদ রাজপ্রাসাদে পঁচিশ বছর ধরে প্রধান যন্ত্রপ্রকৌশলী হিসেবে দায়িত্ব পালন করেন।",
         "words": [
           {
-            "en": "twelfth-century polymath",
-            "bn": "দ্বাদশ শতাব্দীর বহুবিদ্যাবিশারদ"
+            "en": "born in Jazira",
+            "bn": "জাজিরা অঞ্চলে জন্মগ্রহণকারী"
           },
           {
-            "en": "master chief engineer",
-            "bn": "প্রধান মেকানিক্যাল ইঞ্জিনিয়ার"
+            "en": "chief mechanical engineer",
+            "bn": "প্রধান যন্ত্র প্রকৌশলী"
           },
           {
-            "en": "serving royal court",
-            "bn": "দরবারে দায়িত্ব পালনরত"
+            "en": "Artuqid royal palace",
+            "bn": "আর্তুকিদ রাজকীয় প্রাসাদ"
+          },
+          {
+            "en": "twenty-five years of service",
+            "bn": "পঁচিশ বছরের দীর্ঘ সেবা"
           }
         ]
       },
       {
-        "en": "In 1206, he authored his masterpiece The Book of Knowledge of Ingenious Mechanical Devices, documenting fifty remarkable self-operating machines with full color illustrations.",
-        "bn": "১২০৬ সালে তিনি তাঁর মাস্টারপিস গ্রন্থ 'দ্য বুক অব নলেজ অব ইনজিনিয়াস মেকানিক্যাল ডিভাইসেস' রচনা করেন, যেখানে পঞ্চাশটি স্বয়ংক্রিয় যন্ত্রের পূর্ণাঙ্গ রঙিন নকশা লিপিবদ্ধ করেন।",
+        "en": "In 1206 CE, he compiled his masterpiece, 'The Book of Knowledge of Ingenious Mechanical Devices', profusely illustrated with vibrant color diagrams explaining the mechanics of fifty complex automated machines.",
+        "bn": "১২০৬ খ্রিস্টাব্দে তিনি রচনা করেন তাঁর অমর গ্রন্থ 'জ্ঞান ও প্রকৌশলের অভিনব যন্ত্রাবলি', যেখানে পঞ্চাশটি জটিল স্বয়ংক্রিয় যন্ত্রের কার্যপদ্ধতি রঙিন চিত্রসহ নিখুঁতভাবে ব্যাখ্যা করা হয়েছে।",
         "words": [
           {
-            "en": "authored masterpiece",
-            "bn": "মাস্টারপিস রচনা করলেন"
+            "en": "ingenious mechanical devices",
+            "bn": "অভিনব যান্ত্রিক ও স্বয়ংক্রিয় কলকব্জা"
           },
           {
-            "en": "Ingenious Mechanical Devices",
-            "bn": "চমকপ্রদ যান্ত্রিক উদ্ভাবন"
+            "en": "vibrant color diagrams",
+            "bn": "উজ্জ্বল রঙিন যান্ত্রিক নকশা ও চিত্র"
           },
           {
-            "en": "color illustrations",
-            "bn": "রঙিন নকশা ও চিত্র"
+            "en": "fifty automated machines",
+            "bn": "পঞ্চাশটি জটিল স্বয়ংক্রিয় মেশিন"
+          },
+          {
+            "en": "compiled masterpiece",
+            "bn": "কালজয়ী মাস্টারপিস সংকলন করলেন"
           }
         ]
       },
       {
-        "en": "Al-Jazari invented the crankshaft, a revolutionary mechanism that transforms rotary motion into linear reciprocating motion, which forms the core of every modern automobile engine.",
-        "bn": "আল-জাজারি 'ক্র্যাঙ্কশ্যাফ্ট' আবিষ্কার করেন, যা ঘূর্ণন গতিকে সরলরেখায় রূপান্তর করে; এটিই আজকের পৃথিবীর প্রতিটি গাড়ির ইঞ্জিনের হৃৎপিণ্ড।",
+        "en": "His most revolutionary mechanical invention was the crankshaft and connecting rod mechanism, which converts continuous rotary motion into reciprocating linear motion—the core operating principle of all modern automobile engines.",
+        "bn": "তাঁর সবচেয়ে বৈপ্লবিক যান্ত্রিক আবিষ্কার ছিল ক্র্যাঙ্কশ্যাফ্ট এবং কানেক্টিং রড প্রক্রিয়া, যা ঘূর্ণন গতিকে সরাসরি রৈখিক গতিতে রূপান্তর করে—যা আজকের সমস্ত আধুনিক গাড়ির ইঞ্জিনের মূল কার্যনীতি।",
         "words": [
           {
-            "en": "invented the crankshaft",
-            "bn": "ক্র্যাঙ্কশ্যাফ্ট আবিষ্কার করলেন"
+            "en": "crankshaft and connecting rod",
+            "bn": "ক্র্যাঙ্কশ্যাফ্ট এবং কানেক্টিং রড প্রক্রিয়া"
           },
           {
-            "en": "rotary motion into linear",
-            "bn": "ঘূর্ণন গতিকে সরলরেখায়"
+            "en": "rotary to linear motion",
+            "bn": "ঘূর্ণন গতি থেকে সরলরৈখিক গতি"
           },
           {
-            "en": "modern automobile engine",
-            "bn": "আধুনিক গাড়ির ইঞ্জিন"
+            "en": "automobile engines",
+            "bn": "আধুনিক সমস্ত গাড়ির ইঞ্জিন"
+          },
+          {
+            "en": "revolutionary invention",
+            "bn": "যুগান্তকারী মেকানিক্যাল আবিষ্কার"
           }
         ]
       },
       {
-        "en": "He constructed the legendary Elephant Clock, an ornate multi-cultural masterpiece powered by internal water float reservoirs and tipping balances.",
-        "bn": "তিনি নির্মাণ করেন ঐতিহাসিক 'হাতি ঘড়ি', যা ছিল ভেতরের জলঘূর্ণি ও ভারসাম্যের ওজনে চালিত একাধিক সংস্কৃতির সমন্বয়ে গড়া এক বিস্ময়কর শিল্পকর্ম।",
+        "en": "Al-Jazari designed sophisticated water-raising machines utilizing double-acting pistons, valves, and camshafts to pump irrigation water uphill without human labor.",
+        "bn": "আল-জাজারি ডাবল-অ্যাক্টিং পিস্টন, ভালভ এবং ক্যামশ্যাফ্ট ব্যবহার করে এমন উন্নত পানির পাম্প তৈরি করেছিলেন যা মানুষের কায়িক শ্রম ছাড়াই নদী থেকে উঁচু জমিতে সেচের পানি তুলতে পারত।",
+        "words": [
+          {
+            "en": "double-acting pistons",
+            "bn": "দ্বিমুখী কার্যকর পিস্টন প্রক্রিয়া"
+          },
+          {
+            "en": "valves and camshafts",
+            "bn": "ভালভ এবং ক্যামশ্যাফ্ট প্রক্রিয়া"
+          },
+          {
+            "en": "water-raising machines",
+            "bn": "উঁচুতে পানি তোলার স্বয়ংক্রিয় পাম্প"
+          },
+          {
+            "en": "irrigation without labor",
+            "bn": "কায়িক শ্রমহীন আধুনিক সেচ ব্যবস্থা"
+          }
+        ]
+      },
+      {
+        "en": "He built the legendary 'Elephant Clock', an intricate multi-cultural mechanical water timepiece featuring an Indian elephant, an Egyptian phoenix, Greek hydraulic floats, and animated Arab figurines striking the hours.",
+        "bn": "তিনি নির্মাণ করেন তাঁর কিংবদন্তিতুল্য 'হাতি ঘড়ি', যা ছিল ভারতীয় হাতি, মিশরীয় ফিনিক্স পাখি, গ্রিক হাইড্রোলিক ফ্লোট এবং ঘণ্টাবাদক আরব পুতুলের এক অপূর্ব স্বয়ংক্রিয় যান্ত্রিক জলঘড়ি।",
         "words": [
           {
             "en": "legendary Elephant Clock",
-            "bn": "ঐতিহাসিক হাতি ঘড়ি"
+            "bn": "বিশ্বখ্যাত ঐতিহাসিক হাতি ঘড়ি"
           },
           {
-            "en": "water float reservoirs",
-            "bn": "পানির ভাসমান জলাধার"
+            "en": "mechanical water timepiece",
+            "bn": "স্বয়ংক্রিয় যান্ত্রিক জলঘড়ি"
           },
           {
-            "en": "tipping balances",
-            "bn": "ভারসাম্য পরিমাপক যন্ত্র"
+            "en": "multi-cultural design",
+            "bn": "বিভিন্ন সভ্যতার সংস্কৃতির মেলবন্ধন"
+          },
+          {
+            "en": "animated figurines",
+            "bn": "স্বয়ংক্রিয় পুতুল বা মেকানিক্যাল রোবট"
           }
         ]
       },
       {
-        "en": "Every half hour, a hidden mechanism caused a mechanical dragon to pivot, bronze falcons to drop metal balls, and an automated mahout to strike a drum.",
-        "bn": "প্রতি আধা ঘণ্টা পর পর ভেতরের স্বয়ংক্রিয় কৌশলে একটি ড্রাগন ঘুরে দাঁড়াত, ব্রোঞ্জের বাজপাখির মুখ থেকে ধাতব বল পড়ত এবং একটি রোবট মাহুত ড্রামে আঘাত করত।",
+        "en": "Anticipating modern robotics by eight centuries, he created programmable humanoid automata, including an automated musical boat with mechanical drummers that played rhythms driven by hydraulic cams.",
+        "bn": "আধুনিক রোবোটিক্সের আটশত বছর পূর্বে তিনি প্রোগ্রামযোগ্য মানব রোবট তৈরি করেন, যার মধ্যে ছিল একটি স্বয়ংক্রিয় সংগীত বোট যেখানে চারজন যান্ত্রিক ঢাকি পানির শক্তিতে নির্দিষ্ট তালে ড্রাম বাজাত।",
         "words": [
           {
-            "en": "hidden mechanism",
-            "bn": "লুক্কায়িত যান্ত্রিক কৌশল"
+            "en": "programmable automata",
+            "bn": "প্রোগ্রামযোগ্য স্বয়ংক্রিয় রোবট"
           },
           {
-            "en": "mechanical dragon",
-            "bn": "যান্ত্রিক ড্রাগন"
+            "en": "eight centuries earlier",
+            "bn": "আধুনিক রোবটের আটশত বছর আগে"
           },
           {
-            "en": "automated mahout",
-            "bn": "স্বয়ংক্রিয় মাহুত (রোবট)"
+            "en": "automated musical boat",
+            "bn": "স্বয়ংক্রিয় গানের বোট ও যান্ত্রিক বাদকদল"
           },
           {
-            "en": "strike a drum",
-            "bn": "ড্রামে আঘাত করা"
+            "en": "hydraulic cams",
+            "bn": "পানির শক্তির ক্যাম দ্বারা নিয়ন্ত্রিত"
           }
         ]
       },
       {
-        "en": "Al-Jazari is also celebrated as the grandfather of modern robotics for inventing the world's first programmable humanoid automata.",
-        "bn": "বিশ্বের প্রথম প্রোগ্রামযোগ্য মানবাকৃতির রোবট বা অটোমাটা আবিষ্কারের জন্য আল-জাজারিকে আধুনিক রোবটিক্সের পিতামহ হিসেবে গণ্য করা হয়।",
+        "en": "His book included precise instructions for automated hand-washing basins equipped with a humanoid servant that poured fresh water and presented a clean towel to guests automatically.",
+        "bn": "তাঁর বইয়ে হাত ধোয়ার এক স্বয়ংক্রিয় বেসিনের নকশা ছিল, যেখানে একটি রোবট পরিচারক অতিথির সামনে নিজে থেকেই পানি ঢেলে দিত এবং হাত মোছার তোয়ালে এগিয়ে দিত।",
         "words": [
           {
-            "en": "grandfather of robotics",
-            "bn": "রোবটিক্সের পিতামহ"
+            "en": "automated hand-washing basin",
+            "bn": "স্বয়ংক্রিয় হাত ধোয়ার বেসিন"
           },
           {
-            "en": "programmable humanoid automata",
-            "bn": "প্রোগ্রামযোগ্য মানবাকৃতি রোবট"
+            "en": "humanoid servant",
+            "bn": "রোবট বা মানব আকৃতির যান্ত্রিক পরিচারক"
           },
           {
-            "en": "inventing",
-            "bn": "উদ্ভাবন করার জন্য"
+            "en": "poured fresh water",
+            "bn": "স্বয়ংক্রিয়ভাবে পানি ঢেলে দেওয়া"
+          },
+          {
+            "en": "presented clean towel",
+            "bn": "পরিচ্ছন্ন তোয়ালে এগিয়ে দেওয়া"
           }
         ]
       },
       {
-        "en": "He designed a floating musical boat carrying four mechanical musicians that played flutes and struck cymbals through peg-drum programming.",
-        "bn": "তিনি পানিতে ভাসমান একটি সঙ্গীত নৌকা তৈরি করেছিলেন যার চারজন যান্ত্রিক বাদক ড্রামের পিন পরিবর্তনের মাধ্যমে বাঁশি বাজাত এবং কাঁসা পেটাতে পারত।",
+        "en": "Al-Jazari's ingenious mechanical blueprints laid the technological foundations that inspired the European industrial revolution and earn him universal acclaim as the father of modern robotics.",
+        "bn": "আল-জাজারির এই অবিস্মরণীয় যান্ত্রিক নকশা পরবর্তীকালে ইউরোপের শিল্প বিপ্লবকে ব্যাপকভাবে অনুপ্রাণিত করে এবং তাঁকে আধুনিক রোবোটিক্সের জনক হিসেবে বিশ্বব্যাপী প্রতিষ্ঠিত করে।",
         "words": [
           {
-            "en": "floating musical boat",
-            "bn": "ভাসমান সঙ্গীত নৌকা"
+            "en": "ingenious blueprints",
+            "bn": "অনন্য ও নির্ভুল যান্ত্রিক ব্লুপ্রিন্ট"
           },
           {
-            "en": "mechanical musicians",
-            "bn": "যান্ত্রিক বাদকদল"
+            "en": "European industrial revolution",
+            "bn": "ইউরোপীয় শিল্প বিপ্লবের ভিত্তি"
           },
           {
-            "en": "played flutes and cymbals",
-            "bn": "বাঁশি ও কাঁসা বাজাত"
+            "en": "universal acclaim",
+            "bn": "বিশ্বব্যাপী শ্রেষ্ঠত্বের স্বীকৃতি"
           },
           {
-            "en": "peg-drum programming",
-            "bn": "পিনের সাহায্যে প্রোগ্রামিং"
-          }
-        ]
-      },
-      {
-        "en": "He engineered reciprocating suction pumps with double-acting pistons to draw drinking water from rivers to urban hospitals without manual labor.",
-        "bn": "তিনি মানুষের পরিশ্রম ছাড়াই নদী থেকে হাসপাতাল ও শহরের ঘরে ঘরে পানি পৌঁছে দেওয়ার জন্য দ্বিমুখী পিস্টনযুক্ত স্বয়ংক্রিয় সাকশন পাম্প আবিষ্কার করেন।",
-        "words": [
-          {
-            "en": "reciprocating suction pumps",
-            "bn": "স্বয়ংক্রিয় সাকশন পাম্প"
-          },
-          {
-            "en": "double-acting pistons",
-            "bn": "দ্বিমুখী পিস্টন"
-          },
-          {
-            "en": "without manual labor",
-            "bn": "মানুষের কায়িক পরিশ্রম ছাড়া"
-          }
-        ]
-      },
-      {
-        "en": "His brilliant engineering blueprints anticipated modern industrial automation by seven hundred years, reflecting the technological pinnacle of Islamic civilization.",
-        "bn": "তাঁর এই অসাধারণ প্রকৌশল নকশা আধুনিক শিল্প বিপ্লবের স্বয়ংক্রিয় ব্যবস্থাকে সাতশত বছর আগেই বাস্তবে রূপ দিয়েছিল, যা ইসলামি সভ্যতার প্রযুক্তিগত উৎকর্ষের পরিচয় বহন করে।",
-        "words": [
-          {
-            "en": "engineering blueprints",
-            "bn": "প্রকৌশল নকশা / ব্লুপ্রিন্ট"
-          },
-          {
-            "en": "industrial automation",
-            "bn": "শিল্প বিপ্লবের অটোমেশন"
-          },
-          {
-            "en": "seven hundred years",
-            "bn": "সাতশত বছর"
-          },
-          {
-            "en": "technological pinnacle",
-            "bn": "প্রযুক্তিগত শীর্ষবিন্দু"
+            "en": "father of modern robotics",
+            "bn": "আধুনিক রোবোটিক্সের জনক"
           }
         ]
       }
@@ -1527,225 +1684,186 @@
   },
   {
     "id": "history-farewell-sermon",
-    "title": "The Prophet's Farewell Sermon: Universal Charter of Humanity",
-    "titleBn": "বিদায় হজের ঐতিহাসিক ভাষণ: বিশ্ব মানবতার চিরন্তন সনদ",
-    "author": "Authentic Hadith (Sahih Muslim, Sunan Abi Dawud & Sirah Ibn Hisham)",
-    "level": "Intermediate",
-    "levelColor": "amber",
+    "title": "The Prophet Muhammad's Farewell Sermon: The Universal Charter of Humanity",
+    "title_bn": "বিদায় হজের ভাষণ: সর্বজনীন মানবাধিকারের কালজয়ী সনদ",
+    "summary": "The final historic oration delivered by the Prophet Muhammad atop Mount Arafat in 10 AH, proclaiming human equality, abolishing racism, and protecting women's rights.",
+    "summary_bn": "১০ হিজরিতে আরাফাত ময়দানে মহানবী হযরত মুহাম্মদ (সা.) কর্তৃক প্রদত্ত অন্তিম ঐতিহাসিক ভাষণ, যা বর্ণবাদ দূর করে সর্বজনীন সমতা ও মানবাধিকারের চিরন্তন ঘোষণা দিয়েছিল।",
     "category": "Islamic Golden Age",
-    "coverEmoji": "🌟",
-    "summary": "On the plains of Arafat in the tenth year of Hijrah, Prophet Muhammad ﷺ delivered his Farewell Sermon (Khutbatul Wada') to over one hundred thousand pilgrims, establishing human equality, women's rights, and the inviolability of life, honor, and property.",
-    "summaryBn": "দশম হিজরিতে আরাফাতের ময়দানে জাবালে রহমতের পাদদেশে এক লক্ষাধিক সাহাবীর সামনে রাসুলুল্লাহ ﷺ বিদায় হজের ঐতিহাসিক ভাষণ দেন; তিনি বর্ণবাদ দূর করে মানুষের সাম্য, নারীর মর্যাদা ও মানবাধিকারের এক অনন্য বৈশ্বিক সনদ ঘোষণা করেন।",
+    "level": "Intermediate",
     "sentences": [
       {
-        "en": "In the tenth year of Hijrah, Prophet Muhammad ﷺ led more than one hundred thousand devoted believers to perform his sole pilgrimage, the Farewell Hajj.",
-        "bn": "দশম হিজরিতে রাসুলুল্লাহ ﷺ এক লক্ষাধিক অনুগত সাহাবীকে সঙ্গে নিয়ে তাঁর জীবনের একমাত্র ও ঐতিহাসিক হজ 'বিদায় হজ' পালন করেন।",
+        "en": "On the ninth day of Dhu al-Hijjah in the year 10 AH (632 CE), the Prophet Muhammad gathered over one hundred and twenty-four thousand pilgrims in the Uranah valley of Mount Arafat during his Farewell Pilgrimage.",
+        "bn": "১০ হিজরির (৬৩২ খ্রিস্টাব্দ) জিলহজ মাসের ৯ তারিখে আরাফাতের উরানা প্রান্তরে বিদায় হজের মহাসম্মেলনে প্রিয় নবী হযরত মুহাম্মদ (সা.) এক লক্ষ চব্বিশ হাজারেরও বেশি সাহাবীর উদ্দেশ্যে ঐতিহাসিক ভাষণ দেন।",
         "words": [
           {
-            "en": "tenth year of Hijrah",
-            "bn": "দশম হিজরি"
+            "en": "ninth of Dhu al-Hijjah",
+            "bn": "জিলহজ মাসের ৯ তারিখ"
           },
           {
-            "en": "hundred thousand believers",
-            "bn": "এক লক্ষাধিক মুমিন"
+            "en": "Farewell Pilgrimage",
+            "bn": "বিদায় হজ বা হাজ্জাতুল বিদা"
           },
           {
-            "en": "sole pilgrimage",
-            "bn": "একমাত্র হজ"
+            "en": "Mount Arafat",
+            "bn": "আরাফাতের পবিত্র ময়দান"
           },
           {
-            "en": "Farewell Hajj",
-            "bn": "বিদায় হজ"
+            "en": "one hundred twenty-four thousand",
+            "bn": "এক লক্ষ চব্বিশ হাজার সাহাবী"
           }
         ]
       },
       {
-        "en": "On the ninth day of Dhul-Hijjah, riding his camel Al-Qaswa upon the plains of Mount Arafat, the Messenger of Allah ﷺ addressed humanity.",
-        "bn": "৯ই জিলহজ আরাফাত ময়দানে নিজের উষ্ট্রী কাসওয়ার পিঠে আরোহণ করে আল্লাহর রাসুল ﷺ সমগ্র মানবতার উদ্দেশ্যে বক্তব্য রাখেন।",
+        "en": "Mounted upon his she-camel al-Qaswa, the Prophet delivered a profound, revolutionary sermon that Rabiah ibn Umayyah repeated loudly sentence by sentence across the massive congregation.",
+        "bn": "নিজের উটনী কাসওয়ার পিঠে সওয়ার হয়ে প্রিয় নবী এক বিপ্লবী ও অমর ভাষণ প্রদান করেন, যা রাবিয়া ইবনে উমাইয়া উচ্চকণ্ঠে বাক্য ধরে ধরে সমবেত বিশাল জনতার কাছে পৌঁছে দিচ্ছিলেন।",
         "words": [
           {
-            "en": "ninth day of Dhul-Hijjah",
-            "bn": "জিলহজের নয় তারিখ"
+            "en": "she-camel al-Qaswa",
+            "bn": "প্রিয় নবীর উটনী কাসওয়া"
           },
           {
-            "en": "camel Al-Qaswa",
-            "bn": "কাসওয়া নামের উষ্ট্রী"
+            "en": "revolutionary sermon",
+            "bn": "বিপ্লবী ও যুগান্তকারী ঐতিহাসিক ভাষণ"
           },
           {
-            "en": "plains of Mount Arafat",
-            "bn": "আরাফাতের ময়দান"
+            "en": "repeated loudly",
+            "bn": "উচ্চস্বরে বাক্য ধরে ধরে প্রচার করলেন"
           },
           {
-            "en": "addressed humanity",
-            "bn": "মানবতাকে সম্বোধন করলেন"
+            "en": "massive congregation",
+            "bn": "বিশাল জনসমুদ্র ও সম্মেলন"
           }
         ]
       },
       {
-        "en": "He began by warning: 'O people, listen carefully to my words, for I do not know whether I shall ever meet you here again after this year.'",
-        "bn": "তিনি এই বলে শুরু করলেন: 'হে লোকসকল, আমার কথাগুলো মনোযোগ দিয়ে শোনো, কারণ আমি জানি না এই বছরের পর তোমাদের সাথে এই স্থানে আর কখনো সাক্ষাৎ হবে কি না।'",
+        "en": "He proclaimed the absolute sanctity of human life, dignity, and private property, declaring them as inviolable until the Day of Resurrection as the sacred day, the sacred month, and the sacred city of Makkah.",
+        "bn": "তিনি মানুষের জীবন, সম্ভ্রম এবং ধন-সম্পদের পবিত্রতা ঘোষণা করে বলেন যে কেয়ামত পর্যন্ত তোমাদের রক্ত, সম্ভ্রম ও সম্পদ একে অপরের জন্য তেমনই পবিত্র ও অলঙ্ঘনীয় যেমন পবিত্র আজকের দিন, এই মাস এবং এই মক্কা নগরী।",
         "words": [
           {
-            "en": "listen carefully",
-            "bn": "মনোযোগ দিয়ে শোনো"
+            "en": "sanctity of human life",
+            "bn": "মানবজীবনের পবিত্রতা ও মর্যাদা"
           },
           {
-            "en": "meet you here again",
-            "bn": "তোমাদের সাথে পুনরায় সাক্ষাৎ হওয়া"
+            "en": "inviolable till Resurrection",
+            "bn": "কেয়ামত পর্যন্ত অলঙ্ঘনীয় ও হারাম"
           },
           {
-            "en": "after this year",
-            "bn": "এই বছরের পর"
+            "en": "sacred month and city",
+            "bn": "পবিত্র মাস এবং সম্মানিত মক্কা নগরী"
+          },
+          {
+            "en": "human dignity and property",
+            "bn": "মানবাধিকার, আত্মমর্যাদা ও সম্পদ"
           }
         ]
       },
       {
-        "en": "He established the absolute sacredness of human rights: 'Verily, your blood, your property, and your honor are sacred to you, as sacred as this day, this month, and this city.'",
-        "bn": "তিনি মানবাধিকারের চরম পবিত্রতা ঘোষণা করে বললেন: 'নিশ্চয়ই তোমাদের রক্ত, তোমাদের ধনসম্পদ এবং তোমাদের সম্মান তোমাদের পরস্পরের জন্য হারাম ও পবিত্র, যেমন পবিত্র এই দিন, এই মাস এবং এই নগরী।'",
+        "en": "Striking at the roots of racial bigotry and ethnic supremacy, he announced: 'An Arab has no superiority over a non-Arab, nor a non-Arab over an Arab; nor does a white person have superiority over a black person, nor a black person over a white person, except by piety and righteous action.'",
+        "bn": "বর্ণবাদ এবং বংশীয় অহংকারের মূলে কুঠারাঘাত করে তিনি দ্ব্যর্থহীন কণ্ঠে ঘোষণা করেন: 'কোনো আরবের ওপর অনারবের এবং অনারবের ওপর কোনো আরবের কোনো শ্রেষ্ঠত্ব নেই; সাদার ওপর কালোর কিংবা কালোর ওপর সাদার কোনো প্রাধান্য নেই—একমাত্র তাকওয়া বা খোদাভীতি ছাড়া।'",
         "words": [
           {
-            "en": "sacredness of human rights",
-            "bn": "মানবাধিকারের পবিত্রতা"
+            "en": "racial bigotry and supremacy",
+            "bn": "বর্ণবাদ ও জাতিগত শ্রেষ্ঠত্বের অহংকার"
           },
           {
-            "en": "blood, property, and honor",
-            "bn": "রক্ত, সম্পদ ও সম্মান"
-          },
-          {
-            "en": "as sacred as this day",
-            "bn": "যেমন পবিত্র এই দিন"
-          }
-        ]
-      },
-      {
-        "en": "He dismantled tribal feuds and economic oppression, proclaiming: 'All usury (Riba) of the days of ignorance is abolished under my feet, beginning with that of my uncle Abbas.'",
-        "bn": "তিনি গোত্রীয় হানাহানি ও অর্থনৈতিক শোষণ চূর্ণ করে ঘোষণা করলেন: 'জাহেলিয়াত যুগের সমস্ত সুদ আমার পায়ের নিচে পদদলিত হলো, যার সূচনা করছি আমার চাচা আব্বাসের সুদ বাতিল করার মাধ্যমে।'",
-        "words": [
-          {
-            "en": "dismantled economic oppression",
-            "bn": "অর্থনৈতিক শোষণ ভেঙে দিলেন"
-          },
-          {
-            "en": "usury (Riba) abolished",
-            "bn": "সুদ নিষিদ্ধ ও বাতিল হলো"
-          },
-          {
-            "en": "days of ignorance",
-            "bn": "জাহেলিয়াত বা অজ্ঞতার যুগ"
-          },
-          {
-            "en": "uncle Abbas",
-            "bn": "চাচা আব্বাস"
-          }
-        ]
-      },
-      {
-        "en": "He championed the dignity and rights of women, commanding: 'Fear Allah concerning women! Treat them with kindness and gentleness, for you have taken them as a sacred trust from Allah.'",
-        "bn": "তিনি নারীর মর্যাদা ও অধিকার প্রতিষ্ঠায় জোরালো নির্দেশ দিলেন: 'নারীদের ব্যাপারে আল্লাহকে ভয় করো! তাদের সাথে সদ্ব্যবহার ও কোমল আচরণ করো, কারণ তোমরা আল্লাহর পবিত্র আমানত হিসেবে তাদের গ্রহণ করেছ।'",
-        "words": [
-          {
-            "en": "championed dignity of women",
-            "bn": "নারীদের মর্যাদা সমুন্নত করলেন"
-          },
-          {
-            "en": "Fear Allah concerning women",
-            "bn": "নারীদের ব্যাপারে আল্লাহকে ভয় করো"
-          },
-          {
-            "en": "kindness and gentleness",
-            "bn": "সদ্ব্যবহার ও কোমলতা"
-          },
-          {
-            "en": "sacred trust from Allah",
-            "bn": "আল্লাহর পবিত্র আমানত"
-          }
-        ]
-      },
-      {
-        "en": "He struck down all racial superiority in an immortal declaration: 'An Arab has no superiority over a non-Arab, nor a non-Arab over an Arab; a white person has no superiority over a black person, nor a black over a white—except by piety and righteousness.'",
-        "bn": "তিনি বর্ণবাদের মূলে কুঠারাঘাত করে এক ঐতিহাসিক ঘোষণা দিলেন: 'কোনো আরবের কোনো অনারবের ওপর কোনো শ্রেষ্ঠত্ব নেই, না কোনো অনারবের আরবের ওপর; না কোনো শ্বেতাঙ্গের কৃষ্ণাঙ্গের ওপর, না কোনো কৃষ্ণাঙ্গের শ্বেতাঙ্গের ওপর শ্রেষ্ঠত্ব আছে—তাকওয়া ও নেক আমল ছাড়া।'",
-        "words": [
-          {
-            "en": "struck down racial superiority",
-            "bn": "বর্ণবাদকে চূর্ণ করলেন"
-          },
-          {
-            "en": "Arab has no superiority",
-            "bn": "আরবের কোনো শ্রেষ্ঠত্ব নেই"
+            "en": "no superiority over non-Arab",
+            "bn": "অনারবের ওপর আরবের কোনো শ্রেষ্ঠত্ব নেই"
           },
           {
             "en": "white over black",
-            "bn": "কৃষ্ণাঙ্গের ওপর শ্বেতাঙ্গ"
+            "bn": "সাদার ওপর কালোর কোনো প্রাধান্য নেই"
           },
           {
-            "en": "except by piety",
-            "bn": "তাকওয়া ছাড়া"
+            "en": "piety and righteous action",
+            "bn": "তাকওয়া, খোদাভীতি এবং নেক আমল"
           }
         ]
       },
       {
-        "en": "He left believers an unshakeable guide: 'I have left among you two things which, if you hold fast to them, you will never go astray: the Book of Allah and my Sunnah.'",
-        "bn": "তিনি মুমিনদের জন্য এক অবিচল দিশা রেখে বললেন: 'আমি তোমাদের মাঝে দুটি জিনিস রেখে যাচ্ছি, যা শক্তভাবে আঁকড়ে রাখলে তোমরা কখনো পথভ্রষ্ট হবে না: আল্লাহর কিতাব ও আমার সুন্নাহ।'",
+        "en": "The Prophet abolished all pre-Islamic tribal blood-feuds and usurious economic debts, wiping out accumulated financial exploitation to protect the poor and vulnerable.",
+        "bn": "প্রিয় নবী জাহেলিয়াত যুগের সমস্ত গোত্রীয় রক্তের বদলা এবং সুদের সমস্ত দেনা সম্পূর্ণ বাতিল ঘোষণা করেন, যার মাধ্যমে তিনি অর্থনৈতিক শোষণ ও জুলুমের অবসান ঘটিয়ে দুর্বলদের রক্ষা করেন।",
         "words": [
           {
-            "en": "unshakeable guide",
-            "bn": "অবিচল পথপ্রদর্শক"
+            "en": "abolished blood-feuds",
+            "bn": "রক্তের প্রতিশোধ বা খুনের বদলা বাতিল করলেন"
           },
           {
-            "en": "hold fast to them",
-            "bn": "শক্তভাবে ধারণ করো"
+            "en": "usurious economic debts",
+            "bn": "সুদের সমস্ত দেনা ও আর্থিক শোষণ"
+          },
+          {
+            "en": "pre-Islamic tribal customs",
+            "bn": "জাহেলি যুগের গোত্রীয় কুপ্রথা"
+          },
+          {
+            "en": "protect the vulnerable",
+            "bn": "দরিদ্র ও দুর্বল মানুষকে রক্ষা করা"
+          }
+        ]
+      },
+      {
+        "en": "He placed paramount emphasis on the honor and rights of women, commanding his followers: 'Treat women with utmost kindness and respect, for they are your trusted partners and companions committed to your care under God's trust.'",
+        "bn": "নারীর সম্মান ও অধিকারের প্রতি সর্বোচ্চ গুরুত্বারোপ করে তিনি নির্দেশ দেন: 'তোমরা নারীদের সাথে সদাচরণ করো, কেননা তারা তোমাদের বিশ্বস্ত সহধর্মিণী ও আজীবন সঙ্গী; আল্লাহর আমানত হিসেবে তাদের তোমরা গ্রহণ করেছ।'",
+        "words": [
+          {
+            "en": "paramount emphasis",
+            "bn": "সর্বোচ্চ গুরুত্বারোপ ও তাগিদ"
+          },
+          {
+            "en": "rights of women",
+            "bn": "নারীদের সম্মান ও মানবিক অধিকার"
+          },
+          {
+            "en": "treat with utmost kindness",
+            "bn": "সর্বোচ্চ দয়া ও স্নেহের সাথে আচরণ করো"
+          },
+          {
+            "en": "under God's trust",
+            "bn": "আল্লাহর পবিত্র আমানত হিসেবে"
+          }
+        ]
+      },
+      {
+        "en": "He warned believers to adhere firmly to the Book of Allah and his Sunnah, declaring that whoever clings steadfastly to them will never go astray into darkness or tyranny.",
+        "bn": "তিনি মুমিনদের আল্লাহর কিতাব ও তাঁর সুন্নাহকে শক্তভাবে আঁকড়ে ধরার নির্দেশ দিয়ে বলেন: 'আমি তোমাদের মাঝে এমন দুটি জিনিস রেখে যাচ্ছি যা মজবুতভাবে ধারণ করলে তোমরা কখনোই পথভ্রষ্ট হবে না।'",
+        "words": [
+          {
+            "en": "adhere firmly",
+            "bn": "শক্তভাবে ধারণ ও আনুগত্য করা"
+          },
+          {
+            "en": "Book of Allah and Sunnah",
+            "bn": "আল্লাহর কিতাব কুরআন ও পবিত্র সুন্নাহ"
           },
           {
             "en": "never go astray",
-            "bn": "কখনো পথভ্রষ্ট হবে না"
+            "bn": "কখনই পথভ্রষ্ট হবে না"
           },
           {
-            "en": "Book of Allah and my Sunnah",
-            "bn": "আল্লাহর কিতাব ও আমার সুন্নাহ"
+            "en": "guidance for mankind",
+            "bn": "মানবজাতির মুক্তির সঠিক পথ"
           }
         ]
       },
       {
-        "en": "Raising his forefinger to the sky and pointing to the weeping multitude, he asked: 'O Allah, have I conveyed the message?' To which the horizon shook as one hundred thousand voices thundered: 'Yes, by Allah!'",
-        "bn": "আকাশের দিকে তর্জনী তুলে অশ্রুসজল জনতার দিকে নির্দেশ করে তিনি জিজ্ঞাসা করলেন: 'হে আল্লাহ, আমি কি আপনার বার্তা পৌঁছে দিয়েছি?' তখন পুরো দিগন্ত প্রকম্পিত করে এক লক্ষ কণ্ঠ সমস্বরে বলে উঠল: 'হ্যাঁ, আল্লাহর কসম!'",
+        "en": "Looking up into the expansive desert sky with tears of profound devotion, the Prophet raised his index finger and asked the pilgrims three times: 'O people, have I conveyed the message?'—to which a thunderous roar answered: 'Yes, you have!', as he concluded: 'O Allah, bear witness!'",
+        "bn": "আকাশের দিকে শাহাদাত আঙুল তুলে চোখের জলে প্রিয় নবী সমবেত জনতাকে তিনবার জিজ্ঞেস করলেন: 'হে মানুষ, আমি কি তোমাদের কাছে আল্লাহর বাণী পৌঁছে দিয়েছি?'—তখন সমস্বরে গর্জন উঠল: 'হ্যাঁ, আপনি পৌঁছে দিয়েছেন!', তখন তিনি বললেন: 'হে আল্লাহ, আপনি সাক্ষী থাকুন!'",
         "words": [
           {
-            "en": "raising his forefinger",
-            "bn": "তর্জনী অঙ্গুলি তুলে"
+            "en": "raised his index finger",
+            "bn": "শাহাদাত আঙুল আকাশের দিকে তুললেন"
           },
           {
             "en": "have I conveyed the message",
-            "bn": "আমি কি বার্তা পৌঁছে দিয়েছি"
+            "bn": "আমি কি বার্তা পৌঁছে দিয়েছি?"
           },
           {
-            "en": "voices thundered",
-            "bn": "কণ্ঠস্বর বজ্রের মতো গর্জে উঠল"
+            "en": "thunderous roar",
+            "bn": "সমস্বরে বিশাল গর্জন ও উত্তর"
           },
-          {
-            "en": "Yes, by Allah",
-            "bn": "হ্যাঁ, আল্লাহর কসম!"
-          }
-        ]
-      },
-      {
-        "en": "The Prophet ﷺ prayed, 'O Allah, bear witness!', concluding the greatest charter of human freedom and moral brotherhood the world has ever witnessed.",
-        "bn": "নবীজি ﷺ দোয়া করলেন, 'হে আল্লাহ, আপনি সাক্ষী থাকুন!'; এবং এর মাধ্যমে সমাপ্তি ঘটল মানব মুক্তি ও ভ্রাতৃত্বের সর্বকালের শ্রেষ্ঠ সনদের।",
-        "words": [
           {
             "en": "O Allah, bear witness",
-            "bn": "হে আল্লাহ, আপনি সাক্ষী থাকুন!"
-          },
-          {
-            "en": "greatest charter",
-            "bn": "সর্বকালের শ্রেষ্ঠ সনদ"
-          },
-          {
-            "en": "human freedom",
-            "bn": "মানব মুক্তি ও স্বাধীনতা"
-          },
-          {
-            "en": "moral brotherhood",
-            "bn": "নৈতিক ভ্রাতৃত্ব"
+            "bn": "হে আল্লাহ! আপনি সাক্ষী থাকুন"
           }
         ]
       }

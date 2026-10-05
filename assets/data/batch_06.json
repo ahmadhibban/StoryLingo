@@ -1,1459 +1,1907 @@
 [
   {
-    "id": "companion-talha-uhud",
-    "title": "Talhah ibn Ubaydillah: The Living Martyr at Uhud",
-    "titleBn": "উহুদের প্রান্তরে রাসুলুল্লাহ ﷺ-এর জীবন্ত ঢাল তালহা (রা.)",
-    "author": "Authentic Hadith (Tirmidhi & Sahih Bukhari)",
-    "level": "Intermediate",
-    "levelColor": "rose",
-    "category": "Noble Companions",
-    "coverEmoji": "🛡️",
-    "summary": "When Muslim lines fragmented at Uhud and enemy archers targeted the Messenger of Allah, Talhah shielded the Prophet with his bare hands, stopping arrows until his fingers were paralyzed.",
-    "summaryBn": "উহুদের ময়দানে যখন কাফেররা চারদিক থেকে রাসুলুল্লাহ ﷺ-কে লক্ষ্য করে তীর ও তরবারি চালাচ্ছিল, তখন তালহা (রা.) নিজের বুক ও হাত দিয়ে নবীজিকে রক্ষা করেন এবং ৭০টির বেশি ক্ষতবরণ করে 'জীবন্ত শহীদ' খেতাব পান।",
-    "sentences": [
-      {
-        "en": "At the critical turn of the Battle of Uhud, panic scattered the ranks, leaving the Prophet protected by only a tiny circle of Companions.",
-        "bn": "উহুদের যুদ্ধের এক সংকটময় মুহূর্তে শৃঙ্খল ভেঙে সাহাবিরা বিচ্ছিন্ন হয়ে পড়লেন এবং নবীজি ﷺ মাত্র কয়েকজন একনিষ্ঠ সাহাবীর প্রহরায় রয়ে গেলেন।",
-        "words": [
-          {
-            "en": "At the critical turn",
-            "bn": "সংকটময় মোড়ে"
-          },
-          {
-            "en": "Battle of Uhud",
-            "bn": "উহুদের যুদ্ধে"
-          },
-          {
-            "en": "the Prophet was protected",
-            "bn": "নবীজি সুরক্ষিত ছিলেন"
-          },
-          {
-            "en": "by a tiny circle of Companions",
-            "bn": "মুষ্টিমেয় কয়েকজন সাহাবীর মাধ্যমে"
-          }
-        ]
-      },
-      {
-        "en": "Pagan archers focused deadly volleys of arrows directly at the Messenger of Allah.",
-        "bn": "কাফের তীরন্দাজরা সরাসরি আল্লাহর রাসুল ﷺ-কে লক্ষ্য করে বৃষ্টির মতো তীর ছুঁড়তে শুরু করল।",
-        "words": [
-          {
-            "en": "Pagan archers focused arrows",
-            "bn": "মুশরিক তীরন্দাজরা তীর তাক করল"
-          },
-          {
-            "en": "directly at the Messenger",
-            "bn": "সরাসরি আল্লাহর রাসুলের দিকে"
-          }
-        ]
-      },
-      {
-        "en": "Talhah ibn Ubaydillah threw his own body as a human shield before the Prophet, blocking incoming blades and arrows with his bare hands.",
-        "bn": "হযরত তালহা ইবনে উবাইদুল্লাহ (রা.) নিজের শরীরকে জীবন্ত ঢাল বানিয়ে নবীজির সামনে দাঁড়ালেন এবং খালি হাত দিয়ে ধেয়ে আসা তীর প্রতিহত করতে লাগলেন।",
-        "words": [
-          {
-            "en": "Talhah threw his own body",
-            "bn": "তালহা নিজের শরীর ফেলে দিলেন"
-          },
-          {
-            "en": "as a human shield",
-            "bn": "এক জীবন্ত মানবঢাল হিসেবে"
-          },
-          {
-            "en": "blocking blades and arrows",
-            "bn": "তলোয়ার ও তীর আটকে দিয়ে"
-          },
-          {
-            "en": "with his bare hands",
-            "bn": "নিজের খালি হাত দিয়ে"
-          }
-        ]
-      },
-      {
-        "en": "A fatal arrow aimed at the Prophet's face struck Talhah's hand, severing tendons and permanently paralyzing his fingers.",
-        "bn": "নবীজির মুখ লক্ষ্য করে ছোঁড়া এক মারাত্মক তীর তালহার হাতে এসে বিঁধল, যার ফলে তাঁর হাতের রগ কেটে আঙ্গুলগুলো চিরতরে অবশ হয়ে গেল।",
-        "words": [
-          {
-            "en": "A fatal arrow struck",
-            "bn": "এক মারাত্মক তীর আঘাত হানল"
-          },
-          {
-            "en": "Talhah's hand",
-            "bn": "তালহার হাতে"
-          },
-          {
-            "en": "permanently paralyzing his fingers",
-            "bn": "তাঁর আঙ্গুলগুলোকে চিরতরে অবশ করে দিয়ে"
-          }
-        ]
-      },
-      {
-        "en": "He sustained more than seventy wounds from swords, spears, and arrows across his body, yet refused to abandon his protective vigil.",
-        "bn": "তাঁর সারা শরীরে তলোয়ার, বর্শা ও তীরের সত্তরটিরও বেশি গভীর ক্ষত সৃষ্টি হয়েছিল, তবুও তিনি নবীজিকে পাহারা দেওয়া ছাড়লেন না।",
-        "words": [
-          {
-            "en": "He sustained seventy wounds",
-            "bn": "তিনি সত্তরটির বেশি আঘাত সইলেন"
-          },
-          {
-            "en": "from swords spears and arrows",
-            "bn": "তলোয়ার, বর্শা ও তীরের"
-          },
-          {
-            "en": "refused to abandon his vigil",
-            "bn": "পাহারা ছেড়ে যেতে অস্বীকৃতি জানালেন"
-          }
-        ]
-      },
-      {
-        "en": "When the Prophet climbed a boulder to safety, Talhah carried him on his bleeding back until the Prophet declared: 'Paradise is guaranteed for Talhah!'",
-        "bn": "নবীজি যখন নিরাপদে এক পাহাড়ে উঠছিলেন, তালহা নিজের রক্তাক্ত পিঠে নবীজিকে তুলে বহন করলেন, আর নবীজি ঘোষণা করলেন: 'তালহার জন্য জান্নাত অবধারিত হয়ে গেল!'",
-        "words": [
-          {
-            "en": "Talhah carried him on his back",
-            "bn": "তালহা তাঁকে নিজের পিঠে বহন করলেন"
-          },
-          {
-            "en": "the Prophet declared",
-            "bn": "নবীজি ঘোষণা করলেন"
-          },
-          {
-            "en": "Paradise is guaranteed for Talhah",
-            "bn": "তালহার জন্য জান্নাত ওয়াজিব হয়ে গেল"
-          }
-        ]
-      },
-      {
-        "en": "The Prophet later told his Companions: 'Whoever wishes to look at a living martyr walking upon the earth, let him look at Talhah ibn Ubaydillah.'",
-        "bn": "নবীজি পরবর্তীতে সাহাবিদের বললেন: 'যে ব্যক্তি জমিনের বুকে কোনো জীবন্ত শহীদকে হেঁটে বেড়াতে দেখতে চায়, সে যেন তালহা ইবনে উবাইদুল্লাহকে দেখে।'",
-        "words": [
-          {
-            "en": "Whoever wishes to look",
-            "bn": "যে কেউ দেখতে চায়"
-          },
-          {
-            "en": "at a living martyr",
-            "bn": "এক জীবন্ত শহীদকে"
-          },
-          {
-            "en": "walking upon the earth",
-            "bn": "জমিনের বুকে হেঁটে বেড়াতে"
-          },
-          {
-            "en": "let him look at Talhah",
-            "bn": "সে যেন তালহার দিকে তাকায়"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "id": "companion-zubayr-disciple",
-    "title": "Az-Zubayr ibn al-Awwam: The Disciple of the Prophet",
-    "titleBn": "হযরত যুবাইর ইবনুল আওয়াম (রা.): রাসুলুল্লাহ ﷺ-এর একান্ত হাওয়ারী",
-    "author": "Authentic Hadith (Sahih Bukhari & Muslim)",
-    "level": "Intermediate",
-    "levelColor": "amber",
-    "category": "Noble Companions",
-    "coverEmoji": "⚔️",
-    "summary": "Embracing Islam at fifteen and drawing the first sword in Islamic history, Zubayr's fearlessness earned him the Prophet's title: 'Every prophet has a disciple, and my disciple is Az-Zubayr.'",
-    "summaryBn": "পনেরো বছর বয়সে ইসলাম গ্রহণ, ইসলামের ইতিহাসে সর্বপ্রথম তলোয়ার খাপমুক্তকারী এবং স্বয়ং রাসুলুল্লাহ ﷺ কর্তৃক 'হাওয়ারী' (একান্ত সহযোগী) উপাধিতে ভূষিত বীর যুবাইর (রা.)-এর মহাকাব্য।",
-    "sentences": [
-      {
-        "en": "Az-Zubayr ibn al-Awwam accepted Islam in early youth in Makkah, enduring harsh tortures from his pagan uncle who rolled him in mats and lit fire beneath him.",
-        "bn": "হযরত যুবাইর ইবনুল আওয়াম (রা.) কিশোর বয়সেই ইসলাম গ্রহণ করেছিলেন এবং তাঁর চাচা তাঁকে চাটাইয়ে জড়িয়ে নিচে আগুন ধরিয়ে দিয়ে নির্মম নির্যাতন করত।",
-        "words": [
-          {
-            "en": "Zubayr accepted Islam",
-            "bn": "যুবাইর ইসলাম গ্রহণ করলেন"
-          },
-          {
-            "en": "enduring harsh tortures",
-            "bn": "কঠোর নির্যাতন সহ্য করে"
-          },
-          {
-            "en": "from his pagan uncle",
-            "bn": "তাঁর মুশরিক চাচার পক্ষ থেকে"
-          }
-        ]
-      },
-      {
-        "en": "He stood firm, declaring: 'I will never return to disbelief after Allah has saved me!'",
-        "bn": "তিনি পাহাড়ের মতো অটল থেকে বললেন: 'আল্লাহ আমাকে মুক্তি দেওয়ার পর আমি কখনই আর কুফরিতে ফিরে যাব না!'",
-        "words": [
-          {
-            "en": "He stood firm",
-            "bn": "তিনি অটল রইলেন"
-          },
-          {
-            "en": "I will never return to disbelief",
-            "bn": "আমি কখনই কুফরিতে ফিরে যাব না"
-          },
-          {
-            "en": "after Allah saved me",
-            "bn": "আল্লাহ আমাকে রক্ষা করার পর"
-          }
-        ]
-      },
-      {
-        "en": "As a teenager, hearing a false rumor that the Prophet had been killed in Makkah, Zubayr marched with drawn sword directly into the assembly of Quraysh.",
-        "bn": "কিশোর বয়সে নবীজিকে হত্যা করার এক মিথ্যা গুজব শুনে যুবাইর খোলা তলোয়ার হাতে সোজা কুরাইশদের প্রকাশ্য সভায় গিয়ে হাজির হয়েছিলেন।",
-        "words": [
-          {
-            "en": "Hearing a false rumor",
-            "bn": "এক মিথ্যা গুজব শুনে"
-          },
-          {
-            "en": "Zubayr marched with drawn sword",
-            "bn": "যুবাইর খোলা তলোয়ার হাতে এগিয়ে গেলেন"
-          },
-          {
-            "en": "into assembly of Quraysh",
-            "bn": "কুরাইশদের প্রকাশ্য মজলিসে"
-          }
-        ]
-      },
-      {
-        "en": "When the Prophet met him safely, he smiled and prayed for Zubayr and his sword, making it the very first sword unsheathed for Islam.",
-        "bn": "নবীজি নিরাপদে তাঁর সাক্ষাৎ পেয়ে হাসলেন এবং যুবাইর ও তাঁর তরবারির জন্য দোয়া করলেন, যা ছিল ইসলামের ইতিহাসে খাপমুক্ত হওয়া সর্বপ্রথম তলোয়ার।",
-        "words": [
-          {
-            "en": "The Prophet smiled and prayed",
-            "bn": "নবীজি হাসলেন এবং দোয়া করলেন"
-          },
-          {
-            "en": "for Zubayr and his sword",
-            "bn": "যুবাইর ও তাঁর তরবারির জন্য"
-          },
-          {
-            "en": "first sword unsheathed for Islam",
-            "bn": "ইসলামের জন্য উন্মুক্ত হওয়া প্রথম তরবারি"
-          }
-        ]
-      },
-      {
-        "en": "At the Battle of the Trench, when intelligence was desperately needed behind enemy lines, Zubayr volunteered repeatedly without hesitation.",
-        "bn": "খন্দকের যুদ্ধের চরম মুহূর্তে যখন শত্রু শিবিরের গোপন তথ্য আনার প্রয়োজন হলো, তখন যুবাইর একাকী রাতের আঁধারে এগিয়ে যাওয়ার জন্য স্বেচ্ছায় প্রস্তুত হলেন।",
-        "words": [
-          {
-            "en": "At the Battle of the Trench",
-            "bn": "খন্দকের যুদ্ধে"
-          },
-          {
-            "en": "when intelligence was needed",
-            "bn": "যখন গোপন তথ্যের প্রয়োজন হলো"
-          },
-          {
-            "en": "Zubayr volunteered repeatedly",
-            "bn": "যুবাইর বারবার এগিয়ে এলেন"
-          }
-        ]
-      },
-      {
-        "en": "The Messenger of Allah declared: 'Every prophet has a special disciple (Hawari), and my disciple is Az-Zubayr!'",
-        "bn": "আল্লাহর রাসুল ﷺ ঘোষণা করলেন: 'প্রত্যেক নবীর একজন বিশিষ্ট হাওয়ারী (একান্ত সহযোগী) থাকে, আর আমার হাওয়ারী হলো যুবাইর!'",
-        "words": [
-          {
-            "en": "The Messenger declared",
-            "bn": "রাসুলুল্লাহ ঘোষণা করলেন"
-          },
-          {
-            "en": "Every prophet has a disciple",
-            "bn": "প্রতিটি নবীর একজন হাওয়ারী থাকে"
-          },
-          {
-            "en": "and my disciple is Az-Zubayr",
-            "bn": "এবং আমার হাওয়ারী হলো যুবাইর"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "id": "companion-abdullah-masud-recitation",
-    "title": "Abdullah ibn Mas'ud Reciting Surah Ar-Rahman at the Kaaba",
-    "titleBn": "পবিত্র কাবা প্রাঙ্গণে হযরত আব্দুল্লাহ ইবনে মাসউদ (রা.)-এর কোরআন পাঠ",
-    "author": "Classical Seerah (Ibn Hisham)",
+    "id": "companion-anas-malik",
+    "title": "Anas ibn Malik: The Dedicated Servant of the Messenger of Allah",
+    "titleBn": "আনাস ইবনে মালিক (রা.): খাদেমু রাসূলিল্লাহ ও সুদীর্ঘ বরকতময় জীবনের অধিকারী",
+    "author": "Ibn Kathir, Sahih Muslim & Siyar A'lam an-Nubala",
     "level": "Intermediate",
     "levelColor": "emerald",
     "category": "Noble Companions",
-    "coverEmoji": "📖",
-    "summary": "A humble, slender shepherd youth volunteers to recite the Quran publicly in the courtyard of the Kaaba, enduring ruthless beatings from Quraysh while continuing to recite.",
-    "summaryBn": "কুরাইশদের চরম শত্রুতার মাঝে দুর্বল ও কৃশকায় যুবক আব্দুল্লাহ ইবনে মাসউদ (রা.) কর্তৃক প্রকাশ্যে কাবা চত্বরে সূরা আর-রহমান তেলাওয়াত এবং মার খেয়েও পরদিন পুনরায় পড়ার অদম্য সাহস।",
+    "coverEmoji": "🌱",
+    "summary": "Brought to Prophet Muhammad at age ten by his mother Umm Sulaym, Anas served the Messenger for ten continuous years in Madinah, never once receiving a scolding or a harsh word; blessed with the Prophet's supplication, he lived over a century with abundant wealth and over one hundred offspring.",
+    "summaryBn": "মাত্র দশ বছর বয়সে মমতাময়ী মা উম্মে সুলাইম কর্তৃক মহানবীর খেদমতে সোপর্দ হওয়া আনাস (রা.) টানা দশ বছর মদিনায় নবীজির ব্যক্তিগত সেবক ছিলেন; এই সুদীর্ঘ সময়ে নবীজি তাঁকে একটি বারের জন্যও ধমক দেননি বা তিরস্কার করেননি; মহানবীর দোয়ার বরকতে তিনি এক শতাব্দীরও বেশি সময় বেঁচে ছিলেন এবং শতাধিক সন্তানের পিতা হয়েছিলেন।",
     "sentences": [
       {
-        "en": "In the early years of Islam, the Quraysh had never heard the Holy Quran recited openly in public.",
-        "bn": "ইসলামের প্রাথমিক যুগে কুরাইশ কাফেররা কাবা প্রাঙ্গণে প্রকাশ্যে কোনো দিন পবিত্র কুরআন তেলাওয়াত শোনেনি।",
+        "en": "When Prophet Muhammad arrived in Madinah during the historic Hijrah, Umm Sulaym took her ten-year-old son Anas by the hand and presented him to the Messenger: 'O Messenger of Allah, everyone has given a gift; this is my little Anas, let him serve you.'",
+        "bn": "ঐতিহাসিক হিজরতের সময় মহানবী (সা.) যখন মদিনায় আগমন করলেন, উম্মে সুলাইম তাঁর দশ বছরের পুত্র আনাসের হাত ধরে নবীজির দরবারে হাজির হয়ে বললেন: 'হে আল্লাহর রাসূল! সবাই আপনাকে কোনো না কোনো উপহার দিয়েছে; এই হলো আমার ছোট্ট আনাস, সে আপনার খেদমত করবে।'",
         "words": [
           {
-            "en": "In early years of Islam",
-            "bn": "ইসলামের শুরুর বছরগুলোতে"
+            "en": "historic Hijrah",
+            "bn": "ঐতিহাসিক হিজরত"
           },
           {
-            "en": "Quraysh had never heard",
-            "bn": "কুরাইশরা কখনই শোনেনি"
+            "en": "ten-year-old son",
+            "bn": "দশ বছরের ছোট্ট সন্তান"
           },
           {
-            "en": "the Quran recited openly",
-            "bn": "কুরআন প্রকাশ্যে তেলাওয়াত করতে"
+            "en": "presented as a servant",
+            "bn": "সেবক হিসেবে সোপর্দ করলেন"
+          },
+          {
+            "en": "everyone gave a gift",
+            "bn": "সবাই উপহার দিয়েছে"
+          },
+          {
+            "en": "serve you",
+            "bn": "আপনার খেদমত করবে"
           }
         ]
       },
       {
-        "en": "The Companions gathered and wondered who would be bold enough to recite it aloud before the pagan chieftains at the Kaaba.",
-        "bn": "সাহাবিরা আলোচনা করছিলেন কে এমন সাহসী মুমিন আছেন যিনি কাবার চত্বরে দাঁড়িয়ে মুশরিক নেতাদের সামনে উচ্চস্বরে কুরআন পাঠ করবেন।",
+        "en": "For ten continuous years, Anas served Prophet Muhammad with radiant loyalty, observing his manners in travel and residence, in joy and adversity.",
+        "bn": "টানা দশটি বছর আনাস পরম নিষ্ঠা ও আনুগত্যের সাথে মহানবী (সা.)-এর খেদমত করলেন; সফরে ও আবাসে, সুখে ও দুঃখে তিনি নবীজির অনুপম চরিত্র ও ব্যবহার নিবিড়ভাবে প্রত্যক্ষ করেন।",
         "words": [
           {
-            "en": "The Companions wondered",
-            "bn": "সাহাবিরা ভাবলেন"
+            "en": "ten continuous years",
+            "bn": "টানা দশটি দীর্ঘ বছর"
           },
           {
-            "en": "who would be bold enough",
-            "bn": "কে যথেষ্ট সাহসী হবে"
+            "en": "radiant loyalty",
+            "bn": "উজ্জ্বল ও অকৃত্রিম আনুগত্য"
           },
           {
-            "en": "to recite it aloud",
-            "bn": "উচ্চস্বরে তা তেলাওয়াত করতে"
+            "en": "travel and residence",
+            "bn": "সফর এবং নিজ আবাসে"
           },
           {
-            "en": "before pagan chieftains",
-            "bn": "মুশরিক সর্দারদের সামনে"
+            "en": "joy and adversity",
+            "bn": "সুখে এবং দুঃখে"
+          },
+          {
+            "en": "observing manners",
+            "bn": "আচার-ব্যবহার ও চরিত্র প্রত্যক্ষ করা"
           }
         ]
       },
       {
-        "en": "A slender shepherd youth named Abdullah ibn Mas'ud stepped forward, volunteering despite having no powerful clan to protect him.",
-        "bn": "আব্দুল্লাহ ইবনে মাসউদ নামক এক কৃশকায় সাধারণ রাখাল যুবক এগিয়ে এলেন, যদিও তাঁকে রক্ষা করার মতো কোনো শক্তিশালী গোত্র মক্কায় ছিল না।",
+        "en": "Recalling the sublime gentleness of the Prophet, Anas testified: 'I served the Messenger of Allah for ten years; by Allah, he never once said to me Uff! nor did he ever ask why I did something or why I failed to do something.'",
+        "bn": "মহানবীর অপার্থিব কোমলতা স্মরণ করে আনাস সাক্ষ্য দিয়েছিলেন: 'আমি দশ বছর আল্লাহর রাসূলের খেদমত করেছি; আল্লাহর কসম, তিনি কোনোদিন আমার প্রতি 'উহ' শব্দটি পর্যন্ত করেননি, এবং কখনো জিজ্ঞাসা করেননি আমি কোনো কাজ কেন করলাম বা কেন করলাম না।'",
         "words": [
           {
-            "en": "A slender shepherd youth",
-            "bn": "এক কৃশকায় রাখাল যুবক"
+            "en": "sublime gentleness",
+            "bn": "অনুপম ও স্বর্গীয় কোমলতা"
           },
           {
-            "en": "Abdullah ibn Mas'ud",
-            "bn": "আব্দুল্লাহ ইবনে মাসউদ"
+            "en": "testified",
+            "bn": "সাক্ষ্য দিলেন"
           },
           {
-            "en": "stepped forward volunteering",
-            "bn": "স্বেচ্ছায় এগিয়ে এলেন"
+            "en": "never once said Uff",
+            "bn": "কখনো একবারও 'উহ' শব্দ করেননি"
           },
           {
-            "en": "having no clan to protect him",
-            "bn": "তাঁকে রক্ষার মতো কোনো গোত্র না থাকা সত্ত্বেও"
+            "en": "why did you do something",
+            "bn": "কেন তুমি এমনটি করলে"
+          },
+          {
+            "en": "why failed to do",
+            "bn": "কেন কাজটি করলে না"
           }
         ]
       },
       {
-        "en": "He walked to Maqam Ibrahim at midday when Quraysh were seated in their assemblies, and began reciting Surah Ar-Rahman with a resonant, melodious voice.",
-        "bn": "দুপুরবেলা যখন কুরাইশ নেতারা আড্ডায় মগ্ন ছিল, তিনি মাকামে ইব্রাহিমের কাছে দাঁড়িয়ে সুমধুর সুরে সূরা আর-রহমান তেলাওয়াত করতে লাগলেন।",
+        "en": "Umm Sulaym once asked the Prophet to supplicate for her young son, and Muhammad prayed: 'O Allah, increase his wealth and offspring, prolong his life, and forgive his sins.'",
+        "bn": "উম্মে সুলাইম একবার নবীজিকে তাঁর সন্তানের জন্য বরকতের দোয়া করতে অনুরোধ করলে রাসূল (সা.) দোয়া করলেন: 'হে আল্লাহ! আপনি আনাসের ধনসম্পদ ও সন্তানসন্ততি বাড়িয়ে দিন, তার আয়ু দীর্ঘায়িত করুন এবং তার গুনাহসমূহ ক্ষমা করে দিন।'",
         "words": [
           {
-            "en": "He walked to Maqam Ibrahim",
-            "bn": "তিনি মাকামে ইব্রাহিমে গেলেন"
+            "en": "supplicate for son",
+            "bn": "সন্তানের জন্য বরকতের দোয়া চাওয়া"
           },
           {
-            "en": "at midday",
-            "bn": "দুপুরের সময়"
+            "en": "increase wealth and offspring",
+            "bn": "ধনসম্পদ ও সন্তানসন্ততিতে বরকত দেওয়া"
           },
           {
-            "en": "began reciting Surah Ar-Rahman",
-            "bn": "সূরা আর-রহমান পাঠ করতে শুরু করলেন"
+            "en": "prolong his life",
+            "bn": "তার হায়াত দীর্ঘায়িত করুন"
           },
           {
-            "en": "with a resonant voice",
-            "bn": "এক হৃদয়গ্রাহী সুমধুর কণ্ঠে"
+            "en": "forgive his sins",
+            "bn": "তার গুনাহ ক্ষমা করে দিন"
+          },
+          {
+            "en": "prophetic supplication",
+            "bn": "নবীজি (সা.)-এর বরকতময় দোয়া"
           }
         ]
       },
       {
-        "en": "Realizing it was the revelation of Muhammad ﷺ, the furious pagans swarmed upon him, beating his face and body viciously.",
-        "bn": "এটি যে মুহাম্মদের ওপর অবতীর্ণ ওহী তা বুঝতে পেরে ক্ষিপ্ত কাফেররা তাঁর ওপর ঝাঁপিয়ে পড়ল এবং তাঁর মুখমণ্ডল ও শরীরে নির্মম আঘাত করতে লাগল।",
+        "en": "By virtue of this prophetic blessing, Anas became the wealthiest of the Ansar, possessing date palm orchards that bore luscious fruit twice a year while other orchards bore fruit only once.",
+        "bn": "নবীজির এই বরকতময় দোয়ার কারণে আনাস আনসারদের মাঝে সবচেয়ে ধনাঢ্য ব্যক্তিতে পরিণত হন; তাঁর খেজুর বাগান বছরে দুইবার মিষ্টি ফল দিত, যেখানে অন্যদের বাগানে মাত্র একবারই ফল ধরত।",
         "words": [
           {
-            "en": "Realizing it was revelation",
-            "bn": "এটি ওহী বুঝতে পেরে"
+            "en": "prophetic blessing",
+            "bn": "নবীজির বরকতময় দোয়ার প্রভাব"
           },
           {
-            "en": "furious pagans swarmed upon him",
-            "bn": "ক্ষিপ্ত মুশরিকরা তাঁর ওপর চড়াও হলো"
+            "en": "wealthiest of Ansar",
+            "bn": "আনসারদের মধ্যে সর্বাধিক ধনী"
           },
           {
-            "en": "beating his face viciously",
-            "bn": "তাঁর চেহারায় নির্মমভাবে আঘাত করে"
+            "en": "date palm orchards",
+            "bn": "খেজুরের সুবিশাল বাগান"
+          },
+          {
+            "en": "bore fruit twice a year",
+            "bn": "বছরে দুইবার ফল দিত"
+          },
+          {
+            "en": "luscious fruit",
+            "bn": "মিষ্টি ও সুস্বাদু তাজা ফল"
           }
         ]
       },
       {
-        "en": "Despite his bleeding face, Ibn Mas'ud refused to pause, reciting verses until he finished the entire passage before walking back.",
-        "bn": "মুখমণ্ডল রক্তে ভেসে যাওয়া সত্ত্বেও ইবনে মাসউদ থমকে দাঁড়াননি; তিনি আয়াতগুলো সম্পূর্ণ পাঠ শেষ করে সাহাবিদের কাছে ফিরে এলেন।",
+        "en": "He lived well past the age of one hundred, personally burying more than one hundred and twenty of his direct children and grandchildren, and transmitting over 2,280 authentic hadiths to the Ummah.",
+        "bn": "তিনি একশত বছরেরও বেশি সময় বেঁচে ছিলেন; নিজের জীবদ্দশায় নিজের সন্তান ও নাতি-নাতনি মিলিয়ে একশত বিশ জনেরও বেশি মানুষকে দাফন করেন এবং মুসলিম উম্মাহর নিকট ২,২৮০টিরও বেশি সহীহ হাদিস পৌঁছে দেন।",
         "words": [
           {
-            "en": "Despite his bleeding face",
-            "bn": "রক্তাক্ত মুখমণ্ডল সত্ত্বেও"
+            "en": "past age of one hundred",
+            "bn": "একশত বছরেরও বেশি দীর্ঘ জীবন"
           },
           {
-            "en": "Ibn Mas'ud refused to pause",
-            "bn": "ইবনে মাসউদ থামতে অস্বীকার করলেন"
+            "en": "hundred and twenty offspring",
+            "bn": "একশত বিশ জনেরও বেশি সন্তানসন্ততি"
           },
           {
-            "en": "reciting until he finished",
-            "bn": "তেলাওয়াত শেষ করা পর্যন্ত পাঠ করে"
+            "en": "burying direct children",
+            "bn": "নিজের রক্তজ সন্তানকে দাফন করা"
+          },
+          {
+            "en": "2,280 authentic hadiths",
+            "bn": "২,২৮০টির বেশি সহীহ হাদিস"
+          },
+          {
+            "en": "transmitting to Ummah",
+            "bn": "উম্মতের কাছে বর্ণনা ও সংরক্ষণ করা"
           }
         ]
       },
       {
-        "en": "When the Companions grieved at his bruised face, he smiled brightly: 'By Allah, the enemies of Allah were never more insignificant in my eyes than they are today; if you wish, I will do it again tomorrow!'",
-        "bn": "সাহাবিরা যখন তাঁর রক্তাক্ত ক্ষত দেখে শোকার্ত হলেন, তিনি হাসিমুখে বললেন: 'আল্লাহর কসম, আজকের মতো তুচ্ছ ও লাঞ্ছিত কাফেরদের আমি আর কখনই দেখিনি; তোমরা চাইলে আমি কালও গিয়ে ওদের শুনিয়ে আসব!'",
+        "en": "He was the last surviving senior companion in Basra, retaining until his dying day a small lock of the Prophet's hair and a wooden staff, instructing that both relics be placed with him in his grave.",
+        "bn": "তিনি ছিলেন বসরা নগরীর সর্বশেষ জীবিত প্রবীণ সাহাবী; ওফাতের সময় পর্যন্ত তিনি নবীজির একগুচ্ছ চুল মোবারক এবং একটি কাঠের লাঠি সংরক্ষণ করে রেখেছিলেন, এবং অসিহত করেছিলেন যেন তাঁর কবরে এই দুটি পবিত্র স্মৃতি সাথে দেওয়া হয়।",
         "words": [
           {
-            "en": "He smiled brightly",
-            "bn": "তিনি উজ্জ্বল হাসিমুখে বললেন"
+            "en": "last surviving companion",
+            "bn": "সর্বশেষ জীবিত সাহাবী"
           },
           {
-            "en": "enemies were never more insignificant",
-            "bn": "শত্রুরা কখনই এত তুচ্ছ ছিল না"
+            "en": "lock of Prophet's hair",
+            "bn": "নবীজির পবিত্র একগুচ্ছ চুল মোবারক"
           },
           {
-            "en": "if you wish",
-            "bn": "তোমরা যদি চাও"
+            "en": "wooden staff",
+            "bn": "নবীজির কাঠের লাঠি মোবারক"
           },
           {
-            "en": "I will do it again tomorrow",
-            "bn": "আমি আগামীকালও আবার তা করে আসব"
+            "en": "placed in his grave",
+            "bn": "কবরের মধ্যে সাথে রাখার নির্দেশ"
+          },
+          {
+            "en": "sacred relics",
+            "bn": "পবিত্র বরকতময় স্মৃতিচিহ্নসমূহ"
           }
         ]
       }
     ]
   },
   {
-    "id": "companion-abu-dhar-truth",
-    "title": "Abu Dharr al-Ghifari: The Solitary Seeker of Truth",
-    "titleBn": "হযরত আবু যর গিফারী (রা.): সত্যের নির্ভীক সাধক ও দরবেশ সাহাবী",
-    "author": "Authentic Hadith (Sahih Muslim) & Siyar A'lam",
+    "id": "companion-zayd-harithah",
+    "title": "Zayd ibn Harithah: The Beloved Commander and Martyr of Mu'tah",
+    "titleBn": "যায়েদ ইবনে হারেসা (রা.): হাবীবুর রাসূল ও মুতার বীর সেনাপতি",
+    "author": "Ibn Ishaq, Ibn Kathir & Sahih al-Bukhari",
     "level": "Intermediate",
-    "levelColor": "cyan",
+    "levelColor": "emerald",
     "category": "Noble Companions",
-    "coverEmoji": "🏜️",
-    "summary": "From the notorious bandit tribe of Ghifar, Abu Dharr abandons paganism, accepts Islam in secret, openly shouts the Shahadah in the Kaaba, and lives a life of pure asceticism.",
-    "summaryBn": "দস্যু গোত্র গিফার থেকে এসে ইসলাম গ্রহণ, কুরাইশদের মাঝে দাঁড়িয়ে প্রকাশ্যে কালিমার আওয়াজ তোলা এবং আজীবন চরম নির্লোভ ও দুনিয়াবিমুখ জীবন যাপনের ইতিহাস।",
+    "coverEmoji": "🛡️",
+    "summary": "Kidnapped as a child and sold as a slave, Zayd was gifted to Muhammad and freed; when his biological father came to ransom him, Zayd chose to remain forever with Muhammad over his own parents, earning the title Hibb Rasulillah (the Beloved of the Messenger) and becoming the only companion explicitly named in the Holy Quran.",
+    "summaryBn": "শৈশবে অপহৃত হয়ে দাস হিসেবে বিক্রি হওয়া যায়েদ (রা.) খাদিজার মাধ্যমে মহানবীর সেবায় আসেন এবং মুক্তি লাভ করেন; নিজের জন্মদাতা পিতা যখন প্রচুর ধনসম্পদ নিয়ে তাঁকে মুক্ত করতে এলেন, যায়েদ নিজের বাবা-মায়ের বদলে মুহাম্মদ (সা.)-এর সাথে থাকাকে বেছে নেন; তিনি 'হাবীবুর রাসূল' (রাসূলের প্রিয়তম) উপাধি পান এবং পবিত্র কোরআনে নাম উল্লেখ থাকা একমাত্র সাহাবীর মর্যাদা লাভ করেন।",
     "sentences": [
       {
-        "en": "Abu Dharr hailed from the fierce desert tribe of Banu Ghifar, who were infamous for raiding merchant caravans.",
-        "bn": "হযরত আবু যর গিফারী (রা.) বনু গিফার নামক এক দুর্ধর্ষ মরুভূমির গোত্র থেকে এসেছিলেন, যারা বাণিজ্য কাফেলা লুণ্ঠন করার জন্য পরিচিত ছিল।",
+        "en": "While visiting his maternal relatives as a young child, bedouin marauders kidnapped Zayd ibn Harithah and sold him into slavery at the great annual fair of Ukaz.",
+        "bn": "শৈশবে নানার বাড়িতে বেড়াতে যাওয়ার পথে একদল মরু ডাকাত যায়েদ ইবনে হারেসাকে অপহরণ করে এবং ঐতিহাসিক উকাযের মেলায় দাস হিসেবে বিক্রি করে দেয়।",
         "words": [
           {
-            "en": "Abu Dharr hailed from",
-            "bn": "আবু যর এসেছিলেন"
+            "en": "maternal relatives",
+            "bn": "নানা বা মামার বংশীয় আত্মীয়স্বজন"
           },
           {
-            "en": "fierce desert tribe",
-            "bn": "ভয়ংকর মরু গোত্র থেকে"
+            "en": "bedouin marauders",
+            "bn": "বেদুইন মরু ডাকাতদল"
           },
           {
-            "en": "Banu Ghifar",
-            "bn": "বনু গিফার"
+            "en": "kidnapped",
+            "bn": "অপহরণ করা হলো"
           },
           {
-            "en": "infamous for raiding caravans",
-            "bn": "কাফেলা লুণ্ঠনের জন্য কুখ্যাত"
+            "en": "sold into slavery",
+            "bn": "দাস হিসেবে বিক্রি করে দেওয়া"
+          },
+          {
+            "en": "fair of Ukaz",
+            "bn": "উকাযের বিখ্যাত মেলা"
           }
         ]
       },
       {
-        "en": "Yet long before hearing of Muhammad ﷺ, Abu Dharr had rejected idols and worshiped Allah in solitary prayer.",
-        "bn": "অথচ নবীজি ﷺ-এর দাওয়াতের কথা জানার আগেই আবু যর নিজের বিবেক দিয়ে মূর্তিপূজা বর্জন করে এক আল্লাহর ইবাদত করতেন।",
+        "en": "Purchased by Hakim ibn Hizam for his aunt Khadijah, she presented the gentle youth as a personal gift to Muhammad upon their marriage.",
+        "bn": "হাকিম ইবনে হিযাম নিজের ফুফু খাদিজা (রা.)-এর জন্য তাঁকে কিনে নিয়ে আসেন, এবং পরবর্তীতে বিয়ের পর খাদিজা এই ভদ্র ও শান্ত বালকটিকে মহানবীর সেবায় উপহার হিসেবে পেশ করেন।",
         "words": [
           {
-            "en": "Long before hearing of the Prophet",
-            "bn": "নবীজির কথা শোনার বহু আগেই"
+            "en": "purchased by relative",
+            "bn": "আত্মীয় কর্তৃক ক্রীত হওয়া"
           },
           {
-            "en": "rejected idols",
-            "bn": "মূর্তিপূজা ত্যাগ করেছিলেন"
+            "en": "personal gift",
+            "bn": "ব্যক্তিগত উপহার হিসেবে"
           },
           {
-            "en": "worshiped Allah in solitary prayer",
-            "bn": "নিভৃতে এক আল্লাহর প্রার্থনা করতেন"
+            "en": "gentle youth",
+            "bn": "ভদ্র ও সদাচারী তরুণ"
+          },
+          {
+            "en": "presented upon marriage",
+            "bn": "বিয়ের পর উপহার দেওয়া"
+          },
+          {
+            "en": "beloved master",
+            "bn": "স্নেহময় মনিব"
           }
         ]
       },
       {
-        "en": "Upon arriving in Makkah, he met the Prophet secretly and embraced Islam as only the fifth or sixth person in history.",
-        "bn": "মক্কায় এসে তিনি গোপনে রাসুলুল্লাহ ﷺ-এর সাথে সাক্ষাৎ করলেন এবং পৃথিবীর মাত্র পঞ্চম বা ষষ্ঠ ব্যক্তি হিসেবে ইসলাম গ্রহণ করলেন।",
+        "en": "When Zayd's heartbroken father and uncle located him in Makkah and offered a lavish ransom for his release, Muhammad offered Zayd absolute freedom of choice without accepting any money.",
+        "bn": "যায়েদের শোকার্ত পিতা ও চাচা যখন মক্কায় তাঁর সন্ধান পেয়ে বিপুল পরিমাণ মুক্তিপণ নিয়ে তাঁকে ছাড়িয়ে নিতে এলেন, তখন মুহাম্মদ (সা.) কোনো অর্থ না নিয়েই সিদ্ধান্ত নেওয়ার পূর্ণ স্বাধীনতা যায়েদের ওপর ছেড়ে দিলেন।",
         "words": [
           {
-            "en": "Upon arriving in Makkah",
-            "bn": "মক্কায় পৌঁছার পর"
+            "en": "heartbroken father",
+            "bn": "শোকার্ত ও ব্যথিত পিতা"
           },
           {
-            "en": "met the Prophet secretly",
-            "bn": "গোপনে নবীজির সাথে সাক্ষাৎ করলেন"
+            "en": "lavish ransom",
+            "bn": "বিপুল পরিমাণ মুক্তিপণের অর্থ"
+          },
+          {
+            "en": "freedom of choice",
+            "bn": "নিজের ইচ্ছা অনুযায়ী বেছে নেওয়ার স্বাধীনতা"
+          },
+          {
+            "en": "without accepting money",
+            "bn": "কোনো টাকা-পয়সা গ্রহণ না করে"
+          },
+          {
+            "en": "located in Makkah",
+            "bn": "মক্কায় সন্ধান পেলেন"
+          }
+        ]
+      },
+      {
+        "en": "Without a second of hesitation, Zayd pointed toward Muhammad and proclaimed: 'I have seen in this man such character that I will never choose anyone above him, ever!'",
+        "bn": "এক মুহূর্তের দ্বিধা না করে যায়েদ মহানবীর দিকে ইঙ্গিত করে ঘোষণা করলেন: 'আমি এই মানুষের চরিত্রে এমন কিছু দেখেছি যে তাঁর ওপরে আমি কখনো অন্য কাউকেই প্রাধান্য দেব না, কখনো না!'",
+        "words": [
+          {
+            "en": "without a second of hesitation",
+            "bn": "এক সেকেন্ডও দ্বিধাবোধ না করে"
+          },
+          {
+            "en": "pointed toward Muhammad",
+            "bn": "মুহাম্মদের দিকে আঙুল তুলে ইঙ্গিত করলেন"
+          },
+          {
+            "en": "seen such character",
+            "bn": "এমন অনুপম চরিত্র প্রত্যক্ষ করেছি"
+          },
+          {
+            "en": "never choose anyone above him",
+            "bn": "তাঁর ওপরে আর কাউকে বেছে নেব না"
+          },
+          {
+            "en": "unwavering devotion",
+            "bn": "অবিচল ভালোবাসা ও আনুগত্য"
+          }
+        ]
+      },
+      {
+        "en": "Deeply touched, Muhammad took him to the Kaaba and declared before the Quraysh: 'Witness that Zayd is my son; he inherits from me and I inherit from him,' earning him the name Zayd ibn Muhammad until divine revelation regulated adoption.",
+        "bn": "এতে গভীরভাবে আপ্লুত হয়ে মহানবী তাঁকে কাবার সামনে নিয়ে গিয়ে সবার উপস্থিতিতে ঘোষণা করলেন: 'তোমরা সাক্ষী থেকো, যায়েদ আমার সন্তান; সে আমার ওয়ারিস হবে এবং আমি তার ওয়ারিস হব।' ফলে ওহী নাজিলের পূর্ব পর্যন্ত তিনি 'যায়েদ ইবনে মুহাম্মদ' নামে পরিচিত ছিলেন।",
+        "words": [
+          {
+            "en": "deeply touched",
+            "bn": "গভীরভাবে আবেগাপ্লুত হয়ে"
+          },
+          {
+            "en": "declared before Quraysh",
+            "bn": "কুরাইশদের সামনে প্রকাশ্যে ঘোষণা দিলেন"
+          },
+          {
+            "en": "Zayd is my son",
+            "bn": "যায়েদ আমারই সন্তান"
+          },
+          {
+            "en": "inherits from me",
+            "bn": "সে আমার উত্তরাধিকারী হবে"
+          },
+          {
+            "en": "regulated adoption",
+            "bn": "দত্তক গ্রহণের বিধান নাজিল হলো"
+          }
+        ]
+      },
+      {
+        "en": "Zayd is honored with the unique, immortal distinction of being the only companion of Prophet Muhammad explicitly named by Allah in the Holy Quran, in Surah Al-Ahzab.",
+        "bn": "পবিত্র কোরআনের সূরা আহযাবে খোদ আল্লাহ তাআলা কর্তৃক নামোল্লিখিত হওয়া একমাত্র সাহাবী হিসেবে যায়েদ (রা.) সমগ্র মুসলিম ইতিহাসে এক অনন্য ও কালজয়ী সম্মানের অধিকারী।",
+        "words": [
+          {
+            "en": "unique immortal distinction",
+            "bn": "অনন্য ও অমর শ্রেষ্ঠত্ব"
+          },
+          {
+            "en": "only companion named in Quran",
+            "bn": "কোরআনে নাম উল্লেখিত একমাত্র সাহাবী"
+          },
+          {
+            "en": "explicitly named by Allah",
+            "bn": "সরাসরি আল্লাহ কর্তৃক নাম বর্ণিত"
+          },
+          {
+            "en": "Surah Al-Ahzab",
+            "bn": "পবিত্র সূরা আহযাব"
+          },
+          {
+            "en": "honored",
+            "bn": "সম্মানিত"
+          }
+        ]
+      },
+      {
+        "en": "At the Battle of Mu'tah, appointed first supreme commander over the three thousand Muslims against two hundred thousand Byzantines, Zayd charged heroically carrying the standard of Islam until he fell pierced by countless spears.",
+        "bn": "মুতার প্রান্তরে দুই লাখ রোমান সৈন্যের বিরুদ্ধে তিন হাজার মুসলিম সেনাদলের প্রথম প্রধান সেনাপতি হিসেবে যায়েদ ইসলামের পতাকা হাতে বীরদর্পে ঝাঁপিয়ে পড়েন, অবশেষে শত্রুর অগণিত বর্শার আঘাতে তিনি বীরোচিত শাহাদাত বরণ করেন।",
+        "words": [
+          {
+            "en": "Battle of Mu'tah",
+            "bn": "মুতার ঐতিহাসিক যুদ্ধ"
+          },
+          {
+            "en": "first supreme commander",
+            "bn": "প্রথম প্রধান সেনাপতি"
+          },
+          {
+            "en": "standard of Islam",
+            "bn": "ইসলামের পবিত্র পতাকা"
+          },
+          {
+            "en": "charged heroically",
+            "bn": "বীরদর্পে আক্রমণ করলেন"
+          },
+          {
+            "en": "pierced by countless spears",
+            "bn": "অসংখ্য বর্শার আঘাতে ক্ষতবিক্ষত"
+          }
+        ]
+      },
+      {
+        "en": "When news of his death reached Madinah, Prophet Muhammad wept openly, declaring Zayd to be 'the beloved of the Messenger of Allah' (Hibb Rasulillah), honoring his memory forever.",
+        "bn": "তাঁর শাহাদাতের খবর মদিনায় পৌঁছালে মহানবী (সা.) অঝোরে কাঁদলেন এবং যায়েদকে 'হাবীবুর রাসূল' (আল্লাহর রাসূলের প্রিয়তম বন্ধু) বলে ঘোষণা করে চিরতরে তাঁর স্মৃতিকে মহিমান্বিত করলেন।",
+        "words": [
+          {
+            "en": "news of death reached",
+            "bn": "মৃত্যুর সংবাদ পৌঁছাল"
+          },
+          {
+            "en": "wept openly",
+            "bn": "জনসম্মুখে অঝোরে কাঁদলেন"
+          },
+          {
+            "en": "beloved of the Messenger (Hibb)",
+            "bn": "হাবীবুর রাসূল (রাসূলের পরম প্রিয়)"
+          },
+          {
+            "en": "honoring memory forever",
+            "bn": "তাঁর স্মৃতিকে চিরকাল সম্মানিত রাখা"
+          },
+          {
+            "en": "glorious martyr",
+            "bn": "মহিমান্বিত শহীদ"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "companion-usama-zayd",
+    "title": "Usama ibn Zayd: The Young Commander of the Prophet's Army",
+    "titleBn": "উসামা ইবনে যায়েদ (রা.): মাত্র আঠারো বছর বয়সে মহানবীর সেনাপতি",
+    "author": "Ibn Kathir, Sahih al-Bukhari & Siyar A'lam an-Nubala",
+    "level": "Intermediate",
+    "levelColor": "emerald",
+    "category": "Noble Companions",
+    "coverEmoji": "⚔️",
+    "summary": "The son of Zayd and Umm Ayman, Usama was known as 'the beloved son of the beloved' whom the Prophet sat on one knee while sitting Hasan on the other; at just eighteen years old, Prophet Muhammad appointed Usama supreme general over an army containing Abu Bakr and Umar to avenge Mu'tah.",
+    "summaryBn": "যায়েদ এবং উম্মে আয়মানের সন্তান উসামা (রা.) ছিলেন 'প্রিয়তমের প্রিয়তম সন্তান'; মহানবী এক হাঁটুতে হাসানকে এবং অন্য হাঁটুতে উসামাকে বসিয়ে আদর করতেন; মুতার বদলা নিতে মাত্র আঠারো বছর বয়সে মহানবী আবু বকর ও উমরের মতো প্রবীণ সাহাবীদের সমন্বয়ে গঠিত বিশাল বাহিনীর প্রধান সেনাপতি হিসেবে উসামাকে নিযুক্ত করেন।",
+    "sentences": [
+      {
+        "en": "Born in the blessed sanctuary of Madinah to Zayd ibn Harithah and Umm Ayman (the Prophet's beloved childhood nurse), young Usama grew up wrapped in the Prophet's personal affection.",
+        "bn": "যায়েদ ইবনে হারেসা এবং মহানবীর মমতাময়ী বাল্যসেবিকা উম্মে আয়মানের ঘরে মদিনায় জন্ম নেওয়া উসামা শৈশব থেকেই মহানবী (সা.)-এর গভীর ব্যক্তিগত স্নেহে লালিত-পালিত হন।",
+        "words": [
+          {
+            "en": "blessed sanctuary",
+            "bn": "পবিত্র বরকতময় নগরী"
+          },
+          {
+            "en": "childhood nurse (Umm Ayman)",
+            "bn": "শৈশবের মমতাময়ী সেবিকা উম্মে আয়মান"
+          },
+          {
+            "en": "wrapped in affection",
+            "bn": "স্নেহের চাদরে আবৃত"
+          },
+          {
+            "en": "personal affection",
+            "bn": "ব্যক্তিগত অপার্থিব মমতা"
+          },
+          {
+            "en": "beloved youth",
+            "bn": "স্নেহভাজন তরুণ"
+          }
+        ]
+      },
+      {
+        "en": "Prophet Muhammad loved him so intensely that he would sit Usama upon one thigh and Al-Hasan upon the other, praying: 'O Allah, love them, for I truly love them both.'",
+        "bn": "মহানবী (সা.) উসামাকে এত বেশি ভালোবাসতেন যে তিনি এক কোলে উসামাকে এবং অন্য কোলে নাতি হাসানকে বসিয়ে দোয়া করতেন: 'হে আল্লাহ! আপনি এদের উভয়কে ভালোবাসুন, কারণ আমি এদের দুজনকে অন্তর দিয়ে ভালোবাসি।'",
+        "words": [
+          {
+            "en": "loved him intensely",
+            "bn": "গভীর ও তীব্র ভালোবাসা পোষণ করতেন"
+          },
+          {
+            "en": "sit upon thighs",
+            "bn": "উভয় হাঁটু বা কোলে বসানো"
+          },
+          {
+            "en": "Al-Hasan and Usama",
+            "bn": "হাসান এবং উসামা (রা.)"
+          },
+          {
+            "en": "love them for I love them",
+            "bn": "তাদের ভালোবাসুন কারণ আমি তাদের ভালোবাসি"
+          },
+          {
+            "en": "tender care",
+            "bn": "স্নেহময় প্রতিপালন"
+          }
+        ]
+      },
+      {
+        "en": "Because of his deep stature in the Prophet's heart, the companions affectionately referred to him as Hibb ibn al-Hibb (the Beloved Son of the Beloved).",
+        "bn": "মহানবীর অন্তরে তাঁর সুউচ্চ অবস্থানের কারণে সাহাবায়ে কেরাম পরম ভালোবাসায় উসামাকে 'হিব্বু ইবনিল হিব্ব' (নবীজির প্রিয়তমের প্রিয়তম সন্তান) বলে ডাকতেন।",
+        "words": [
+          {
+            "en": "stature in heart",
+            "bn": "হৃদয়ে সুউচ্চ অবস্থান"
+          },
+          {
+            "en": "affectionately referred",
+            "bn": "স্নেহভরে সম্বোধন করতেন"
+          },
+          {
+            "en": "Hibb ibn al-Hibb",
+            "bn": "হিব্বু ইবনিল হিব্ব (প্রিয়তমের প্রিয়তম সন্তান)"
+          },
+          {
+            "en": "honorific title",
+            "bn": "মর্যাদাপূর্ণ উপাধি"
+          },
+          {
+            "en": "companions",
+            "bn": "সাহাবীবৃন্দ"
+          }
+        ]
+      },
+      {
+        "en": "At just eighteen years of age, during the Prophet's final illness, Muhammad appointed Usama as the supreme commander of a vast expeditionary force tasked with confronting the Byzantine empire on the northern frontier.",
+        "bn": "নবীজি (সা.)-এর জীবনের শেষ অসুস্থতার সময় মাত্র আঠারো বছর বয়সে মহানবী উসামাকে উত্তর সীমান্তে রোমান সাম্রাজ্যের বিরুদ্ধে পরিচালিত বিশাল মুসলিম অভিযানের প্রধান সেনাপতি হিসেবে নিযুক্ত করলেন।",
+        "words": [
+          {
+            "en": "eighteen years of age",
+            "bn": "মাত্র আঠারো বছর বয়সে"
+          },
+          {
+            "en": "supreme commander",
+            "bn": "সর্বাধিনায়ক বা প্রধান সেনাপতি"
+          },
+          {
+            "en": "expeditionary force",
+            "bn": "অভিযাত্রী সৈন্যদল"
+          },
+          {
+            "en": "confronting Byzantine empire",
+            "bn": "রোমান সাম্রাজ্যের মুখোমুখি হওয়া"
+          },
+          {
+            "en": "northern frontier",
+            "bn": "উত্তর সীমান্ত"
+          }
+        ]
+      },
+      {
+        "en": "When some questioned placing a teenager in command over veteran seniors like Abu Bakr, Umar, and Sa'd, the Prophet mounted the pulpit and declared: 'If you criticize his leadership, you previously criticized the leadership of his father; by Allah, he is fully worthy of leadership!'",
+        "bn": "আবু বকর, উমর ও সা'দের মতো বর্ষীয়ান সাহাবীদের ওপরে একজন তরুণকে কমান্ডার বানানো নিয়ে কেউ কেউ দ্বিধাদ্বন্দ্ব প্রকাশ করলে নবীজি মিম্বরে দাঁড়িয়ে ঘোষণা করলেন: 'আজ তোমরা তার নেতৃত্বের সমালোচনা করছ যেমন ইতিপূর্বে তার পিতার নেতৃত্বের সমালোচনা করেছিলে; আল্লাহর কসম, উসামা এই সেনাপতিত্বের পুরোপুরি যোগ্য!'",
+        "words": [
+          {
+            "en": "veteran seniors",
+            "bn": "অভিজ্ঞ ও বর্ষীয়ান প্রবীণ সাহাবী"
+          },
+          {
+            "en": "mounted the pulpit",
+            "bn": "মিম্বরে আরোহণ করলেন"
+          },
+          {
+            "en": "criticize his leadership",
+            "bn": "তার নেতৃত্বের সমালোচনা করা"
+          },
+          {
+            "en": "worthy of leadership",
+            "bn": "নেতৃত্বের সম্পূর্ণ উপযুক্ত ও যোগ্য"
+          },
+          {
+            "en": "resolute defense",
+            "bn": "দৃঢ় সমর্থন ও অবস্থান"
+          }
+        ]
+      },
+      {
+        "en": "Following the Prophet's demise, Caliph Abu Bakr refused all advice to postpone or reassign the expedition, insisting: 'By Allah, I will not untie a banner tied by the Messenger of Allah!'",
+        "bn": "মহানবীর ওফাতের পর খলিফা আবু বকর অভিযান স্থগিত বা সেনাপতি পরিবর্তনের সমস্ত প্রস্তাব নাকচ করে দৃঢ়তার সাথে বললেন: 'আল্লাহর কসম! আল্লাহর রাসূল যে পতাকা নিজে বেঁধে দিয়েছেন, আবু বকর কখনো তা খুলবে না!'",
+        "words": [
+          {
+            "en": "following demise",
+            "bn": "ওফাতের পরবর্তী সময়ে"
+          },
+          {
+            "en": "refused advice to postpone",
+            "bn": "স্থগিত করার প্রস্তাব প্রত্যাখ্যান করলেন"
+          },
+          {
+            "en": "reassign expedition",
+            "bn": "সেনাপতি পরিবর্তন করা"
+          },
+          {
+            "en": "untie a banner",
+            "bn": "পতাকা খোলা বা স্থগিত করা"
+          },
+          {
+            "en": "tied by Messenger",
+            "bn": "রাসূল কর্তৃক বাঁধা পতাকা"
+          }
+        ]
+      },
+      {
+        "en": "In a magnificent display of humility, Caliph Abu Bakr walked barefoot holding the reins of the mount while young general Usama rode, leading the army to an astonishing victory that secured Arabia's northern borders.",
+        "bn": "বিনয়ের এক অনন্য দৃষ্টান্ত স্থাপন করে খলিফা আবু বকর নিজে খালি পায়ে হেঁটে ঘোড়ার লাগাম ধরে পথ চললেন আর তরুণ জেনারেল উসামা ঘোড়ায় চড়ে এগিয়ে গেলেন; এই বাহিনী এক অভূতপূর্ব বিজয় অর্জন করে আরবের উত্তর সীমান্ত চিরতরে নিরাপদ করে।",
+        "words": [
+          {
+            "en": "magnificent display of humility",
+            "bn": "বিনয়ের এক অনুপম ঐতিহাসিক দৃষ্টান্ত"
+          },
+          {
+            "en": "walked barefoot",
+            "bn": "খালি পায়ে হেঁটে চললেন"
+          },
+          {
+            "en": "holding reins of mount",
+            "bn": "ঘোড়ার লাগাম ধরে"
+          },
+          {
+            "en": "young general rode",
+            "bn": "তরুণ জেনারেল সওয়ার হলেন"
+          },
+          {
+            "en": "astonishing victory",
+            "bn": "বিস্ময়কর ও বিশাল বিজয়"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "companion-ibn-umar-sunnah",
+    "title": "Abdullah ibn Umar: The Paragon of Prophetic Sunnah and Detachment",
+    "titleBn": "আব্দুল্লাহ ইবনে উমর (রা.): সুন্নাহর পরম অনুসারী ও নির্লোভ সংসারত্যাগী",
+    "author": "Ibn Kathir, Sahih al-Bukhari & Siyar A'lam an-Nubala",
+    "level": "Intermediate",
+    "levelColor": "emerald",
+    "category": "Noble Companions",
+    "coverEmoji": "👣",
+    "summary": "The noble son of Caliph Umar, Abdullah was unmatched in his meticulous imitation of every single movement and sunnah of Prophet Muhammad; turning down the caliphate repeatedly to avoid civil bloodshed, he spent sixty years teaching hadith and liberating over one thousand slaves.",
+    "summaryBn": "খলিফা উমরের সুযোগ্য সন্তান আব্দুল্লাহ (রা.) মহানবীর প্রতিটি কাজ ও সুন্নাত হুবহু অনুসরণে মুসলিম ইতিহাসে অদ্বিতীয় ছিলেন; গৃহযুদ্ধ ও রক্তপাত এড়াতে তিনি বারবার খেলাফতের প্রস্তাব ফিরিয়ে দেন, টানা ষাট বছর পবিত্র হাদিসের পাঠদান করেন এবং নিজের অর্থে এক হাজারেরও বেশি দাসকে মুক্ত করেন।",
+    "sentences": [
+      {
+        "en": "Abdullah ibn Umar accepted Islam in his childhood in Makkah alongside his illustrious father Umar ibn al-Khattab, making the migration to Madinah while still a youth.",
+        "bn": "আব্দুল্লাহ ইবনে উমর শৈশবেই মক্কায় তাঁর মহান পিতা উমর ইবনুল খাত্তাবের সাথে ইসলাম গ্রহণ করেন এবং তরুণ বয়সে মদিনায় হিজরত করেন।",
+        "words": [
+          {
+            "en": "accepted in childhood",
+            "bn": "শৈশবে ইসলাম গ্রহণ করলেন"
+          },
+          {
+            "en": "illustrious father",
+            "bn": "মর্যাদাবান ও মহান পিতা"
+          },
+          {
+            "en": "migration to Madinah",
+            "bn": "মদিনায় হিজরত"
+          },
+          {
+            "en": "youth",
+            "bn": "তরুণ বয়সে"
+          },
+          {
+            "en": "devotion",
+            "bn": "নিষ্ঠা ও ত্যাগ"
+          }
+        ]
+      },
+      {
+        "en": "Too young to fight at Badr and Uhud, he participated with distinction at Khandaq and every subsequent battle, developing an intense, unmatched love for the person of Prophet Muhammad.",
+        "bn": "বয়স কম হওয়ায় বদর ও ওহুদের যুদ্ধে অংশগ্রহণের অনুমতি না পেলেও তিনি খন্দক এবং পরবর্তী প্রতিটি যুদ্ধে বীরত্বের সাথে অংশ নেন এবং মহানবীর প্রতি এক অতুলনীয় প্রেমের বিকাশ ঘটান।",
+        "words": [
+          {
+            "en": "too young to fight",
+            "bn": "যুদ্ধে অংশগ্রহণে অপ্রাপ্তবয়স্ক"
+          },
+          {
+            "en": "participated at Khandaq",
+            "bn": "খন্দকের যুদ্ধে অংশ নিলেন"
+          },
+          {
+            "en": "subsequent battles",
+            "bn": "পরবর্তী যুদ্ধসমূহ"
+          },
+          {
+            "en": "unmatched love",
+            "bn": "অতুলনীয় ও অকৃত্রিম ভালোবাসা"
+          },
+          {
+            "en": "person of Prophet",
+            "bn": "নবীজির পবিত্র সত্তা"
+          }
+        ]
+      },
+      {
+        "en": "He became famous throughout Islamic history for his meticulous adherence to the prophetic Sunnah, intentionally praying at the exact desert spots where the Prophet prayed and resting under the same trees where Muhammad rested.",
+        "bn": "নবীজির প্রতিটি সুন্নাত নিখুঁতভাবে পালনের জন্য তিনি ইতিহাসে বিখ্যাত হয়ে আছেন; মরুভূমির ঠিক যে যে স্থানে নবীজি নামাজ পড়েছিলেন তিনি সেখানে গিয়ে নামাজ পড়তেন এবং নবীজি যেসব গাছের নিচে বিশ্রাম নিয়েছিলেন ঠিক সেখানেই বিশ্রাম নিতেন।",
+        "words": [
+          {
+            "en": "meticulous adherence",
+            "bn": "সূক্ষ্ম ও নিখুঁত অনুসরণ"
+          },
+          {
+            "en": "prophetic Sunnah",
+            "bn": "নবীজি (সা.)-এর সুন্নাহ"
+          },
+          {
+            "en": "exact desert spots",
+            "bn": "মরুভূমির হুবহু সেই স্থানসমূহ"
+          },
+          {
+            "en": "rested under same trees",
+            "bn": "ঠিক সেই একই গাছের নিচে বিশ্রাম নেওয়া"
+          },
+          {
+            "en": "famous throughout history",
+            "bn": "ইতিহাসজুড়ে সুপরিচিত"
+          }
+        ]
+      },
+      {
+        "en": "Aisha observed his extraordinary devotion, remarking: 'No one followed the footsteps of the Prophet in his places of descent as scrupulously as Ibn Umar did.'",
+        "bn": "আয়েশা (রা.) তাঁর এই গভীর ভালোবাসা দেখে মন্তব্য করেছিলেন: 'নবীজি যেখানে যেখানে অবতরণ করেছিলেন তাঁর সেই পদচিহ্ন হুবহু অনুসরণে ইবনে উমরের মতো নিষ্ঠাবান আর কেউ ছিল না।'",
+        "words": [
+          {
+            "en": "followed footsteps",
+            "bn": "পদচিহ্ন অনুসরণ করত"
+          },
+          {
+            "en": "places of descent",
+            "bn": "অবতরণ বা যাত্রাবিরতির স্থানসমূহ"
+          },
+          {
+            "en": "scrupulously",
+            "bn": "অত্যন্ত সূক্ষ্মভাবে ও সতর্কতার সাথে"
+          },
+          {
+            "en": "Aisha observed",
+            "bn": "আয়েশা (রা.) প্রত্যক্ষ করলেন"
+          },
+          {
+            "en": "extraordinary devotion",
+            "bn": "অসাধারণ নিষ্ঠা ও ভালোবাসা"
+          }
+        ]
+      },
+      {
+        "en": "Throughout decades of painful political discord and civil strife, Ibn Umar maintained strict neutrality, adamantly refusing repeated offers of the caliphate to prevent shedding even a single drop of Muslim blood.",
+        "bn": "কয়েক দশকের রাজনৈতিক সংঘাত ও গৃহযুদ্ধের সময় ইবনে উমর সম্পূর্ণ নিরপেক্ষতা বজায় রেখেছিলেন; একজন মুসলমানের রক্তপাত যেন না হয় সেজন্য তিনি খেলাফতের লোভনীয় প্রস্তাব বারবার দৃঢ়ভাবে প্রত্যাখ্যান করেন।",
+        "words": [
+          {
+            "en": "political discord",
+            "bn": "রাজনৈতিক মতবিরোধ ও ফিতনা"
+          },
+          {
+            "en": "civil strife",
+            "bn": "গৃহযুদ্ধ ও সংঘাত"
+          },
+          {
+            "en": "strict neutrality",
+            "bn": "কঠোর ও নিরপেক্ষ অবস্থান"
+          },
+          {
+            "en": "refusing offers of caliphate",
+            "bn": "খেলাফতের প্রস্তাব প্রত্যাখ্যান করা"
+          },
+          {
+            "en": "shedding a single drop of blood",
+            "bn": "এক ফোঁটা রক্তপাত ঘটানো"
+          }
+        ]
+      },
+      {
+        "en": "His generosity was legendary: whenever he noticed one of his slaves displaying sincere piety and prayer, he would set them free immediately; his friends remarked that his slaves purposely prayed well to gain their liberty.",
+        "bn": "তাঁর দানশীলতা ছিল প্রবাদতুল্য: তাঁর কোনো দাসকে আন্তরিকভাবে সালাত আদায় করতে দেখলেই তিনি তাকে তৎক্ষণাৎ মুক্ত করে দিতেন; তাঁর বন্ধুরা বলতেন তাঁর দাসেরা মুক্তির আশায় ইচ্ছা করেই সুন্দর করে সালাত পড়ত।",
+        "words": [
+          {
+            "en": "legendary generosity",
+            "bn": "কিংবদন্তিতুল্য দানশীলতা"
+          },
+          {
+            "en": "displaying sincere piety",
+            "bn": "খাঁটি তাকওয়া ও দ্বীনদারী প্রদর্শন করা"
+          },
+          {
+            "en": "set them free immediately",
+            "bn": "মুহূর্তেই তাদের মুক্ত করে দিতেন"
+          },
+          {
+            "en": "purposely prayed well",
+            "bn": "মুক্তির আশায় সুন্দর করে নামাজ পড়া"
+          },
+          {
+            "en": "gain liberty",
+            "bn": "স্বাধীনতা অর্জন করা"
+          }
+        ]
+      },
+      {
+        "en": "Over his lifetime, he liberated more than one thousand enslaved souls, narrated over 2,630 authentic hadiths, and died in Makkah at eighty-four as the revered moral compass of the Muslim world.",
+        "bn": "জীবদ্দশায় তিনি এক হাজারেরও বেশি দাসকে দাসত্ব থেকে মুক্তি দেন, ২,৬৩০টিরও বেশি সহীহ হাদিস বর্ণনা করেন এবং চুরাশি বছর বয়সে মক্কায় মুসলিম বিশ্বের এক পরম নির্ভরযোগ্য নৈতিক বাতিঘর হিসেবে ইন্তেকাল করেন।",
+        "words": [
+          {
+            "en": "liberated thousand slaves",
+            "bn": "এক হাজারেরও বেশি দাসকে মুক্তি দিলেন"
+          },
+          {
+            "en": "2,630 authentic hadiths",
+            "bn": "২,৬৩০টির বেশি সহীহ হাদিস"
+          },
+          {
+            "en": "died at eighty-four",
+            "bn": "চুরাশি বছর বয়সে ইন্তেকাল করলেন"
+          },
+          {
+            "en": "moral compass",
+            "bn": "নৈতিক বাতিঘর বা দিকনির্দেশক"
+          },
+          {
+            "en": "revered",
+            "bn": "সর্বজনশ্রদ্ধেয়"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "companion-ibn-abbas-ocean",
+    "title": "Abdullah ibn Abbas: The Ocean of Knowledge and Master of Tafsir",
+    "titleBn": "আব্দুল্লাহ ইবনে আব্বাস (রা.): ইলমের অতল সাগর ও রইসুল মুফাসসিরীন",
+    "author": "Ibn Kathir, Sahih al-Bukhari & Siyar A'lam an-Nubala",
+    "level": "Intermediate",
+    "levelColor": "emerald",
+    "category": "Noble Companions",
+    "coverEmoji": "🌊",
+    "summary": "The cousin of Prophet Muhammad, young Ibn Abbas received the blessed prophetic supplication: 'O Allah, grant him deep comprehension of the religion and teach him interpretation'; recognized as Habr al-Ummah (the Scholar of the Nation), he sat in the advisory council of Umar among veterans of Badr and founded Quranic exegesis.",
+    "summaryBn": "মহানবীর চাচাতো ভাই কিশোর ইবনে আব্বাস (রা.)-এর বুকে হাত রেখে নবীজি দোয়া করেছিলেন: 'হে আল্লাহ! তাকে দ্বীনের গভীর প্রজ্ঞা দান করুন এবং কোরআনের তাফসির শিক্ষা দিন'; 'ইলমের সাগর' ও 'উম্মতের মহাজ্ঞানী' উপাধিতে ভূষিত এই সাহাবী বদরী সাহাবীদের সাথে খলিফা উমরের মজলিসে শূরার সদস্য ছিলেন এবং তাফসির শাস্ত্রের জনক হিসেবে সমাদৃত।",
+    "sentences": [
+      {
+        "en": "Abdullah ibn Abbas was born in Makkah during the harrowing years of the boycott in the ravine of Abu Talib, just three years before the historic Hijrah to Madinah.",
+        "bn": "ঐতিহাসিক হিজরতের মাত্র তিন বছর পূর্বে শিয়াবে আবু তালিবে কুরাইশদের নির্মম বয়কটের সংকটময় দিনগুলোতে মক্কায় আব্দুল্লাহ ইবনে আব্বাসের জন্ম হয়।",
+        "words": [
+          {
+            "en": "boycott in ravine",
+            "bn": "শিয়াবে আবু তালিবে বয়কটের দিনগুলো"
+          },
+          {
+            "en": "three years before Hijrah",
+            "bn": "হিজরতের মাত্র তিন বছর পূর্বে"
+          },
+          {
+            "en": "cousin of Prophet",
+            "bn": "মহানবীর চাচাতো ভাই"
+          },
+          {
+            "en": "early childhood",
+            "bn": "শৈশবকাল"
+          },
+          {
+            "en": "noble birth",
+            "bn": "সম্ভ্রান্ত জন্ম"
+          }
+        ]
+      },
+      {
+        "en": "Once, when young Abdullah prepared ablution water for the Prophet before being asked, Muhammad embraced him warmly and made the immortal supplication: 'O Allah, grant him deep understanding of the religion, and teach him the interpretation of the Scripture.'",
+        "bn": "একবার না চাইতেই কিশোর আব্দুল্লাহ নবীজির ওযুর পানি প্রস্তুত করে রাখলে মহানবী পরম স্নেহে তাঁকে বুকে জড়িয়ে ধরে সেই অমর দোয়া করেছিলেন: 'হে আল্লাহ! তাকে দ্বীনের গভীর প্রজ্ঞা দান করুন এবং কিতাবের তাফসির ও ব্যাখ্যা শিক্ষা দিন।'",
+        "words": [
+          {
+            "en": "prepared ablution water",
+            "bn": "ওযুর পানি প্রস্তুত করে রাখলেন"
+          },
+          {
+            "en": "embraced warmly",
+            "bn": "স্নেহভরে বুকে জড়িয়ে ধরলেন"
+          },
+          {
+            "en": "deep understanding of religion",
+            "bn": "দ্বীনের গভীর পাণ্ডিত্য ও প্রজ্ঞা (ফিকহ)"
+          },
+          {
+            "en": "teach him interpretation (Ta'wil)",
+            "bn": "কোরআনের তাফসির ও ব্যাখ্যা শিক্ষা দিন"
+          },
+          {
+            "en": "immortal supplication",
+            "bn": "অমর ও বরকতময় মোনাজাত"
+          }
+        ]
+      },
+      {
+        "en": "Following the Prophet's passing when Ibn Abbas was only thirteen, he tirelessly traversed Madinah, knocking on the doors of elder companions to record every single hadith, often sleeping on their doorsteps in the wind.",
+        "bn": "মহানবীর ওফাতের সময় মাত্র তেরো বছর বয়সী ইবনে আব্বাস ইলম অর্জনের জন্য মদিনার অলিতে-গলিতে ঘুরে প্রবীণ সাহাবীদের দরজায় কড়া নাড়তেন; প্রায়ই তাদের ঘরের দরজায় ধুলোবালির মাঝে চাদর বিছিয়ে ঘুমিয়ে অপেক্ষা করতেন।",
+        "words": [
+          {
+            "en": "only thirteen years old",
+            "bn": "মাত্র তেরো বছর বয়সে"
+          },
+          {
+            "en": "tirelessly traversed city",
+            "bn": "ক্লান্তিহীনভাবে শহরে ঘুরে বেড়ালেন"
+          },
+          {
+            "en": "knocking on doors of elders",
+            "bn": "প্রবীণ সাহাবীদের দরজায় কড়া নাড়া"
+          },
+          {
+            "en": "sleeping on doorsteps",
+            "bn": "দরজার সামনে অপেক্ষা ও ঘুমানো"
+          },
+          {
+            "en": "quest for knowledge",
+            "bn": "জ্ঞানের পিপাসা ও অন্বেষণ"
+          }
+        ]
+      },
+      {
+        "en": "Caliph Umar held him in such immense intellectual esteem that he invited the youthful Ibn Abbas to sit alongside the venerable senior veterans of Badr in the supreme consultative assembly.",
+        "bn": "খলিফা উমর তাঁর জ্ঞানের প্রতি এতটাই শ্রদ্ধাশীল ছিলেন যে তিনি বদরের প্রবীণ ও সম্মানিত যোদ্ধাদের সাথে সর্বোচ্চ মজলিসে শূরার বৈঠকে তরুণ ইবনে আব্বাসকে নিজের পাশে আসন দিতেন।",
+        "words": [
+          {
+            "en": "intellectual esteem",
+            "bn": "বুদ্ধিবৃত্তিক সম্মান ও মর্যাদা"
+          },
+          {
+            "en": "consultative assembly (Shura)",
+            "bn": "পরামর্শক পরিষদ বা মজলিসে শূরা"
+          },
+          {
+            "en": "veterans of Badr",
+            "bn": "বদরের সম্মানিত প্রবীণ সাহাবী"
+          },
+          {
+            "en": "alongside seniors",
+            "bn": "প্রবীণদের পাশাপাশি"
+          },
+          {
+            "en": "invited",
+            "bn": "আমন্ত্রণ জানালেন"
+          }
+        ]
+      },
+      {
+        "en": "When senior elders questioned why a boy was seated with them, Umar tested them with the meaning of Surah An-Nasr; while others answered literally, Ibn Abbas astutely revealed that it signaled the approaching demise of Prophet Muhammad, winning universal acclaim.",
+        "bn": "প্রবীণরা যখন এক কিশোরকে সাথে বসানোর কারণ জানতে চাইলেন, উমর সূরা নাসরের অর্থ জিজ্ঞাসা করলেন; অন্যরা সাধারণ বিজয় বললেও ইবনে আব্বাস সূক্ষ্মভাবে ব্যাখ্যা করলেন যে এটি ছিল মহানবীর ওফাত ঘনিয়ে আসার ঐশী ইঙ্গিত, যা শুনে সবাই তাঁর মেধার স্বীকৃতি দিল।",
+        "words": [
+          {
+            "en": "tested with Surah An-Nasr",
+            "bn": "সূরা নাসরের তাফসির দিয়ে পরীক্ষা করলেন"
+          },
+          {
+            "en": "answered literally",
+            "bn": "আক্ষরিক ও বাহ্যিক উত্তর দিলেন"
+          },
+          {
+            "en": "approaching demise",
+            "bn": "ওফাত বা মৃত্যুর সমাসন্ন আগমন"
+          },
+          {
+            "en": "astutely revealed",
+            "bn": "সূক্ষ্ম মেধা দিয়ে উন্মোচন করলেন"
+          },
+          {
+            "en": "universal acclaim",
+            "bn": "সর্বসম্মত ভূয়সী প্রশংসা"
+          }
+        ]
+      },
+      {
+        "en": "Earning the legendary titles Al-Bahr (the Ocean of Knowledge) and Habr al-Ummah (the Grand Scholar of the Nation), he conducted open-air academic seminars in Makkah, lecturing on Quran, jurisprudence, grammar, and literature to thousands.",
+        "bn": "'আল-বাহর' (জ্ঞানের সাগর) এবং 'হাবরুল উম্মাহ' (উম্মতের মহাজ্ঞানী) উপাধি লাভ করে তিনি মক্কায় বিশাল উন্মুক্ত পাঠশালা পরিচালনা করতেন, যেখানে হাজার হাজার শিক্ষার্থীকে কোরআন, ফিকহ, ব্যাকরণ ও সাহিত্য শিক্ষা দেওয়া হতো।",
+        "words": [
+          {
+            "en": "Al-Bahr (the Ocean)",
+            "bn": "আল-বাহর (জ্ঞানের অতল সাগর)"
+          },
+          {
+            "en": "Habr al-Ummah",
+            "bn": "হাবরুল উম্মাহ (উম্মতের প্রধান পণ্ডিত)"
+          },
+          {
+            "en": "academic seminars",
+            "bn": "উন্মুক্ত শিক্ষা ও ইলমি মজলিস"
+          },
+          {
+            "en": "jurisprudence and grammar",
+            "bn": "আইনশাস্ত্র এবং ব্যাকরণ"
+          },
+          {
+            "en": "thousands of students",
+            "bn": "হাজার হাজার শিক্ষার্থী"
+          }
+        ]
+      },
+      {
+        "en": "Passing away in the mountain city of Taif at the age of seventy-one, a white bird was seen miraculously descending into his shroud, while an invisible voice recited: 'O reassured soul, return to your Lord, well-pleased and pleasing.'",
+        "bn": "একাত্তর বছর বয়সে তায়েফের পাহাড়ি শহরে তাঁর ওফাত হলে অলৌকিকভাবে একটি সাদা পাখি এসে তাঁর কাফনের কাপড়ে প্রবেশ করে, এবং এক অদৃশ্য কণ্ঠ থেকে সূরা ফজরের আয়াত ভেসে আসে: 'হে প্রশান্ত আত্মা! তোমার রবের দিকে ফিরে আসো সন্তুষ্ট ও সন্তোষভাজন হয়ে।'",
+        "words": [
+          {
+            "en": "passed away in Taif",
+            "bn": "তায়েফে ইন্তেকাল করলেন"
+          },
+          {
+            "en": "miraculous white bird",
+            "bn": "অলৌকিক সাদা পাখি"
+          },
+          {
+            "en": "descended into shroud",
+            "bn": "কাফনের কাপড়ে প্রবেশ করল"
+          },
+          {
+            "en": "invisible voice recited",
+            "bn": "অদৃশ্য কণ্ঠ থেকে তেলাওয়াত ভেসে এল"
+          },
+          {
+            "en": "reassured soul",
+            "bn": "হে প্রশান্ত আত্মা (নাফসে মুতমায়িন্না)"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "companion-abdur-rahman-awf",
+    "title": "Abdur Rahman bin Awf: The Righteous Merchant and Prince of Charity",
+    "titleBn": "আব্দুর রহমান বিন আউফ (রা.): শ্রেষ্ঠ ব্যবসায়ী ও দানশীলতার শীর্ষ পুরুষ",
+    "author": "Ibn Kathir, Al-Bidayah wan-Nihayah & Siyar A'lam an-Nubala",
+    "level": "Intermediate",
+    "levelColor": "emerald",
+    "category": "Noble Companions",
+    "coverEmoji": "🪙",
+    "summary": "One of the earliest converts and a member of the ten promised Paradise, Abdur Rahman arrived in Madinah penniless after migrating; rejecting free gifts and requesting only: 'Show me the way to the marketplace,' he became the wealthiest merchant in Arabia, donating seven hundred fully laden camels in a single day.",
+    "summaryBn": "প্রথম যুগে ইসলাম গ্রহণকারী আশারায়ে মুবাশশারার অন্তর্ভুক্ত আব্দুর রহমান (রা.) হিজরতের পর সম্পূর্ণ কপর্দকহীন অবস্থায় মদিনায় পৌঁছান; সাহায্য ফিরিয়ে দিয়ে তিনি কেবল বলেছিলেন: 'আমাকে বাজারের পথ দেখিয়ে দাও'; সততার সাথে বাণিজ্য করে তিনি আরবের শ্রেষ্ঠ ধনী হন এবং একদিনেই সাতশত মালবোঝাই উট আল্লাহর রাস্তায় দান করে দেন।",
+    "sentences": [
+      {
+        "en": "Abdur Rahman bin Awf embraced Islam at the very dawn of the prophetic mission through Abu Bakr As-Siddiq, enduring persecution in Makkah and participating in both migrations to Abyssinia.",
+        "bn": "আবু বকর আস-সিদ্দিকের আহবানে নবুয়তের সূচনাতেই ইসলাম গ্রহণকারী আব্দুর রহমান বিন আউফ মক্কার অত্যাচার সহ্য করেন এবং হাবশায় দুইবার হিজরত করেন।",
+        "words": [
+          {
+            "en": "very dawn of mission",
+            "bn": "নবুয়তের প্রথম সূচনাতেই"
+          },
+          {
+            "en": "enduring persecution",
+            "bn": "নিপীড়ন ও নির্যাতন সহ্য করে"
+          },
+          {
+            "en": "migrations to Abyssinia",
+            "bn": "হাবশায় ঐতিহাসিক হিজরতসমূহ"
+          },
+          {
+            "en": "early believer",
+            "bn": "প্রথম যুগের বিশ্বাসী"
+          },
+          {
+            "en": "steadfast",
+            "bn": "সুদৃঢ় ও অটল"
+          }
+        ]
+      },
+      {
+        "en": "When he migrated to Madinah entirely penniless having left his entire fortune behind in Makkah, the Prophet paired him in brotherhood with Sa'd ibn al-Rabi, the wealthiest helper in Madinah.",
+        "bn": "মক্কায় সমস্ত ধনসম্পদ ফেলে সম্পূর্ণ রিক্তহস্তে মদিনায় হিজরত করার পর মহানবী (সা.) মদিনার শীর্ষ ধনী আনসার সা'দ ইবনে রাবির সাথে তাঁর ভ্রাতৃত্ব বন্ধন তৈরি করে দেন।",
+        "words": [
+          {
+            "en": "entirely penniless",
+            "bn": "সম্পূর্ণ নিঃস্ব ও কপর্দকহীন"
+          },
+          {
+            "en": "paired in brotherhood",
+            "bn": "ভ্রাতৃত্বের বন্ধনে আবদ্ধ করলেন (মুয়াখাত)"
+          },
+          {
+            "en": "wealthiest helper",
+            "bn": "সবচেয়ে ধনী আনসার সাহাবী"
+          },
+          {
+            "en": "left fortune behind",
+            "bn": "সমস্ত সম্পদ ফেলে এলেন"
+          },
+          {
+            "en": "generous offer",
+            "bn": "উদার প্রস্তাব"
+          }
+        ]
+      },
+      {
+        "en": "Sa'd generously offered to split his orchards, property, and wealth in half, but Abdur Rahman politely declined, uttering his famous maxim of entrepreneurial dignity: 'May Allah bless you in your family and wealth; simply show me the way to the marketplace.'",
+        "bn": "সা'দ পরম উদারতায় নিজের অর্ধেক সম্পদ ও বাগান তাঁকে দেওয়ার প্রস্তাব দিলে আব্দুর রহমান আত্মসম্মানবোধের পরিচয় দিয়ে বিখ্যাত উক্তি করলেন: 'আল্লাহ আপনার পরিবার ও সম্পদে বরকত দিন; আমাকে শুধু বাজারের রাস্তাটা দেখিয়ে দিন।'",
+        "words": [
+          {
+            "en": "split wealth in half",
+            "bn": "সম্পদ দুই ভাগে ভাগ করে দেওয়া"
+          },
+          {
+            "en": "politely declined",
+            "bn": "বিনম্রভাবে ফিরিয়ে দিলেন"
+          },
+          {
+            "en": "entrepreneurial dignity",
+            "bn": "ব্যবসায়িক আত্মমর্যাদা ও আত্মনির্ভরশীলতা"
+          },
+          {
+            "en": "show me the marketplace",
+            "bn": "আমাকে বাজারের পথ দেখিয়ে দাও"
+          },
+          {
+            "en": "bless in wealth",
+            "bn": "সম্পদে বরকত দান করুন"
+          }
+        ]
+      },
+      {
+        "en": "Beginning with modest transactions selling dried yogurt and clarified butter, his integrity and sharp commercial acumen propelled him to become one of the wealthiest entrepreneurs of Arabia.",
+        "bn": "শুকনো পনির ও ঘি বিক্রির মাধ্যমে নামমাত্র মূলধনে ব্যবসা শুরু করে নিজের সততা ও মেধার জোরে তিনি আরবের অন্যতম শীর্ষ ধনী ব্যবসায়ীতে পরিণত হন।",
+        "words": [
+          {
+            "en": "dried yogurt and butter",
+            "bn": "শুকনো পনির ও খাঁটি ঘি"
+          },
+          {
+            "en": "modest transactions",
+            "bn": "সামান্য পুঁজির লেনদেন"
+          },
+          {
+            "en": "commercial acumen",
+            "bn": "ব্যবসায়িক মেধা ও প্রজ্ঞা"
+          },
+          {
+            "en": "wealthiest entrepreneurs",
+            "bn": "শীর্ষ ধনী সফল উদ্যোক্তা"
+          },
+          {
+            "en": "integrity",
+            "bn": "ব্যবসায়িক সততা"
+          }
+        ]
+      },
+      {
+        "en": "He famously remarked: 'I saw myself in a state where if I picked up a stone, I expected to discover gold or silver beneath it,' acknowledging Allah's boundless barakah upon his ventures.",
+        "bn": "তিনি বলেছিলেন: 'আমার অবস্থা এমন হয়েছিল যে আমি মাটিতে পড়ে থাকা কোনো পাথরে হাত দিলেও মনে হতো তার নিচে সোনা বা রূপা দেখতে পাব', যার মাধ্যমে তিনি তাঁর ব্যবসায় আল্লাহর অসীম বরকতের কথা স্বীকার করেছিলেন।",
+        "words": [
+          {
+            "en": "picked up a stone",
+            "bn": "কোনো পাথর তুলে নেওয়া"
+          },
+          {
+            "en": "gold or silver beneath it",
+            "bn": "তার নিচে সোনা বা রূপা পাওয়া"
+          },
+          {
+            "en": "boundless barakah",
+            "bn": "অসীম বরকত ও প্রাচুর্য"
+          },
+          {
+            "en": "commercial ventures",
+            "bn": "বাণিজ্যিক কার্যক্রম"
+          },
+          {
+            "en": "acknowledged",
+            "bn": "স্বীকার করলেন"
+          }
+        ]
+      },
+      {
+        "en": "Once, a massive earthquake-like rumbling shook Madinah as a colossal caravan of seven hundred camels carrying wheat, flour, and silks arrived from Syria; upon learning it was his, he donated every camel and load as charity for the poor.",
+        "bn": "একবার ভূমিকম্পের মতো শব্দে মদিনার মাটি কেঁপে উঠল যখন সিরিয়া থেকে গম, আটা ও রেশম বোঝাই সাতশত উটের এক বিশাল কাফেলা এসে পৌঁছাল; কাফেলাটি নিজের জানতে পেরে তিনি প্রতিটি উট এবং সমস্ত মালামাল মদিনার গরিবদের মাঝে দান করে দিলেন।",
+        "words": [
+          {
+            "en": "earthquake-like rumbling",
+            "bn": "ভূমিকম্পের মতো প্রচণ্ড গর্জন ও কাঁপন"
+          },
+          {
+            "en": "colossal caravan of 700 camels",
+            "bn": "সাতশত উটের সুবিশাল কাফেলা"
+          },
+          {
+            "en": "carrying wheat and silks",
+            "bn": "গম, আটা ও রেশমি বস্ত্র বোঝাই"
+          },
+          {
+            "en": "donated every camel and load",
+            "bn": "প্রতিটি উট ও মালামাল দান করলেন"
+          },
+          {
+            "en": "charity for the poor",
+            "bn": "দরিদ্রদের কল্যাণে সদকা"
+          }
+        ]
+      },
+      {
+        "en": "Chosen by Umar as one of the six-man council to select the next Caliph, Abdur Rahman voluntarily withdrew his own candidacy, spending sleepless nights interviewing citizens to ensure the smooth election of Uthman.",
+        "bn": "পরবর্তী খলিফা নির্বাচনের জন্য গঠিত ছয় সদস্যের মজলিসে উমর তাঁকে রাখলে তিনি স্বেচ্ছায় নিজের প্রার্থিতা প্রত্যাহার করেন এবং রাত জেগে মানুষের মতামত নিয়ে উসমান (রা.)-এর মসৃণ নির্বাচন নিশ্চিত করেন।",
+        "words": [
+          {
+            "en": "six-man council",
+            "bn": "ছয় সদস্যের নির্বাচনী শূরা"
+          },
+          {
+            "en": "withdrew candidacy",
+            "bn": "নিজের প্রার্থিতা প্রত্যাহার করলেন"
+          },
+          {
+            "en": "sleepless nights",
+            "bn": "ঘুমহীন রাতগুলো"
+          },
+          {
+            "en": "interviewing citizens",
+            "bn": "নাগরিকদের মতামত গ্রহণ"
+          },
+          {
+            "en": "smooth election",
+            "bn": "শান্তিপূর্ণ ও নিরপেক্ষ নির্বাচন"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "companion-said-zayd",
+    "title": "Sa'id ibn Zayd: The Steadfast Pioneer of Early Makkah",
+    "titleBn": "সাঈদ ইবনে যায়েদ (রা.): একত্ববাদের অগ্রদূত ও জান্নাতের সুসংবাদপ্রাপ্ত বীর",
+    "author": "Ibn Kathir, Al-Bidayah wan-Nihayah & Siyar A'lam an-Nubala",
+    "level": "Intermediate",
+    "levelColor": "emerald",
+    "category": "Noble Companions",
+    "coverEmoji": "⚔️",
+    "summary": "Raised by a father who rejected idolatry even before Muhammad's prophethood, Sa'id accepted Islam in early youth and married Fatimah bint al-Khattab, playing an instrumental role in the dramatic conversion of Umar; an indomitable commander at Yarmouk and Damascus, he was among the ten guaranteed Paradise.",
+    "summaryBn": "নবুয়তের পূর্বেই মূর্তিপূজা বর্জনকারী এক হানিফ পিতার ঘরে জন্ম নেওয়া সাঈদ (রা.) প্রথম যৌবনেই ইসলাম গ্রহণ করেন এবং উমরের বোন ফাতেমাকে বিয়ে করে উমর (রা.)-এর ইসলাম গ্রহণে ঐতিহাসিক ভূমিকা রাখেন; পরবর্তীতে ইয়ারমুক ও দামেস্কের যুদ্ধে বীরত্ব প্রদর্শনকারী এই মহান সাহাবী আশারায়ে মুবাশশারার অন্তর্ভুক্ত ছিলেন।",
+    "sentences": [
+      {
+        "en": "Sa'id ibn Zayd was the son of Zayd ibn Amr ibn Nufayl, a famous monotheistic seeker (Hanif) who boldly rejected Arabian idolatry, refused to eat meat slaughtered for idols, and died searching for the true religion of Abraham before Muhammad's commission.",
+        "bn": "সাঈদ ইবনে যায়েদ ছিলেন যায়েদ ইবনে আমর ইবনে নুফাইলের সন্তান—যিনি নবুয়তের পূর্বেই পৌত্তলিকতা বর্জন করে মূর্তির নামে জবাই করা পশুর মাংস খেতেন না এবং ইবরাহিম (আ.)-এর খাঁটি একত্ববাদের সন্ধানে জীবন কাটিয়েছিলেন।",
+        "words": [
+          {
+            "en": "monotheistic seeker (Hanif)",
+            "bn": "হানিফ বা খাঁটি একত্ববাদের সন্ধানী"
+          },
+          {
+            "en": "rejected idolatry",
+            "bn": "মূর্তিপূজা বর্জন করেছিলেন"
+          },
+          {
+            "en": "meat slaughtered for idols",
+            "bn": "দেবদেবীর নামে উৎসর্গিত মাংস"
+          },
+          {
+            "en": "religion of Abraham",
+            "bn": "হযরত ইবরাহিম (আ.)-এর দ্বীন"
+          },
+          {
+            "en": "before commission",
+            "bn": "নবুয়ত প্রকাশের পূর্বে"
+          }
+        ]
+      },
+      {
+        "en": "Inheriting his father's deep spiritual clarity, Sa'id embraced Islam alongside his noble wife Fatimah bint al-Khattab (Umar's sister) in the earliest days of Dar al-Arqam.",
+        "bn": "পিতার আধ্যাত্মিক আলোর উত্তরাধিকার পেয়ে সাঈদ তাঁর পুণ্যবতী স্ত্রী ফাতেমা বিনতে খাত্তাব (উমরের বোন)-কে নিয়ে দারুল আরকামের সূচনালগ্নেই ইসলাম গ্রহণ করেন।",
+        "words": [
+          {
+            "en": "spiritual clarity",
+            "bn": "আধ্যাত্মিক অন্তর্দৃষ্টি ও প্রজ্ঞা"
           },
           {
             "en": "embraced Islam",
             "bn": "ইসলাম গ্রহণ করলেন"
+          },
+          {
+            "en": "Fatimah bint al-Khattab",
+            "bn": "ফাতেমা বিনতে খাত্তাব (উমরের বোন)"
+          },
+          {
+            "en": "earliest days",
+            "bn": "প্রাথমিক যুগ"
+          },
+          {
+            "en": "Dar al-Arqam",
+            "bn": "দারুল আরকাম"
           }
         ]
       },
       {
-        "en": "The Prophet advised him to return quietly to his clan, but Abu Dharr's burning zeal compelled him to shout the Shahadah in the courtyard of the Kaaba.",
-        "bn": "নবীজি তাঁকে সাবধানে নিজ গোত্রে ফিরে যাওয়ার পরামর্শ দিলেন, কিন্তু আবু যরের অন্তরের জ্বলন্ত ঈমান তাঁকে কাবার চত্বরে দাঁড়িয়ে প্রকাশ্যে তাওহীদের স্লোগান তুলতে বাধ্য করল।",
+        "en": "It was in Sa'id's house that Umar ibn al-Khattab confronted them in a violent rage, only for his heart to melt upon reading the opening verses of Surah Ta-Ha handed to him after Sa'id and Fatimah endured his fury.",
+        "bn": "সাঈদের গৃহেই উমর ক্রোধোন্মত্ত হয়ে আক্রমণ করেছিলেন, কিন্তু সাঈদ ও ফাতেমার মার খাওয়ার পরও অবিচলতা দেখে এবং সূরা ত্বা-হার আয়াত পাঠ করে উমরের পাষাণ হৃদয় বিগলিত হয়েছিল।",
         "words": [
           {
-            "en": "The Prophet advised him",
-            "bn": "নবীজি তাঁকে উপদেশ দিলেন"
+            "en": "violent rage",
+            "bn": "ভয়ানক ক্রোধ ও আক্রোশ"
           },
           {
-            "en": "to return quietly",
-            "bn": "নীরবে ফিরে যেতে"
+            "en": "heart melted",
+            "bn": "হৃদয় নরম ও বিগলিত হলো"
           },
           {
-            "en": "shouted the Shahadah",
-            "bn": "শাহাদাত পাঠ করে স্লোগান তুললেন"
+            "en": "opening verses of Surah Ta-Ha",
+            "bn": "সূরা ত্বা-হার প্রারম্ভিক আয়াতসমূহ"
           },
           {
-            "en": "in the courtyard of the Kaaba",
-            "bn": "পবিত্র কাবার চত্বরে"
+            "en": "endured his fury",
+            "bn": "তাঁর ক্রোধ ও আঘাত সহ্য করলেন"
+          },
+          {
+            "en": "instrumental role",
+            "bn": "যুগান্তকারী ভূমিকা"
           }
         ]
       },
       {
-        "en": "The furious pagans beat him unconscious until Al-Abbas rescued him by reminding them that Ghifar controlled their Syrian trade route.",
-        "bn": "ক্ষিপ্ত কাফেররা তাঁকে পিটিয়ে রক্তাক্ত ও সংজ্ঞাহীন করে ফেলল, অবশেষে আব্বাস এসে মনে করিয়ে দিলেন যে এই গিফার গোত্রই মক্কার সিরিয়া বাণিজ্যের পথ নিয়ন্ত্রণ করে।",
+        "en": "At the monumental Battle of Yarmouk, Sa'id commanded the cavalry with unmatched bravery, kneeling on the ground to personally shoot down Roman commanders and launching a decisive charge that routed the imperial army.",
+        "bn": "ঐতিহাসিক ইয়ারমুকের ময়দানে সাঈদ অশ্বারোহী বাহিনীর নেতৃত্ব দিয়েছিলেন; মাটিতে হাঁটু গেড়ে বসে তিনি রোমান কমান্ডারদের লক্ষ্য করে নিখুঁত তীর নিক্ষেপ করেন এবং চূড়ান্ত আক্রমণ চালিয়ে রোমান বাহিনীকে পরাস্ত করেন।",
         "words": [
           {
-            "en": "Pagans beat him unconscious",
-            "bn": "মুশরিকরা তাঁকে পিটিয়ে সংজ্ঞাহীন করল"
+            "en": "Battle of Yarmouk",
+            "bn": "ইয়ারমুকের ঐতিহাসিক মহাযুদ্ধ"
           },
           {
-            "en": "until Al-Abbas rescued him",
-            "bn": "যতক্ষণ না আব্বাস তাঁকে উদ্ধার করলেন"
+            "en": "commanded cavalry",
+            "bn": "অশ্বারোহী সেনাদলের কমান্ড করলেন"
           },
           {
-            "en": "controlled trade route",
-            "bn": "বাণিজ্যিক পথ নিয়ন্ত্রণ করত"
+            "en": "kneeling on ground",
+            "bn": "মাটিতে হাঁটু গেড়ে বসে"
+          },
+          {
+            "en": "shoot down commanders",
+            "bn": "শত্রু সেনাপতিদের তীর মেরে বধ করা"
+          },
+          {
+            "en": "routed imperial army",
+            "bn": "সাম্রাজ্যের বিশাল বাহিনীকে চূর্ণ করলেন"
           }
         ]
       },
       {
-        "en": "Abu Dharr lived as a profound ascetic, warning against hoarding wealth and living in complete detachment from worldly splendor.",
-        "bn": "আবু যর আজীবন এক পরম দরবেশ ও নির্লোভ মানুষের মতো বেঁচে রইলেন এবং সম্পদ পুঞ্জীভূত করার বিরুদ্ধে আজীবন নির্ভীক সত্য উচ্চারণ করলেন।",
+        "en": "Appointed the first Muslim governor of conquered Damascus, he soon resigned the political post, preferring to fight as an ordinary frontline mujahid for the cause of Allah.",
+        "bn": "দামেস্ক বিজয়ের পর তাঁকে প্রথম মুসলিম গভর্নর নিযুক্ত করা হলে তিনি দ্রুত সেই পদ ত্যাগ করেন, কারণ তিনি আল্লাহর রাস্তায় সাধারণ মুজাহিদ হিসেবে লড়াই করাকে বেশি ভালোবাসতেন।",
         "words": [
           {
-            "en": "Abu Dharr lived as an ascetic",
-            "bn": "আবু যর এক দরবেশের মতো বাঁচলেন"
+            "en": "first Muslim governor",
+            "bn": "সর্বপ্রথম মুসলিম গভর্নর"
           },
           {
-            "en": "warning against hoarding wealth",
-            "bn": "সম্পদ পুঞ্জীভূত করার বিরুদ্ধে সতর্ক করে"
+            "en": "conquered Damascus",
+            "bn": "বিজীত দামেস্ক নগরী"
           },
           {
-            "en": "detachment from worldly splendor",
-            "bn": "পার্থিব প্রাচুর্য থেকে অনীহা রেখে"
+            "en": "resigned political post",
+            "bn": "রাজনৈতিক পদ থেকে পদত্যাগ করলেন"
+          },
+          {
+            "en": "ordinary frontline mujahid",
+            "bn": "রণক্ষেত্রের সাধারণ মুজাহিদ হিসেবে"
+          },
+          {
+            "en": "preferred simplicity",
+            "bn": "সাদাসিধে জীবন পছন্দ করলেন"
           }
         ]
       },
       {
-        "en": "The Prophet prophesied regarding him: 'May Allah have mercy on Abu Dharr; he walks alone, dies alone, and will be resurrected alone!'",
-        "bn": "নবীজি তাঁর ব্যাপারে ভবিষ্যদ্বাণী করে বলেছিলেন: 'আল্লাহ আবু যরের ওপর রহম করুন; সে একাকী চলে, একাকী মৃত্যুবরণ করবে এবং কিয়ামতের দিন একাকী পুনরুত্থিত হবে!'",
+        "en": "He lived a life of rigorous asceticism and integrity, counted forever among the elite ten companions explicitly promised Paradise by the Messenger of Allah.",
+        "bn": "তিনি কঠোর অনাড়ম্বর ও তাকওয়াপূর্ণ জীবন অতিবাহিত করেন এবং মহানবী (সা.) কর্তৃক সরাসরি জান্নাতের সুসংবাদপ্রাপ্ত আশারায়ে মুবাশশারার অন্তর্ভুক্ত হয়ে অমর হয়ে আছেন।",
         "words": [
           {
-            "en": "The Prophet prophesied",
-            "bn": "নবীজি ভবিষ্যদ্বাণী করলেন"
+            "en": "rigorous asceticism",
+            "bn": "কঠোর ত্যাগ ও সংযমী জীবন"
           },
           {
-            "en": "May Allah have mercy on Abu Dharr",
-            "bn": "আল্লাহ আবু যরের ওপর রহম করুন"
+            "en": "elite ten companions",
+            "bn": "শীর্ষ দশজন সাহাবী (আশারায়ে মুবাশশারা)"
           },
           {
-            "en": "he walks alone",
-            "bn": "সে একাকী চলে"
+            "en": "promised Paradise",
+            "bn": "জান্নাতের প্রতিশ্রুতিপ্রাপ্ত"
           },
           {
-            "en": "dies alone",
-            "bn": "একাকী মৃত্যুবরণ করে"
+            "en": "integrity",
+            "bn": "সততা ও পবিত্রতা"
           },
           {
-            "en": "resurrected alone",
-            "bn": "একাকী পুনরুত্থিত হবে"
+            "en": "eternal legacy",
+            "bn": "চিরন্তন সম্মান"
           }
         ]
       }
     ]
   },
   {
-    "id": "companion-khadijah-comfort",
-    "title": "Khadijah bint Khuwaylid: The Noble Mother of Believers",
-    "titleBn": "উম্মুল মুমিনীন হযরত খাদিজা (রা.) ও ইসলামের শুরুর দিনগুলো",
-    "author": "Authentic Hadith (Sahih Bukhari) & Seerah",
+    "id": "companion-ubadah-samit",
+    "title": "Ubadah ibn as-Samit: The Fearless Judge and Veteran of Aqabah",
+    "titleBn": "উবাদাহ ইবনে সামিত (রা.): আকাবার শপথকারী ও ন্যায়ের নির্ভীক বিচারক",
+    "author": "Ibn Kathir, Siyar A'lam an-Nubala & Tabari",
     "level": "Intermediate",
-    "levelColor": "rose",
+    "levelColor": "emerald",
     "category": "Noble Companions",
-    "coverEmoji": "🌹",
-    "summary": "The first human being to embrace Islam, Khadijah devoted her vast fortune, unwavering comfort, and maternal love to support Prophet Muhammad ﷺ throughout the hardest years of Makkah.",
-    "summaryBn": "বিশ্বের সর্বপ্রথম ইসলাম গ্রহণকারী মানুষ, মক্কার সংকটময় সময়ে প্রিয় নবীজিকে সান্ত্বনা দান এবং দ্বীনের পথে নিজের সমস্ত ধনভাণ্ডার অকাতরে বিলিয়ে দেওয়া মহীয়সী নারী খাদিজা (রা.)।",
+    "coverEmoji": "⚖️",
+    "summary": "One of the twelve Ansar leaders who pledged allegiance at the First and Second Pledges of Aqabah, Ubadah was a towering warrior and scrupulous judge in Palestine, famous for confronting powerful rulers like Mu'awiyah over interest and public funds without fear.",
+    "summaryBn": "প্রথম ও দ্বিতীয় আকাবার শপথে অংশ নেওয়া বারোজন শীর্ষ আনসার দলপতির একজন উবাদাহ (রা.) ছিলেন যেমন বীর যোদ্ধা তেমনি ফিলিস্তিনের এক আপসহীন ও প্রখ্যাত বিচারক; সুদ ও বায়তুলমালের বিষয়ে মুয়াবিয়ার মতো পরাক্রমশালী শাসকের মুখের ওপর সত্য বলতে তিনি কখনো পিছপা হননি।",
     "sentences": [
       {
-        "en": "Khadijah bint Khuwaylid was the most respected, wealthy, and noble merchant woman of Quraysh, known as At-Tahirah (The Pure One).",
-        "bn": "হযরত খাদিজা বিনতে খুওয়াইলিদ (রা.) ছিলেন কুরাইশদের সর্বাধিক সম্মানিত, ধনী ও অভিজাত নারী, যিনি 'আত-তাহিরাহ' (পরম পবিত্র নারী) উপাধিতে ভূষিত ছিলেন।",
+        "en": "Ubadah ibn as-Samit was a prominent chieftain of the Khazraj tribe in Madinah who played a foundational role in the dawn of Islam, participating in both the First and Second Pledges of Aqabah.",
+        "bn": "উবাদাহ ইবনে সামিত ছিলেন মদিনার খাযরাজ গোত্রের এক প্রভাবশালী নেতা, যিনি প্রথম ও দ্বিতীয় আকাবার উভয় ঐতিহাসিক শপথে অংশ নিয়ে মদিনায় ইসলামের ভিত্তি স্থাপনে অগ্রণী ভূমিকা পালন করেন।",
         "words": [
           {
-            "en": "Khadijah was the most respected",
-            "bn": "খাদিজা ছিলেন সর্বাধিক সম্মানিত"
+            "en": "prominent chieftain",
+            "bn": "প্রভাবশালী গোত্রপ্রধান"
           },
           {
-            "en": "wealthy and noble woman",
-            "bn": "ধনী ও সম্ভ্রান্ত নারী"
+            "en": "Khazraj tribe",
+            "bn": "খাযরাজ গোত্র"
           },
           {
-            "en": "known as At-Tahirah",
-            "bn": "আত-তাহিরাহ নামে পরিচিত"
+            "en": "Pledges of Aqabah",
+            "bn": "আকাবার ঐতিহাসিক শপথসমূহ"
           },
           {
-            "en": "The Pure One",
-            "bn": "পরম পবিত্র নারী"
+            "en": "foundational role",
+            "bn": "মৌলিক ও ভিত্তিমূলক ভূমিকা"
+          },
+          {
+            "en": "dawn of Islam",
+            "bn": "ইসলামের সূচনালগ্ন"
           }
         ]
       },
       {
-        "en": "Recognizing the flawless honesty of Muhammad ﷺ, she entrusted him with her trade caravans to Syria and subsequently proposed marriage.",
-        "bn": "মুহাম্মদ ﷺ-এর অনুপম সততা ও বিশ্বস্ততা প্রত্যক্ষ করে তিনি তাঁর সিরিয়াগামী বাণিজ্য কাফেলার দায়িত্ব দেন এবং পরবর্তীতে নিজেই বিয়ের প্রস্তাব পাঠান।",
+        "en": "He witnessed every major battle alongside Prophet Muhammad, including Badr, Uhud, and the Trench, standing as an unyielding pillar of moral integrity and religious discipline.",
+        "bn": "তিনি বদর, ওহুদ এবং খন্দকসহ মহানবীর প্রতিটি ঐতিহাসিক যুদ্ধে বীরত্বের সাথে অংশ নিয়েছিলেন এবং চারিত্রিক সততা ও ধর্মীয় শৃঙ্খলার এক অটল স্তম্ভ হিসেবে সুপরিচিত ছিলেন।",
         "words": [
           {
-            "en": "Recognizing his honesty",
-            "bn": "তাঁর সততা দেখে"
+            "en": "witnessed every major battle",
+            "bn": "প্রতিটি বড় যুদ্ধে উপস্থিত ছিলেন"
           },
           {
-            "en": "entrusted him with trade caravans",
-            "bn": "বাণিজ্য কাফেলার দায়িত্ব দিলেন"
+            "en": "unyielding pillar",
+            "bn": "অটল ও সুদৃঢ় স্তম্ভ"
           },
           {
-            "en": "proposed marriage",
-            "bn": "বিয়ের প্রস্তাব পাঠালেন"
+            "en": "moral integrity",
+            "bn": "নৈতিক সততা ও নিষ্ঠা"
+          },
+          {
+            "en": "religious discipline",
+            "bn": "ধর্মীয় অনুশাসন ও শৃঙ্খলা"
+          },
+          {
+            "en": "Badr and Uhud",
+            "bn": "বদর ও ওহুদের যুদ্ধ"
           }
         ]
       },
       {
-        "en": "When the first revelation shook the Prophet in the Cave of Hira, Khadijah was the very first person on earth to believe in him without a second of doubt.",
-        "bn": "হেরা গুহায় প্রথম ওহীর প্রচণ্ড ভারে নবীজি যখন কেঁপে উঠেছিলেন, তখন খাদিজা ছিলেন পৃথিবীর সর্বপ্রথম মানুষ যিনি এক মুহূর্তের দ্বিধা ছাড়াই তাঁর ওপর ঈমান আনলেন।",
+        "en": "During the conquest of Egypt under Amr ibn al-As, when the Roman viceroy demanded to negotiate, Ubadah was dispatched as chief envoy; his tall black stature and imposing dignity initially terrified the Roman court before his eloquence commanded their profound respect.",
+        "bn": "মিশর অভিযানের সময় রোমান শাসক আলোচনার দাবি জানালে আমর ইবনুল আস উবাদাহকে প্রধান দূত হিসেবে পাঠান; তাঁর দীর্ঘকায় কৃষ্ণাঙ্গ অবয়ব ও রাজকীয় গাম্ভীর্য প্রথমে রোমান দরবারকে স্তব্ধ করে দেয় এবং পরবর্তীতে তাঁর জ্ঞানগর্ভ ভাষণ তাদের মুগ্ধ করে।",
         "words": [
           {
-            "en": "When revelation shook the Prophet",
-            "bn": "যখন ওহী নবীজিকে আলোড়িত করল"
+            "en": "conquest of Egypt",
+            "bn": "মিশর বিজয়"
           },
           {
-            "en": "very first person on earth",
-            "bn": "পৃথিবীর সর্বপ্রথম ব্যক্তি"
+            "en": "Roman viceroy",
+            "bn": "রোমান ভাইসরয় বা প্রতিনিধি"
           },
           {
-            "en": "to believe in him",
-            "bn": "তাঁর ওপর ঈমান আনার"
+            "en": "imposing dignity",
+            "bn": "প্রভাবশালী ব্যক্তিত্ব ও আত্মমর্যাদা"
           },
           {
-            "en": "without doubt",
-            "bn": "বিন্দুমাত্র সংশয় ছাড়া"
+            "en": "terrified Roman court",
+            "bn": "রোমান দরবারকে ভয়ার্ত করল"
+          },
+          {
+            "en": "commanded respect",
+            "bn": "সম্মান ও শ্রদ্ধা আদায় করে নিল"
           }
         ]
       },
       {
-        "en": "She spent her entire fortune to shelter persecuted believers, buy the freedom of tortured slaves, and finance the early message of Islam.",
-        "bn": "নির্যাতিত মুসলমানদের আশ্রয় দিতে, অসহায় দাসদের মুক্ত করতে এবং ইসলামের প্রচারের জন্য তিনি তাঁর সমগ্র অগাধ ধনভাণ্ডার অকাতরে বিলিয়ে দিলেন।",
+        "en": "Caliph Umar dispatched him to Syria alongside Mu'adh ibn Jabal to teach the Quran and establish a judicial system, appointing Ubadah as the first supreme judge of Palestine residing in Bayt al-Maqdis.",
+        "bn": "খলিফা উমর কোরআন শিক্ষা ও বিচারব্যবস্থা প্রতিষ্ঠার জন্য মুয়াজ ইবনে জাবালের সাথে তাঁকে সিরিয়ায় পাঠান এবং বায়তুল মুকাদ্দাসে অবস্থানকারী ফিলিস্তিনের প্রথম প্রধান বিচারপতি হিসেবে উবাদাহকে নিয়োগ দেন।",
         "words": [
           {
-            "en": "Spent her entire fortune",
-            "bn": "নিজের সমস্ত সম্পদ ব্যয় করলেন"
+            "en": "dispatched to Syria",
+            "bn": "সিরিয়ায় প্রেরণ করলেন"
           },
           {
-            "en": "to shelter believers",
-            "bn": "মুমিনদের আশ্রয় দিতে"
+            "en": "teach the Quran",
+            "bn": "কোরআনের পাঠদান করা"
           },
           {
-            "en": "buy freedom of slaves",
-            "bn": "দাসদের মুক্তি ক্রয় করতে"
+            "en": "judicial system",
+            "bn": "আইন ও বিচারব্যবস্থা"
           },
           {
-            "en": "finance the early message",
-            "bn": "প্রাথমিক ইসলামের বাণীকে এগিয়ে নিতে"
+            "en": "supreme judge of Palestine",
+            "bn": "ফিলিস্তিনের প্রধান বিচারপতি"
+          },
+          {
+            "en": "Bayt al-Maqdis",
+            "bn": "বায়তুল মুকাদ্দাস বা জেরুজালেম"
           }
         ]
       },
       {
-        "en": "During the three agonizing years of boycott in Shi'b Abi Talib, she endured starvation alongside the Muslims despite her elderly years.",
-        "bn": "শে'বে আবি তালিবে তিন বছরের অমানবিক সামাজিক বয়কটের সময় বার্ধক্যে উপনীত হওয়া সত্ত্বেও তিনি মুসলিমদের সাথে না খেয়ে অনাহারে দিন কাটালেন।",
+        "en": "In Palestine, Ubadah fearlessly confronted Governor Mu'awiyah over financial transactions that violated Islamic prohibitions against usury, declaring that he would never remain in a land where the Sunnah of Muhammad was compromised.",
+        "bn": "ফিলিস্তিনে সুদের নিষেধাজ্ঞা অমান্যকারী আর্থিক লেনদেনের বিষয়ে তিনি গভর্নর মুয়াবিয়ার মুখের ওপর প্রতিবাদ করেন এবং ঘোষণা করেন যে নবীজির সুন্নাত ক্ষুণ্ণ হয় এমন দেশে তিনি এক মুহূর্তও থাকবেন না।",
         "words": [
           {
-            "en": "During three years of boycott",
-            "bn": "তিন বছরের বয়কটকালে"
+            "en": "fearlessly confronted governor",
+            "bn": "নির্ভয়ে গভর্নরের মুখোমুখি হলেন"
           },
           {
-            "en": "in Shib Abi Talib",
-            "bn": "শে'বে আবি তালিবে"
+            "en": "financial transactions",
+            "bn": "আর্থিক লেনদেনসমূহ"
           },
           {
-            "en": "endured starvation",
-            "bn": "অনাহার সহ্য করলেন"
+            "en": "prohibitions against usury (Riba)",
+            "bn": "সুদের কঠোর নিষেধাজ্ঞা"
           },
           {
-            "en": "alongside Muslims",
-            "bn": "মুসলমানদের পাশাপাশি"
+            "en": "Sunnah compromised",
+            "bn": "সুন্নাহর অবমাননা বা লঙ্ঘন"
+          },
+          {
+            "en": "uncompromising stance",
+            "bn": "আপসহীন কঠোর অবস্থান"
           }
         ]
       },
       {
-        "en": "Angel Jibril brought greetings of peace directly from Almighty Allah to Khadijah, promising her a palace of pearls in Paradise where there is neither noise nor fatigue.",
-        "bn": "ফেরেশতা জিব্রাইল (আ.) স্বয়ং মহান আল্লাহর পক্ষ থেকে খাদিজাকে সালাম পৌঁছালেন এবং জান্নাতে মুক্তাখচিত এক সুরম্য প্রাসাদের সুসংবাদ দিলেন যেখানে কোনো ক্লান্তি বা কোলাহল থাকবে না।",
+        "en": "Umar fully backed Ubadah's judicial authority, writing to Mu'awiyah: 'You have no authority over Ubadah; obey his judicial verdicts,' cementing his reputation as an incorruptible arbiter of truth.",
+        "bn": "খলিফা উমর উবাদাহর বিচারিক ক্ষমতাকে পুরোপুরি সমর্থন করে মুয়াবিয়াকে চিঠি লিখলেন: 'উবাদাহর ওপর তোমার কোনো কর্তৃত্ব নেই; তার রায় মেনে চলো'; এর মাধ্যমে তিনি একজন সৎ ও নির্ভীক বিচারপতি হিসেবে চিরস্মরণীয় হন।",
         "words": [
           {
-            "en": "Angel Jibril brought peace",
-            "bn": "ফেরেশতা জিব্রাইল সালাম নিয়ে এলেন"
+            "en": "fully backed authority",
+            "bn": "কর্তৃত্ব পুরোপুরি সমর্থন করলেন"
           },
           {
-            "en": "directly from Allah",
-            "bn": "সরাসরি আল্লাহর পক্ষ থেকে"
+            "en": "no authority over him",
+            "bn": "তার ওপর তোমার কোনো হুকুম চলবে না"
           },
           {
-            "en": "promising a palace of pearls",
-            "bn": "মুক্তার প্রাসাদের সুসংবাদ দিয়ে"
+            "en": "obey judicial verdicts",
+            "bn": "তার বিচারিক রায় মান্য করো"
           },
           {
-            "en": "neither noise nor fatigue",
-            "bn": "যেখানে কোনো কষ্ট বা ক্লান্তি নেই"
-          }
-        ]
-      },
-      {
-        "en": "Years after her passing, the Prophet remembered her with tears, declaring: 'She believed in me when people rejected me, and supported me when people deprived me.'",
-        "bn": "তাঁর ইন্তেকালের বহু বছর পরেও নবীজি অশ্রুসজল নয়নে বলতেন: 'তিনি তখন আমার প্রতি ঈমান এনেছিলেন যখন মানুষ আমাকে তাড়িয়ে দিয়েছিল, এবং তিনি আমাকে তখন সাহায্য করেছিলেন যখন সবাই আমাকে বঞ্চিত করেছিল।'",
-        "words": [
-          {
-            "en": "Years after her passing",
-            "bn": "তাঁর ইন্তেকালের বহু বছর পর"
+            "en": "incorruptible arbiter",
+            "bn": "দুর্নীতিমুক্ত ও আপসহীন বিচারক"
           },
           {
-            "en": "the Prophet remembered her with tears",
-            "bn": "নবীজি অশ্রুসজল চোখে স্মরণ করতেন"
-          },
-          {
-            "en": "She believed when people rejected me",
-            "bn": "তিনি বিশ্বাস করলেন যখন মানুষ আমাকে অস্বীকার করল"
+            "en": "reputation",
+            "bn": "খ্যাতি ও সম্মান"
           }
         ]
       }
     ]
   },
   {
-    "id": "companion-aisha-scholarship",
-    "title": "Aisha bint Abi Bakr: The Mother of Believers and Great Scholar",
-    "titleBn": "উম্মুল মুমিনীন হযরত আয়েশা (রা.)-এর ইলম ও পাণ্ডিত্য",
-    "author": "Authentic Hadith (Sahih Bukhari & Muslim)",
+    "id": "companion-hudhayfah-yaman",
+    "title": "Hudhayfah ibn al-Yaman: The Keeper of the Prophet's Secrets",
+    "titleBn": "হুযাইফাহ ইবনুল ইয়ামান (রা.): মহানবীর গোপন তথ্যের একমাত্র রক্ষক",
+    "author": "Ibn Kathir, Sahih al-Bukhari & Siyar A'lam an-Nubala",
     "level": "Intermediate",
-    "levelColor": "cyan",
+    "levelColor": "emerald",
     "category": "Noble Companions",
-    "coverEmoji": "📚",
-    "summary": "Endowed with an extraordinary memory and profound intellect, Aisha narrates over 2,200 traditions, serving as the foremost jurist and theological authority for the Companions.",
-    "summaryBn": "অনন্য মেধা ও তীক্ষ্ণ প্রজ্ঞার অধিকারিণী উম্মুল মুমিনীন আয়েশা (রা.)-এর দুই হাজার দুই শতাধিক হাদিস বর্ণনা এবং সাহাবিদের যাবতীয় জটিল ফতোয়ার নির্ভুল সমাধান দেওয়ার ইতিহাস।",
+    "coverEmoji": "🤫",
+    "summary": "Gifted with exceptional psychological insight and discretion, Hudhayfah was entrusted by Prophet Muhammad with the secret list of all hypocrites in Madinah; he performed the legendary solo reconnaissance mission behind enemy lines during the freezing gale of the Battle of the Trench.",
+    "summaryBn": "তীক্ষ্ণ অন্তর্দৃষ্টি ও গোপনীয়তা রক্ষার বিরল গুণের কারণে হুযাইফাহ (রা.) ছিলেন মহানবীর একমাত্র সাহাবী যাঁর কাছে মদিনার সমস্ত মুনাফিকদের গোপন তালিকা গচ্ছিত ছিল; খন্দকের যুদ্ধের হাড়কাঁপানো শীতের রাতে তিনি একাকী শত্রুব্যূহে ঢুকে শীর্ষস্থানীয় গোয়েন্দা তথ্য নিয়ে এসেছিলেন।",
     "sentences": [
       {
-        "en": "Aisha bint Abi Bakr was endowed with an extraordinarily brilliant intellect, sharp eloquence, and an astonishing photographic memory.",
-        "bn": "উম্মুল মুমিনীন হযরত আয়েশা (রা.) অসাধারণ তীক্ষ্ণ মেধা, অনন্য বাগ্মিতা এবং বিস্ময়কর স্মৃতিশক্তির অধিকারী ছিলেন।",
+        "en": "Hudhayfah ibn al-Yaman was renowned among the companions for his razor-sharp analytical mind, discretion, and deep understanding of human psychological hypocrisy.",
+        "bn": "সাহাবীদের মাঝে হুযাইফাহ ইবনুল ইয়ামান তাঁর ক্ষুরধার বিশ্লেষণধর্মী মেধা, পরম গোপনীয়তা রক্ষা এবং মানুষের কপট মনের মনস্তাত্ত্বিক রূপ চেনার অসাধারণ ক্ষমতার জন্য বিখ্যাত ছিলেন।",
         "words": [
           {
-            "en": "Aisha was endowed with",
-            "bn": "আয়েশা ধন্য হয়েছিলেন"
+            "en": "analytical mind",
+            "bn": "বিশ্লেষণধর্মী প্রখর মেধা"
           },
           {
-            "en": "brilliant intellect",
-            "bn": "মেধাবী প্রজ্ঞা"
+            "en": "discretion",
+            "bn": "গোপনীয়তা রক্ষা ও বিচক্ষণতা"
           },
           {
-            "en": "sharp eloquence",
-            "bn": "তীক্ষ্ণ বাগ্মিতা"
+            "en": "psychological hypocrisy",
+            "bn": "মুনাফিকি বা কপটতার রূপ"
           },
           {
-            "en": "astonishing memory",
-            "bn": "বিস্ময়কর স্মৃতিশক্তি"
+            "en": "renowned among companions",
+            "bn": "সাহাবীদের মাঝে খ্যাতনামা"
+          },
+          {
+            "en": "insight",
+            "bn": "গভীর অন্তর্দৃষ্টি"
           }
         ]
       },
       {
-        "en": "Growing up in the Prophet's household, she observed and memorized the daily practices, rulings, and inner wisdom of the Messenger of Allah.",
-        "bn": "নবীজি ﷺ-এর পবিত্র ঘরে বড় হয়ে তিনি রাসুলুল্লাহর দৈনন্দিন আমল, সুন্নাহ এবং গভীর ঐশী প্রজ্ঞা প্রত্যক্ষ ও মুখস্থ করেছিলেন।",
+        "en": "He famously remarked: 'People used to ask the Messenger of Allah about the good, but I used to ask him about evil, fearing that it might overtake me.'",
+        "bn": "তিনি বলেছিলেন: 'লোকেরা আল্লাহর রাসূলকে কল্যাণের বিষয়ে জিজ্ঞাসা করত, কিন্তু আমি তাঁকে মন্দের বিষয়ে জিজ্ঞাসা করতাম, এই ভয়ে পাছে অনিষ্ট ও পাপ আমাকে গ্রাস করে ফেলে।'",
         "words": [
           {
-            "en": "Growing up in Prophet's home",
-            "bn": "নবীজির ঘরে জীবনযাপন করে"
+            "en": "asked about the good",
+            "bn": "কল্যাণের বিষয়ে প্রশ্ন করত"
           },
           {
-            "en": "observed and memorized",
-            "bn": "প্রত্যক্ষ ও মুখস্থ করলেন"
+            "en": "asked about evil",
+            "bn": "অনিষ্ট বা মন্দের বিষয়ে জানতে চাইতাম"
           },
           {
-            "en": "daily practices and rulings",
-            "bn": "দৈনন্দিন আমল ও বিধানসমূহ"
+            "en": "fearing it might overtake me",
+            "bn": "এই ভয়ে যাতে তা আমাকে গ্রাস না করে"
+          },
+          {
+            "en": "discerning questions",
+            "bn": "সূক্ষ্ম ও দূরদর্শী প্রশ্নাবলী"
+          },
+          {
+            "en": "spiritual caution",
+            "bn": "আত্মিক সতর্কতা"
           }
         ]
       },
       {
-        "en": "She narrated over 2,210 authentic hadiths, providing humanity with unmatched insight into the Prophet's family life and personal worship.",
-        "bn": "তিনি ২,২১০টিরও বেশি বিশুদ্ধ হাদিস বর্ণনা করেন, যা নবীজির পারিবারিক জীবন ও ব্যক্তিগত ইবাদতের নিখুঁত দিকনির্দেশনা উম্মতকে দান করে।",
+        "en": "Prophet Muhammad entrusted him alone with the confidential names of all the hypocrites (Munafiqin) operating in Madinah, earning Hudhayfah the unique title Sahib Sirr Rasulillah (Keeper of the Prophet's Secret).",
+        "bn": "মহানবী (সা.) সমগ্র উম্মাহর মধ্যে একমাত্র হুযাইফাহর কাছে মদিনার সমস্ত মুনাফিকদের গোপন নামগুলো প্রকাশ করেছিলেন; এজন্য তিনি 'সাহিবু সিররি রাসূলিল্লাহ' (মহানবীর গোপন তথ্যের সংরক্ষক) উপাধিতে ভূষিত হন।",
         "words": [
           {
-            "en": "Narrated over 2,210 hadiths",
-            "bn": "২২১০টির বেশি হাদিস বর্ণনা করলেন"
+            "en": "confidential names",
+            "bn": "গোপন ও স্পর্শকাতর নামসমূহ"
           },
           {
-            "en": "providing unmatched insight",
-            "bn": "অতুলনীয় আলো দান করে"
+            "en": "hypocrites (Munafiqin)",
+            "bn": "মুনাফিক বা কপট দল"
           },
           {
-            "en": "into family life",
-            "bn": "পারিবারিক জীবনের মাঝে"
+            "en": "Keeper of the Secret",
+            "bn": "গোপন তথ্যের একমাত্র অভিভাবক"
+          },
+          {
+            "en": "entrusted him alone",
+            "bn": "একমাত্র তাঁর ওপর বিশ্বাস রেখেছিলেন"
+          },
+          {
+            "en": "unique title",
+            "bn": "অনন্য ও বিরল উপাধি"
           }
         ]
       },
       {
-        "en": "Senior Companions, including Abu Bakr and Umar, routinely consulted Aisha whenever a perplexing legal or inheritance dilemma arose.",
-        "bn": "আবু বকর ও উমর (রা.)-এর মতো প্রবীণ সাহাবিরাও যেকোনো জটিল আইনি ও উত্তরাধিকার সমস্যার সম্মুখীন হলে আয়েশার পরামর্শ নিতেন।",
+        "en": "Even the formidable Caliph Umar would inquire cautiously whether Hudhayfah noticed any trace of hypocrisy in his own conduct, refusing to attend the funeral prayer of any deceased person unless Hudhayfah prayed over them.",
+        "bn": "এমনকি প্রতাপশালী খলিফা উমরও অত্যন্ত বিনীতভাবে জানতে চাইতেন যে হুযাইফাহ তাঁর নিজের চরিত্রে মুনাফিকির কোনো লক্ষণ দেখছেন কি না; আর কোনো মৃত ব্যক্তির জানাজায় হুযাইফাহ অংশ না নিলে উমরও সেই জানাজায় যেতেন না।",
         "words": [
           {
-            "en": "Senior Companions consulted Aisha",
-            "bn": "প্রবীণ সাহাবিরা আয়েশার পরামর্শ নিতেন"
+            "en": "formidable Caliph Umar",
+            "bn": "প্রতাপশালী খলিফা উমর (রা.)"
           },
           {
-            "en": "whenever a dilemma arose",
-            "bn": "যখনই কোনো জটিল সংকট দেখা দিত"
+            "en": "inquire cautiously",
+            "bn": "সতর্কভাবে জিজ্ঞাসা করতেন"
           },
           {
-            "en": "legal or inheritance",
-            "bn": "আইনি বা উত্তরাধিকার সংক্রান্ত"
+            "en": "trace of hypocrisy",
+            "bn": "মুনাফিকির সামান্যতম লক্ষণ"
+          },
+          {
+            "en": "funeral prayer",
+            "bn": "জানাযার নামাজ"
+          },
+          {
+            "en": "refusing to attend",
+            "bn": "উপস্থিত হতে অস্বীকৃতি জানানো"
           }
         ]
       },
       {
-        "en": "Abu Musa al-Ash'ari testified: 'Whenever we Companions were confused by any hadith, we asked Aisha and always found knowledge regarding it with her.'",
-        "bn": "আবু মূসা আল-আশআরী (রা.) সাক্ষ্য দিয়েছেন: 'আমরা সাহাবিরা কোনো হাদিস নিয়ে সংশয়ে পড়লেই আয়েশার কাছে যেতাম এবং তাঁর কাছে তার স্পষ্ট সমাধান পেতাম।'",
+        "en": "At the Battle of the Trench, during a freezing, pitch-black night where violent gales extinguished all fires, Prophet Muhammad selected Hudhayfah to infiltrate the enemy camp of Abu Sufyan entirely alone to gather intelligence.",
+        "bn": "খন্দকের যুদ্ধে হাড়কাঁপানো কনকনে শীত ও নিকষ কালো রাতে যখন প্রবল ঘূর্ণিঝড়ে সব আগুন নিভে গিয়েছিল, তখন মহানবী শত্রুশিবিরে ঢুকে গোয়েন্দা তথ্য সংগ্রহের জন্য সম্পূর্ণ একাকী হুযাইফাহকে প্রেরণ করেন।",
         "words": [
           {
-            "en": "Abu Musa testified",
-            "bn": "আবু মূসা সাক্ষ্য দিলেন"
+            "en": "Battle of the Trench",
+            "bn": "খন্দকের যুদ্ধ"
           },
           {
-            "en": "Whenever we were confused",
-            "bn": "যখনই আমরা সংশয়ে পড়তাম"
+            "en": "pitch-black night",
+            "bn": "নিকষ কালো ও অন্ধকার রাত"
           },
           {
-            "en": "we asked Aisha",
-            "bn": "আমরা আয়েশাকে জিজ্ঞেস করতাম"
+            "en": "violent gales extinguished fires",
+            "bn": "প্রচণ্ড বাতাস সব আগুন নিভিয়ে দিল"
           },
           {
-            "en": "always found knowledge with her",
-            "bn": "সর্বদা তাঁর কাছে জ্ঞান পেতাম"
+            "en": "infiltrate enemy camp",
+            "bn": "শত্রুর তাঁবুতে গোপনে অনুপ্রবেশ করা"
+          },
+          {
+            "en": "gather intelligence",
+            "bn": "জরুরি তথ্য ও গোয়েন্দা খবর সংগ্রহ"
           }
         ]
       },
       {
-        "en": "She was also a master of Arabic poetry, medicine, and genealogy, teaching male and female students from behind a protective curtain.",
-        "bn": "তিনি আরবি সাহিত্য, চিকিৎসাশাস্ত্র ও বংশতালিকায় পারদর্শী ছিলেন এবং পর্দার আড়াল থেকে অগুনতি ছাত্র-ছাত্রীদের ইলম শিক্ষা দিতেন।",
+        "en": "Slipping into the enemy ranks undetected, Hudhayfah sat close enough to Abu Sufyan to hear his secret evacuation orders, resisting the temptation to assassinate him in obedience to the Prophet's explicit command not to provoke hostilities.",
+        "bn": "শত্রুর ব্যূহে অলক্ষ্যে ঢুকে তিনি আবু সুফিয়ানের এত কাছে গিয়ে বসলেন যে তাঁর যুদ্ধের ময়দান ত্যাগের গোপন নির্দেশ শুনতে পেলেন; তবে কোনো সংঘাত না বাঁধাতে নবীজির কঠোর নির্দেশের প্রতি আনুগত্য দেখিয়ে তিনি তাঁকে হত্যা করা থেকে বিরত রইলেন।",
         "words": [
           {
-            "en": "Master of Arabic poetry and medicine",
-            "bn": "আরবি কবিতা ও চিকিৎসাশাস্ত্রে পারদর্শী"
+            "en": "undetected",
+            "bn": "ধরা না পড়ে বা অলক্ষ্যে"
           },
           {
-            "en": "teaching students",
-            "bn": "শিক্ষার্থীদের পাঠদান করতেন"
+            "en": "sat close to enemy general",
+            "bn": "শত্রু সেনাপতির অতি নিকটে বসলেন"
           },
           {
-            "en": "from behind a curtain",
-            "bn": "পর্দার আড়াল থেকে"
-          }
-        ]
-      },
-      {
-        "en": "Her immense legacy established Muslim women as foremost theological and academic leaders of human civilization.",
-        "bn": "তাঁর এই মহান পাণ্ডিত্য বিশ্ব সভ্যতায় মুসলিম নারীদের দ্বীনী ও অ্যাকাডেমিক নেতৃত্বের শীর্ষস্থানে সুপ্রতিষ্ঠিত করেছে।",
-        "words": [
-          {
-            "en": "Her immense legacy",
-            "bn": "তাঁর সুমহান অবদান"
+            "en": "secret evacuation orders",
+            "bn": "ময়দান ছেড়ে পালানোর গোপন আদেশ"
           },
           {
-            "en": "established Muslim women",
-            "bn": "মুসলিম নারীদের প্রতিষ্ঠিত করল"
+            "en": "resisted temptation",
+            "bn": "হত্যা করার প্রলোভন দমন করলেন"
           },
           {
-            "en": "as theological leaders",
-            "bn": "ধর্মতাত্ত্বিক নেতৃস্থানীয় হিসেবে"
+            "en": "strict obedience",
+            "bn": "কঠোর ও নিখুঁত আনুগত্য"
           }
         ]
       }
     ]
   },
   {
-    "id": "companion-fatimah-dignity",
-    "title": "Fatimah az-Zahra: The Leader of the Women of Paradise",
-    "titleBn": "জান্নাতী নারীদের নেত্রী হযরত ফাতিমাতুজ জাহরা (রা.)",
-    "author": "Authentic Hadith (Sahih Bukhari & Tirmidhi)",
+    "id": "companion-abu-ayyub-host",
+    "title": "Abu Ayyub al-Ansari: The Gracious Host of the Messenger in Madinah",
+    "titleBn": "আবু আইয়ুব আল-আনসারী (রা.): মহানবীর মেহমানদার ও কনস্টান্টিনোপলের বীর",
+    "author": "Ibn Kathir, Siyar A'lam an-Nubala & Tabari",
     "level": "Intermediate",
-    "levelColor": "amber",
+    "levelColor": "emerald",
     "category": "Noble Companions",
-    "coverEmoji": "🌸",
-    "summary": "The beloved youngest daughter of the Prophet, Fatimah shielded her father from pagan harassment as a girl, lived a life of rigorous simplicity, and was crowned leader of all women in Paradise.",
-    "summaryBn": "শৈশবে কাফেরদের নিক্ষেপ করা নাড়িভুঁড়ি পরিষ্কার করে পিতাকে আগলে রাখা, চাকা ঘুরিয়ে আটা পিষে হাত ফোস্কা পড়া এবং জান্নাতের নারীদের সর্দারিনী ফাতিমা (রা.)-এর ত্যাগ।",
+    "coverEmoji": "🏡",
+    "summary": "When Prophet Muhammad entered Madinah, his camel knelt outside the modest two-story home of Abu Ayyub, granting him the unmatched privilege of hosting the Messenger for seven months; continuing to fight in military expeditions into extreme old age, he was buried beneath the ramparts of Constantinople.",
+    "summaryBn": "মদিনায় মহানবীর আগমনের পর তাঁর উটটি অলৌকিকভাবে আবু আইয়ুব আল-আনসারী (রা.)-এর দোতলা সাধারণ বাড়ির সামনে হাঁটু গেড়ে বসে, যার ফলে তিনি টানা সাত মাস মহানবীর মেহমানদারির বিরল সৌভাগ্য লাভ করেন; নব্বই বছর বয়সেও জিহাদে অংশ নিয়ে তিনি বাইজেন্টাইন রাজধানী কনস্টান্টিনোপলের প্রাচীরের নিচে সমাহিত হন।",
     "sentences": [
       {
-        "en": "Fatimah was the youngest and most cherished daughter of Prophet Muhammad ﷺ, resembling him closely in speech, gait, and mannerisms.",
-        "bn": "হযরত ফাতিমা (রা.) ছিলেন রাসুলুল্লাহ ﷺ-এর কনিষ্ঠা ও সর্বাধিক আদরের কন্যা, যাঁর কথা, হাঁটাচলা ও স্বভাব হুবহু নবীজির মতোই ছিল।",
+        "en": "Khalid ibn Zayd—universally honored as Abu Ayyub al-Ansari—was a devoted companion of the Banu Najjar clan who embraced Islam during the Second Pledge of Aqabah.",
+        "bn": "খালিদ ইবনে যায়েদ—যিনি আবু আইয়ুব আল-আনসারী নামে বিশ্বখ্যাত—ছিলেন মদিনার বনু নাজ্জার গোত্রের এক নিষ্ঠাবান সাহাবী, যিনি দ্বিতীয় আকাবার শপথে ইসলাম গ্রহণ করেছিলেন।",
         "words": [
           {
-            "en": "Fatimah was the cherished daughter",
-            "bn": "ফাতিমা ছিলেন প্রিয়তমা কন্যা"
+            "en": "Banu Najjar clan",
+            "bn": "বনু নাজ্জার গোত্র"
           },
           {
-            "en": "resembling him closely",
-            "bn": "তাঁর সাথে হুবহু সাদৃশ্যপূর্ণ"
+            "en": "Second Pledge of Aqabah",
+            "bn": "আকাবার দ্বিতীয় ঐতিহাসিক শপথ"
           },
           {
-            "en": "in speech gait and mannerisms",
-            "bn": "কথা, চলাফেরা ও চরিত্রে"
+            "en": "Abu Ayyub al-Ansari",
+            "bn": "আবু আইয়ুব আল-আনসারী"
+          },
+          {
+            "en": "devoted companion",
+            "bn": "একনিষ্ঠ ও উৎসর্গীকৃত সাহাবী"
+          },
+          {
+            "en": "embraced Islam",
+            "bn": "ইসলাম গ্রহণ করেছিলেন"
           }
         ]
       },
       {
-        "en": "As a young girl in Makkah, when pagan chieftains placed a camel's filthy entrails upon the Prophet's back while prostrating at the Kaaba, little Fatimah rushed weeping to remove it.",
-        "bn": "মক্কায় কিশোরী বয়সে যখন কাফেররা কাবার চত্বরে সিজদারত নবীজির পিঠের ওপর উটের নাড়িভুঁড়ি চাপিয়ে দিল, তখন ছোট্ট ফাতিমা কাঁদতে কাঁদতে এসে তা সরিয়ে দিলেন।",
+        "en": "When Prophet Muhammad entered Madinah, every household pleaded for the honor of hosting him, but the Prophet instructed them to let his camel walk freely, declaring: 'Let her go, for she is divinely guided.'",
+        "bn": "মদিনায় মহানবীর ঐতিহাসিক আগমনের পর প্রতিটি পরিবার নবীজিকে মেহমান হিসেবে পাওয়ার জন্য আকুল আবেদন জানাল; কিন্তু নবীজি তাঁর উটটিকে মুক্ত ছেড়ে দিতে বলে ঘোষণা করলেন: 'তাকে পথ চলতে দাও, কেননা সে আল্লাহর কুদরতে নির্দেশিত।'",
         "words": [
           {
-            "en": "Pagan chieftains placed camel entrails",
-            "bn": "মুশরিক সর্দাররা উটের নাড়িভুঁড়ি চাপাল"
+            "en": "honor of hosting",
+            "bn": "মেহমানদারির দুর্লভ সম্মান"
           },
           {
-            "en": "upon the Prophet's back",
-            "bn": "নবীজির পিঠের ওপর"
+            "en": "let camel walk freely",
+            "bn": "উটটিকে মুক্তভাবে চলতে দেওয়া"
           },
           {
-            "en": "while prostrating at Kaaba",
-            "bn": "কাবায় সিজদারত অবস্থায়"
+            "en": "divinely guided",
+            "bn": "আল্লাহর পক্ষ থেকে পরিচালিত বা নির্দেশিত"
           },
           {
-            "en": "little Fatimah rushed weeping",
-            "bn": "ছোট্ট ফাতিমা কাঁদতে কাঁদতে ছুটে এলেন"
+            "en": "entered Madinah",
+            "bn": "মদিনায় শুভ পদার্পণ করলেন"
           },
           {
-            "en": "to remove it",
-            "bn": "তা সরিয়ে দেওয়ার জন্য"
+            "en": "every household pleaded",
+            "bn": "প্রতিটি পরিবার ব্যাকুল আরজি জানাল"
           }
         ]
       },
       {
-        "en": "Married to Ali ibn Abi Talib, she ground grain with a stone mill until her hands developed painful calluses, carrying heavy water skins that bruised her chest.",
-        "bn": "হযরত আলী (রা.)-এর সাথে বিয়ের পর তিনি জাঁতাকল ঘুরিয়ে আটা পিষতেন যাতে হাতে ফোস্কা পড়ে যেত, আর ভারি পানির পাত্র টেনে বুকে দাগ পড়ে যেত।",
+        "en": "The camel knelt down in front of Abu Ayyub's humble two-story dwelling; overwhelmed with joy, Abu Ayyub hoisted the Prophet's saddlebags upon his shoulders and carried them inside his home.",
+        "bn": "উটটি আবু আইয়ুবের ছোট্ট দোতলা মাটির ঘরের সামনে এসে হাঁটু গেড়ে বসল; আনন্দে উদ্বেলিত হয়ে আবু আইয়ুব নবীজির মালপত্র নিজের কাঁধে তুলে নিয়ে পরম শ্রদ্ধায় নিজ ঘরে প্রবেশ করালেন।",
         "words": [
           {
-            "en": "Married to Ali",
-            "bn": "আলীর সাথে বিবাহিত হয়ে"
+            "en": "camel knelt down",
+            "bn": "উটটি হাঁটু গেড়ে বসে পড়ল"
           },
           {
-            "en": "she ground grain with a stone mill",
-            "bn": "তিনি পাথরের জাঁতায় আটা পিষতেন"
+            "en": "humble two-story dwelling",
+            "bn": "ছোট্ট ও সাদাসিধে দোতলা ঘর"
           },
           {
-            "en": "hands developed calluses",
-            "bn": "হাতে ফোস্কা পড়ে যেত"
+            "en": "overwhelmed with joy",
+            "bn": "আনন্দে উদ্বেলিত ও অভিভূত"
           },
           {
-            "en": "carrying heavy water skins",
-            "bn": "ভারী পানির মশকের বোঝা টেনে"
+            "en": "hoisted saddlebags",
+            "bn": "মালপত্র কাঁধে তুলে নিলেন"
+          },
+          {
+            "en": "carried inside",
+            "bn": "ঘরের ভেতরে নিয়ে গেলেন"
           }
         ]
       },
       {
-        "en": "When she asked the Prophet for a servant, he instead taught her the golden Tasbih: thirty-three Subhanallah, thirty-three Alhamdulillah, and thirty-four Allahu Akbar before sleeping.",
-        "bn": "ক্লান্ত হয়ে তিনি যখন খাদেম চাইলেন, নবীজি তাঁকে তাসবীহ-ই-ফাতিমি শিখিয়ে দিলেন: ঘুমানোর আগে ৩৩ বার সুবহানাল্লাহ, ৩৩ বার আলহামদুলিল্লাহ এবং ৩৪ বার আল্লাহু আকবার।",
+        "en": "Prophet Muhammad resided as Abu Ayyub's guest for seven months while the Prophet's Mosque and permanent quarters were constructed, enjoying the family's selfless hospitality.",
+        "bn": "মসজিদে নববী এবং নবীজির স্থায়ী হুজরাখানা নির্মিত না হওয়া পর্যন্ত টানা সাতটি মাস মহানবী আবু আইয়ুবের ঘরে মেহমান হিসেবে অবস্থান করলেন এবং তাঁদের নিঃস্বার্থ মেহমানদারি গ্রহণ করলেন।",
         "words": [
           {
-            "en": "Asked for a servant",
-            "bn": "একজন খাদেম চাইলেন"
+            "en": "resided as guest",
+            "bn": "মেহমান হিসেবে বসবাস করলেন"
           },
           {
-            "en": "taught her golden Tasbih",
-            "bn": "তাঁকে মর্যাদাপূর্ণ তাসবীহ শেখালেন"
+            "en": "seven months",
+            "bn": "টানা সাতটি মাস"
           },
           {
-            "en": "Subhanallah Alhamdulillah Allahu Akbar",
-            "bn": "সুবহানাল্লাহ, আলহামদুলিল্লাহ, আল্লাহু আকবার"
+            "en": "permanent quarters",
+            "bn": "স্থায়ী বাসস্থান বা হুজরা"
+          },
+          {
+            "en": "selfless hospitality",
+            "bn": "নিঃস্বার্থ আতিথেয়তা ও মেহমানদারি"
+          },
+          {
+            "en": "Mosque constructed",
+            "bn": "মসজিদ নির্মিত হচ্ছিল"
           }
         ]
       },
       {
-        "en": "The Prophet declared: 'Fatimah is a part of me; whoever pleases her pleases me, and whoever angers her angers me.'",
-        "bn": "নবীজি ঘোষণা করলেন: 'ফাতিমা আমারই দেহের একটি টুকরো; যে তাকে খুশি করল সে আমাকেই খুশি করল, আর যে তাকে অসন্তুষ্ট করল সে আমাকেই কষ্ট দিল।'",
+        "en": "So reverent were Abu Ayyub and his wife that when an earthen water jug broke on the upper floor, they frantically absorbed the water with their only woolen blanket to prevent a single drop from leaking onto the Prophet below.",
+        "bn": "নবীজির প্রতি আবু আইয়ুব ও তাঁর স্ত্রীর শ্রদ্ধা এত প্রগাঢ় ছিল যে দোতলায় মাটির পানির কলস ভেঙে গেলে এক ফোঁটা পানিও যেন নিচে নবীজির গায়ে না পড়ে সেজন্য তাঁরা নিজেদের একমাত্র শীতের কম্বল দিয়ে মেঝেতে পানি মুছে ফেললেন।",
         "words": [
           {
-            "en": "Fatimah is a part of me",
-            "bn": "ফাতিমা আমারই একটি অংশ"
+            "en": "earthen water jug broke",
+            "bn": "মাটির পানির কলস ভেঙে গেল"
           },
           {
-            "en": "whoever pleases her pleases me",
-            "bn": "যে তাকে সন্তুষ্ট করল সে আমাকে সন্তুষ্ট করল"
+            "en": "frantically absorbed water",
+            "bn": "আতঙ্কিত হয়ে দ্রুত পানি শুষে নিলেন"
           },
           {
-            "en": "whoever angers her angers me",
-            "bn": "যে তাকে কষ্ট দিল সে আমাকে কষ্ট দিল"
+            "en": "only woolen blanket",
+            "bn": "একমাত্র পশমি চাদর বা কম্বল"
+          },
+          {
+            "en": "prevent single drop from leaking",
+            "bn": "এক ফোঁটা পানিও যেন নিচে না পড়ে"
+          },
+          {
+            "en": "reverent devotion",
+            "bn": "শ্রদ্ধাপূর্ণ নিখাদ ভালোবাসা"
           }
         ]
       },
       {
-        "en": "On his deathbed, the Prophet whispered to her that she would be the leader of all women in Paradise, making her smile through her tears.",
-        "bn": "মৃত্যুশয্যায় নবীজি তাঁর কানে কানে সুসংবাদ দিলেন যে তিনিই হবেন জান্নাতের সমস্ত নারীদের নেত্রী, যা শুনে তিনি অশ্রুর মাঝেও মুচকি হেসে উঠলেন।",
+        "en": "Even at the advanced age of eighty, driven by the prophetic hadith praising the army that would conquer Constantinople, Abu Ayyub joined the naval expedition against the Byzantine capital.",
+        "bn": "কনস্টান্টিনোপল বিজয়ী মুসলিম বাহিনীকে প্রশংসা করে নবীজির হাদিসের বরকত লাভের আশায় প্রায় আশি বছর বয়সেও আবু আইয়ুব রোমানদের রাজধানী অভিমুখে পরিচালিত নৌবাহিনীতে যোগদান করলেন।",
         "words": [
           {
-            "en": "The Prophet whispered to her",
-            "bn": "নবীজি তাঁর কানে কানে বললেন"
+            "en": "advanced age of eighty",
+            "bn": "আশি বছরের চরম বার্ধক্য"
           },
           {
-            "en": "leader of all women in Paradise",
-            "bn": "জান্নাতের সমস্ত নারীদের সর্দারিনী"
+            "en": "hadith praising army",
+            "bn": "বাহিনীর প্রশংসা করে হাদিস"
           },
           {
-            "en": "making her smile through tears",
-            "bn": "অশ্রুর মাঝেও তাঁকে হাসিয়ে দিয়ে"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "id": "companion-asma-belts",
-    "title": "Asma bint Abi Bakr: The Woman of the Two Belts",
-    "titleBn": "হযরত আসমা বিনতে আবু বকর (রা.): হিজরতের বীর নারী",
-    "author": "Authentic Hadith (Sahih Bukhari)",
-    "level": "Intermediate",
-    "levelColor": "rose",
-    "category": "Noble Companions",
-    "coverEmoji": "🏔️",
-    "summary": "Splitting her waistband in two to secure provisions for the Prophet and her father in the Cave of Thawr, Asma endures Abu Jahl's slap and safeguards the secret of the Hijrah.",
-    "summaryBn": "সাওর গুহায় অবস্থানরত নবীজি ও পিতার জন্য খাদ্যসামগ্রী বাঁধতে নিজের কোমরের ফিতা কেটে দুই টুকরো করা এবং আবু জাহেলের চড় খেয়েও হিজরতের রহস্য গোপন রাখার বীরত্ব।",
-    "sentences": [
-      {
-        "en": "Asma bint Abi Bakr, older sister of Aisha, played an indispensable role during the secret preparations for the Prophet's Hijrah.",
-        "bn": "হযরত আবু বকরের জ্যেষ্ঠ কন্যা এবং আয়েশার বড় বোন আসমা (রা.) হিজরতের গোপন প্রস্তুতির সময়ে এক ঐতিহাসিক দায়িত্ব পালন করেছিলেন।",
-        "words": [
-          {
-            "en": "Asma bint Abi Bakr",
-            "bn": "আসমা বিনতে আবু বকর"
+            "en": "conquer Constantinople",
+            "bn": "কনস্টান্টিনোপল বা ইস্তাম্বুল জয় করা"
           },
           {
-            "en": "played an indispensable role",
-            "bn": "এক অপরিহার্য ভূমিকা পালন করলেন"
+            "en": "naval expedition",
+            "bn": "নৌ অভিযান"
           },
           {
-            "en": "during secret preparations",
-            "bn": "গোপন প্রস্তুতির সময়ে"
-          },
-          {
-            "en": "for the Hijrah",
-            "bn": "ঐতিহাসিক হিজরতের জন্য"
+            "en": "Byzantine capital",
+            "bn": "বাইজেন্টাইন সাম্রাজ্যের রাজধানী"
           }
         ]
       },
       {
-        "en": "When food was packed for the journey, they found no cord to tie the leather bag, so Asma untied her waistband and tore it into two strips.",
-        "bn": "সফরের পাথেয় প্রস্তুত করার পর পাত্রের মুখ বাঁধার কোনো রশি পাওয়া না গেলে আসমা নিজের কোমরের ফিতাটি খুলে দুই টুকরো করে ছিঁড়ে নিলেন।",
+        "en": "Falling mortally ill during the siege, his dying request was: 'Bury me at the furthest point inside enemy territory beneath the walls of Constantinople,' where his historic tomb stands honored as Eyup Sultan to this day.",
+        "bn": "অবরোধ চলাকালে অসুস্থ হয়ে মৃত্যুর মুখে তিনি শেষ অসিহত করে যান: 'আমাকে শত্রুর দেশের শেষ সীমানায় কনস্টান্টিনোপলের প্রাচীরের নিচে সমাহিত করো'; যেখানে আজও 'আইয়ুব সুলতান' নামে তাঁর ঐতিহাসিক রওজা মোবারক পরম শ্রদ্ধার সাথে সংরক্ষিত আছে।",
         "words": [
           {
-            "en": "When food was packed",
-            "bn": "যখন খাবার প্রস্তুত করা হলো"
+            "en": "mortally ill during siege",
+            "bn": "অবরোধ চলাকালে মুমূর্ষু অবস্থায় অসুস্থ"
           },
           {
-            "en": "found no cord to tie",
-            "bn": "বাঁধার কোনো রশি পেল না"
+            "en": "dying request",
+            "bn": "মৃত্যুকালীন শেষ অসিহত"
           },
           {
-            "en": "Asma tore her waistband",
-            "bn": "আসমা নিজের কোমরবন্ধ ছিঁড়লেন"
+            "en": "furthest point inside enemy territory",
+            "bn": "শত্রুর দেশের গভীরতম সীমানায়"
           },
           {
-            "en": "into two strips",
-            "bn": "দুটি ফিতায়"
-          }
-        ]
-      },
-      {
-        "en": "The Prophet smiled and declared: 'May Allah replace your belt with two belts in Paradise!' earning her the eternal title Dhat an-Nitaqayn (She of the Two Belts).",
-        "bn": "নবীজি হাসলেন এবং দোয়া করলেন: 'আল্লাহ জান্নাতে তোমার এই ফিতার বদলে দুটি রত্নখচিত কোমরবন্ধ দান করবেন!' আর তিনি 'যাতুন নিতাক্বাইন' খেতাব পেলেন।",
-        "words": [
-          {
-            "en": "The Prophet smiled and declared",
-            "bn": "নবীজি হেসে বললেন"
+            "en": "walls of Constantinople",
+            "bn": "কনস্টান্টিনোপলের প্রাচীরের পাদদেশে"
           },
           {
-            "en": "replace your belt in Paradise",
-            "bn": "জান্নাতে তোমার ফিতা বদলে দেবেন"
-          },
-          {
-            "en": "Dhat an-Nitaqayn",
-            "bn": "যাতুন নিতাক্বাইন"
-          },
-          {
-            "en": "She of the Two Belts",
-            "bn": "দুই ফিতাওয়ালী নারী"
-          }
-        ]
-      },
-      {
-        "en": "Every night, while pagan trackers hunted the desert, brave pregnant Asma climbed the steep, jagged rocks of Mount Thawr to deliver warm food.",
-        "bn": "প্রতি রাতে যখন কাফেরদের সন্ধানীরা পাহারা দিত, তখন গর্ভবতী আসমা একা সাওর পাহাড়ের খাড়া ও পিচ্ছিল পাথর বেয়ে উঠে নবীজিকে খাবার পৌঁছে দিতেন।",
-        "words": [
-          {
-            "en": "Every night Asma climbed",
-            "bn": "প্রতি রাতে আসমা আরোহণ করতেন"
-          },
-          {
-            "en": "Mount Thawr",
-            "bn": "সাওর পাহাড়ে"
-          },
-          {
-            "en": "to deliver warm food",
-            "bn": "গরম খাবার পৌঁছে দিতে"
-          }
-        ]
-      },
-      {
-        "en": "When furious Abu Jahl burst into her house demanding the whereabouts of her father, Asma stood silent, refusing to betray the secret even when struck across the face.",
-        "bn": "ক্ষিপ্ত আবু জাহেল ঘরে ঢুকে পিতার অবস্থান জানতে চেয়ে চড় মারলেও আসমা অটল রইলেন এবং হিজরতের রহস্য বিন্দুমাত্র প্রকাশ করলেন না।",
-        "words": [
-          {
-            "en": "Abu Jahl demanded whereabouts",
-            "bn": "আবু জাহেল সন্ধান চাইল"
-          },
-          {
-            "en": "Asma stood silent",
-            "bn": "আসমা নীরব রইলেন"
-          },
-          {
-            "en": "refusing to betray the secret",
-            "bn": "রহস্য ফাঁস করতে অস্বীকার করলেন"
-          },
-          {
-            "en": "even when struck",
-            "bn": "মুখে চড় খাওয়ার পরেও"
-          }
-        ]
-      },
-      {
-        "en": "She lived to be over a hundred years old without losing a single tooth or her sharp wit, inspiring generations of Muslim women with her steadfast courage.",
-        "bn": "তিনি একশত বছরেরও বেশি বয়স পর্যন্ত বেঁচে ছিলেন, তাঁর একটি দাঁতও পড়েনি এবং স্মৃতিশক্তি অটুট ছিল; তিনি সাহসিকতার চিরন্তন অনুপ্রেরণা হয়ে রইলেন।",
-        "words": [
-          {
-            "en": "Lived over a hundred years",
-            "bn": "একশ বছরের বেশি বেঁচে ছিলেন"
-          },
-          {
-            "en": "without losing a tooth",
-            "bn": "একটি দাঁতও না হারিয়ে"
-          },
-          {
-            "en": "inspiring generations",
-            "bn": "প্রজন্মের পর প্রজন্মকে প্রেরণা জুগিয়ে"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "id": "companion-sumayyah-first-martyr",
-    "title": "Sumayyah: The First Courageous Martyr of Islam",
-    "titleBn": "ইসলামের প্রথম নারী শহীদ হযরত সুমাইয়া (রা.)",
-    "author": "Classical Seerah (Ibn Ishaq & Tabaqat Ibn Sa'd)",
-    "level": "Intermediate",
-    "levelColor": "rose",
-    "category": "Noble Companions",
-    "coverEmoji": "🩸",
-    "summary": "Tortured ruthlessly in the burning sands of Makkah by Abu Jahl, elderly Sumayyah refuses to blaspheme, giving her life as the first martyr in the history of Islam.",
-    "summaryBn": "মরুভূমির উত্তপ্ত বালুর ওপর আবু জাহেলের অমানুষিক নির্যাতনের মুখেও এক আল্লাহর তাওহিদের ওপর অবিচল থেকে ইসলামের ইতিহাসের প্রথম শহীদ হওয়ার মহান আত্মত্যাগ।",
-    "sentences": [
-      {
-        "en": "Sumayyah bint Khayyat, an elderly freedwoman, was among the very first seven individuals in human history to accept the message of Islam.",
-        "bn": "হযরত সুমাইয়া বিনতে খাইয়াত (রা.) ছিলেন ইসলামের ইতিহাসের সর্বপ্রথম সাতজন সৌভাগ্যবান মুসলিমদের একজন।",
-        "words": [
-          {
-            "en": "Sumayyah was among first seven",
-            "bn": "সুমাইয়া প্রথম সাতজনের একজন ছিলেন"
-          },
-          {
-            "en": "to accept Islam",
-            "bn": "ইসলাম গ্রহণকারীদের মাঝে"
-          }
-        ]
-      },
-      {
-        "en": "Because her family had no tribal protection in Makkah, the pagan chieftains dragged her, her husband Yasir, and son Ammar into the scorching desert.",
-        "bn": "মক্কায় তাঁদের গোত্রীয় কোনো নিরাপত্তা না থাকায় মুশরিকরা সুমাইয়া, তাঁর স্বামী ইয়াসির এবং পুত্র আম্মারকে জ্বলন্ত মরুভূমিতে টেনে নিয়ে গেল।",
-        "words": [
-          {
-            "en": "Dragged into scorching desert",
-            "bn": "উত্তপ্ত মরুভূমিতে টেনে নিয়ে গেল"
-          },
-          {
-            "en": "husband Yasir and son Ammar",
-            "bn": "স্বামী ইয়াসির ও পুত্র আম্মারকে"
-          }
-        ]
-      },
-      {
-        "en": "They forced them into heavy iron chainmail under the blazing sun, denying them water and beating them mercilessly.",
-        "bn": "তারা প্রখর রোদের নিচে তাদের ভারী লোহার বর্ম পরিয়ে রাখত, তৃষ্ণায় পানি দিত না এবং অমানুষিক প্রহার করত।",
-        "words": [
-          {
-            "en": "Forced into iron chainmail",
-            "bn": "লোহার বর্ম পরিয়ে বাধ্য করল"
-          },
-          {
-            "en": "under the blazing sun",
-            "bn": "প্রখর রোদের নিচে"
-          },
-          {
-            "en": "beating them mercilessly",
-            "bn": "নির্মমভাবে মারধর করে"
-          }
-        ]
-      },
-      {
-        "en": "Passing by the tortured family, the Prophet wept and gave them glad tidings: 'Be patient, O family of Yasir! Indeed, your promised destination is Paradise!'",
-        "bn": "নির্যাতিত পরিবারের পাশ দিয়ে যাওয়ার সময় নবীজি অশ্রুসজল নয়নে সুসংবাদ দিলেন: 'ধৈর্য ধরো, হে ইয়াসিরের পরিবার! নিশ্চয়ই তোমাদের প্রতিশ্রুত মিলনস্থল হলো জান্নাত!'",
-        "words": [
-          {
-            "en": "The Prophet gave glad tidings",
-            "bn": "নবীজি সুসংবাদ দিলেন"
-          },
-          {
-            "en": "Be patient O family of Yasir",
-            "bn": "ধৈর্য ধরো হে ইয়াসিরের পরিবার"
-          },
-          {
-            "en": "your destination is Paradise",
-            "bn": "তোমাদের ঠিকানা হলো জান্নাত"
-          }
-        ]
-      },
-      {
-        "en": "The ruthless Abu Jahl demanded that elderly Sumayyah insult Muhammad ﷺ or praise their stone idols, but she spat at him in fearless defiance.",
-        "bn": "নিষ্ঠুর আবু জাহেল বৃদ্ধা সুমাইয়াকে নবীজিকে গালি দিতে ও মূর্তির প্রশংসা করতে বলল, কিন্তু তিনি নির্ভীক সাহসে তাকে প্রত্যাখ্যান করলেন।",
-        "words": [
-          {
-            "en": "Abu Jahl demanded",
-            "bn": "আবু জাহেল দাবি করল"
-          },
-          {
-            "en": "insult Muhammad",
-            "bn": "মুহাম্মদকে গালি দিতে"
-          },
-          {
-            "en": "she spat in defiance",
-            "bn": "তিনি সাহসের সাথে প্রত্যাখ্যান করলেন"
-          }
-        ]
-      },
-      {
-        "en": "Enraged by her unbending faith, Abu Jahl thrust his spear into her, making Sumayyah the first martyr in the history of Islam.",
-        "bn": "তাঁর এই অটল ঈমানে ক্ষিপ্ত হয়ে আবু জাহেল বর্শা দিয়ে আঘাত করে তাঁকে হত্যা করল, আর সুমাইয়া হলেন ইসলামের ইতিহাসের সর্বপ্রথম শহীদ।",
-        "words": [
-          {
-            "en": "Enraged by her faith",
-            "bn": "তাঁর ঈমানে ক্ষিপ্ত হয়ে"
-          },
-          {
-            "en": "thrust his spear into her",
-            "bn": "নিজের বর্শা তাঁর দেহে বিদ্ধ করল"
-          },
-          {
-            "en": "making Sumayyah the first martyr",
-            "bn": "সুমাইয়াকে প্রথম শহীদ বানিয়ে দিয়ে"
-          }
-        ]
-      },
-      {
-        "en": "Her glorious sacrifice proved that faith in the One True God transcends physical frailty and overcomes worldly brutality.",
-        "bn": "তাঁর এই মহান শাহাদাত প্রমাণ করে দিল যে আল্লাহর প্রতি ঈমান শারীরিক দুর্বলতার ঊর্ধ্বে উঠে যেকোনো নিষ্ঠুরতাকে চিরতরে পরাজিত করে।",
-        "words": [
-          {
-            "en": "Her glorious sacrifice proved",
-            "bn": "তাঁর মহান আত্মত্যাগ প্রমাণ করল"
-          },
-          {
-            "en": "faith in One God",
-            "bn": "এক আল্লাহর প্রতি ঈমান"
-          },
-          {
-            "en": "overcomes brutality",
-            "bn": "বর্বরতাকে পরাভূত করে"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "id": "companion-suhaib-trade",
-    "title": "Suhaib the Roman: The Profitable Trade for Allah",
-    "titleBn": "হযরত সুহাইব আর-রুমী (রা.): হিজরতে সর্বস্ব ত্যাগের লাভজনক বাণিজ্য",
-    "author": "Classical Seerah & Quranic Exegesis (Surah Al-Baqarah)",
-    "level": "Intermediate",
-    "levelColor": "amber",
-    "category": "Noble Companions",
-    "coverEmoji": "💰",
-    "summary": "Trapped by Quraysh bandits while migrating to Madinah, wealthy Suhaib willingly surrenders his entire lifetime of buried gold to purchase his freedom to join the Prophet.",
-    "summaryBn": "মদিনায় হিজরতের সময় কুরাইশরা পথ রোধ করলে অর্জিত জীবনের সমস্ত সোনা-রূপা শত্রুদের হাতে তুলে দিয়ে শূন্যহাতে নবীজির দরবারে উপস্থিত হওয়া ও 'সুহাইবের ব্যবসা সফল হয়েছে' ঘোষণার ইতিহাস।",
-    "sentences": [
-      {
-        "en": "Suhaib ibn Sinan, captured as a boy by Byzantine soldiers, grew up in Roman territories before arriving in Makkah as an emancipated artisan.",
-        "bn": "শৈশবে রোমানদের হাতে বন্দি হওয়া সুহাইব ইবনে সিনান রোম সাম্রাজ্যে বড় হয়ে পরবর্তীতে মক্কায় মুক্ত কারিগর হিসেবে আসেন।",
-        "words": [
-          {
-            "en": "Captured as a boy",
-            "bn": "বালক বয়সে বন্দি হয়ে"
-          },
-          {
-            "en": "grew up in Roman territories",
-            "bn": "রোম সাম্রাজ্যের সীমানায় বড় হয়ে"
-          },
-          {
-            "en": "arriving in Makkah",
-            "bn": "মক্কায় এসে পৌঁছালেন"
-          }
-        ]
-      },
-      {
-        "en": "Through diligence and skilled craftsmanship, he accumulated substantial fortunes of gold and silver in Makkah.",
-        "bn": "নিজের পরিশ্রম ও অনন্য দক্ষতার মাধ্যমে তিনি মক্কায় বিপুল পরিমাণ সোনা ও রূপার মালিক হলেন।",
-        "words": [
-          {
-            "en": "Through diligence",
-            "bn": "পরিশ্রমের মাধ্যমে"
-          },
-          {
-            "en": "accumulated substantial fortunes",
-            "bn": "বিপুল ধনসম্পদ জমালেন"
-          },
-          {
-            "en": "of gold and silver",
-            "bn": "স্বর্ণ ও রৌপ্যের"
-          }
-        ]
-      },
-      {
-        "en": "When he loaded his camel to migrate to Madinah, armed horsemen of Quraysh pursued and surrounded him in the desert.",
-        "bn": "তিনি যখন হিজরতের উদ্দেশ্যে উটের ওপর মালপত্র তুলে রওনা হলেন, কুরাইশদের একদল সশস্ত্র অশ্বারোহী মরুভূমিতে তাঁর পথ রোধ করল।",
-        "words": [
-          {
-            "en": "When he migrated to Madinah",
-            "bn": "যখন তিনি মদিনায় হিজরত করলেন"
-          },
-          {
-            "en": "armed horsemen pursued him",
-            "bn": "সশস্ত্র অশ্বারোহীরা তাঁকে ধাওয়া করল"
-          },
-          {
-            "en": "surrounded in the desert",
-            "bn": "মরুভূমিতে ঘিরে ফেলল"
-          }
-        ]
-      },
-      {
-        "en": "They shouted: 'You arrived in Makkah as a penniless beggar; do you think we will let you leave with all your wealth? By Allah, you shall never leave!'",
-        "bn": "তারা চিৎকার করে বলল: 'তুই কপর্দকহীন ভিখারী হয়ে মক্কায় এসেছিলি; তুই কি মনে করেছিস সমস্ত সম্পদ নিয়ে চলে যাবি? আল্লাহর শপথ, তা হতে দেওয়া হবে না!'",
-        "words": [
-          {
-            "en": "You arrived as a beggar",
-            "bn": "তুই ভিখারী হয়ে এসেছিলি"
-          },
-          {
-            "en": "leave with all your wealth",
-            "bn": "সমস্ত সম্পদ নিয়ে চলে যাবি"
-          },
-          {
-            "en": "By Allah you shall not leave",
-            "bn": "আল্লাহর কসম তোকে যেতে দেব না"
-          }
-        ]
-      },
-      {
-        "en": "Standing atop a mound with his bow strung, Suhaib asked: 'If I surrender all my buried gold and silver to you, will you let me proceed?'",
-        "bn": "ধনুক হাতে এক টিলার ওপর দাঁড়িয়ে সুহাইব বললেন: 'আমি যদি মক্কায় লুকানো আমার সমস্ত সোনা-রূপা তোমাদের দিয়ে দিই, তবে কি আমাকে যেতে দেবে?'",
-        "words": [
-          {
-            "en": "Standing with bow strung",
-            "bn": "ধনুকে তীর পরিয়ে দাঁড়িয়ে"
-          },
-          {
-            "en": "If I surrender my gold",
-            "bn": "আমি যদি আমার স্বর্ণ সমর্পণ করি"
-          },
-          {
-            "en": "will you let me proceed",
-            "bn": "তোমরা কি আমাকে যেতে দেবে"
-          }
-        ]
-      },
-      {
-        "en": "Greedily agreeing, they took his detailed directions and seized all his riches, while Suhaib walked forward on foot happily toward Madinah.",
-        "bn": "লোভে পড়ে তারা রাজি হলো এবং মক্কার ঠিকানায় গিয়ে তাঁর সমস্ত ধনসম্পদ লুটে নিল, আর সুহাইব নিঃস্ব হলেও আনন্দভরা অন্তরে পায়ে হেঁটে মদিনার পথে চললেন।",
-        "words": [
-          {
-            "en": "Greedily agreeing",
-            "bn": "লোভভরে রাজি হয়ে"
-          },
-          {
-            "en": "seized all his riches",
-            "bn": "তাঁর সমস্ত ধন কেড়ে নিল"
-          },
-          {
-            "en": "walked forward happily",
-            "bn": "আনন্দে এগিয়ে চললেন"
-          }
-        ]
-      },
-      {
-        "en": "When he arrived in Quba, the Prophet saw him coming and rejoiced, proclaiming: 'The trade has been profitable, O Abu Yahya! The trade has been profitable!'",
-        "bn": "তিনি যখন কুবায় পৌঁছালেন, রাসুলুল্লাহ ﷺ তাঁকে দেখে আনন্দে ঘোষণা করলেন: 'হে আবু ইয়াহইয়া! তোমার ব্যবসা লাভজনক হয়েছে! তোমার বাণিজ্য সফল হয়েছে!'",
-        "words": [
-          {
-            "en": "When he arrived in Quba",
-            "bn": "তিনি যখন কুবায় পৌঁছালেন"
-          },
-          {
-            "en": "the Prophet rejoiced",
-            "bn": "নবীজি আনন্দিত হলেন"
-          },
-          {
-            "en": "The trade has been profitable",
-            "bn": "ব্যবসা লাভজনক হয়েছে"
-          },
-          {
-            "en": "O Abu Yahya",
-            "bn": "হে আবু ইয়াহইয়া"
-          }
-        ]
-      },
-      {
-        "en": "Allah revealed concerning Suhaib: 'And of the people is he who sells himself, seeking the pleasure of Allah; and Allah is Most Kind to His servants.'",
-        "bn": "সুহাইবের শানে আল্লাহ পবিত্র কুরআনে আয়াত অবতীর্ণ করলেন: 'আর মানুষের মধ্যে এমনও ব্যক্তি আছে যে আল্লাহর সন্তুষ্টির জন্য নিজেকে উৎসর্গ করে; আর আল্লাহ তাঁর বান্দাদের প্রতি পরম দয়ার্দ্র।'",
-        "words": [
-          {
-            "en": "Allah revealed concerning him",
-            "bn": "আল্লাহ তাঁর ব্যাপারে নাযিল করলেন"
-          },
-          {
-            "en": "he who sells himself",
-            "bn": "যে নিজেকে বিক্রি করে দেয়"
-          },
-          {
-            "en": "seeking the pleasure of Allah",
-            "bn": "আল্লাহর সন্তুষ্টির অন্বেষণে"
-          },
-          {
-            "en": "Allah is Most Kind",
-            "bn": "আল্লাহ পরম দয়ালু"
+            "en": "Eyup Sultan",
+            "bn": "ইস্তাম্বুলের বিখ্যাত আইয়ুব সুলতান মাকবারা"
           }
         ]
       }
