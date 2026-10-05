@@ -1,4 +1,4 @@
-const CACHE_NAME = 'storylingo-v1';
+const CACHE_NAME = 'storylingo-v2';
 const ASSETS_TO_CACHE = [
   './',
   './index.html',
