@@ -1,47 +1,57 @@
 The Farewell Sermon (Arabic: خطبة الوداع, Khuṭbatu l-Wadāʿ ) also known as Muhammad's Final Sermon or the Last Sermon, is a religious speech delivered by the Islamic prophet Muhammad on Friday the 9th of Dhu al-Hijjah, 10 AH (6 March 632) in the Uranah valley of Mount Arafat during the Islamic pilgrimage of Hajj.
-
 Imam Bukhari refers to the sermon and quotes part of it in his Sahih al-Bukhari. Part of it is also present in Sahih Muslim and Sunan Abu Dawood. Verse 5:3, "Today I have perfected for you your religion," is believed to have been recited during the address as the capstone verse of the Quran.
-
 Various versions of the sermon have been published, including several English translations. The sermon consists of a series of general exhortations for Muslims to follow the teachings that Allah had set forth in the Quran and Muhammad in his Sunnah.
 
+
+== Narrations in hadith literature ==
 In a hadith included in the Sahih Muslim, Sunan Abi Dawood, and Sunan Ibn Majah, Jabir ibn Abd Allah narrated details of Muhammad's pilgrimage and reported the following words of his sermon:
+
+
+=== Sahih Muslim   Book 15, Hadith 159 ===
 
 Ja'far b. Muhammad reported on the authority of his father:
 
 We went to Jabir b. Abdullah and he began inquiring about the people (who had gone to see him) till it was my turn. I said: I am Muhammad b. 'Ali b. Husain. [...] I said to him: Tell me about the Hajj of Allah's Messenger (May peace be upon him). And he pointed with his hand nine, and then stated:
-
 [...] The Messenger of Allah [...] came to the bottom of the valley, and addressed the people saying:
-
 Verily your blood, your property are as sacred and inviolable as the sacredness of this day of yours, in this month of yours, in this town of yours. Behold! Everything pertaining to the Days of Ignorance is under my feet completely abolished. Abolished are also the blood-revenges of the Days of Ignorance. The first claim of ours on blood-revenge which I abolish is that of the son of Rabi'a b. al-Harith, who was nursed among the tribe of Sa'd and killed by Hudhail. And the usury of the pre-Islamic period is abolished, and the first of our usury I abolish is that of 'Abbas b. 'Abd al-Muttalib, for it is all abolished. Fear Allah concerning women! Verily you have taken them on the security of Allah, and intercourse with them has been made lawful unto you by words of Allah. You too have right over them, and that they should not allow anyone to sit on your bed whom you do not like. But if they do that, you can chastise them but not severely. Their rights upon you are that you should provide them with food and clothing in a fitting manner. I have left among you the Book of Allah, and if you hold fast to it, you would never go astray. And you would be asked about me (on the Day of Resurrection), (now tell me) what would you say? They (the audience) said: We will bear witness that you have conveyed (the message), discharged (the ministry of Prophethood) and given wise (sincere) counsel. He (the narrator) said: He (the Holy Prophet) then raised his forefinger towards the sky and pointing it at the people (said): "O Allah, be witness. O Allah, be witness," saying it thrice.
 
+
+=== Sunan al-Tirmidhi   Vol. 1, Book 7, Hadith 1163 ===
+Sulaiman bin Amr bin Al-Ahwas said:
 My father narrated to me that he witnessed the farewell Hajj with the Messenger of Allah. So he thanked and praised Allah and he reminded and gave admonition. He mentioned a story in his narration and he (the Prophet) said: “And indeed I order you to be good to the women, for they are but captives with you over whom you have no power than that, except if they come with manifest Fahishah (lewd behavior). If they do that, then abandon their beds and beat them with a beating that is not harmful. And if they obey you then you have no cause against them. Indeed you have rights over your women, and your women have rights over you. As for your rights over your women, then they must not allow anyone whom you dislike to treat on your bedding (furniture), nor to admit anyone in your home that you dislike. And their rights over you are that you treat them well in clothing them and feeding them.
 
+
+=== Sunan ibn Maja   Vol. 3, Book 9, Hadith 1851 ===
+It was narrated that:
+Sulaiman bin Amr bin Ahwas said:
 “My father told me that he was present on the Farewell pilgrimage with the Messenger of Allah. He praised and glorified Allah, and reminder and exhorted (the people). Then he said: 'I enjoin good treatment of women, for they are prisoners with you, and you have no right to treat them otherwise, unless they commit clear indecency. If they do that, then forsake them in their beds and hit them, but without causing injury or leaving a mark. If they obey you, then do not seek means of annoyance against them. You have rights over your women and your women have rights over you. Your rights over your women are that they are not to allow anyone whom you dislike on treat on your bedding (furniture), not allow anyone whom you dislike to enter your houses. And their right over you are that should treat them kindly with regard to their clothing and food.
 
+
+== Report by Al-Jahiz ==
 Al-Jahiz in the Kitāb al-Bayān wa-al-Tabyīn presents the following text of the Farewell Sermon, also mentioned in Musnad of Imam Ahmad (hadith no. 19774) as translated and annotated by Nuh Ha Mim Keller:
 
 All praise is Allah’s. We praise Him, seek His help, ask His forgiveness, and we repent unto Him. We seek refuge in Allah from the evils of our selves and our bad actions. Whomever Allah guides none can lead astray, and whomever He leads astray has no one to guide him. I testify that there is no god but Allah alone, without any partner, and I testify that Muhammad is his slave and messenger. I enjoin you, O servants of Allah, to be godfearing towards Allah, I urge you to obey Him, and I begin with that which is best.
-
 To commence: O people, hear me well: I explain to you. For I do not know; I may well not meet you again in this place where I now stand, after this year of mine.
-
 O people: your lives and your property, until the very day you meet your Lord, are as inviolable to each other as the inviolability of this day you are now in, and the month you are now in. Have I given the message?—O Allah, be my witness. So let whoever has been given something for safekeeping give it back to him who gave him it.
-
 Truly, the usury of the Era of Ignorance has been laid aside forever, and the first usury I begin with is that which is due to my father’s brother ‘Abbas ibn ‘Abd al-Muttalib. And truly the blood-vengeance of the Era of Ignorance has been laid aside forever, and the first blood-vengeance we shall start with is that which is due for the blood of [my kinsman] ‘Amir ibn Rabi‘a ibn Harith ibn ‘Abd al-Muttalib. Truly, the hereditary distinctions that were pretensions to respect in the Era of Ignorance have been laid aside forever, except for the custodianship of the Kaaba [by Bani ‘Abd al-Dar] and the giving of drink to pilgrims [by al-‘Abbas].
-
 A deliberate murder is subject to retaliation in kind. An accidental death from a deliberate injury means a death resulting from [something not usually used or intended as a deadly weapon such as] a stick or a rock, for which the indemnity is one hundred camels: whoever asks for more is a person of the Era of Ignorance.
-
 O people: the Devil has despaired of ever being worshipped in this land of yours, though he is content to be obeyed in other works of yours, that you deem to be of little importance.
-
 O people: postponing the inviolability of a sacred month [claiming to postpone the prohibition of killing in it to a subsequent month, so as to continue warring despite the sacred month’s having arrived] is a surfeit of unbelief, by which those who disbelieve are led astray, making it lawful one year and unlawful in another, in order to match the number [of months] Allah has made inviolable. Time has verily come full turn, to how it was the day Allah created the heavens and the earth. Four months there are which are inviolable, three in a row and forth by itself: Dhul Qa‘da, Dhul Hijja,  and Muharram; and Rajab, which lies between Jumada and Sha‘ban. Have I given the message?—O Allah, be my witness.
-
 O people: verily you owe your women their rights, and they owe you yours. They may not lay with another men in your beds, let anyone into your houses you do not want without your permission, or commit indecency. If they do, Allah has given you leave to debar them, send them from your beds, or [finally] strike them in a way that does no harm. But if they desist, and obey you, then you must provide for them and clothe them fittingly. The women who live with you are like captives, unable to manage for themselves:  you took them as a trust from Allah, and enjoyed their sex as lawful through a word [legal ruling] from Allah. So fear Allah in respect to women, and concern yourselves with their welfare. Have I given the message?—O Allah, be my witness.
-
 O people, believers are but brothers. No one may take his brother’s property without his full consent. Have I given the message?—O Allah, be my witness. Never go back to being unbelievers, smiting each other’s necks, for verily, I have left among you that which if you take it, you will never stray after me: the Book of Allah. Have I given the message?—O Allah, be my witness.
-
 O people, your Lord is One, and your father is one: all of you are from Adam, and Adam was from the ground. The noblest of you in Allah’s sight is the most godfearing: Arab has no merit over non-Arab other than godfearingness. Have I given the message?—O Allah, be my witness. —At this, they said yes.
-
 He said, Then let whomever is present tell whomever is absent.
-
 O people, Allah has apportioned to every deserving heir his share of the estate, and no deserving heir may accept a special bequest, and no special bequest may exceed a third of the estate. A child’s lineage is that of the [husband who owns the] bed, and adulterers shall be stoned. Whoever claims to be the son of someone besides his father or a bondsman who claims to belong to other than his masters shall bear the curse of Allah and the angels and all men: no deflecting of it or ransom for it shall be accepted from him.
 
 And peace be upon all of you, and the mercy of Allah.
+
+
+== See also ==
+
+Verse of Ikmal al-Din
+Event of Ghadir Khumm
+Farewell Pilgrimage
+Muhammad in Islam
+
+
+== References ==
